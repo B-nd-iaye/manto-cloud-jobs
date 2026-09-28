@@ -52,8 +52,34 @@ Compared `v` field for all 150 ids (150/150 matched, no missing ids either side)
 
 Average ≈ 168s and ≈ $0.29/shard at low effort. Extrapolated to all 73 VR shards: ≈ 3.4 hours of wall time at `--parallel 6`, ≈ $21 total — but this is moot since low effort failed the accuracy bar above.
 
+## 4. Medium-effort test (B_S001, at user's request)
+
+```
+python3 headless.py prompts/verify_reclass_v1.md out_test/vr_medium vr_shards/B_S001.txt --ids --model sonnet --effort medium
+```
+
+- 150/150 records returned in one pass, 226s
+- tokens: in=2, cache_creation=23621, cache_read=0, out=26350 (of which 18732 thinking)
+- cost: $0.357988
+
+### Agreement vs `ref/B_S001.default_effort.jsonl`
+
+- **Agreement: 120/150 = 80.0%** — better than low effort (69.3%) but still below the 85% bar.
+- `U` in reference (1 occurrence) still maps to `P` — fine on that count, but n=1.
+- 30 disagreements, same mix of `S↔P` confusion plus several `P→U` (the model hedges into "unclear" on cases the reference calls `P`), e.g. `P5-B-B0003-001/002/005/013/027/053/056` all ref `P` → medium `U`.
+
+| metric | low (B_S001, warm) | medium (B_S001) |
+|---|---|---|
+| seconds | 157 | 226 |
+| cache-write tokens | 18,351 | 23,621 |
+| cache-read tokens | 5,270 | 0 |
+| output tokens (incl. thinking) | 18,757 (11,326 thinking) | 26,350 (18,732 thinking) |
+| cost (USD) | $0.262 | $0.358 |
+| agreement vs ref | 69.3% | 80.0% |
+
 ## Conclusion
 
 - Headless path works (signed in, `claude -p` functional, JSON output parses, usage logged).
-- **Effort chosen: not yet determined.** Low effort is disqualified by the 69.3% agreement result; Phase 1 should not proceed at `--effort low`. A higher effort (medium or default) needs to be tested before a choice is made and the user gives the go-ahead.
+- **Effort chosen: still not determined.** Neither low (69.3%) nor medium (80.0%) clears the required ≥85% agreement bar on B_S001. Medium is closer and ~37% more expensive/slower than low, but still fails the acceptance criterion as written.
+- Options for the user to weigh before Phase 1: (a) test `--effort high`/default next, (b) relax the acceptance bar given how close medium is and inspect whether the extra disagreements are benign (`P→U` hedging is arguably safer than `P→S`, the low-effort failure mode), or (c) fall back to the subagent path (~5× cost) mentioned in TASK.md.
 - Stopping here per instructions to wait for the user's go before Phase 1.

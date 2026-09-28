@@ -1,0 +1,150 @@
+{"id": "P5-A-B0134-033", "v": "P", "inf": ["subject"], "why": "'He' referring to Umath is not named in quote", "pf": "shatters"}
+{"id": "P5-A-B0134-034", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0134-035", "v": "P", "inf": ["predicate"], "why": "describes self-mutation, no new form named", "pf": "transforms into"}
+{"id": "P5-A-B0134-036", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0134-037", "v": "P", "inf": ["subject", "at_the_command_of"], "why": "'It' referring to Grower is inferred", "pf": "invades / raids"}
+{"id": "P5-A-B0134-038", "v": "P", "inf": ["predicate"], "why": "quote states plan to repair, not active protection", "pf": "aids"}
+{"id": "P5-A-B0134-039", "v": "P", "inf": ["predicate"], "why": "'They' inferred as Octamony; crafts fits explicit maker", "pf": "crafts", "S": ["OCTAMONY OF ANCIENT MINERALS"], "O": ["CRUCIBLE OF IRON"]}
+{"id": "P5-A-B0134-040", "v": "P", "inf": ["purpose_clause"], "why": "quote gives purpose as destroying enemies, not protecting", "pf": "is born from"}
+{"id": "P5-A-B0134-041", "v": "P", "inf": ["from"], "why": "'it' referring to clay jar is a pronoun", "pf": "is born from"}
+{"id": "P5-A-B0134-042", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0134-043", "v": "P", "inf": ["predicate"], "why": "'to be the leaders' is stated purpose not confirmed rule", "pf": "leads"}
+{"id": "P5-A-B0134-044", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0134-045", "v": "P", "inf": ["predicate"], "why": "Decamony is a council/institution, not a cult; founds fits better", "pf": "founds"}
+{"id": "P5-A-B0134-046", "v": "U", "inf": ["subject", "predicate"], "why": "Sun was retrieved by Decamony, not traveling itself", "pf": "brings back", "S": ["DECAMONY"], "O": ["SUN"]}
+{"id": "P5-A-B0134-047", "v": "S", "inf": [], "pf": "is epithet of", "S": ["WORLD MACHINE"], "O": ["MOSTAL"]}
+{"id": "P5-A-B0134-048", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0134-049", "v": "P", "inf": ["predicate"], "why": "'repair' is restorative aid, not protection", "pf": "aids"}
+{"id": "P5-A-B0134-050", "v": "P", "inf": ["predicate"], "why": "explicit maker named; crafts is more precise than generic creation", "pf": "crafts", "S": ["ANCIENT MINERALS"], "O": ["IRON"]}
+{"id": "P5-A-B0134-051", "v": "P", "inf": ["predicate"], "why": "'created' denotes agentive making; conceives fits better than birth", "pf": "conceives", "S": ["MACHINE"], "O": ["OCTAMONY OF ANCIENT MINERALS"]}
+{"id": "P5-A-B0134-052", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0134-053", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0134-054", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0134-055", "v": "P", "inf": ["subject"], "why": "'it' referring to Crucible of Iron is inferred pronoun", "pf": "is synonym of"}
+{"id": "P5-A-B0134-056", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0135-001", "v": "P", "inf": ["predicate"], "why": "'aided' denotes help, not formal service", "pf": "aids"}
+{"id": "P5-A-B0135-002", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0135-003", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0135-004", "v": "P", "inf": ["predicate"], "why": "agent named explicitly; conceives fits creation better", "pf": "conceives", "S": ["THE GOD PROJECT"], "O": ["GBAJI"]}
+{"id": "P5-A-B0135-005", "v": "P", "inf": ["predicate"], "why": "'supporters' denotes aid, not formal service", "pf": "aids"}
+{"id": "P5-A-B0135-006", "v": "P", "inf": ["subject"], "why": "'they' referring to Elves inferred from prior sentence", "pf": "kills"}
+{"id": "P5-A-B0135-007", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0135-008", "v": "P", "inf": ["predicate"], "why": "'warring against' matches a more specific term", "pf": "wages war on"}
+{"id": "P5-A-B0135-009", "v": "P", "inf": ["predicate"], "why": "'saved from destruction' denotes rescue not general protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0135-010", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0135-011", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0135-012", "v": "P", "inf": ["subject"], "why": "agent named as Humans via MOD, not this quote directly", "pf": "conceives", "S": ["HUMANS"], "O": ["MACHINE GOD"]}
+{"id": "P5-A-B0135-013", "v": "P", "inf": ["predicate"], "why": "statement of doctrine fits reveals better; no student named", "pf": "reveals"}
+{"id": "P5-A-B0135-014", "v": "P", "inf": ["subject"], "why": "'his' referring to Chark inferred from context", "pf": "serves"}
+{"id": "P5-A-B0135-015", "v": "P", "inf": ["predicate"], "why": "'seized control' denotes conquest not routine rule", "pf": "conquers"}
+{"id": "P5-A-B0135-016", "v": "P", "inf": ["predicate"], "why": "'purged' denotes conquest/suppression, not mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0135-017", "v": "P", "inf": ["predicate"], "why": "'alliance' matches allies with, not a sworn oath", "pf": "allies with"}
+{"id": "P5-A-B0135-018", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0135-019", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-A-B0135-020", "v": "P", "inf": ["subject"], "why": "'they' referring to Openhandists inferred; 'pledged' implies oath", "pf": "swears oath with"}
+{"id": "P5-A-B0135-021", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0135-022", "v": "P", "inf": ["predicate"], "why": "'subject to' denotes submission not general service", "pf": "submits to"}
+{"id": "P5-A-B0135-023", "v": "P", "inf": ["predicate"], "why": "'practicing a brand of' is looser than formal membership", "pf": "is member of"}
+{"id": "P5-A-B0135-024", "v": "P", "inf": ["predicate"], "why": "'for unusual prices' implies exchange not pure gift", "pf": "bestows"}
+{"id": "P5-A-B0135-025", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0135-026", "v": "P", "inf": ["predicate"], "why": "quote describes composition not an act of creation", "pf": "is born from"}
+{"id": "P5-A-B0135-027", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0135-028", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0135-029", "v": "P", "inf": ["predicate"], "why": "Mostal is a being who dies afterward; kills fits better than shatters", "pf": "kills"}
+{"id": "P5-A-B0135-030", "v": "U", "inf": ["predicate"], "why": "vaporizing into chaos and dying, not a willful descent into the underworld", "pf": "dies"}
+{"id": "P5-A-B0135-031", "v": "P", "inf": ["subject"], "why": "'they' referring to surviving Mostali inferred; conceives fits agentive creation", "pf": "conceives", "S": ["SURVIVING ANCIENT MOSTALI"], "O": ["DWARFS"]}
+{"id": "P5-A-B0135-032", "v": "P", "inf": ["object"], "why": "Mostali not named in this quote segment, inferred from context", "pf": "claims ancestry"}
+{"id": "P5-A-B0135-033", "v": "P", "inf": ["predicate"], "why": "describes potential capacity, not a completed transformation", "pf": "transforms into"}
+{"id": "P5-A-B0135-034", "v": "U", "inf": ["predicate"], "why": "worship direction reversed: deity is worshipped by people", "pf": "is worshipped by", "S": ["MALKION"], "O": ["LOSKALMI"]}
+{"id": "P5-A-B0135-035", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE ONE GOD"], "O": ["MALKION"]}
+{"id": "P5-A-B0135-036", "v": "P", "inf": ["subject"], "why": "'his' referring to Malkion inferred; role looser than formal service", "pf": "serves"}
+{"id": "P5-A-B0135-037", "v": "P", "inf": ["predicate"], "why": "revelations cause the caste system's transformation, not Hrestol's own change", "pf": "causes"}
+{"id": "P5-A-B0135-038", "v": "P", "inf": ["predicate", "object"], "why": "bestowal of a status to children, not alteration of Siglat's own station", "pf": "bestows", "O": ["SOCIAL STATUS OF FARMER"], "IO": ["ALL CHILDREN"]}
+{"id": "P5-A-B0135-039", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0135-040", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0135-041", "v": "P", "inf": ["predicate"], "why": "founder explicitly named (Waertagi); founds fits better than generic emergence", "pf": "founds", "S": ["WAERTAGI"], "O": ["SOG CITY"]}
+{"id": "P5-A-B0135-042", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0135-043", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0135-044", "v": "S", "inf": [], "pf": "is epithet of", "S": ["PROPHET OF THE JOY"], "O": ["HRESTOL"]}
+{"id": "P5-A-B0135-045", "v": "P", "inf": ["subject"], "why": "'holy palace' equated with Cathedral is inferred", "pf": "bestows"}
+{"id": "P5-A-B0135-046", "v": "P", "inf": ["predicate"], "why": "'siege' denotes a raid/attack, more specific than generic fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0135-047", "v": "P", "inf": ["predicate"], "why": "'besieged' denotes a raid/attack", "pf": "invades / raids"}
+{"id": "P5-A-B0135-048", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0135-049", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0135-050", "v": "P", "inf": ["subject"], "why": "'his gaze' referring to King of War is inferred", "pf": "defeats"}
+{"id": "P5-A-B0135-051", "v": "P", "inf": ["predicate"], "why": "'the city fell' denotes conquest, not mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0136-001", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0136-002", "v": "U", "inf": ["predicate"], "why": "worship direction reversed: deity worshipped by people", "pf": "is worshipped by", "S": ["RED MOON"], "O": ["CITIZENS OF SOUTHBANK"]}
+{"id": "P5-A-B0136-003", "v": "P", "inf": ["to"], "why": "'the depopulated city' referring to Eastpoint is inferred from context", "pf": "flees to"}
+{"id": "P5-A-B0136-004", "v": "P", "inf": ["predicate"], "why": "'seized' denotes conquest not routine rule", "pf": "conquers"}
+{"id": "P5-A-B0136-005", "v": "P", "inf": ["predicate"], "why": "'tossed out of' denotes exile/banishment, more specific than defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0136-006", "v": "U", "inf": ["predicate"], "why": "worship direction reversed", "pf": "is worshipped by", "S": ["RED GODDESS"], "O": ["PEOPLE OF EASTPOINT"]}
+{"id": "P5-A-B0136-007", "v": "P", "inf": ["in_on_at"], "why": "exact location Riverjoin not stated in this quote, only 'city square'", "pf": "establishes cult"}
+{"id": "P5-A-B0136-008", "v": "U", "inf": [], "why": "quote states the Kingdom did not exist, no creation event described", "pf": "REJECT"}
+{"id": "P5-A-B0136-009", "v": "P", "inf": ["subject"], "why": "speculative attribution ('doubtless'), could be Queen instead", "pf": "bestows"}
+{"id": "P5-A-B0136-010", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0136-011", "v": "U", "inf": ["predicate"], "why": "worship direction reversed", "pf": "is worshipped by", "S": ["PATRON DEITY, SAINT OR SPIRIT"], "O": ["COMPANIES OF WAR"]}
+{"id": "P5-A-B0136-012", "v": "P", "inf": ["object"], "why": "'Companies of War' as their collective not stated in this quote", "pf": "is member of"}
+{"id": "P5-A-B0136-013", "v": "U", "inf": ["predicate"], "why": "worship direction reversed", "pf": "is worshipped by", "S": ["ONE GOD"], "O": ["LOSKALMI"]}
+{"id": "P5-A-B0136-014", "v": "P", "inf": ["subject"], "why": "'his' referring to One God inferred; role looser than formal service", "pf": "serves"}
+{"id": "P5-A-B0136-015", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0136-016", "v": "P", "inf": ["predicate"], "why": "'Just Society' is a societal institution, not a cult of a deity", "pf": "founds"}
+{"id": "P5-A-B0136-017", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0136-018", "v": "P", "inf": ["predicate"], "why": "'suppressed' a doctrine is closer to confronting an idea than combat", "pf": "challenges"}
+{"id": "P5-A-B0136-019", "v": "S", "inf": [], "pf": "is identified as", "qual": "rationalisation"}
+{"id": "P5-A-B0136-020", "v": "U", "inf": ["predicate"], "why": "worship direction reversed", "pf": "is worshipped by", "S": ["MAKAN"], "O": ["GOD LEARNERS"]}
+{"id": "P5-A-B0136-021", "v": "P", "inf": ["predicate"], "why": "'sought to ensnare' is stated intent, not confirmed completed binding", "pf": "binds"}
+{"id": "P5-A-B0136-022", "v": "P", "inf": ["predicate"], "why": "'dupes of Makan' implies deception, not formal service", "pf": "tricks", "S": ["MAKAN"], "O": ["ROKARI WORSHIPPERS"]}
+{"id": "P5-A-B0136-023", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0136-024", "v": "P", "inf": ["predicate"], "why": "'incarnation of' fits equation/incarnation, not embodying a Rune/element", "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0136-025", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0136-026", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0136-027", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0136-028", "v": "P", "inf": ["subject"], "why": "'they' referring to Rathori is inferred from context", "pf": "teaches"}
+{"id": "P5-A-B0136-029", "v": "P", "inf": ["subject"], "why": "'they' referring to Uncolings is inferred from title", "pf": "is member of"}
+{"id": "P5-A-B0136-030", "v": "P", "inf": ["subject"], "why": "'they' referring to Uncolings is inferred", "pf": "travels"}
+{"id": "P5-A-B0136-031", "v": "S", "inf": [], "pf": "is epithet of", "S": ["GREATEST WARRIOR IN THE WORLD"], "O": ["HARREK THE BERSERK"]}
+{"id": "P5-A-B0136-032", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0136-033", "v": "U", "inf": ["predicate"], "why": "worship direction reversed", "pf": "is worshipped by", "S": ["WHITE BEAR"], "O": ["BEAR PEOPLE"]}
+{"id": "P5-A-B0136-034", "v": "P", "inf": ["predicate"], "why": "'fought to leadership' denotes ascension to rule, not routine ruling", "pf": "accedes to rule"}
+{"id": "P5-A-B0136-035", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0136-036", "v": "P", "inf": ["predicate"], "why": "'settling at' is more specific than generic travel", "pf": "settles at"}
+{"id": "P5-A-B0136-037", "v": "P", "inf": ["predicate"], "why": "'ravaged' denotes a raid/attack, more specific than generic fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0136-038", "v": "P", "inf": ["predicate"], "why": "described as 'normal enemies' generally, not an active fight here", "pf": "hates"}
+{"id": "P5-A-B0136-039", "v": "U", "inf": ["predicate"], "why": "worship direction reversed", "pf": "is worshipped by", "S": ["LODRIL"], "O": ["PIKE UNIT"]}
+{"id": "P5-A-B0136-040", "v": "U", "inf": ["predicate"], "why": "worship direction reversed", "pf": "is worshipped by", "S": ["YELM SAGITTUS"], "O": ["ARCHERY UNIT"]}
+{"id": "P5-A-B0136-041", "v": "P", "inf": ["predicate"], "why": "quote states mere presence/name, not an action of serving", "pf": "serves"}
+{"id": "P5-A-B0136-042", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0136-043", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0136-044", "v": "P", "inf": ["predicate"], "why": "quote presents this as a claim ('claim to have'), not confirmed rule", "pf": "rules"}
+{"id": "P5-A-B0136-045", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0136-046", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0136-047", "v": "P", "inf": ["to"], "why": "destination Ygg's Isles not stated in this quote, only 'arrived'", "pf": "travels"}
+{"id": "P5-A-B0136-048", "v": "P", "inf": ["predicate"], "why": "'came into conflict' matches sustained war better than generic fighting", "pf": "wages war on"}
+{"id": "P5-A-B0137-001", "v": "P", "inf": ["subject"], "why": "'the Loskalmi' subject continues from prior sentence, inferred", "pf": "kills"}
+{"id": "P5-A-B0137-002", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0137-003", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0137-004", "v": "U", "inf": ["predicate"], "why": "worship direction reversed", "pf": "is worshipped by", "S": ["YGG"], "O": ["YGGITES"]}
+{"id": "P5-A-B0137-005", "v": "P", "inf": ["predicate"], "why": "'rules winter and the north wind' describes a divine portfolio, i.e. domain", "pf": "has domain"}
+{"id": "P5-A-B0137-006", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-A-B0137-007", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0137-008", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0137-009", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-A-B0137-010", "v": "P", "inf": ["predicate"], "why": "'rules all regions where trees dominate' describes domain/portfolio not political rule", "pf": "has domain"}
+{"id": "P5-A-B0137-011", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0137-012", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0137-013", "v": "P", "inf": ["predicate"], "why": "'blanketed' denotes physical coverage, not domain/rule", "pf": "has domain"}
+{"id": "P5-A-B0137-014", "v": "S", "inf": [], "pf": "is epithet of", "S": ["GROWER"], "O": ["ALDRYA"]}
+{"id": "P5-A-B0137-015", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0137-016", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0137-017", "v": "P", "inf": ["object", "indirect_object"], "why": "forest name inferred from context; blessing is not a named gift object", "pf": "bestows", "O": [], "IO": ["BALLID FOREST"]}
+{"id": "P5-A-B0137-018", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0137-019", "v": "P", "inf": ["predicate"], "why": "'invoke' specifically matches summoning, not general service", "pf": "summons / invokes"}
+{"id": "P5-A-B0137-020", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0137-021", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0137-022", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0137-023", "v": "P", "inf": ["predicate"], "why": "'covered the whole world' denotes wide presence, not political rule", "pf": "dwells at"}
+{"id": "P5-A-B0137-024", "v": "P", "inf": ["object"], "why": "the razing targets her forests, not Aldrya herself directly", "pf": "invades / raids"}
+{"id": "P5-A-B0137-025", "v": "P", "inf": ["predicate"], "why": "described as ongoing foes/enmity, not a specific battle event", "pf": "hates"}
+{"id": "P5-A-B0137-026", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0137-027", "v": "P", "inf": ["predicate"], "why": "'were settled' denotes settling at a location, more specific than generic travel", "pf": "settles at"}

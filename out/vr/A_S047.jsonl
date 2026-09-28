@@ -1,0 +1,150 @@
+{"id": "P5-A-B0146-052", "v": "U", "inf": ["predicate"], "why": "quote shows mourning loss of god, not departing from a divine entity", "pf": "mourns", "O": ["THEIR GOD"]}
+{"id": "P5-A-B0146-053", "v": "P", "inf": ["subject"], "why": "God Learners as revealer of mysteries is inferred, not stated explicitly", "pf": "reveals"}
+{"id": "P5-A-B0146-054", "v": "P", "inf": ["subject"], "why": "'They' inferred to be People whom God Forgot from context", "pf": "crafts", "S": ["PEOPLE WHOM GOD FORGOT"], "O": ["MACHINE CITY"]}
+{"id": "P5-A-B0146-055", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0146-056", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0146-057", "v": "P", "inf": ["predicate"], "why": "'broke the bank' is idiomatic gambling win, not military defeat", "pf": "defeats"}
+{"id": "P5-A-B0146-058", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0146-059", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0146-060", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0146-061", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0146-062", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0146-063", "v": "P", "inf": ["direct_object"], "why": "Rightarm Islands not named in this quote, inferred from context", "pf": "rules"}
+{"id": "P5-A-B0146-064", "v": "U", "inf": [], "why": "worship direction reversed: deity is worshipped by worshippers", "pf": "is worshipped by", "S": ["CHORALINTHOR", "MAGASTA"], "O": ["RIGHTARM ISLANDERS"]}
+{"id": "P5-A-B0146-065", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0146-066", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0146-067", "v": "U", "inf": [], "why": "worship direction reversed: deities are worshipped by islanders", "pf": "is worshipped by", "S": ["GOLOD", "DIROS", "PELASKOS"], "O": ["RIGHTARM ISLANDERS"]}
+{"id": "P5-A-B0146-068", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0146-069", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0146-070", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0146-071", "v": "P", "inf": ["predicate"], "why": "quote shows coercion to make mesa, not general service relation", "pf": "submits to"}
+{"id": "P5-A-B0146-072", "v": "P", "inf": ["subject"], "why": "Caladra is named maker, restoring agent per craft predicate", "pf": "crafts", "S": ["CALADRA"], "O": ["CITY OF BLACK GLASS"]}
+{"id": "P5-A-B0146-073", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0146-074", "v": "P", "inf": ["direct_object"], "why": "Lead Hills name not present in this quote segment", "pf": "survives as relic"}
+{"id": "P5-A-B0146-075", "v": "P", "inf": ["predicate"], "why": "quote states intent to kill, not an actual fight/combat", "pf": "hunts"}
+{"id": "P5-A-B0146-076", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0146-077", "v": "S", "inf": [], "pf": "is worshipped at", "O": ["WENELIA"]}
+{"id": "P5-A-B0146-078", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0146-079", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0146-080", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0146-081", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0146-082", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0146-083", "v": "U", "inf": [], "why": "Prophet cursed them, not laid a geas per se", "pf": "curses"}
+{"id": "P5-A-B0146-084", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0146-085", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0146-086", "v": "U", "inf": [], "why": "worship direction reversed: Chaos is worshipped by the lords", "pf": "is worshipped by", "S": ["CHAOS"], "O": ["LORDS OF RAMALIA"]}
+{"id": "P5-A-B0146-087", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0146-088", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0146-089", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0147-001", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0147-002", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0147-003", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0147-004", "v": "P", "inf": ["indirect_object"], "why": "'his' referring to Orlanth is inferred from surrounding context", "pf": "is child of"}
+{"id": "P5-A-B0147-005", "v": "P", "inf": ["indirect_object"], "why": "'his' referring to Orlanth is inferred from surrounding context", "pf": "is sibling of"}
+{"id": "P5-A-B0147-006", "v": "P", "inf": ["indirect_object"], "why": "Storm tribe as the group inferred from earlier context", "pf": "is member of"}
+{"id": "P5-A-B0147-007", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0147-008", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0147-009", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0147-010", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0147-011", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0147-012", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0147-013", "v": "U", "inf": [], "why": "'god of X' phrasing maps to domain, not embodiment of a Rune", "pf": "has domain", "O": ["UNTAMED ANIMAL POWER"]}
+{"id": "P5-A-B0147-014", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0147-015", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0147-016", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0147-017", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0147-018", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0147-019", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0147-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0147-021", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0147-022", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0147-023", "v": "U", "inf": [], "why": "worship direction reversed: Lhankor Mhy worshipped by Lawspeakers", "pf": "is worshipped by", "S": ["LHANKOR MHY"], "O": ["LAWSPEAKERS"]}
+{"id": "P5-A-B0147-024", "v": "U", "inf": [], "why": "'god of the hunt' maps to domain, not Rune embodiment", "pf": "has domain", "O": ["THE HUNT"]}
+{"id": "P5-A-B0147-025", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0147-026", "v": "U", "inf": [], "why": "'great foe' implies enmity, not an active fight event", "pf": "hates"}
+{"id": "P5-A-B0147-027", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0147-028", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0147-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0147-030", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0147-031", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0147-032", "v": "U", "inf": [], "why": "'moved in and built homesteads' is settling, more specific than travel", "pf": "settles at", "O": ["DRAGON PASS"]}
+{"id": "P5-A-B0147-033", "v": "U", "inf": [], "why": "quote says 'conquered', more specific than generic defeat", "pf": "conquers"}
+{"id": "P5-A-B0147-034", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0147-035", "v": "U", "inf": [], "why": "worship direction reversed: gods worshipped by Sartarites", "pf": "is worshipped by", "S": ["ORLANTH", "ERNALDA"], "O": ["SARTARITES"]}
+{"id": "P5-A-B0147-036", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0147-037", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0147-038", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0147-039", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0147-040", "v": "P", "inf": ["indirect_object"], "why": "'his' referring to Orlanth is inferred from surrounding context", "pf": "is child of"}
+{"id": "P5-A-B0147-041", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0147-042", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0147-043", "v": "U", "inf": [], "why": "'reunited the Goddess' is a restorative act, not a station change", "pf": "resurrects", "S": ["SEVEN MOTHERS"], "O": ["RED GODDESS"]}
+{"id": "P5-A-B0147-044", "v": "U", "inf": [], "why": "worship direction reversed: Yanafal Tarnils worshipped by officers", "pf": "is worshipped by", "S": ["YANAFAL TARNILS"], "O": ["LUNAR ARMY OFFICERS"]}
+{"id": "P5-A-B0147-045", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0147-046", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0147-048", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0147-049", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0147-050", "v": "U", "inf": [], "why": "Pure Horse People are the ones renamed, not Ironhoof; direction reversed", "pf": "takes title", "S": ["PURE HORSE PEOPLE"], "O": ["GRAZERS"]}
+{"id": "P5-A-B0147-051", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0147-052", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0147-053", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0147-054", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0147-055", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0147-056", "v": "P", "inf": ["predicate"], "why": "'tame' is weaker than binding/imprisonment", "pf": "binds"}
+{"id": "P5-A-B0147-057", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0147-058", "v": "P", "inf": ["subject"], "why": "Red Emperor as giver of the land grant is inferred, not stated in quote", "pf": "bestows"}
+{"id": "P5-A-B0147-059", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0147-060", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0147-061", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0147-062", "v": "U", "inf": [], "why": "quote says Delecti 'created' the marsh, matching conceives not enchants", "pf": "conceives"}
+{"id": "P5-A-B0147-063", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0147-064", "v": "U", "inf": [], "why": "'united' the Pentans is leading, not ruling", "pf": "leads"}
+{"id": "P5-A-B0147-065", "v": "U", "inf": [], "why": "'cast down' is loss of status, not generic mythic alteration", "pf": "loses status"}
+{"id": "P5-A-B0147-066", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0148-001", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0148-002", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0148-003", "v": "U", "inf": [], "why": "'goddess of the women' is a domain statement, not protection", "pf": "has domain", "O": ["THE WOMEN OF PENT"]}
+{"id": "P5-A-B0148-004", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0148-005", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0148-006", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0148-007", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0148-008", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0148-009", "v": "U", "inf": [], "why": "'made the covenant' is a creative act, not imprisonment/binding", "pf": "conceives", "O": ["SURVIVAL COVENANT"]}
+{"id": "P5-A-B0148-010", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0148-011", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0148-012", "v": "U", "inf": [], "why": "Waha compels the oath, an imposed obligation not a mutual pledge", "pf": "bestows geas", "S": ["WAHA"], "O": ["OTHER GIANTS"]}
+{"id": "P5-A-B0148-013", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0148-014", "v": "P", "inf": ["indirect_object"], "why": "'Waha's people' as learners is not stated explicitly in quote", "pf": "teaches"}
+{"id": "P5-A-B0148-015", "v": "P", "inf": ["predicate"], "why": "quote states prior identity only; the actual transformation is not detailed", "pf": "transforms into"}
+{"id": "P5-A-B0148-016", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0148-017", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0148-018", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0148-019", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0148-020", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0148-021", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0148-022", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0148-023", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0148-024", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0148-025", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0148-026", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0148-027", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0148-028", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0148-029", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0148-030", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0148-031", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0148-032", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0148-033", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0148-034", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0148-035", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0148-036", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0148-037", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0148-038", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0148-039", "v": "P", "inf": ["subject"], "why": "'He' (the Devil) restored as agent for the crafted monsters", "pf": "conceives", "S": ["THE DEVIL"], "O": ["CHAOS MONSTERS"]}
+{"id": "P5-A-B0148-040", "v": "P", "inf": ["direct_object"], "why": "object of 'fought' (the Devil) inferred from surrounding context", "pf": "fights"}
+{"id": "P5-A-B0148-041", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0148-042", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0148-043", "v": "S", "inf": [], "pf": "is born from", "O": ["THE SOIL"]}
+{"id": "P5-A-B0148-044", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0148-045", "v": "U", "inf": [], "why": "'the Tracker' is an epithet attached to Waha, not a separate alternative name", "pf": "is epithet of", "S": ["THE TRACKER"], "O": ["WAHA"]}
+{"id": "P5-A-B0148-046", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0146-090", "v": "P", "inf": ["purpose_clause"], "why": "quote gives no punishment motive; MOD purpose_clause is inferred", "pf": "swallows / consumes"}

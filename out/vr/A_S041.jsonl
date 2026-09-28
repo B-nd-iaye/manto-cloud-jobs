@@ -1,0 +1,150 @@
+{"id": "P5-A-B0129-019", "v": "U", "inf": ["predicate", "direct_object"], "why": "quote says cursed foes, curse harmed their children, not literally wounding foes", "pf": "curses", "O": ["HIS FOES"]}
+{"id": "P5-A-B0129-020", "v": "P", "inf": ["predicate"], "why": "'suffered curse' generalized as status loss", "pf": "loses status"}
+{"id": "P5-A-B0129-021", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0129-022", "v": "S", "inf": [], "pf": "heals"}
+{"id": "P5-A-B0129-023", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0129-024", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0129-025", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0129-026", "v": "P", "inf": ["predicate"], "why": "'grew up among' implies dwelling, not formal membership", "pf": "is member of"}
+{"id": "P5-A-B0129-027", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0129-028", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0129-029", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0129-031", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0129-032", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0129-033", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0129-034", "v": "P", "inf": ["predicate"], "why": "'volunteered forces to follow' resembles aiding, not servitude", "pf": "aids"}
+{"id": "P5-A-B0129-035", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0129-036", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0129-037", "v": "P", "inf": ["predicate"], "why": "still training toward knighthood, not yet full member", "pf": "is member of"}
+{"id": "P5-A-B0129-038", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0129-039", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0129-040", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0129-041", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0129-042", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0129-043", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0129-044", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0129-045", "v": "S", "inf": [], "pf": "submits to"}
+{"id": "P5-A-B0129-046", "v": "P", "inf": ["predicate"], "why": "'followed too' is vague, not clear servitude", "pf": "aids"}
+{"id": "P5-A-B0129-047", "v": "U", "inf": ["subject", "object"], "why": "worship direction reversed: deity is worshipped by worshippers", "pf": "is worshipped by", "S": ["WOLVES"], "O": ["THE TELMORI NATION"]}
+{"id": "P5-A-B0129-048", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0129-049", "v": "S", "inf": [], "pf": "grows tainted with Chaos"}
+{"id": "P5-A-B0129-050", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0129-051", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0129-052", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0129-053", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0129-054", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0129-055", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0129-056", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0129-057", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0129-058", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0129-059", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0129-060", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0129-061", "v": "P", "inf": ["subject"], "why": "passive phrasing; giver not explicitly named", "pf": "bestows"}
+{"id": "P5-A-B0129-062", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0129-063", "v": "U", "inf": ["predicate"], "why": "'suffered curse from' is curses, not wounds", "pf": "curses"}
+{"id": "P5-A-B0129-064", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0129-065", "v": "U", "inf": [], "why": "armies not shown taking Orlanth's mythic role themselves; unnamed god does", "pf": "REJECT"}
+{"id": "P5-A-B0129-066", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0129-067", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0129-068", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0129-069", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0129-070", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0129-071", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0129-072", "v": "P", "inf": ["subject"], "why": "'people said' - rumor, not confirmed fact", "pf": "is child of"}
+{"id": "P5-A-B0129-073", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0129-074", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0130-001", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0130-002", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0130-003", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0130-004", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0130-005", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0130-006", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0130-007", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0130-008", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0130-009", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0130-010", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0130-011", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0130-012", "v": "P", "inf": ["subject"], "why": "passive voice, no agent named", "pf": "dismembers"}
+{"id": "P5-A-B0130-013", "v": "P", "inf": ["predicate"], "why": "speculative language ('could have been')", "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-A-B0130-014", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0130-015", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0130-016", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0130-017", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0130-018", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0130-019", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0130-020", "v": "P", "inf": ["predicate"], "why": "hedged claim ('so said his friends'), not certain", "pf": "loses status"}
+{"id": "P5-A-B0130-021", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0130-022", "v": "S", "inf": [], "pf": "settles at"}
+{"id": "P5-A-B0130-023", "v": "P", "inf": ["direct_object"], "why": "realm not named, only 'reign' mentioned", "pf": "rules"}
+{"id": "P5-A-B0130-024", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0130-025", "v": "S", "inf": [], "pf": "takes title"}
+{"id": "P5-A-B0130-026", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0130-027", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0130-028", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0130-029", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0130-030", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0130-031", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0130-032", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0130-033", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0130-034", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0130-035", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0130-036", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0130-037", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0130-038", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0130-039", "v": "U", "inf": ["subject", "direct_object"], "why": "named creator God Learners; use conceives with maker as subject", "pf": "conceives", "S": ["GOD LEARNERS"], "O": ["ZISTOR"]}
+{"id": "P5-A-B0130-040", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0130-041", "v": "U", "inf": ["subject", "direct_object"], "why": "named creator God Learners; use conceives with maker as subject", "pf": "conceives", "S": ["GOD LEARNERS"], "O": ["OLDARAM"]}
+{"id": "P5-A-B0130-042", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0130-043", "v": "U", "inf": ["predicate"], "why": "'violated' means breaking an agreement, not departing", "pf": "breaks oath"}
+{"id": "P5-A-B0130-044", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0130-045", "v": "U", "inf": ["subject", "direct_object"], "why": "named creator Brond carved the serpent; crafts fits with maker as subject", "pf": "crafts", "S": ["BROND THE CARVER"], "O": ["THE SEA SERPENT"]}
+{"id": "P5-A-B0130-046", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0130-047", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0130-048", "v": "S", "inf": [], "pf": "has domain", "O": ["STORM"]}
+{"id": "P5-A-B0130-049", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0130-050", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0130-051", "v": "S", "inf": [], "pf": "curses"}
+{"id": "P5-A-B0130-052", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0130-053", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0130-054", "v": "S", "inf": [], "pf": "curses"}
+{"id": "P5-A-B0130-055", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0130-056", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0130-057", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0131-001", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0131-002", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0131-003", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0131-004", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0131-005", "v": "S", "inf": [], "pf": "brings back"}
+{"id": "P5-A-B0131-006", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0131-007", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0131-008", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0131-009", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0131-010", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0131-011", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0131-012", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0131-013", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0131-014", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0131-015", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0131-016", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-A-B0131-017", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0131-018", "v": "P", "inf": ["subject"], "why": "hedged ('said to be'), not certain source of powers", "pf": "bestows"}
+{"id": "P5-A-B0131-019", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0131-020", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0131-021", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0131-022", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0131-023", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0131-024", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0131-025", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0131-026", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0131-027", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0131-028", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0131-029", "v": "U", "inf": ["subject", "direct_object"], "why": "named creator God; use conceives with maker as subject", "pf": "conceives", "S": ["GOD"], "O": ["WOMEN"]}
+{"id": "P5-A-B0131-030", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0131-031", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0131-032", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0131-033", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0131-034", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0131-035", "v": "P", "inf": ["predicate"], "why": "'occupied' implies presence, not necessarily governance", "pf": "rules"}
+{"id": "P5-A-B0131-036", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0131-037", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0131-038", "v": "S", "inf": [], "pf": "comes into being"}

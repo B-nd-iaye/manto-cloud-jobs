@@ -1,0 +1,150 @@
+{"id": "P5-A-B0118-024", "v": "S", "inf": [], "why": "", "pf": "binds"}
+{"id": "P5-A-B0118-025", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0118-026", "v": "S", "inf": [], "why": "", "pf": "protects"}
+{"id": "P5-A-B0118-027", "v": "S", "inf": [], "why": "", "pf": "wages war on"}
+{"id": "P5-A-B0118-028", "v": "S", "inf": [], "why": "", "pf": "re-enacts"}
+{"id": "P5-A-B0118-029", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0118-030", "v": "S", "inf": [], "why": "", "pf": "departs from"}
+{"id": "P5-A-B0118-031", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0118-032", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0118-033", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0118-034", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0118-035", "v": "S", "inf": [], "why": "", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0118-036", "v": "P", "inf": ["predicate"], "why": "vague generic action, no precise vocab term matches cleanly", "pf": "causes"}
+{"id": "P5-A-B0118-037", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0118-038", "v": "S", "inf": [], "why": "", "pf": "accedes to rule"}
+{"id": "P5-A-B0118-039", "v": "S", "inf": [], "why": "", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0119-001", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0119-002", "v": "S", "inf": [], "why": "", "pf": "rides"}
+{"id": "P5-A-B0119-003", "v": "P", "inf": ["predicate"], "why": "only visual/iconographic similarity stated, not full identity", "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-A-B0119-004", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0119-005", "v": "P", "inf": ["predicate"], "why": "halo imagery, not literal embodiment", "pf": "embodies"}
+{"id": "P5-A-B0119-006", "v": "S", "inf": [], "why": "", "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-A-B0119-007", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0119-008", "v": "P", "inf": ["predicate"], "why": "disjunctive birth-or-creation, origin ambiguous", "pf": "comes into being"}
+{"id": "P5-A-B0119-009", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0119-010", "v": "U", "inf": [], "why": "agent (mortal races) named; should be conceives not self-origin", "pf": "conceives", "S": ["THE MORTAL RACES"], "O": ["OSENTALKA"]}
+{"id": "P5-A-B0119-011", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0119-012", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0119-013", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0119-014", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0119-015", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0119-016", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0119-017", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0119-018", "v": "S", "inf": [], "why": "", "pf": "wages war on"}
+{"id": "P5-A-B0119-019", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0119-020", "v": "P", "inf": ["direct_object"], "why": "quote doesn't name Nysalor as the defeated party", "pf": "defeats"}
+{"id": "P5-A-B0119-021", "v": "U", "inf": [], "why": "direction reversed: Nysalor is worshipped by Lunar Empire", "pf": "is worshipped by", "S": ["NYSALOR"], "O": ["LUNAR EMPIRE"]}
+{"id": "P5-A-B0119-022", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0119-023", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0119-024", "v": "S", "inf": [], "why": "", "pf": "illuminates"}
+{"id": "P5-A-B0119-025", "v": "S", "inf": [], "why": "", "pf": "is part of"}
+{"id": "P5-A-B0119-026", "v": "P", "inf": ["predicate"], "why": "philosophy widespread among them, not stated formal cult membership", "pf": "is member of"}
+{"id": "P5-A-B0119-027", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0119-028", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0119-029", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0119-030", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0119-031", "v": "U", "inf": [], "why": "hospitality, not a magical gift; better matches aids", "pf": "aids", "S": ["SAMASTINA"], "O": ["ARGRATH"]}
+{"id": "P5-A-B0119-032", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0119-033", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0119-034", "v": "S", "inf": [], "why": "", "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0119-035", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0119-036", "v": "U", "inf": [], "why": "advice given, not instruction/teaching a skill", "pf": "speaks / informs / warns / prophesies", "S": ["ARGRATH"], "O": ["SAMASTINA"]}
+{"id": "P5-A-B0119-037", "v": "U", "inf": [], "why": "quote states possession of jar by Asrelia, not relic-survival", "pf": "possesses / wields", "S": ["ASRELIA"], "O": ["DANCING JAR"]}
+{"id": "P5-A-B0120-001", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0120-002", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0120-003", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0120-004", "v": "S", "inf": [], "why": "", "pf": "loses status"}
+{"id": "P5-A-B0120-005", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0120-006", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-A-B0120-007", "v": "S", "inf": [], "why": "", "pf": "wages war on"}
+{"id": "P5-A-B0120-008", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0120-009", "v": "P", "inf": ["predicate"], "why": "kinship to plants, not literal multi-generation ancestry", "pf": "claims ancestry"}
+{"id": "P5-A-B0120-010", "v": "S", "inf": [], "why": "", "pf": "hates"}
+{"id": "P5-A-B0120-011", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0120-012", "v": "S", "inf": [], "why": "", "pf": "wages war on"}
+{"id": "P5-A-B0120-013", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0120-014", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0120-015", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0120-016", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0120-017", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0120-018", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0120-019", "v": "S", "inf": [], "why": "", "pf": "embodies"}
+{"id": "P5-A-B0120-020", "v": "S", "inf": [], "why": "", "pf": "curses"}
+{"id": "P5-A-B0120-021", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0120-022", "v": "S", "inf": [], "why": "", "pf": "is born from"}
+{"id": "P5-A-B0120-023", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-A-B0120-024", "v": "S", "inf": [], "why": "", "pf": "wages war on"}
+{"id": "P5-A-B0120-025", "v": "U", "inf": [], "why": "named agent Cragspider; should be conceives, not self-origin", "pf": "conceives", "S": ["CRAGSPIDER"], "O": ["GREAT TROLLS"]}
+{"id": "P5-A-B0120-026", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0120-027", "v": "S", "inf": [], "why": "", "pf": "is born from"}
+{"id": "P5-A-B0120-028", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0120-029", "v": "P", "inf": ["predicate"], "why": "numbers dwindling, not clearly a status/rank loss", "pf": "loses status"}
+{"id": "P5-A-B0120-030", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0120-031", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0120-032", "v": "S", "inf": [], "why": "", "pf": "corrupts"}
+{"id": "P5-A-B0120-033", "v": "S", "inf": [], "why": "", "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0120-034", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0120-035", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0120-036", "v": "S", "inf": [], "why": "", "pf": "embodies"}
+{"id": "P5-A-B0120-037", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0120-038", "v": "S", "inf": [], "why": "", "pf": "curses"}
+{"id": "P5-A-B0121-001", "v": "P", "inf": ["subject"], "why": "'they' referent (Wolf Brothers) inferred from prior context, not in quote", "pf": "is synonym of"}
+{"id": "P5-A-B0121-002", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0121-003", "v": "S", "inf": [], "why": "", "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0121-004", "v": "S", "inf": [], "why": "", "pf": "transforms into"}
+{"id": "P5-A-B0121-005", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0121-006", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0121-007", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0121-008", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0121-009", "v": "S", "inf": [], "why": "", "pf": "rides"}
+{"id": "P5-A-B0121-010", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0121-011", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0121-012", "v": "S", "inf": [], "why": "", "pf": "rides"}
+{"id": "P5-A-B0121-013", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0121-014", "v": "S", "inf": [], "why": "", "pf": "transforms into"}
+{"id": "P5-A-B0121-015", "v": "S", "inf": [], "why": "", "pf": "embodies"}
+{"id": "P5-A-B0121-016", "v": "U", "inf": [], "why": "'sacred to' cult indicates dinosaurs are cult symbol/part, not servitude", "pf": "is part of"}
+{"id": "P5-A-B0121-017", "v": "S", "inf": [], "why": "", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0121-018", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0121-019", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0121-020", "v": "S", "inf": [], "why": "", "pf": "transforms into"}
+{"id": "P5-A-B0121-021", "v": "U", "inf": [], "why": "named agent Second Council; should be conceives, not self-origin", "pf": "conceives", "S": ["SECOND COUNCIL"], "O": ["WYRMS"]}
+{"id": "P5-A-B0121-022", "v": "P", "inf": ["predicate"], "why": "disjunctive: also 'went to sleep' (sleeps), not just departure", "pf": "departs from"}
+{"id": "P5-A-B0121-023", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0121-024", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0121-025", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0121-026", "v": "U", "inf": [], "why": "direction reversed: umbroli are worshipped by clans/tribes", "pf": "is worshipped by", "S": ["STRONGEST UMBROLI"], "O": ["LOCAL CLANS AND TRIBES"]}
+{"id": "P5-A-B0121-027", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0121-028", "v": "U", "inf": [], "why": "direction reversed: dehori are worshipped by trolls", "pf": "is worshipped by", "S": ["DEHORI"], "O": ["TROLLS"]}
+{"id": "P5-A-B0121-029", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0121-030", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0121-031", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0121-032", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0121-033", "v": "U", "inf": [], "why": "direction reversed: Luxites are worshipped by sky cults", "pf": "is worshipped by", "S": ["LUXITES"], "O": ["MANY SKY CULTS"]}
+{"id": "P5-A-B0121-034", "v": "S", "inf": [], "why": "", "pf": "embodies"}
+{"id": "P5-A-B0121-035", "v": "S", "inf": [], "why": "", "pf": "manifests as"}
+{"id": "P5-A-B0121-036", "v": "S", "inf": [], "why": "", "pf": "possesses / wields"}
+{"id": "P5-A-B0121-037", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0121-038", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0121-039", "v": "U", "inf": [], "why": "direction reversed: nymphs are worshipped by shamans/cult", "pf": "is worshipped by", "S": ["SOME NYMPHS"], "O": ["SHAMANS", "LOCAL EARTH CULT"]}
+{"id": "P5-A-B0121-040", "v": "S", "inf": [], "why": "", "pf": "protects"}
+{"id": "P5-A-B0121-041", "v": "S", "inf": [], "why": "", "pf": "comes into being"}
+{"id": "P5-A-B0121-042", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0121-043", "v": "S", "inf": [], "why": "", "pf": "comes into being"}
+{"id": "P5-A-B0121-044", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-A-B0121-045", "v": "S", "inf": [], "why": "", "pf": "binds"}
+{"id": "P5-A-B0121-046", "v": "S", "inf": [], "why": "", "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0121-047", "v": "S", "inf": [], "why": "", "pf": "corrupts"}
+{"id": "P5-A-B0121-048", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0121-049", "v": "S", "inf": [], "why": "", "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0121-050", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0121-051", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0121-052", "v": "U", "inf": [], "why": "'took the side of' means allying, not servitude", "pf": "allies with"}
+{"id": "P5-A-B0121-053", "v": "S", "inf": [], "why": "", "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0121-054", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0121-055", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0121-056", "v": "S", "inf": [], "why": "", "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-A-B0122-001", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0122-002", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-A-B0122-003", "v": "S", "inf": [], "why": "", "pf": "rules"}

@@ -1,0 +1,150 @@
+{"id": "P5-A-B0078-017", "v": "P", "inf": ["subject"], "why": "subject 'it' (scorpion man) not named in quote, inferred", "pf": "wounds"}
+{"id": "P5-A-B0078-018", "v": "P", "inf": ["subject"], "why": "'me' inferred as Paulis Longvale from context", "pf": "is member of"}
+{"id": "P5-A-B0078-019", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0078-020", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0078-021", "v": "P", "inf": ["subject"], "why": "text says 'or', not both jointly ruling", "pf": "rules"}
+{"id": "P5-A-B0078-022", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0078-023", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0078-024", "v": "P", "inf": ["subject"], "why": "'She' inferred as Thed from context", "pf": "is spouse of"}
+{"id": "P5-A-B0078-025", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0078-026", "v": "P", "inf": ["object"], "why": "'their' inferred as Thed and Ragnaglar", "pf": "is child of"}
+{"id": "P5-A-B0078-027", "v": "P", "inf": ["subject"], "why": "'she' inferred as Thed from context", "pf": "corrupts"}
+{"id": "P5-A-B0078-028", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0078-029", "v": "P", "inf": ["object"], "why": "'her' inferred as Thed from context", "pf": "aids"}
+{"id": "P5-A-B0078-030", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0078-031", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0078-032", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0078-033", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0078-034", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0078-035", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0078-036", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0078-038", "v": "P", "inf": ["subject", "direct_object", "indirect_object"], "why": "'she','them','this' inferred from prior context not in quote", "pf": "bestows"}
+{"id": "P5-A-B0078-039", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0078-040", "v": "P", "inf": ["subject"], "why": "'her' inferred as Thed from context", "pf": "is epithet of", "S": ["MOTHER OF THE BROOS"], "O": ["THED"]}
+{"id": "P5-A-B0078-041", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0078-042", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0078-043", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["THED"], "O": ["BROOS"]}
+{"id": "P5-A-B0078-044", "v": "P", "inf": ["subject", "object"], "why": "'They' and 'her' inferred as broos and Thed", "pf": "is child of"}
+{"id": "P5-A-B0078-045", "v": "P", "inf": ["subject"], "why": "'her' inferred as Thed from context", "pf": "corrupts"}
+{"id": "P5-A-B0078-046", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0078-047", "v": "U", "inf": ["subject", "object", "predicate"], "why": "quote states 'hates', not 'challenges'", "pf": "hates"}
+{"id": "P5-A-B0078-048", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0078-049", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0078-050", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["MALLIA"], "O": ["THED'S WORSHIPPERS"]}
+{"id": "P5-A-B0079-001", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0079-002", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0079-003", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0079-004", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0079-005", "v": "P", "inf": ["subject"], "why": "'our bold men' inferred as Bolthor's army", "pf": "kills"}
+{"id": "P5-A-B0079-006", "v": "P", "inf": ["subject", "object"], "why": "'the race' and 'their goddess' inferred as broos and Thed", "pf": "serves"}
+{"id": "P5-A-B0079-007", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0079-008", "v": "P", "inf": ["subject"], "why": "'the King' inferred as Bolthor Brighteyes", "pf": "bestows"}
+{"id": "P5-A-B0079-009", "v": "P", "inf": ["indirect_object"], "why": "'his grandmother' identified as Thed via context", "pf": "bestows"}
+{"id": "P5-A-B0079-010", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0079-011", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["THED"], "O": ["BROOS"]}
+{"id": "P5-A-B0079-012", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0079-013", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0079-014", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0079-015", "v": "U", "inf": [], "why": "quote shows betrayal of Eurmal's trust, not departure from the secret", "pf": "betrays", "O": ["EURMAL"]}
+{"id": "P5-A-B0079-016", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0079-017", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0079-018", "v": "S", "inf": [], "pf": "is epithet of", "S": ["HELL'S PORTER"], "O": ["BIMBAROS"]}
+{"id": "P5-A-B0079-019", "v": "S", "inf": [], "pf": "dies"}
+{"id": "P5-A-B0079-020", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0079-021", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0079-022", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0079-023", "v": "U", "inf": [], "why": "quote says 'sent curses', matches curses not bestows geas", "pf": "curses"}
+{"id": "P5-A-B0079-024", "v": "U", "inf": [], "why": "'trading secrets' is mutual exchange, not one-way teaching", "pf": "trades with"}
+{"id": "P5-A-B0079-025", "v": "S", "inf": [], "pf": "has domain", "O": ["DISEASE"]}
+{"id": "P5-A-B0079-026", "v": "P", "inf": ["object"], "why": "'him' inferred as Vivamort from context", "pf": "wounds"}
+{"id": "P5-A-B0079-027", "v": "P", "inf": ["subject", "object"], "why": "'he' and 'them' inferred as Vivamort and his chaos foes", "pf": "swears oath with"}
+{"id": "P5-A-B0079-028", "v": "P", "inf": ["object"], "why": "'him' inferred as Vivamort from context", "pf": "loses status", "S": ["VIVAMORT"], "O": []}
+{"id": "P5-A-B0079-029", "v": "S", "inf": [], "pf": "grows tainted with Chaos"}
+{"id": "P5-A-B0079-030", "v": "P", "inf": ["subject"], "why": "'He' inferred as Vivamort from context", "pf": "kills"}
+{"id": "P5-A-B0079-031", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0079-032", "v": "P", "inf": ["object"], "why": "'his' inferred as Hahlgrim from context", "pf": "aids"}
+{"id": "P5-A-B0079-033", "v": "P", "inf": ["subject"], "why": "'he' inferred as Hahlgrim; killing itself not explicit in quote", "pf": "kills"}
+{"id": "P5-A-B0079-034", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0079-035", "v": "P", "inf": ["indirect_object"], "why": "'me' inferred as Hahlgrim from context", "pf": "reveals"}
+{"id": "P5-A-B0079-036", "v": "S", "inf": [], "pf": "has domain", "O": ["THE DEAD"]}
+{"id": "P5-A-B0079-037", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0079-038", "v": "P", "inf": ["subject", "object"], "why": "'she' and 'him' inferred as Ty Kora Tek and Vivamort", "pf": "challenges"}
+{"id": "P5-A-B0079-039", "v": "S", "inf": [], "pf": "bestows geas"}
+{"id": "P5-A-B0079-040", "v": "U", "inf": [], "why": "'remain a prime enemy of' shows enmity, not active fighting", "pf": "hates"}
+{"id": "P5-A-B0080-001", "v": "P", "inf": ["subject"], "why": "'His' inferred as Vivamort from context", "pf": "embodies"}
+{"id": "P5-A-B0080-002", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0080-003", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0080-004", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0080-005", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0080-006", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0080-007", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0080-008", "v": "P", "inf": ["subject"], "why": "hater not explicitly named, inferred as Vivamort/cult", "pf": "hates"}
+{"id": "P5-A-B0080-009", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0080-010", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0080-011", "v": "P", "inf": ["subject"], "why": "'the being' inferred as Mallia from context", "pf": "protects"}
+{"id": "P5-A-B0080-012", "v": "P", "inf": ["subject"], "why": "'the being' inferred as Mallia; destruction described as inadvertent", "pf": "kills"}
+{"id": "P5-A-B0080-013", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0080-014", "v": "P", "inf": ["indirect_object"], "why": "Mallia as recipient not named in this quote, inferred from prior sentence", "pf": "bestows"}
+{"id": "P5-A-B0080-015", "v": "P", "inf": ["subject"], "why": "'he' inferred as Vivamort from context", "pf": "travels"}
+{"id": "P5-A-B0080-016", "v": "P", "inf": ["object"], "why": "'her' inferred as Mallia from context", "pf": "aids"}
+{"id": "P5-A-B0080-017", "v": "U", "inf": [], "why": "quote has no named subjects, cannot confirm Hahlgrim-Bolthor relation", "pf": "REJECT"}
+{"id": "P5-A-B0080-018", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0080-019", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0080-020", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0080-021", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0080-022", "v": "P", "inf": ["subject"], "why": "'He' inferred as Tien from context", "pf": "kills"}
+{"id": "P5-A-B0080-023", "v": "P", "inf": ["object"], "why": "'his forces' inferred as Tien's forces", "pf": "defeats"}
+{"id": "P5-A-B0080-024", "v": "S", "inf": [], "pf": "has domain", "O": ["KNOWLEDGE"]}
+{"id": "P5-A-B0080-025", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0080-026", "v": "P", "inf": ["subject"], "why": "'The knowledge god' inferred as Lhankor Mhy", "pf": "departs from"}
+{"id": "P5-A-B0080-027", "v": "S", "inf": [], "pf": "hunts"}
+{"id": "P5-A-B0080-028", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0081-001", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0081-002", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0081-003", "v": "P", "inf": ["subject", "direct_object"], "why": "'he' inferred as Tien; 'this magic' not clearly the Mistress herself", "pf": "steals"}
+{"id": "P5-A-B0081-004", "v": "P", "inf": ["object"], "why": "'her' inferred as the Mistress from context", "pf": "dismembers"}
+{"id": "P5-A-B0081-005", "v": "P", "inf": ["subject", "object"], "why": "'he' and 'her' inferred as Tien and the Mistress", "pf": "imbues"}
+{"id": "P5-A-B0081-006", "v": "P", "inf": ["subject", "object"], "why": "'He' and 'her' inferred as Tien and the Mistress", "pf": "swallows / consumes"}
+{"id": "P5-A-B0081-007", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0081-008", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0081-009", "v": "S", "inf": [], "pf": "hunts"}
+{"id": "P5-A-B0081-010", "v": "P", "inf": ["subject"], "why": "'The Death/Darkness deity' inferred as Tien", "pf": "flees to"}
+{"id": "P5-A-B0081-011", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0081-012", "v": "P", "inf": ["subject"], "why": "subject and verb of descending not explicit in this fragment", "pf": "descends into"}
+{"id": "P5-A-B0081-013", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0081-014", "v": "P", "inf": ["object"], "why": "'the god' inferred as Tien from context", "pf": "dismembers"}
+{"id": "P5-A-B0081-015", "v": "S", "inf": [], "pf": "wounds", "qual": "blinding"}
+{"id": "P5-A-B0081-016", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0081-017", "v": "P", "inf": ["subject"], "why": "subject inferred as Mistress's ghostly form from context", "pf": "descends into"}
+{"id": "P5-A-B0081-018", "v": "P", "inf": ["subject"], "why": "'which' inferred as Tien's body from context", "pf": "swallows / consumes"}
+{"id": "P5-A-B0081-019", "v": "P", "inf": ["subject"], "why": "'it' inferred as Tien's headless body from context", "pf": "dismembers"}
+{"id": "P5-A-B0081-020", "v": "P", "inf": ["subject"], "why": "'it' inferred as Tien's body from context", "pf": "steals"}
+{"id": "P5-A-B0081-021", "v": "P", "inf": ["subject"], "why": "'it' inferred as Tien's body; text says 'possession' not manifestation", "pf": "possesses / wields"}
+{"id": "P5-A-B0081-022", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0081-023", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0081-024", "v": "P", "inf": ["object"], "why": "'it' inferred as Skull of Tien from context", "pf": "discovers"}
+{"id": "P5-A-B0081-025", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0081-026", "v": "P", "inf": ["subject", "object"], "why": "'He' and 'the skull' inferred as Lhankor Mhy and Skull of Tien", "pf": "fights"}
+{"id": "P5-A-B0081-027", "v": "P", "inf": ["subject"], "why": "'god' inferred as Lhankor Mhy from context", "pf": "travels"}
+{"id": "P5-A-B0081-028", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0081-029", "v": "P", "inf": ["object"], "why": "'it' inferred as Skull of Tien from context", "pf": "establishes cult"}
+{"id": "P5-A-B0081-030", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0081-031", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0081-032", "v": "S", "inf": [], "pf": "loses status"}
+{"id": "P5-A-B0081-033", "v": "P", "inf": ["object"], "why": "'the head' inferred as Skull of Tien from context", "pf": "discovers"}
+{"id": "P5-A-B0081-034", "v": "P", "inf": ["subject", "indirect_object"], "why": "'it' and 'the sage' inferred as skull and priest from context", "pf": "teaches"}
+{"id": "P5-A-B0081-035", "v": "P", "inf": ["subject"], "why": "'he' inferred as the priest from context", "pf": "establishes cult"}
+{"id": "P5-A-B0081-036", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0081-037", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0081-038", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0081-039", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0081-040", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0081-041", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0081-042", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0081-043", "v": "U", "inf": [], "why": "'old ally' indicates alliance, not service", "pf": "allies with"}
+{"id": "P5-A-B0081-044", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0081-045", "v": "P", "inf": ["object"], "why": "'the skull' identified as Skull of Atyar from broader context", "pf": "discovers"}
+{"id": "P5-A-B0081-046", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0081-047", "v": "P", "inf": ["subject"], "why": "'I' inferred as Bolthor from context", "pf": "makes peace with"}
+{"id": "P5-A-B0081-048", "v": "S", "inf": [], "pf": "has domain", "O": ["COVETOUSNESS"]}
+{"id": "P5-A-B0081-049", "v": "S", "inf": [], "pf": "challenges"}

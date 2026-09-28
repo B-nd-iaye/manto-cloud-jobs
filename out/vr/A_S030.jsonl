@@ -1,0 +1,150 @@
+{"id": "P5-A-B0088-003", "v": "S", "inf": [], "pf": "is epithet of", "S": ["TRICKSTER AND FOOL"], "O": ["EURMAL"]}
+{"id": "P5-A-B0088-004", "v": "S", "inf": [], "pf": "has domain", "O": ["RAIN AND LOYALTY"]}
+{"id": "P5-A-B0088-005", "v": "S", "inf": [], "pf": "has domain", "O": ["WAR AND DEATH"]}
+{"id": "P5-A-B0088-006", "v": "S", "inf": [], "pf": "has domain", "O": ["COMMUNICATION AND TRADE"]}
+{"id": "P5-A-B0088-007", "v": "S", "inf": [], "pf": "has domain", "O": ["KNOWLEDGE"]}
+{"id": "P5-A-B0088-008", "v": "S", "inf": [], "pf": "has domain", "O": ["HUNTING"]}
+{"id": "P5-A-B0088-009", "v": "S", "inf": [], "pf": "is epithet of", "S": ["BERSERK CHAOS-KILLER"], "O": ["UROX"]}
+{"id": "P5-A-B0088-010", "v": "S", "inf": [], "pf": "has domain", "O": ["PROTECTION AND WAR"]}
+{"id": "P5-A-B0088-011", "v": "S", "inf": [], "pf": "has domain", "O": ["ALYNXS, HUNTING, AND SENSUALITY"]}
+{"id": "P5-A-B0088-012", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE SMITH"], "O": ["GUSTBRAN"]}
+{"id": "P5-A-B0088-013", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE WATCHMAN AND POLE STAR"], "O": ["RIGSDAL"]}
+{"id": "P5-A-B0088-014", "v": "S", "inf": [], "pf": "has domain", "O": ["ENTERTAINERS"]}
+{"id": "P5-A-B0088-015", "v": "S", "inf": [], "pf": "has domain", "O": ["WINTER"]}
+{"id": "P5-A-B0088-016", "v": "S", "inf": [], "pf": "is epithet of", "S": ["AVENGING EARTH GODDESS"], "O": ["BABEESTER GOR"]}
+{"id": "P5-A-B0088-017", "v": "S", "inf": [], "pf": "has domain", "O": ["FIGHTING AND EARTHQUAKES"]}
+{"id": "P5-A-B0088-018", "v": "P", "inf": ["predicate"], "why": "worship implies devotion not vassal service", "pf": "is worshipped by", "S": ["ORLANTH", "ERNALDA"], "O": ["ORLANTHI"]}
+{"id": "P5-A-B0088-019", "v": "P", "inf": ["predicate"], "why": "agent deities named, so agentive creation not spontaneous", "pf": "conceives", "S": ["DEITIES"], "O": ["GLORANTHA"]}
+{"id": "P5-A-B0088-020", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0088-021", "v": "P", "inf": ["object"], "why": "'its' referring to Genertela inferred from prior context", "pf": "rules"}
+{"id": "P5-A-B0088-022", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0089-001", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0089-002", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0089-003", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0089-004", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0089-005", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0089-006", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0089-007", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0089-008", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0089-009", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0089-010", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0089-011", "v": "U", "inf": ["predicate"], "why": "liberation from Chaos-cosmos, not resurrection from death", "pf": "rescues / frees"}
+{"id": "P5-A-B0089-012", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-A-B0089-013", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0089-014", "v": "U", "inf": ["predicate"], "why": "quote states death, not descent into underworld", "pf": "dies", "S": ["SUN GOD"]}
+{"id": "P5-A-B0089-015", "v": "S", "inf": [], "pf": "is born from", "O": ["SECOND COUNCIL"]}
+{"id": "P5-A-B0089-016", "v": "S", "inf": [], "pf": "is epithet of", "S": ["CHAOS GOD"], "O": ["GBAJI"]}
+{"id": "P5-A-B0089-017", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0089-018", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0089-019", "v": "S", "inf": [], "pf": "betrays"}
+{"id": "P5-A-B0089-020", "v": "P", "inf": ["subject"], "why": "agent not named in quote, passive voice", "pf": "corrupts"}
+{"id": "P5-A-B0089-021", "v": "P", "inf": ["object"], "why": "Dragon Pass not named, only 'ancestral home/birthplace'", "pf": "protects"}
+{"id": "P5-A-B0089-022", "v": "P", "inf": ["object", "predicate"], "why": "quote doesn't specify killing armies, only 'what dragons did'", "pf": "kills"}
+{"id": "P5-A-B0089-023", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0089-024", "v": "P", "inf": ["subject"], "why": "'her' pronoun refers back to Red Moon Goddess", "pf": "embodies"}
+{"id": "P5-A-B0089-025", "v": "P", "inf": ["subject"], "why": "'she' pronoun inferred", "pf": "becomes celestial body"}
+{"id": "P5-A-B0089-026", "v": "P", "inf": ["subject"], "why": "'her' pronoun inferred as Red Moon Goddess", "pf": "is child of"}
+{"id": "P5-A-B0089-027", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0089-028", "v": "S", "inf": [], "pf": "is epithet of", "S": ["LORD OF THE HEAVENS"], "O": ["DAYZATAR"]}
+{"id": "P5-A-B0089-029", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0089-030", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0089-031", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE MONSTER MAN"], "O": ["DESKORGOS"]}
+{"id": "P5-A-B0089-032", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0089-033", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0089-034", "v": "P", "inf": ["subject"], "why": "'He' pronoun refers to Red Emperor", "pf": "shatters"}
+{"id": "P5-A-B0089-035", "v": "P", "inf": ["predicate"], "why": "Household incites natives to rebel, doesn't fight directly", "pf": "wages war on"}
+{"id": "P5-A-B0089-036", "v": "S", "inf": [], "pf": "crafts"}
+{"id": "P5-A-B0089-037", "v": "P", "inf": ["subject"], "why": "'This' refers to temple project not College directly", "pf": "wages war on"}
+{"id": "P5-A-B0089-038", "v": "S", "inf": [], "pf": "summons / invokes"}
+{"id": "P5-A-B0089-039", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0089-040", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0089-041", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE LIBERATOR"], "O": ["ARGRATH"]}
+{"id": "P5-A-B0089-042", "v": "P", "inf": ["predicate"], "why": "quote says 'seeks to claim,' not yet ruling", "pf": "rules"}
+{"id": "P5-A-B0089-043", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0089-044", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0089-045", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0090-001", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0090-002", "v": "S", "inf": [], "pf": "is epithet of", "S": ["EARTH GODDESS"], "O": ["ERNALDA"]}
+{"id": "P5-A-B0090-003", "v": "P", "inf": ["subject"], "why": "each individual god embodies one rune, not whole court all runes", "pf": "embodies"}
+{"id": "P5-A-B0090-004", "v": "P", "inf": ["subject"], "why": "'Their' pronoun refers to Celestial Court members", "pf": "is born from"}
+{"id": "P5-A-B0090-005", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0090-006", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0090-007", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0090-008", "v": "P", "inf": ["predicate"], "why": "'master of' Desert Wind is a domain not full rulership", "pf": "has domain", "O": ["DESERT WIND"]}
+{"id": "P5-A-B0090-009", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0090-010", "v": "P", "inf": ["predicate"], "why": "uses Rune as tool, not manifestation", "pf": "possesses / wields"}
+{"id": "P5-A-B0090-011", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0090-012", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0090-013", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE FIRST BORN", "THE WAKER FROM THE VOID"], "O": ["DARKNESS"]}
+{"id": "P5-A-B0090-014", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0090-015", "v": "S", "inf": [], "pf": "is epithet of", "S": ["SON OF DARKNESS", "PATHWAY TO THE UNDERWORLD", "SUPPORTER OF THE EARTH"], "O": ["WATER"]}
+{"id": "P5-A-B0090-016", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0090-017", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0090-018", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0090-019", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0090-020", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0090-021", "v": "P", "inf": ["predicate"], "why": "Runes symbolize members, not embody them directly", "pf": "embodies"}
+{"id": "P5-A-B0090-022", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0090-023", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0090-024", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0090-025", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0090-026", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0090-027", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0090-028", "v": "P", "inf": ["object"], "why": "specific Truth Rune identity inferred from context, not stated in quote", "pf": "embodies"}
+{"id": "P5-A-B0090-029", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0090-030", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0090-031", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0090-032", "v": "S", "inf": [], "pf": "is epithet of", "S": ["FATHER OF VEGETATION"], "O": ["PLANT RUNE"]}
+{"id": "P5-A-B0090-033", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0090-034", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0090-035", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0090-036", "v": "P", "inf": ["predicate"], "why": "display symbol of luck, not full manifestation", "pf": "possesses / wields"}
+{"id": "P5-A-B0090-037", "v": "P", "inf": ["predicate"], "why": "'popularized' is not disclosure of hidden secret", "pf": "reveals"}
+{"id": "P5-A-B0090-038", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0090-039", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0091-001", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0091-002", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0091-003", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0091-004", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0091-005", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0091-006", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0091-007", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0091-008", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0091-009", "v": "S", "inf": [], "pf": "dies"}
+{"id": "P5-A-B0091-010", "v": "P", "inf": ["predicate"], "why": "liberation, not ongoing rule, is the described act", "pf": "rescues / frees"}
+{"id": "P5-A-B0091-011", "v": "P", "inf": ["subject", "object"], "why": "Beast Valley not named; protection set up historically not ongoing act by Empire", "pf": "protects"}
+{"id": "P5-A-B0091-012", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0091-013", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0091-014", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0091-015", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0091-016", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0091-017", "v": "P", "inf": ["predicate"], "why": "'occupied' implies conquest not mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0091-018", "v": "P", "inf": ["predicate"], "why": "'liberated' means freed, not protected", "pf": "rescues / frees"}
+{"id": "P5-A-B0091-019", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0091-020", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0091-021", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0091-022", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0091-023", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["YELMALIO", "SEVEN MOTHERS"], "O": ["FAR PLACE TRIBES"]}
+{"id": "P5-A-B0091-024", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["SUN"], "O": ["GRAZELANDERS"]}
+{"id": "P5-A-B0091-025", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0091-026", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0091-027", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0091-028", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE FOUNDER"], "O": ["HEORT"]}
+{"id": "P5-A-B0091-029", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0091-030", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0091-031", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["ORLANTH", "ERNALDA"], "O": ["HEORTLANDERS"]}
+{"id": "P5-A-B0091-032", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["LIGHTBRINGERS"], "O": ["HEORTLANDERS"]}
+{"id": "P5-A-B0091-033", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0091-034", "v": "U", "inf": ["predicate"], "why": "quote states death, not underworld descent", "pf": "dies", "S": ["BELINTAR"]}
+{"id": "P5-A-B0091-035", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0091-036", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0091-037", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0091-038", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0091-039", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0091-040", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0091-041", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0091-042", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE EARTH SHAKER"], "O": ["MARAN GOR"]}
+{"id": "P5-A-B0091-043", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0091-044", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-A-B0091-045", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0091-046", "v": "U", "inf": ["predicate"], "why": "quote describes crafting new river channel, not mythic station change", "pf": "crafts", "O": ["NEW RIVER"]}

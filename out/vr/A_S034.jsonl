@@ -1,0 +1,150 @@
+{"id": "P5-A-B0105-051", "v": "S", "inf": [], "pf": "is epithet of", "S": ["EMPRESS EARTH"], "O": ["GATA"]}
+{"id": "P5-A-B0105-052", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0105-053", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0105-054", "v": "S", "inf": [], "pf": "is sibling of", "qual": "twin"}
+{"id": "P5-A-B0105-055", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0105-056", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0105-057", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0105-058", "v": "S", "inf": [], "pf": "bestows", "O": ["RULE OVER THE EARTH"], "IO": ["ERNALDA"]}
+{"id": "P5-A-B0105-059", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0105-060", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0105-061", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0105-062", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0105-063", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0105-064", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0106-001", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0106-002", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0106-003", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0106-004", "v": "U", "inf": ["subject"], "why": "agent named (Arachne Solara/Ernalda), not spontaneous", "pf": "conceives", "S": ["ARACHNE SOLARA", "ERNALDA"], "O": ["GREAT COMPROMISE"]}
+{"id": "P5-A-B0106-005", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0106-006", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0106-007", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0106-008", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0106-009", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0106-010", "v": "S", "inf": [], "pf": "bestows", "O": ["STRENGTH AND RESOURCES"], "IO": ["ORLANTH", "ORLANTH'S PEOPLE"]}
+{"id": "P5-A-B0106-011", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0106-012", "v": "P", "inf": ["predicate"], "why": "prophesied/visionary event, not narrated as happening", "pf": "descends into"}
+{"id": "P5-A-B0106-013", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0106-014", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0106-015", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0106-016", "v": "S", "inf": [], "pf": "is epithet of", "S": ["EARTH MOTHER"], "O": ["ERNALDA"]}
+{"id": "P5-A-B0106-017", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0106-018", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0106-019", "v": "U", "inf": ["predicate"], "why": "quote states worship, not service", "pf": "is worshipped by", "S": ["ERNALDA"], "O": ["MOST HEORTLING AND TARSHITE WOMEN"]}
+{"id": "P5-A-B0106-020", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0106-021", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0106-022", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0106-023", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0106-024", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0106-025", "v": "P", "inf": ["direct_object"], "why": "gift unspecified, object is recipient not the gift itself", "pf": "bestows"}
+{"id": "P5-A-B0106-026", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0106-027", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0106-028", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0106-029", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0106-030", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0106-031", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0106-032", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0106-033", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0106-034", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0106-035", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0106-036", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0106-038", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0106-039", "v": "S", "inf": [], "pf": "bestows", "O": ["HER GIFTS"], "IO": ["ANGRY MEN"]}
+{"id": "P5-A-B0106-040", "v": "S", "inf": [], "pf": "is epithet of", "S": ["KING OF THE GODS"], "O": ["ORLANTH"]}
+{"id": "P5-A-B0106-041", "v": "P", "inf": ["predicate"], "why": "claims overlordship, not confirmed as actually ruling", "pf": "rules"}
+{"id": "P5-A-B0106-042", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0106-043", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0106-044", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0106-045", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0106-046", "v": "P", "inf": ["direct_object"], "why": "he swears about freeing her, not a mutual oath with her", "pf": "swears oath with"}
+{"id": "P5-A-B0106-047", "v": "U", "inf": ["subject"], "why": "Yelm named as maker; not spontaneous emergence", "pf": "crafts", "S": ["YELM"], "O": ["THE SILENT AND FAR-SHOOTING ARROW"]}
+{"id": "P5-A-B0106-048", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0106-049", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0106-050", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0106-051", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0106-052", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0106-053", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0106-054", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0106-055", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0106-056", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0106-057", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0106-058", "v": "S", "inf": [], "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-A-B0106-059", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0106-060", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0107-001", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0107-002", "v": "S", "inf": [], "pf": "takes title"}
+{"id": "P5-A-B0107-003", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0107-004", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0107-005", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0107-006", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0107-007", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0107-008", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0107-009", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0107-010", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0107-011", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0107-012", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0107-013", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0107-014", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0107-015", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0107-016", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0107-017", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0107-018", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0107-019", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0107-020", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0107-021", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0107-022", "v": "S", "inf": [], "pf": "bestows", "O": ["BOUNTY OF THE EARTH"], "IO": ["ORLANTH"]}
+{"id": "P5-A-B0107-023", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0107-024", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0107-025", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0107-026", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0107-027", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0107-028", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0107-029", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0107-030", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0107-031", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE ARCH SORCERER"], "O": ["ZZABUR"]}
+{"id": "P5-A-B0107-032", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0107-033", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0107-034", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0107-035", "v": "S", "inf": [], "pf": "has domain", "O": ["WOMEN"]}
+{"id": "P5-A-B0107-036", "v": "S", "inf": [], "pf": "has domain", "O": ["WEATHER"]}
+{"id": "P5-A-B0107-037", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0107-038", "v": "S", "inf": [], "pf": "has domain", "O": ["RAIN"]}
+{"id": "P5-A-B0107-039", "v": "S", "inf": [], "pf": "is epithet of", "S": ["KING OF THE GODS"], "O": ["ORLANTH REX"]}
+{"id": "P5-A-B0107-040", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0107-041", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0107-042", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0107-043", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0107-045", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0107-046", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0107-047", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0107-048", "v": "U", "inf": ["subject", "direct_object"], "why": "devotees take the title, direction reversed", "pf": "takes title", "S": ["DEVOTEES OF ORLANTH THUNDERER"], "O": ["THUNDER BROTHER"]}
+{"id": "P5-A-B0107-049", "v": "U", "inf": ["subject", "direct_object"], "why": "devotees take the title, direction reversed", "pf": "takes title", "S": ["DEVOTEES OF ORLANTH ADVENTUROUS"], "O": ["WIND LORD"]}
+{"id": "P5-A-B0107-050", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0107-051", "v": "P", "inf": ["predicate"], "why": "metaphorical taming of anger, not literal binding/imprisonment", "pf": "binds"}
+{"id": "P5-A-B0107-052", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0108-001", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0108-002", "v": "U", "inf": ["predicate"], "why": "quote states devotees are named/called, not that they serve", "pf": "takes title", "S": ["DEVOTEES OF ORLANTH ADVENTUROUS"], "O": ["WIND LORDS"]}
+{"id": "P5-A-B0108-003", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0108-004", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0108-005", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0108-006", "v": "P", "inf": ["predicate"], "why": "witnessed the death, not 'discovered' in the sense of finding/inventing", "pf": "discovers"}
+{"id": "P5-A-B0108-007", "v": "P", "inf": ["predicate"], "why": "healing attempt failed to cure him", "pf": "heals"}
+{"id": "P5-A-B0108-008", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0108-009", "v": "S", "inf": [], "pf": "has domain", "O": ["HEALING"]}
+{"id": "P5-A-B0108-010", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0108-011", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0108-012", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0108-013", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0108-014", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0108-015", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0108-016", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0108-017", "v": "S", "inf": [], "pf": "is epithet of", "S": ["TRICKSTER"], "O": ["EURMAL"]}
+{"id": "P5-A-B0108-018", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0108-019", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0108-020", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0108-021", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0108-022", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0108-023", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0108-024", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0108-025", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0108-026", "v": "P", "inf": ["predicate"], "why": "quote gives mourn or defend; only defend maps to protects", "pf": "protects"}

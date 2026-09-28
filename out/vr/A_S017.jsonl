@@ -1,0 +1,150 @@
+{"id": "P5-A-B0040-008", "v": "P", "inf": ["subject"], "why": "Pronoun 'he' inferred to be Heler from context.", "pf": "protects"}
+{"id": "P5-A-B0040-009", "v": "U", "inf": [], "why": "Quote shows alliance forming, not an oath.", "pf": "allies with"}
+{"id": "P5-A-B0040-010", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0040-011", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0040-012", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0040-013", "v": "U", "inf": [], "why": "Quote states 'is part of', not equation/identification.", "pf": "is part of"}
+{"id": "P5-A-B0040-014", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0040-015", "v": "P", "inf": ["subject"], "why": "Pronoun 'he' inferred as Voriof from context.", "pf": "protects"}
+{"id": "P5-A-B0040-016", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0040-017", "v": "U", "inf": [], "why": "Quote says 'rescued', not generic protection.", "pf": "rescues / frees"}
+{"id": "P5-A-B0040-018", "v": "P", "inf": ["subject"], "why": "Pronoun 'he' inferred as Heler from prior context.", "pf": "transforms into"}
+{"id": "P5-A-B0040-019", "v": "P", "inf": ["subject", "from"], "why": "Pronoun 'his' inferred as Heler; source added.", "pf": "is born from", "O": ["HELER"]}
+{"id": "P5-A-B0040-020", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0040-021", "v": "U", "inf": [], "why": "Quote says 'freed', matching rescue not protection.", "pf": "rescues / frees"}
+{"id": "P5-A-B0040-022", "v": "P", "inf": ["subject"], "why": "Pronoun 'he' inferred as Yuhurol.", "pf": "travels"}
+{"id": "P5-A-B0040-023", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0040-024", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0040-025", "v": "P", "inf": ["indirect_object"], "why": "'us' inferred as the Heortlings.", "pf": "bestows"}
+{"id": "P5-A-B0040-026", "v": "U", "inf": [], "why": "'god of X' phrasing maps to domain not embodiment.", "pf": "has domain"}
+{"id": "P5-A-B0040-027", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0040-028", "v": "P", "inf": ["predicate"], "why": "'lives especially in swords' is metaphorical manifestation.", "pf": "manifests as"}
+{"id": "P5-A-B0040-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0040-030", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0040-031", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0040-032", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0040-033", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0040-034", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0040-035", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0040-036", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0040-037", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0040-038", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0040-039", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0040-040", "v": "P", "inf": ["subject"], "why": "Pronoun 'He' inferred as Humakt.", "pf": "travels"}
+{"id": "P5-A-B0040-041", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0040-042", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0040-043", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0040-044", "v": "P", "inf": ["subject"], "why": "'his brother' inferred as Orlanth from context.", "pf": "resurrects"}
+{"id": "P5-A-B0040-045", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0040-046", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0040-047", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0040-048", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0040-049", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0040-050", "v": "P", "inf": ["predicate"], "why": "'targets of wrath' implies enmity, not explicit fighting.", "pf": "hates"}
+{"id": "P5-A-B0040-051", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0040-052", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0040-053", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0040-054", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0040-055", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0040-056", "v": "U", "inf": [], "why": "Quote says 'led', not 'rules'.", "pf": "leads"}
+{"id": "P5-A-B0040-057", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0040-058", "v": "U", "inf": [], "why": "Humakt named as maker; agentive creation, not spontaneous.", "pf": "conceives", "S": ["HUMAKT"], "O": ["THE DARKNESS"]}
+{"id": "P5-A-B0040-059", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0040-060", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0041-001", "v": "P", "inf": ["subject"], "why": "'Initiation' implies unnamed Humakti initiates as subject.", "pf": "re-enacts"}
+{"id": "P5-A-B0041-002", "v": "P", "inf": ["subject"], "why": "Pronoun 'he' inferred as an initiate.", "pf": "bestows geas"}
+{"id": "P5-A-B0041-003", "v": "U", "inf": [], "why": "Quote names it a subcult, i.e. part-of not membership.", "pf": "is part of"}
+{"id": "P5-A-B0041-004", "v": "P", "inf": ["subject"], "why": "Passive 'will receive' leaves healer agency implicit.", "pf": "heals"}
+{"id": "P5-A-B0041-005", "v": "U", "inf": [], "why": "Direction reversed: devotees take the title 'Swords'.", "pf": "takes title", "S": ["DEVOTEES OF HUMAKT"], "O": ["SWORDS"]}
+{"id": "P5-A-B0041-006", "v": "U", "inf": [], "why": "Quote says 'cursed', a stronger act than a geas.", "pf": "curses"}
+{"id": "P5-A-B0041-007", "v": "P", "inf": [], "why": "'proved honorable' is demonstration, not disclosure of a secret.", "pf": "reveals"}
+{"id": "P5-A-B0041-008", "v": "S", "inf": [], "pf": "makes peace with"}
+{"id": "P5-A-B0041-009", "v": "U", "inf": [], "why": "Direction reversed: disciples take the title 'Death Swords'.", "pf": "takes title", "S": ["DISCIPLES OF HUMAKT"], "O": ["DEATH SWORDS"]}
+{"id": "P5-A-B0041-010", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0041-011", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0041-012", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0041-013", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0041-014", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0041-015", "v": "P", "inf": ["object"], "why": "Identification of 'Wind Lord' with Herand inferred from context.", "pf": "is epithet of", "S": ["WIND LORD"], "O": ["GREAT HERAND"]}
+{"id": "P5-A-B0041-016", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0041-017", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0041-018", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0041-019", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0041-020", "v": "U", "inf": [], "why": "Deity worshipped by people: direction should reverse.", "pf": "is worshipped by", "S": ["DEATH GOD"], "O": ["DUCK PEOPLE OF SARTAR"]}
+{"id": "P5-A-B0041-021", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0041-022", "v": "P", "inf": ["predicate"], "why": "'sworn to destroy' is a vow, not enacted fighting.", "pf": "hunts"}
+{"id": "P5-A-B0041-023", "v": "U", "inf": [], "why": "Quote says 'made', which is crafting not bestowing.", "pf": "crafts", "O": ["SWORDS"]}
+{"id": "P5-A-B0041-024", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0041-025", "v": "U", "inf": [], "why": "Quote says 'made', matching crafting not enchanting.", "pf": "crafts"}
+{"id": "P5-A-B0041-026", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0041-027", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0041-028", "v": "U", "inf": [], "why": "Quote says 'led' an expedition, matching leads.", "pf": "leads"}
+{"id": "P5-A-B0041-029", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0041-030", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0041-031", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0041-032", "v": "P", "inf": ["direct_object"], "why": "Offering itself not named in quote.", "pf": "performs sacrifice"}
+{"id": "P5-A-B0041-033", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0041-034", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0041-035", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0041-036", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0041-037", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0041-038", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0041-039", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0041-040", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0041-041", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0041-042", "v": "P", "inf": ["predicate"], "why": "'gained' implies recovery, not discovering something new.", "pf": "discovers"}
+{"id": "P5-A-B0041-043", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0041-044", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0041-045", "v": "U", "inf": [], "why": "Founding a military organization, not a cult of a deity.", "pf": "founds"}
+{"id": "P5-A-B0041-046", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0041-047", "v": "P", "inf": ["subject"], "why": "'This' pronoun implicitly refers to the battalion's fighting.", "pf": "wages war on"}
+{"id": "P5-A-B0042-001", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0042-002", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0042-003", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0042-004", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0042-005", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0042-006", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0042-007", "v": "U", "inf": [], "why": "'Trickster' is an epithet of Eurmal, direction reversed.", "pf": "is epithet of", "S": ["TRICKSTER"], "O": ["EURMAL"]}
+{"id": "P5-A-B0042-008", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0042-009", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0042-010", "v": "U", "inf": [], "why": "Quote explicitly states this claim was not true.", "pf": "REJECT"}
+{"id": "P5-A-B0042-011", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0042-012", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0042-015", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0042-016", "v": "U", "inf": [], "why": "Orlanth installs Humakt in a new rank/title.", "pf": "appoints", "IO": ["CHAMPION"]}
+{"id": "P5-A-B0042-017", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0042-018", "v": "U", "inf": [], "why": "'God of X' phrasing maps to domain.", "pf": "has domain", "O": ["COMMUNICATION AND TRADE"]}
+{"id": "P5-A-B0042-019", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0042-020", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0042-021", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0042-022", "v": "U", "inf": [], "why": "Worship of a deity by people reverses direction.", "pf": "is worshipped by", "S": ["ISSARIES"], "O": ["MERCHANTS AND HERALDS"]}
+{"id": "P5-A-B0042-023", "v": "U", "inf": [], "why": "'Talking God' is an epithet, direction reversed.", "pf": "is epithet of", "S": ["TALKING GOD"], "O": ["ISSARIES"]}
+{"id": "P5-A-B0042-024", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0042-025", "v": "P", "inf": ["subject"], "why": "Pronoun 'He' inferred as Issaries.", "pf": "teaches"}
+{"id": "P5-A-B0042-026", "v": "P", "inf": ["subject"], "why": "Pronoun 'he' inferred as Issaries.", "pf": "travels"}
+{"id": "P5-A-B0042-027", "v": "U", "inf": [], "why": "Describes his functional role/domain, not a straight identification.", "pf": "has domain"}
+{"id": "P5-A-B0042-028", "v": "P", "inf": ["subject"], "why": "Pronoun 'his' inferred as Issaries in this segment.", "pf": "is member of"}
+{"id": "P5-A-B0042-029", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0042-030", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0042-031", "v": "U", "inf": [], "why": "'Universal Merchant' is an epithet, direction reversed.", "pf": "is epithet of", "S": ["UNIVERSAL MERCHANT"], "O": ["ISSARIES"]}
+{"id": "P5-A-B0042-032", "v": "U", "inf": [], "why": "Describes his function/domain rather than a strict identification.", "pf": "has domain"}
+{"id": "P5-A-B0042-033", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0042-034", "v": "U", "inf": [], "why": "'Uz god of surface darkness' maps to domain.", "pf": "has domain", "O": ["SURFACE DARKNESS"]}
+{"id": "P5-A-B0042-035", "v": "U", "inf": [], "why": "'Solar god of wagons' maps to domain.", "pf": "has domain", "O": ["WAGONS"]}
+{"id": "P5-A-B0042-036", "v": "U", "inf": [], "why": "'Lunar goddess of trade and communication' maps to domain.", "pf": "has domain", "O": ["TRADE AND COMMUNICATION"]}
+{"id": "P5-A-B0042-037", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0042-038", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0042-039", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0042-040", "v": "P", "inf": ["subject"], "why": "'This' pronoun implicitly refers to Issaries' action.", "pf": "defeats"}
+{"id": "P5-A-B0042-041", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0042-042", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0042-043", "v": "U", "inf": [], "why": "Describes a functional domain (grain collection), not identification.", "pf": "has domain", "O": ["SPARE GRAIN"]}
+{"id": "P5-A-B0042-044", "v": "U", "inf": [], "why": "Describes a functional domain (patronage), not identification.", "pf": "has domain", "O": ["SHOPKEEPERS AND URBAN MERCHANTS"]}
+{"id": "P5-A-B0042-045", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0042-046", "v": "U", "inf": [], "why": "'The wanderer' is an epithet, direction reversed.", "pf": "is epithet of", "S": ["THE WANDERER"], "O": ["GULTHA"]}
+{"id": "P5-A-B0042-047", "v": "U", "inf": [], "why": "Worship of a deity by people reverses direction.", "pf": "is worshipped by", "S": ["ISSARIES"], "O": ["MERCHANTS AND TRADERS"]}
+{"id": "P5-A-B0042-048", "v": "P", "inf": ["predicate"], "why": "'favor' implies support, weaker than explicit protection.", "pf": "protects"}
+{"id": "P5-A-B0043-001", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0043-002", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0043-003", "v": "P", "inf": ["indirect_object"], "why": "'them' inferred as people of the towns.", "pf": "teaches"}
+{"id": "P5-A-B0043-004", "v": "P", "inf": ["subject"], "why": "Pronoun 'his' inferred as referring to Garzeen.", "pf": "is sibling of"}

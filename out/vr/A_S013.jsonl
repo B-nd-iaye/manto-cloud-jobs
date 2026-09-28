@@ -1,0 +1,150 @@
+{"id": "P5-A-B0027-017", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0027-018", "v": "P", "inf": ["predicate"], "why": "text says acclaimed king (accession), not ongoing rule", "pf": "accedes to rule"}
+{"id": "P5-A-B0027-019", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0027-020", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0027-021", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0027-022", "v": "U", "inf": ["predicate"], "why": "text says aided, not formal service", "pf": "aids"}
+{"id": "P5-A-B0027-023", "v": "P", "inf": ["predicate"], "why": "stated as Ethilrist's own claim, not confirmed fact", "pf": "fights"}
+{"id": "P5-A-B0027-024", "v": "P", "inf": ["predicate"], "why": "'harrowed' implies conquest and is only a claim", "pf": "descends into"}
+{"id": "P5-A-B0027-025", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0027-026", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0027-027", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0027-028", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0027-029", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0027-030", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0027-031", "v": "P", "inf": ["predicate"], "why": "'took the crown' is an accession event, not ongoing rule", "pf": "accedes to rule"}
+{"id": "P5-A-B0027-032", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0027-033", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0027-034", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0027-035", "v": "P", "inf": ["predicate"], "why": "'destroy' is stronger, matches shatters not defeats", "pf": "shatters"}
+{"id": "P5-A-B0027-036", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0027-037", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0027-038", "v": "U", "inf": ["subject", "object"], "why": "'the Razoress' is an epithet of Jar-eel, not an identification", "pf": "is epithet of", "S": ["THE RAZORESS"], "O": ["JAR-EEL"]}
+{"id": "P5-A-B0027-039", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0027-040", "v": "S", "inf": [], "pf": "hunts"}
+{"id": "P5-A-B0027-041", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0027-042", "v": "U", "inf": ["predicate"], "why": "'returned' after death is resurrection, not manifestation", "pf": "resurrects"}
+{"id": "P5-A-B0027-043", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0027-044", "v": "P", "inf": ["predicate"], "why": "'troubled the peace' vague, not confirmed direct combat", "pf": "invades / raids"}
+{"id": "P5-A-B0027-045", "v": "P", "inf": ["predicate"], "why": "'holding at bay' is defensive containment, not confirmed combat", "pf": "protects"}
+{"id": "P5-A-B0027-046", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0027-047", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0027-048", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0027-049", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0027-050", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0027-051", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0027-052", "v": "P", "inf": ["subject"], "why": "child not yet born, only pregnancy implied", "pf": "is child of"}
+{"id": "P5-A-B0027-053", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0027-054", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0027-055", "v": "P", "inf": ["predicate"], "why": "she 'arranged' it, not confirmed as direct performer", "pf": "dismembers"}
+{"id": "P5-A-B0027-056", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0027-057", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0027-058", "v": "U", "inf": ["predicate"], "why": "mystics support/aid the cult, not serve it as vassals", "pf": "aids"}
+{"id": "P5-A-B0027-059", "v": "U", "inf": ["predicate"], "why": "text says 'submit to', a distinct act from ongoing service", "pf": "submits to"}
+{"id": "P5-A-B0027-060", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0027-061", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0027-062", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0027-063", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0027-064", "v": "P", "inf": ["subject"], "why": "only the tournament winner embodies Belintar, not all subjects", "pf": "embodies"}
+{"id": "P5-A-B0027-065", "v": "U", "inf": ["predicate"], "why": "'shrewd deals' indicates trade/bargain, not a sworn oath", "pf": "trades with"}
+{"id": "P5-A-B0028-001", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0028-002", "v": "U", "inf": ["predicate"], "why": "making a wall is creation, not manifestation", "pf": "conceives"}
+{"id": "P5-A-B0028-003", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0028-004", "v": "P", "inf": ["predicate"], "why": "'seized' implies conquest, stronger than mere travel", "pf": "conquers"}
+{"id": "P5-A-B0028-005", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0028-006", "v": "P", "inf": ["predicate"], "why": "'conquered' implies territorial conquest, not mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0028-007", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0028-008", "v": "U", "inf": ["predicate"], "why": "text says 'submission', a specific act distinct from ongoing service", "pf": "submits to"}
+{"id": "P5-A-B0028-009", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0028-010", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0028-011", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0028-012", "v": "P", "inf": ["predicate"], "why": "'destroyed' is stronger, matches shatters not defeats", "pf": "shatters"}
+{"id": "P5-A-B0028-013", "v": "P", "inf": ["predicate"], "why": "'overthrew' implies removal from power, not just contest defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0028-014", "v": "S", "inf": [], "pf": "allies with"}
+{"id": "P5-A-B0028-015", "v": "P", "inf": ["predicate"], "why": "'led by' indicates leadership of a group, not formal rule", "pf": "leads"}
+{"id": "P5-A-B0028-016", "v": "P", "inf": ["predicate"], "why": "'pursued' matches hunts specifically", "pf": "hunts"}
+{"id": "P5-A-B0028-017", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0028-018", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0028-019", "v": "S", "inf": [], "pf": "imbues"}
+{"id": "P5-A-B0028-020", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0028-021", "v": "U", "inf": ["predicate"], "why": "'awakened' is a specific act, not generic manifestation", "pf": "awakens"}
+{"id": "P5-A-B0028-022", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0028-023", "v": "P", "inf": ["predicate"], "why": "'ward off' implies defensive protection, not confirmed direct combat", "pf": "protects"}
+{"id": "P5-A-B0028-024", "v": "P", "inf": ["predicate"], "why": "'destroyed' is stronger, matches shatters not defeats", "pf": "shatters"}
+{"id": "P5-A-B0028-025", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0028-026", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0028-027", "v": "U", "inf": ["subject", "object"], "why": "the New Storm Gods are worshipped by Voor-ash, not the reverse", "pf": "is worshipped by", "S": ["NEW STORM GODS"], "O": ["VOOR-ASH"]}
+{"id": "P5-A-B0028-028", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0028-029", "v": "P", "inf": ["predicate"], "why": "'led by' indicates leadership, not formal rule", "pf": "leads"}
+{"id": "P5-A-B0028-030", "v": "U", "inf": ["predicate"], "why": "'called' indicates a title, not identification with another being", "pf": "takes title"}
+{"id": "P5-A-B0028-031", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0028-032", "v": "P", "inf": ["predicate"], "why": "'thwart an escape attempt' implies containment, not open combat", "pf": "binds"}
+{"id": "P5-A-B0028-033", "v": "P", "inf": ["predicate"], "why": "'raided' is more specific than generic fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0028-034", "v": "P", "inf": ["predicate"], "why": "'appointed to command' indicates leadership role, not formal rule", "pf": "leads"}
+{"id": "P5-A-B0028-035", "v": "U", "inf": ["subject", "object"], "why": "'the Artess' is an epithet of Jar-eel, not a separate identification", "pf": "is epithet of", "S": ["THE ARTESS"], "O": ["JAR-EEL"]}
+{"id": "P5-A-B0028-036", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0028-037", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0028-038", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0028-039", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0028-040", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0028-041", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0028-042", "v": "P", "inf": ["predicate"], "why": "'purged' implies punishment/elimination, not generic fighting", "pf": "punishes"}
+{"id": "P5-A-B0028-043", "v": "S", "inf": [], "pf": "punishes"}
+{"id": "P5-A-B0028-044", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0028-045", "v": "U", "inf": ["predicate"], "why": "'lover' indicates romantic desire, not confirmed formal marriage", "pf": "loves / desires"}
+{"id": "P5-A-B0028-046", "v": "P", "inf": ["subject"], "why": "creation by Celestial Court is only one of two disputed hypotheses", "pf": "conceives", "S": ["CELESTIAL COURT"], "O": ["RUNES"]}
+{"id": "P5-A-B0028-047", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0028-048", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0028-049", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0029-001", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0029-002", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0029-003", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0029-004", "v": "U", "inf": ["predicate"], "why": "'entered the cosmos' is a cosmogonic origin, not manifestation", "pf": "comes into being"}
+{"id": "P5-A-B0029-005", "v": "U", "inf": ["predicate"], "why": "'abdicate Free Will' matches loses status, not vague station change", "pf": "loses status"}
+{"id": "P5-A-B0029-006", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0029-007", "v": "P", "inf": ["predicate"], "why": "'destroyed' is stronger, matches shatters not defeats", "pf": "shatters"}
+{"id": "P5-A-B0029-008", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0029-009", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0029-010", "v": "U", "inf": ["predicate"], "why": "'Lord of the Middle Fire' is a domain title, not political rule", "pf": "has domain"}
+{"id": "P5-A-B0029-011", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0029-012", "v": "U", "inf": ["predicate"], "why": "'King of Storms' is a domain title, not political rule", "pf": "has domain"}
+{"id": "P5-A-B0029-013", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0029-014", "v": "P", "inf": ["predicate"], "why": "'fought for many generations' indicates sustained war", "pf": "wages war on"}
+{"id": "P5-A-B0029-015", "v": "U", "inf": ["subject", "object"], "why": "Orlanth is worshipped by the Councils, not the reverse", "pf": "is worshipped by", "S": ["ORLANTH", "LIGHTBRINGERS"], "O": ["FIRST AND SECOND COUNCILS"]}
+{"id": "P5-A-B0029-016", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0029-017", "v": "U", "inf": ["subject", "object"], "why": "the Sun Horse is worshipped by the Horse Peoples, not the reverse", "pf": "is worshipped by", "S": ["SUN HORSE"], "O": ["HORSE PEOPLES"]}
+{"id": "P5-A-B0029-018", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0029-019", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0029-020", "v": "P", "inf": ["predicate"], "why": "'continued the rivalry' indicates sustained war", "pf": "wages war on"}
+{"id": "P5-A-B0029-021", "v": "U", "inf": ["subject", "object"], "why": "Yelm and brothers lose status; Red Moon is not the object of that state", "pf": "loses status", "S": ["YELM", "YELM'S BROTHERS"], "O": []}
+{"id": "P5-A-B0029-022", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0030-001", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0030-002", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0030-003", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0030-004", "v": "S", "inf": [], "pf": "substitutes"}
+{"id": "P5-A-B0030-005", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0030-006", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0030-007", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0030-008", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0030-009", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0030-010", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0030-011", "v": "U", "inf": ["predicate"], "why": "'freed' matches rescues/frees, not a vague mythic-station change", "pf": "rescues / frees"}
+{"id": "P5-A-B0030-012", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0030-013", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0030-014", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0030-015", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0030-016", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0030-017", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0030-018", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0030-019", "v": "P", "inf": ["predicate"], "why": "'acclaimed King' is an accession event, not ongoing rule", "pf": "accedes to rule"}
+{"id": "P5-A-B0030-020", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0030-021", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0030-022", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0030-023", "v": "U", "inf": ["object"], "why": "'dragon-friend and giant-master' are titles taken, not vague station change", "pf": "takes title", "O": ["DRAGON-FRIEND", "GIANT-MASTER"]}
+{"id": "P5-A-B0030-024", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0030-025", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0030-026", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0030-027", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0030-028", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0030-029", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0030-030", "v": "U", "inf": ["subject", "object"], "why": "Argrath summoned Jaldon; the tie reverses summoner and summoned", "pf": "summons / invokes", "S": ["ARGRATH"], "O": ["JALDON GOLDENTOOTH"]}

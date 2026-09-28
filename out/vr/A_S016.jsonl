@@ -1,0 +1,150 @@
+{"id": "P5-A-B0037-049", "v": "P", "inf": ["predicate"], "why": "holding a strand is symbolic, not explicit oath-swearing", "pf": "swears oath with"}
+{"id": "P5-A-B0037-050", "v": "U", "inf": ["subject", "direct_object"], "why": "quote has Eurmal worshipped by Orlanthi, tie reverses roles", "pf": "is worshipped by", "S": ["EURMAL"], "O": ["ORLANTHI"]}
+{"id": "P5-A-B0037-051", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0037-052", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0037-053", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0037-054", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Eurmal from prior context", "pf": "is synonym of"}
+{"id": "P5-A-B0037-055", "v": "P", "inf": ["subject"], "why": "\"them\" not explicitly named God Learners in quote", "pf": "dedicates relic"}
+{"id": "P5-A-B0037-056", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Hofhadalos from prior context", "pf": "establishes cult"}
+{"id": "P5-A-B0037-057", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0037-058", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0037-059", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0037-060", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0037-061", "v": "P", "inf": ["direct_object"], "why": "\"the liar\" inferred to be Eurmal", "pf": "kills"}
+{"id": "P5-A-B0037-062", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0037-063", "v": "P", "inf": ["subject"], "why": "referent of \"he\" (Eurmal) comes from prior context", "pf": "is synonym of"}
+{"id": "P5-A-B0037-064", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0037-065", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0037-066", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0037-067", "v": "P", "inf": ["subject"], "why": "identity of Mouse-eye as Eurmal inferred from context", "pf": "is synonym of"}
+{"id": "P5-A-B0037-068", "v": "P", "inf": ["subject"], "why": "\"the two gods\" inferred to be Orlanth and Eurmal", "pf": "swears oath with"}
+{"id": "P5-A-B0038-001", "v": "S", "inf": [], "pf": "possesses / wields"}
+{"id": "P5-A-B0038-002", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0038-003", "v": "P", "inf": ["subject"], "why": "\"He\" inferred to be Eurmal", "pf": "travels"}
+{"id": "P5-A-B0038-004", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0038-005", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0038-006", "v": "S", "inf": [], "pf": "has domain", "O": ["DEATH"]}
+{"id": "P5-A-B0038-007", "v": "P", "inf": ["subject"], "why": "\"the Storm Lord\" inferred to be Orlanth", "pf": "dismembers"}
+{"id": "P5-A-B0038-008", "v": "P", "inf": ["subject"], "why": "\"the bits\" inferred to be Eurmal's remains", "pf": "survives as relic"}
+{"id": "P5-A-B0038-009", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0038-010", "v": "P", "inf": ["predicate"], "why": "\"set off-balance\" is a trick, not a formal challenge", "pf": "tricks"}
+{"id": "P5-A-B0038-011", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0038-012", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0038-013", "v": "P", "inf": ["predicate"], "why": "armies mustered but no actual fighting described", "pf": "wages war on"}
+{"id": "P5-A-B0038-014", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0038-015", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0038-016", "v": "P", "inf": ["subject", "direct_object"], "why": "\"He\"/\"it\" inferred to be Eurmal and the bag", "pf": "steals"}
+{"id": "P5-A-B0038-017", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0038-018", "v": "P", "inf": ["subject"], "why": "\"He\" inferred to be Killer Boy from context", "pf": "shatters"}
+{"id": "P5-A-B0038-019", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0038-020", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0038-021", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0038-022", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Harmast", "pf": "fights"}
+{"id": "P5-A-B0038-023", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Harmast", "pf": "travels"}
+{"id": "P5-A-B0038-024", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0038-025", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Harmast", "pf": "rides"}
+{"id": "P5-A-B0038-026", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0038-027", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0038-028", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0038-029", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0038-030", "v": "P", "inf": ["subject"], "why": "\"He\" inferred to be Harmast", "pf": "travels"}
+{"id": "P5-A-B0038-031", "v": "P", "inf": ["subject", "predicate"], "why": "\"he\" inferred; seat among thanes implies guest not full membership", "pf": "is member of"}
+{"id": "P5-A-B0038-032", "v": "S", "inf": [], "pf": "allies with"}
+{"id": "P5-A-B0038-033", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0038-034", "v": "P", "inf": ["predicate"], "why": "\"smothered\" implies killing, stronger than generic fighting", "pf": "kills"}
+{"id": "P5-A-B0038-035", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Harmast", "pf": "wounds"}
+{"id": "P5-A-B0038-036", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0038-037", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0038-038", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0038-039", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0038-041", "v": "P", "inf": ["from"], "why": "Lord Aranvark's Cabin not named in this quote", "pf": "travels"}
+{"id": "P5-A-B0038-042", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0038-043", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0038-044", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0038-045", "v": "P", "inf": ["subject"], "why": "subject Harmast carried over from prior sentence", "pf": "rides"}
+{"id": "P5-A-B0038-047", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0038-048", "v": "P", "inf": ["subject"], "why": "\"his/he\" inferred to be Harmast", "pf": "discovers"}
+{"id": "P5-A-B0039-001", "v": "U", "inf": ["direct_object"], "why": "a named source (Sramake) is given, contradicting no-agent 'comes into being'", "pf": "is born from", "S": ["HELER"], "O": ["SRAMAKE"]}
+{"id": "P5-A-B0039-002", "v": "P", "inf": ["subject"], "why": "\"He\" inferred to be Heler", "pf": "travels"}
+{"id": "P5-A-B0039-003", "v": "P", "inf": ["predicate"], "why": "\"drowned\" is killing, stronger than mere defeat", "pf": "kills"}
+{"id": "P5-A-B0039-004", "v": "U", "inf": ["predicate"], "why": "\"at the head of\" means leading the army, not ruling it", "pf": "leads"}
+{"id": "P5-A-B0039-005", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0039-006", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0039-007", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0039-008", "v": "P", "inf": ["predicate"], "why": "\"helped to overcome\" implies joint effort, not sole defeat", "pf": "defeats"}
+{"id": "P5-A-B0039-009", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0039-010", "v": "P", "inf": ["predicate"], "why": "\"marched upon\" is an attack/raid rather than generic fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0039-011", "v": "S", "inf": [], "pf": "allies with"}
+{"id": "P5-A-B0039-012", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0039-013", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0039-014", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0039-015", "v": "P", "inf": ["predicate"], "why": "\"sold itself\" implies submission, not ongoing service", "pf": "submits to"}
+{"id": "P5-A-B0039-016", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0039-017", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0039-018", "v": "U", "inf": ["predicate"], "why": "\"released\" is a rescue, not ongoing protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0039-019", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0039-020", "v": "P", "inf": ["predicate"], "why": "religion is an institution; 'part of' fits better than 'member of'", "pf": "is part of"}
+{"id": "P5-A-B0039-021", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0039-022", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0039-023", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0039-024", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0039-025", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0039-026", "v": "U", "inf": ["predicate"], "why": "\"freed\" is a rescue act, not ongoing protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0039-027", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0039-028", "v": "U", "inf": ["predicate"], "why": "\"liberating\" is a rescue, not protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0039-029", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0039-030", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0039-031", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0039-032", "v": "P", "inf": ["direct_object"], "why": "the names may also refer to Heler's minions, not only Heler", "pf": "is epithet of"}
+{"id": "P5-A-B0039-033", "v": "P", "inf": ["subject"], "why": "\"him\" inferred to be Heler", "pf": "is identified as"}
+{"id": "P5-A-B0039-034", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0039-035", "v": "P", "inf": ["subject"], "why": "\"He\" inferred to be Heler", "pf": "transforms into"}
+{"id": "P5-A-B0039-036", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Heler", "pf": "rides"}
+{"id": "P5-A-B0039-037", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0039-038", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0039-039", "v": "P", "inf": ["direct_object"], "why": "\"their god\" inferred to be Heler", "pf": "serves"}
+{"id": "P5-A-B0039-040", "v": "P", "inf": ["predicate"], "why": "quote states an ability, not an actual transformation event", "pf": "transforms into"}
+{"id": "P5-A-B0039-041", "v": "P", "inf": ["predicate"], "why": "'alters mythic station' replaced with closer term for self-earned freedom", "pf": "rescues / frees"}
+{"id": "P5-A-B0039-042", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0039-043", "v": "U", "inf": ["predicate"], "why": "quote says 'aids', not 'protects'", "pf": "aids"}
+{"id": "P5-A-B0039-044", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0039-045", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0039-046", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0039-047", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0039-048", "v": "P", "inf": ["predicate"], "why": "\"loyal to\" is looser than formal service", "pf": "serves"}
+{"id": "P5-A-B0039-049", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0039-050", "v": "P", "inf": ["subject", "direct_object"], "why": "\"They\"/\"him\" inferred to be Water Tribe and Heler", "pf": "curses", "O": ["HELER"]}
+{"id": "P5-A-B0039-051", "v": "P", "inf": ["predicate"], "why": "quote describes mutual enmity/hatred, not active fighting", "pf": "hates"}
+{"id": "P5-A-B0039-052", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0039-053", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0039-054", "v": "U", "inf": ["direct_object"], "why": "named source (Heler) contradicts no-agent 'comes into being'", "pf": "is born from", "S": ["ERELTHAROL"], "O": ["HELER"]}
+{"id": "P5-A-B0039-055", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0039-056", "v": "U", "inf": ["predicate"], "why": "\"fought beside\" means allied together, not against each other", "pf": "allies with"}
+{"id": "P5-A-B0039-057", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0039-058", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0039-059", "v": "P", "inf": ["direct_object"], "why": "\"the Black Ram\" identified with Ereltharol via earlier context", "pf": "kills"}
+{"id": "P5-A-B0039-060", "v": "P", "inf": ["subject"], "why": "antecedent of \"his wife\" ambiguous between Urain and Ereltharol", "pf": "is spouse of"}
+{"id": "P5-A-B0039-061", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0039-062", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0039-063", "v": "S", "inf": [], "pf": "takes title"}
+{"id": "P5-A-B0039-064", "v": "P", "inf": ["direct_object"], "why": "\"his lord\" inferred to be Orlanth", "pf": "serves"}
+{"id": "P5-A-B0039-065", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0039-066", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0039-067", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0039-068", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0039-069", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0039-070", "v": "P", "inf": ["subject"], "why": "\"She\" inferred to be Nevala", "pf": "is child of"}
+{"id": "P5-A-B0039-071", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0039-072", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0039-073", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0039-074", "v": "P", "inf": ["subject"], "why": "\"she\" inferred to be Tarena", "pf": "is child of"}
+{"id": "P5-A-B0039-075", "v": "P", "inf": ["subject"], "why": "\"she\" inferred to be Tarena", "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0039-076", "v": "P", "inf": ["subject"], "why": "\"she\" inferred to be Tarena", "pf": "is child of"}
+{"id": "P5-A-B0039-077", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0040-001", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0040-002", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0040-003", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0040-004", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Uroth", "pf": "travels"}
+{"id": "P5-A-B0040-005", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Uroth", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0040-006", "v": "P", "inf": ["subject"], "why": "\"he\" inferred to be Uroth", "pf": "is child of"}
+{"id": "P5-A-B0040-007", "v": "U", "inf": ["predicate"], "why": "\"led\" means leading in battle, not ruling", "pf": "leads"}

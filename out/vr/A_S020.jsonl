@@ -1,0 +1,150 @@
+{"id": "P5-A-B0052-002", "v": "P", "inf": ["subject", "indirect_object"], "why": "pronouns 'he'/'her' not named in quote as Yinkin/Tarhelera", "pf": "is child of"}
+{"id": "P5-A-B0052-003", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0052-004", "v": "P", "inf": ["subject"], "why": "'He' not identified as Yinkin in this quote", "pf": "fights"}
+{"id": "P5-A-B0052-005", "v": "P", "inf": ["subject"], "why": "subject entirely elided, inferred as Yinkin", "pf": "wounds"}
+{"id": "P5-A-B0052-006", "v": "P", "inf": ["subject"], "why": "'he' inferred as Yinkin from context", "pf": "is child of"}
+{"id": "P5-A-B0052-007", "v": "P", "inf": ["subject"], "why": "performer not named as Yinkini in quote", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0052-008", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0052-009", "v": "P", "inf": ["predicate"], "why": "quote describes attempt/possibility, not actual fight", "pf": "fights"}
+{"id": "P5-A-B0052-010", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0052-011", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0052-012", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0052-013", "v": "P", "inf": ["direct_object"], "why": "'the stranger' not named as Ana Gor in this quote", "pf": "reveals"}
+{"id": "P5-A-B0052-014", "v": "P", "inf": ["subject"], "why": "'she' identified as Ana Gor only via outside context", "pf": "is identified as"}
+{"id": "P5-A-B0052-015", "v": "P", "inf": ["direct_object"], "why": "'her' refers to Ana Gor via context, not named", "pf": "defeats"}
+{"id": "P5-A-B0052-016", "v": "P", "inf": ["subject", "direct_object"], "why": "'she'/'her' refer to Ana Gor via context", "pf": "conquers"}
+{"id": "P5-A-B0052-017", "v": "P", "inf": ["subject"], "why": "'she' inferred as Ana Gor from context", "pf": "is member of"}
+{"id": "P5-A-B0052-018", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0052-019", "v": "P", "inf": ["subject", "predicate"], "why": "'Her' inferred as Ana Gor; quote states dwelling not ruling", "pf": "dwells at"}
+{"id": "P5-A-B0052-020", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0052-021", "v": "P", "inf": ["direct_object", "predicate"], "why": "attack is against her cult, and only attempted", "pf": "fights"}
+{"id": "P5-A-B0052-022", "v": "P", "inf": ["direct_object"], "why": "'her' inferred as Sorana Tor from context", "pf": "invades / raids"}
+{"id": "P5-A-B0052-023", "v": "P", "inf": ["direct_object", "predicate"], "why": "object not named, action vague ('tried')", "pf": "invades / raids"}
+{"id": "P5-A-B0052-024", "v": "P", "inf": ["direct_object"], "why": "'the goddess' inferred as Sorana Tor from context", "pf": "discovers"}
+{"id": "P5-A-B0052-025", "v": "U", "inf": ["predicate"], "why": "quote states death, not descent into underworld; no killer named", "pf": "dies"}
+{"id": "P5-A-B0052-026", "v": "P", "inf": ["in_on_at"], "why": "'there' as Shaker Temple inferred from earlier context", "pf": "embodies"}
+{"id": "P5-A-B0052-027", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0052-028", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0052-029", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0052-030", "v": "P", "inf": ["indirect_object"], "why": "'She' refers to Asrelia via context, not named here", "pf": "is child of"}
+{"id": "P5-A-B0052-031", "v": "P", "inf": ["subject"], "why": "'she' inferred as Asrelia from context", "pf": "protects"}
+{"id": "P5-A-B0052-032", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0052-033", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0052-034", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0052-035", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0052-036", "v": "S", "inf": [], "pf": "is sibling of", "qual": "twin"}
+{"id": "P5-A-B0052-037", "v": "P", "inf": ["subject"], "why": "'She' inferred as Ty Kora Tek from context", "pf": "dismembers"}
+{"id": "P5-A-B0052-038", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0052-039", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0052-040", "v": "P", "inf": ["subject"], "why": "'She' inferred as Ty Kora Tek from context", "pf": "protects"}
+{"id": "P5-A-B0052-041", "v": "P", "inf": ["indirect_object"], "why": "'her sister' inferred as Asrelia from context", "pf": "bestows"}
+{"id": "P5-A-B0052-042", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0052-043", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0052-044", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0053-001", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0053-002", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0053-003", "v": "P", "inf": ["predicate"], "why": "quote says 'tends', not 'rules'", "pf": "protects"}
+{"id": "P5-A-B0053-004", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0053-005", "v": "S", "inf": [], "pf": "sends"}
+{"id": "P5-A-B0053-006", "v": "P", "inf": ["direct_object"], "why": "'them' refers to ghosts via context", "pf": "kills"}
+{"id": "P5-A-B0053-007", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0053-008", "v": "P", "inf": ["direct_object"], "why": "'us' inferred as Heortlings from context", "pf": "teaches"}
+{"id": "P5-A-B0053-009", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0053-010", "v": "U", "inf": ["subject", "at_the_instigation_of"], "why": "agent named ('They created'), contradicting no-agent 'comes into being'", "pf": "conceives", "S": ["OLD GODS"], "O": ["UMATH"]}
+{"id": "P5-A-B0053-011", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0053-012", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0053-013", "v": "P", "inf": ["predicate"], "why": "'matched, like' is an example pairing, not explicit marriage", "pf": "is spouse of"}
+{"id": "P5-A-B0053-014", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE MOTHER OF THE SHELL HORSES"], "O": ["ASRELIA"]}
+{"id": "P5-A-B0053-015", "v": "P", "inf": ["direct_object"], "why": "'her' inferred as Asrelia from context", "pf": "rescues / frees"}
+{"id": "P5-A-B0053-016", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0053-017", "v": "P", "inf": ["subject", "direct_object"], "why": "'She'/'ours' inferred as Asrelia/Old Gods via context", "pf": "rules"}
+{"id": "P5-A-B0053-018", "v": "P", "inf": ["subject", "direct_object"], "why": "'We'/'you' inferred as Old Gods/Umath via context", "pf": "bestows geas"}
+{"id": "P5-A-B0053-019", "v": "P", "inf": ["direct_object"], "why": "'them' inferred as Umath and Asrelia via context", "pf": "binds"}
+{"id": "P5-A-B0053-020", "v": "S", "inf": [], "pf": "causes"}
+{"id": "P5-A-B0053-021", "v": "S", "inf": [], "pf": "causes"}
+{"id": "P5-A-B0053-022", "v": "P", "inf": ["subject"], "why": "'he' inferred as Umath from context", "pf": "kills"}
+{"id": "P5-A-B0053-023", "v": "P", "inf": ["subject"], "why": "'he' inferred as Umath from context", "pf": "dismembers"}
+{"id": "P5-A-B0053-024", "v": "U", "inf": ["predicate"], "why": "quote describes exclusion/locking out, not imprisonment", "pf": "exiles / banishes"}
+{"id": "P5-A-B0053-025", "v": "P", "inf": ["subject"], "why": "'They' inferred as Old Gods from context", "pf": "binds"}
+{"id": "P5-A-B0053-026", "v": "P", "inf": ["subject"], "why": "'We' inferred as Heortlings from context", "pf": "claims ancestry"}
+{"id": "P5-A-B0053-027", "v": "U", "inf": ["predicate"], "why": "'alters mythic station' not a precise v2 term; needs specific transformation", "pf": "transforms into", "S": ["UMATH", "ASRELIA"], "O": ["POWERS OF VIOLENCE AND SEPARATION"]}
+{"id": "P5-A-B0053-028", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0053-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0053-030", "v": "P", "inf": ["direct_object"], "why": "'us' inferred as Heortlings from context", "pf": "teaches"}
+{"id": "P5-A-B0053-031", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0053-032", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0053-033", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0053-034", "v": "S", "inf": [], "pf": "is epithet of", "S": ["AVENGING GODDESS", "GUARDIAN OF THE EARTH FAMILY"], "O": ["BABEESTER GOR"]}
+{"id": "P5-A-B0053-035", "v": "P", "inf": ["direct_object"], "why": "'her mother' inferred as Ernalda from context", "pf": "is born from"}
+{"id": "P5-A-B0053-036", "v": "S", "inf": [], "pf": "takes title"}
+{"id": "P5-A-B0053-037", "v": "P", "inf": ["subject"], "why": "'she' inferred as Babeester Gor from context", "pf": "kills"}
+{"id": "P5-A-B0053-038", "v": "P", "inf": ["subject"], "why": "fortifying done by drink/blood, not directly stated as Babeester's act", "pf": "bestows"}
+{"id": "P5-A-B0053-039", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0053-040", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE LAST GUARDIAN"], "O": ["OVODAKA"]}
+{"id": "P5-A-B0053-041", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0053-042", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0054-001", "v": "P", "inf": ["subject"], "why": "'She' inferred as Babeester Gor from context", "pf": "resurrects"}
+{"id": "P5-A-B0054-002", "v": "P", "inf": ["subject"], "why": "'She' inferred as Babeester Gor from context", "pf": "kills"}
+{"id": "P5-A-B0054-003", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0054-004", "v": "P", "inf": ["subject"], "why": "subject Babeester Gor not stated in this quote", "pf": "takes title"}
+{"id": "P5-A-B0054-005", "v": "P", "inf": ["subject"], "why": "'She' inferred as Babeester Gor from context", "pf": "protects"}
+{"id": "P5-A-B0054-006", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0054-007", "v": "S", "inf": [], "pf": "causes"}
+{"id": "P5-A-B0054-008", "v": "P", "inf": ["subject"], "why": "'the goddess' inferred as Babeester Gor via context", "pf": "takes title"}
+{"id": "P5-A-B0054-009", "v": "P", "inf": ["predicate"], "why": "quote states hall's location, not governance", "pf": "dwells at"}
+{"id": "P5-A-B0054-010", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0054-011", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0054-012", "v": "P", "inf": ["direct_object"], "why": "'him' inferred as Barntar from context", "pf": "binds"}
+{"id": "P5-A-B0054-013", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0054-014", "v": "P", "inf": ["indirect_object"], "why": "'her husband' inferred as Orlanth from context", "pf": "reveals"}
+{"id": "P5-A-B0054-015", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0054-016", "v": "P", "inf": ["direct_object"], "why": "'him' inferred as Barntar from context", "pf": "seduces"}
+{"id": "P5-A-B0054-017", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0054-018", "v": "U", "inf": ["at_the_instigation_of"], "why": "agent named ('he invented'), contradicting no-agent 'comes into being'", "pf": "discovers", "S": ["VADRUS"], "O": ["SLAVERY"]}
+{"id": "P5-A-B0054-019", "v": "P", "inf": ["predicate"], "why": "quote describes trade for help, not a gift", "pf": "exchanges"}
+{"id": "P5-A-B0054-020", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0054-021", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0054-022", "v": "P", "inf": ["predicate"], "why": "quote states house's location, not governance", "pf": "dwells at"}
+{"id": "P5-A-B0054-023", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0054-024", "v": "S", "inf": [], "pf": "substitutes"}
+{"id": "P5-A-B0054-025", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0054-026", "v": "P", "inf": ["subject", "from"], "why": "subject and victim inferred from prior context sentence", "pf": "steals"}
+{"id": "P5-A-B0054-027", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0054-028", "v": "P", "inf": ["direct_object"], "why": "'him' inferred as Barntar from context", "pf": "invades / raids"}
+{"id": "P5-A-B0054-029", "v": "P", "inf": ["subject", "direct_object"], "why": "'they'/'best of carls' inferred as Vadrudi/Barntar via context", "pf": "kills"}
+{"id": "P5-A-B0054-030", "v": "P", "inf": ["subject"], "why": "'They' inferred as 'the women' from context", "pf": "founds"}
+{"id": "P5-A-B0054-031", "v": "P", "inf": ["subject"], "why": "'they' collectively inferred beyond named Orlanth", "pf": "travels"}
+{"id": "P5-A-B0054-032", "v": "P", "inf": ["predicate"], "why": "wall melted as consequence, not directly shattered by Elmal", "pf": "shatters"}
+{"id": "P5-A-B0054-033", "v": "P", "inf": ["subject"], "why": "'He' inferred as Vadrus from context", "pf": "challenges"}
+{"id": "P5-A-B0054-034", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0054-035", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0054-036", "v": "P", "inf": ["subject", "direct_object"], "why": "subject/object pronouns for Orlanth/Vadrus inferred via context", "pf": "wounds"}
+{"id": "P5-A-B0054-037", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0054-038", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0054-039", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0054-040", "v": "P", "inf": ["subject"], "why": "'They' inferred as Vadrudi from context", "pf": "fights"}
+{"id": "P5-A-B0054-041", "v": "U", "inf": ["at_the_instigation_of"], "why": "agent named ('he had made that law'), contradicting no-agent 'comes into being'", "pf": "founds", "S": ["ORLANTH"], "O": ["WERGILD"]}
+{"id": "P5-A-B0054-042", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0054-043", "v": "P", "inf": ["direct_object"], "why": "'They' inferred as Orlanth/council, not stated as Orlanth specifically", "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-A-B0054-044", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0055-001", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE CALM AIR"], "O": ["BRASTALOS"]}
+{"id": "P5-A-B0055-002", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0055-003", "v": "P", "inf": ["subject"], "why": "'She' inferred as Brastalos from context", "pf": "travels"}
+{"id": "P5-A-B0055-004", "v": "P", "inf": ["subject"], "why": "'she' inferred as Brastalos from context", "pf": "is child of"}
+{"id": "P5-A-B0055-005", "v": "P", "inf": ["subject"], "why": "subject elided, inferred as Brastalos from context", "pf": "is child of"}
+{"id": "P5-A-B0055-006", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0055-007", "v": "P", "inf": ["subject"], "why": "'He' inferred as Donandar from context", "pf": "claims ancestry"}
+{"id": "P5-A-B0055-008", "v": "P", "inf": ["subject"], "why": "'He' inferred as Donandar from context", "pf": "is child of"}
+{"id": "P5-A-B0055-009", "v": "P", "inf": ["subject"], "why": "'his' inferred as Donandar from context", "pf": "is child of"}
+{"id": "P5-A-B0055-010", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0055-011", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0055-012", "v": "P", "inf": ["subject"], "why": "'He' inferred as Donandar from context", "pf": "transforms into"}
+{"id": "P5-A-B0055-013", "v": "P", "inf": ["direct_object"], "why": "'him' inferred as Donandar from context", "pf": "kills"}
+{"id": "P5-A-B0055-014", "v": "P", "inf": ["subject", "direct_object"], "why": "'His'/'him' inferred as Donandar/his children from context", "pf": "protects"}
+{"id": "P5-A-B0055-015", "v": "P", "inf": ["subject"], "why": "'he' inferred as Donandar from context", "pf": "is part of"}
+{"id": "P5-A-B0055-016", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0055-017", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0055-018", "v": "P", "inf": ["subject"], "why": "'he' inferred as Donandar from context", "pf": "is identified as", "qual": "rationalisation"}
+{"id": "P5-A-B0055-019", "v": "P", "inf": ["subject"], "why": "'he' inferred as Donandar from context", "pf": "is child of"}
+{"id": "P5-A-B0055-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0055-021", "v": "S", "inf": [], "pf": "manifests as"}

@@ -1,0 +1,150 @@
+{"id": "P5-A-B0030-031", "v": "P", "inf": ["predicate"], "why": "quote shows expulsion, not contest-defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0030-032", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0030-033", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0030-034", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0030-035", "v": "U", "inf": ["predicate"], "why": "quote shows liberating, not protecting", "pf": "rescues / frees"}
+{"id": "P5-A-B0030-036", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0030-037", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0030-038", "v": "U", "inf": ["predicate"], "why": "quote states death, not descent to underworld", "pf": "dies", "O": ["BATTLE OF QUEENS"]}
+{"id": "P5-A-B0030-039", "v": "U", "inf": ["predicate"], "why": "founding secret societies, not a deity cult", "pf": "founds"}
+{"id": "P5-A-B0030-040", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0030-041", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0030-042", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0030-043", "v": "P", "inf": ["predicate"], "why": "general support stated, not specific protection", "pf": "aids"}
+{"id": "P5-A-B0030-044", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0030-045", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0030-046", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0030-047", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0030-048", "v": "U", "inf": ["predicate"], "why": "founding a magical unit, not a deity cult", "pf": "founds"}
+{"id": "P5-A-B0030-049", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0030-050", "v": "U", "inf": ["predicate", "subject", "direct_object"], "why": "quote shows deity worshipped by shamans, reversed direction", "pf": "is worshipped by", "S": ["THUNDERBIRD"], "O": ["SHAMANS OF PRAX"]}
+{"id": "P5-A-B0030-051", "v": "U", "inf": ["predicate"], "why": "founding a magical unit, not a deity cult", "pf": "founds"}
+{"id": "P5-A-B0030-052", "v": "U", "inf": ["predicate"], "why": "literal lighting of flame, not bringing enlightenment to a being", "pf": "causes"}
+{"id": "P5-A-B0030-053", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0030-054", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0030-055", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0030-056", "v": "U", "inf": ["predicate"], "why": "text shows summoning, not manifesting", "pf": "summons / invokes"}
+{"id": "P5-A-B0030-057", "v": "P", "inf": ["predicate"], "why": "fighting alongside shown, not formal service", "pf": "aids"}
+{"id": "P5-A-B0030-058", "v": "P", "inf": ["predicate"], "why": "'joined' indicates membership, not service", "pf": "is member of"}
+{"id": "P5-A-B0030-059", "v": "P", "inf": ["predicate"], "why": "conquest of a kingdom, more specific than generic defeat", "pf": "conquers"}
+{"id": "P5-A-B0030-060", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0030-061", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0030-062", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0030-063", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0030-064", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0031-001", "v": "P", "inf": ["predicate"], "why": "priesthood (office), not generic service", "pf": "holds office in"}
+{"id": "P5-A-B0031-002", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0031-003", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-A-B0031-004", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0031-005", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0031-006", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0031-007", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0031-008", "v": "P", "inf": ["predicate"], "why": "attribution hedged by 'some say'", "pf": "is identified as"}
+{"id": "P5-A-B0031-009", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0031-010", "v": "P", "inf": ["predicate"], "why": "epithet implies office, not stated act of service", "pf": "holds office in"}
+{"id": "P5-A-B0031-011", "v": "P", "inf": ["predicate"], "why": "preparation of an expedition stated, not actual fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0031-012", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0031-013", "v": "S", "inf": [], "pf": "substitutes"}
+{"id": "P5-A-B0031-014", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0031-015", "v": "P", "inf": ["predicate"], "why": "specific act is shaming/depriving, i.e. punishing", "pf": "punishes"}
+{"id": "P5-A-B0031-016", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0031-017", "v": "P", "inf": ["predicate"], "why": "text shows speech/advice, not formal teaching", "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-A-B0031-018", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0031-019", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0031-020", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0031-021", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0031-022", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0031-023", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0031-024", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0031-025", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0031-026", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0031-027", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0031-028", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0031-029", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0031-030", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0031-031", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0031-032", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0031-033", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0031-034", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0031-035", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0032-001", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0032-002", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0032-003", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0032-004", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0032-005", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0032-006", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0032-007", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0032-008", "v": "U", "inf": ["predicate"], "why": "agent named (Orlanth made it), contradicts spontaneous emergence", "pf": "founds", "S": ["ORLANTH"], "O": ["STORM RING"]}
+{"id": "P5-A-B0032-009", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0032-010", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0032-011", "v": "P", "inf": ["subject"], "why": "'him' refers to the heroquesting Wind Lord, not Orlanth directly", "pf": "fights"}
+{"id": "P5-A-B0032-012", "v": "P", "inf": ["predicate"], "why": "text states enmity/foe status, not an act of fighting", "pf": "hates"}
+{"id": "P5-A-B0032-013", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-014", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-015", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-016", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-017", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-018", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-019", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-020", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-021", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-022", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0032-023", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0032-024", "v": "U", "inf": ["predicate"], "why": "Umath named as agent, contradicts spontaneous emergence", "pf": "conceives", "S": ["UMATH"], "O": ["AIR REALM"]}
+{"id": "P5-A-B0032-025", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0032-026", "v": "P", "inf": ["predicate"], "why": "metaphorical abandonment ('treated as dead'), not literal departure", "pf": "departs from"}
+{"id": "P5-A-B0032-027", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0032-028", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0032-029", "v": "P", "inf": ["predicate"], "why": "text shows a reply/advice, not formal teaching", "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-A-B0032-030", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0032-031", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0032-032", "v": "S", "inf": [], "pf": "loses status"}
+{"id": "P5-A-B0032-033", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0032-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0032-035", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0032-036", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0032-037", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0032-038", "v": "P", "inf": ["predicate"], "why": "'God of Winter' is a domain statement, not a generic identification", "pf": "has domain"}
+{"id": "P5-A-B0033-001", "v": "S", "inf": [], "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-A-B0033-002", "v": "U", "inf": ["predicate", "subject", "direct_object"], "why": "quote shows deity worshipped by women, reversed direction, not initiation", "pf": "is worshipped by", "S": ["ASRELIA", "TY KORA TEK"], "O": ["WOMEN"]}
+{"id": "P5-A-B0033-003", "v": "P", "inf": ["direct_object"], "why": "'Hedkoranth's foes' are recipients of sacrifice, not the offering", "pf": "performs sacrifice", "O": [], "IO": ["HEDKORANTH'S FOES"]}
+{"id": "P5-A-B0033-004", "v": "P", "inf": ["predicate"], "why": "text describes preceding order in battle, not manifestation into a form", "pf": "appears", "O": ["WORSHIPPERS OF SHARGASH OR YELM", "WORSHIPPERS OF URVAIRINUS"]}
+{"id": "P5-A-B0033-005", "v": "P", "inf": ["predicate"], "why": "describes ongoing conflation of these gods, not a vague mythic-station change", "pf": "is identified as", "S": ["HEDKORANTH'S FOES"], "O": ["SHARGASH", "YELM", "URVAIRINUS"], "qual": "conflation"}
+{"id": "P5-A-B0033-006", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0033-007", "v": "P", "inf": ["predicate"], "why": "'Goddess of Healing' states a domain, not embodiment of a Rune/element", "pf": "has domain"}
+{"id": "P5-A-B0033-008", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0033-009", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0033-010", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0033-011", "v": "P", "inf": ["predicate"], "why": "'greatest healing goddess' states domain, not embodiment", "pf": "has domain"}
+{"id": "P5-A-B0033-012", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0033-013", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0033-014", "v": "P", "inf": ["predicate"], "why": "text shows aiding, not service/vassalage", "pf": "aids"}
+{"id": "P5-A-B0033-015", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0033-016", "v": "P", "inf": ["subject"], "why": "paternity hedged ('one or all'), not definitively all named gods", "pf": "is child of"}
+{"id": "P5-A-B0033-017", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0033-018", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0033-019", "v": "P", "inf": ["predicate"], "why": "text states meeting, not the act of travel", "pf": "travels"}
+{"id": "P5-A-B0033-020", "v": "U", "inf": ["predicate"], "why": "quote describes a healing act, not bestowing a gift", "pf": "heals", "O": ["FLESH MAN"]}
+{"id": "P5-A-B0033-021", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0033-022", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0033-023", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0033-024", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0033-025", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0033-026", "v": "U", "inf": ["predicate"], "why": "quote describes dwelling, not group membership", "pf": "dwells at", "O": ["THE STORM VILLAGE"]}
+{"id": "P5-A-B0033-027", "v": "P", "inf": ["predicate"], "why": "text shows helping/aiding in healing task, not general servitude", "pf": "aids"}
+{"id": "P5-A-B0034-001", "v": "P", "inf": ["predicate"], "why": "text shows targeting/attacking healers, not mutual fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0034-002", "v": "P", "inf": ["predicate"], "why": "'Great Healer' is an honorific title, more precisely an epithet", "pf": "is epithet of"}
+{"id": "P5-A-B0034-003", "v": "P", "inf": ["predicate"], "why": "text states enmity status, not fighting act", "pf": "hates"}
+{"id": "P5-A-B0034-004", "v": "P", "inf": ["predicate"], "why": "text describes animosity between cults, not fighting", "pf": "hates"}
+{"id": "P5-A-B0034-005", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0034-006", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0034-007", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0034-008", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0034-009", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0034-010", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0034-011", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0034-012", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0034-013", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0034-014", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0034-015", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0034-016", "v": "P", "inf": ["predicate"], "why": "'attacked' is more specific than generic fighting", "pf": "invades / raids"}

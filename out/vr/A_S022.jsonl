@@ -1,0 +1,150 @@
+{"id": "P5-A-B0058-043", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0058-044", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0058-045", "v": "P", "inf": ["direct_object"], "why": "no specific mythic path named, generalized virtue-modeling", "pf": "re-enacts"}
+{"id": "P5-A-B0058-046", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0058-047", "v": "P", "inf": ["predicate"], "why": "quote states goal to gain blessing, not narrated bestowal", "pf": "bestows"}
+{"id": "P5-A-B0058-048", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0058-049", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0058-050", "v": "P", "inf": ["indirect_object"], "why": "keys returned to aid Talor, not stated given to him", "pf": "bestows"}
+{"id": "P5-A-B0058-051", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0058-052", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0058-053", "v": "P", "inf": ["predicate"], "why": "quote mixes enslaving, hiding, killing; binds captures only part", "pf": "binds"}
+{"id": "P5-A-B0058-054", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0058-055", "v": "P", "inf": ["predicate"], "why": "destroyed a being implies killing, not shattering", "pf": "kills"}
+{"id": "P5-A-B0059-001", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0059-002", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0059-003", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0059-004", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0059-005", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0059-006", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0059-007", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0059-008", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0059-009", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0059-010", "v": "U", "inf": ["predicate"], "why": "forming Unity Council is founding a body, not establishing a cult", "pf": "founds"}
+{"id": "P5-A-B0059-011", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0059-012", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0059-013", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0059-014", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0059-015", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0059-016", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0059-017", "v": "P", "inf": ["predicate"], "why": "joining a siege is an attack/raid, not generic fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0059-018", "v": "U", "inf": ["predicate"], "why": "quote states betrayal, not generic fighting", "pf": "betrays"}
+{"id": "P5-A-B0059-019", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0059-020", "v": "P", "inf": ["predicate"], "why": "named founder Sartar; comes into being too generic", "pf": "founds"}
+{"id": "P5-A-B0059-021", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0059-022", "v": "P", "inf": ["predicate"], "why": "'alters mythic station' too vague; apotheosis is deification", "pf": "is deified"}
+{"id": "P5-A-B0059-023", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0059-024", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0059-025", "v": "P", "inf": ["predicate"], "why": "quote says conquered, stronger than mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0059-026", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0059-027", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0059-028", "v": "P", "inf": ["predicate"], "why": "quote shows feats to prove worthy, not confirmed membership", "pf": "is member of"}
+{"id": "P5-A-B0059-029", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0059-030", "v": "U", "inf": ["subject", "object"], "why": "Pole Star is epithet of Rigsdal, direction reversed in tie", "pf": "is epithet of", "S": ["POLE STAR"], "O": ["RIGSDAL"]}
+{"id": "P5-A-B0060-001", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0060-002", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0060-003", "v": "P", "inf": ["predicate"], "why": "God Learners are people; destroyed implies killed not shattered", "pf": "kills"}
+{"id": "P5-A-B0060-004", "v": "P", "inf": ["predicate"], "why": "'manifests' not specific; no form given so treated as appearing", "pf": "appears"}
+{"id": "P5-A-B0060-005", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0060-006", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0060-007", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0060-008", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0060-009", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0060-010", "v": "P", "inf": ["predicate"], "why": "named agent (Silence) wishing world into being is agentive creation", "pf": "conceives"}
+{"id": "P5-A-B0060-011", "v": "P", "inf": ["predicate"], "why": "named agent (Celestial Court) making world is agentive creation", "pf": "conceives"}
+{"id": "P5-A-B0060-012", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0060-013", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0060-014", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0060-015", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0060-016", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0060-017", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0060-018", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0060-019", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0060-020", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0060-021", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0060-022", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0060-023", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0060-024", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0060-025", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0060-026", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0060-027", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0060-028", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0060-029", "v": "P", "inf": ["predicate"], "why": "named agent (Celestial Court) building; crafts more specific", "pf": "crafts"}
+{"id": "P5-A-B0060-030", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0060-031", "v": "P", "inf": ["subject"], "why": "quote names Mostal as engineer, restored as agent", "pf": "crafts", "S": ["MOSTAL"], "O": ["SPIKE"]}
+{"id": "P5-A-B0060-032", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0060-033", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0060-034", "v": "P", "inf": ["subject"], "why": "quote names Celestial Court as creator, restored as agent", "pf": "conceives", "S": ["CELESTIAL COURT"], "O": ["FORM RUNES"]}
+{"id": "P5-A-B0060-035", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0060-036", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0060-037", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0060-038", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0060-039", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0060-040", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0060-041", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0060-042", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0060-043", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0060-044", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0060-045", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0060-046", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0060-047", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0060-048", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-A-B0060-049", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0060-050", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0061-001", "v": "P", "inf": ["predicate"], "why": "'contested as equal' implies rivalry/challenge more than combat", "pf": "challenges"}
+{"id": "P5-A-B0061-002", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0061-003", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0061-004", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0061-005", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0061-006", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0061-007", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0061-008", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0061-009", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0061-010", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0061-011", "v": "U", "inf": ["direct_object", "indirect_object"], "why": "tie's O is recipient not gift; powers are the gift given to recipients", "pf": "bestows", "O": ["THE POWERS"], "IO": ["ANYONE CAPABLE OF WIELDING THE POWERS"]}
+{"id": "P5-A-B0061-012", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0061-013", "v": "P", "inf": ["predicate"], "why": "no vocabulary term for self-impregnation; approximated", "pf": "causes"}
+{"id": "P5-A-B0061-014", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0061-015", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0061-016", "v": "P", "inf": ["predicate"], "why": "quote only implies ownership, not explicit service", "pf": "serves"}
+{"id": "P5-A-B0061-017", "v": "P", "inf": ["predicate"], "why": "stamping intended destruction but no confirmed wound to Krarsht", "pf": "fights"}
+{"id": "P5-A-B0061-018", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0061-019", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0061-020", "v": "P", "inf": ["predicate"], "why": "blood creating a cesspool is a caused phenomenon, not manifestation", "pf": "causes"}
+{"id": "P5-A-B0061-021", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0061-022", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0061-023", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0061-024", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0061-025", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0061-026", "v": "P", "inf": ["object"], "why": "hedged claim 'some call kinsman', not asserted directly", "pf": "is sibling of"}
+{"id": "P5-A-B0061-027", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0061-028", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0061-029", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0061-030", "v": "P", "inf": ["predicate"], "why": "no exact term for self-perversion of nature into a weapon", "pf": "transforms into"}
+{"id": "P5-A-B0061-031", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0061-032", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0061-033", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0061-034", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0061-035", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0061-036", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0061-037", "v": "S", "inf": [], "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-A-B0061-038", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0061-039", "v": "P", "inf": ["predicate"], "why": "'wields' implies possession/use, not essential embodiment", "pf": "possesses / wields"}
+{"id": "P5-A-B0061-040", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0061-041", "v": "U", "inf": ["predicate"], "why": "quote says Kajabor led the army, not that he ruled it", "pf": "leads"}
+{"id": "P5-A-B0061-042", "v": "U", "inf": ["predicate"], "why": "quote says Genert led the army, not that he ruled it", "pf": "leads"}
+{"id": "P5-A-B0061-043", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0061-044", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0061-045", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0061-046", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0061-047", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0061-048", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0061-049", "v": "P", "inf": ["predicate"], "why": "'saved' is stronger rescue act than generic protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0061-050", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0061-051", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0061-052", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0061-053", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0061-054", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0061-055", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0061-056", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0061-057", "v": "S", "inf": [], "pf": "dismembers"}

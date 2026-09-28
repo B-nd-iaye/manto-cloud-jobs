@@ -1,0 +1,150 @@
+{"id": "P5-A-B0003-040", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0003-041", "v": "P", "inf": ["subject"], "why": "Verala Tor not named in this quote fragment", "pf": "takes title", "S": ["VERALA TOR"], "O": ["MOTHER OF LANDS"]}
+{"id": "P5-A-B0003-042", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0003-043", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0003-044", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0003-045", "v": "P", "inf": ["subject"], "why": "'She' referring to Vistera is a pronoun, not named", "pf": "takes title", "S": ["VISTERA"], "O": ["WITH BITTER HEART"]}
+{"id": "P5-A-B0003-046", "v": "P", "inf": ["predicate"], "why": "she had them murdered, not direct killing act", "pf": "kills"}
+{"id": "P5-A-B0003-047", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0003-048", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0003-049", "v": "P", "inf": ["subject"], "why": "Sorana not named in this quote fragment", "pf": "takes title", "S": ["SORANA"], "O": ["SPLENDID AMONG THE PROUD"]}
+{"id": "P5-A-B0003-050", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0003-051", "v": "P", "inf": ["subject"], "why": "'She' referring to Inkarne is a pronoun, not named", "pf": "takes title", "S": ["INKARNE"], "O": ["REACHES ALL"]}
+{"id": "P5-A-B0003-052", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0003-053", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0003-054", "v": "P", "inf": ["predicate"], "why": "entertaining is not clearly formal service", "pf": "serves"}
+{"id": "P5-A-B0003-055", "v": "U", "inf": ["predicate"], "why": "quote says 'led', not 'rules'", "pf": "leads"}
+{"id": "P5-A-B0003-056", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["DONANDAR", "TYLENEA"], "O": ["PUPPETEER TROUPE"]}
+{"id": "P5-A-B0003-057", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0003-058", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0003-059", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0003-060", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0003-061", "v": "P", "inf": ["subject"], "why": "Earth Temple not named as initiator in quote", "pf": "initiates into cult"}
+{"id": "P5-A-B0003-062", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0003-063", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0003-064", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0003-065", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0003-066", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0003-067", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0003-068", "v": "P", "inf": ["object"], "why": "Hon-eel not named as target of rebellion in quote", "pf": "fights"}
+{"id": "P5-A-B0003-069", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0003-070", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0003-071", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0003-072", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0003-073", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0003-074", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0003-075", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0003-076", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0003-077", "v": "U", "inf": ["predicate"], "why": "quote says 'led', not 'rules'", "pf": "leads"}
+{"id": "P5-A-B0003-078", "v": "U", "inf": ["predicate"], "why": "quote states enmity, no fighting narrated", "pf": "hates"}
+{"id": "P5-A-B0004-001", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0004-002", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0004-003", "v": "P", "inf": ["predicate"], "why": "quote says 'conquered', stronger than 'defeats'", "pf": "conquers"}
+{"id": "P5-A-B0004-004", "v": "S", "inf": [], "pf": "illuminates", "O": ["MOIRADES"]}
+{"id": "P5-A-B0004-005", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0004-006", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-007", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-008", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-009", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0004-010", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0004-011", "v": "P", "inf": ["predicate"], "why": "quote says 'conquered', stronger than 'defeats'", "pf": "conquers"}
+{"id": "P5-A-B0004-012", "v": "P", "inf": ["predicate"], "why": "quote specifies invaded, more specific than 'fights'", "pf": "invades / raids"}
+{"id": "P5-A-B0004-013", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0004-014", "v": "P", "inf": ["object"], "why": "Philigos not named as the slain Lunar king in quote", "pf": "is sibling of"}
+{"id": "P5-A-B0004-015", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0004-016", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0004-017", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0004-018", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0004-019", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0004-020", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-021", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-022", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0004-023", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0004-024", "v": "P", "inf": ["in_on_at"], "why": "'our great city' inferred to be Nochet", "pf": "comes into being"}
+{"id": "P5-A-B0004-025", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-026", "v": "P", "inf": ["predicate"], "why": "fighting only implied via 'aided against', not directly stated", "pf": "fights"}
+{"id": "P5-A-B0004-027", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-028", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0004-029", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0004-030", "v": "U", "inf": ["predicate"], "why": "'much conflict' is vague, no combat narrated", "pf": "hates"}
+{"id": "P5-A-B0004-031", "v": "P", "inf": ["subject"], "why": "Valinyr not named in this quote fragment", "pf": "is epithet of"}
+{"id": "P5-A-B0004-032", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0004-033", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-035", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0004-036", "v": "P", "inf": ["predicate"], "why": "'took' the city, softer than 'defeats'", "pf": "captures"}
+{"id": "P5-A-B0004-037", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0004-038", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0004-039", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0004-040", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-041", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-042", "v": "P", "inf": ["object"], "why": "'Chaos foe' not explicitly named as Lunar Army", "pf": "fights"}
+{"id": "P5-A-B0004-043", "v": "P", "inf": ["predicate"], "why": "'marched against' more specific than generic fights", "pf": "invades / raids"}
+{"id": "P5-A-B0004-044", "v": "U", "inf": ["subject", "predicate"], "why": "Empire is the named builder; use founds with agent as S", "pf": "founds", "S": ["LUNAR EMPIRE"], "O": ["CORFLU"]}
+{"id": "P5-A-B0004-045", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-046", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0004-047", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0004-048", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0004-049", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0004-050", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0004-051", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-052", "v": "P", "inf": ["predicate"], "why": "'led many raids' more specific than generic fights", "pf": "invades / raids"}
+{"id": "P5-A-B0004-053", "v": "P", "inf": ["predicate"], "why": "'successful invasion' more specific than generic defeats", "pf": "invades / raids"}
+{"id": "P5-A-B0004-054", "v": "P", "inf": ["predicate"], "why": "'led the conquest' more specific than generic defeats", "pf": "conquers"}
+{"id": "P5-A-B0004-055", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0004-056", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0004-057", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0004-058", "v": "U", "inf": ["subject", "object", "indirect_object"], "why": "quote is Red Emperor appointing Fazzur, not Fazzur ruling", "pf": "appoints", "S": ["RED EMPEROR"], "O": ["FAZZUR"], "IO": ["GOVERNOR-GENERAL OF DRAGON PASS"]}
+{"id": "P5-A-B0004-059", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0004-060", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0004-061", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-062", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-063", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-064", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-065", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0004-066", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0004-067", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0004-068", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0004-069", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0004-070", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0004-071", "v": "U", "inf": ["predicate"], "why": "quote states rivalry, not combat", "pf": "hates"}
+{"id": "P5-A-B0004-072", "v": "S", "inf": [], "pf": "holds office in"}
+{"id": "P5-A-B0004-073", "v": "P", "inf": ["predicate"], "why": "'raid and plunder' more specific than generic fights", "pf": "invades / raids"}
+{"id": "P5-A-B0004-074", "v": "P", "inf": ["predicate"], "why": "'raided' more specific than generic fights", "pf": "invades / raids"}
+{"id": "P5-A-B0004-075", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0004-076", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0004-077", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0004-078", "v": "U", "inf": ["subject", "object"], "why": "quote states Red Emperor sent Jar-eel, not Jar-eel traveling on her own", "pf": "sends", "S": ["RED EMPEROR"], "O": ["JAR-EEL"]}
+{"id": "P5-A-B0004-079", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0004-080", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0004-081", "v": "U", "inf": ["predicate"], "why": "'living incarnation' fits is identified as, not embodies (Runes only)", "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0004-082", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0004-083", "v": "U", "inf": ["predicate"], "why": "quote says 'leads', not 'rules'", "pf": "leads"}
+{"id": "P5-A-B0004-084", "v": "U", "inf": ["subject", "object"], "why": "worship direction requires deity as S, worshippers as O", "pf": "is worshipped by", "S": ["JAR-EEL"], "O": ["MOONSWORD CULT"]}
+{"id": "P5-A-B0004-085", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0004-086", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-A-B0005-001", "v": "P", "inf": ["subject"], "why": "passive construction, Fazzur not explicitly named as who defeated Broyan", "pf": "defeats"}
+{"id": "P5-A-B0005-002", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0005-003", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0005-004", "v": "P", "inf": ["predicate"], "why": "'fell to' implies conquest, stronger than defeats", "pf": "conquers"}
+{"id": "P5-A-B0005-005", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0005-006", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0005-007", "v": "P", "inf": ["subject", "object"], "why": "Crimson Bat and Whitewall not explicitly named in quote", "pf": "invades / raids"}
+{"id": "P5-A-B0005-008", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0005-009", "v": "U", "inf": ["predicate"], "why": "'leader of' fits leads, not is member of", "pf": "leads"}
+{"id": "P5-A-B0005-010", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0005-011", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0005-012", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0005-013", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0005-014", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0005-015", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0005-016", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0005-017", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0005-018", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0005-019", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0005-020", "v": "U", "inf": ["subject", "object"], "why": "deity receiving temple requires deity as S, site as O", "pf": "receives cult at", "S": ["ORLANTH"], "O": ["WHITEWALL"]}
+{"id": "P5-A-B0005-021", "v": "P", "inf": ["predicate"], "why": "'fell' implies conquest, stronger than generic defeats", "pf": "conquers"}
+{"id": "P5-A-B0005-022", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0005-023", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0005-024", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0005-025", "v": "S", "inf": [], "pf": "appears"}

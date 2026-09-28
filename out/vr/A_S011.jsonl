@@ -1,0 +1,150 @@
+{"id": "P5-A-B0022-003", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0022-004", "v": "P", "inf": ["predicate"], "why": "controlling tides is a domain, not ruling a polity", "pf": "has domain"}
+{"id": "P5-A-B0022-005", "v": "U", "inf": ["subject", "object"], "why": "worshippers worship deity; direction reversed", "pf": "is worshipped by", "S": ["BLUE MOON"], "O": ["BLUE MOON TROLLS", "VELDANG", "ZARANISTANGI"]}
+{"id": "P5-A-B0022-006", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0022-007", "v": "U", "inf": ["subject", "object"], "why": "epithet describes Lorian; direction reversed", "pf": "is epithet of", "S": ["SKYRIVER TITAN"], "O": ["LORIAN"]}
+{"id": "P5-A-B0022-008", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0022-009", "v": "U", "inf": ["predicate"], "why": "text says founded, not ruled", "pf": "founds", "S": ["ARTMAL"], "O": ["ARTMALI EMPIRE"]}
+{"id": "P5-A-B0022-010", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0022-011", "v": "U", "inf": ["subject", "object"], "why": "epithet direction reversed", "pf": "is epithet of", "S": ["PRIMAL STORM"], "O": ["UMATH"]}
+{"id": "P5-A-B0022-012", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0022-013", "v": "P", "inf": ["in_on_at"], "why": "tomb not explicitly named as Underworld/realm of dead", "pf": "descends into"}
+{"id": "P5-A-B0022-014", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-A-B0022-015", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0022-016", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0022-017", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0022-018", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-019", "v": "P", "inf": ["predicate"], "why": "'associated with' is weaker/vaguer than embodies", "pf": "has domain"}
+{"id": "P5-A-B0022-020", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0022-021", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0022-022", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0022-023", "v": "U", "inf": ["subject", "predicate"], "why": "agent (mortal races) named; not spontaneous emergence", "pf": "conceives", "S": ["MORTAL RACES"], "O": ["OSENTALKA"]}
+{"id": "P5-A-B0022-024", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0022-025", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-026", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-027", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0022-028", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0022-029", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0022-030", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0022-031", "v": "U", "inf": ["subject", "object"], "why": "epithet direction reversed", "pf": "is epithet of", "S": ["THE LIBERATOR"], "O": ["ARKAT"]}
+{"id": "P5-A-B0022-032", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0022-033", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0022-034", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0022-035", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0022-036", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0022-037", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-038", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0022-039", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-040", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-041", "v": "U", "inf": [], "why": "quote only names her and her title, no mention of Seven Mothers", "pf": "REJECT"}
+{"id": "P5-A-B0022-042", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-043", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-044", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0022-045", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-046", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-047", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0022-048", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-049", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-050", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0022-051", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0022-052", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0022-053", "v": "P", "inf": ["predicate"], "why": "'trapped' implies confinement, not mere entering", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0022-054", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0022-055", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0022-056", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0022-057", "v": "P", "inf": ["predicate"], "why": "mutual charge/countercharge, not one-sided raid", "pf": "fights"}
+{"id": "P5-A-B0022-058", "v": "P", "inf": ["predicate"], "why": "quote describes an attempt to find, not confirmed discovery", "pf": "discovers"}
+{"id": "P5-A-B0022-059", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0022-060", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0022-061", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0022-062", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0022-063", "v": "P", "inf": ["direct_object"], "why": "text stresses Chaos origin/powers, not physical hybrid form", "pf": "has anomalous form", "qual": "monstrous"}
+{"id": "P5-A-B0022-064", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0022-065", "v": "S", "inf": [], "pf": "corrupts"}
+{"id": "P5-A-B0022-066", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0022-067", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0022-068", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0022-069", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0022-070", "v": "U", "inf": ["predicate"], "why": "'rules' too strong; text says established as center of power", "pf": "is worshipped at", "S": ["RED GODDESS"], "O": ["FIRST BLESSED"]}
+{"id": "P5-A-B0022-071", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0022-072", "v": "U", "inf": ["predicate"], "why": "'city-deity' indicates patron worship, not governance", "pf": "is worshipped at", "S": ["RAIBA"], "O": ["RAIBANTH"]}
+{"id": "P5-A-B0022-073", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0022-074", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0022-075", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0022-076", "v": "U", "inf": ["predicate"], "why": "'freed' means rescued, not merely protected", "pf": "rescues / frees", "S": ["RED GODDESS"], "O": ["SLAVES OF VONLATH"]}
+{"id": "P5-A-B0023-001", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0023-002", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0023-003", "v": "U", "inf": ["subject", "predicate"], "why": "agents named as summoners; not spontaneous manifestation", "pf": "summons / invokes", "S": ["RED GODDESS", "IRRIPPI ONTOR", "YANAFAL TARNILS"], "O": ["FIRST ARROW OF LIGHT"]}
+{"id": "P5-A-B0023-004", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0023-005", "v": "U", "inf": ["subject", "object"], "why": "epithet direction reversed", "pf": "is epithet of", "S": ["CARMANIAN WAR GOD"], "O": ["WILL OF HUMAKT"]}
+{"id": "P5-A-B0023-006", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0023-007", "v": "P", "inf": ["predicate"], "why": "'chased' fits pursuit/hunt more than mutual fighting", "pf": "hunts"}
+{"id": "P5-A-B0023-008", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0023-009", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0023-010", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "monstrous"}
+{"id": "P5-A-B0023-011", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0023-012", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0023-013", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0023-014", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0023-015", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0023-016", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0023-017", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0023-018", "v": "U", "inf": ["subject", "object"], "why": "epithet/title direction reversed", "pf": "is epithet of", "S": ["SECOND ARROW"], "O": ["YANAFAL TARNILS"]}
+{"id": "P5-A-B0023-019", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0023-020", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0023-021", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0023-022", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0023-023", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0023-024", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0023-025", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0023-026", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0023-027", "v": "P", "inf": ["predicate"], "why": "self-sacrifice in battle, not ritual offering to a recipient", "pf": "performs sacrifice"}
+{"id": "P5-A-B0023-028", "v": "U", "inf": ["predicate"], "why": "'illuminates' means spiritual enlightenment; text describes a harmful light attack", "pf": "wounds", "S": ["RED GODDESS"], "O": ["CARMANIAN DEITIES"]}
+{"id": "P5-A-B0023-029", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0023-030", "v": "P", "inf": ["predicate"], "why": "sack and burning implies conquest, stronger than mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0023-031", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0023-032", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0023-033", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0023-034", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-A-B0023-035", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0023-036", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0023-037", "v": "P", "inf": ["direct_object"], "why": "oath is self-vow to avenge; no named oath-partner", "pf": "swears oath with"}
+{"id": "P5-A-B0023-038", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0023-039", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0023-040", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0023-041", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0023-042", "v": "P", "inf": ["predicate"], "why": "'burnt' a place fits destruction better than defeating a combatant", "pf": "shatters"}
+{"id": "P5-A-B0023-043", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0023-044", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0023-045", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0023-046", "v": "P", "inf": ["predicate"], "why": "'claimed she was evil' is an accusation, weaker than direct challenge", "pf": "challenges"}
+{"id": "P5-A-B0023-047", "v": "U", "inf": ["subject", "object"], "why": "worshippers worship deity; direction reversed", "pf": "is worshipped by", "S": ["YARGAN"], "O": ["BLUE MEN"]}
+{"id": "P5-A-B0023-048", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0023-049", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0023-050", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0023-051", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0023-052", "v": "P", "inf": ["predicate"], "why": "'abased themselves' indicates submission, not a mutual oath", "pf": "submits to"}
+{"id": "P5-A-B0023-053", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0023-054", "v": "P", "inf": ["predicate"], "why": "'nurse the maimed' means healing/care, not general protection", "pf": "heals"}
+{"id": "P5-A-B0023-055", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0023-056", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0023-057", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0023-058", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0023-059", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0023-060", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0023-061", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0023-062", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0023-063", "v": "P", "inf": ["predicate"], "why": "building first temple fits founding an institution, not establishing cult broadly", "pf": "founds"}
+{"id": "P5-A-B0024-001", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0024-002", "v": "S", "inf": [], "pf": "illuminates"}
+{"id": "P5-A-B0024-003", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0024-004", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0024-005", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0024-006", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0024-007", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0024-008", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0024-009", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0024-010", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0024-011", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0024-012", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0024-013", "v": "S", "inf": [], "pf": "kills"}

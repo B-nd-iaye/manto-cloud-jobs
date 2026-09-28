@@ -175,6 +175,12 @@ By raw token count, the subagent used **~1.9× sonnet-high's tokens, ~2.8× sonn
 
 **Bottom line:** the subagent fallback works and produces well-formed output, but it is markedly more expensive AND slower per shard than any headless tier tested, including the ones that already fail the accuracy bar. Extrapolated to 73 VR shards at 6 subagents in parallel (per TASK.md's wave size), this pilot's per-shard wall time alone implies roughly 13 waves × ~18 minutes ≈ 4 hours just for VR, before RX — worse on both cost and time than headless-high, which itself didn't clear 85%. The subagent path doesn't look like a way to buy back the accuracy gap cheaply; if anything it should be a last resort per TASK.md's own framing, not a stepping stone.
 
+## 9. Final decision (at user's request: "calculate best option, then run it")
+
+**Chosen: `--model sonnet --effort medium`** for both Phase 1 (VR) and Phase 2 (RX).
+
+Rationale: none of the tested tiers clear 85%, and section 7 established the practical ceiling is close to what's already measured (~89% reference self-consistency). Medium is the knee of the cost/accuracy curve (80.0% @ $0.358/shard, 226s), with errors spread evenly rather than clustered. High effort (83.3%) costs 68% more and takes 96% longer for a gain concentrated in the same ambiguous-anaphora disagreements already characterized as largely defensible either way — and it does *not* fix the one clear rule-violation found (Sonnet at every tier miscalls certain "P" cases as "U"). Opus-low (82.0%, $0.455, 111s) is fast and close in accuracy, but its errors cluster in one passage block (B0003) rather than spreading independently — a correlated-error risk not worth taking across ~11,000 VR records plus RX. Estimated full-job cost ≈ $86 (VR + RX combined), ≈ 2.5–3 hours wall time at `--parallel 6`.
+
 ## Conclusion
 
 - Headless path works (signed in, `claude -p` functional, JSON output parses, usage logged).

@@ -1,0 +1,150 @@
+{"id": "P5-B-B0001-001", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-B-B0001-002", "v": "S", "inf": [], "why": "", "pf": "has anomalous form", "qual": "monstrous"}
+{"id": "P5-B-B0001-003", "v": "P", "inf": ["direct_object"], "why": "'them' pronoun; Luatha identity inferred from context", "pf": "fights"}
+{"id": "P5-B-B0001-004", "v": "P", "inf": ["from"], "why": "Brithos origin not stated in quote", "pf": "travels"}
+{"id": "P5-B-B0001-005", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-B-B0001-006", "v": "S", "inf": [], "why": "", "pf": "performs sacrifice"}
+{"id": "P5-B-B0001-007", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-B-B0001-008", "v": "S", "inf": [], "why": "", "pf": "is sibling of"}
+{"id": "P5-B-B0001-009", "v": "P", "inf": ["subject"], "why": "'he' pronoun; Ylream not named in this quote", "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-B-B0001-010", "v": "P", "inf": ["direct_object"], "why": "'his mother' inferred to be Seshna Likita", "pf": "serves"}
+{"id": "P5-B-B0001-011", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-B-B0001-012", "v": "P", "inf": ["subject"], "why": "'he' pronoun inferred as Ylream", "pf": "descends into"}
+{"id": "P5-B-B0001-013", "v": "S", "inf": [], "why": "", "pf": "initiates into cult"}
+{"id": "P5-B-B0001-014", "v": "P", "inf": ["indirect_object"], "why": "'the King' not named as Ylream in quote", "pf": "is spouse of"}
+{"id": "P5-B-B0001-015", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-B-B0001-016", "v": "P", "inf": ["indirect_object"], "why": "'his' pronoun inferred as Ylream", "pf": "is sibling of"}
+{"id": "P5-B-B0001-017", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-B-B0001-018", "v": "S", "inf": [], "why": "", "pf": "holds office in"}
+{"id": "P5-B-B0001-019", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-B-B0001-020", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-B-B0001-021", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-B-B0001-022", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-B-B0001-023", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-B-B0001-024", "v": "P", "inf": ["subject"], "why": "'He' pronoun inferred as Froalar", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0001-025", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-B-B0001-026", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-B-B0001-027", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-B-B0001-028", "v": "P", "inf": ["direct_object"], "why": "'the new god' identified as Nysalor via context", "pf": "establishes cult"}
+{"id": "P5-B-B0001-029", "v": "S", "inf": [], "why": "", "pf": "swears oath with"}
+{"id": "P5-B-B0001-030", "v": "P", "inf": ["subject"], "why": "Tanisor's active victory not explicit, passive phrasing", "pf": "defeats"}
+{"id": "P5-B-B0001-031", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-B-B0001-032", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-B-B0001-033", "v": "S", "inf": [], "why": "", "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0001-034", "v": "S", "inf": [], "why": "", "pf": "initiates into cult"}
+{"id": "P5-B-B0001-035", "v": "P", "inf": ["subject"], "why": "Arkat as fighter not explicit in this fragment", "pf": "fights"}
+{"id": "P5-B-B0001-036", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-B-B0001-037", "v": "U", "inf": [], "why": "quote says Arkat quit worshiping, contradicting ongoing service", "pf": "breaks oath"}
+{"id": "P5-B-B0001-038", "v": "P", "inf": ["subject"], "why": "subject of 'joined' not named in this fragment", "pf": "initiates into cult"}
+{"id": "P5-B-B0001-039", "v": "P", "inf": ["subject"], "why": "'followed' subject and object are pronouns", "pf": "travels"}
+{"id": "P5-B-B0001-040", "v": "P", "inf": ["predicate"], "why": "text hedges 'said by many', not asserted as fact", "pf": "is child of"}
+{"id": "P5-B-B0001-041", "v": "P", "inf": ["direct_object"], "why": "Seshnela as the realm not stated explicitly", "pf": "accedes to rule"}
+{"id": "P5-B-B0001-042", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-B-B0001-043", "v": "P", "inf": ["indirect_object"], "why": "'her' pronoun; brother recipient omitted", "pf": "performs sacrifice", "O": [], "IO": ["FAN OF THE SHALLOWS", "OLD OCEAN"]}
+{"id": "P5-B-B0001-044", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-B-B0001-045", "v": "P", "inf": ["subject"], "why": "'who' pronoun inferred as Damol", "pf": "serves"}
+{"id": "P5-B-B0001-046", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-B-B0001-047", "v": "P", "inf": ["direct_object"], "why": "object of 'conquered' not named in quote", "pf": "conquers"}
+{"id": "P5-B-B0001-048", "v": "P", "inf": ["direct_object"], "why": "object of 'driven out' inferred as Pendali", "pf": "exiles / banishes"}
+{"id": "P5-B-B0001-049", "v": "P", "inf": ["to"], "why": "'it' pronoun inferred as the temple", "pf": "travels"}
+{"id": "P5-B-B0001-050", "v": "P", "inf": ["indirect_object"], "why": "'the Goddess' inferred as Seshna Likita", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0001-051", "v": "P", "inf": ["subject", "indirect_object"], "why": "subject and 'the Goddess' both inferred from context", "pf": "performs sacrifice", "O": [], "IO": ["SESHNA LIKITA"]}
+{"id": "P5-B-B0001-052", "v": "P", "inf": ["subject"], "why": "agent of expulsion not stated, inferred as Seshnegi", "pf": "exiles / banishes"}
+{"id": "P5-B-B0002-001", "v": "S", "inf": [], "why": "", "pf": "exiles / banishes"}
+{"id": "P5-B-B0002-002", "v": "S", "inf": [], "why": "", "pf": "bestows", "O": [], "IO": ["SESHNELA"]}
+{"id": "P5-B-B0002-003", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-B-B0002-004", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-B-B0002-005", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-B-B0002-006", "v": "P", "inf": ["direct_object"], "why": "'his family' pronoun inferred as Aamor's", "pf": "kills"}
+{"id": "P5-B-B0002-007", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-B-B0002-008", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-B-B0002-009", "v": "P", "inf": ["subject"], "why": "'He' pronoun inferred as Mularik", "pf": "flees to"}
+{"id": "P5-B-B0002-010", "v": "S", "inf": [], "why": "", "pf": "conquers"}
+{"id": "P5-B-B0002-011", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-B-B0002-012", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-B-B0002-013", "v": "S", "inf": [], "why": "", "pf": "holds office in"}
+{"id": "P5-B-B0002-014", "v": "S", "inf": [], "why": "", "pf": "departs from"}
+{"id": "P5-B-B0002-015", "v": "S", "inf": [], "why": "", "pf": "wages war on"}
+{"id": "P5-B-B0002-016", "v": "P", "inf": ["subject"], "why": "'He' pronoun inferred as Halwal", "pf": "bestows", "O": [], "IO": ["KING OF LOSKALM"]}
+{"id": "P5-B-B0002-017", "v": "P", "inf": ["direct_object"], "why": "who was thwarted (Halwal) not named in quote", "pf": "defeats"}
+{"id": "P5-B-B0002-018", "v": "P", "inf": ["direct_object"], "why": "'the king' not named as Guilmarn in quote", "pf": "is spouse of"}
+{"id": "P5-B-B0002-019", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-B-B0002-020", "v": "P", "inf": ["subject"], "why": "subject not named in this fragment", "pf": "claims ancestry"}
+{"id": "P5-B-B0002-021", "v": "P", "inf": ["subject"], "why": "'He' pronoun inferred as Phillippe", "pf": "fights"}
+{"id": "P5-B-B0002-022", "v": "P", "inf": ["direct_object"], "why": "'it' pronoun inferred as Grachamagacan", "pf": "kills"}
+{"id": "P5-B-B0002-023", "v": "S", "inf": [], "why": "", "pf": "holds office in"}
+{"id": "P5-B-B0002-024", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-B-B0002-025", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-B-B0002-026", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-B-B0002-027", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-B-B0002-028", "v": "P", "inf": ["direct_object"], "why": "'the land' inferred as Old Seshnela", "pf": "shatters"}
+{"id": "P5-B-B0002-029", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-B-B0002-030", "v": "P", "inf": ["subject"], "why": "'who' pronoun inferred as Isarnos", "pf": "defeats"}
+{"id": "P5-B-B0002-031", "v": "P", "inf": ["subject", "direct_object"], "why": "'them'/'him' are pronouns for Wolf People/Isarnos", "pf": "serves"}
+{"id": "P5-B-B0002-032", "v": "P", "inf": ["direct_object"], "why": "'this city' inferred as Kaniwal; enslavement fits binds", "pf": "binds"}
+{"id": "P5-B-B0002-033", "v": "U", "inf": [], "why": "Torphing freed slaves/destroyed altars; Kraljiid still ruled until Arkat's defeat", "pf": "challenges"}
+{"id": "P5-B-B0002-034", "v": "P", "inf": ["direct_object"], "why": "'the city' inferred as Kaniwal", "pf": "rules"}
+{"id": "P5-B-B0002-035", "v": "P", "inf": ["direct_object"], "why": "object (Kraljiid) implied via sentence continuation only", "pf": "defeats"}
+{"id": "P5-B-B0002-036", "v": "P", "inf": ["in_on_at"], "why": "'here' inferred as Mount Aerlit", "pf": "defeats"}
+{"id": "P5-B-B0002-037", "v": "P", "inf": ["subject"], "why": "'they' pronoun inferred as Hadalin and wizards", "pf": "summons / invokes"}
+{"id": "P5-B-B0002-038", "v": "P", "inf": ["direct_object"], "why": "'it' pronoun inferred as Mount Aerlit", "pf": "conquers"}
+{"id": "P5-B-B0002-039", "v": "P", "inf": ["direct_object"], "why": "place name not restated in this fragment", "pf": "discovers"}
+{"id": "P5-B-B0002-040", "v": "P", "inf": ["subject"], "why": "'the Duke' not explicitly named as Duke of Nolos here", "pf": "protects"}
+{"id": "P5-B-B0002-041", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-B-B0002-042", "v": "P", "inf": ["direct_object"], "why": "'It' pronoun inferred as Noyelle", "pf": "rules"}
+{"id": "P5-B-B0003-001", "v": "P", "inf": ["direct_object"], "why": "'this land' inferred as Old Seshnela; goddess of land is a domain", "pf": "has domain"}
+{"id": "P5-B-B0003-002", "v": "P", "inf": ["direct_object"], "why": "'old capital' inferred as Tanewal; destruction of a place", "pf": "shatters"}
+{"id": "P5-B-B0003-003", "v": "P", "inf": ["in_on_at"], "why": "'whence' inferred as Tanewal", "pf": "rules"}
+{"id": "P5-B-B0003-004", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-B-B0003-005", "v": "U", "inf": [], "why": "'called Speaker to Beast Men' is an epithet, not equation with distinct entity", "pf": "is epithet of", "S": ["SPEAKER TO BEAST MEN"], "O": ["TIERRE OF CASKALL"]}
+{"id": "P5-B-B0003-006", "v": "P", "inf": ["in_on_at"], "why": "'this area' inferred as Rindland", "pf": "rules"}
+{"id": "P5-B-B0003-007", "v": "P", "inf": ["direct_object"], "why": "'inhabitants of these tombs' inferred as named heroes/gods", "pf": "binds"}
+{"id": "P5-B-B0003-008", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-B-B0003-009", "v": "S", "inf": [], "why": "", "pf": "challenges"}
+{"id": "P5-B-B0003-010", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-B-B0003-011", "v": "S", "inf": [], "why": "", "pf": "leads"}
+{"id": "P5-B-B0003-012", "v": "S", "inf": [], "why": "", "pf": "performs sacrifice"}
+{"id": "P5-B-B0003-013", "v": "U", "inf": [], "why": "'God of Love and War' states domain, not equation with a distinct entity", "pf": "has domain", "O": ["LOVE AND WAR"]}
+{"id": "P5-B-B0003-014", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-B-B0003-015", "v": "S", "inf": [], "why": "", "pf": "challenges"}
+{"id": "P5-B-B0003-016", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-B-B0003-017", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-B-B0003-018", "v": "S", "inf": [], "why": "", "pf": "leads"}
+{"id": "P5-B-B0003-019", "v": "S", "inf": [], "why": "", "pf": "challenges"}
+{"id": "P5-B-B0003-020", "v": "S", "inf": [], "why": "", "pf": "leads"}
+{"id": "P5-B-B0003-021", "v": "S", "inf": [], "why": "", "pf": "conquers"}
+{"id": "P5-B-B0003-022", "v": "P", "inf": ["subject", "predicate"], "why": "'they' pronoun; claim hedged as 'some claim'", "pf": "kills"}
+{"id": "P5-B-B0003-023", "v": "P", "inf": ["from"], "why": "Jrustela is Ordanal's origin, not necessarily the sword's start point", "pf": "brings back"}
+{"id": "P5-B-B0003-024", "v": "P", "inf": ["direct_object"], "why": "'it' pronoun referring to the Red Sword", "pf": "dedicates relic"}
+{"id": "P5-B-B0003-025", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-B-B0003-026", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-B-B0003-027", "v": "S", "inf": [], "why": "", "pf": "founds"}
+{"id": "P5-B-B0003-028", "v": "S", "inf": [], "why": "", "pf": "protects"}
+{"id": "P5-B-B0003-029", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-B-B0003-030", "v": "S", "inf": [], "why": "", "pf": "holds office in"}
+{"id": "P5-B-B0003-031", "v": "P", "inf": ["subject"], "why": "'he' pronoun inferred as Harstar", "pf": "conquers"}
+{"id": "P5-B-B0003-032", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-B-B0003-033", "v": "P", "inf": ["subject"], "why": "'They' pronoun inferred as Zaranistangi", "pf": "is worshipped by", "S": ["ANNILLA"], "O": ["ZARANISTANGI"]}
+{"id": "P5-B-B0003-034", "v": "S", "inf": [], "why": "", "pf": "becomes celestial body"}
+{"id": "P5-B-B0003-035", "v": "P", "inf": ["subject"], "why": "'They' pronoun inferred as Zaranistangi", "pf": "is worshipped by", "S": ["EMILLA"], "O": ["ZARANISTANGI"]}
+{"id": "P5-B-B0003-036", "v": "P", "inf": ["subject"], "why": "'They' pronoun inferred as Zaranistangi", "pf": "is worshipped by", "S": ["TOLAT"], "O": ["ZARANISTANGI"]}
+{"id": "P5-B-B0003-037", "v": "S", "inf": [], "why": "", "pf": "becomes celestial body"}
+{"id": "P5-B-B0003-038", "v": "S", "inf": [], "why": "", "pf": "comes into being"}
+{"id": "P5-B-B0003-039", "v": "S", "inf": [], "why": "", "pf": "rescues / frees"}
+{"id": "P5-B-B0003-040", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-B-B0003-041", "v": "P", "inf": ["subject"], "why": "'the grateful emperor' inferred as Durpos", "pf": "bestows"}
+{"id": "P5-B-B0003-042", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-B-B0003-043", "v": "P", "inf": ["from"], "why": "'them' pronoun inferred as Zaranistangi", "pf": "steals"}
+{"id": "P5-B-B0003-044", "v": "P", "inf": ["subject", "direct_object"], "why": "killer not named in fragment; 'the king' inferred as Bradoszaran", "pf": "kills"}
+{"id": "P5-B-B0003-045", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-B-B0003-046", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-B-B0003-047", "v": "S", "inf": [], "why": "", "pf": "aids"}
+{"id": "P5-B-B0003-048", "v": "P", "inf": ["indirect_object"], "why": "'his nephew' inferred as Artmal", "pf": "bestows"}
+{"id": "P5-B-B0003-049", "v": "P", "inf": ["subject"], "why": "'his' pronoun inferred as Tolat", "pf": "is synonym of"}
+{"id": "P5-B-B0003-050", "v": "P", "inf": ["direct_object"], "why": "object (Red Sword) not named in this fragment", "pf": "discovers"}
+{"id": "P5-B-B0003-051", "v": "S", "inf": [], "why": "", "pf": "possesses / wields"}
+{"id": "P5-B-B0003-052", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-B-B0003-053", "v": "U", "inf": [], "why": "'The Sea God' states domain, not equation with a distinct entity", "pf": "has domain", "O": ["SEA"]}
+{"id": "P5-B-B0003-054", "v": "S", "inf": [], "why": "", "pf": "performs sacrifice"}
+{"id": "P5-B-B0003-055", "v": "P", "inf": ["direct_object"], "why": "'the god's sword' inferred as Red Sword of Tolat", "pf": "dedicates relic"}
+{"id": "P5-B-B0003-056", "v": "U", "inf": [], "why": "Tolat retrieves the sword; not a manifestation/appearance event", "pf": "possesses / wields"}

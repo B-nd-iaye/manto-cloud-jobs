@@ -77,9 +77,34 @@ python3 headless.py prompts/verify_reclass_v1.md out_test/vr_medium vr_shards/B_
 | cost (USD) | $0.262 | $0.358 |
 | agreement vs ref | 69.3% | 80.0% |
 
+## 5. High-effort test (B_S001, at user's request)
+
+```
+python3 headless.py prompts/verify_reclass_v1.md out_test/vr_high vr_shards/B_S001.txt --ids --model sonnet --effort high
+```
+
+- 150/150 records returned in one pass, 443s
+- tokens: in=2, cache_creation=23621, cache_read=0, out=50763 (of which 42769 thinking)
+- cost: $0.602118
+
+### Agreement vs `ref/B_S001.default_effort.jsonl`
+
+- **Agreement: 125/150 = 83.3%** — best so far, still just under the 85% bar.
+- 25 disagreements, same mix as medium: `S↔P` confusions plus several `P→U` hedges (`P5-B-B0002-033`, `P5-B-B0003-005/013/053/056`). No new failure mode appears at high effort — it looks like incremental cleanup of the same errors, not a step change.
+
+### Effort comparison (B_S001)
+
+| effort | seconds | cache-write tok | output tok (thinking) | cost | agreement vs ref |
+|---|---|---|---|---|---|
+| low (warm cache) | 157 | 18,351 | 18,757 (11,326) | $0.262 | 69.3% |
+| medium | 226 | 23,621 | 26,350 (18,732) | $0.358 | 80.0% |
+| high | 443 | 23,621 | 50,763 (42,769) | $0.602 | 83.3% |
+
+Diminishing returns: medium→high roughly doubles time and cost (thinking tokens ~2.3×) for +3.3 points of agreement, and still doesn't clear 85%.
+
 ## Conclusion
 
 - Headless path works (signed in, `claude -p` functional, JSON output parses, usage logged).
-- **Effort chosen: still not determined.** Neither low (69.3%) nor medium (80.0%) clears the required ≥85% agreement bar on B_S001. Medium is closer and ~37% more expensive/slower than low, but still fails the acceptance criterion as written.
-- Options for the user to weigh before Phase 1: (a) test `--effort high`/default next, (b) relax the acceptance bar given how close medium is and inspect whether the extra disagreements are benign (`P→U` hedging is arguably safer than `P→S`, the low-effort failure mode), or (c) fall back to the subagent path (~5× cost) mentioned in TASK.md.
+- **Effort chosen: still not determined.** None of low (69.3%), medium (80.0%), or high (83.3%) clears the required ≥85% agreement bar on B_S001 — the gap closes but does not cross.
+- Options for the user to weigh before Phase 1: (a) test `--effort xhigh`/`max`, likely with further diminishing returns and higher cost/time per shard (443s → ? at high alone is already ~2.8× low); (b) relax the acceptance bar — the remaining disagreements at medium/high are consistently the same handful of ambiguous `S↔P`/`P→U` cases, not random noise, so a human spot-check of whether they're actually defensible calls may be more productive than chasing a higher effort tier; (c) fall back to the subagent path (~5× cost per TASK.md).
 - Stopping here per instructions to wait for the user's go before Phase 1.

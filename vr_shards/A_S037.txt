@@ -1,0 +1,300 @@
+[P5-A-B0114-036] S=['CRIMSON BAT'] P=serves O=['RED GODDESS'] implicit=False ps="bound in service to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Steed of the Red Goddess, the Crimson Bat is a Chaos demon alive in the Middle World and bound in service to the Red Goddess.
+[P5-A-B0114-037] S=['CRIMSON BAT'] P=is identified as O=['CHAOS DEMON'] MOD={"in_on_at": "MIDDLE WORLD"} implicit=False ps="is a" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Crimson Bat is a Chaos demon alive in the Middle World
+[P5-A-B0114-038] S=['CHAOS CULT OF THE CRIMSON BAT'] P=serves O=['CRIMSON BAT'] implicit=True ps="is served by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: It is served by a cruel Chaos cult that keeps it fed with human victims.
+[P5-A-B0114-039] S=['NYSALOR'] P=illuminates O=['RED GODDESS'] implicit=True ps="became Illuminated by" sug=illuminates
+   Q: thereby became Illuminated by Nysalor.
+[P5-A-B0114-040] S=['RED GODDESS'] P=alters mythic station O=['CRIMSON BAT'] MOD={"using": "KNOWLEDGE OF NYSALOR"} implicit=True ps="freed from its eternal bondage" sug=rescues / frees
+   Q: With his knowledge, she went to deeper places and freed the Crimson Bat from its eternal bondage.
+[P5-A-B0114-041] S=['RED GODDESS'] P=rules O=['LUNAR EMPIRE'] implicit=True ps="established" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Returning home with it, she established her mighty empire.
+[P5-A-B0114-042] S=['IRRIPPI ONTOR'] P=serves O=['LHANKOR MHY'] implicit=False ps="was a priest of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Irrippi Ontor is the "Brown Man" and was a priest of Lhankor Mhy.
+[P5-A-B0114-043] S=['BROWN MAN'] P=is alternative name for O=['IRRIPPI ONTOR'] implicit=False ps="is the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Irrippi Ontor is the "Brown Man"
+[P5-A-B0114-044] S=['JAKALEEL THE WITCH'] P=serves O=['BLUE MOON'] MOD={"in_on_at": "MOUNTAINS OF JORD"} implicit=False ps="was once a shaman of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Jakaleel The Witch is the "Spindle Hag" and was once a shaman of the Blue Moon in the mountains of Jord.
+[P5-A-B0114-045] S=['SPINDLE HAG'] P=is alternative name for O=['JAKALEEL THE WITCH'] implicit=False ps="is the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Jakaleel The Witch is the "Spindle Hag"
+[P5-A-B0114-046] S=['DEEZOLA', 'IRRIPPI ONTOR', 'JAKALEEL', 'YANAFAL TARNILS'] P=is member of O=['FOUR CONSPIRATORS'] implicit=False ps="Four conspirators" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Four conspirators (Queen Deezola, Irrippi Ontor, Jakaleel, and Yanafal Tarnils) secretly met and prepared the most incredible ritual of all time, and in 1220 they achieved their goal despite Carmanian interference.
+[P5-A-B0114-047] S=['DEEZOLA'] P=rules O=['LANDS ON THE ARCOS RIVER'] implicit=False ps="was a ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Queen Deezola was a ruler of lands on the Arcos River, and a priestess of Arachne Solara.
+[P5-A-B0114-048] S=['DEEZOLA'] P=serves O=['ARACHNE SOLARA'] implicit=False ps="a priestess of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Queen Deezola was a ruler of lands on the Arcos River, and a priestess of Arachne Solara.
+[P5-A-B0114-049] S=['BINDER WITHIN'] P=is alternative name for O=['DEEZOLA'] implicit=True ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She is called the "Binder Within".
+[P5-A-B0114-050] S=['RAM AND WARRIOR'] P=is alternative name for O=['YANAFAL TARNILS'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yanafal Tarnils is called "Ram and Warrior."
+[P5-A-B0114-051] S=['BRIDGE FOR THE SEEKER'] P=is alternative name for O=['DANFIVE XARON'] implicit=False ps="is now called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Danfive Xaron was a bloodthirsty outlaw who volunteered for the most dangerous task in the ritual and is now called "Bridge for the Seeker."
+[P5-A-B0114-052] S=['SEVEN MOTHERS'] P=establishes cult O=['LUNAR WAY'] implicit=True ps="were responsible for lighting the spark of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: During their own lives they were responsible for lighting the spark of the Lunar Way in the world
+[P5-A-B0114-053] S=['SEVEN MOTHERS'] P=initiates into cult O=['PERSONS WHO ENTER THE CULT'] implicit=True ps="kindling the Lunar spark in" sug=initiates into cult
+   Q: now in their immortality they are responsible for kindling the Lunar spark in all persons who enter the cult.
+[P5-A-B0114-054] S=['SEVEN MOTHERS'] P=manifests O=['LIFE RUNE'] implicit=True ps="balance the powers of Death with their powers of Life" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The Seven Mothers balance the powers of Death with their powers of Life.
+[P5-A-B0115-001] S=['SEVEN MOTHERS'] P=manifests O=['DEATH RUNE'] implicit=True ps="embrace the power of Death" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The Seven Mothers embrace the power of Death as a necessary part of life.
+[P5-A-B0115-002] S=['RED GODDESS'] P=manifests O=['LIFE RUNE', 'DEATH RUNE', 'TRUTH RUNE', 'ILLUSION RUNE'] implicit=True ps="can reconcile" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The Red Goddess can reconcile incompatible runes such as Life and Death or Truth and Illusion.
+[P5-A-B0115-003] S=['LUNAR WAY'] P=fights O=['OLD GODS'] implicit=False ps="its conflict with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: This has proven to be a decided advantage for the Lunar Way in its conflict with the Old Gods of Glorantha.
+[P5-A-B0115-004] S=['DANFIVE XARON'] P=embodies O=['AIR RUNE'] implicit=False ps="chained and bound as" sug=one of: embodies, has domain
+   Q: the Lunar Way is antagonistic to the Air Rune (g), except when it is chained and bound as Danfive Xaron.
+[P5-A-B0115-005] S=['MOON'] P=fights O=['AIR'] implicit=False ps="The strife between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The strife between the Moon and the Air is deep and permanent.
+[P5-A-B0115-006] S=['CULT OF THE SEVEN MOTHERS'] P=protects O=['LUNAR PROVINCES'] implicit=False ps="is charged with guarding the spiritual welfare of" sug=one of: protects, rescues / frees, aids
+   Q: The Cult of the Seven Mothers is charged with guarding the spiritual welfare of the Lunar Provinces and borderlands.
+[P5-A-B0115-007] S=['SEVEN MOTHERS'] P=teaches O=['RED GODDESS'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Just as the original mothers taught the Goddess, so do their holy people teach outsiders about her.
+[P5-A-B0115-008] S=['AIR'] P=fights O=['MOON'] IO=['MIDDLE AIR'] MOD={"purpose_clause": "TO OBTAIN"} implicit=False ps="conflict between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: There also is an inherent and mythological conflict between the Air and Moon, and their cults, as they struggle for the Middle Air.
+[P5-A-B0115-009] S=['SEVEN MOTHERS'] P=fights O=['ORLANTH'] implicit=False ps="The only true enemy of" sug=hates
+   Q: The only true enemy of the Seven Mothers is Orlanth, the Last Rebel, eternal enemy of peace and stability.
+[P5-A-B0115-010] S=['LAST REBEL'] P=is alternative name for O=['ORLANTH'] implicit=False ps="Orlanth, the Last Rebel" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Orlanth, the Last Rebel, eternal enemy of peace and stability.
+[P5-A-B0115-011] S=['SEVEN MOTHERS'] P=bestows magic / gifts O=['KINDLING'] IO=['PROVINCIAL REGIONS'] implicit=False ps="bring the gift of" sug=one of: bestows, heals, imbues, teaches
+   Q: Through these teachings, the Seven Mothers bring the gift of kindling to provincial regions.
+[P5-A-B0115-012] S=['RED EMPEROR'] P=rules O=['LUNAR EMPIRE'] MOD={"in_on_at": "GLAMOUR"} implicit=False ps="rules" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The cult's center of power is the city of Glamour, where the Red Emperor rules the Lunar Empire.
+[P5-A-B0115-013] S=['RED GODDESS'] P=comes into being O=[] MOD={"in_on_at": "TORANG"} implicit=False ps="was born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The cult's holiest place is a temple in the city of Torang, in the Satrapy of First Blessed. || This is where the Red Goddess was born.
+[P5-A-B0115-014] S=['ILLUMINATION'] P=is alternative name for O=['SEVENING'] implicit=False ps="commonly called Illumination by outsiders" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: This initiation rite is called kindling and it is the first step on the path towards Sevening, commonly called Illumination by outsiders.
+[P5-A-B0115-015] S=['TEELO NORRI'] P=serves O=['RED GODDESS'] implicit=True ps="became the Cupbearer for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: She became the Cupbearer for the Red Goddess, and is the Spring of Eternal Youth.
+[P5-A-B0115-016] S=['TEELO NORRI'] P=embodies O=['YOUTH'] implicit=True ps="is revered as the Lunar goddess of" sug=one of: embodies, has domain
+   Q: She is revered as the Lunar goddess of youth.
+[P5-A-B0115-017] S=['DEEZOLA'] P=alters mythic station O=[] implicit=True ps="became" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Formerly the ruler of lands on the Arcos River, she became the Keeper of Vows, the Avenger of Wrongs, and the Unshakeable One.
+[P5-A-B0115-018] S=['DANFIVE XARON'] P=serves O=['RED GODDESS'] implicit=True ps="the position of Gatekeeper, Porter, and Night Watchman for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: His success earned him the position of Gatekeeper, Porter, and Night Watchman for the Red Goddess.
+[P5-A-B0116-001] S=['YANAFAL TARNILS'] P=is member of O=['SEVEN MOTHERS'] implicit=False ps="Seven Mothers Subcult" sug=is part of
+   Q: Seven Mothers Subcult: Yanafal Tarnils
+[P5-A-B0116-002] S=['RAM AND WARRIOR'] P=is alternative name for O=['YANAFAL TARNILS'] implicit=False ps="epithet in quotation" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yanafal Tarnils, "Ram and Warrior".
+[P5-A-B0116-003] S=['YANAFAL TARNILS'] P=alters mythic station O=['LUNAR GOD OF WAR'] implicit=True ps="became" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: This exiled nobleman from Yuthuppa became the Lunar God of War.
+[P5-A-B0116-004] S=['YANAFAL TARNILS'] P=is conflated with O=['HUMAKT'] implicit=True ps="subcult resembles Humakt's" sug=one of: is identified as, is worshipped by, is part of
+   Q: His subcult resembles Humakt's in most respects
+[P5-A-B0116-005] S=['SHE WHO WAITS'] P=is member of O=['SEVEN MOTHERS'] implicit=False ps="Seven Mothers Subcult" sug=is part of
+   Q: Seven Mothers Subcult: She Who Waits.
+[P5-A-B0116-006] S=['IRRIPPI ONTOR'] P=is member of O=['SEVEN MOTHERS'] implicit=False ps="Seven Mothers Subcult" sug=is part of
+   Q: Seven Mothers Subcult: Irrippi Ontor
+[P5-A-B0116-007] S=['THE BROWN MAN'] P=is alternative name for O=['IRRIPPI ONTOR'] implicit=False ps="epithet in quotation" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Irrippi Ontor, "The Brown Man".
+[P5-A-B0116-008] S=['IRRIPPI ONTOR'] P=departs from O=['BUSERIAN', 'LHANKOR MHY'] implicit=True ps="outlawed from the cults of" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: This sage outlawed from the cults of Buserian and Lhankor Mhy became the Master of Secrets.
+[P5-A-B0116-009] S=['IRRIPPI ONTOR'] P=alters mythic station O=['MASTER OF SECRETS'] implicit=True ps="became" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: This sage outlawed from the cults of Buserian and Lhankor Mhy became the Master of Secrets.
+[P5-A-B0116-010] S=['IRRIPPI ONTOR'] P=embodies O=['WISDOM', 'LEARNING'] implicit=True ps="personifies" sug=one of: embodies, has domain
+   Q: He personifies wisdom and learning for the Lunar Way.
+[P5-A-B0116-011] S=['THE DRAGONRISE'] P=kills O=['LEADERSHIP OF THE SEVEN MOTHERS CULT'] MOD={"in_on_at": "LUNAR PROVINCES"} implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: The Dragonrise of 1625 killed most of the leadership of the Seven Mothers cult in the Lunar Provinces.
+[P5-A-B0116-012] S=['THE DRAGONRISE'] P=swallows / consumes O=['NEW LUNAR TEMPLE'] implicit=True ps="was completely devoured" sug=swallows / consumes
+   Q: The New Lunar Temple was completely devoured, along with the thousands of gathered priestesses, sorcerers, and soldiers.
+[P5-A-B0116-013] S=['THE SONS OF FAZZUR'] P=serves O=['ARGRATH'] implicit=False ps="are openly supporting the rise of" sug=aids
+   Q: the sons of Fazzur are openly supporting the rise of Argrath.
+[P5-A-B0116-014] S=['SURVIVING SEVEN MOTHERS PRIESTESSES'] P=travels O=[] MOD={"to": "THE HEARTLANDS", "at_the_command_of": ["RED EMPEROR"], "purpose_clause": "TO THWART"} implicit=True ps="ordered to return to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the Red Emperor ordered many of the surviving priestesses to return to the Heartlands so they might fight against the ongoing Pentan invasion.
+[P5-A-B0116-015] S=['DEATH'] P=shatters O=['MIDDLE WORLD'] MOD={"from": "OTHER SIDE"} implicit=False ps="sundered" sug=shatters
+   Q: In the Gods War the power of separation, Death, sundered the Middle World from the Other Side.
+[P5-A-B0116-016] S=['DARKNESS'] P=rules O=[] implicit=False ps="reigned" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Empty fear loomed. Darkness reigned.
+[P5-A-B0116-017] S=['STAR CAPTAINS'] P=travels O=[] MOD={"from": "THE HEAVENS", "purpose_clause": "TO OBTAIN"} implicit=False ps="fell from the heavens to seek out" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Star Captains fell from the heavens to seek out their worshipers, and sometimes found them or new followers.
+[P5-A-B0116-018] S=['MORTALS'] P=re-enacts O=['MYTHICAL DEEDS'] implicit=False ps="could re-enact" sug=re-enacts
+   Q: After the Dawn, mortals found that they could re-enact those mythical deeds and bring back some of the magic of the Gods Age.
+[P5-A-B0116-019] S=['ERINGULF VANAK SPEAR'] P=challenges O=["ASRELIA'S TREASURES"] MOD={"in_on_at": "DANCING JAR"} implicit=False ps="competing for" sug=one of: challenges, breaks oath, betrays, fights
+   Q: The cup depicts Eringulf Vanak Spear at the Dancing Jar competing for Asrelia's treasures.
+[P5-A-B0116-020] S=['ERINGULF VANAK SPEAR'] P=discovers O=['HAPPY PIG', 'MAKING OF FINE HORSES'] implicit=True ps="has already won" sug=discovers
+   Q: He has already won the Happy Pig and the Making of Fine Horses
+[P5-A-B0116-021] S=['MARAN GOR'] P=kills O=['COMPANIONS OF ERINGULF VANAK SPEAR'] implicit=True ps="killed by" sug=one of: kills, shatters, dies
+   Q: Behind Eringulf are his dead companions, killed by Maran Gor.
+[P5-A-B0116-022] S=['UMATUM'] P=is identified as O=['ORLANTH'] implicit=False ps="that same great Air entity that the Dara Happans call" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Heortling myths of Orlanth are experiences with that same great Air entity that the Dara Happans call Umatum or Rebellus Terminus
+[P5-A-B0116-023] S=['REBELLUS TERMINUS'] P=is identified as O=['ORLANTH'] implicit=False ps="that same great Air entity that the Dara Happans call" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Heortling myths of Orlanth are experiences with that same great Air entity that the Dara Happans call Umatum or Rebellus Terminus
+[P5-A-B0116-024] S=['BARAKU'] P=is identified as O=['ORLANTH'] implicit=False ps="that same great Air entity that the Fonritians call" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Heortling myths of Orlanth are experiences with that same great Air entity || that the Fonritians call Baraku
+[P5-A-B0116-025] S=['WANGBIAO'] P=is identified as O=['ORLANTH'] implicit=False ps="that same great Air entity that the Kralorelans call" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Heortling myths of Orlanth are experiences with that same great Air entity || that the Kralorelans call Wangbiao
+[P5-A-B0116-026] S=['WORLATH'] P=is identified as O=['ORLANTH'] implicit=False ps="that same great Air entity that the Malkioni call" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Heortling myths of Orlanth are experiences with that same great Air entity || or that the Malkioni call Worlath.
+[P5-A-B0116-027] S=['A CULTIST OF YELMALIO'] P=steals O=['FIRE POWERS OF YELMALIO'] MOD={"in_on_at": "HILL OF GOLD"} implicit=False ps="steal back" sug=steals
+   Q: a cultist of Yelmalio may go to the Hill of Gold and steal back the Fire powers that his god lost in the Gods Wars.
+[P5-A-B0116-028] S=['ARKAT'] P=enters Godtime / Otherworld O=['WORLD OF THE GODS'] implicit=False ps="repeatedly entered" sug=enters Godtime / Otherworld
+   Q: Arkat repeatedly entered the world of the gods and stole powers he used in his war against Gbaji.
+[P5-A-B0116-029] S=['ARKAT'] P=steals O=['POWERS'] MOD={"in_on_at": "WORLD OF THE GODS", "purpose_clause": "TO THWART"} implicit=False ps="stole" sug=steals
+   Q: Arkat repeatedly entered the world of the gods and stole powers he used in his war against Gbaji.
+[P5-A-B0116-030] S=['ARKAT'] P=fights O=['GBAJI'] implicit=True ps="his war against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: stole powers he used in his war against Gbaji.
+[P5-A-B0116-031] S=['HARMAST BAREFOOT'] P=descends into O=['UNDERWORLD'] implicit=False ps="went into" sug=one of: descends into, dies
+   Q: Harmast Barefoot went into the Underworld, followed the Lightbringers' Path, and returned with both Arkat and the power to free his people from the Bright Empire.
+[P5-A-B0116-032] S=['HARMAST BAREFOOT'] P=re-enacts O=["LIGHTBRINGERS' PATH"] implicit=False ps="followed" sug=re-enacts
+   Q: Harmast Barefoot went into the Underworld, followed the Lightbringers' Path
+[P5-A-B0116-033] S=['HARMAST BAREFOOT'] P=discovers O=['ARKAT'] MOD={"from": "UNDERWORLD", "purpose_clause": "TO PROTECT"} implicit=True ps="returned with" sug=discovers
+   Q: returned with both Arkat and the power to free his people from the Bright Empire.
+[P5-A-B0116-034] S=['SEVEN MOTHERS'] P=travels O=['LOST AND FORBIDDEN PATHS'] MOD={"via": ["SKY", "UNDERWORLD"], "purpose_clause": "TO OBTAIN"} implicit=False ps="walked" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Seven Mothers walked lost and forbidden paths through the Sky and the Underworld to gather the shattered pieces of an obscure, long-broken goddess.
+[P5-A-B0116-035] S=['SEVEN MOTHERS'] P=discovers O=['RED GODDESS'] implicit=True ps="returned with" sug=discovers
+   Q: They returned with the Red Goddess
+[P5-A-B0116-036] S=['RED GODDESS'] P=descends into O=['UNDERWORLD'] MOD={"purpose_clause": "TO OBTAIN"} implicit=False ps="quested into the deepest recesses of" sug=one of: descends into, dies
+   Q: the Red Goddess, who herself quested into the deepest recesses of the Underworld to return with full knowledge of herself and triumphant victory.
+[P5-A-B0116-037] S=['ERINGULF VANAK SPEAR'] P=is child of O=['BROLARULF OF THE GREAT LEAP'] implicit=False ps="His father was" sug=is child of
+   Q: Near the settlement of Barntar's Sheaf lived a man named Eringulf Vanak Spear. || His father was Brolarulf of the Great Leap
+[P5-A-B0116-038] S=['BROLARULF OF THE GREAT LEAP'] P=is child of O=['RASTALULF VANAK SPEAR'] implicit=False ps="was the son of" sug=is child of
+   Q: His father was Brolarulf of the Great Leap, who was the son of Chieftain Rastalulf Vanak Spear
+[P5-A-B0116-039] S=['RASTALULF HARANGSON'] P=is alternative name for O=['RASTALULF VANAK SPEAR'] implicit=False ps="was also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Chieftain Rastalulf Vanak Spear, who was also called Rastalulf Harangson.
+[P5-A-B0116-040] S=['RASTALULF VANAK SPEAR'] P=steals O=['VANAK SPEAR'] MOD={"in_on_at": "HILL OF GOLD", "from": "A FOE"} implicit=False ps="taking it from a foe" sug=steals
+   Q: Rastalulf was the first person to gain the Vanak Spear, taking it from a foe upon the Hill of Gold during the time of Haradangian Battles.
+[P5-A-B0116-041] S=['RASTALULF VANAK SPEAR'] P=serves O=['KING HARADANGIAN'] implicit=True ps="was a close advisor of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Chieftain Rastalulf was a close advisor of King Haradangian
+[P5-A-B0116-042] S=['LOKAMAYADON'] P=challenges O=['RASTALULF VANAK SPEAR'] implicit=True ps="interfered in this feud, siding against" sug=challenges
+   Q: Lokamayadon interfered in this feud, siding against Rastalulf.
+[P5-A-B0116-043] S=['THE MERCENARIES OF LOKAMAYADON'] P=fights O=['THE SONS OF RASTALULF'] implicit=False ps="the fight between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: At the fight between the mercenaries of Lokamayadon and the sons of Rastalulf was composed the "Immolation Song"
+[P5-A-B0116-044] S=['ERINGULF VANAK SPEAR'] P=travels O=[] MOD={"to": "ARIFINGOR THE GENEROUS", "purpose_clause": "TO OBTAIN"} implicit=False ps="visited" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: One day Eringulf Vanak Spear visited Arifingor the Generous to seek a wife.
+[P5-A-B0116-045] S=['ALYSYNDRA'] P=is spouse of O=['ARIFINGOR THE GENEROUS'] implicit=True ps="his wife" sug=is spouse of
+   Q: sharing the dragon-carved throne with his wife, Alysyndra Yanktori's daughter, who was of the line of Vingkot.
+[P5-A-B0116-046] S=['ALYSYNDRA'] P=is child of O=['YANKTORI'] implicit=False ps="Yanktori's daughter" sug=is child of
+   Q: his wife, Alysyndra Yanktori's daughter, who was of the line of Vingkot.
+[P5-A-B0116-047] S=['ALYSYNDRA'] P=claims ancestry O=['VINGKOT'] implicit=False ps="was of the line of" sug=claims ancestry
+   Q: his wife, Alysyndra Yanktori's daughter, who was of the line of Vingkot.
+[P5-A-B0116-048] S=['CARANISTRATA THE RED'] P=is child of O=['ARIFINGOR THE GENEROUS', 'ALYSYNDRA'] implicit=True ps="Their fifth daughter" sug=is child of
+   Q: Their fifth daughter, Caranistrata the Red, had made her own test
+[P5-A-B0116-049] S=['ERINGULF VANAK SPEAR'] P=descends into O=['THE PIT'] MOD={"in_on_at": "GINIJJI"} implicit=True ps="descended through" sug=one of: descends into, dies
+   Q: The Orlanth priests chanted their best prayers as Eringulf descended through the pit.
+[P5-A-B0116-050] S=['ERINGULF VANAK SPEAR'] P=travels O=[] MOD={"in_on_at": "DARK PLENTY", "using": "VANAK SPEAR", "with_the_aid_of": ["SIX ALLIES OF ERINGULF"]} implicit=True ps="got lost, but had no trouble" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In the Dark Plenty he got lost, as everyone always does, but he had no trouble because he had the Vanak Spear and the help of his six allies.
+[P5-A-B0116-051] S=['PIG-DOGS OF ASRELIA'] P=protects O=['DOORWAY OF ASRELIA'] implicit=True ps="guard" sug=one of: protects, rescues / frees, aids
+   Q: though the pig-dogs that guard her doorway removed his six allies
+[P5-A-B0116-052] S=['PIG-DOGS OF ASRELIA'] P=fights O=['SIX ALLIES OF ERINGULF'] implicit=True ps="removed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: though the pig-dogs that guard her doorway removed his six allies
+[P5-A-B0116-053] S=['ERINGULF VANAK SPEAR'] P=binds O=['ONE OF THE PIG-DOGS'] MOD={"using": "IRON ROPE"} implicit=True ps="captured, bound it with iron rope" sug=binds
+   Q: they captured one of them, bound it with iron rope, and returned with it.
+[P5-A-B0116-054] S=['ERINGULF VANAK SPEAR'] P=challenges O=['DANCING JAR'] MOD={"in_on_at": "HUT OF ASRELIA"} implicit=False ps="bet his left arm that he could catch" sug=one of: challenges, breaks oath, betrays, fights
+   Q: In Asrelia's Hut, Eringulf Vanak Spear bet his left arm and the way he threw his javelins that he could catch the Dancing Jar, and he won.
+[P5-A-B0116-055] S=['ERINGULF VANAK SPEAR'] P=defeats O=['OPPONENTS SELECTED BY ASRELIA'] MOD={"at_the_instigation_of": ["ASRELIA"]} implicit=True ps="won both times" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Asrelia selected his opponents, and as usual they contested in silence. Eringulf won both times.
+[P5-A-B0116-056] S=['ERINGULF VANAK SPEAR'] P=travels O=['BLESSING OF SEEDS', 'HAPPY PIGS'] MOD={"to": "SACRED GROUNDS"} implicit=False ps="returned to the sacred grounds with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: After the usual ceremony Eringulf Vanak Spear returned to the sacred grounds with the Blessing of Seeds, the Happy Pigs, and the Shield from
+[P5-A-B0117-001] S=['ERINGULF VANAK SPEAR'] P=bestows magic / gifts O=['SIX ALLIES OF ERINGULF'] MOD={"using": "GOLD"} implicit=True ps="rewarded" sug=one of: bestows, heals, imbues, teaches
+   Q: He rewarded his six allies with gold after he returned.
+[P5-A-B0117-002] S=['ERINGULF VANAK SPEAR'] P=marries O=['DAUGHTER OF ARIFINGOR'] MOD={"at_the_instigation_of": ["ARIFINGOR THE GENEROUS"]} implicit=True ps="You can consider yourself married" sug=is spouse of (qual=wedding)
+   Q: Her husband said to Eringulf, "You can consider yourself married
+[P5-A-B0117-003] S=['VANAK SPEAR'] P=defeats O=['BIRDS OF THE WINGED SONS OF GOLD'] implicit=False ps="were easy prey for" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The beautiful birds of the winged Sons of Gold were easy prey for the enchanted Vanak Spear.
+[P5-A-B0117-004] S=['WARRIORS OF ARIFINGOR'] P=kills O=['RIDERS OF THE WINGED SONS OF GOLD'] implicit=True ps="were quickly dispatched" sug=one of: kills, shatters, dies
+   Q: The riders were quickly dispatched on the ground by groups of warriors.
+[P5-A-B0117-005] S=['WINGED SONS OF GOLD'] P=fights O=['STEAD OF ARIFINGOR'] implicit=True ps="tried to ignite" sug=invades / raids
+   Q: Although they tried to ignite the barns and long house only some small outbuildings were harmed
+[P5-A-B0117-006] S=['WOMEN OF THE STEAD'] P=protects O=['STEAD OF ARIFINGOR'] MOD={"using": ["WATER", "MAGIC"]} implicit=True ps="extinguished the fires" sug=one of: protects, rescues / frees, aids
+   Q: the women inside extinguished the fires with water and magic.
+[P5-A-B0117-007] S=['VANAK SPEAR'] P=transforms into O=['LADDER SPEAR'] MOD={"at_the_instigation_of": ["ERINGULF VANAK SPEAR"]} implicit=True ps="cast the Vanak Spear to be" sug=transforms into
+   Q: He cast the Vanak Spear to be the Ladder Spear
+[P5-A-B0117-008] S=['ERINGULF VANAK SPEAR'] P=travels O=[] MOD={"in_on_at": "THE SKY", "to": "FIREBIRD", "via": ["LADDER SPEAR"]} implicit=True ps="climbed it across the sky" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: climbed it across the sky to leap atop the fiery creature.
+[P5-A-B0117-009] S=['ERINGULF VANAK SPEAR'] P=wounds O=['FIREBIRD'] MOD={"using": "SWORD"} implicit=True ps="tore great holes into" sug=wounds
+   Q: With his sword Eringulf tore great holes into the bird so that the red-hot pieces fell to the ground as if the Sun was weeping.
+[P5-A-B0117-010] S=['ARIFINGOR THE GENEROUS'] P=kills O=['BLACK DOG'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Arifingor the Generous killed the Black Dog again here, but received two fatal wounds from the trolls
+[P5-A-B0117-011] S=['TROLLS'] P=wounds O=['ARIFINGOR THE GENEROUS'] implicit=True ps="two fatal wounds from" sug=wounds
+   Q: received two fatal wounds from the trolls
+[P5-A-B0117-012] S=['ARIFINGOR THE GENEROUS'] P=bestows geas O=['WITCH'] implicit=True ps="cursed" sug=curses
+   Q: He cursed the witch who had betrayed him and sang his death song.
+[P5-A-B0117-013] S=['LOWLAND TROOPS'] P=steals O=["VALUABLES OF ARIFINGOR'S STEAD"] implicit=True ps="had taken" sug=steals
+   Q: They had taken the valuables from the houses and were setting fire to the buildings.
+[P5-A-B0117-014] S=['ERINGULF VANAK SPEAR'] P=serves O=['ARIFINGOR THE GENEROUS'] implicit=True ps="his dying chieftain" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Eringulf Vanak Spear found his dying chieftain and received his last words.
+[P5-A-B0117-015] S=['ERINGULF VANAK SPEAR'] P=dismembers O=['ARIFINGOR THE GENEROUS'] MOD={"to": "THE WOODS"} implicit=True ps="cut off the head of" sug=dismembers
+   Q: Eringulf cut off the head of his lord and carried it away to the woods.
+[P5-A-B0117-016] S=['ERINGULF VANAK SPEAR'] P=protects O=['ARIFINGOR THE GENEROUS'] implicit=True ps="was preserved from a gruesome fate" sug=one of: protects, rescues / frees, aids
+   Q: Thus the conquerors were robbed of their favored trophy, and the chieftain was preserved from a gruesome fate before his final death.
+[P5-A-B0117-017] S=['ERINGULF VANAK SPEAR'] P=pledges oath with O=['SLAYER OF ARIFINGOR'] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="swore vengeance against" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: At this time Eringulf Vanak Spear swore vengeance against the slayer of his father-in-law.
+[P5-A-B0117-018] S=['CARANISTRATA THE RED'] P=is spouse of O=['ERINGULF VANAK SPEAR'] implicit=True ps="his beautiful wife" sug=is spouse of
+   Q: he found some of his kinsmen, including his beautiful wife, Caranistrata the Red
+[P5-A-B0117-019] S=['ERINGULF VANAK SPEAR'] P=travels O=[] MOD={"to": "VANAK SPEAR FARM"} implicit=True ps="went to live at" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: went to live at Vanak Spear Farm on the edge of the Ginijji, where no one could find him for years.
+[P5-A-B0117-020] S=['ERINGULF VANAK SPEAR'] P=descends into O=['PITS OF GINIJJI'] implicit=False ps="Heroquest into" sug=one of: descends into, dies
+   Q: The Heroquest of Eringulf Vanak Spear into the Pits of Ginijji
+[P5-A-B0117-021] S=['ERINGULF VANAK SPEAR'] P=descends into O=['THE PIT'] MOD={"with_the_aid_of": ["PRIESTS"]} implicit=True ps="descends into the pit" sug=one of: descends into, dies
+   Q: priests prepare his way by "chanting their best prayers" as he descends into the pit.
+[P5-A-B0117-022] S=['CARANISTRATA THE RED'] P=bestows geas O=['SUITOR OF CARANISTRATA'] implicit=False ps="has asked for" sug=one of: bestows geas, curses
+   Q: Caranistrata the Red has asked for nothing less than a suitor who has descended into the Underworld and returned.
+[P5-A-B0117-023] S=['ERINGULF VANAK SPEAR'] P=re-enacts O=['ARMING OF ORLANTH'] implicit=True ps="invocation started with" sug=re-enacts
+   Q: Eringulf 's invocation, like most Orlanthi Heroquests, started with an "Arming of Orlanth" ceremony
+[P5-A-B0117-024] S=['GINIJJI'] P=is alternative name for O=['SNAKEPIPE HOLLOW'] implicit=False ps="better known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ginijji, a foreboding region that is better known as Snakepipe Hollow.
+[P5-A-B0117-025] S=['GINIJJI'] P=manifests chaos taint O=[] implicit=False ps="is a seething Chaos region" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Ginijji is a seething Chaos region.
+[P5-A-B0117-026] S=['ERINGULF VANAK SPEAR'] P=enters Godtime / Otherworld O=['MYTHIC LANDSCAPE'] MOD={"in_on_at": "PIT OF JAWS", "with_the_aid_of": ["PRIESTS"]} implicit=True ps="go to the mythic landscape" sug=enters Godtime / Otherworld
+   Q: There the priests close the final gap between the worlds to allow Eringulf to go to the mythic landscape.
+[P5-A-B0117-027] S=['DARK PLENTY'] P=is alternative name for O=['DARKNESS OF THE UNDERWORLD'] implicit=False ps="One of the names for" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Obstacle 3: Dark Plenty. One of the names for the limitless Darkness of the Underworld
+[P5-A-B0117-028] S=['ERINGULF VANAK SPEAR'] P=travels O=[] MOD={"in_on_at": "DARK PLENTY", "with_the_aid_of": ["VANAK SPEAR"]} implicit=True ps="easy passage" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Eringulf 's apparent easy passage is another understatement, even though aided by the Vanak Spear
+[P5-A-B0117-029] S=['SIX ALLIES OF ERINGULF'] P=embodies O=['SIX DIRECTIONS'] implicit=True ps="were empowered as" sug=one of: embodies, has domain
+   Q: The six allies mentioned here were empowered as the six directions
+[P5-A-B0117-030] S=['MARAN GOR'] P=protects O=['UNDERWORLD'] implicit=False ps="is a fighting guardian of" sug=one of: protects, rescues / frees, aids
+   Q: Among other things, Maran Gor is a fighting guardian of the Underworld.
+[P5-A-B0117-031] S=['ERINGULF VANAK SPEAR'] P=defeats O=['MARAN GOR'] implicit=True ps="must have won" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Unstated, but assumed, is the deadly combat between Eringulf and Maran Gor, which he must have won.
+[P5-A-B0117-032] S=['ERINGULF VANAK SPEAR'] P=binds O=['PIGDOG'] MOD={"using": "IRON ROPE"} implicit=True ps="bound with iron rope" sug=binds
+   Q: he gained one of the pigdogs, "bound with iron rope, and returned with it."
+[P5-A-B0117-033] S=['PIGDOG'] P=is identified as O=['DEADLY GUARDIAN'] implicit=True ps="was the Deadly Guardian" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: This creature, which was a dogshaped pig in the mundane world, was the Deadly Guardian required of the quest
+[P5-A-B0117-035] S=['ERINGULF VANAK SPEAR'] P=challenges O=['DANCING JAR'] MOD={"in_on_at": "HUT OF ASRELIA"} implicit=False ps="bet his left arm and the way he threw his javelins that he could catch" sug=one of: challenges, breaks oath, betrays, fights
+   Q: In Asrelia's Hut, Eringulf Vanak Spear bet his left arm and the way he threw his javelins that he could catch the Dancing Jar, and he won.
+[P5-A-B0118-001] S=['ERINGULF'] P=challenges O=["DENIZENS OF ASRELIA'S HUT"] implicit=True ps="contest is wagered against" sug=one of: challenges, breaks oath, betrays, fights
+   Q: His contest is wagered against unspecified denizens of Asrelia's Hut, who would be various powers of the Underworld.
+[P5-A-B0118-002] S=['MOTHER OF TREASURES'] P=is alternative name for O=['ASRELIA'] implicit=False ps="Asrelia, Mother of Treasures" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the realm of Asrelia, Mother of Treasures, and the Keeper of Life.
+[P5-A-B0118-003] S=['THE DANCING JAR'] P=bestows magic / gifts O=['BLESSING OF SEEDS', 'HAPPY PIGS'] IO=['ERINGULF'] implicit=True ps="acquire some benefits from the Jar" sug=one of: bestows, heals, imbues, teaches
+   Q: The results of Eringulf 's efforts were to acquire some benefits from the Jar. || First he got the Blessing of Seeds and the Happy Pigs, fertility blessings that increases the number of both.
+[P5-A-B0118-004] S=['THE DANCING JAR'] P=bestows magic / gifts O=['SHIELD FROM HAILSTONES', 'MAKING FINE HORSES'] IO=['ERINGULF'] implicit=True ps="another blessing" sug=one of: bestows, heals, imbues, teaches
+   Q: The Shield from Hailstones was another blessing for crops, preserving them from this blight. || The blessing of the Making Fine Horses is something that later allowed Eringulf to breed the finest horses around.
+[P5-A-B0118-005] S=['OSBOROPO'] P=poisons with chaos O=['EARTH MOTHER'] MOD={"in_on_at": "DRAGON PASS", "using": "MAGGOT OF CHAOS"} implicit=False ps="drove the Maggot of Chaos deep into the womb of" sug=corrupts
+   Q: the Chaos demon Osboropo drove the Maggot of Chaos deep into the womb of the Earth Mother in Dragon Pass.
+[P5-A-B0118-006] S=['CHAOS MAGGOT'] P=kills O=['STORM GOD'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: The Chaos Maggot killed the storm god that defended the Earth Mother
+[P5-A-B0118-007] S=['STORM GOD'] P=protects O=['EARTH MOTHER'] implicit=False ps="defended" sug=one of: protects, rescues / frees, aids
+   Q: the storm god that defended the Earth Mother
+[P5-A-B0118-008] S=['OSBOROPO'] P=kills O=['QUEEN OF THE STORM GOD'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Osboropo killed his queen after she had given birth to the storm god's child.
+[P5-A-B0118-009] S=['QUEEN OF THE STORM GOD'] P=is spouse of O=['STORM GOD'] implicit=False ps="his queen" sug=is spouse of
+   Q: Osboropo killed his queen after she had given birth to the storm god's child.
+[P5-A-B0118-010] S=['BAROSHI'] P=is child of O=['STORM GOD', 'QUEEN OF THE STORM GOD'] implicit=True ps="given birth to the storm god's child" sug=is child of
+   Q: she had given birth to the storm god's child. || But the new godling Baroshi rose from his cradle
+[P5-A-B0118-011] S=['BAROSHI'] P=travels O=['CHAOS MAGGOT'] implicit=True ps="went on the trail of" sug=hunts
+   Q: But the new godling Baroshi rose from his cradle and went on the trail of the worm.
+[P5-A-B0118-012] S=['BABEESTER GOR'] P=bestows magic / gifts O=['SPIRITS OF THE DEAD'] IO=['BAROSHI'] implicit=False ps="sent" sug=one of: bestows, heals, imbues, teaches
+   Q: Aided by the spirits of the dead (sent by Babeester Gor, the grim goddess of divine vengeance), Baroshi
+[P5-A-B0118-013] S=['BABEESTER GOR'] P=embodies O=['DIVINE VENGEANCE'] implicit=False ps="the grim goddess of divine vengeance" sug=one of: embodies, has domain
+   Q: Babeester Gor, the grim goddess of divine vengeance
+[P5-A-B0118-014] S=['BAROSHI'] P=kills O=['OSBOROPO'] MOD={"with_the_aid_of": ["SPIRITS OF THE DEAD"]} implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Aided by the spirits of the dead || Baroshi killed and decapitated the Chaos Demon Osboropo
+[P5-A-B0118-015] S=['BAROSHI'] P=dismembers O=['OSBOROPO'] implicit=False ps="decapitated" sug=dismembers
+   Q: Baroshi killed and decapitated the Chaos Demon Osboropo
+[P5-A-B0118-016] S=['BAROSHI'] P=wounds O=['CHAOS MAGGOT'] implicit=True ps="wounded" sug=wounds
+   Q: wounded the Chaos Maggot, who in fright, turned and burrowed straight down.
+[P5-A-B0118-017] S=['CHAOS MAGGOT'] P=descends into O=[] implicit=False ps="burrowed straight down" sug=one of: descends into, dies
+   Q: the Chaos Maggot, who in fright, turned and burrowed straight down.
+[P5-A-B0118-018] S=['ERINGULF'] P=bestows magic / gifts O=['GIFTS OF THE DANCING JAR'] IO=["ERINGULF'S WIFE'S FAMILY"] implicit=True ps="were given to" sug=one of: bestows, heals, imbues, teaches
+   Q: three of the four gifts he gained were given to his wife's family
+[P5-A-B0118-019] S=['YELM'] P=travels O=['LODRIL', 'DAYZATAR', 'SHARGASH', 'ERISSA'] implicit=False ps="accompanies" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Thus we often find that Yelm, in one form or another, accompanies Lodril, Dayzatar, Shargash, and Erissa on quests.
+[P5-A-B0118-020] S=['YELMALIO'] P=alters mythic station O=[] MOD={"in_on_at": "HILL OF GOLD"} implicit=False ps="gains immortality" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: For example, Yelmalio gains immortality on the Hill of Gold Quest.
+[P5-A-B0118-021] S=['ORLANTH'] P=wounds O=['YELMALIO'] implicit=True ps="wounds" sug=wounds
+   Q: Orlanth wounds him and steals his weapons
+[P5-A-B0118-022] S=['ORLANTH'] P=steals O=['WEAPONS OF YELMALIO'] implicit=True ps="steals" sug=steals
+   Q: Orlanth wounds him and steals his weapons
+[P5-A-B0118-023] S=['ZORAK ZORAN'] P=wounds O=['YELMALIO'] implicit=True ps="breaks his thighs" sug=wounds
+   Q: Zorak Zoran appears and breaks his thighs

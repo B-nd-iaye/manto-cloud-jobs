@@ -1,0 +1,124 @@
+### WOD-JR:02262 | WOD-JR | WOD-JR 31585 (Hrelar Amali) | Select Month September 2026
+FIGURES: HUMAT, LIGHTBRINGERS, ORLANTH, SRAMAK
+TEXT: To guarantee the place's sanctity, the priests never worked, and were given food and other necessities by the gods themselves. The place's sacred quality was also maintained by oaths which protected any pilgrims and priests while there, or on the way, so long as they wore the yellow robes. There was always a mouthpiece for the temple, who acted for any god who was in charge at the time. He was called "Chief of the Court", and was created by the rulers of the Spike itself from their blood.In 180, the Theyalan Lightbringers revealed at Hrelar Amali that Orlanth was another name for Humat, the most powerful of the Nine. A generation later, the Seshnegi gave great gifts to Sramak, so they might placate the waters. Later, temples to many lesser gods were added.
+TARGETS: possesses / wields
+
+### WOD-JR:02263 | WOD-JR | WOD-JR 31585 (Hrelar Amali) | Select Month September 2026
+FIGURES: FLAMAL
+TEXT: From its glory it fell to the corruption of a particularly vile form of magic called Vadeli sorcery and the temple remains in ruins to this day. At the Dawn the four tribes of the Enerali (Korioni, Uton, Fornaoli, and Vustri) formed the Dangan Confederacy. They lived from hunting, horse-herding, and the bounty of Mata and Flamal (mixed hunter-gatherer and neolithic farming). They use digging sticks to till the rich soil around Lakes Ehilmka and Felster. They lack all but the crudest metal-working (except for gold which they hammered into ornate jewelry), but make their tools from stone and bone (they later traded with the Seshnegi for metal goods and later learned bronze-working from the Theyalan Missionaries).
+TARGETS: trades / exchanges
+
+### WOD-JR:02279 | WOD-JR | WOD-JR 31806 (The Lunar Dynasty in Tarsh) | Select Month September 2026
+FIGURES: SECOND SON
+TEXT: Though Philigos was slain, Phargentes made a brilliant recovery, slew Palashee, and became king himself. The year was 1556. Vostor was rewarded with Dunstop and most of Kordros Island. Vostor had four sons and one daughter by two wives. They were all loyal and brave. The brothers all became Lunar soldiers who fought often for their king. The eldest son, Farrad, died at age 28 in the Battle of Grizzley Peak (1582) which smashed the Sartar army. The second son, Goslem, died at age 23 in the Battle of Bagnot (also 1582), when he acted rashly and attacked too soon. The third son was Wassail. He was quick to rise in the priesthood and helped Phargentes arrange the difficult magic which helped kill Sartar prince Terasarin in 1600. Fazzur was the youngest son, born in 1564. He was a gifted child and a talented soldier, receiving his commission early. Vostos' last child, a daughter, was born in 1568 and was named Harsta. She was a proud and haughty noblewoman, and wed the son of King Phargentes – Moirades – and was the mother of Pharandros.
+TARGETS: dies
+
+### WOD-JR:02293 | WOD-JR | WOD-JR 31811 (Dragon Pass in the Third Age, part 1) | Select Month September 2026
+FIGURES: COLYMAR, ORLANTH
+TEXT: Larger groups of settlers came from the Holy Country and Peloria. The first were the group of settlers that followed Colymar Black Spear and his Esrolian wife. They established a village called Clearwine around 1300. Warfare in the Holy Country sent a flood of refugees and settlers into Dragon Pass. They worshipped Orlanth and lived in towns, herded and hunted, and fought. When they settled they often took long‑abandoned hill forts, as had been their custom in the south. The Colymar Clan followed suit after newcomers razed their village around 1320.
+TARGETS: dwells at; hunts
+
+### WOD-JR:02297 | WOD-JR | WOD-JR 31811 (Dragon Pass in the Third Age, part 1) | Select Month September 2026
+FIGURES: THE TWINS
+TEXT: With the extinction of the Twins Dynasty, Tarsh entered a period of civil war that only ended around 1460 when the Illaro Household became the adopted brother-kings of Tarsh. The Pure Horse People, huddled in the hills of their summer grazelands, grew gloomy and desperate. Raiding parties searched far and wide for salvation or vengeance, but were pursued by angry armies that captured their herds and killed their warriors. The clans turned upon each other, seeking a victor or a victim. One clan broke away and sought passage from the God-King, then moved westward through Esrolia and out of the Grazelanders' history.
+TARGETS: avenges
+
+### WOD-JR:02299 | WOD-JR | WOD-JR 31811 (Dragon Pass in the Third Age, part 1) | Select Month September 2026
+FIGURES: FEATHERED HORSE QUEEN
+TEXT: During the turmoil from 1450–1470, a leader rose from this cult. With a handful of loyal women, she went deep into the womb of the Earth. When she returned, she was called the Feathered Horse Queen because she wore the ancient signs of regal office which had been stripped from her goddess in the Gods Age. She claimed the inherent sovereignty of the land, given to her by the goddess within it. The Sun King of the Pure Horse People rejected this idea, of course, but the peasant farmers (who were Orlanthi and not Pure Horse People) recognized the truth of her claims, and flocked to support the efforts of the cult to bring peace.
+TARGETS: possesses / wields
+
+### WOD-JR:02306 | WOD-JR | WOD-JR 31814 (Dragon Pass in the Third Age, part 2) | Select Month September 2026
+FIGURES: HON-EEL
+TEXT: In 1555, the Lunar Empire invaded Tarsh to reinstall the Hon-eel Dynasty as rulers of that kingdom. With the aid of Prince Jarolar of Sartar and his Praxian allies, King Palashee routed the Lunar Army at the Battle of Karnge Farm. The exiled Lunar King Philigos was killed. However, once the armies disbanded, his younger brother, the Lunar general Phargentes, launched a surprise raid. King Palashee met General Phargentes in battle and they fought so fiercely that the grass at Axefield is still red today. But in the end Palashee was slain, although Phargentes lost his arm to Palashee and was named One-Arm.
+TARGETS: punishes / exiles
+
+### WOD-JR:02310 | WOD-JR | WOD-JR 31814 (Dragon Pass in the Third Age, part 2) | Select Month September 2026
+FIGURES: ELMAL, MONROGH LANTERN, TARKALOR TROLLKILLER, YELM, YELMALIO
+TEXT: Upon becoming Prince in 1569, Tarkalor brought peace with the Sun worshipers at last. Tarkalor had befriended Monrogh Lantern, who had heroquested to the Sun God and returned with Yelmalio, a god known to the elves and to the Sun Dome Temples of the Second Age; a god neither Yelm nor Elmal, but with a rich mythology of his own. Monrogh swore loyalty to Tarkalor, who had been dragged into a feud with the Darkness-worshiping Kitori of the Troll Woods. Tarkalor gratified the new Yelmalio cult by seizing new territory from the Kitori, and then granting it to the Yelmalions for their own rule. In this way, a new tribe was founded at the borders of Sartar, between the trolls and the Beast Men. They called themselves the Sun Dome Temple.
+TARGETS: hates / fears
+
+### WOD-JR:02311 | WOD-JR | WOD-JR 31814 (Dragon Pass in the Third Age, part 2) | Select Month September 2026
+FIGURES: FEATHERED HORSE QUEEN, RED EMPEROR, TARKALOR TROLLKILLER
+TEXT: Prince Tarkalor proved more than a match for King Phargentes, both militarily and magically. When Lunar troops could not succeed, the conflict moved to more subtle realms and the two leaders found themselves in a contest for the hand of the Feathered Horse Queen, ruler of the Grazers. Tarkalor was eventually victorious and married her in 1575. After this he was titled King of Dragon Pass. The contest had proved to be too much for old King Phargentes, who died in 1579. The Red Emperor himself came to Furthest for Phargentes' funeral.
+TARGETS: dies
+
+### WOD-JR:02313 | WOD-JR | WOD-JR 31814 (Dragon Pass in the Third Age, part 2) | Select Month September 2026
+FIGURES: TARKALOR TROLLKILLER
+TEXT: The armies met at the Battle of Grizzly Peak. The Lunar armies swept the field after their vastly superior Lunar College of Magic sent hostile spirits against the Sartarites. Both King Tarkalor and his Queen were killed. A month later Bagnot fell and its inhabitants were put to the sword. The Tarsh Exiles retreated to Wintertop, where they were protected by the magic of the Shaker's Temple.
+TARGETS: dwells at
+
+### WOD-JR:02317 | WOD-JR | WOD-JR 31814 (Dragon Pass in the Third Age, part 2) | Select Month September 2026
+FIGURES: CRIMSON BAT, RED EMPEROR
+TEXT: The free folk of Sartar fought like fiends, the Household of Death lived up to their oaths, and the Lunar Army took terrible losses. The Crimson Bat was sent back to Hell, the Red Emperor grievously wounded, and many Lunar priests and demigods killed. But in the end, the Lunars took Boldhome and the Flame of Sartar was quenched, battered, and cursed. Although it occasionally sputtered on for years afterwards, for the next twenty-five years the fire of the land was effectively dead.
+TARGETS: curses
+
+### WOD-JR:02330 | WOD-JR | WOD-JR 31849 (Hidden Shrine to Orlanth Victorious) | Select Month September 2026
+FIGURES: ORLANTH
+TEXT: For as we all know, Garrath Sharpsword was a famous instructor who lives in Oldtown. He is known to worship Orlanth Adventurous, and has spent time among both the nomads of Prax and the wolf pirates of the Rozgali Ocean.
+TARGETS: dwells at
+
+### WOD-JR:02344 | WOD-JR | WOD-JR 31897 (Orlanth Victorious) | Select Month September 2026
+FIGURES: ARGRATH, KALLYR STARBROW, ORLANTH
+TEXT: The cult of Orlanth Victorious is Argrath's little band of Orlanthi out in Prax and the Big Rubble. They don't have a whole lot of overlap with Kallyr Starbrow (Argrath was exiled from Sartar before Kallyr's rise and a slave of the Bison Tribe in the Wastelands during Starbrow's Rebellion. And I am not sure if Kallyr was even present at the Battle of Pennel Ford, except maybe as a companion of King Broyan).
+TARGETS: punishes / exiles
+
+### WOD-JR:02351 | WOD-JR | WOD-JR 31903 (Notes on the Origins Of Tarsh) | Select Month September 2026
+FIGURES: JANNISOR, ORLANTH, YELM, YELMALIO
+TEXT: Now already by 1350, I can see some big differences with these Orlanthi and those of the Holy Country. Yelmalio is already in their pantheon, and they know Yelm well (and have been ruled by him on many occasions, and not always badly). But Orlanth Rex is the king of the gods, and has the ability to impose his authority over the feuding clans. They have centuries of contact with Dara Happa. And they know the Lunar Empire. They were there when Jannisor shattered the gates of Glamour and when the Antelope People betrayed him. They saw the Moonburn. And witnessed the Conquering Daughter in action.
+TARGETS: hates / fears
+
+### WOD-JR:02361 | WOD-JR | WOD-JR 31981 (The distrust of Kallyr Starbrow) | Select Month September 2026
+FIGURES: COLYMAR, KALLYR STARBROW
+TEXT: As a result of the rebellion, many thousands were killed, and the tribal leaders of the Colymar were exiled. The Colymar leaders particulary distrust her – Kallai and Beneva Chan were already in exile (as were Erenava Chan and others). Kallai, along with other Colymar exiles, died defending Whitewall from the Lunar Army. Other Colymar exiles fought in the siege of Nochet. This distrust of Kallyr Starbrow extends to many other tribal leaders. The Culbrea and Malani also shared the Colymar distrust, and blamed her for the Rebellion's failure.
+TARGETS: dies; punishes / exiles
+
+### WOD-JR:02365 | WOD-JR | WOD-JR 31987 (Elder Races in Dragon Pass) | Select Month September 2026
+FIGURES: ALDRYAMI, OAKFED
+TEXT: During the Inhuman Occupation, brown elf habitation in Dragon Pass spread rapidly, covering much of what was later the Bush Range, Grazelands, and Beast Valley. Large parts of the forest were destroyed in the trollkin wars, even when the elves were not engaged directly in the war. The elves dissipated their strength further by contending against the fires of Oakfed, from nearby Prax. Sometime before 1200, the elves and trolls met in the Battle of Cloaks and Fireclouds, resulting in the death of many Aldryami nobility. The elves who survived fled back to the Stinking Forest or the Holy Country. Unattended, the vast forest which once crossed Dragon Pass began its decline. By the Hero Wars period, there only a few brown elf strongholds in Dragon Pass. Green elves dominate the northern fringes of the Stinking Forest, the Dryad Woods, and other redwood groves. There are several isolated dryads who sadly sing out to their lost elf companions, but rarely get a reply.
+TARGETS: dies
+
+### WOD-JR:02368 | WOD-JR | WOD-JR 31997 (The Celestial Empire of Sheng Seleris.) | Select Month September 2026
+FIGURES: EXARCHS, GODUNYA, SHENG SELERIS
+TEXT: The army of Sheng Seleris was large, fast moving and possessed incredible magical power. A few beings (ok, Godunya himself) were powerful enough to tangle with Sheng Seleris, but the norm was whoever opposed Sheng Seleris directly was screwed. He was powerful enough to invade the Red Moon and scar it. Sheng Seleris respected some Nysalorean schools, and also his techniques bore some superficial similarities to aspects of Kralorelan mysticism (particularly the relationship between the Dragon King and the Exarchs, which was echoed with Sheng Seleris and his Bursts).
+TARGETS: possesses / wields
+
+### WOD-JR:02373 | WOD-JR | WOD-JR 32003 (The Far Point) | Select Month September 2026
+FIGURES: ORLANTH, STORM BULL
+TEXT: After 1602, the cities became semi-autonomous Lunar client states. However, civil conflict between anti-Lunar cults such as Orlanth and Storm Bull and those cults neutral towards or allied with the Lunar Empire resulted in violence and bloodshed. In 1611, a Vantaros tribal leader, Harvar Ironfist, was acclaimed Prince of the Alda-Churi with Lunar support and ended the civil conflict. As of 1625 there is no Prince, as Harvar Ironfist died in the Dragonrise, although the area remains under Lunar Occupation.
+TARGETS: dies
+
+### WOD-JR:02376 | WOD-JR | WOD-JR 32004 (Tarsh Exiles) | Select Month September 2026
+FIGURES: ERNALDA, KERO FIN, MARAN GOR, ORLANTH
+TEXT: Old Tarshites are loyal to their clans and love both Maran Gor the Earthshaker Goddess and Ernalda the Earth Mother. They are devoted to Orlanth as King of the Gods, who lives in the clouds around Kero Fin Mountain. Their culture is often violent and bloody, yet they are warm and hospitable to guests and friends.
+TARGETS: dwells at
+
+### WOD-JR:02377 | WOD-JR | WOD-JR 32013 (Notes on Ethilrist III) | Select Month September 2026
+FIGURES: ETHILRIST, THE DEAD
+TEXT: I view Sir Ethilrist as a guy who climbed up the greasy pole and lost himself on the way. Although in his case, it is that he fell so far he has no idea where he started from any more. He was lost in the Realm of the Dead, made pacts with Darkness Demons, sacrificed his beliefs, causes, friends and family in order to survive and gain power. Each betrayal could be justified with a half-truth but after so many stacked up, the only thing that could justify this is the Destiny of a Hero. It was not his decision to enslave his followers to the Hell Horses as part of a Dark pact – that was Destiny. It was not his decision to bind the Hound into submission or make the bargain with the Goblins. All this was was what "needed" to be done to fulfill his destiny or whatever. It is only Keener Than that reminds him that this is a lie – Ethilrist decided to do these things.
+TARGETS: trades / exchanges
+
+### WOD-JR:02382 | WOD-JR | WOD-JR 32015 (Notes on Redaylda – Dendara – Ernalda) | Select Month September 2026
+FIGURES: ARGAN ARGAR, BABEESTER GOR, DENDARA, ERNALDA, FLAMAL, GRAIN GODDESSES, MAGASTA, MARAN GOR, ORLANTH, STORM BULL, TY KORA TEK, YELM, YELMALIO
+TEXT: In South Peloria the cults of Dendara and Ernalda overlap, often with great confusion. As we all know, Ernalda is the great Earth Goddess of the Theyalans. Her cult is centered on what was once Ernaldela – the land of the Earth Goddesses. Her cult is about Earth, agriculture, fertility, women, childbirth, and community – she is closely associated with the Grain Goddesses. She is also associated with the malevolent aspects of earth through Ty Kora Tek, Maran Gor, and Babeester Gor. Ernalda has many husband-protectors – Orlanth, Yelm, Yelmalio, Flamal, Magasta, Storm Bull, even Argan Argar. Although she generally lets her husband-protectors manage affairs of war and disputes, her priestesses wield great influence and power.
+TARGETS: possesses / wields
+
+### WOD-JR:02402 | WOD-JR | WOD-JR 32025 (Hon-eel’s Descendants and the Imperial N) | Imperial Nobility
+FIGURES: RED EMPEROR
+TEXT: 3. Yanoriao-ilart. This Three FIfths family control many temples and rules the satrapy of Doblian. Yanoriao Half-Fair fought a Dart Competition against the Eel-ariash, who had the support of the Red Emperor. Upon seizing control of the satrapy, she did not face punishment, but was certified by the Emperor as the legitimate ruler of Doblian in 7/4 (1575). Yanoriao's descendants are a squabbling bunch, thoroughly overshadowed in the popular imagination by the Queen Father. The current satrap is a pair of conjoined twins: Hytaspes, the male, strong in Sky magic, and Akamanah, his sister, strong in Darkness magic. They studied under Tatius the Bright of the Assiday family when they were younger and are influential patrons of the Lunar College of Magic.
+TARGETS: punishes / exiles
+
+### WOD-JR:02405 | WOD-JR | WOD-JR 32025 (Hon-eel’s Descendants and the Imperial N) | Imperial Nobility
+FIGURES: RED GODDESS
+TEXT: 7. Taran-il: This Old Children family is descended from Flower Poem, a goddess of art, games, beauty, dance, flowers, and song, who was awakened by the Red Goddess herself during the halcyon early years of the Zero Wane. Flower Poem now resides on the Red Moon, and reappears from time to time to take a lover from her descendants and continue her semi-divine lineage of the Taran-il. The Taran-il are known as fey magicians, often mad, but always powerful and usually illuminated.
+TARGETS: dwells at; sleeps / wakes
+
+### WOD-JR:02407 | WOD-JR | WOD-JR 32025 (Hon-eel’s Descendants and the Imperial N) | Imperial Nobility
+FIGURES: RED EMPEROR, RED GODDESS, SURENSLIB
+TEXT: 8. Wylua-oor: This Old Children clan controls the SurEnslib temple in Dorkath; they seized control of the satrapy when one of the Red Emperor's Masks was devoured by the Heron Goddess during the Dorkath Rites (over which they preside). They are urbane, civilized, and devoted to both the Red Goddess and the Heron Goddess. They are also feared for the cutthroat Dart Competitions they wage against the other satrapal houses.
+TARGETS: hates / fears
+
+### WOD-JR:02408 | WOD-JR | WOD-JR 32025 (Hon-eel’s Descendants and the Imperial N) | Imperial Nobility
+FIGURES: HON-EEL
+TEXT: The current satrap is Feathered Eye Woman, a woman of considerable charm, intelligence, and ability. 9. The Molari-sor: The Molari-sor waged their Dart Competition against the Ari-ji over control of the Oraya Satrapy with support from the Eel-ariash (who controlled the Doblian satrapy at the time). The Emperor's Mask of Artifex died during the course of this Dart Competition (by whose order is unknown) and when he returned wearing the Mask of Voracius, his first act (in 6/5 or 1522) was to certify the Molari-sor as the legitimate heirs of the satrapy and to proclaim their innocence by the fact that the Tax Demons did not touch them. The last known heirs of the Ari-ji were exterminated by assassins in 6/10 (1527), and since then, the Molari-sor clan has ruled the satrapy, although the Eel-ariash maintained their control of the Hon-eel cult.
+TARGETS: dies

@@ -1,0 +1,150 @@
+### KoS:00303 | KoS | pdf.61 | The Sword Story
+FIGURES: GAGARTH, ORLANTH
+TEXT: Orlanth was delayed on his voyage, first by Krakos, the troll avenger, who was angry because Orlanth broke his father's legs. Orlanth defeated him, and took his Darkwind. Then came Gagarth, the left‑blowing wind. Orlanth beat him, too. He took the Wind of Above from him.
+TARGETS: avenges
+
+### KoS:00308 | KoS | pdf.61 | The Sword Story
+FIGURES: MASTAKOS, ORLANTH
+TEXT: # <span id="page-61-0"></span>**The Healing of Mastakos** Orlanth had a great friend named Mastakos. Mastakos was one of the Bastards, a son of Impatience and Energy. On the day he was born he fell out of his father's wagon, and for the length of the day happily ran along after it, and when night came he rolled down the hill ahead of it. The next day he ran up the hill again to meet his parents coming down.
+TARGETS: heals
+
+### KoS:00311 | KoS | pdf.62 | The Sword Story
+FIGURES: ORLANTH
+TEXT: Instead, he found a ruined hall, inhabited by wild dogs, licking the marrow from fresh alynx bones. Orlanth was so angry at the death of his kinsmen that he slew all of the dogs he could reach, and his companions slew some more, and they would have killed everyone if they could. But one escaped, and it was Kang Rowl, the Slinker, the stinking Dog‑like‑a‑cat.
+TARGETS: dwells at; dies
+
+### KoS:00312 | KoS | pdf.62 | The Sword Story
+FIGURES: MASTAKOS
+TEXT: The vengeance of the Storm God was a victory for Mastakos. Among the slain he discovered Narangros, the Hell Hound who had stolen the sinews from Mastakos' heels. Mastakos recovered his sinews, and again the three‑legged sign was whole upon his breast. After this he was truly called Step Father.
+TARGETS: avenges
+
+### KoS:00316 | KoS | pdf.63 | How Peace Was Made
+FIGURES: ERNALDA, ORLANTH
+TEXT: One day Orlanth saw Ernalda, who was a prisoner in the Emperor's Palace. He took his army and stormed the castle, killing everyone who resisted. He rescued Ernalda just before the guards sold her to troll slavers. Orlanth asked if she was pleased with his actions, and she said that she certainly was. But for one thing, she added.
+TARGETS: trades / exchanges
+
+### KoS:00344 | KoS | pdf.67 | Orlanth and Sofala
+FIGURES: ORLANTH, THED
+TEXT: Orlanth discovered that there was too much justice when the goddess named Thed came to his court, demanding her share of it. Orlanth granted it, of course, but regretted it when she revealed that she was a victim of his brother's aggression. He had overcome her, and taken her by force against her will. She showed everyone her gaping wound, which had never healed, and demanded full recompense. Orlanth, of course, agreed, even though it brought him great shame. And Thed considered what would be the worst thing that she could do to her enemy, and she said that she wanted to be the Goddess of Rape, so that Orlanth's own wife and daughters would fear the same thing forever. And they did.
+TARGETS: heals
+
+### KoS:00357 | KoS | pdf.68 | Orlanth and Sofala
+FIGURES: UMATH, WAKBOTH
+TEXT: The Chaos Gods ransacked the fort of the gods, seeking whatever treasures they could spoil. They did not find enough to satisfy their lusts and their rage, so some of them turned upon each other. Then Wakboth got angry at them for letting the gods escape, and punished some of them. They rebelled, and all of the Chaos Gods were fighting. They fought so hard that they broke down the buildings of the fort, and the walls, and then the whole mountain upon which Umath's Camp stood upon. The explosion was of a million avalanches caving inward upon each other, and it was so strong that the whole mountain was ground into dust. The escaping Storm Gods blew this dust across the whole world, which was overcome by a pall of grainy darkness which had never been there before.
+TARGETS: loves / desires; punishes / exiles
+
+### KoS:00359 | KoS | pdf.68 | Orlanth and Sofala
+FIGURES: LIGHTBRINGERS, ORLANTH
+TEXT: Orlanth swore to take upon himself the task of going to find whatever cure was needed for the world, even though it might lie in the land of the dead or beyond, in worlds unknown yet. He swore to do whatever he had to do to save the world which he loved. He called for his weapons, and he prepared to depart. This was the start of the Lightbringers' Quest.
+TARGETS: loves / desires; heals
+
+### KoS:00376 | KoS | pdf.71 | The Land Journey
+FIGURES: ACOS, HARANA ILOR, ISSARIES, LARNSTE, LHANKOR MHY, ORENOAR, ORLANTH
+TEXT: Lhankor Mhy was the son of two of the Elder Deities, Acos the Lawgiver and Orenoar the Mistress of Truth. Lhankor Mhy was grieving because his lover, the Light of Knowledge, had been killed, so he was seeking her. Issaries was the son of two other Elder Deities. His father was Larnste, God of Change; and his mother was Harana Ilor, Goddess of Harmony. Issaries did not fear the dark, which he had encountered before, but was seeking the Light of Communication, which he felt could heal the wounded world. The two of them had joined their search together. They were happy to join themselves to Orlanth to continue the search.
+TARGETS: heals
+
+### KoS:00379 | KoS | pdf.71 | The Land Journey
+FIGURES: ARROIN, CHALANA ARROY, ERNALDA, FLESH MAN, ORLANTH
+TEXT: The army of Darkness was commanded by Shankgaro, Uzlord of the West. He was no friend to Orlanth since they had fought over Ernalda's farmlands. But he thanked Orlanth, and said he would tell his friends of this. After that Orlanth and his friends met other companions. They were Chalana Arroy and Flesh Man. Chalana Arroy was the daughter of Glorantha, the mother of the Elder Gods, though no one can say who her father was. Chalana Arroy had healed everyone during the Gods War. One day, while with her son Arroin, she found a god she could not heal. She had never seen this before, for the god was dead, and death was still new then. Chalana Arroy decided to do what must be done to discover the cure for this. She sought the Breath of Life.
+TARGETS: heals
+
+### KoS:00380 | KoS | pdf.71 | The Land Journey
+FIGURES: ARROIN, CHALANA ARROY, FLESH MAN, GRANDFATHER MORTAL, YELM
+TEXT: While she and Arroin debated how to do this they met Flesh Man. He was a mortal who had been driven mad. He had seen Grandfather Mortal die, and then he saw Yelm die, and then he had seen a vision of the death of the whole world, even before it was finished. They could not heal him, either, and he escaped and ran away. Then Chalana Arroy decided to seek the great wound of the universe which caused this, and set off on the trail of Flesh Man.
+TARGETS: dies; heals
+
+### KoS:00383 | KoS | pdf.72 | The Land Journey
+FIGURES: EURMAL, ORLANTH
+TEXT: Orlanth ordered Eurmal to bring them to the place which they all wanted to find. Eurmal was reluctant, pleaded ignorance, mocked them, begged not to have to do this, and threatened eventual revenge for it. When Orlanth told him to stop talking, and find them the safest journey to anyplace, he consented. This way they found their way to the shores of the sea.
+TARGETS: speaks / prophesies; avenges
+
+### KoS:00385 | KoS | pdf.72 | The Sea Journey
+FIGURES: ORLANTH
+TEXT: Orlanth and his friends sought the best way to cross the wretched ocean, which was dying and breaking from the forces of Chaos. Orlanth cast about for help or guidance and was answered by Sofala, the ancient Turtle Grandmother. She owed Orlanth a favor, and agreed to bear them across the seas to the best of her ability.
+TARGETS: dies
+
+### KoS:00390 | KoS | pdf.73 | Luathela
+FIGURES: ORLANTH, RAUSA
+TEXT: So Princess Rausa asked him what he wanted here, in her house. And Orlanth spoke simply. "I wish to travel beyond your home," he said, "and through the Gate of the West, and have them locked behind me." And the goddess was so happy that her wish had come true that she did not ask what his business there was, or with what intent he entered into this, or what end he hoped to accomplish. She collected the fee for going to the Underworld, then ordered the gate keepers, Vamth and Rhylor, to wrench the great doors open, and to lock them again when the travelers went through.
+TARGETS: speaks / prophesies
+
+### KoS:00397 | KoS | pdf.74 | The Long Descent
+FIGURES: CHALANA ARROY
+TEXT: Chalana Arroy healed anything and anyone that she met. This was how she saved them all, for compassion is always in great demand in the Underworlds. When the Greater Ungoron came it spared them all for her sake. But she met a demon to whom kindness meant nothing, and which could not be healed. She was foully treated by it, and hurt so badly that she could not even heal herself.
+TARGETS: heals
+
+### KoS:00400 | KoS | pdf.74 | "Whose hall is this? So merry in the darkness?"
+FIGURES: ORLANTH
+TEXT: At last Orlanth and his companions found the Hall. Orlanth heard laughter from it and strode boldly to the porter and spoke: *"Whose hall is this? So merry in the darkness?"* The porter was King Griffin, who dragged a shattered wing upon the ground. He said:
+TARGETS: speaks / prophesies
+
+### KoS:00406 | KoS | pdf.75 | "Whose hall is this? So merry in the darkness?"
+FIGURES: ORLANTH, YELM
+TEXT: Orlanth made his Promise of the Future. He said that there could be a future, and it would be like the past. Yelm demanded *"Which past?"* and Orlanth said, *"Like all of them."* The dead wept bitter dregs at that, for they were there because all things could not exist at once.
+TARGETS: mourns
+
+### KoS:00407 | KoS | pdf.75 | "Whose hall is this? So merry in the darkness?"
+FIGURES: CHALANA ARROY, NELAT, ORLANTH
+TEXT: Orlanth underwent the Requirement for Proof. Three searing baths were prepared, and Orlanth submerged in each of them. They were baths of Fire, of Hatred, and of Truth. If he had not been in the Baths of Nelat before he would have died for certain, and been as gone as his brother whose name is not known today. This was when the support of all who loved him was important. And in the land of Life, the thousands of mortals suffering from the chaos of life woke from a nightmare, and prayed to Orlanth that it would not be so. Otherwise, he would have been destroyed. Chalana Arroy could not do it.
+TARGETS: loves / desires; dies; sleeps / wakes
+
+### KoS:00408 | KoS | pdf.75 | "Whose hall is this? So merry in the darkness?"
+FIGURES: ORLANTH, YELM
+TEXT: When Orlanth emerged alive, even the blind could see that he was changed. Those who had been silent cheered. Yelm made his Statement of Recognition, and by this agreed that Orlanth and all that he stood for truly deserved a place in the universe, and that Orlanth was High King among the gods, and that all hatred between Emperor and High King would be healed in whatever future might exist.
+TARGETS: heals
+
+### KoS:00410 | KoS | pdf.75 | The Ritual of the Net
+FIGURES: ARACHNE SOLARA
+TEXT: When the gods spoke there were always changes in the world. When the gods spoke together for the first time, cooperatively, there was a new thing made. This was the goddess called Arachne Solara. She is unknown before the moment that the gods spoke to each other, but important after that, for she kept them talking.
+TARGETS: speaks / prophesies
+
+### KoS:00411 | KoS | pdf.75 | The Ritual of the Net
+FIGURES: ARACHNE SOLARA, ORLANTH, WAKBOTH, YELM
+TEXT: When Orlanth and Yelm had agreed, Arachne Solara said that all of them present should agree. If they did, she said, they could make the new future which Orlanth had promised. Otherwise, they would be nothing when Wakboth came to them there. Everyone was afraid to see Wakboth, and they all agreed, and swore the oath which Arachne Solara told them to swear.
+TARGETS: speaks / prophesies
+
+### KoS:00414 | KoS | pdf.76 | The Ritual of the Net
+FIGURES: ARACHNE SOLARA, WAKBOTH
+CONTEXT: done. They would not individually or consciously alter the world. They would not even turn their awareness to it, unless called upon to do so. Upon this relationship of promises, Arachne Solara then constructed a great magical web which was made from things which did not exist anymore. Then she gave the net to all of the gods to hold between them, to catch and wrap up whatever came among them.
+TEXT: It was the Devil that came. Wakboth came in among the gods when he had killed everything in the middle world. And the gods cast the great net upon him, and drew it tight the way hunters do when they capture the mighty cave bear, and held it tight so the Devil was helpless. Then Arachne Solara leapt upon the god with vengeance and a strength of desperation and mystical splendor. She wrapped the Chaos God in her legs and her web, and with every orifice she sucked everything out of the Devil and filled herself with it. The empty husk was ground into dust and each god who was present took a tiny piece, to remind them of their oath.
+TARGETS: avenges
+
+### KoS:00426 | KoS | pdf.77 | The Return
+FIGURES: HEORT, SECOND SON
+TEXT: When all the world was gone, and every man was alone, Heort went out upon the world. There, at the edge of the world, he met with the Second Son, who told him of his great and terrible battle. He showed Heort his wounds, and the secret of the Star Heart, and told him the secrets of the I Fought We Won Battle.
+TARGETS: speaks / prophesies
+
+### KoS:00462 | KoS | pdf.82 | Orlanth and the Machine God
+FIGURES: CHALANA ARROY, MOSTAL, ORLANTH, ZISTOR
+TEXT: So then the enemies of the Machine City, backed now by their gods, raised great armies and moved to destroy their foes. Zistor, brave thing that it was, rose to resist, and led his own army. At last Orlanth knocked Zistor down, and Mostal handily took it apart. Then Orlanth freed Bingista, and Chalana Arroy released the other one. Zistor tried to resist, for it was supposed to act as if it was alive. The screaming, grating cry of pain when it died was terrible for all who heard it.
+TARGETS: dies
+
+### KoS:00467 | KoS | pdf.82 | Orlanth and the Red Goddess
+FIGURES: GBAJI, ORLANTH, RED GODDESS, ZISTOR
+TEXT: The birth of a new god or demon is always an attraction, and so Orlanth was there to see when Gbaji was born, and Zistor was made, and when the Red Goddess cheated her way to acceptance. The Red Goddess had begun as almost nothing: a petty spirit, one among many which sought power in the world. She was aided by sorcerers and a priest of Gbaji, and the spirit possessed an innocent girl to gain life. She was called Shepelkirt, or Poison Blood, when the Orlanthi priests saw her in their dreams.
+TARGETS: possesses / wields
+
+### KoS:00470 | KoS | pdf.83 | Orlanth and the Red Goddess
+FIGURES: ALAKORING DRAGONBREAKER, RED GODDESS
+TEXT: One day the Red Goddess angered Vyran, the queen of Castle Blue. The two women argued, and Vyran sent three of her swift foot servants to avenge her lover's wounds. All three were slain, and crippled so they could never walk again. Then two women in red and a man in crimson were captured attempting to bring slime worms into the castle, and they were executed. So then the Scarlet Warlord came, with his companions, to wreak vengeance and impress the Red Moon Empress by his act of heroism. Alakoring Dragonbreaker, the famous warrior, was supping at the Blue Castle that day, and said, "If I could fight that man myself, I'd be so eager that my sword would raise itself from my sheath." The weapon then lifted silently from its sheath, and everyone knew that the Great Compromise had somehow been broken. Alakoring slew the first of these Scarlet Warlords, and the Battle of Castle Blue was begun.
+TARGETS: avenges
+
+### KoS:00496 | KoS | pdf.89 | King Ironhoof
+FIGURES: EURMAL, IRONHOOF, LADY OF THE WILD, ODAYLA
+TEXT: Ironhoof first went to his council, to ask for their support. All of them agreed to help, which distressed Ironhoof. Therefore he took pains to make sure that his two closest companions held Turdroll, the Trickster, prisoner during the quest. Ironhoof acted upon the advice of his Knowing Companion, and set off with great solemnity to the tent of Odayla, who was cooking pairs of quail and hare when Ironhoof arrived. They spoke the right words, and shared a meal, and then Ironhoof gave him the Gifts of the Eye. Odayla tried to discourage Ironhoof, for many others had attempted this hunt and their heads were now mere necklace decorations for the Lady of the Wild. Ironhoof insisted. Then Odayla gave Ironhoof his blessing for the hunt.
+TARGETS: speaks / prophesies; hunts
+
+### KoS:00521 | KoS | pdf.93 | History of the Grazers
+FIGURES: (none registered)
+TEXT: But, for reasons unknown, the Tarsh kings turned upon their allies. Jardankorda the Brave was betrayed and murdered by Yarandros, King of Tarsh, who wanted a horse. The next king also fought against Tarsh. Yaranspolti Houseburner burned down many farms first, then towns. But his people were weakened by plague, and Jardandarin Lifeshield was forced to make dishonorable peace with the Tarshites. He also created the White Horse Herd, which had miraculous healing powers and saved them from the plague.
+TARGETS: heals
+
+### KoS:00523 | KoS | pdf.93 | History of the Grazers
+FIGURES: (none registered)
+TEXT: Fortunes for the Grazers changed for the better when the Tarsh civil war began. Dastaldarin Avenger captured the entire family of one of the contenders for the kingship, and made himself an important force in their war. Jardanroste Ring‑jewel was even more important. Once he even forced his way to being a member of the Tarshite King's Ring. But they betrayed him, and he was buried alive.
+TARGETS: avenges
+
+### KoS:00524 | KoS | pdf.93 | The Vendref
+FIGURES: FEATHERED HORSE QUEEN, KARGZANT
+TEXT: In the time of Endars Stand‑up the first Feathered Horse Queen came to the land. Endars supported her, though his own brother hated him for it. #### **The Vendref** The Grazers were surprisingly faithful to their original beliefs. They resisted the impact of the great economic and political changes which followed from contact with outsiders. Whereas most religions underwent change according to the growth of their members, the followers of Yu‑Kargzant did not.
+TARGETS: hates / fears

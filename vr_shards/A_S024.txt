@@ -1,0 +1,300 @@
+[P5-A-B0064-061] S=['THE SILENCE'] P=transforms into O=['HOWLING RAGE'] implicit=False ps="became" sug=transforms into
+   Q: The Silence, the wonder of the world to come, became the Howling Rage, the Mountain Stabber.
+[P5-A-B0064-062] S=['WELL OF WONDER'] P=transforms into O=['GORPGOD'] implicit=False ps="faded from a butterfly to the worm, then to" sug=transforms into
+   Q: The Well of Wonder [the Primal Plasma faded from a butterfly to the worm, then to the grey Gorpgod
+[P5-A-B0064-063] S=['GORPGOD'] P=swallows / consumes O=['CREATION'] implicit=True ps="lapped upon creation and ate it away" sug=swallows / consumes
+   Q: whose waves lapped upon creation and ate it away.
+[P5-A-B0064-064] S=['THE DEVIL'] P=is alternative name for O=['WAKBOTH'] implicit=False ps="Wakboth the Devil" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the evil which came but from Wakboth the Devil at origin
+[P5-A-B0065-001] S=['THE DRAGONLORDS'] P=is alternative name for O=['EMPIRE OF THE WYRMS FRIEND'] implicit=False ps="was the Empire of the Wyrms Friend, the Dragonlords" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The political form of this religion was the Empire of the Wyrms Friend, the Dragonlords.
+[P5-A-B0065-002] S=['THE REBELLIONS'] P=defeats O=['EMPIRE OF THE WYRMS FRIEND'] MOD={"with_the_aid_of": ["FOREIGN GODS"]} implicit=False ps="destroyed" sug=shatters
+   Q: Aided by foreign gods, the rebellions spread, and destroyed the Empire of the Wyrms Friends in 1042.
+[P5-A-B0065-003] S=['THE PEOPLES OF THE WORLD'] P=fights O=['DRAGONEWTS'] MOD={"purpose_clause": "TO AVENGE"} implicit=False ps="took upon themselves the eradication of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In three generations the peoples of the world took upon themselves the eradication of the dragonewts and their kin, in vengeance for their oppression during the Empire.
+[P5-A-B0065-004] S=['TRUE GOLDEN HORDE'] P=travels O=[] MOD={"to": "DRAGON PASS"} implicit=False ps="entered" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In 1100, the True Golden Horde entered the nesting ground of Dragon Pass.
+[P5-A-B0065-005] S=['GOD LEARNERS'] P=discovers O=['SPIRIT PLANE'] implicit=False ps="pioneered our understand of" sug=discovers
+   Q: The god learners pioneered our understand of the spirit plane.
+[P5-A-B0065-006] S=['ARKAT'] P=travels O=[] implicit=False ps="the travels of" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: They knew of the travels of Arkat
+[P5-A-B0065-007] S=['GOD LEARNERS'] P=enters Godtime / Otherworld O=['OTHER SIDE'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="went into" sug=enters Godtime / Otherworld
+   Q: They went into the mysterious Other Side to retrieve legendary artifacts or to view cosmic events which had been forgotten.
+[P5-A-B0065-008] S=['JRUSTELI EMPIRE'] P=is alternative name for O=['MIDDLE SEA EMPIRE'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Middle Sea Empire, also called the Jrusteli Empire for the fishland from which they emerged.
+[P5-A-B0065-009] S=['MIDDLE SEA EMPIRE'] P=defeats O=['WAERTAGI'] implicit=True ps="driving off" sug=exiles / banishes
+   Q: They dominated the see after driving off the Waertagi shipbuilders.
+[P5-A-B0065-010] S=['MIDDLE SEA EMPIRE'] P=rules O=['COASTAL REGIONS OF GLORANTHA'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They ruled almost all of the important coastal regions of Glorantha in the Second Age.
+[P5-A-B0065-011] S=['WAERTAGI'] P=shatters O=['SHIPS', 'LANDS'] implicit=False ps="sank" sug=shatters
+   Q: The brooding Waertagi struck suddenly and sank not only ships but lands as well.
+[P5-A-B0065-012] S=['KRALORI LANDS'] P=defeats O=['MIDDLE SEA EMPIRE'] implicit=True ps="drove their oppressors into the ports first, then flushed them from the land" sug=exiles / banishes
+   Q: The Kralori lands mustered great mental powers and drove their oppressors into the ports first, then flushed them from the land altogether.
+[P5-A-B0065-013] S=['ZZABUR'] P=enchants O=['THE SEA'] implicit=False ps="this treachery was by" sug=curses
+   Q: A curse swept across the sea, making it impossible to pass over the surface of the oceans. || they claim this treachery was by Zzabur, ancient wizard of Brithos.
+[P5-A-B0065-014] S=['ZZABUR'] P=is member of O=['BRITHOS'] implicit=False ps="ancient wizard of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Zzabur, ancient wizard of Brithos.
+[P5-A-B0065-015] S=['DARK EMPIRE'] P=is alternative name for O=['KINGDOM OF ARKAT'] implicit=False ps="called the Kingdom of Arkat by its peoples and the Dark Empire by its foes" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Where Arkat settled and retired, there developed a powerful and dangerous country, called the Kingdom of Arkat by its peoples and the Dark Empire by its foes.
+[P5-A-B0065-016] S=['JRUSTELI'] P=defeats O=['DARK EMPIRE'] MOD={"with_the_aid_of": ["SESHNEGI"]} implicit=True ps="helped conquer" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Jrusteli helped conquer the Empire while aiding their relatives, the Seshnegi.
+[P5-A-B0065-017] S=['CITY-STATES OF RALIOS'] P=serves O=['ARKAT'] implicit=True ps="revere the name of and worship" sug=is worshipped by
+   Q: they revere the name of and worship Arkat.
+[P5-A-B0065-018] S=['THE DRAGONS'] P=kills O=['THOUSANDS'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="slew" sug=one of: kills, shatters, dies
+   Q: then the dragons slew thousands in self-defense.
+[P5-A-B0065-019] S=['TANISOR'] P=rules O=['GREAT RIVER SYSTEM INTO RALIOS'] implicit=False ps="ruled / mistress of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Tanisor ruled in the south, heir to refugees from broken Seshnela and mistress of the great river system into Ralios.
+[P5-A-B0065-020] S=['TANISOR'] P=claims ancestry O=['REFUGEES FROM SESHNELA'] implicit=True ps="heir to" sug=claims ancestry
+   Q: heir to refugees from broken Seshnela
+[P5-A-B0065-021] S=['CITY-STATES'] P=fights O=['HILL BARBARIANS', 'KRJALKI'] implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The city-states squabbled, fought hill barbarians and Krjalki, or temporarily united against Tanisor.
+[P5-A-B0065-022] S=['CITY-STATES'] P=fights O=['TANISOR'] implicit=False ps="temporarily united against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The city-states squabbled, fought hill barbarians and Krjalki, or temporarily united against Tanisor.
+[P5-A-B0065-023] S=['RED GODDESS'] P=comes into being O=[] MOD={"in_on_at": "PELORIA"} implicit=False ps="the birth of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: In 1220 ST, great stirrings in the world centered in the land of Peloria || It was the birth of the Red Goddess.
+[P5-A-B0065-024] S=['SEVEN MOTHERS'] P=resurrects O=['RED GODDESS'] implicit=True ps="was resurrected by" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Some say that the goddess was a shattered spirit from the Gods Age who was resurrected by the Seven Mothers.
+[P5-A-B0065-025] S=['RED GODDESS'] P=enters Godtime / Otherworld O=[] MOD={"purpose_clause": "TO HEROQUEST FOR"} implicit=True ps="entered into a great Heroquest" sug=enters Godtime / Otherworld
+   Q: then she entered into a great Heroquest to find herself and her secret inner powers.
+[P5-A-B0065-026] S=['RED GODDESS'] P=rules O=['CRIMSON BAT'] implicit=True ps="leading" sug=leads
+   Q: At last she reappeared, this time leading the Crimson Bat, and she spread terror before her.
+[P5-A-B0065-027] S=['RED GODDESS'] P=manifests chaos taint O=[] implicit=True ps="blatantly connected with chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: because she was blatantly connected with chaos
+[P5-A-B0065-028] S=['RED GODDESS'] P=defeats O=['KINGDOM OF CARMANIA'] implicit=True ps="destroying" sug=shatters
+   Q: After destroying the kingdom of Carmania, she warred with a race of magical beings at a place called Castle Blue.
+[P5-A-B0065-029] S=['RED GODDESS'] P=fights O=['RACE OF MAGICAL BEINGS'] MOD={"in_on_at": "CASTLE BLUE"} implicit=True ps="warred with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: After destroying the kingdom of Carmania, she warred with a race of magical beings at a place called Castle Blue.
+[P5-A-B0065-030] S=['RED GODDESS'] P=defeats O=['THE OLD GODS'] implicit=True ps="was victorious" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The old gods were drawn into the conflict, mustered to dispel this eruption of chaos from the universe. || when it was remade the goddess was victorious.
+[P5-A-B0065-031] S=['THE OLD GODS'] P=fights O=['RED GODDESS'] MOD={"purpose_clause": "TO THWART"} implicit=True ps="were drawn into the conflict, mustered to dispel" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The old gods were drawn into the conflict, mustered to dispel this eruption of chaos from the universe.
+[P5-A-B0065-032] S=['RED GODDESS'] P=becomes celestial body O=['RED MOON'] implicit=True ps="ascended into the sky, where she is now visible as" sug=becomes celestial body
+   Q: Shortly afterwards she took upon herself the great piece of earth which is now the Crater, and ascended into the sky, where she is now visible as the Red Moon.
+[P5-A-B0065-033] S=['RED GODDESS'] P=defeats O=['ARACHNE SOLARA', 'NYSALOR'] implicit=False ps="met and overcame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Red Goddess met and overcame some strange deities in her Heroquest || These gods include Arachne Solara and Nysalor
+[P5-A-B0065-034] S=['ARACHNE SOLARA', 'NYSALOR'] P=bestows magic / gifts O=[] IO=['RED GODDESS'] implicit=True ps="are said to be part of her source of odd powers" sug=one of: bestows, heals, imbues, teaches
+   Q: these are said to be part of her source of odd powers. || These gods include Arachne Solara and Nysalor
+[P5-A-B0065-035] S=['MISTRESS OF TIME'] P=is alternative name for O=['RED GODDESS'] implicit=False ps="known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Even the Red Goddess, known as the Mistress of Time, is blind to the future.
+[P5-A-B0065-036] S=['LUNAR EMPIRE'] P=defeats O=['PELORIA'] implicit=True ps="has conquered" sug=conquers
+   Q: It has conquered most of Peloria
+[P5-A-B0065-037] S=['ALL OTHER ELEMENTS'] P=is born from O=['DARKNESS'] implicit=False ps="were born or descended" sug=is born from
+   Q: Darkness The most ancient Rune, the First Born, from whom all other Elements were born or descended.
+[P5-A-B0065-038] S=['THE FIRST BORN'] P=is alternative name for O=['DARKNESS'] implicit=False ps="the First Born" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Darkness The most ancient Rune, the First Born
+[P5-A-B0065-039] S=['DARKNESS'] P=comes into being O=[] MOD={"from": "PRIMAL CHAOS"} implicit=False ps="to arise out of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Darkness was the first Element to arise out of the primal chaos.
+[P5-A-B0065-040] S=['WATER'] P=is born from O=['DARKNESS'] implicit=False ps="was born of" sug=is born from
+   Q: Water Water was born of Darkness.
+[P5-A-B0065-041] S=['SON OF DARKNESS', 'PATHWAY TO THE UNDERWORLD', 'SUPPORTER OF THE EARTH'] P=is alternative name for O=['WATER'] implicit=True ps="it is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: As an Element, it is called Son of Darkness, Pathway to the Underworld, and Supporter of the Earth.
+[P5-A-B0065-042] S=['EARTH'] P=is child of O=['THE SEAS'] implicit=False ps="Daughter of" sug=is child of
+   Q: Earth is the third Element, Daughter of the Seas (though the dwarves think of Earth as male)
+[P5-A-B0065-043] S=['SKY'] P=is child of O=['EARTH'] implicit=True ps="Mother of" sug=is child of
+   Q: Mother of the Sky, Wife to Many, Supporter of All.
+[P5-A-B0065-044] S=['WIFE TO MANY', 'SUPPORTER OF ALL'] P=is alternative name for O=['EARTH'] implicit=True ps="Wife to Many, Supporter of All" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Mother of the Sky, Wife to Many, Supporter of All.
+[P5-A-B0065-045] S=['EARTH'] P=manifests O=['LIFE-GIVER', 'STONE-FATHER', 'SHAKER', 'PRIMAL ANCESTRESS'] implicit=False ps="in some manifestation or other, as" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: At least half the cults in Glorantha include the Earth in some manifestation or other, as Life-Giver, Stone-Father, Shaker, or Primal Ancestress.
+[P5-A-B0065-046] S=['AIR'] P=is child of O=['EARTH', 'SKY'] implicit=False ps="the Son of" sug=is child of
+   Q: Air is next, though actually Fifth Born, the Son of Earth and Sky (Sky was also the son of Earth).
+[P5-A-B0065-047] S=['SKY'] P=is child of O=['EARTH'] implicit=False ps="was also the son of" sug=is child of
+   Q: Sky was also the son of Earth
+[P5-A-B0065-048] S=['BREAKER OF LAWS', 'DESTROYER OF HEAVEN', 'FIGHTER AGAINST DARKNESS', 'LIBERATOR OF THE SUN'] P=is alternative name for O=['AIR'] implicit=True ps="He is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He is the Breaker of Laws, Destroyer of Heaven, Fighter against Darkness, and Liberator of the Sun.
+[P5-A-B0065-049] S=['AIR'] P=manifests O=['ORLANTH', 'STORM BULL'] implicit=True ps="is usually manifested as" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: He is usually manifested as a storm god, such as Orlanth in Sartar or the Storm Bull of Prax.
+[P5-A-B0065-050] S=['FIRST PLANT GOD'] P=is child of O=['EARTH', 'SEA'] implicit=False ps="a son of" sug=is child of
+   Q: It is said to symbolize the first Plant god, a son of the Earth and Sea.
+[P5-A-B0065-051] S=['ALDRYA'] P=embodies O=['EARTH RUNE', 'PLANT RUNE', 'FERTILITY RUNE'] implicit=False ps="a combination of" sug=one of: embodies, has domain
+   Q: Many cults have a connection with the Plant Rune, one being Aldrya, a combination of Earth, Plant, and Power Rune of Fertility.
+[P5-A-B0065-052] S=["DRAGON'S EYE"] P=is alternative name for O=['BEAST RUNE'] implicit=True ps="is also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: This Rune is also called the Dragon's Eye
+[P5-A-B0065-053] S=['ALL BEASTS'] P=claims ancestry O=['THE DRAGONS'] implicit=False ps="are thought to be the progenitors of" sug=claims ancestry
+   Q: Dragons are thought to be the progenitors of all beasts (at least those with four or more legs)
+[P5-A-B0065-054] S=['GRANDFATHER MORTAL'] P=embodies O=['MAN RUNE'] implicit=True ps="is said to represent" sug=one of: embodies, has domain
+   Q: It is said to represent Grandfather Mortal, and numerous folktales are told about him.
+[P5-A-B0066-001] S=['THE GREY ONES'] P=flees to O=[] MOD={"from": "CHAOS", "using": "TORCH"} implicit=False ps="used to escape from" sug=flees to
+   Q: Said to represent the torch which the grey ones used to escape from Chaos.
+[P5-A-B0066-002] S=['MEMBERS OF THE CELESTIAL COURT'] P=embodies O=['POWER RUNES'] implicit=False ps="Said to symbolize" sug=one of: embodies, has domain
+   Q: Said to symbolize the members of the celestial court, the Power Runes are unique in that they are formed in mutually antagonistic pairs.
+[P5-A-B0066-003] S=['ORDER'] P=departs from O=['CHAOS'] MOD={"using": "DIVINE HARP"} implicit=False ps="was separated from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Harmony Said to represent the Divine Harp with which Order was separated from Chaos.
+[P5-A-B0066-004] S=['DIVINE HARP'] P=embodies O=['HARMONY RUNE'] implicit=True ps="Said to represent" sug=one of: embodies, has domain
+   Q: Harmony Said to represent the Divine Harp with which Order was separated from Chaos.
+[P5-A-B0066-005] S=['DISORDER'] P=comes into being O=[] MOD={"from": "CHAOS"} implicit=False ps="Directly derived from" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Disorder Directly derived from Chaos.
+[P5-A-B0066-006] S=['FIRST BORN OF THE POWERS'] P=is alternative name for O=['DISORDER'] implicit=False ps="is the First Born of the Powers" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Anarchistic cults claim that this was the first step of creation from Chaos, therefore, Disorder is the First Born of the Powers and the foundation of the universe.
+[P5-A-B0066-007] S=['IMMOBILITY', 'SOLIDITY', 'STONE'] P=is alternative name for O=['STASIS'] implicit=False ps="The various names for this Rune" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Stasis (Immobility, Solidity, Stone) - The various names for this Rune are the ideas behind it.
+[P5-A-B0066-008] S=['ALL ELSE'] P=comes into being O=[] MOD={"from": "STASIS"} implicit=True ps="provided the foundation from which all else was created" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They claim that this is the First Rune, for it provided the foundation from which all else was created.
+[P5-A-B0066-009] S=['MOBILITY', 'CHANGE'] P=is alternative name for O=['MOVEMENT'] implicit=False ps="(Mobility, Change)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Movement (Mobility, Change) - Denotes the ancient wheel.
+[P5-A-B0066-010] S=['ANCIENT WHEEL'] P=embodies O=['MOVEMENT RUNE'] implicit=True ps="Denotes" sug=one of: embodies, has domain
+   Q: Movement (Mobility, Change) - Denotes the ancient wheel.
+[P5-A-B0066-011] S=['WORLD BIRD'] P=flees to O=[] MOD={"from": "MAWS OF CHAOS", "using": "ANCIENT WHEEL"} implicit=True ps="escaped from" sug=flees to
+   Q: Folktales speak of the World Bird who escaped from the Maws of Chaos upon this wheel.
+[P5-A-B0066-012] S=['PUPPETEER TROUPE'] P=serves O=['FATHER OF ILLUSION'] implicit=False ps="the major cult of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Puppeteer Troupe, the major cult of the Father of Illusion
+[P5-A-B0066-013] S=['THE WHOLE WORLD'] P=comes into being O=[] MOD={"from": "ANCIENT CUP"} implicit=False ps="was poured" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Fertility (Plenty, Giving, Love) - Symbolizes the Ancient Cup from which the whole world was poured at the dawn of creation.
+[P5-A-B0066-014] S=['ANCIENT CUP'] P=embodies O=['FERTILITY RUNE'] implicit=True ps="Symbolizes" sug=one of: embodies, has domain
+   Q: Fertility (Plenty, Giving, Love) - Symbolizes the Ancient Cup
+[P5-A-B0066-015] S=['PLENTY', 'GIVING', 'LOVE'] P=is alternative name for O=['FERTILITY'] implicit=False ps="(Plenty, Giving, Love)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Fertility (Plenty, Giving, Love)
+[P5-A-B0066-016] S=['DEATH RUNE'] P=is identified as O=['FIRST SWORD'] implicit=True ps="Known to be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Death (Separation) - Known to be the First Sword, the immortal and cursed weapon which the god Humakt used to bring death to the world.
+[P5-A-B0066-017] S=['HUMAKT'] P=manifests O=['DEATH'] MOD={"in_on_at": "THE WORLD", "using": "FIRST SWORD"} implicit=True ps="used to bring death to the world" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: the immortal and cursed weapon which the god Humakt used to bring death to the world.
+[P5-A-B0066-018] S=['SEPARATION'] P=is alternative name for O=['DEATH'] implicit=False ps="(Separation)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Death (Separation)
+[P5-A-B0066-019] S=['THE WORLD'] P=departs from O=['CHAOS'] implicit=False ps="the separation of the world from Chaos" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Others claim this to be the first of the Runes, citing the separation of the world from Chaos as the first action in creation.
+[P5-A-B0066-020] S=['LIGHTBRINGERS'] P=is member of O=['MAJOR DEITIES OF GLORANTHA'] implicit=False ps="include" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The major deities of Glorantha include the Seven Lightbringers, as well as many others.
+[P5-A-B0066-021] S=['MOTHER OF TROLLS'] P=is alternative name for O=['KYGER LITOR'] implicit=False ps="Kyger Litor, Mother of Trolls" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Darkness Rune cult of Kyger Litor, Mother of Trolls, is an example of this type.
+[P5-A-B0066-022] S=['KYGER LITOR'] P=embodies O=['DARKNESS RUNE'] implicit=False ps="The Darkness Rune cult of" sug=one of: embodies, has domain
+   Q: The Darkness Rune cult of Kyger Litor, Mother of Trolls, is an example of this type.
+[P5-A-B0066-023] S=['LIGHTBRINGERS'] P=is member of O=['MAJOR DEITIES OF GLORANTHA'] implicit=False ps="include" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The major deities of Glorantha include the Seven Lightbringers, as well as many others.
+[P5-A-B0066-024] S=['MOTHER OF TROLLS'] P=is alternative name for O=['KYGER LITOR'] implicit=False ps="Kyger Litor, Mother of Trolls" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Darkness Rune cult of Kyger Litor, Mother of Trolls, is an example of this type.
+[P5-A-B0066-025] S=['KYGER LITOR'] P=embodies O=['DARKNESS RUNE'] implicit=False ps="The Darkness Rune cult of" sug=one of: embodies, has domain
+   Q: The Darkness Rune cult of Kyger Litor, Mother of Trolls, is an example of this type.
+[P5-A-B0066-026] S=['THE MORTAL RACES'] P=rules O=['THE WORLD'] implicit=False ps="have ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The mortal races have ruled the world since the first Dawning, and have called upon deities for aid or commanded them to act.
+[P5-A-B0066-027] S=['TIME'] P=binds O=['THE GODS'] MOD={"in_accordance_with": ["GREAT COMPROMISE"]} implicit=False ps="are as bound by" sug=binds
+   Q: The gods are as bound by Time as any mortal. || This is because of the Great Compromise, and is fundamental to Glorantha.
+[P5-A-B0067-001] S=['FERTILE EARTH'] P=is alternative name for O=['GATA'] implicit=False ps="Gata Fertile Earth" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Gata Fertile Earth
+[P5-A-B0067-002] S=['PRIMAL STORM'] P=is alternative name for O=['UMATH'] implicit=False ps="Umath Primal Storm" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Umath Primal Storm
+[P5-A-B0067-003] S=['WIND FATHER'] P=is alternative name for O=['KOLAT'] implicit=False ps="Kolat Wind Father" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Kolat Wind Father
+[P5-A-B0067-004] S=['MOUNTAIN MOTHER'] P=is alternative name for O=['KERO FIN'] implicit=False ps="Kero Fin Mountain Mother" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Kero Fin Mountain Mother
+[P5-A-B0067-005] S=['STORM GOD'] P=is alternative name for O=['ORLANTH'] implicit=False ps="Orlanth Storm god" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Orlanth Storm god
+[P5-A-B0067-006] S=['SHEPHERD'] P=is alternative name for O=['VORIOF'] implicit=False ps="Voriof Shepherd" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Voriof Shepherd
+[P5-A-B0067-007] S=['WINTER GOD'] P=is alternative name for O=['VALIND'] implicit=False ps="Valind Winter god" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Valind Winter god
+[P5-A-B0067-008] S=['ALYNX GOD'] P=is alternative name for O=['YINKIN'] implicit=False ps="Yinkin Alynx god" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yinkin Alynx god
+[P5-A-B0067-009] S=['SPRING MAIDEN'] P=is alternative name for O=['VORIA'] implicit=False ps="Voria Spring Maiden" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Voria Spring Maiden
+[P5-A-B0067-010] S=['GREAT SKY'] P=is alternative name for O=['AETHER'] implicit=False ps="Aether Great Sky" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Aether Great Sky
+[P5-A-B0067-011] S=['CHAOS KILLER'] P=is alternative name for O=['UROX'] implicit=False ps="Urox Chaos Killer" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Urox Chaos Killer
+[P5-A-B0067-012] S=['HERD FATHER'] P=is alternative name for O=['WAHA'] implicit=False ps="Waha Herd Father" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Waha Herd Father
+[P5-A-B0067-013] S=['LOW FIRE'] P=is alternative name for O=['LODRIL'] implicit=False ps="Lodril Low Fire" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Lodril Low Fire
+[P5-A-B0067-014] S=['DAUGHTER OF PAVIS'] P=marries O=['FLINTNAIL'] implicit=False ps="married" sug=is spouse of (qual=wedding)
+   Q: One of the Daughters is always of the Flintnail cult, representing Pavis' daughter who married the dwarf.
+[P5-A-B0067-015] S=['DAUGHTER OF PAVIS'] P=is child of O=['PAVIS'] implicit=False ps="Pavis' daughter" sug=is child of
+   Q: representing Pavis' daughter who married the dwarf.
+[P5-A-B0067-016] S=['PAVIS'] P=bestows magic / gifts O=['WAHA'] implicit=False ps="the healing of Waha by Pavis" sug=heals
+   Q: On the High Holy Day, a Waha high priest from the Paps joins the ritual wherein the priests reenact the healing of Waha by Pavis.
+[P5-A-B0067-017] S=['PRIESTS OF PAVIS'] P=re-enacts O=['HEALING OF WAHA BY PAVIS'] implicit=False ps="reenact" sug=re-enacts
+   Q: On the High Holy Day, a Waha high priest from the Paps joins the ritual wherein the priests reenact the healing of Waha by Pavis.
+[P5-A-B0067-018] S=['LUNAR PRIESTESSES'] P=travels O=[] MOD={"to": "REAL CITY TEMPLE OF PAVIS", "purpose_clause": "in their appeals to Pavis to marry their patroness"} implicit=True ps="must journey first to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Lunar priestesses must journey first to this temple in their appeals to Pavis to marry their patroness
+[P5-A-B0067-019] S=['FLINTNAIL'] P=is member of O=['MOSTALI'] implicit=False ps="was simply one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Before Time, Flintnail was simply one of the Mostali, partaking in Mostali activities with all the other Mostali
+[P5-A-B0067-020] S=['FLINTNAIL'] P=departs from O=['MOSTAL WAY'] implicit=False ps="refused to follow" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: After Time began, Flintnail proved to be a rogue who refused to follow the rockbound Mostal way.
+[P5-A-B0067-021] S=['FLINTNAIL'] P=is child of O=['MOSTAL'] implicit=True ps="his father" sug=is child of
+   Q: while still respectful to his father Mostal
+[P5-A-B0067-022] S=['FLINTNAIL'] P=travels O=[] MOD={"in_on_at": "SURFACE WORLD"} implicit=True ps="explore" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: he took every opportunity to explore the surface world and the ways of the men who inhabited it.
+[P5-A-B0067-023] S=['FLINTNAIL'] P=teaches O=['MANY TRIBES OF MEN'] implicit=False ps="taught how to work metal" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: It is said that Flintnail taught many tribes of men how to work metal, and he never denied this.
+[P5-A-B0067-025] S=['FACELESS STATUE'] P=fights O=['ANIMAL NOMADS OF PRAX'] MOD={"at_the_command_of": ["PAVIS"]} implicit=False ps="marched against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: following the Faceless Statue as it marched to Pavis' command against the animal nomads of Prax.
+[P5-A-B0067-026] S=['FACELESS STATUE'] P=defeats O=['GIANTS'] MOD={"in_on_at": "PARAGUA"} implicit=True ps="defeating" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The statue died after defeating the giants in their city of Paragua
+[P5-A-B0067-027] S=['FACELESS STATUE'] P=transforms into O=['WALLS AND STRUCTURES OF OLD PAVIS'] MOD={"at_the_instigation_of": ["DWARFS"]} implicit=True ps="converting his substance into" sug=transforms into
+   Q: by converting his substance into walls and structures of the city of Old Pavis.
+[P5-A-B0067-028] S=['FLINTNAIL'] P=departs from O=['OLD PAVIS'] implicit=False ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Flintnail himself soon left Old Pavis.
+[P5-A-B0067-029] S=['FLINTNAIL'] P=marries O=['DAUGHTER OF PAVIS'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: Before he did so, he married one of Pavis' daughters and together they made a son
+[P5-A-B0067-030] S=['SON OF FLINTNAIL'] P=is child of O=['FLINTNAIL', 'DAUGHTER OF PAVIS'] implicit=False ps="together they made a son" sug=is child of
+   Q: he married one of Pavis' daughters and together they made a son, who grew up to become the first high priest of the cult of Flintnail in Pavis.
+[P5-A-B0067-031] S=['SON OF FLINTNAIL'] P=serves O=['CULT OF FLINTNAIL'] MOD={"in_on_at": "PAVIS"} implicit=False ps="grew up to become the first high priest of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: a son, who grew up to become the first high priest of the cult of Flintnail in Pavis.
+[P5-A-B0067-032] S=['FLINTNAIL'] P=is identified as O=['DWARF OF DWARF RUN'] implicit=True ps="may be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: he may be the famous Dwarf of Dwarf Run in Dragon Pass.
+[P5-A-B0067-033] S=['FLINTNAIL'] P=embodies O=['STASIS RUNE', 'EARTH RUNE', 'HARMONY RUNE'] implicit=True ps="The Flintnail Runes are" sug=one of: embodies, has domain
+   Q: The Flintnail Runes are Stasis, Earth, and Harmony.
+[P5-A-B0067-034] S=['CULT OF FLINTNAIL'] P=protects O=['CULT OF PAVIS'] implicit=True ps="is a political mainstay of / the two support each other" sug=aids
+   Q: This cult of the builders and maintainers is a political mainstay of the cult of Pavis and the two support each other.
+[P5-A-B0067-035] S=['PAVIS'] P=has hybrid form O=[] implicit=False ps="was half-elven" sug=has anomalous form (qual=hybrid)
+   Q: because Pavis was half-elven, and his daughter was the wife of Flintnail.
+[P5-A-B0067-036] S=['DAUGHTER OF PAVIS'] P=is spouse of O=['FLINTNAIL'] implicit=False ps="was the wife of" sug=is spouse of
+   Q: because Pavis was half-elven, and his daughter was the wife of Flintnail.
+[P5-A-B0067-037] S=['FLINTNAIL'] P=marries O=['DAUGHTER OF PAVIS'] MOD={"in_on_at": "PAVIS RUBBLE"} implicit=False ps="took to wife" sug=is spouse of (qual=wedding)
+   Q: One is the former Flintnail temple in the Pavis Rubble near Temple Hill, where Flintnail took Pavis' daughter to wife.
+[P5-A-B0067-038] S=['DWARF KNOLL'] P=is identified as O=['DWARF CITY'] implicit=False ps="is reputed to have been" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The third holy place is Dwarf Knoll, a place of magic on the plains of Prax. || It is reputed to have been a dwarf city in Godtime, and there still may be dwarfs in residence.
+[P5-A-B0067-039] S=['GINKIZZIE'] P=rules O=['DWARFTOWN'] implicit=False ps="was the king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Ginkizzie was the king of Dwarftown when Dorasar arrived with his Sartar settlers.
+[P5-A-B0067-040] S=['DORASAR', 'SARTAR SETTLERS'] P=travels O=[] MOD={"to": "DWARFTOWN"} implicit=False ps="arrived" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Ginkizzie was the king of Dwarftown when Dorasar arrived with his Sartar settlers.
+[P5-A-B0067-041] S=["GINKIZZIE'S PEOPLE"] P=serves O=['DORASAR'] implicit=True ps="helped with the foundations for the Sartarite wall and built the new temple to Pavis" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Ginkizzie's people, happy to have their first building project in centuries, helped with the foundations for the Sartarite wall and built the new temple to Pavis, which contains a Flintnail shrine.
+[P5-A-B0067-042] S=['GINKIZZIE'] P=rules O=['DWARFS'] implicit=False ps="king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Ginkizzie is still the high priest and king of the dwarfs and also serves as a Daughter of Pavis at the Pavis temple.
+[P5-A-B0067-043] S=['GINKIZZIE'] P=serves O=['PAVIS'] MOD={"in_on_at": "PAVIS TEMPLE"} implicit=False ps="serves as a Daughter of Pavis" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Ginkizzie is still the high priest and king of the dwarfs and also serves as a Daughter of Pavis at the Pavis temple.
+[P5-A-B0067-044] S=['SHELBARIS THE FAIR'] P=is child of O=['PAVIS'] implicit=False ps="was the daughter of" sug=is child of
+   Q: Shelbaris the Fair was the daughter of Pavis whom Flintnail took to wife.
+[P5-A-B0067-045] S=['FLINTNAIL'] P=marries O=['SHELBARIS THE FAIR'] implicit=False ps="took to wife" sug=is spouse of (qual=wedding)
+   Q: Shelbaris the Fair was the daughter of Pavis whom Flintnail took to wife.
+[P5-A-B0067-046] S=['SON OF FLINTNAIL'] P=establishes cult O=['CULT OF FLINTNAIL'] implicit=False ps="stayed to found" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Legend is not clear whether or not she left Pavis with Flintnail, but their son stayed to found the cult.
+[P5-A-B0067-047] S=['SHELBARIS THE FAIR'] P=serves O=['CULT OF FLINTNAIL'] implicit=True ps="acts as the cult spirit of retribution" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Shelbaris acts as the cult spirit of retribution.
+[P5-A-B0068-001] S=['LANBRIL'] P=is child of O=['GRANDFATHER MORTAL'] implicit=False ps="was a son of" sug=is child of
+   Q: Lanbril was a son of Grandfather Mortal.
+[P5-A-B0068-002] S=['DEATH'] P=kills O=['GRANDFATHER MORTAL'] implicit=True ps="was killed by" sug=one of: kills, shatters, dies
+   Q: they rejected him as inferior because his father was killed by Death, the first sword.
+[P5-A-B0068-003] S=['DEATH'] P=is identified as O=['FIRST SWORD'] implicit=False ps="Death, the first sword" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: his father was killed by Death, the first sword.
+[P5-A-B0068-004] S=['LANBRIL'] P=steals O=['RUNE SPELLS'] MOD={"from": "OTHER GODS"} implicit=True ps="stole" sug=steals
+   Q: Through his mastery, he stole Rune spells belonging to the other gods, but despised some powerful spells as of no use to him.
+[P5-A-B0068-005] S=['MAGIC OF LANBRIL'] P=comes into being O=[] MOD={"at_the_instigation_of": ["LANBRIL"]} implicit=False ps="did invent" sug=discovers
+   Q: Lanbril did invent a magic of his own, to confound the pursuit of his victims, and to confuse those suspecting his presence.
+[P5-A-B0068-006] S=['ORLANTH'] P=steals O=['DEATH'] MOD={"from": "HUMAKT", "with_the_aid_of": ["EURMAL"]} implicit=False ps="stealing" sug=steals
+   Q: Some devout cultists go so far as to state that this influence inspired Eurmal to help Orlanth in stealing Death from Humakt.
+[P5-A-B0068-007] S=['EURMAL'] P=serves O=['ORLANTH'] MOD={"at_the_instigation_of": ["LANBRIL"]} implicit=True ps="inspired Eurmal to help" sug=aids
+   Q: Some devout cultists go so far as to state that this influence inspired Eurmal to help Orlanth in stealing Death from Humakt. || This story is rejected by most theologians.
+[P5-A-B0068-008] S=['LANBRIL'] P=teaches O=['MORTALS'] implicit=False ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: During the Darkness, Lanbril taught mortals to survive by skill and cunning, and by watching out for themselves first.
+[P5-A-B0068-009] S=['LANBRIL'] P=embodies O=['MASTERY', 'DISORDER', 'ILLUSION'] implicit=False ps="encompasses the Runes of" sug=one of: embodies, has domain
+   Q: Lanbril encompasses the Runes of Mastery, as king of thieves and the exaltation of skill; of Disorder, practising his trade regardless of consequences for others; and of Illusion, masking facts which could lead to detection of crimes.
+[P5-A-B0068-010] S=['KING OF THIEVES'] P=is alternative name for O=['LANBRIL'] implicit=False ps="as king of thieves" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Lanbril encompasses the Runes of Mastery, as king of thieves
+[P5-A-B0068-011] S=['MASTER THIEF'] P=is alternative name for O=['RUNE LORD OF LANBRIL'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Rune lord of Lanbril is called a Master Thief.
+[P5-A-B0068-012] S=['BLACK FANG BROTHERHOOD'] P=serves O=['LANBRIL'] implicit=False ps="is an ally" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Lanbril has few friends. || The tiny Black Fang Brotherhood is an ally.
+[P5-A-B0068-013] S=['CULTS EMBODYING THE TRUTH RUNE'] P=fights O=['LANBRIL'] implicit=False ps="are his enemies" sug=hates
+   Q: Due to Lanbril's success in concealing his Godtime activities, most cults embodying the Truth Rune are his enemies.
+[P5-A-B0068-014] S=['YELORNA'] P=is child of O=['YELM', 'ERNALDA'] implicit=False ps="is the daughter of" sug=is child of
+   Q: Yelorna is the daughter of Yelm the sun god and of Ernalda
+[P5-A-B0068-015] S=['YELM'] P=fights O=['ORLANTH'] implicit=False ps="fought over" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Ernalda, whom Yelm and Orlanth fought over.
+[P5-A-B0068-016] S=['YELORNA'] P=is sibling of O=['YAMSUR', 'YELMALIO'] implicit=False ps="her brothers" sug=is sibling of
+   Q: Yelorna's comrades were her brothers Splendid Yamsur and Yelmalio
+[P5-A-B0068-017] S=['ZORAK ZORAN'] P=wounds O=["YELORNA'S BROTHER"] implicit=True ps="wounded" sug=wounds
+   Q: When Zorak Zoran wounded her brother, she set out on twin missions to prepare for the light's return and to avenge her kin.
+[P5-A-B0068-018] S=['YELORNA'] P=fights O=['CHILDREN OF XENTHA'] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="began a battle with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She began a battle with the children of dread Xentha, the night sky.
+[P5-A-B0068-019] S=['XENTHA'] P=is identified as O=['NIGHT SKY'] implicit=False ps="Xentha, the night sky" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the children of dread Xentha, the night sky.

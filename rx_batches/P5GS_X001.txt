@@ -1,0 +1,130 @@
+### WOD-GS:00004 | WOD-GS | WOD-GS 22308 (Accessing Eternity (2006)) | From the God Planes
+FIGURES: CHALANA ARROY, HUMAKT, ORLANTH
+TEXT: Of course, the analogy of settlements is only an analogy, and non-urban entities would have streams contributing to lakes contributing to seas contributing to oceans, and so on. This process is one of going inward, towards the center-towards increasingly powerful places or beings. The Great Gods, in their turn, have within their own private dwelling a place where they keep the secret entrance to the Infinite. For Orlanth this is a treasure box, for Humakt a scabbard, for Chalana Arroy a healing kit.
+TARGETS: dwells at; heals
+
+### WOD-GS:00010 | WOD-GS | WOD-GS 23006 (Notes on the Structure of Glorantha (200) | The Hero Planes or Gods War
+FIGURES: (none registered)
+TEXT: - The Storm Age, a period of riotous change that is variously interpreted as being good or bad; - The Greater Darkness, where all things went wrong, especially the entry of Chaos into the Cosmos. The whole world broke down, all borders were erased (except some areas of the Sky World), everything became part of the Underworld and every being died.
+TARGETS: dies
+
+### WOD-GS:00022 | WOD-GS | WOD-GS 23077 (Belintar’s Book: Aldrya’s Own Story (199) | The First Plantings
+FIGURES: GROWER
+TEXT: When Grower became the world, it made Eron, who we call the healing waters, the nurturing provider, and the first father. In the new world, Eron was the sea encircled the world and the rain which fell down upon the forests. Eron provided Seed with nourishment.
+TARGETS: heals
+
+### WOD-GS:00027 | WOD-GS | WOD-GS 23077 (Belintar’s Book: Aldrya’s Own Story (199) | The First Plantings
+FIGURES: FLAMAL, MURTHDRYA
+TEXT: The second daughter born of Falamal was Murthdrya. She was nourished by healing Eron. Murthdrya is the mother of all plants grown in the sea, and is also their communal consciousness. The Blue Elves are a part of Murthdrya.
+TARGETS: heals
+
+### WOD-GS:00040 | WOD-GS | WOD-GS 23077 (Belintar’s Book: Aldrya’s Own Story (199) | The Second Plantings
+FIGURES: GROWER
+TEXT: In the Age of the Taker, there was one perfect moment where the Grower and the Taker were in balance. Many new being came into the universe, combining the aspects of the twins. Thus were born the black elves, who lived off the death of others, the red elves, who lived off their own dead, and finally men and beasts. But, the moment was quickly gone. The Taker continued to grow; the Grower continued to be taken.
+TARGETS: dies
+
+### WOD-GS:00042 | WOD-GS | WOD-GS 23077 (Belintar’s Book: Aldrya’s Own Story (199) | The Second Plantings
+FIGURES: GROWER
+CONTEXT: elves, who lived off their own dead, and finally men and beasts. But, the moment was quickly gone. The Taker continued to grow; the Grower continued to be taken. As the Age of the Taker progressed, Zazakzor moved across the world slaying all that he saw. Even the Gods fell, first Halamalao, then Gata and Eron, finally Falamal itself. Only the Gods of darkness, stone and water were left behind.
+TEXT: It soon became obvious that the excesses of the Taker were as bad as the excesses of the Grower. The universe of Potential grew weaker and weaker, and Oblivion once more seeped in, this time as Chaos. The entire world was dying, but not the good death of the Taker, rather the bad death of Oblivion. It would never be reborn again.
+TARGETS: dies
+
+### WOD-GS:00070 | WOD-GS | WOD-GS 1810 (Belintar’s Book: Mountain Stories (1999)) | The Rockwoods
+FIGURES: LARNSTE
+TEXT: So they were discussing about the best way to create: was it growing or building? This was, of course, their nature. Larnste saw that this conflict was really a manifestation of his power, because as the tribes spoke the world around them was changing. All of a sudden, though, both tribes stopped talking. Nothing was really changed, but both were satisfied. Each tribe then went their own way.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00072 | WOD-GS | WOD-GS 1810 (Belintar’s Book: Mountain Stories (1999)) | The Rockwoods
+FIGURES: LARNSTE, SHANASSEE
+TEXT: So the giant used this wall to cut both of the two tribes apart, making four where two had been. That place, where the tribes were sundered, was and is called the Bad Rockwoods Mountains. Trolls live there now. [Halikiv] But because of that, things kept changing, much to Larnste's delight. For a long period half of each tribe, to the north of the mountains, lived in peace, perhaps even spawning a prehistoric dynasty. They are all extinct today. On the other side of the mountain one of the Davimosting tribes and one of the Shanassee tribes each became dire foes. Their descendants are the dwarfs and the elves of today.
+TARGETS: dwells at
+
+### WOD-GS:00075 | WOD-GS | WOD-GS 23080 (Belintar’s Book: The Blue Dragon Sshorga) | The Flood of Oslira
+FIGURES: OSLIRA, YELM
+TEXT: When the great and mighty emperor Yelm died many deities and powers revolted. One was the blue River Goddess, Oslira, who said that the old laws no longer held, and that now many new laws would begin. To prove her point, she began to make her own body flood over all the ancient dams and ditches that criss- crossed Dara Happa. The diggers and workers ran to build them higher, but the goddess was determined to have her own way, and no longer be constrained by the irrigation ditches.
+TARGETS: dies
+
+### WOD-GS:00085 | WOD-GS | WOD-GS 23080 (Belintar’s Book: The Blue Dragon Sshorga) | The Flood of Oslira
+FIGURES: OSLIRA
+TEXT: Oslira turned to him and said, "You have defeated me, fighting man. I surrender. I submit my will to yours, and will return to my bed as you tell me to." "Not so fast," said the man, "I have not stated my will yet. You will have a new bed before I am done with you." Oslira looked at her gushing wound and spoke.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00090 | WOD-GS | WOD-GS 23080 (Belintar’s Book: The Blue Dragon Sshorga) | The Revenge of Sshorga
+FIGURES: GOD LEARNERS, OSLIRA, SRAMAK, SSHORG
+TEXT: The kin of the river mourned greater than any humans could have. Sshorga was called the Mother of Oslira. She was a dragon, when she let herself be seen. She was not one of the little dragons that human heroes kill. She was not one of the real dragons either, like we have up north which are a range of hills when they sleep, and wake to swallow cities. When Sshorga moved herself higher on her side of the earth, the waters on the other sides all lowered. The God Learners called her a daughter of Sramak.
+TARGETS: mourns
+
+### WOD-GS:00091 | WOD-GS | WOD-GS 23080 (Belintar’s Book: The Blue Dragon Sshorga) | The Revenge of Sshorga
+FIGURES: SSHORG
+TEXT: Sshorga was halted from action at first by a strange thing. She could not move because she felt vengeance. She wanted revenge on the things that had made her daughter dead. She wanted to drown Dara Happa. But she could not, because she was bound to be balanced. She had to obey the laws of creation, and so although she felt for revenge, she had to remain neutral.
+TARGETS: avenges
+
+### WOD-GS:00094 | WOD-GS | WOD-GS 23080 (Belintar’s Book: The Blue Dragon Sshorga) | The Revenge of Sshorga
+FIGURES: OSLIRA, SSHORG
+TEXT: The noise of Sshorga's approach warned everyone of her approach. From atop his pyramid the emperor could see a huge wall rushing his way. He called Kendathalus, and told him to take his Entika and stop Sshorga. The War Man did as he was told. He stood on a large knoll, and he prepared himself as he had when he fought Oslira. He poised, and he closed his ears to the deafening sound, his eyes to the blinding terror, and his heart to the damage he wished to cause.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00102 | WOD-GS | WOD-GS 29541 (Dragons Past #1 – Gloranthan Military Ex) | Activity Definitions
+FIGURES: (none registered)
+TEXT: Note that it is possible for a nation to be home and raiding at the same time; this indicates internal dissent, commonly inter-clan feuding and normal cattle raiding among nomads. ##### Example: > Dorgrim the Loud was born in 1598. The youngest years of his life are off-chart and uneventful for him. He was age 4 when Boldhome fell to the Lunar army. He was ten when the Righteous Wind of Orlanthi worshippers was persecuted, and twelve years old when the Telmori were defeated by the Lunars. Three years later, surviving raids by tusk riders and Hendriki warriors on his land, he reached maturity at 15, in 1613.
+TARGETS: hates / fears
+
+### WOD-GS:00110 | WOD-GS | WOD-GS 4553 (Greg Sez Guest: Does the Emperor party o) | Page Last updated: 2025-09-08 12:58:21
+FIGURES: SHENG SELERIS, ZAYTENERA
+TEXT: First one must consider the change in the way the Emperor ruled after the wars with Sheng Seleris and the Emperors' return in the Mask of Magnificus. Before the death of Takengi the Emperor was centered upon his Yelmic souls, as befits one who rules in the way of a Dara Happa. Yet this path was not fulfilling. It did not teach the way of the Goddess, the way of growth and change. Instead it brought stultifying conformity and Yelmic strictness. Therefore, in normal Dara Happan fashion, the emperor's Other was summoned to end his rule. Sheng Seleris was Takeng's ritual Other, but Takenegi was not a normal emperor. Sheng Seleris inflicted the change which the Goddess and her Son needed to Turn the Empire upon its road to Zaytenera. Through the service of his Shadow, Takenegi became something new. No longer did his same body return from death, but instead his spirit occupied new Masks as the life of each ended. Thus the rigid unchanging Solar Way was modified from within to become the changable Lunar Way. After this change, another became apparent to those who studied the Emperor at court and in his actions. His Masks to varying degrees and in varying ways became more visceral, more bodily focussed.
+TARGETS: dies
+
+### WOD-GS:00111 | WOD-GS | WOD-GS 4553 (Greg Sez Guest: Does the Emperor party o) | Page Last updated: 2025-09-08 12:58:21
+FIGURES: YELM
+TEXT: Soon the Emperor began to sponsor the ultimate indulgences that were available in Glamour. Debauchees from across the wide Empire came to his Endless Party. Every manner of excess was practised and encouraged. Followers of Yelm were appalled at this change in their beloved Emperor, thinking that such acts ill-befitted the Majesty of Yelm. The Dolathi Mystics were disdainful of the pointless focus on bodily pleasure, for they knew that enlightenment came only through austerity and the spurning of the worlds' falseness. But the Orgies of Delectation carried on with great intensity despite their disapproval. There was no shortage of people who wished to sample them.
+TARGETS: possesses / wields
+
+### WOD-GS:00112 | WOD-GS | WOD-GS 4553 (Greg Sez Guest: Does the Emperor party o) | Page Last updated: 2025-09-08 12:58:21
+FIGURES: RASHORANA
+TEXT: Many came to the Party and most left as burnt out husks, shattered by the delights of spirit and flesh that were designed for the enjoyment of a demi-god and his kin. Yet for every dozen who used themselves up in this way, there emerged one who saw the world with new eyes. The extremity of the acts they'd partaken of had shocked their souls into an appreciation of the Goddess' message and their own oneness with the Cosmos. They had become enlightened, illuminated, Seventhed by the power of their bodily experience. The Emperor welcomed these folk fresh from their experience, and he gathered them together. He told them that they were the first of a new way. He told them that the way to enlightenment lay not only through renunciation of the world via austerities. Such a rigid view was flawed. He said: "The traditional mystics see their bodies as something to be spurned as they say flesh inevitably binds them to the world of Many, not oneness with the cosmos. They are only partially right, or totally right for some of the poeple. It is not the whole truth. The body that cloaks our spirit is the necessary part of the cosmos which allows us to find liberation. Instead of seeing the body as a hindrance to spiritual growth we can see it as a vessel for the exploration of All, starting with the physical universe. We are both material and spiritual. We seem dual, yet are not dual for both are one within the Cosmos. You who have survived the extremity of your experiences have seen this revelation, one that was given to me by Rashorana upon my Third Return. Now you must teach others of your experiences and give them aid to find them too."
+TARGETS: speaks / prophesies
+
+### WOD-GS:00115 | WOD-GS | WOD-GS 23584 (Greg Sez Guest: Dragon Slayers and Drago) | Page Last updated: 2025-09-08 17:48:57
+FIGURES: JAJAGAPPA, VINGKOT
+TEXT: A: - Henjark Dogsbreath [ca.921-925] who first rose against the dragons and slew the Heart of Gold. - Madasharesh Paraham Verenmars [960-991] the greatest of the kings. Verenmars rescued the Dog Father from the Lost Pack. He slew the ManDragon of the Riverjoin Palace [at the conjunction of the Oslir and the Aryela rivers] and bound it to the Net of Jajagappa. He gained the Divine Cup of Vingkot. He fashioned the Ring of Saird and woke BarDom at its heart. He gained the friendship of Holaya, the Red Woman, but married the Earth Queen. At last, he fought and slew the Shadow of the Golden Dragon.
+TARGETS: sleeps / wakes
+
+### WOD-GS:00116 | WOD-GS | WOD-GS 23584 (Greg Sez Guest: Dragon Slayers and Drago) | Page Last updated: 2025-09-08 17:48:57
+FIGURES: (none registered)
+TEXT: - Dumacaresh Heelbiter [991-1001] who entered the Dragon's Bowels to unleash the Nightmare Run and the Darkwind Raid, bringing fears to the Above and Beyonds. - Hagikarvesh the Rabid [1001-1012] who slew the Little Wyrms and the Dragonclaw Spectres, but was cursed by the Magi.
+TARGETS: hates / fears; curses
+
+### WOD-GS:00118 | WOD-GS | WOD-GS 23584 (Greg Sez Guest: Dragon Slayers and Drago) | Page Last updated: 2025-09-08 17:48:57
+FIGURES: DRAGON EMPEROR, JAJAGAPPA
+TEXT: - Suzaraug the Warhound [1075-1092] who slew the Dragon Ram and let loose the Dogs of War. - Wyrmskull [1092-1108] who captured the mind of the Seven-banded Wyrm and slew the Inhuman King twice. - Sharvenatars the Summoner [1108-1120] who summoned the True Golden Horde. He called forth the Dog Fathers and the Rising Stallions. He carried the Net of Jajagappa. He slew the Dragon Emperor and tore him apart in the Dragonkill. Because he was a descendant and true servant of Jajagappa that god came and cast his net into the maw of the dragon to preserve him from oblivion.
+TARGETS: possesses / wields
+
+### WOD-GS:00123 | WOD-GS | WOD-GS 4536 (Greg Sez Guest: The Mighty Janube (Nov 1) | Q: Why do two rivers flow from the Sweet Sea?
+FIGURES: VADRUS, YELM
+TEXT: After Yelm died, the Waters of the World tried to invade the land. This is remembered in various human mythologies as the Flood. In particular, Fronela was submerged under what was known as the Janubian Sea. Only the highlands were above land then. The Sea tried to flood them too, but were driven off by the Storm Gods, among whom Vadrus was most prominent locally.
+TARGETS: dies
+
+### WOD-GS:00128 | WOD-GS | WOD-GS 4536 (Greg Sez Guest: The Mighty Janube (Nov 1) | Q: Why do two rivers flow from the Sweet Sea?
+FIGURES: JANUBE
+TEXT: As centuries passed the Storm Gods gradually drove back the flood from the lands. The Janube began to dry up and retreated into itself, reduced to a part of a puddle that lay far inland. This puddle was Mabakarrisaro, wherein lay several water entities. As told in Entekosiad (page 49-51) Listor, the Porals, and Oronin established themselves in Pelanda. The Sweet Sea was drained naturally by the Poralistor river into the Kenyrian Sea. Janube was seemingly destined to be a minor deity of this water system.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00130 | WOD-GS | WOD-GS 4536 (Greg Sez Guest: The Mighty Janube (Nov 1) | Q: Why do two rivers flow from the Sweet Sea?
+FIGURES: JANUBE, VADRUS
+TEXT: Not wishing to suffer this dire penalty, the Wizards of Sog City began a massive spell. From the Sweet Sea, they used their sorcery and called down a water which they had known. The Janube woke and they guided its path as it flowed down the length of Fronela. Here they warded of attacks by Vadrus and his sons who sought to destroy this new enemy, and there, they drowned a few camps of the enemies of the sorcerers. The River finally reached the coast of Fronela and the sorcerers made it flow around Sog City, so that it would continue to be an Island.
+TARGETS: sleeps / wakes
+
+### WOD-GS:00137 | WOD-GS | WOD-GS 23088 (Greg Sez: Between the Devil and the Dawn) | Page Last updated: 2020-07-08 13:25:07
+FIGURES: (none registered)
+TEXT: A: The Great Darkness was a time when the last vestiges of the world as it had been known disappeared. Imagine a land covered by Nuclear Winter, inhabited by terrified warlike people who are starving, where multiple races of monsters have begun to proliferate. The realms of life and death could not be told apart and we find demons and the dead moving through the same realm as those who are struggling to stay alive. This means, by the way, that the dead were also struggling to stay dead and, in a perverse sort of compoeteness, the devourers were trying to be eaten, the conquerers were trying to defeat themselves, and the good were trying to be bad enough to survive. Everyone and everything would have died except that some beings had enough connection with magic to persist, though sometimes that magic was the ability to digest fungus, to eat the dead, or to be invisible to predators. Most people in these circumstances barely made it, so that at the Dawn the world was scattered with small families, tiny clans, or little groups of desperate survivors.
+TARGETS: dwells at; speaks / prophesies; dies
+
+### WOD-GS:00149 | WOD-GS | WOD-GS 1651 (Greg Sez: Enemy Gods (2009)) | Published 15th Aug 2009
+FIGURES: KYGER LITOR
+TEXT: Finally, he even gets power when he is defeated by his enemies. He is necessary to the nature of the world, and thus gets some sacrifice for it. His goals are the same as they have always been: to destroy his foes, avenge his friends, and protect Kyger Litor.
+TARGETS: avenges
+
+### WOD-GS:00153 | WOD-GS | WOD-GS 1736 (Greg Sez: Ernaldan Initiation Rites (200) | Page Last updated: 2026-08-20 11:08:17
+FIGURES: (none registered)
+TEXT: When a girl awakens all her souls she experiences an overwhelming power of strength and freedom. The powers that manifest those gifts come forward and explain their deeper meanings. The not-a-girl usually (though not always) departs from the palace and into the wild and dangerous Storm Age. She does just about anything she wants. She exerts her power by lending her support to the other gods and goddesses of her tribe as they shape the cosmos. She utilizes her new gifts to befriend and ennoble lovers, servants, protectors and champions. She decides what power to use and a messenger comes forward to take her to the event in the Gods War where she can exercise it. She accumulates experiences this way, and these generally result in her exposure to the same messengers and powers over and over again. In that manner the not-a-girl discovers who her guiding powers are.
+TARGETS: sleeps / wakes

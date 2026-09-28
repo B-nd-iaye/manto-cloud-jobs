@@ -1,0 +1,136 @@
+### SL09:00272 | SL09 | page n/a | And what else did she tell you?
+FIGURES: ERNALDA, ORLANTH
+TEXT: Harmast showed no sign of how ironic Darstan's statement was, for indeed Harmast had spoken to both Orlanth and Ernalda on separate occasions. Not since then, of course, even though Harmast thought he felt the gaze of those Great Gods upon his shoulders when he sat among the throngs of happy worshippers on the holy days. He also fought the urge to look at his pony, or at the sun dipping lower in the sky. He finally spoke. "What will you do?"
+TARGETS: speaks / prophesies
+
+### SL09:00357 | SL09 | page n/a | OVERVIEW
+FIGURES: ORLANTH, ZISTOR
+TEXT: Jeff Richard added to it considerably. #### **OVERVIEW** The Iron War is an epic ten-year siege of the New Unity Council against the Machine God of the Zistorites. On the tenth year the Battle of Steelfall broke the world with the power, energy and complexity that was expended in the battle. Gods came— Zistor rose up and Orlanth came down, and heroes settled long-standing feuds, and armies clashed.
+TARGETS: hates / fears
+
+### SL09:00367 | SL09 | page n/a | GREAT RENVALD, CALLED MELDEKBANE
+FIGURES: MOSTALI, ZISTOR
+TEXT: Renvald was the greatest Orlanthi hero of the Iron Wars and was already a great hero of his people when he became the first Orlanthi hero to join the New Unity Army — despite the entreaties of his kin and king. Proud Renvald bore the Blue Sky Shield, which blocked the evil spells of the sorcerers and wielded the Green Water Spear that cut through their hellish protections. Bold Renvald killed the legion of sorcerers who threatened to destroy the Unity Army. Wrathful Renvald leapt high into the sky and called forth the Thunderer against Zistor. Betrayed Renvald was robbed by the Mostali at Steelfall, after he'd assured victory by getting deep inside the Clanking City. Renvald's body was burnt near the Alatier Crossing.
+TARGETS: possesses / wields
+
+### SL09:00372 | SL09 | page n/a | ARA THE PROUD
+FIGURES: GOD LEARNERS, MOSTALI, VINGA
+CONTEXT: remendous strength and his reckless courage. Of great stature and colossal frame, Beselbarn was a key spear thane of the Pride of King Androrfin. Though not as clever as Senharlmarth or as mighty as Renvald, Beselbarn was never personally defeated or even seriously hurt by the Zistorite defenders. When the Zistorite defenses counterattacked he was forced our, but they survived several ambushes.
+TEXT: He led his men to successfully plunder the Clanking City before the dwarves forced the invaders out. They later sold these to the Mostali, and lived comfortably afterwards. #### ARA THE PROUD Ara was the red-haired warrior daughter of an Esrolian queen. Ara led a host of women warriors from across Kethaela (and even beyond) who sought vengeance against the God Learners. They invoked Vinga and fought with a desperate bravery and rarely took captives. Ara often quarreled and goaded on the other Unity Army leaders, which ultimately led to the Third Alatier Crossing.
+TARGETS: trades / exchanges; avenges
+
+### SL09:00389 | SL09 | page n/a | STEELFALL BATTLE, THE LAST BATTLE OF THE ALATIER
+FIGURES: (none registered)
+TEXT: Others were also slain because they refused, and there was terrible loses between the uz and mostali. But most people gave up most of their treasures. The Ten Thousand then entered the depths beneath the Clanking City, sealed off the island and scoured the island with awful magical curses. Arapan went with them.
+TARGETS: curses
+
+### SL09:00412 | SL09 | page n/a | Wife of loud-thundering Orlanth
+FIGURES: ERNALDA, ORLANTH
+TEXT: We sing of rich-haired Ernalda, mother and magician. Queen of the gods is she, surpassing all in beauty: Wife of loud-thundering Orlanth Glorious one whom all the gods revere and honor \neven as Orlanth delights in thunder. The women gathered atop the stone of Nidham, and the men stayed outside, watching. The fiercest of the Hendriking men were appointed watch guards: they bore ready arms and wore helmets with two red feathers. It was very difficult to see the women, but I could tell that they were colorfully attired and many wore gold jewelry. Some even wore fanciful masks. At the center, seated upon a high wooden chair was the chief priestess, who was given gifts of beer, wine, flowers and fruits by the women, while the men sang a strange chant. The priestesses scattered crushed grain to the animals and then killed them. All the women performed a great dance and the men sang. Hawalis saw three gods enter the dancing grounds, although I saw them not, for I was distracted by the strange weather that whipped wind into my face, yet did not seem to bother the dancers. The ceremony was ended with a great feast atop the stone of Nidham, although Hawalis and I refused to eat any of the unclean food.
+TARGETS: possesses / wields
+
+### SL09:00453 | SL09 | page n/a | THE FOES OF HENDRIK
+FIGURES: (none registered)
+TEXT: Gagark Evil Mouth was the particular enemy of Hendrik after the Silent Forest period. He was Palangio's shadow in every way: he rode upon a black bird and wore black armor, used a spear and sword. Also, both had magic that was strange and particular, unpredictable to those who were hunted by it.
+TARGETS: possesses / wields; hunts
+
+### SL09:00471 | SL09 | page n/a | AVENTUS [448 TO 464]
+FIGURES: HEORT
+TEXT: Among the sons of King Heort and Ivarne were Gollanth and Desaventus Widefarer. Desaventus traveled amongst the Heortling settlements in the Silver Age, protecting them from the monster remnants of the Great Darkness. He defeated the King of the Corpse-eaters and his Black Dogs, the Guest-Stranglers, and the Rye Wolf. Desaventus fell in love with Ondurisa, the daughter of Queen Imajarin of the Esrovuli. To woo Ondurisa, Desaventus befriended the Strong Man and defeated the fire-breathing Monros Boar that ravaged the fields of the Esrovuli. Desaventus lost that friendship when he stole Ondurisa from Nochet and married her. The king of Ulaninstead welcomed Desaventus and Ondurisa, and Desaventus defeated the vengeful husbands of Imajarin at Famegrave.
+TARGETS: loves / desires
+
+### SL09:00498 | SL09 | page n/a | BARAKAR [519 TO 526]
+FIGURES: HUMAKT, ORLANTH
+TEXT: Krengen Bik also appeared at Dekko Crevice, the ancestral sacred lands of the Hendriki, for midsummer. The leaders and many people were there for the regular ceremonies. At the springtime moot earlier that year the enemies of King Barakar said that the chill was because Barakar was a placator and a coward. Naralanth Flatnose was the instigator of the Council Breakdowns, and Barakar decided to kill his enemy. He called on Hendrik and Humakt the Avenger, and had already donned his blue cloak and red belt when Krengen Bik and the Shadows arrived to question him. Thus Barakar was unexpectedly prepared for their appearance, and rather than submitting to Krengen Bik and paying the Twice Penalty, the king negotiated from his position of ceremonial strength, and he obtained the special privileges that the Shadows afterwards called the Betrayal Delays. Krengen Bik afterwards said that Orlanth himself was there to resist him, and he fought the god to a standstill.
+TARGETS: avenges
+
+### SL09:00642 | SL09 | page n/a | ANDRAR [TO C. 1070]
+FIGURES: EURMAL, SEA GODS
+TEXT: Andrar sent a band of the best flyers to investigate Slontos and they reported that the whole of the land was gone, and in is place a vast muddy sea with a few islands. Andrar's wise cousin, the famous sage Verin Seesall, revealed that Carrot Breath the Trickster and his sisters had done this. They were helped by the Sea Gods, who were taking revenge for the great sins and errors that the dukes
+TARGETS: avenges
+
+### SL09:00652 | SL09 | page n/a | THE ESROLA WAR
+FIGURES: ERNALDA, ESROLA
+TEXT: At the Necropolis the shamans contacted the revered dead priestesses of Esrola and Ernalda, and a visionary priestess showed them what was occurring. The priestesses were incensed at their normally benevolent cultists engaged against each other, and ruining their own goddess for the sake of local politics. They sent a horde of ghosts to the Esrolian main temple, and the subsequent shame entirely disrupted the curses. Grandmothers Darimarja and Ofelasrela resisted these ghosts, but the former was slain outright, the latter was paralyzed in the supplication pose. Their resistance brought disaster to their families: every baby died, children were struck down or paralyzed, women's' wombs twisted inside them.
+TARGETS: dies; curses
+
+### SL09:00674 | SL09 | page n/a | ELMALDES THE SAILOR [TO 1302]
+FIGURES: CHORALINTHOR, STORM BULL
+TEXT: Brother of Elmaldes Blue Eyes, Starkvaldes fought both the trolls and a Chaos eruption from the Print. He was killed fighting Praxian raiders led by the Praxian Storm Bull hero Valatash Walker (a troll ally) who was active in Stormwalk Mountains. ### **ELMALDES THE SAILOR [TO 1302]** Son of Elmaldes Blue Eyes. Elmaldes loved ships, and he had a wonderful ship built that he used to sail all over the Choralinthor.
+TARGETS: loves / desires
+
+### SL09:00692 | SL09 | page n/a | THE LOVERS OF YRENARROY
+FIGURES: (none registered)
+TEXT: Over the next season all seven of these were murdered. This left Yrenarroy without suitors, and she didn't complain. She became a huntress of great esteem and lived in a small forest hut with her lover Lererlanda. They raised several orphans out there, and they died together and the house was burned by their adoptive children as their pyre. The king's line died out as a result.
+TARGETS: dwells at; dies
+
+### SL09:00698 | SL09 | page n/a | TARKALOR AND THE DEFEAT OF THE KITORI [15\*\*]
+FIGURES: YELMALIO
+TEXT: Prince Tarkalor of Sartar engaged in war against the Kitori. He was particularly aided because he was helped by the worshippers of Yelmalio, a god who was loathed and feared by the darkness forces. Tarkalor caught the chiefs of the Kitori one day, even though they were in their own stronghold. They resisted, and Takalor and the Yelmalios wiped them out. Then Tarkalor gave great tracts to the temple, and also established unmoderated trade with the Volsaxi.
+TARGETS: hates / fears
+
+### SL09:00718 | SL09 | page n/a | How Esrolians Survived the Darkness
+FIGURES: IMARJA
+TEXT: In the Darkness many of the Grandmothers had been killed, destroyed or disappeared, but some were only been sleeping. Awakening them saved Esrolian society. This process was begun by Urvarna and Demarath, two people who were attracted to each other but sensed that their relationship could be deeper than it was. They were friends, even sexual partners, but they sought deeper love. Their discontent irritated their neighbors and kinfolk who were having a difficult enough time just getting by. The couple set off, bearing the light and the dark in their pouches, and they found the Great Stone. They went into it, and they found their way past the dangers there. Tereneel, the Little Voice, promised them a gift greater than each other if they survived this. They were separated by the trials, but each determined to go on anyway. Urvarna found Gelstarn, the Beloved; and Demarath found Serumtha, the Lover. The pair had been sleeping, but once awakened these Grandmothers brought the two together again. They returned to their people, and they taught to them the rites of Awakening, and when they performed these ceremonies the Eighteen Awakened Powers returned to the people. "The Great Grandmother took us to her womb," they said, "in the warmth and comfort of safety. We saw Imarja there, and now we remember what we had lost. We slept and have come home now to bring to you the blessings of old." They brought seed and stock for food and goods, and their contributions were the main reason that Esrolia was relatively healthy when the sun rose once again. The Eighteen led the Ascending Rituals that transformed the Great Stone to be the Golden Egg that rose into the sky and ended the Darkness.
+TARGETS: sleeps / wakes
+
+### SL09:00752 | SL09 | page n/a | SHADOWLORDS, THE KITORI
+FIGURES: GBAJI, UZ
+TEXT: After losses and agony Liberator came to Garazaf Hyloric for advice and healing. She gave him the truth, and he embraced it. With great magic he cast off his shell and entered into the sleep of transformation, and within that deep dream he found his true self in the darkness, and awoke after a year and a day to be his true self. He was a great and powerful Uz, a lord to destroy horror. The Shadowlords gathered with him in new strength, and they supported him to the end of the world where Gbaji lived. In the fight the Shadowlords were shucked off like the shell of a nut, but Liberator was great and strong and climbed the tower that goes underground. He entered the room that is outside. He jumped up into the pit, and turned leftwards into the right-hand room. There Liberator and Gbaji met, hand to hand, foot to foot and tooth to tooth. Gbaji drew one hundred dead to aid it, but they were each followed by two uz that seized the dead by the tongue and genitals and dragged them back to where they came from. Without supporters the Lie is nothing, and so Liberator destroyed it forever.
+TARGETS: heals
+
+### SL09:00755 | SL09 | page n/a | ARKAT THE TROLL
+FIGURES: ARKAT, GBAJI
+TEXT: Garazaf Hyloric was a Mistress Race heroine after her healing of Arkat that day, and the Goddess of Solace Deep Within stood guard over those who slew the foes of chaos. The Inhuman King, pragmatic as usual, joined the trolls first, but other leaders also changed sides after their enlightenment and experience of the Gbaji cult's evil.
+TARGETS: heals
+
+### SL09:00776 | SL09 | page n/a | MYTHOLOGY OF YELMALIO
+FIGURES: (none registered)
+TEXT: The Gods War destroyed everything. The Many Lights were corrupted and extinguished, or else they became some of the Destroying Gods. The Many Lights died in droves when the sky fell, then in groups and finally one by one. Then they were all extinguished. Darkness reigned. No light existed.
+TARGETS: dies
+
+### SL09:00778 | SL09 | page n/a | HISTORY
+FIGURES: GBAJI
+TEXT: Three times has the Brightness of One Light returned to the world. First to combat Gbaji, second to combat the dragons and third, recently, to combat the approaching darkness once again. Once evil men stopped the sun to make Gbaji, the Great Liar. When they made the Liar then the universe was broken. The Cold Light rekindled, prepared again, and woke in the world.
+TARGETS: sleeps / wakes
+
+### SL10:00023 | SL10 | page n/a | Babeester Gor, Defender
+FIGURES: BABEESTER GOR, ERNALDA
+TEXT: When Ernalda died the entire world entered the Great Darkness, which was much worse that all the terrors that had preceded it. But she was only sleeping, and woke up again and brought life back to the cosmos. She is everywhere and everything. #### Babeester Gor, Defender We worship Babeester Gor on Babeester Day.
+TARGETS: dies; sleeps / wakes
+
+### SL10:00024 | SL10 | page n/a | Babeester Gor, Defender
+FIGURES: BABEESTER GOR, ERNALDA
+TEXT: The Avenging Goddess was born from Ernalda's corpse. The newborn saw vultures about her and leapt up and killed them all. She was born Babeester Gor. She wept over her mother's death, but never wept again. She then took axe in hand to hunt down her family's murderers and take bloody vengeance. After Ernalda woke up
+TARGETS: mourns; hunts; avenges; sleeps / wakes
+
+### SL10:00026 | SL10 | page n/a | Maran, Destroyer
+FIGURES: ERNALDA, MARAN GOR
+TEXT: We worship Maran on Shutting the Door Day. Maran is the violent energy of the earth. She can create. Once she danced to create the valleys and hills, shaping the world. She bore by her lovers the beings called Quakebeasts. When the Quakebeasts were destroyed in the Gods War she stopped dancing and took revenge on her enemies, summoning earthquakes and destroying with abandon. That was when she became Maran Gor. She fought until everything was dead, including herself. In the caverns of the dead she rejoined Ernalda, and Maran moved the loom arm when Ernalda remade the world.
+TARGETS: avenges
+
+### SL10:00029 | SL10 | page n/a | Ty Kora Tek, Queen of the Dead
+FIGURES: ASRELIA, TY KORA TEK
+TEXT: Ty Kora Tek is Asrelia's shy sister. She always remained in the shadows, and no one evenknows her actual name, just her title. After death came into the world it sent many souls into the shadows, where Ty Kora Tek dwelt. She aided and sheltered them, but she would not release them from her hold. She kept everything back from the world until Asrelia came to her and asked for life to be released. The twin sisters agreed to share everything between them.
+TARGETS: dwells at
+
+### SL10:00052 | SL10 | page n/a | Dead Point
+FIGURES: ERNALDA, ESROLA, TY KORA TEK, VORIA
+TEXT: The Stafford Library: Volume X Esrolia: The Land of Ten Thousand Goddesses # More Ezel Mythology # Dead Point Ernalda died, and the universe died with her. Her body was at a place called the Dead Point. Ernalda had woven a tapestry that was a map, but Nontraya rotted it, making many parts held together only by threads. Nonetheless, her ghost-self19 was enough to hold together a band of heroes.20 They followed the map and brought its fragments to Ernalda at the Dead Point. That is where the gathered dead awaited the end of the world. Ernalda, with the fragments, made a new Net that we call the Great Compromise. She placed Ty Kora Tek in charge of keeping the dead in place, and Esrola in charge of keeping the living in their place. She sent King Harono back to the sky world, and set guardians of the four quarters. Then she sent Voria to tell the world she was returning.
+TARGETS: dies
+
+### SL10:00056 | SL10 | page n/a | Nontraya and the Undead Empire
+FIGURES: ERNALDA, ESROLA, TY KORA TEK
+CONTEXT: nd keening with a terrible racket of cymbals and horns. Nontraya suspected a trick, so he called forth all his talokans to witness for him. When he pulled back her shroud to inspect the evidence, he saw that Ernalda was truly a corpse. He left, and the mourners took the bier to Ty Kora Tek, who received the corpse and bore it across the threshold, then lifted her own shroud to look upon Ernalda.
+TEXT: She whispered the secret to the worshippers: "She sleeps, she is not dead." With that, Nontraya thought he had killed the Source of Life, but in fact he had failed. In the Underworld, Ernalda made a new Net that we call the Great Compromise. She placed Ty Kora Tek in charge of keeping the dead in place, and Esrola in charge of keeping the living in their place. She sent King Harono back to the sky world, and set guardians of the four quarters. Thus did the ghost of Ernalda, the Great Weaver, lead the Lifebringers onward and, in the end, saved the universe by being the mother of time.
+TARGETS: sleeps / wakes
+
+### SL10:00063 | SL10 | page n/a | Out of Her House
+FIGURES: ASRELIA, ERNALDA
+TEXT: When Asrelia was getting old, she called her daughters to her, and their daughters, and granddaughters, and so on so that someone from every generation and every family was present. She told them she was going to retire, and thereafter everyone must bring all the Eldest Decisions to her daughter, Ernalda. She then gave the house to Ernalda.
+TARGETS: speaks / prophesies
+
+### SL10:00065 | SL10 | page n/a | Out of Her House
+FIGURES: ASRELIA, ERNALDA
+TEXT: Like all the others that existed in the Darkness, it became a temple where worshippers could contact their deities. And like all the other places that existed, it contracted towards nothing at the end of the world. But Ezel was the Dead Point. That was because it was where the Great Creatrix slept. Asrelia slept there. Creator was dead; all existence was dead. Everyone had gotten together at the Dead Point to say goodbye to Asrelia. They were all crowded together into a little grass hut. Ernalda knelt beside the sleeping mat where her mother lay.
+TARGETS: sleeps / wakes

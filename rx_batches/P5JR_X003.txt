@@ -1,0 +1,134 @@
+### WOD-JR:00479 | WOD-JR | WOD-JR 33710 (Kallyr’s Short Lightbringers Quest 1625 ) | Select Month September 2026
+FIGURES: COLYMAR, KALLYR STARBROW
+TEXT: One thing we have learned in 30 years in gaming is not to underestimate how much the Colymar blame Kallyr for the failure of Starbrow's Rebellion. Leika dislikes and distrusts her, Erenava Chan and her kin hate her (and blame her for the exile and death of their father Kallai Rockbuster).
+TARGETS: dies
+
+### WOD-JR:00483 | WOD-JR | WOD-JR 34992 (Orlanthi ownership) | Select Month September 2026
+FIGURES: ERNALDA, ORLANTH
+TEXT: In Earth-dominated lands such as Esrolia, Ernalda's representatives directly administer the land. In Orlanthi societies such as Sartar, Ernalda has entrusted care of the land to her husband Orlanth, but still retains residual (if rarely exercised) authority. In most of Dragon Pass, Ernalda has given authority over the land to tribal or clan leaders, who in turn delegate responsibility for parcels or fields to smaller groups such as clans, temples, or households. This land is collectively owned by the group, though it is typically administered by a title-holder, such as a chieftain or chief priestess.
+TARGETS: possesses / wields
+
+### WOD-JR:00486 | WOD-JR | WOD-JR 34992 (Orlanthi ownership) | Select Month September 2026
+FIGURES: COLYMAR, FEATHERED HORSE QUEEN, TARKALOR TROLLKILLER, ULERIA
+TEXT: So I can imagine that Prince Tarkalor persuaded the Colymar tribe to assign some land in the upper Swan vale to the Uleria temple he built to honor the Feathered Horse Queen or something like that. Maybe that was done just by the tribal assembly, maybe it was the tribal assembly, and the Varmandi and Hiording clans, all working in concert. Gringle, the Prince's merchant friend, bought a leasehold from that temple, assigned part of that to Bolthor Brewer to build the Tinn Inn, and pretty soon you have Apple Lane. Later on the Colymar assigned some lands to support a Thane to protect the locals.
+TARGETS: trades / exchanges
+
+### WOD-JR:00494 | WOD-JR | WOD-JR 33700 (Notes on the Holy Country II) | Select Month September 2026
+FIGURES: BELINTAR, ORLANTH
+TEXT: When Belintar came to the Holy Country, trolls and Hendriki tribe were dominant. The Hendriki were not an Orlanth Rex tribe, like the tribes in Sartar, and did not have access to that magic. Initially they were a "clan" – Hendrik was a bandit leader, not a king. His warband was held together by his own charisma and magic. When Hendrik died in 439, one of his companions Selelmal took over leadership of Hendrik's band, aka the Hendriki.
+TARGETS: dies
+
+### WOD-JR:00505 | WOD-JR | WOD-JR 33701 (Notes on the Holy Country I) | Select Month September 2026
+FIGURES: BELINTAR, THE MASTERS OF LUCK AND DEATH
+TEXT: When Belintar's mortal body expires, the next day select individuals, chosen by a means known only to the God-King, awake between dawn and day in a thoroughly magical Holy Country with the awareness that they are part of the Masters of Luck and Death. These individuals on the Other Side compete for magical powers and mystical insight.
+TARGETS: sleeps / wakes
+
+### WOD-JR:00534 | WOD-JR | WOD-JR 33249 (Heroquesting 101) | Other Side
+FIGURES: LARNSTE
+TEXT: - Arrowmound to Halikiv to Balance Split to Wonderwood - City of Wonders to Durengard to Stormwalk - Starfire Ridge to Whitewall to Larnste's Footprint to Stormwalk Mountain to the Block ### Other Side Other Side heroquests are the most dangerous, for questers must leave the known confines of the paths and sacred ways to set off across the wilderness of the divine world. It involves actual travel in the Gods World which, if properly entered, will be as recognizable to the quester as his own world. In these travels the landscape and the inhabitants are set by God Time events, but this does not make it any more predictable or less risky.
+TARGETS: dwells at
+
+### WOD-JR:00540 | WOD-JR | WOD-JR 33249 (Heroquesting 101) | Worship Quests
+FIGURES: ORIA
+TEXT: Worship Quests usually begin with a vertical quest, and then a departure from the god's house to be in the mythic story. Thus, an Oria priestess in the harvest ceremony summons the god plane of the Weeping Oria to her and departs from that place and wanders around the God Plane for a while, before returning with the secrets she sought.
+TARGETS: mourns
+
+### WOD-JR:00574 | WOD-JR | WOD-JR 33245 (Lunar Legacy in Sartar) | Select Month September 2026
+FIGURES: ORLANTH, TARKALOR TROLLKILLER
+TEXT: The main source of revenue for the Principality is the toll on goods being carried on the roads, duties and market fees in the cities. That's going to generate a lot of money. The Prince is also the head of the Orlanth Rex cult and in theory can draw on the resources of the Orlanth cult, although that is easier said than done. Tarkalor managed to get the assembled tribes to agree to levy an annual contribution and that remained in place until 1602, when it got doubled again to pay the Lunars their tribute.
+TARGETS: possesses / wields
+
+### WOD-JR:00578 | WOD-JR | WOD-JR 35010 (Hate (Lunar Empire)) | Select Month September 2026
+FIGURES: HUMAKT, ORLANTH, POLARIS, YANAFAL TARNILS, YELM, YELMALIO, YELORNA
+TEXT: As an aside, Humakt demands that Death be wielded with honor and his cult upholds the code of honor in combat and war. This code is strictly adhered to by Humakti, but also generally followed by other honorable war gods such as Orlanth, Polaris, Yanafal Tarnils, Yelm, Yelmalio, and Yelorna.Honorable combat is not fought for gain or selfish reasons. Although Humakti often serve as mercenaries for pay, that payment is not supposed to be dependent on the outcome of the battle.In battle, two warriors may duel or engage in prolonged personal combat. Both combatants must be armed and may use Rune or spirit magic, allied and other spirits, elementals, etc. Groups of warriors may fight approximately equal numbers of foes. However, multiple warriors or magicians must not gang up on a single warrior.A warrior who surrenders becomes a prisoner of his capture and is under their protection. At the same time, a surrendered warrior must not flee his captor until ransomed or released.Honor also dictates how warriors were to deal with noncombatants. No one should attack an enemy who has temporarily lost or dropped their weapon. The lives of noncombatants, prisoners of war, and farmers are also sacred. Pillaging the land is forbidden.
+TARGETS: possesses / wields
+
+### WOD-JR:00588 | WOD-JR | WOD-JR 35007 (Kallyr Starbrow) | Select Month September 2026
+FIGURES: KALLYR STARBROW, ORLANTH
+TEXT: When she dies, it returns to the Celestial Realm. Chief Priest is subordinate to a High Priest. Elmandti is high priest of the Boldhome Orlanth temple. But Kallyr, as Prince of Sartar, is the head of the Orlanth Rex cult.
+TARGETS: dies
+
+### WOD-JR:00594 | WOD-JR | WOD-JR 35003 (Light in the Sky) | Select Month September 2026
+FIGURES: ORLANTH, YELM
+TEXT: Pretty much every Gloranthan spiritual tradition says that the bright and hot Sun was killed by the Storm God, ending the Golden Age. The Orlanthi particularly emphasise this myth, as it was Orlanth who used Death on Yelm. Yelm died, and went to Hell, which the trolls still curse.
+TARGETS: dies; curses
+
+### WOD-JR:00595 | WOD-JR | WOD-JR 35003 (Light in the Sky) | Select Month September 2026
+FIGURES: ELMAL, KARGZANT, YELM, YELMALIO
+TEXT: And yet there was still Light in the Sky. Light brighter than the stars that maintained Truth and refused to be polluted by lies and foul corruption. This Light dimmed in the Greater Darkness, but never was entirely extinguished. Called Kargzant, Yelmalio, or Elmal, this Light defended mortals when other gods had died or left the world. It kept Light in the sky until Yelm returned with the Dawn. Many consider Yelm to be little more than the Sun Disk, and that Little Yelm is more likely to aid mortals than the Sun Disk (unless you are a Dara Happan or Pure Horse People directly descended from Imperial Yelm) and thus far more useful.
+TARGETS: dies
+
+### WOD-JR:00613 | WOD-JR | WOD-JR 34868 (Pelorian Earth Cults) | Select Month September 2026
+FIGURES: GERRA, GORGORMA, LODRIL, NATHA, RED EMPEROR, RED GODDESS, YELM
+TEXT: One thing that writing the Cults Book has really hammered into me is how much fear the traditional rulers of Peloria (aka the Yelm cult) have for Lodril as Monster Man. But even more so, how much terror and loathing they have for Gorgorma, who is everything the Yelm cult fears about women, sex, and the Other. But then here is where it gets interesting – the Lunars say that Gorgorma is a manifestation of Gerra and Natha, and the Red Goddess befriended Gorgorma in the Underworld.As a result, the head of the Yelm cult holds Gorgorma on a leash. Officially tolerated but usually discouraged, the Red Emperor can always unleash her if the local rulers disappoint him.
+TARGETS: hates / fears
+
+### WOD-JR:00614 | WOD-JR | WOD-JR 34868 (Pelorian Earth Cults) | Select Month September 2026
+FIGURES: DENDARA, ERNALDA, ORLANTH, YELM
+TEXT: Now the Earth cults approach this different. Ernalda includes Dendara but also a lot more, with many husbands and many lovers – including Yelm and Orlanth, but also pretty much anyone who paired with the Earth. Uxorial loyalty is not her thing – fertility and Earth are. Her twin sister is the destructive Earth – so what we know is dangerous and malevolent about the Earth itself – earthquakes, curses, and that jazz.
+TARGETS: curses
+
+### WOD-JR:00615 | WOD-JR | WOD-JR 34868 (Pelorian Earth Cults) | Select Month September 2026
+FIGURES: BABEESTER GOR, ERNALDA
+TEXT: But the vengeful side of things is contained in her daughter, Babeester Gor, who is acknowledged, accepted, and supported. BG is feared, but also viewed as useful by the local rulers, most of whom are tied directly or indirectly to the Ernalda cult.
+TARGETS: hates / fears
+
+### WOD-JR:00618 | WOD-JR | WOD-JR 35241 (Lunar Cities I) | Select Month September 2026
+FIGURES: HON-EEL, IRRIPPI ONTOR, JAR-EEL, RED EMPEROR, SEVEN MOTHERS
+TEXT: See also: > Lunar Cities II This still-anonymous sage of Irrippi Ontor was among the greatest figures of his cult. Admittedly, in many cases, these new cities lack the flair of older cities – the claims of Haar Zaal to be a Glamour on the steppe are more embarrassing than laughable. But Furthest – Furthest! – is a wonder. Built amidst the high mountains of Dragon Pass, it is a gem of Heartland civilization and culture. Its beautiful temple to the Seven Mothers, the Moirasseum (were sacrifices to Hon-eel take place), and the royal palace are wonders that rival anything outside of Glamour. No wonder Jar-eel resided there for a time, and the Red Emperor has resided in Furthest twice in two generations.
+TARGETS: dwells at
+
+### WOD-JR:00633 | WOD-JR | WOD-JR 34452 (Argrath’s Army) | Sartar Magical Union Counters
+FIGURES: ARGRATH, JALDON GOLDENTOOTH, STORM BULL, WAHA
+TEXT: No Argrath did not use Chaos at the 2nd Battle of Moonbroth. But he did have the Pol-Joni who are his allies.In my games, Storm Bull is not bound by Waha's taboos. And Jaldon Goldentooth – Mr. I Broke Pavis – does what the White Bull tells him to do. Are you going to question Jaldon? Or Yazurkial Blue Llama? Or Roneer the Hue who slaughtered his own kin for the White Bull? Really?
+TARGETS: speaks / prophesies
+
+### WOD-JR:00658 | WOD-JR | WOD-JR 35132 (Red Moon in Prax) | The Return of Prince Argrath
+FIGURES: ARGRATH
+TEXT: Lunar influence in Prax ended with the rise of Argrath. He had been present many years before, and had been chased from the land riding in the cradle of a giant. He returned with powerful allies, and freed Corflu and Pavis. He welded together a confederation comprised of members of several tribes working together for a positive change.Under Argrath's leadership, the Lunar Army was beaten and forced to withdraw. Due to commitments farther north (in the Redlands), the Empire could not immediately counterattack with sufficient new forces, and Argrath was able to follow-up on his victory by entering Dragon Pass. He made his triumphant entry into Sartar, and from there he entered into history and legend.After that, the Plaines of Prax remained virtually unchanged. The tribes went about their eternal way, moving and fighting, choosing their gods and spirits seemingly at random for whatever temporary help they could give. Even though the people might have been happier or more prosperous in another, more fertile land, they remained in their ancient ways of hardship. Such, they say, is the curse and the blessing of Prax.
+TARGETS: curses
+
+### WOD-JR:00673 | WOD-JR | WOD-JR 35131 (Sun Dome information) | Select Month September 2026
+FIGURES: YELM, YELMALIO
+TEXT: So that means there are a total of about 4200 Yelmalio cultists in the River of Cradles. Of those, about 800 serve with the Sun Dome Templars, the rest are militia. The Sun Dome Temple of Prax was isolated from about 1200-1550, surrounded and often ruled by hostile romads. Their horses all died, their Yelm-worshiping Pure Horse People allies disappeared, nonetheless, they held on ferociously to their Yelmalio cult, although he got dimmer and dimmer.
+TARGETS: dies
+
+### WOD-JR:00714 | WOD-JR | WOD-JR 34283 (Wolf Pirates Overview) | Notes from 12 October 2022 Repost
+FIGURES: ARGRATH
+TEXT: And that is what gave Argrath an opening – he showed Harrek another rich target, and one that he hated with a passion. And promised him great riches if they were successful. If you combine this thread with the threads on Nochet's finances and Sartar's finances, you basically can see key macro-motivations for many of the key players in the Hero Wars.
+TARGETS: hates / fears
+
+### WOD-JR:00753 | WOD-JR | WOD-JR 35069 (The Liberation of Boldhome) | Select Month September 2026
+FIGURES: LOKAMAYADON
+TEXT: I imagine that the Orlanthi have endemic low levels of violence thanks to their honour codes – feuds, revenge killings, etc. – but widespread massacres are very rare for the same reason. I mean the reason the stead burning of Rastalulf Vanak Spear was so remembered is that it was one of the Three Terrible Deeds of Lokamayadon. Who was a VERY BAD guy according to the Orlanthi.
+TARGETS: hates / fears; avenges
+
+### WOD-JR:00790 | WOD-JR | WOD-JR 35266 (Intoxicants) | MOB says
+FIGURES: DENDARA, ERNALDA, GORGORMA
+TEXT: Apple wine (apple cider) is very common. But it is probably more seasonal than beer or wine. But also it is worth keeping in mind that Orlanthi and Lunar cultures are very different. Meanwhile the Orlanthi are likely telling stories about how the Lunars keep their wives locked in harems, how they only interact with prostitutes or priestesses (and can't tell the difference), how they are afraid of sex with women (that's why they represent the vagina as Gorgorma, of course), their fear of nudity, and so on. And their taboos! I mean those Dara Happans are worse than Yelmalions or Humakti, and get nothing for it. And remember that the Yelmalions worship Ernalda, and not tame and obedient Dendara.
+TARGETS: hates / fears
+
+### WOD-JR:00793 | WOD-JR | WOD-JR 35263 (Orlanth Rex and Sartar’s Lineage) | Select Month September 2026
+FIGURES: ORLANTH, TARKALOR TROLLKILLER
+TEXT: The priesthood of the cult of Sartar – that's the Orlanth Rex for all the tribes of Sartar, aka the Prince of Sartar – is restricted to members of Sartar's lineage. Generally the eldest son was acclaimed as the head of the family, following the example of Sartar designating Saronil as his heir. But not always – for example Sarotar and Rastoran both died before their fathers, and Tarkalor and Salinarg were acclaimed as the best candidates but not sons of the ruling Prince.
+TARGETS: dies
+
+### WOD-JR:00794 | WOD-JR | WOD-JR 35263 (Orlanth Rex and Sartar’s Lineage) | Select Month September 2026
+FIGURES: ARGRATH, KALLYR STARBROW
+TEXT: Kallyr's grandfather was a son of Jarolar who died at the Battle of Dwarf Ford in 1557. Argrath's lineage is even more distant – his grandmother was the Triceratops Queen, who was in turn the granddaughter of Onelisin the Cat Witch, the famed daughter of Prince Saronil, and the subject of many songs and stories.
+TARGETS: dies
+
+### WOD-JR:00822 | WOD-JR | WOD-JR 35311 (The Ages of The World) | Select Month September 2026
+FIGURES: ORLANTH, SKY PEOPLE, YELM
+TEXT: Which of course raises the interesting idea that the Mortal Races appeared before mammals. Because of course they did. There is a God Learner theory that humans did not appear until Yelm is slain by Orlanth. And that the inhabitants of the Yelm's Golden Empire were birds or sky people, and not mucky humans. And that the oldest Brithini might not be recognisable as "men".
+TARGETS: dwells at
+
+### WOD-JR:00831 | WOD-JR | WOD-JR 35298 (The Great Compromise) | Select Month September 2026
+FIGURES: ARACHNE SOLARA
+TEXT: The Spider Woman constructed a great and magical web made of many things no longer found in the world, and then she gave the web to all the gods to hold ready between them. When Chaos entered their realm, the gods cast the net upon the Devil and held him tight. While the other deities had distracted the Devil, Arachne Solara leapt upon him with vengeance and a strength of desperation and mystical splendor. She enwrapped the Chaos god in her legs and struggled mightily, and at last devoured the evil soul.
+TARGETS: avenges
+
+### WOD-JR:00833 | WOD-JR | WOD-JR 35298 (The Great Compromise) | Select Month September 2026
+FIGURES: ARACHNE SOLARA, LIGHTBRINGERS, YELM
+TEXT: The Lightbringers forced open the Gates of Dawn. Arachne Solara cast her net forth, and the myriads of immortals ran out upon it, filling the universe with their presence. Each knew their part, and went to it gratefully as if reaching home after a long painful recovery.Upon the tattered physical world, portions of the Old World drifted upon the decaying remnants of the once-Golden Age. The snares of the net encircled them gratefully, anchored there, and cast further to other islands of unviolated existence. Inhabitants of those places saw the distant sky grow closer, felt the earth grow firm underneath, and felt the air once again move about them. Thunder rumbled upon the eastern horizon, which grew grey and then rosy and finally bright as Theya, Dawn Goddess, led forth her father, fiery Yelm, into the Sky. The gods marched across the barren world, bringing warmth, light, and flowers to the awed survivors.
+TARGETS: dwells at

@@ -1,0 +1,300 @@
+[P5-B-B0064-009] S=['ARGAR ARGAN'] P=fights O=['CHAOS'] implicit=True ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When Chaos came, he aided any who called upon him, setting aside even old hatreds to fight a common foe.
+[P5-B-B0064-010] S=['ONLY OLD ONE'] P=rules O=['KINGDOM OF NIGHT'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: After the Dawn, the Only Old One ruled the Kingdom of Night, which lasted until the coming of the Pharaoh in 1313.
+[P5-B-B0064-011] S=['ARGAR ARGAN'] P=is spouse of O=['ERNALDA'] implicit=True ps="Husband-Protectors" sug=is spouse of
+   Q: one of Ernalda's Husband-Protectors.
+[P5-B-B0064-012] S=['BUSERIAN'] P=is child of O=['YELM'] implicit=False ps="son" sug=is child of
+   Q: Yelm made his third son, Buserian, the Court Recorder.
+[P5-B-B0064-013] S=['BUSERIAN'] P=serves O=['CELESTIAL COURT'] implicit=True ps="Court Recorder" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Yelm made his third son, Buserian, the Court Recorder.
+[P5-B-B0064-014] S=['ANAXIAL'] P=initiates into cult O=['BUSERIAN'] implicit=False ps="conferred the priestly powers upon" sug=initiates into cult
+   Q: When Anaxial the Sailor landed his ship and resettled Dara Happa after the floods he conferred the priestly powers upon Buserian
+[P5-B-B0064-015] S=['BUSERIAN'] P=discovers O=['POLARIS'] implicit=False ps="spied" sug=discovers
+   Q: During the Great Darkness, Buserian remained on the world, watching the skies, until he spied Polaris directly overhead.
+[P5-B-B0064-016] S=['BUSERIAN'] P=teaches O=['STARGAZERS'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He taught them to read the stars and they protected him; they started to call themselves the Stargazers.
+[P5-B-B0064-017] S=['STARGAZERS'] P=protects O=['BUSERIAN'] implicit=True ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: He taught them to read the stars and they protected him; they started to call themselves the Stargazers.
+[P5-B-B0064-018] S=['STARGAZERS'] P=serves O=['CELESTIAL COURT'] implicit=False ps="watch and record the movements of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Stargazers made their home in Buserian's chosen city of Yuthuppa where they continued to watch and record the movements of the Celestial Court
+[P5-B-B0064-019] S=['ERISSA'] P=is alternative name for O=['WHITE LADY'] implicit=False ps="The White Lady Erissa" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The White Lady Erissa is the most powerful healing goddess in Glorantha.
+[P5-B-B0064-020] S=['ERISSA'] P=travels O=[] MOD={"in_on_at": "WORLD"} implicit=False ps="wandered" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: During the Darkness, Erissa wandered the world teaching people her healing gifts.
+[P5-B-B0064-021] S=['ERISSA'] P=teaches O=['PEOPLE'] implicit=False ps="teaching" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: During the Darkness, Erissa wandered the world teaching people her healing gifts.
+[P5-B-B0064-022] S=['ERISSA'] P=descends into O=['LAND OF THE DEAD'] implicit=True ps="enter" sug=one of: descends into, dies
+   Q: She set out to enter the Land of the Dead and heal Yelm so that he would reenter the lands of the living.
+[P5-B-B0064-023] S=['ERISSA'] P=bestows magic / gifts O=['REBEL GODS'] implicit=False ps="healed" sug=heals
+   Q: On her journey, Erissa met the Rebel Gods. She avoided their violence and healed their hate.
+[P5-B-B0064-024] S=['REBEL GODS'] P=pledges oath with O=['ERISSA'] MOD={"to": "UNDERWORLD"} implicit=True ps="promised" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: promised to journey with her to the Underworld;
+[P5-B-B0064-025] S=['ERISSA'] P=resurrects O=['YELM'] MOD={"in_on_at": "HALLS OF THE DEAD"} implicit=False ps="restored him to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: In the Halls of the Dead they found Yelm and Erissa healed his anger and restored him to life.
+[P5-B-B0064-026] S=['REBEL GODS'] P=pledges oath with O=['YELM'] implicit=True ps="received his forgiveness" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: The Rebels received his forgiveness and accompanied him back into the land of the living.
+[P5-B-B0064-027] S=['REBEL GODS'] P=travels O=[] MOD={"to": "LAND OF THE LIVING"} implicit=True ps="accompanied him back" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Rebels received his forgiveness and accompanied him back into the land of the living.
+[P5-B-B0064-028] S=['ODAYLA'] P=is child of O=['ORLANTH'] implicit=False ps="son" sug=is child of
+   Q: Odayla is the god of hunting, a son of Orlanth and the Lady of the Wild.
+[P5-B-B0064-029] S=['ODAYLA'] P=is child of O=['LADY OF THE WILD'] implicit=False ps="son" sug=is child of
+   Q: Odayla is the god of hunting, a son of Orlanth and the Lady of the Wild.
+[P5-B-B0064-030] S=['ODAYLA'] P=defeats O=['GREAT BEAR'] implicit=True ps="wrestling the Great Bear into submission" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He is most famous for wrestling the Great Bear into submission
+[P5-B-B0064-031] S=['ODAYLA'] P=is identified as O=['GREAT BEAR'] implicit=True ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: although some say he is the Great Bear
+[P5-B-B0064-032] S=['ODAYLA'] P=is member of O=['THUNDER BROTHERS'] implicit=True ps="one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He is one of the Thunder Brothers
+[P5-B-B0064-033] S=['ODAYLA'] P=bestows magic / gifts O=['HEORTLINGS'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: during the Darkness he gave the Heortlings the skills and magic they needed to stay alive amid the monsters.
+[P5-B-B0064-034] S=['SKOVARA'] P=is child of O=['ERNALDA'] implicit=False ps="daughter" sug=is child of
+   Q: Skovara is a daughter of Ernalda born in the Green Age.
+[P5-B-B0064-035] S=['SKOVARA'] P=comes into being O=[] implicit=False ps="born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Skovara is a daughter of Ernalda born in the Green Age.
+[P5-B-B0064-036] S=['SKOVARI'] P=is spouse of O=['SKOVARA'] implicit=True ps="husband" sug=is spouse of
+   Q: With her husband Skovari
+[P5-B-B0064-037] S=['SKOVARA'] P=is conflated with O=['DONANDAR'] implicit=False ps="associated with" sug=one of: is identified as, is worshipped by, is part of
+   Q: Skovara is associated with Donandar
+[P5-B-B0064-038] S=['YGG'] P=embodies O=['SEA STORM'] implicit=False ps="is" sug=one of: embodies, has domain
+   Q: Ygg is the Sea Storm.
+[P5-B-B0064-039] S=['YGG'] P=is child of O=['GLACIER GOD'] implicit=True ps="son" sug=is child of
+   Q: He was a son of a glacier god at the height of its glory.
+[P5-B-B0064-040] S=['YGG'] P=protects O=['YGGITES'] MOD={"from": ["BLACK ICE", "CASCADING GLACIER"]} implicit=True ps="steered them to refuge" sug=one of: protects, rescues / frees, aids
+   Q: Ygg steered them to refuge from the Black Ice and the Cascading Glacier.
+[P5-B-B0064-041] S=['DORMAL'] P=teaches O=['YGGITES'] implicit=False ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Dormal came and taught the rites of Openwater Sailing to the Yggites.
+[P5-B-B0064-042] S=['JAKALEEL'] P=is alternative name for O=['SPINDLE HAG OF JORD MOUNTAIN'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Jakaleel was first a human woman, called the Spindle Hag of Jord Mountain.
+[P5-B-B0064-043] S=['JAKALEEL'] P=is member of O=['SEVEN MOTHERS'] implicit=True ps="joined" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: She joined the rebel leaders who became the Seven Mothers as the Seeker in the Darkness.
+[P5-B-B0064-044] S=['JAKALEEL'] P=pledges oath with O=['MOON SPIRITS'] implicit=True ps="forge alliances with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: She was the first person to meet and forge alliances with Moon spirits.
+[P5-B-B0064-045] S=['JAKALEEL'] P=descends into O=[] MOD={"in_on_at": "FIRST BATTLE OF CHAOS"} implicit=False ps="died" sug=dies
+   Q: Jakaleel died at the First Battle of Chaos
+[P5-B-B0064-046] S=['RED GODDESS'] P=is child of O=['SEVEN MOTHERS'] implicit=False ps="birthed" sug=is child of
+   Q: one of the Seven Mothers, who birthed the Red Goddess.
+[P5-B-B0064-047] S=['JAKALEEL THE WITCH'] P=is member of O=['SEVEN MOTHERS'] implicit=False ps="one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Jakaleel the Witch was once a mortal, but became a majestic spirit through her role as one of the Seven Mothers
+[P5-B-B0064-048] S=['CREATOR'] P=manifests O=['WORLD'] implicit=False ps="made" sug=conceives
+   Q: Creator made the world
+[P5-B-B0064-049] S=['CREATOR'] P=teaches O=['DENBITOS'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: just before he left he taught Denbitos how to be a Grazer shaman.
+[P5-B-B0064-050] S=['DENBITOS'] P=becomes celestial body O=[] MOD={"in_on_at": "CENTER OF THE SKY"} implicit=False ps="is the star" sug=becomes celestial body
+   Q: Denbitos is the star at the center of the sky.
+[P5-B-B0064-051] S=['DENBITOS'] P=bestows magic / gifts O=['GRAZER SHAMANS'] implicit=True ps="gives" sug=one of: bestows, heals, imbues, teaches
+   Q: He gives Grazer shamans their fetches.
+[P5-B-B0064-052] S=['DENBITOS'] P=teaches O=['FOLORENE'] implicit=False ps="told everyone to accept" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Denbitos told everyone to accept Folorene as one of them.
+[P5-B-B0064-053] S=['FOLORENE'] P=transforms into O=[] implicit=True ps="became a person" sug=transforms into
+   Q: perhaps it was a horse that became a person
+[P5-B-B0064-054] S=['EIRITHA'] P=is alternative name for O=['HERD MOTHER'] implicit=False ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Eiritha is the Herd Mother, source of the beasts of the plains and thus of Life itself.
+[P5-B-B0064-055] S=['DEVIL'] P=kills O=['EIRITHA'] implicit=True ps="came to kill" sug=one of: kills, shatters, dies
+   Q: When the Devil came to kill her
+[P5-B-B0064-056] S=['EIRITHA'] P=flees to O=[] MOD={"to": "BENEATH THE EARTH"} implicit=True ps="survived by hiding" sug=flees to
+   Q: she survived by hiding beneath the earth
+[P5-B-B0065-001] S=['OAKFED'] P=swallows / consumes O=['TREES'] implicit=False ps="devoured" sug=swallows / consumes
+   Q: Oakfed devoured all of the trees
+[P5-B-B0065-002] S=['JARDAN'] P=defeats O=['OAKFED'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Among the Grazers, the spirit who conquered Oakfed is Jardan
+[P5-B-B0065-003] S=['WAHA'] P=defeats O=['OAKFED'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Among the Grazers, the spirit who conquered Oakfed is Jardan || among the Praxians it is Waha
+[P5-B-B0065-004] S=['KOLAT'] P=defeats O=['OAKFED'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Among the Grazers, the spirit who conquered Oakfed is Jardan || among the Heortlings it is Kolat.
+[P5-B-B0065-005] S=['GANVAL SHAMANS'] P=steals O=['OAKFED'] MOD={"purpose_clause": "to light the way for the local spirits"} implicit=False ps="taken a part of Oakfed's power" sug=steals
+   Q: Ganval shamans claim to have taken a part of Oakfed's power during the Darkness to light the way for the local spirits
+[P5-B-B0065-006] S=['OAKFED'] P=teaches O=['THREE FIRES'] IO=['MANKIND'] implicit=False ps="teach" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Each spirit made Oakfed teach the Three Fires to mankind.
+[P5-B-B0065-007] S=['CHALK MAN'] P=is identified as O=['EARTH SPIRIT'] implicit=False ps="is an Earth spirit" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Chalk Man is an Earth spirit that rose up from the ground from near Donalf Flats
+[P5-B-B0065-008] S=['CHALK MAN'] P=comes into being O=[] MOD={"from": "near Donalf Flats"} implicit=False ps="rose up from the ground" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Chalk Man is an Earth spirit that rose up from the ground from near Donalf Flats
+[P5-B-B0065-009] S=['RABBITFACE'] P=binds O=['GRAZER'] implicit=False ps="imprisoned" sug=binds
+   Q: Chalk Man heard Grazer was imprisoned by Rabbitface
+[P5-B-B0065-010] S=['CHALK MAN'] P=travels O=[] MOD={"purpose_clause": "to free him"} implicit=False ps="went" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Chalk Man heard Grazer was imprisoned by Rabbitface and went to free him.
+[P5-B-B0065-011] S=['CHALK MAN'] P=wounds O=[] implicit=True ps="had his eyes taken out" sug=wounds
+   Q: He gambled, but lost and had his eyes taken out.
+[P5-B-B0065-013] S=['CHALK MAN'] P=kills O=['THIEVING BADGER'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: He went away, stayed at Granny Vo's tent and killed the thieving badger for her
+[P5-B-B0065-014] S=['CHALK MAN'] P=marries O=['DARA', 'DERA', 'DORA'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: and married her daughters Dara, Dera, and Dora.
+[P5-B-B0065-015] S=['DARA', 'DERA', 'DORA'] P=is child of O=['GRANNY VO'] implicit=True ps="daughters" sug=is child of
+   Q: her daughters Dara, Dera, and Dora.
+[P5-B-B0065-016] S=['UNCLE'] P=bestows magic / gifts O=['GAMBLING STICKS'] IO=['CHALK MAN'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: His new uncle gave him gambling sticks
+[P5-B-B0065-018] S=['CHALK MAN'] P=defeats O=['RABBITFACE'] implicit=True ps="won" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He wagered his wives in a bet with Grazer as the other wager, and he won
+[P5-B-B0065-019] S=['RABBITFACE'] P=kills O=[] implicit=False ps="was killed" sug=one of: kills, shatters, dies
+   Q: Then Rabbitface was killed.
+[P5-B-B0065-020] S=['CHALK MAN'] P=defeats O=['MOUNTAIN GIANT'] implicit=True ps="sending away" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: sending the mountain giant away to settle elsewhere
+[P5-B-B0065-021] S=['CHALK MAN'] P=descends into O=[] MOD={"to": "an underground chamber"} implicit=True ps="retired" sug=one of: descends into, dies
+   Q: In the end, he retired to an underground chamber
+[P5-B-B0065-022] S=['GERLANT'] P=fights O=[] MOD={"in_on_at": "Gbaji Wars"} implicit=False ps="was a great hero in" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Gerlant was a great hero in the Gbaji Wars.
+[P5-B-B0065-023] S=['GERLANT'] P=rules O=['SESHNELA'] implicit=True ps="kings of Seshnela" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: ended as the wisest of the kings of Seshnela.
+[P5-B-B0065-024] S=['GERLANT'] P=serves O=['ARKAT'] implicit=True ps="was a follower of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He was a follower of Arkat
+[P5-B-B0065-025] S=['GERLANT'] P=departs from O=['ARKAT'] implicit=True ps="broke with" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: He was a follower of Arkat, but broke with the betrayer when he became apostate.
+[P5-B-B0065-026] S=['GERLANT'] P=rules O=['HIS PEOPLE'] implicit=True ps="lead" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: went home to lead his people in a long and prosperous reign.
+[P5-B-B0065-027] S=['ROKARI'] P=establishes cult O=['SAINT GERLANT'] implicit=False ps="recognized" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Saint Gerlant is recognized by most churches, even the Rokari.
+[P5-B-B0065-028] S=['MAKAN'] P=is alternative name for O=['INVISIBLE GOD'] implicit=False ps="the One Invisible God" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Makan, the One Invisible God
+[P5-B-B0065-029] S=['MAKAN'] P=shatters O=['MATTER'] implicit=True ps="separated" sug=shatters
+   Q: separated Matter from Energy, Shapes from Principles, and Elements from Powers.
+[P5-B-B0065-030] S=['MAKAN'] P=comes into being O=['KINGDOM'] IO=['CHOSEN PEOPLE'] implicit=True ps="made" sug=conceives
+   Q: He made the Kingdom for our ancestors, the Chosen People.
+[P5-B-B0065-031] S=['MALKION'] P=is child of O=['MAKAN'] implicit=True ps="created" sug=is child of
+   Q: He created Malkion
+[P5-B-B0065-032] S=['ZZABUR'] P=fights O=['MALKION'] implicit=False ps="betrayed" sug=betrays
+   Q: Malkion who was betrayed by Zzabur
+[P5-B-B0065-033] S=['MALKION'] P=descends into O=[] implicit=False ps="died" sug=dies
+   Q: Malkion who was betrayed by Zzabur, was cursed, suffered, failed, died
+[P5-B-B0065-034] S=['MAKAN'] P=comes into being O=['SOLACE'] implicit=True ps="created" sug=conceives
+   Q: From this He created Solace
+[P5-B-B0065-035] S=['MAKAN'] P=resurrects O=['WORLD'] implicit=True ps="brought the resurrection of" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: brought the resurrection of the world.
+[P5-B-B0065-036] S=['MALKION'] P=establishes cult O=['ABIDING BOOK'] implicit=False ps="wrote" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Malkion wrote The Abiding Book
+[P5-B-B0065-037] S=['MALKION'] P=bestows magic / gifts O=['ABIDING BOOK'] IO=['ROKAR'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: and gave its true version to Rokar
+[P5-B-B0065-038] S=['ROKAR'] P=teaches O=["MALKION'S RESURRECTION"] IO=['MANKIND'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: and taught us Malkion's Resurrection.
+[P5-B-B0065-039] S=['MALKION', 'ROKAR'] P=serves O=['MAKAN'] implicit=True ps="True Prophets" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Malkion and Rokar are His True Prophets
+[P5-B-B0065-040] S=['MALKION'] P=bestows magic / gifts O=['ABIDING BOOK'] implicit=False ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: The First Prophet Malkion gave the scripture called The Abiding Book
+[P5-B-B0065-041] S=['ROKAR'] P=reveals O=['ABIDING BOOK'] MOD={"in_on_at": "The Rule of Law"} implicit=True ps="revealed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: the prophet Rokar revealed their meaning in The Rule of Law.
+[P5-B-B0065-042] S=['ROKARI CHURCH'] P=is identified as O=['MAKAN'] implicit=False ps="recognizes as God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Rokari Church recognizes Makan as God.
+[P5-B-B0065-043] S=['ELIAVAR'] P=is identified as O=['PROPHET OF THE FOURTH ACTION'] implicit=False ps="was a prophet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Eliavar was a prophet of the Fourth Action
+[P5-B-B0065-044] S=['ELIAVAR'] P=establishes cult O=['MAKAN'] implicit=True ps="established how to reach" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: He established how to reach Makan the One through the process, art, and experience of boating.
+[P5-B-B0065-045] S=['VADELI'] P=fights O=['ELIAVAR'] implicit=True ps="tried to kill" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Vadeli tried to kill him
+[P5-B-B0065-046] S=['ELIAVAR'] P=flees to O=[] implicit=True ps="fled" sug=flees to
+   Q: he fled here and there
+[P5-B-B0065-047] S=['VADELI'] P=kills O=['ELIAVAR'] implicit=True ps="was killed" sug=one of: kills, shatters, dies
+   Q: The Vadeli tried to kill him || then was killed anyway.
+[P5-B-B0065-048] S=['DORMAL'] P=enchants O=['SEAS'] implicit=False ps="opened the seas to sailing" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: the great shipman Dormal opened the seas to sailing for the first time in five centuries.
+[P5-B-B0065-049] S=['ELIAVAR'] P=is conflated with O=['ROKAR'] implicit=False ps="proven to be equal to" sug=one of: is identified as, is worshipped by, is part of
+   Q: Eliavar was proven to be equal to Rokar.
+[P5-B-B0065-050] S=['MAKAN'] P=is alternative name for O=['ONE MIND'] implicit=False ps="the One Mind" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Makan, the One Mind, Creator of the Universe
+[P5-B-B0065-051] S=['GREAT NAVIGATOR'] P=is child of O=['MAKAN'] implicit=True ps="created" sug=is child of
+   Q: He created the Great Navigator
+[P5-B-B0065-052] S=['GREAT NAVIGATOR'] P=descends into O=[] implicit=False ps="died" sug=dies
+   Q: the Great Navigator who was betrayed, cursed, suffered, failed, died
+[P5-B-B0065-053] S=['MALKION'] P=bestows magic / gifts O=['ABIDING BOOK'] IO=['ELIAVAR'] implicit=False ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: Malkion wrote The Abiding Book and gave its true version to Eliavar the Seaman
+[P5-B-B0065-054] S=['ELIAVAR'] P=teaches O=['RESURRECTION'] IO=['MANKIND'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Eliavar the Seaman, who reinstituted the Tests of Faith, and taught us Resurrection.
+[P5-B-B0065-055] S=['ELIAVAR'] P=serves O=['MAKAN'] implicit=True ps="True Prophet" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Eliavar is the True Prophet
+[P5-B-B0065-056] S=['CREATOR'] P=comes into being O=['EVERYTHING'] implicit=False ps="made" sug=conceives
+   Q: the Creator made everything that was perfect
+[P5-B-B0065-057] S=['TROUBLEMAKERS'] P=comes into being O=['UNDERWORLD'] implicit=False ps="made" sug=conceives
+   Q: some troublemakers who got together and made the Underworld
+[P5-B-B0065-058] S=['DEVIL', 'GODS', 'SPIRITS', 'DEMONS'] P=is born from O=[] MOD={"from": "that"} implicit=False ps="came" sug=is born from
+   Q: From that came the Devil, gods, spirits, and demons.
+[P5-B-B0066-001] S=['ISFALT'] P=protects O=['LITTLE CLAWS PEOPLE'] implicit=False ps="protector of" sug=one of: protects, rescues / frees, aids
+   Q: The Isfalt is a creature known from the Gods War era, the protector of the Little Claws People.
+[P5-B-B0066-002] S=['BONBORN'] P=is child of O=['SPIRIT'] implicit=False ps="Son of" sug=is child of
+   Q: One time Bonborn, the Son of the Spirit, came to our lands
+[P5-B-B0066-003] S=['BONBORN'] P=fights O=['ISFALT'] implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Bonborn fought Isfalt on his own
+[P5-B-B0066-004] S=['BONBORN'] P=defeats O=['ISFALT'] implicit=False ps="overcame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Bonborn fought Isfalt on his own and in some manner overcame it.
+[P5-B-B0067-001] S=['BONBORN'] P=travels O=[] MOD={"from": "ARANVALUS' HOUSE", "to": "RIVER OF KNIVES"} implicit=True ps="reached" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Bonborn departed, and after going east for a time reached the River of Knives.
+[P5-B-B0067-003] S=['BONBORN'] P=kills O=['GREAT LION'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: A great lion [or wolf or horde of beasts] attacked, but he fought and killed it.
+[P5-B-B0067-004] S=['BONBORN'] P=serves O=['ANGRY WOMAN'] implicit=True ps="took him to build a bridge" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He ran into a woman who was angry at him. He was genuinely sad at this, and so instead of killing him she took him to build a bridge.
+[P5-B-B0067-006] S=['BONBORN'] P=defeats O=['BEETLES'] implicit=True ps="tricked" sug=tricks
+   Q: Beetles were on his track, but he tricked them.
+[P5-B-B0067-007] S=['SHADOWING'] P=is born from O=['ECLIPSE'] implicit=False ps="had been born of" sug=is born from
+   Q: Shadowing (who had been born of an eclipse)
+[P5-B-B0067-008] S=['ZOMBIES'] P=comes into being O=[] MOD={"from": "SHADOWING"} implicit=False ps="came" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Shadowing (who had been born of an eclipse) sailed overhead and from it came zombies to suck life from warm bodies.
+[P5-B-B0067-009] S=['BONBORN'] P=bestows magic / gifts O=['DIAMOND'] IO=['RACCOON'] implicit=False ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: All the sources agree: Bonborn went to the right of the mountain and gave the Raccoon a diamond.
+[P5-B-B0067-011] S=["BONBORN'S FAMILY"] P=bestows magic / gifts O=['ROCK OF LIFE'] IO=['BONBORN'] implicit=True ps="had given" sug=one of: bestows, heals, imbues, teaches
+   Q: he carried the Rock of Life that his family had given him.
+[P5-B-B0067-012] S=['BONBORN'] P=defeats O=[] MOD={"in_on_at": "ISFALT VALLEY", "using": "ROCK OF LIFE"} implicit=True ps="won" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Bonborn had to fight, and won only because he carried the Rock of Life that his family had given him.
+[P5-B-B0067-013] S=["BONBORN'S FAMILY"] P=serves O=['BONBORN'] implicit=True ps="helped" sug=aids
+   Q: His family helped him then, as did his master.
+[P5-B-B0067-014] S=["BONBORN'S MASTER"] P=serves O=['BONBORN'] implicit=True ps="helped" sug=aids
+   Q: His family helped him then, as did his master.
+[P5-B-B0067-015] S=['ORLANTH', 'LIGHTBRINGERS'] P=travels O=[] MOD={"in_on_at": "FAR WEST", "to": "SORCERY TOWN"} implicit=True ps="travel" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: when Orlanth and his companions travel into the Far West they go to Sorcery Town.
+[P5-B-B0067-016] S=['BONBORN'] P=serves O=['ANGRY WOMAN'] implicit=True ps="took him to build a bridge" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He ran into a woman who was angry at him. He was genuinely sad at this, and so instead of killing him she took him to build a bridge.
+[P5-B-B0067-017] S=['ORLANTH'] P=kills O=['BLUE DRAGON'] implicit=False ps="slaying" sug=one of: kills, shatters, dies
+   Q: Orlanth slaying the Blue Dragon, and liberating Heler the Rain God from its belly.
+[P5-B-B0067-018] S=['ORLANTH'] P=protects O=['HELER'] MOD={"from": "BLUE DRAGON"} implicit=False ps="liberating" sug=rescues / frees
+   Q: Orlanth slaying the Blue Dragon, and liberating Heler the Rain God from its belly.
+[P5-B-B0067-019] S=['BLUE DRAGON'] P=swallows / consumes O=['HELER'] implicit=True ps="belly" sug=swallows / consumes
+   Q: liberating Heler the Rain God from its belly.
+[P5-B-B0067-020] S=['HELER'] P=is identified as O=['RAIN GOD'] implicit=False ps="the Rain God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Heler the Rain God
+[P5-B-B0067-021] S=['BARNTAR'] P=is identified as O=['THE FARMER'] implicit=False ps="the Farmer" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Barntar the Farmer
+[P5-B-B0067-022] S=['BARNTAR'] P=protects O=['HELER'] MOD={"purpose_clause": "TO FIGHT DAGA"} implicit=False ps="free" sug=rescues / frees
+   Q: Barntar the Farmer, who must free Heler to fight Daga, Spirit of Drought.
+[P5-B-B0067-023] S=['HELER'] P=fights O=['DAGA'] implicit=False ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: free Heler to fight Daga, Spirit of Drought.
+[P5-B-B0067-024] S=['DAGA'] P=is identified as O=['SPIRIT OF DROUGHT'] implicit=False ps="Spirit of Drought" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Daga, Spirit of Drought.
+[P5-B-B0067-025] S=['JARANKOL SOLARSLAYER'] P=defeats O=['OSLIR RIVER'] implicit=False ps="tame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In the Dawn Age, the hero Jarankol Solarslayer used a variant of this myth to tame the Oslir River
+[P5-B-B0067-026] S=['JARANKOL SOLARSLAYER'] P=fights O=['DARA HAPPA'] MOD={"with_the_aid_of": ["OSLIR RIVER"]} implicit=True ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: gained the aid of the river in his fight against Dara Happa.
+[P5-B-B0067-027] S=['ARKAT'] P=discovers O=['HEROQUEST PATH CHANGING'] implicit=True ps="was discovered" sug=discovers
+   Q: This practice was discovered in the Dawn Age by the great hero Arkat
+[P5-B-B0067-028] S=['ARKAT'] P=is identified as O=['GREAT HERO'] implicit=False ps="great hero" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the great hero Arkat
+[P5-B-B0067-029] S=['GOD LEARNERS'] P=shatters O=['WORLD'] implicit=False ps="nearly destroyed" sug=shatters
+   Q: During the Imperial Age, the God Learners perfected this technique, and their alterations nearly destroyed the world.
+[P5-B-B0067-030] S=['WORLD'] P=kills O=['GOD LEARNERS'] implicit=False ps="destroyed" sug=shatters
+   Q: the world retaliated and destroyed the God Learners instead.
+[P5-B-B0067-031] S=['BONBORN'] P=bestows magic / gifts O=['DIAMOND'] IO=['RACCOON'] implicit=False ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: All the sources agree: Bonborn went to the right of the mountain and gave the Raccoon a diamond.
+[P5-B-B0068-001] S=['A TROLL'] P=steals O=['FIRE'] MOD={"in_on_at": "HILL OF GOLD", "from": "YELMALIO"} implicit=False ps="stealing" sug=steals
+   Q: a troll stealing fire from the solar god Yelmalio at the Hill of Gold
+[P5-B-B0068-002] S=['YELMALIO'] P=manifests O=[] implicit=False ps="solar god" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: solar god Yelmalio
+[P5-B-B0068-003] S=['HEROQUESTERS'] P=defeats O=['ISFALT'] implicit=True ps="defeating" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: defeating Isfalt
+[P5-B-B0068-004] S=['HEROQUESTERS'] P=steals O=['SPECIAL POWERS'] MOD={"from": "DANBRILLA"} implicit=True ps="robbing" sug=steals
+   Q: robbing Danbrilla of her special powers
+[P5-B-B0068-005] S=['ELDER RACES'] P=rules O=['UNIVERSE'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They ruled the universe for eons
+[P5-B-B0068-006] S=['ELDER RACES'] P=shatters O=['UNIVERSE'] MOD={"in_on_at": "GREAT DARKNESS"} implicit=True ps="brought it to destruction" sug=shatters
+   Q: they brought it to destruction in the Great Darkness
+[P5-B-B0068-007] S=['HUMANS'] P=rules O=[] implicit=False ps="reigned" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Since the Dawn humans have reigned.
+[P5-B-B0068-008] S=['MOSTALI'] P=serves O=['WORLD MACHINE'] implicit=False ps="components" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Mostali are free-thinking components of the World Machine.
+[P5-B-B0068-009] S=['MOSTALI'] P=comes into being O=[] MOD={"at_the_instigation_of": ["MOSTAL"], "purpose_clause": "to maintain the World Machine"} implicit=True ps="created" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Mostal the Maker created them to maintain it.
+[P5-B-B0068-010] S=['CLAY MOSTALI'] P=comes into being O=[] MOD={"in_on_at": "GREAT DARKNESS", "at_the_instigation_of": ["ANCIENT MOSTALI"]} implicit=False ps="constructed" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: the Ancient Mostali were nearly exterminated in the Great Darkness, they constructed a new race to help them: Clay Mostali
+[P5-B-B0068-011] S=['DWARVES'] P=is alternative name for O=['CLAY MOSTALI'] implicit=False ps="commonly known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Clay Mostali, commonly known as dwarves.
+[P5-B-B0068-012] S=['DWARVES'] P=serves O=['WORLD MACHINE'] implicit=False ps="repairing" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The dwarves have been repairing the World Machine ever since
+[P5-B-B0068-013] S=['ICE DAIMONES'] P=is alternative name for O=['HOLLRI'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Hollri, or ice daimones
+[P5-B-B0068-014] S=['HOLLRI'] P=travels O=[] MOD={"to": ["FRONELA", "PENT"]} implicit=True ps="travel" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: they sometimes travel south to Fronela or Pent

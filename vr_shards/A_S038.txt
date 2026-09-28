@@ -1,0 +1,300 @@
+[P5-A-B0118-024] S=['INORA'] P=binds O=['YELMALIO'] implicit=True ps="leaves him spurned and frozen immobile" sug=binds
+   Q: Inora, the White Princess, leaves him spurned and frozen immobile.
+[P5-A-B0118-025] S=['THE WHITE PRINCESS'] P=is alternative name for O=['INORA'] implicit=False ps="Inora, the White Princess" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Inora, the White Princess
+[P5-A-B0118-026] S=['ORLANTH'] P=protects O=['ISSARIES DESERT TRACKER'] MOD={"to": "HALLS OF GENERT"} implicit=False ps="accompany" sug=one of: protects, rescues / frees, aids
+   Q: Orlanth must always accompany an Issaries Desert Tracker on a Heroquest to the empty Halls of Genert to stand guard against hopeless odds
+[P5-A-B0118-027] S=['ARKAT'] P=fights O=['GBAJI'] implicit=False ps="war to destroy" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Throughout Arkat's war to destroy Gbaji he performed many cult Heroquests he learned from his new gods.
+[P5-A-B0118-028] S=['ARKAT'] P=re-enacts O=['CULT HEROQUESTS'] MOD={"from": "NEW GODS OF ARKAT"} implicit=False ps="performed many cult Heroquests" sug=re-enacts
+   Q: Throughout Arkat's war to destroy Gbaji he performed many cult Heroquests he learned from his new gods.
+[P5-A-B0118-029] S=['ARKAT'] P=discovers O=['SECRET PATHS'] implicit=False ps="discovered" sug=discovers
+   Q: During this period Arkat discovered the Secret Paths.
+[P5-A-B0118-030] S=['ARKAT'] P=departs from O=['SET CULT PATHS'] implicit=True ps="departed" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Boldly, he departed the set cult paths, despite the warnings of priestly elders.
+[P5-A-B0118-031] S=['ARKAT'] P=fights O=['THE FORCES OF GBAJI'] implicit=True ps="his fight against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: eminently successful in obtaining weapons, tools, and allies to help his fight against the forces of Gbaji.
+[P5-A-B0118-032] S=['ARKAT', 'FOLLOWERS OF ARKAT'] P=discovers O=['HERO PLANE'] implicit=True ps="mapped portions of" sug=discovers
+   Q: He and his followers mapped portions of the Hero Plane, naming the denizens and routes.
+[P5-A-B0118-033] S=['GOD LEARNERS'] P=discovers O=['THE OTHER SIDE'] MOD={"in_on_at": "JRUSTELA"} implicit=False ps="set out to discover" sug=discovers
+   Q: In the Second Age, an informal fellowship of sorcerers and priests in Jrustela, called the God Learners, set out to discover all they could about the Other Side and its powers and denizens.
+[P5-A-B0118-034] S=['GOD LEARNERS'] P=claims ancestry O=['MALKIONI PHILOSOPHERS'] implicit=True ps="stemmed from" sug=claims ancestry
+   Q: They stemmed from Malkioni philosophers who insisted on the ultimate impersonality of the universe
+[P5-A-B0118-035] S=['GOD LEARNERS'] P=enters Godtime / Otherworld O=[] MOD={"purpose_clause": "to identify and define the gods, spirits, and other powers of the world"} implicit=False ps="performed experimental Heroquests" sug=enters Godtime / Otherworld
+   Q: The God Learners performed experimental Heroquests in order to identify and define the gods, spirits, and other powers of the world
+[P5-A-B0118-036] S=['GOD LEARNERS'] P=alters mythic station O=['GOD TIME'] implicit=False ps="sought to reconstruct and impose their will upon" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: By doing this, the God Learners sought to reconstruct and impose their will upon the mythical realities of the God Time.
+[P5-A-B0118-037] S=['GOD LEARNERS'] P=discovers O=['SIMILAR MYTHS AND GODS'] implicit=True ps="discovered" sug=discovers
+   Q: they discovered that many religions contained amazingly similar myths and gods
+[P5-A-B0118-038] S=['BELINTAR', 'THE MASTERS OF LUCK AND DEATH'] P=rules O=['HOLY COUNTRY'] MOD={"via": ["CREATIVE HEROQUESTS"]} implicit=False ps="secured rule of that land" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the Holy Country, Belintar and the Masters of Luck and Death are widely believed to have secured rule of that land through a series of creative Heroquests.
+[P5-A-B0118-039] S=['HARREK THE BERSERK', 'JAR-EEL', 'ETHILRIST', 'MERIATAN', 'GARUNDYER', 'ARGRATH'] P=enters Godtime / Otherworld O=[] implicit=False ps="are all past masters of creative Heroquesting" sug=enters Godtime / Otherworld
+   Q: Such Heroes as Harrek the Berserk, Jar-eel the Razoress, Ethilrist, Meriatan, Garundyer, and, of course, Argrath Dragonlord, are all past masters of creative Heroquesting.
+[P5-A-B0119-001] S=['ARKAT'] P=fights O=['DORASTOR'] implicit=False ps="assault on" sug=invades / raids
+   Q: The picture depicts Arkat's assault on Dorastor.
+[P5-A-B0119-002] S=['ARKAT'] P=rides O=['STORM CLOUD'] implicit=False ps="riding" sug=rides
+   Q: riding a storm cloud, is the semihuman Arkat
+[P5-A-B0119-003] S=['ARKAT'] P=is conflated with O=['REBELLUS TERMINUS'] implicit=True ps="is iconographically similar to" sug=one of: is identified as, is worshipped by, is part of
+   Q: He is iconographically similar to how the Dara Happans depict Rebellus Terminus
+[P5-A-B0119-004] S=['DARK TROLL'] P=fights O=['DORASTOR'] implicit=False ps="Leading the attack on" sug=invades / raids
+   Q: Leading the attack on Dorastor is a club-wielding dark troll.
+[P5-A-B0119-005] S=['NYSALOR'] P=manifests O=['MOON RUNE', 'CHAOS RUNE'] implicit=True ps="halo of illumination forming" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: his halo of illumination forming a Moon Rune and a Chaos Rune (both likely Lunar touches)
+[P5-A-B0119-006] S=['NYSALOR'] P=is conflated with O=['RASHORAN', 'GBAJI', 'ARKAT'] implicit=False ps="variously identified as" sug=one of: is identified as, is worshipped by, is part of
+   Q: associated with a divine being or beings variously identified as Rashoran, Nysalor, Gbaji, and Arkat
+[P5-A-B0119-007] S=['RASHORANA'] P=teaches O=['ILLUMINATION'] implicit=True ps="was the first to develop and teach" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Some say that a goddess called Rashorana, who was either the last of the gods born, or the first of the Chaos creations, was the first to develop and teach this philosophy.
+[P5-A-B0119-008] S=['RASHORANA'] P=comes into being O=['RASHORANA'] implicit=True ps="was either the last of the gods born, or the first of the Chaos creations" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: who was either the last of the gods born, or the first of the Chaos creations
+[P5-A-B0119-009] S=['GOD OF ENTROPY'] P=kills O=['RASHORANA'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: She is said to have been killed by the god of entropy during the Great Darkness.
+[P5-A-B0119-010] S=['OSENTALKA'] P=comes into being O=['OSENTALKA'] MOD={"at_the_instigation_of": ["THE MORTAL RACES"]} implicit=False ps="built a new god" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: the mortal races successfully built a new god, Osentalka
+[P5-A-B0119-011] S=['NYSALOR'] P=is alternative name for O=['OSENTALKA'] implicit=False ps="later called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Osentalka, "The Perfect One," later called Nysalor
+[P5-A-B0119-012] S=['THE PERFECT ONE'] P=is alternative name for O=['OSENTALKA'] implicit=False ps="epithet" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Osentalka, "The Perfect One,"
+[P5-A-B0119-013] S=['THE BRIGHT ONE'] P=is alternative name for O=['NYSALOR'] implicit=False ps="epithet" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Nysalor, "The Bright One."
+[P5-A-B0119-014] S=['GBAJI'] P=is alternative name for O=['NYSALOR'] MOD={"in_on_at": ["WESTERN GENERTELA", "DRAGON PASS"]} implicit=False ps="came to be called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: western Genertela and Dragon Pass, the divine being came to be called Gbaji
+[P5-A-B0119-015] S=['THE DECEIVER', 'DAMNED LIAR'] P=is alternative name for O=['GBAJI'] implicit=False ps="a vulgar word meaning" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Gbaji, a vulgar word meaning "The Deceiver" or "Damned Liar."
+[P5-A-B0119-016] S=['NYSALOR', 'RIDDLERS'] P=teaches O=['ILLUMINATION'] MOD={"in_on_at": "GENERTELA"} implicit=True ps="spread their version of this philosophy across" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The new god and his disciples, commonly known as Riddlers, spread their version of this philosophy across much of Genertela
+[P5-A-B0119-017] S=['RIDDLERS'] P=serves O=['NYSALOR'] implicit=True ps="his disciples" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The new god and his disciples, commonly known as Riddlers
+[P5-A-B0119-018] S=['ARKAT'] P=fights O=['NYSALOR', 'FOLLOWERS OF NYSALOR'] implicit=False ps="fought a great war against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Arkat the Liberator fought a great war against Nysalor and his followers, spending three generations in the task
+[P5-A-B0119-019] S=['THE LIBERATOR'] P=is alternative name for O=['ARKAT'] implicit=False ps="epithet" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Arkat the Liberator
+[P5-A-B0119-020] S=['ARKAT'] P=defeats O=['NYSALOR'] implicit=True ps="final victory" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: leaving a trail of cinders across the continent before his final victory
+[P5-A-B0119-021] S=['LUNAR EMPIRE'] P=serves O=['NYSALOR'] implicit=False ps="is revered in" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Nysalor is revered in today's Lunar Empire
+[P5-A-B0119-022] S=['RED GODDESS'] P=travels O=['UNDERWORLD'] implicit=False ps="undertook a great quest and in her journey sought passage" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the Red Goddess undertook a great quest and in her journey sought passage beyond an empty shadow in the Underworld
+[P5-A-B0119-023] S=['RED GODDESS'] P=defeats O=['EMPTY SHADOW'] MOD={"in_on_at": "UNDERWORLD"} implicit=True ps="engaged it, defeated it" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: She engaged it, defeated it
+[P5-A-B0119-024] S=['NYSALOR'] P=illuminates O=['RED GODDESS'] implicit=True ps="became Illuminated by" sug=illuminates
+   Q: in the process became Illuminated by the god Nysalor
+[P5-A-B0119-025] S=['CULT OF NYSALOR'] P=is conflated with O=['CULT OF THE RED GODDESS'] implicit=False ps="have become integral to" sug=one of: is identified as, is worshipped by, is part of
+   Q: the beliefs of the cult of Nysalor, including the philosophy of Illumination, have become integral to the cult of the Red Goddess
+[P5-A-B0119-026] S=['WORSHIPERS OF THE RED GODDESS', 'WORSHIPERS OF THE SEVEN MOTHERS', 'WORSHIPERS OF THE WHITE MOON'] P=is member of O=['ILLUMINATES'] MOD={"in_on_at": "LUNAR EMPIRE"} implicit=True ps="the philosophy is widespread among" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: In the Lunar Empire, the philosophy is widespread among worshipers of the Red Goddess, the Seven Mothers, and the White Moon
+[P5-A-B0119-027] S=['THE NEAR ONES'] P=is member of O=['ILLUMINATES'] implicit=False ps="are also thought to be" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Near Ones or Friends of Pamalt are also thought to be Illuminates by some.
+[P5-A-B0119-028] S=['FRIENDS OF PAMALT'] P=is alternative name for O=['THE NEAR ONES'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Near Ones or Friends of Pamalt
+[P5-A-B0119-029] S=['ARGRATH'] P=teaches O=['ILLUMINATION'] MOD={"in_accordance_with": ["ARKAT"]} implicit=False ps="is believed to teach" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Even Argrath is believed to teach a form of Illumination, based on Arkat's teachings instead of Nysalor's.
+[P5-A-B0119-030] S=['ARGRATH'] P=teaches O=["ARGRATH'S WARLOCKS"] implicit=False ps="teaches" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The secret magical insights Argrath teaches his warlocks should also be considered a form of Illumination.
+[P5-A-B0119-031] S=['SAMASTINA'] P=bestows magic / gifts O=['ARGRATH'] MOD={"in_on_at": "SAMASTINA'S PALACE"} implicit=False ps="gives hospitality" sug=one of: bestows, heals, imbues, teaches
+   Q: Samastina gives Argrath hospitality in her palace after the Battle of Pennel Ford
+[P5-A-B0119-032] S=['BAGOG TWO-BARB'] P=rules O=["LARNSTE'S FOOTPRINT"] implicit=False ps="Scorpion Queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Scorpion Queen Bagog Two-Barb of Larnste's Footprint, a Chaotic demigoddess
+[P5-A-B0119-033] S=['SCORPION QUEEN'] P=is alternative name for O=['BAGOG TWO-BARB'] implicit=False ps="title" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Scorpion Queen Bagog Two-Barb
+[P5-A-B0119-034] S=['BAGOG TWO-BARB'] P=manifests chaos taint O=['BAGOG TWO-BARB'] implicit=False ps="a Chaotic demigoddess" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Bagog Two-Barb of Larnste's Footprint, a Chaotic demigoddess
+[P5-A-B0119-035] S=['ARGRATH'] P=travels O=['COURT OF SILENCE'] MOD={"at_the_instigation_of": ["HARREK"]} implicit=False ps="had been to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Argrath had been to the Court of Silence before ("several times, mainly thanks to Harrek's short temper," he confided).
+[P5-A-B0119-036] S=['ARGRATH'] P=teaches O=['SAMASTINA'] implicit=True ps="advised" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Argrath advised her to confront the goddess Asrelia and invoke her right to reach into the goddess' Dancing Jar three times.
+[P5-A-B0119-037] S=['DANCING JAR'] P=survives as relic O=['ASRELIA'] implicit=True ps="the goddess' Dancing Jar" sug=survives as relic
+   Q: the goddess' Dancing Jar
+[P5-A-B0120-001] S=['NEW GODS'] P=teaches O=['NYSALOREAN RIDDLES'] implicit=False ps="as explained by" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The Lunar Sevening Rites, which use Nysalorean Riddles as explained by the New Gods of the Lunar Way, are the easiest and most common path to Illumination in the Third Age.
+[P5-A-B0120-002] S=['RED EMPEROR'] P=is identified as O=['ILLUMINATED DEMIGOD'] implicit=False ps="(an Illuminated demigod)" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Red Emperor (an Illuminated demigod)
+[P5-A-B0120-003] S=['ARKAT'] P=teaches O=['THE ILLUMINATE'] implicit=False ps="guided by Arkat's teachings" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: It depicts an Illuminate who has been guided by Arkat's teachings to transcend the struggles and woes of the Gods War.
+[P5-A-B0120-004] S=['THE ANCIENT CURSE'] P=alters mythic station O=['TROLLS'] implicit=False ps="has turned the slow-breeding trolls into a fading race" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The ancient curse resulting from the Gbaji Wars has turned the slow-breeding trolls into a fading race.
+[P5-A-B0120-005] S=['ELDER RACES'] P=rules O=['GLORANTHA'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They ruled Glorantha before the rise of men
+[P5-A-B0120-006] S=['ELDER RACES'] P=shatters O=['GLORANTHA'] MOD={"in_on_at": "GREAT DARKNESS"} implicit=True ps="brought it to destruction" sug=shatters
+   Q: brought it to destruction in the Great Darkness that ruined them.
+[P5-A-B0120-007] S=['ELDER RACES'] P=fights O=['ELDER RACES'] implicit=True ps="have warred" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: They harbor permanent resentments against each other and have warred since Time began.
+[P5-A-B0120-008] S=['ELVES', 'DRYADS', 'PIXIES', 'RUNNERS'] P=is member of O=['ALDRYAMI'] implicit=False ps="consists of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The race known as the Aldryami consists of elves, dryads, pixies, and runners.
+[P5-A-B0120-009] S=['ALDRYAMI'] P=claims ancestry O=['PLANTS'] implicit=True ps="claim a kinship to" sug=claims ancestry
+   Q: They are connected to the Plant Rune, and claim a kinship to plants.
+[P5-A-B0120-010] S=['ALDRYAMI'] P=fights O=['TROLLS'] implicit=False ps="their eternal enemies" sug=hates
+   Q: Like their eternal enemies, the trolls, the Aldryami are vulnerable to iron
+[P5-A-B0120-011] S=['DWARVES'] P=is alternative name for O=['MOSTALI'] implicit=False ps="Also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Also called dwarves, the Mostali are underground dwelling artificers
+[P5-A-B0120-012] S=['MOSTALI'] P=fights O=['ELVES'] implicit=True ps="are continually at war with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: They are continually at war with the elves and no friend to trolls.
+[P5-A-B0120-013] S=['MOSTALI', 'ELVES'] P=serves O=['EARTH'] implicit=True ps="are basically worshippers of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: However, both are basically worshippers of Earth (though in two entirely different aspects) and will combine against the forces of Darkness, as represented by trolls.
+[P5-A-B0120-014] S=['MOSTALI', 'ELVES'] P=fights O=['THE FORCES OF DARKNESS'] implicit=True ps="will combine against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: will combine against the forces of Darkness, as represented by trolls.
+[P5-A-B0120-015] S=['MOSTALI'] P=serves O=['MOSTAL'] implicit=True ps="follow the ways of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: as long as they follow the ways of Mostal.
+[P5-A-B0120-016] S=['MOSTALI'] P=discovers O=['IRON'] implicit=True ps="were the discoverers of" sug=discovers
+   Q: They were the discoverers of iron and were the first to learn to work it.
+[P5-A-B0120-017] S=['IRON DWARVES'] P=is member of O=['DWARVES'] implicit=False ps="the soldier caste" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Only the soldier caste – the Iron Dwarves – is regularly seen outside their underground cities.
+[P5-A-B0120-018] S=['TROLLS', 'DARK MEN', 'MEN OF DARKNESS'] P=is alternative name for O=['UZ'] implicit=False ps="are called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Uz are called trolls, dark men, or Men of Darkness by humans.
+[P5-A-B0120-019] S=['UZ'] P=embodies O=['DARKNESS RUNE'] implicit=True ps="tied to" sug=one of: embodies, has domain
+   Q: It is an ancient race, tied to the Darkness Rune, and was old in God Time, when age could not be measured.
+[P5-A-B0120-020] S=['HUMANS', 'ELVES'] P=bestows geas O=['DRAGONEWTS', 'UZ'] MOD={"in_on_at": "BROKEN COUNCIL"} implicit=True ps="the combined curses of the humans and elves assailed" sug=curses
+   Q: the combined curses of the humans and elves assailed both dragonewt and Uz for their supposed treason
+[P5-A-B0120-021] S=['TRUE DRAGON'] P=swallows / consumes O=['THE CURSE'] MOD={"at_the_instigation_of": ["DRAGONEWTS"]} implicit=False ps="to devour" sug=swallows / consumes
+   Q: The dragonewts called on a True Dragon to devour the curse
+[P5-A-B0120-022] S=['TROLLKIN'] P=is born from O=['UZ'] implicit=False ps="doomed to give birth to" sug=is born from
+   Q: As a result, they have been doomed to give birth to trollkin, a stunted mockery of the mighty troll frame.
+[P5-A-B0120-023] S=['TROLLS'] P=flees to O=['DRAGON PASS', 'SHADOWS DANCE'] implicit=False ps="took refuge in" sug=flees to
+   Q: After the Dragonkill War, trolls took refuge in Dragon Pass and Shadows Dance, retreating into Shadows Dance when more humans moved back into the pass.
+[P5-A-B0120-024] S=['UZ'] P=fights O=['ELVES', 'DWARVES'] implicit=True ps="at perpetual war with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: They are now principally a mountain-dwelling race, at perpetual war with elves and dwarves, and dealing with man as the occasion demands.
+[P5-A-B0120-025] S=['GREAT TROLLS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["CRAGSPIDER"], "purpose_clause": "TO PROTECT"} implicit=True ps="was created by" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: This breed of Uz was created by Cragspider the Firewitch for her personal bodyguard.
+[P5-A-B0120-026] S=['FIREWITCH'] P=is alternative name for O=['CRAGSPIDER'] implicit=False ps="the Firewitch" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Cragspider the Firewitch
+[P5-A-B0120-027] S=['GREAT TROLLS'] P=is born from O=['DARK TROLLS'] implicit=True ps="spawned" sug=is born from
+   Q: They are larger than the dark trolls that spawned them
+[P5-A-B0120-028] S=['UZ'] P=claims ancestry O=['MISTRESS RACE TROLLS'] implicit=True ps="from whom all others derive" sug=claims ancestry
+   Q: These are the original uz, from whom all others derive.
+[P5-A-B0120-029] S=['GREAT CURSE'] P=alters mythic station O=['MISTRESS RACE TROLLS'] implicit=True ps="their numbers have steadily dwindled" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Due to the Great Curse, their numbers have steadily dwindled
+[P5-A-B0120-030] S=['MISTRESS RACE TROLLS'] P=rules O=['TROLLS'] implicit=False ps="will hold the positions of power" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Where they do exist, Mistress Race trolls will hold the positions of power.
+[P5-A-B0120-031] S=['CAVE TROLLS'] P=claims ancestry O=['TROLLS'] implicit=True ps="is descended from" sug=claims ancestry
+   Q: This monstrous, bestial species is descended from trolls mutated by Chaos in the Great Darkness.
+[P5-A-B0120-032] S=['CHAOS'] P=poisons with chaos O=['TROLLS'] MOD={"in_on_at": "GREAT DARKNESS"} implicit=False ps="mutated by" sug=corrupts
+   Q: trolls mutated by Chaos in the Great Darkness.
+[P5-A-B0120-033] S=['CAVE TROLLS'] P=manifests chaos taint O=[] implicit=True ps="tainted by Chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Though tainted by Chaos, they are admitted to the kinship of other trolls
+[P5-A-B0120-034] S=['IRONHOOF'] P=rules O=['BEAST MEN', 'MAN BEASTS'] implicit=True ps="their king is" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: their king is the centaur Hero, Ironhoof, son of the Mistress of Animals.
+[P5-A-B0120-035] S=['IRONHOOF'] P=is child of O=['MISTRESS OF ANIMALS'] implicit=False ps="son of" sug=is child of
+   Q: Ironhoof, son of the Mistress of Animals.
+[P5-A-B0120-036] S=['BEAST CULT'] P=embodies O=['FERTILITY RUNE', 'BEAST RUNE'] implicit=True ps="The Runes of the Beast cult are" sug=one of: embodies, has domain
+   Q: The Runes of the Beast cult are Fertility and Beast.
+[P5-A-B0120-037] S=['DUCKS'] P=is member of O=['TRIBES OF SARTAR'] implicit=True ps="are accounted one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: They are accounted one of the tribes of Sartar.
+[P5-A-B0120-038] S=['THE GODS'] P=bestows geas O=['DUCKS'] MOD={"in_on_at": "GREAT DARKNESS"} implicit=False ps="were cursed by" sug=curses
+   Q: The ducks were cursed by the gods during the Great Darkness for not joining with them to fight versus the forces of Chaos.
+[P5-A-B0121-001] S=['TELMORI'] P=is alternative name for O=['WOLF BROTHERS'] implicit=True ps="also known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Also known as Telmori, they are the Gloranthan werewolves.
+[P5-A-B0121-002] S=['TELMORI'] P=is identified as O=['GLORANTHAN WEREWOLVES'] implicit=False ps="they are" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Also known as Telmori, they are the Gloranthan werewolves.
+[P5-A-B0121-003] S=['TELMORI'] P=manifests chaos taint O=['CHAOS'] implicit=False ps="are tainted by" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: The Telmori Wolf Brothers are tainted by Chaos
+[P5-A-B0121-004] S=['TELMORI'] P=transforms into O=['BEAST FORM'] MOD={"in_on_at": "WILDDAY"} implicit=False ps="must change to" sug=transforms into
+   Q: on Wildday, which happens to be the night of the Full Moon in Dragon Pass, the Telmori must change to their beast form and roam the countryside.
+[P5-A-B0121-005] S=['TELMORI'] P=is member of O=['TRIBES OF SARTAR'] implicit=False ps="are one of the tribes of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Despite their Chaos taint, the Telmori Wolf Brothers are one of the tribes of Sartar and loyal to the House of Sartar.
+[P5-A-B0121-006] S=['TELMORI'] P=serves O=['HOUSE OF SARTAR'] implicit=False ps="loyal to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Despite their Chaos taint, the Telmori Wolf Brothers are one of the tribes of Sartar and loyal to the House of Sartar.
+[P5-A-B0121-007] S=['TUSK RIDERS'] P=claims ancestry O=['HUMANS'] implicit=True ps="have human ancestry" sug=claims ancestry
+   Q: That they have human ancestry is obvious, but the mark of the trolls is upon them as well.
+[P5-A-B0121-008] S=['TUSK RIDERS'] P=is member of O=['CULT OF THE BLOODY TUSK'] implicit=True ps="Their Cult of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Their Cult of the Bloody Tusk demands blood drinking and further abominations.
+[P5-A-B0121-009] S=['TUSK RIDERS'] P=rides O=['TUSKERS'] implicit=False ps="ride" sug=rides
+   Q: The tusk riders ride tuskers and fight with lance and spear.
+[P5-A-B0121-010] S=['SKY BULLS'] P=is child of O=['STORM BULL', 'MORTAL HEIFERS'] implicit=True ps="are the offspring of" sug=is child of
+   Q: They are the offspring of the Storm Bull (Storm God of Prax) and mortal heifers.
+[P5-A-B0121-011] S=['STORM BULL'] P=is identified as O=['STORM GOD OF PRAX'] implicit=False ps="(Storm God of Prax)" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Storm Bull (Storm God of Prax)
+[P5-A-B0121-012] S=['TUSK RIDERS'] P=rides O=['TUSKERS'] implicit=False ps="ridden only by" sug=rides
+   Q: Tuskers Gigantic boars as big as buffalo, ridden only by tusk riders.
+[P5-A-B0121-013] S=['DINOSAURS'] P=claims ancestry O=['FAILED DRAGONEWTS'] implicit=False ps="descended from" sug=claims ancestry
+   Q: Dinosaurs are a neotenic species descended from failed dragonewts who became entrapped in material flesh.
+[P5-A-B0121-014] S=['FAILED DRAGONEWTS'] P=alters mythic station O=['MATERIAL FLESH'] implicit=False ps="became entrapped in" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: failed dragonewts who became entrapped in material flesh.
+[P5-A-B0121-015] S=['DINOSAURS'] P=manifests O=['EARTH RUNE'] implicit=True ps="are associated with" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: They are associated with the Earth Rune and are sacred to the Maran Gor cult.
+[P5-A-B0121-016] S=['DINOSAURS'] P=serves O=['MARAN GOR CULT'] implicit=True ps="are sacred to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They are associated with the Earth Rune and are sacred to the Maran Gor cult.
+[P5-A-B0121-017] S=['TRUE DRAGONS'] P=enters Godtime / Otherworld O=['GOD TIME'] implicit=False ps="dreaming of greater days during the God Time" sug=enters Godtime / Otherworld
+   Q: The True Dragons for which Dragon Pass is named are immense creatures whose main occupation is sleeping, dreaming of greater days during the God Time
+[P5-A-B0121-018] S=['TRUE DRAGONS'] P=swallows / consumes O=['EMISSARIES'] implicit=True ps="eats" sug=swallows / consumes
+   Q: If the dragon likes an emissary, he joins its side. If he doesn't, he eats him.
+[P5-A-B0121-019] S=['DREAMING THOUGHT OF A DRAGON'] P=travels O=[] MOD={"in_on_at": "GLORANTHA"} implicit=False ps="can wander about" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The dreaming thought of a dragon can wander about the entirety of Glorantha at will
+[P5-A-B0121-020] S=['DREAMS OF A DRAGON'] P=transforms into O=['MIND CHILD'] implicit=False ps="take tangible form as" sug=transforms into
+   Q: His dreams take tangible form as a sort of "mind child" of the dragon.
+[P5-A-B0121-021] S=['WYRMS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["SECOND COUNCIL"], "purpose_clause": "to create new dragons"} implicit=True ps="The result of a misguided attempt" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The result of a misguided attempt by the Second Council to create new dragons after the ancestral dragons either went away or went to sleep.
+[P5-A-B0121-022] S=['ANCESTRAL DRAGONS'] P=departs from O=[] implicit=False ps="either went away or went to sleep" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: after the ancestral dragons either went away or went to sleep.
+[P5-A-B0121-023] S=['KOLATI'] P=is alternative name for O=['AIR ELEMENTALS'] implicit=False ps="commonly called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Air elementals (commonly called kolati) resemble mobile whirlwinds.
+[P5-A-B0121-024] S=['UMBROLI'] P=is alternative name for O=['MORE POWERFUL AND SENTIENT AIR ELEMENTALS'] implicit=False ps="are called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: More powerful and sentient Air elementals are called umbroli and are living winds.
+[P5-A-B0121-025] S=['SEVEN WINDS OF DRAGON PASS'] P=is member of O=['STRONGEST UMBROLI'] implicit=False ps="such as" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The strongest umbroli are minor gods, such as the Seven Winds of Dragon Pass, and are worshiped by local clans and tribes.
+[P5-A-B0121-026] S=['LOCAL CLANS AND TRIBES'] P=serves O=['STRONGEST UMBROLI'] implicit=False ps="are worshiped by" sug=is worshipped by
+   Q: The strongest umbroli are minor gods, such as the Seven Winds of Dragon Pass, and are worshiped by local clans and tribes.
+[P5-A-B0121-027] S=['DEHORI', 'SHADES'] P=is alternative name for O=['DARKNESS ELEMENTALS'] implicit=False ps="commonly called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Darkness elementals (commonly called dehori or shades) are pools of darkness, and are supernaturally cold.
+[P5-A-B0121-028] S=['TROLLS'] P=serves O=['DEHORI'] implicit=False ps="are worshiped by" sug=is worshipped by
+   Q: More powerful and sentient Darkness elementals are also called dehori. || They are worshiped by the trolls as their ancestors.
+[P5-A-B0121-029] S=['TROLLS'] P=claims ancestry O=['DEHORI'] implicit=False ps="as their ancestors" sug=claims ancestry
+   Q: More powerful and sentient Darkness elementals are also called dehori. || They are worshiped by the trolls as their ancestors.
+[P5-A-B0121-030] S=["HUGE SHADOWS OF SHADOW'S DANCE"] P=is identified as O=['DEHORI'] MOD={"in_on_at": "SHADOW'S DANCE"} implicit=False ps="are immense dehori" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: It is widely believed that the huge shadows that wander around Shadow's Dance are immense dehori.
+[P5-A-B0121-031] S=['URZANI'] P=is alternative name for O=['FIRE ELEMENTALS'] implicit=False ps="commonly called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Fire elementals (commonly called urzani) animate an existing flame
+[P5-A-B0121-032] S=['LUXITES', 'SHANASSAE', 'CERTAMI'] P=is alternative name for O=['MORE POWERFUL AND SENTIENT FIRE ELEMENTALS'] MOD={"in_on_at": "SKY WORLD"} implicit=False ps="are commonly called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: More powerful and sentient Fire elementals live in the Sky World. || They are commonly called Luxites, shanassae, or certami, and are worshiped by many Sky cults.
+[P5-A-B0121-033] S=['MANY SKY CULTS'] P=serves O=['LUXITES'] implicit=False ps="are worshiped by" sug=is worshipped by
+   Q: They are commonly called Luxites, shanassae, or certami, and are worshiped by many Sky cults.
+[P5-A-B0121-034] S=['NYMPHS'] P=embodies O=['CONSCIOUSNESS OF VARIOUS PLACES OF NATURE'] implicit=False ps="are feminine manifestations of" sug=one of: embodies, has domain
+   Q: Nymphs are feminine manifestations of the consciousness of various places of nature such as a hill, lake, meadow, or river.
+[P5-A-B0121-035] S=['NYMPHS'] P=manifests O=['HUMAN-LIKE BODY'] MOD={"from": "SUBSTANCE OF HER HOME"} implicit=False ps="can form" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: At will, a nymph can form (or dissipate) a human-like body from the substance of her home.
+[P5-A-B0121-036] S=['NYMPHS'] P=manifests O=['PRIMAL MAGIC OF FERTILITY AND DESIRE'] implicit=False ps="adeptly manifest" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Nymphs adeptly manifest the primal magic of fertility and desire
+[P5-A-B0121-037] S=['NYMPHS'] P=is identified as O=['LESSER GODDESSES'] implicit=False ps="are" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Nymphs are lesser goddesses.
+[P5-A-B0121-038] S=['NYMPHS'] P=rules O=['SPIRITS OF THEIR HOME'] implicit=True ps="usually rule" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They can sense all spirits within their home area and usually rule the spirits of their home.
+[P5-A-B0121-039] S=['SHAMANS', 'LOCAL EARTH CULT'] P=serves O=['SOME NYMPHS'] implicit=False ps="are worshiped by" sug=is worshipped by
+   Q: Some nymphs are so powerful that they are worshiped by shamans or a local Earth cult.
+[P5-A-B0121-040] S=['COSMIC COMPROMISE'] P=protects O=['UNIVERSE'] IO=['CHAOS'] implicit=False ps="prevented Chaos from consuming" sug=one of: protects, rescues / frees, aids
+   Q: Only the Cosmic Compromise prevented Chaos from consuming the universe.
+[P5-A-B0121-041] S=['WORLD'] P=comes into being O=[] MOD={"from": "CHAOS"} implicit=False ps="randomly arose from" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: As the world randomly arose from Chaos, so Chaos may randomly reassert itself.
+[P5-A-B0121-042] S=['WAKBOTH'] P=travels O=[] MOD={"to": "GLORANTHA", "with_the_aid_of": ["UNHOLY TRIO"]} implicit=False ps="allowed Wakboth to enter" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Chaos can be deliberately summoned, as when the Unholy Trio allowed Wakboth to enter Glorantha.
+[P5-A-B0121-043] S=['DRAGON SNAILS'] P=comes into being O=[] implicit=True ps="Created" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Created in the Great Darkness of the Gods War when the Spire of Law exploded
+[P5-A-B0121-044] S=['SPIRE OF LAW'] P=shatters O=[] implicit=False ps="exploded" sug=shatters
+   Q: when the Spire of Law exploded
+[P5-A-B0121-045] S=['THE BLOCK'] P=binds O=['THE DEVIL'] MOD={"in_on_at": "PLAINS OF PRAX"} implicit=False ps="was pinned beneath" sug=binds
+   Q: the Devil was pinned in the Plains of Prax beneath the fragment known as The Block.
+[P5-A-B0121-046] S=['DRAGON SNAILS'] P=manifests chaos taint O=['CHAOS'] implicit=True ps="are Chaotic" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: These are giant, dragonheaded snails, often having two heads. || They are Chaotic
+[P5-A-B0121-047] S=['CHAOS RUNE'] P=poisons with chaos O=['MANY CREATURES OF CHAOS'] implicit=False ps="have been warped, corrupted, and perverted by" sug=corrupts
+   Q: Many creatures of Chaos have been warped, corrupted, and perverted by the Chaos Rune.
+[P5-A-B0121-048] S=['STORM BULL CULT'] P=fights O=['CHAOS FOES'] implicit=False ps="regularly stand against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: People tolerate the Storm Bull cult precisely because they regularly stand against Chaos foes.
+[P5-A-B0121-049] S=['DRAGON SNAILS'] P=manifests chaos taint O=['CHAOS'] implicit=True ps="are Chaos creatures" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: These are Chaos creatures with many individual characteristics known as Chaotic Features.
+[P5-A-B0121-050] S=['DRAGON SNAILS'] P=is identified as O=['PARTS OF THE DEVIL'] implicit=True ps="are known as pieces of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: They are known as pieces of the "Parts of the Devil."
+[P5-A-B0121-051] S=['OGRES'] P=claims ancestry O=['HUMAN TRIBE'] implicit=True ps="originated as" sug=claims ancestry
+   Q: They are thought to have originated as a human tribe which took the side of Chaos during the Great Darkness.
+[P5-A-B0121-052] S=['HUMAN TRIBE'] P=serves O=['CHAOS'] implicit=False ps="took the side of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They are thought to have originated as a human tribe which took the side of Chaos during the Great Darkness.
+[P5-A-B0121-053] S=['OGRES'] P=manifests chaos taint O=['CHAOS'] implicit=True ps="is always tainted with" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: They can join any Rune Cult but their outlook on life is always tainted with Chaos.
+[P5-A-B0121-054] S=['COLOSSAL FLYING CHAOS DEMON'] P=serves O=['LUNAR EMPIRE'] implicit=False ps="has magical weapons such as" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Lunar Empire has magical weapons such as a colossal flying Chaos demon that devours entire armies
+[P5-A-B0121-055] S=['COLOSSAL FLYING CHAOS DEMON'] P=swallows / consumes O=['ENTIRE ARMIES'] implicit=False ps="devours" sug=swallows / consumes
+   Q: a colossal flying Chaos demon that devours entire armies
+[P5-A-B0121-056] S=['SLEEPING DRAGONS'] P=is conflated with O=['STRANGE RANGE OF HILLS'] MOD={"at_the_instigation_of": ["LOCALS"]} implicit=False ps="have long mistook for" sug=one of: is identified as, is worshipped by, is part of
+   Q: There are sleeping dragons many miles long that the locals have long mistook for a strange range of hills.
+[P5-A-B0122-001] S=['HARA ORANE'] P=is identified as O=['EARTH GODDESS'] implicit=False ps="a local Earth Goddess called" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: a local Earth Goddess called Hara Orane
+[P5-A-B0122-002] S=['HARA ORANE'] P=flees to O=['HOUSE OF THE DEAD'] MOD={"from": "LESSER DARKNESS"} implicit=False ps="fled from ... and withdrew into" sug=flees to
+   Q: In the Gods War, Hara Orane fled from the violence and destruction of the Lesser Darkness and withdrew into Ty Kora Tek's House of the Dead.
+[P5-A-B0122-003] S=['TY KORA TEK'] P=rules O=['HOUSE OF THE DEAD'] implicit=False ps="Ty Kora Tek's" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: withdrew into Ty Kora Tek's House of the Dead.

@@ -1,0 +1,300 @@
+[P5-A-B0150-062] S=['UZ'] P=rules O=['MUCH OF THE WORLD'] implicit=False ps="dominated" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the Gods War the Uz, or trolls, dominated much of the world.
+[P5-A-B0150-063] S=['YELM'] P=fights O=['KYGER LITOR'] MOD={"from": "UNDERWORLD"} implicit=False ps="driven out by" sug=exiles / banishes
+   Q: fled from the Underworld when Kyger Litor was driven out by the dead Yelm.
+[P5-A-B0150-064] S=['UZ'] P=departs from O=['UNDERWORLD'] implicit=True ps="fled from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: They are Underworld beings, creatures of the Darkness that fled from the Underworld
+[P5-A-B0150-065] S=['UZ'] P=fights O=['CHAOS'] implicit=True ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: They fought against chaos
+[P5-A-B0150-066] S=['GBAJI'] P=bestows geas O=['UZ'] implicit=False ps="cursed" sug=curses
+   Q: Gbaji cursed the race so that their females began to bear stunted mutants instead of proud uz.
+[P5-A-B0151-001] S=['THE DRAGONS'] P=rules O=['KRALORELA'] implicit=False ps="rule" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Dragons rule Kralorela.
+[P5-A-B0151-002] S=['GODUNYA'] P=is identified as O=['DIVINE DRAGON EMPEROR'] implicit=False ps="is the divine dragon emperor" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: At their head is the divine dragon emperor, Godunya.
+[P5-A-B0151-003] S=['HSIN TU'] P=comes into being O=[] MOD={"at_the_instigation_of": ["MIKADAY"], "purpose_clause": "to serve as bureaucrats and judges of Kralorela"} implicit=True ps="created" sug=conceives
+   Q: Emperor Mikaday created them to serve as bureaucrats and judges of Kralorela
+[P5-A-B0151-004] S=['MIKADAY'] P=transforms into O=['ORDINARY FARMER'] implicit=True ps="disguised himself as" sug=transforms into
+   Q: he disguised himself as an ordinary farmer
+[P5-A-B0151-005] S=['MIKADAY'] P=reveals O=['HIS LAWS'] MOD={"in_on_at": "STONE OBELISKS"} implicit=False ps="wrote down his laws" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: First Mikaday wrote down his laws on stone obelisks in every town for all to see.
+[P5-A-B0151-006] S=['MASTER CHON'] P=teaches O=['KUI HUI'] implicit=True ps="studied under" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: he has studied under Master Chon of the Hua Lochow lineage
+[P5-A-B0151-007] S=['KUI HUI'] P=defeats O=['GRABA KARTAK'] implicit=False ps="overcame it in combat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Graba Kartak the lobster demon terrorized the shores and bridges of the Suam Chow || Kui Hui overcame it in combat
+[P5-A-B0151-008] S=['GRABA KARTAK'] P=has monstrous form O=['LOBSTER DEMON'] implicit=False ps="the lobster demon" sug=has anomalous form (qual=monstrous)
+   Q: Graba Kartak the lobster demon
+[P5-A-B0151-009] S=['GODUNYA'] P=bestows magic / gifts O=['KUI HUI'] implicit=True ps="rewarded" sug=one of: bestows, heals, imbues, teaches
+   Q: He was rewarded by the Godunya
+[P5-A-B0151-010] S=['CAN SHU'] P=rules O=['WANZOW'] implicit=False ps="was the Exarch of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Can Shu was the Exarch of Wanzow province.
+[P5-A-B0151-011] S=['CAN SHU'] P=departs from O=['THE DRACONIC PATH'] implicit=True ps="renounced" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: He renounced the draconic path and became an antidragon.
+[P5-A-B0151-012] S=['CAN SHU'] P=transforms into O=['ANTIDRAGON'] implicit=True ps="became an antidragon" sug=transforms into
+   Q: He renounced the draconic path and became an antidragon.
+[P5-A-B0151-013] S=['CAN SHU'] P=sacrifices O=['OTHER EXILES'] IO=['HUAN TO'] implicit=False ps="fed them to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Many other exiles sought to dissuade him from this evil path; Can Shu fed them to the Huan To.
+[P5-A-B0151-014] S=['CAN SHU'] P=rules O=['CHERN DUREL'] implicit=False ps="was absolute master of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Within ten years Can Shu was absolute master of all parts of Chern Durel that could be ruled.
+[P5-A-B0151-015] S=['CAN SHU'] P=alters mythic station O=['GLORY OF IGNORANCE'] MOD={"in_on_at": "HSINGDAR"} implicit=True ps="crowned himself" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: He crowned himself Glory of Ignorance in an elaborate ceremony in Hsingdar, the Fortress of Benightenment.
+[P5-A-B0151-016] S=['CAN SHU'] P=shatters O=['ENCHANTMENTS OF THE ANCIENT EXARCHS'] MOD={"in_on_at": "CHERN DUREL"} implicit=False ps="has been destroying" sug=shatters
+   Q: Can Shu has been destroying the enchantments laid upon Chern Durel by the ancient exarchs.
+[P5-A-B0151-017] S=['CAN SHU'] P=establishes cult O=['BLACK SUN'] MOD={"in_on_at": "TEMPLES TO THE BLACK SUN"} implicit=True ps="reconsecrated the Temples to" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: He has reconsecrated the Temples to the Black Sun by lighting the fires that burn but cast no light
+[P5-A-B0151-018] S=['CAN SHU'] P=alters mythic station O=['AMETHYST DRAGON OF GREATER CHAOS'] MOD={"from": "ITS PRISON"} implicit=True ps="freed" sug=rescues / frees
+   Q: he has freed the Amethyst Dragon of Greater Chaos from its prison.
+[P5-A-B0151-019] S=['CAN SHU'] P=fights O=["GHOST OF SUN STORM'S THIRD EYE"] MOD={"in_on_at": "JANKLEY BORE"} implicit=True ps="is hunting down" sug=hunts
+   Q: Now he is hunting down the ghost of Sun Storm's Third Eye in Jankley Bore.
+[P5-A-B0151-020] S=['THE WORLD'] P=comes into being O=[] MOD={"at_the_instigation_of": ["GREAT DRAGONS"]} implicit=False ps="created" sug=conceives
+   Q: Great dragons created the world.
+[P5-A-B0151-021] S=['PEOPLE'] P=comes into being O=[] MOD={"at_the_instigation_of": ["GREAT DRAGONS"], "purpose_clause": "to inhabit the world"} implicit=True ps="made" sug=conceives
+   Q: They made people to inhabit the world.
+[P5-A-B0151-022] S=['THE GODS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["GREAT DRAGONS"], "purpose_clause": "to lead people to good rebirths and eventual dragonhood"} implicit=True ps="made" sug=conceives
+   Q: They made the gods to lead people to good rebirths and eventual dragonhood.
+[P5-A-B0151-023] S=['THE DEMONS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["GREAT DRAGONS"], "purpose_clause": "to drive people back to towards the dragons, or to punish those who would not"} implicit=True ps="made" sug=conceives
+   Q: They made the demons to drive people back to towards the dragons, or to punish those who would not.
+[P5-A-B0151-024] S=['THE EMPEROR DRAGON'] P=teaches O=['OTHERS'] MOD={"purpose_clause": "so they can teach others the draconic mysteries"} implicit=False ps="delayed their ascendance to the Cosmic Dragon so they can teach" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The Emperor Dragon and some others have delayed their ascendance to the Cosmic Dragon so they can teach others the draconic mysteries.
+[P5-A-B0151-025] S=['GODUNYA'] P=is identified as O=['THE EMPEROR'] implicit=False ps="The Emperor, Immortal Godunya of Wisdom Beyond Transcendence" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Emperor, Immortal Godunya of Wisdom Beyond Transcendence, also receives devotional worship from hundreds of thousands of people.
+[P5-A-B0151-026] S=['DARUDA'] P=establishes cult O=['MODERN KRALORELA'] implicit=False ps="founded" sug=founds
+   Q: DARUDA founded modern Kralorela about a hundred thousand years ago.
+[P5-A-B0151-027] S=['DARUDA'] P=defeats O=['EVIL'] implicit=True ps="drove out" sug=exiles / banishes
+   Q: He drove out evil
+[P5-A-B0151-028] S=['LATEST CELESTIAL BEINGS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["DARUDA"], "purpose_clause": "TO AID humans"} implicit=True ps="made" sug=conceives
+   Q: made the latest Celestial Beings to help humans
+[P5-A-B0151-029] S=['THALURZNI'] P=protects O=['KRALORI ALCHEMISTS'] implicit=False ps="is the patron of" sug=one of: protects, rescues / frees, aids
+   Q: EMPEROR THALURZNI is the patron of Kralori Alchemists.
+[P5-A-B0151-030] S=['THALURZNI'] P=reveals O=['HOW TO BALANCE INNER ELEMENTS'] MOD={"purpose_clause": "to achieve everlasting life and wisdom"} implicit=True ps="to reveal" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: But his secret was to reveal how to balance you inner elements to achieve everlasting life and wisdom.
+[P5-A-B0151-031] S=['APTANACE'] P=is identified as O=['FOUNDER OF CIVILIZATION'] implicit=False ps="is the founder of civilization" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: APTANACE THE SAGE is the founder of civilization.
+[P5-A-B0151-032] S=['FOURTEEN HUNDRED CHILDREN'] P=is child of O=['APTANACE'] implicit=True ps="begat" sug=is child of
+   Q: He begat fourteen hundred children who took up the roles of the entire social classes and occupations of humanity.
+[P5-A-B0151-033] S=['APTANACE'] P=teaches O=['HIS CHILDREN'] implicit=True ps="Instructions to his children" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: His massive Instructions to his children, a seven hundred thousand-verse poem, are still followed by the Kralori today.
+[P5-A-B0151-034] S=['THE GODS OF KRALORELA'] P=comes into being O=[] MOD={"at_the_instigation_of": ["THE DRAGONS"], "purpose_clause": "to protect people and to direct humans towards draconic wisdom"} implicit=False ps="were created" sug=conceives
+   Q: The gods of Kralorela are not dragons, but were created to protect people and to direct humans towards draconic wisdom. || The dragons made them because most people couldn't understand the cosmos.
+[P5-A-B0151-035] S=['ARCHEXARCH OF HEAVEN'] P=rules O=['ALL TEMPLES'] implicit=False ps="are subject to" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: All temples are subject to the Archexarch of Heaven.
+[P5-A-B0151-036] S=['HAN MAJANG'] P=is born from O=['ARCHEXARCH OF HEAVEN'] implicit=False ps="was made from the thought of" sug=is born from
+   Q: HAN MAJANG, the First Minister, was made from the thought of the Archexarch of Heaven.
+[P5-A-B0151-037] S=['HAN MAJANG'] P=is identified as O=['FIRST MINISTER'] implicit=False ps="the First Minister" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: HAN MAJANG, the First Minister
+[P5-A-B0151-038] S=['HAN MAJANG'] P=alters mythic station O=['THE SUN', 'THE OTHER CELESTIALS'] MOD={"purpose_clause": "to oversee time and space and the divine records"} implicit=True ps="appointed" sug=appoints
+   Q: He appointed the sun, then the other celestials to oversee time and space and the divine records.
+[P5-A-B0151-039] S=['HALISAYAN'] P=is identified as O=['THE GOOD WIFE'] implicit=False ps="is the Good Wife" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: HALISAYAN is the Good Wife.
+[P5-A-B0151-040] S=['HALISAYAN'] P=comes into being O=[] MOD={"in_on_at": "HSIANG WAN"} implicit=True ps="was born a humble washerwoman" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: She was born a humble washerwoman in the City of Hsiang Wan
+[P5-A-B0151-041] S=['THALURZNI'] P=marries O=['HALISAYAN'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: her humility caught the attention of Emperor Thalurzni who married her.
+[P5-A-B0151-042] S=['THALURZNI'] P=bestows magic / gifts O=['PILL OF IMMORTALITY'] IO=['HALISAYAN'] implicit=True ps="rewarded her with" sug=one of: bestows, heals, imbues, teaches
+   Q: He rewarded her unfailing wifely devotions with the Pill of Immortality
+[P5-A-B0151-043] S=['HALISAYAN'] P=rules O=['SUMMER LAND HEAVEN'] implicit=True ps="has ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: since then she has ruled the Summer Land Heaven.
+[P5-A-B0151-044] S=['BODKARTU'] P=is identified as O=['GODDESS OF SECRETS AND FORBIDDEN LORE'] implicit=False ps="is the Goddess of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: BODKARTU is the Goddess of Secrets and Forbidden Lore.
+[P5-A-B0151-045] S=['BODKARTU'] P=is sibling of O=['HALISAYAN'] implicit=True ps="her sister" sug=is sibling of
+   Q: She protects her sister, Halisayan, from devils and the bad emperor
+[P5-A-B0151-046] S=['BODKARTU'] P=protects O=['HALISAYAN'] MOD={"from": ["DEVILS", "THE BAD EMPEROR"]} implicit=True ps="protects" sug=one of: protects, rescues / frees, aids
+   Q: She protects her sister, Halisayan, from devils and the bad emperor
+[P5-A-B0151-047] S=['SHANGHSA'] P=establishes cult O=['IMMANENT MASTERY SCHOOL'] implicit=True ps="founded" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: he founded the Immanent Mastery School that allowed one to achieve draconic status much faster than the traditional Darudic discipline.
+[P5-A-B0151-048] S=['SHANGHSA'] P=shatters O=['HIS DRACONIC SELF'] implicit=False ps="destroyed" sug=shatters
+   Q: ShangHsa fell into the Error of Impatience and destroyed his draconic self.
+[P5-A-B0151-049] S=['STUDENTS OF SHANGHSA'] P=is identified as O=['FALSE DRAGONS'] implicit=True ps="were False Dragons" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: This tragic flaw was transmitted to his students so that while they could easily become Dragons, they had no contact with the Infinite and so were False Dragons.
+[P5-A-B0151-050] S=['SHANGHSA'] P=teaches O=['FOREIGN DEVILS'] implicit=False ps="teaching it to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: ShangHsa compounded his original mistake by teaching it to foreign devils.
+[P5-A-B0151-051] S=['IMMANENT MASTERS'] P=kills O=['YANOOR'] MOD={"using": "THEIR TEACHINGS"} implicit=False ps="kill" sug=one of: kills, shatters, dies
+   Q: They became the Immanent Masters and used their teachings to kill Emperor Yanoor and conquer all Kralorela, creating the False Dragon Empire.
+[P5-A-B0151-052] S=['IMMANENT MASTERS'] P=defeats O=['KRALORELA'] implicit=False ps="conquer all Kralorela" sug=conquers
+   Q: They became the Immanent Masters and used their teachings to kill Emperor Yanoor and conquer all Kralorela, creating the False Dragon Empire.
+[P5-A-B0151-053] S=['SHANGHSA'] P=rules O=['FALSE DRAGON EMPIRE'] implicit=True ps="was their False Emperor and ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: ShangHsa was their False Emperor and ruled for three and a half centuries
+[P5-A-B0151-054] S=['GODUNYA'] P=defeats O=['SHANGHSA', 'THE FALSE DRAGONS'] implicit=True ps="cast down" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: before being cast down by Godunya along with the False Dragons.
+[P5-A-B0151-055] S=['GODUNYA'] P=rules O=['KRALORELA'] implicit=False ps="the current spiritual and secular ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Emperor Godunya, the current spiritual and secular ruler of Kralorela
+[P5-A-B0152-001] S=['GODUNYA'] P=establishes cult O=['THE TEACHINGS OF HESEROON MARN'] MOD={"in_on_at": "KRALORELA"} implicit=False ps="has declared ... to be the official combat discipline" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Godunya has declared the teachings of Heseroon Marn the Faithful Dragon to be the official combat discipline of Kralorela.
+[P5-A-B0152-002] S=['THE FAITHFUL DRAGON'] P=is alternative name for O=['HESEROON MARN'] implicit=False ps="Heseroon Marn the Faithful Dragon" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the teachings of Heseroon Marn the Faithful Dragon
+[P5-A-B0152-003] S=['HESEROON MARN'] P=challenges O=['SHANGHSA'] implicit=False ps="denounced" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Heseroon Marn denounced ShangHsa's teachings and taught a new method that maintained fidelity to the true emperor.
+[P5-A-B0152-004] S=['HESEROON MARN'] P=fights O=['IMMANENT MASTERS'] implicit=True ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He fought against the Immanent Masters with the war cry Always Faithful for over a century before being executed.
+[P5-A-B0152-005] S=['GODUNYA'] P=resurrects O=['HESEROON MARN'] implicit=True ps="resurrected" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: But Godunya resurrected him to teach the faithful dragon to others.
+[P5-A-B0152-006] S=['DEVILS'] P=fights O=['THE LAND OF SPLENDOR'] implicit=True ps="tried to destroy" sug=invades / raids
+   Q: The devils hated us then and tried to destroy our paradise.
+[P5-A-B0152-007] S=['HESEROON MARN'] P=teaches O=['THE DRAGON STYLE'] IO=["HESEROON MARN'S SCHOOL"] implicit=False ps="teaching" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Heseroon Marn provided unity to his school by teaching the dragon style.
+[P5-A-B0152-008] S=['ARMY OF EVERY DEATH'] P=is alternative name for O=["HESEROON MARN'S FOLLOWERS"] MOD={"at_the_instigation_of": ["IMMANENT MASTERS"]} implicit=True ps="called his followers" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Immanent Masters ruefully called his followers the "army of every death."
+[P5-A-B0152-009] S=['FIVE DRAGON WARRIORS'] P=is alternative name for O=['MASTERS OF THE DRAGON STYLE SCHOOL'] implicit=True ps="were also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the masters of this school were also called Five Dragon Warriors.
+[P5-A-B0152-010] S=['FIVE DRAGON WARRIORS'] P=protects O=['THE EMPEROR'] implicit=True ps="guard" sug=one of: protects, rescues / frees, aids
+   Q: Only twenty masters are allowed to exist and all guard the emperor.
+[P5-A-B0152-011] S=['IMOLO WEN'] P=establishes cult O=['TERRIBLE SWIFT SWORD DISCIPLINE'] implicit=False ps="the founder of" sug=founds
+   Q: A famous example was Imolo Wen, the founder of the Terrible Swift Sword discipline.
+[P5-A-B0152-012] S=['IMOLO WEN'] P=defeats O=['BOSHAN'] implicit=True ps="conquered" sug=conquers
+   Q: he enlisted in the army, rose to the rank of general and conquered Boshan before he became abbot of the school.
+[P5-A-B0152-013] S=['DEVILS'] P=travels O=[] MOD={"to": "KRALORELA", "at_the_instigation_of": ["SHENG SELERIS"]} implicit=True ps="loosed devils into the land" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: To cause the Kralori woe and suffering, Sheng Seleris loosed devils into the land.
+[P5-A-B0152-014] S=['MOON PEOPLE'] P=is identified as O=['DEVILS'] MOD={"in_on_at": "SHIYANG PROVINCE"} implicit=False ps="The most common devils are" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The most common devils are the Moon People that pollute Shiyang province.
+[P5-A-B0152-015] S=['RED GARDENER OF KUCHAWN'] P=rules O=['MOON PEOPLE'] implicit=True ps="is their leader" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Red Gardener of Kuchawn is their leader
+[P5-A-B0152-016] S=['RED GARDENER OF KUCHAWN'] P=rules O=['ALL UNDER THE MOON'] implicit=True ps="claims to have been Emperor of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: claims to have been Emperor of All Under the Moon
+[P5-A-B0152-017] S=['SHENG SELERIS'] P=binds O=['RED GARDENER OF KUCHAWN'] implicit=True ps="enslaved" sug=binds
+   Q: Sheng Seleris enslaved him and brought him here.
+[P5-A-B0152-018] S=['YANOOR'] P=departs from O=['SHANGHSA'] implicit=True ps="was forced to flee prematurely to escape his snares" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Yanoor was forced to flee prematurely to escape his snares [768 ST].
+[P5-A-B0152-019] S=['MANDARINS'] P=flees to O=['CHEN DUREL'] implicit=False ps="fled to" sug=flees to
+   Q: Our mandarins were not so foolish and fled to vile Chen Durel, land of the cursed Ignorants.
+[P5-A-B0152-020] S=['MANDARINS'] P=defeats O=['THE INHUMAN RULERS OF CHEN DUREL'] MOD={"in_on_at": "CHEN DUREL"} implicit=True ps="expelled" sug=exiles / banishes
+   Q: There they expelled the inhuman rulers
+[P5-A-B0152-021] S=['MANDARINS'] P=establishes cult O=['KINGDOM OF NEW WISDOM'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="set up" sug=founds
+   Q: set up the Kingdom of New Wisdom to preserve the last secrets of the Dragon Emperors from the Immanent Masters
+[P5-A-B0152-022] S=['IMMANENT MASTERS'] P=alters mythic station O=['SHANGHSA'] implicit=False ps="appointed ShangHsa as the False Emperor" sug=appoints
+   Q: The Immanent Masters appointed ShangHsa as the False Emperor [770 ST]
+[P5-A-B0152-023] S=['HESEROON MARN'] P=fights O=['SHANGHSA'] implicit=False ps="raised the Army of Every Death to oppose" sug=challenges
+   Q: Heseroon Marn raised the Army of Every Death to oppose ShangHsa [945 ST] but though he fought for a generation he did not succeed.
+[P5-A-B0152-024] S=['DRAGONS'] P=fights O=['SHANGHSA'] implicit=False ps="began to rise against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: ShangHsa's misrule caused the dragons began to rise against him.
+[P5-A-B0152-025] S=['BLUE DRAGON OF THE DEEP'] P=manifests O=[] MOD={"in_on_at": "SUAM CHOW"} implicit=False ps="flooded" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The Blue Dragon of the Deep flooded the Suam Chow and sank every ship that sailed beyond [960 ST].
+[P5-A-B0152-026] S=['EARTH DRAGON'] P=manifests O=[] MOD={"in_on_at": "KRALORELA"} implicit=True ps="The land was devastated in the Earth Dragon's Awakening Shudder" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The land was devastated in the Earth Dragon's Awakening Shudder [1051 ST].
+[P5-A-B0152-027] S=['STORM DRAGON'] P=strikes O=['HALF THE CITIES'] implicit=False ps="ravaged" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: The Storm Dragon ravaged half the cities with a typhoon from the east
+[P5-A-B0152-028] S=['FIRE DRAGON'] P=strikes O=['THE CROPS AND TREES IN THE NORTH'] implicit=False ps="razed" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: the Fire Dragon moved and razed the crops and trees in the north.
+[P5-A-B0152-029] S=['MANDARINS'] P=travels O=[] MOD={"from": "EXILE", "to": "KRALORELA"} implicit=True ps="returned from Exile" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the Mandarins returned from Exile to restore the land to Splendor.
+[P5-A-B0152-030] S=['EXARCHS'] P=discovers O=['GODUNYA'] MOD={"in_on_at": "THE RUINS OF DEAD GIANTS"} implicit=False ps="sent out searchers everywhere until Godunya was at last found" sug=discovers
+   Q: The Exarchs sent out searchers everywhere until Godunya was at last found, sitting amid the ruins of dead giants.
+[P5-A-B0152-031] S=['GODUNYA'] P=rules O=['KRALORELA'] implicit=True ps="was honored to become the Emperor of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They brought him home, and he was honored to become the Emperor of Kralorela [1124 ST].
+[P5-A-B0152-032] S=['GODUNYA'] P=bestows magic / gifts O=['THE BLESSINGS OF THE DRAGONS'] IO=['KRALORELA'] implicit=False ps="returned" sug=one of: bestows, heals, imbues, teaches
+   Q: Godunya then returned the pace and blessings of the dragons to Kralorela.
+[P5-A-B0152-033] S=['SHENG SELERIS'] P=fights O=['KRALORELA'] implicit=True ps="tried to conquer" sug=invades / raids
+   Q: In his ignorance he tried to conquer our civilization
+[P5-A-B0152-034] S=['GODUNYA'] P=defeats O=['SHENG SELERIS'] implicit=True ps="humbled" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Godunya humbled him so that he meekly became a slave [1250 ST].
+[P5-A-B0152-035] S=['SHENG SELERIS'] P=is member of O=['SAKA MORN SECT'] implicit=False ps="joined" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: After a few years as a common slave Sheng Seleris joined the Saka Morn sect so he might learn from his error and become liberated.
+[P5-A-B0152-036] S=['GODUNYA'] P=defeats O=['SHENG SELERIS'] MOD={"in_on_at": "RIGHT TO RULE CONTEST"} implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Sheng Seleris tried again to conquer Kralorela but Godunya defeated him in the Right to Rule Contest [1363 ST].
+[P5-A-B0152-037] S=['SHENG SELERIS'] P=defeats O=['FOREIGN DEVILS', 'BEAST PEOPLES'] implicit=True ps="conquered" sug=conquers
+   Q: So he then conquered the outside world of foreign devils and beast peoples and brought them back to war against us.
+[P5-A-B0152-038] S=['SHENG SELERIS'] P=defeats O=['DRAGON EMPIRE'] MOD={"in_on_at": "BATTLE OF ALL WIDOWS AFTER A WEEK"} implicit=True ps="overcame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He was so powerful that he finally overcame the selected might of the Dragon Empire in the Battle of All Widows After a Week [1442 ST].
+[P5-A-B0152-039] S=['SHENG SELERIS'] P=fights O=['GODUNYA'] implicit=True ps="tried to seize" sug=invades / raids
+   Q: Sheng Seleris even tried to seize the Emperor
+[P5-A-B0152-040] S=['GODUNYA'] P=departs from O=[] implicit=False ps="was forced to disappear" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Godunya was forced to disappear as Yanoor had done.
+[P5-A-B0152-041] S=['GODUNYA'] P=travels O=[] MOD={"to": "THIS WORLD"} implicit=False ps="followed the way back into this world" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: But Godunya was prepared for this and he followed the way back into this world [1460 ST].
+[P5-A-B0152-042] S=['SHENG SELERIS'] P=descends into O=['THE EARTH'] MOD={"from": "HIS STELLAR PALACE"} implicit=False ps="was finally cast down from his stellar palace and flung deep into" sug=one of: descends into, dies
+   Q: Sheng was finally cast down from his stellar palace and flung deep into the earth.
+[P5-A-B0152-043] S=['GODUNYA'] P=is identified as O=['DRAGON EMPEROR'] implicit=False ps="resumed his rule as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Godunya resumed his rule as Dragon Emperor
+[P5-A-B0152-044] S=['UZ', 'MONSTERS'] P=travels O=[] MOD={"to": "CHERN DUREL"} implicit=False ps="settled" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Chern Durel was initially settled only by Uz and monsters.
+[P5-A-B0152-045] S=['IMMANENT MASTERS'] P=rules O=['KRALORELA'] implicit=False ps="took over" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Immanent Masters took over Kralorela
+[P5-A-B0152-046] S=['EXARCHS', 'MANDARINS'] P=flees to O=['CHERN DUREL'] implicit=False ps="fled to" sug=flees to
+   Q: many exarchs and mandarins fled to Chern Durel.
+[P5-A-B0152-047] S=['EXARCHS', 'MANDARINS'] P=defeats O=['UZ'] implicit=True ps="expelled" sug=exiles / banishes
+   Q: The exiles expelled the Uz rulers
+[P5-A-B0152-048] S=['EXARCHS', 'MANDARINS'] P=teaches O=['THE DRACONIC PATH'] IO=['IGNORANTS'] implicit=True ps="tried to educate" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: tried to educate the Ignorants in the draconic path
+[P5-A-B0152-049] S=['EXARCHS', 'MANDARINS'] P=protects O=['THE LAST DRACONIC SECRETS'] implicit=True ps="did manage to preserve" sug=one of: protects, rescues / frees, aids
+   Q: they did manage to preserve the last draconic secrets from the false dragons.
+[P5-A-B0152-050] S=['EXARCHS'] P=travels O=[] MOD={"to": "KRALORELA"} implicit=False ps="returned to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The exarchs are gone, returned to Kralorela when Godunya became emperor.
+[P5-A-B0152-051] S=['IGNORANTS'] P=serves O=['UZ'] implicit=False ps="served their own dead to their rulers to eat" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: under the Uz the Ignorants served their own dead to their rulers to eat.
+[P5-A-B0152-052] S=['ZEREL FAN'] P=is identified as O=['PRIMARY GOD OF IGNORANCE'] implicit=False ps="is the primary god of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Zerel Fan is the primary god of Ignorance.
+[P5-A-B0152-053] S=['ZEREL FAN'] P=transforms into O=[] implicit=True ps="changes his shape according to his moods" sug=transforms into
+   Q: His worshippers claim that he changes his shape according to his moods; he can storm, rain blood, or even turn black.
+[P5-A-B0152-054] S=['SHAVAYA'] P=binds O=['ZEREL FAN'] implicit=False ps="learned to pacify" sug=binds
+   Q: Emperor Shavaya learned to pacify Zerel Fan by summoning the Solar Storm, the most powerful mood, and enlightening it.
+[P5-A-B0152-055] S=['SHAVAYA'] P=teaches O=['SOLAR STORM'] implicit=True ps="enlightening" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: summoning the Solar Storm, the most powerful mood, and enlightening it.
+[P5-A-B0152-056] S=['UZ'] P=sacrifices O=[] IO=['BLACK SUN'] implicit=False ps="made tremendous sacrifices to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: The uz favored the Black Sun and made tremendous sacrifices to it so they could go out in the day and not be afraid.
+[P5-A-B0152-057] S=['UZ'] P=bestows magic / gifts O=['THEIR SECRETS'] IO=['BLACK SUN'] implicit=True ps="imbued it with their secrets" sug=one of: bestows, heals, imbues, teaches
+   Q: the uz imbued it with their secrets such that it rivals the quiescent Solar Storm.
+[P5-A-B0152-058] S=['KRALORI EMPERORS'] P=defeats O=['MANY GODS'] MOD={"to": "CHERN DUREL"} implicit=True ps="expelled" sug=exiles / banishes
+   Q: The emperors expelled many gods to Chern Durel
+[P5-A-B0152-059] S=['SHADOW CANCER', 'SECRET WATERS', 'EARTH EATER', 'STAR PERMUTATOR'] P=is member of O=['GANG OF FOUR'] implicit=False ps="were the Gang of Four" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The first gods expelled were the Gang of Four: the Shadow Cancer, the Secret Waters, the Earth Eater and the Star Permutator.
+[P5-A-B0152-060] S=['HSUNCHEN'] P=claims ancestry O=['KORGATSU'] implicit=False ps="claim their ultimate ancestor was" sug=claims ancestry
+   Q: The hsunchen claim their ultimate ancestor was Korgatsu, whom they call the World Dragon.
+[P5-A-B0152-061] S=['WORLD DRAGON'] P=is alternative name for O=['KORGATSU'] MOD={"at_the_instigation_of": ["HSUNCHEN"]} implicit=True ps="whom they call" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Korgatsu, whom they call the World Dragon.
+[P5-A-B0152-062] S=['HORNED HALFBEASTS'] P=serves O=['KORGATSU'] implicit=True ps="have attained close communion with" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Some have attained close communion with their World Dragon through rigorous austerity.
+[P5-A-B0152-063] S=['HORNED HALFBEASTS'] P=has hybrid form O=[] implicit=False ps="grow large arching horns" sug=has anomalous form (qual=hybrid)
+   Q: They are known as the Horned Halfbeasts, for when fully empowered the people grow large arching horns which nearly touch above their heads.
+[P5-A-B0152-064] S=['HORNED HALFBEASTS'] P=protects O=['HSUNCHEN'] implicit=True ps="are the protectors of" sug=one of: protects, rescues / frees, aids
+   Q: They are the protectors of the Hsunchen against the Kralori.
+[P5-A-B0152-065] S=['CHAL'] P=teaches O=["CHAL'S THREE TEACHINGS"] IO=['TESHNANS'] implicit=True ps="Chal's three teachings" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Four ranks of spiritual age are recognized, based on the mastery of Chal's three teachings.
+[P5-A-B0153-001] S=['CHAL'] P=teaches O=['RED-ROBED PRIESTS OF TESHNOS'] implicit=False ps="Students of Chal's second teaching are" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Students of Chal's second teaching are the red-robed priests found in the countless temples throughout Teshnos.
+[P5-A-B0153-002] S=['RED-ROBED PRIESTS OF TESHNOS'] P=sacrifices O=[] MOD={"purpose_clause": "to find themselves in their god"} implicit=True ps="perform numerous sacrifices" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: They perform numerous sacrifices to find themselves in their god.
+[P5-A-B0153-003] S=['ZITRS'] P=discovers O=['CELESTIAL FLAME'] implicit=False ps="have seen" sug=discovers
+   Q: Those mastering all Chal's teachings are zitrs, or sages, and they have seen the celestial flame.
+[P5-A-B0153-004] S=['CHAL'] P=teaches O=['ZITRS'] implicit=False ps="Those mastering all Chal's teachings are" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Those mastering all Chal's teachings are zitrs, or sages
+[P5-A-B0153-005] S=['BABADI'] P=comes into being O=[] implicit=True ps="were fashioned from different clay" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The God Learners believed they were fashioned from different clay than the Mostali of the west.
+[P5-A-B0153-006] S=['BABADI'] P=bestows magic / gifts O=['TESHNAN PRAYER WHEELS', 'SACRED MIRRORS'] IO=['TEMPLES OF SOMASH'] implicit=False ps="are the source of" sug=one of: bestows, heals, imbues, teaches
+   Q: The Babadi are the source of the Teshnan prayer wheels and the Sacred Mirrors in the Temples of Somash.
+[P5-A-B0153-007] S=['PUBNASHAP'] P=rules O=['TESHNOS'] implicit=False ps="The King of Teshnos is" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The King of Teshnos is Pubnashap, the Vessel of Light and scion of the Chalite Dynasty.
+[P5-A-B0153-008] S=['VESSEL OF LIGHT'] P=is alternative name for O=['PUBNASHAP'] implicit=False ps="Pubnashap, the Vessel of Light" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The King of Teshnos is Pubnashap, the Vessel of Light and scion of the Chalite Dynasty.
+[P5-A-B0153-009] S=['PUBNASHAP'] P=is member of O=['CHALITE DYNASTY'] implicit=False ps="scion of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The King of Teshnos is Pubnashap, the Vessel of Light and scion of the Chalite Dynasty.
+[P5-A-B0153-010] S=['PUBNASHAP'] P=re-enacts O=['KING BULTHSHASAM'] implicit=False ps="was identified among the orphans, in the manner of" sug=re-enacts
+   Q: Pubnashap was identified among the orphans, in the manner of King Bulthshasam, first of the Chalite Dynasty.
+[P5-A-B0153-011] S=['KING BULTHSHASAM'] P=is member of O=['CHALITE DYNASTY'] implicit=False ps="first of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: King Bulthshasam, first of the Chalite Dynasty.
+[P5-A-B0153-012] S=['PUBNASHAP'] P=embodies O=['ZITRO ARGON'] implicit=True ps="is the avatar of" sug=one of: embodies, has domain
+   Q: He is the avatar of Zitro Argon.
+[P5-A-B0153-013] S=['PREDECESSOR OF PUBNASHAP'] P=embodies O=['SOLF'] implicit=True ps="was an avatar of" sug=one of: embodies, has domain
+   Q: His predecessor was an avatar of Solf
+[P5-A-B0153-014] S=['SELERAN EMPIRE'] P=kills O=['FETHLONI JUNGLE PRIESTHOOD'] implicit=True ps="exterminated" sug=one of: kills, shatters, dies
+   Q: the Seleran Empire exterminated the jungle priesthood.
+[P5-A-B0153-015] S=['WHEEL OF GOVERNANCE'] P=serves O=['KING OF TESHNOS'] implicit=True ps="divine his will" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: special zitrs, collectively known as the Wheel of Governance, divine his will to avoid disturbing him.
+[P5-A-B0153-016] S=['GARUSHARP'] P=is member of O=['WHEEL OF GOVERNANCE'] implicit=True ps="are members of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Currently Garusharp and the other great priests of Teshnos are members of the Wheel.
+[P5-A-B0153-017] S=['GARUSHARP'] P=reveals O=['DECISIONS OF THE WHEEL OF GOVERNANCE'] IO=['TEMPLES OF SOMASH'] MOD={"using": "SACRED MIRRORS"} implicit=True ps="communicates" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Garusharp communicates the Wheel's decisions to the temples of Somash through the sacred mirrors.
+[P5-A-B0153-018] S=['OVANSARU'] P=protects O=['VESSEL OF LIGHT'] implicit=False ps="Defending" sug=one of: protects, rescues / frees, aids
+   Q: Defending the Vessel of Light and his land is the responsibility of a special order of Somash priests, the Ovansaru.
+[P5-A-B0153-019] S=['OVANSARU'] P=serves O=['SOMASH'] implicit=False ps="a special order of Somash priests" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: a special order of Somash priests, the Ovansaru.
+[P5-A-B0153-020] S=['OVANSARU'] P=fights O=['GIO'] implicit=False ps="fought during the sack of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The last time the Ovansaru fought was during the sack of Gio.
+[P5-A-B0153-021] S=['CHAL'] P=teaches O=['TESHNANS'] MOD={"purpose_clause": "how to please the spirits of the jungle with their sacrifices"} implicit=False ps="showed" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Chal showed the Teshnans how to please the spirits of the jungle with their sacrifices.
+[P5-A-B0153-022] S=['SPIRITS OF THE JUNGLE'] P=bestows magic / gifts O=['SATISFYING LETHARGY'] IO=['TESHNANS'] implicit=True ps="are rewarded with" sug=one of: bestows, heals, imbues, teaches
+   Q: In return, the Teshnans are rewarded with a satisfying lethargy that exudes from the jungle.
+[P5-A-B0153-023] S=['SPIRITS OF THE JUNGLE'] P=fights O=['HOSTILE INTRUDERS'] implicit=False ps="respond with all sorts of malign sendings" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The presence of hostile intruders fills the jungle spirits with fear and they respond with all sorts of malign sendings
+[P5-A-B0153-024] S=['MARAZI'] P=marries O=['TOLAT'] implicit=True ps="chose to marry" sug=is spouse of (qual=wedding)
+   Q: In the time when women and gods walked together, they chose to marry the god Tolat because mortal men had failed them so miserably and so consistently.
+[P5-A-B0153-025] S=['MARAZI'] P=travels O=[] MOD={"to": "TROWJANG"} implicit=True ps="were given the land of Trowjang as their home" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: They were given the land of Trowjang as their home, and they have lived there ever since.

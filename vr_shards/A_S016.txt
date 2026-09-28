@@ -1,0 +1,300 @@
+[P5-A-B0037-049] S=['EURMAL'] P=pledges oath with O=['ARACHNE SOLARA'] MOD={"in_on_at": "GREAT COMPROMISE"} implicit=False ps="held his strand of" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: At the Great Compromise, Eurmal held his strand of Arachne Solara's web.
+[P5-A-B0037-050] S=['ORLANTHI'] P=serves O=['EURMAL'] implicit=False ps="has received formal worship by" sug=is worshipped by
+   Q: Since Time began, Eurmal has received formal worship by Orlanthi, but his cult has never been widespread or popular.
+[P5-A-B0037-051] S=['EURMAL'] P=transforms into O=['HUMAN FORM'] implicit=False ps="took human form" sug=transforms into
+   Q: Twice Eurmal himself took human form and came among people.
+[P5-A-B0037-052] S=['GBAJI'] P=is alternative name for O=['EURMAL'] implicit=True ps="people called him" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The first time he came, people called him Gbaji, the Deceiver.
+[P5-A-B0037-053] S=['THE DECEIVER'] P=is alternative name for O=['GBAJI'] implicit=False ps="Gbaji, the Deceiver" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: people called him Gbaji, the Deceiver.
+[P5-A-B0037-054] S=['HOFHADALOS THE NONWISE'] P=is alternative name for O=['EURMAL'] implicit=True ps="was called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The second time he was called Hofhadalos the Nonwise.
+[P5-A-B0037-055] S=['GOD LEARNERS'] P=dedicates relic O=['EVERY TRICKSTER SHRINE AND HOLY OBJECT'] MOD={"in_on_at": "SLONTOS", "at_the_instigation_of": ["HOFHADALOS THE NONWISE"]} implicit=True ps="bring into one place" sug=dedicates relic
+   Q: He managed to get them to bring every Trickster shrine and holy object into one place in Slontos.
+[P5-A-B0037-056] S=['HOFHADALOS THE NONWISE'] P=establishes cult O=['MANY FALSE CULTS'] implicit=True ps="start many false cults" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Over generations, he managed to make many ridiculous laws, start many false cults, write many false books, and impregnate generations of fools to bear his bloodline.
+[P5-A-B0037-057] S=['THE GODS'] P=shatters O=['SLONTOS'] implicit=False ps="destroyed" sug=shatters
+   Q: At the end the gods became angry and alarmed, and destroyed the whole region where he had taken over. || That is why Slontos sank beneath the waves.
+[P5-A-B0037-058] S=['EURMAL'] P=is member of O=['STORM TRIBE'] implicit=False ps="acknowledged presence in" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Eurmal's acknowledged presence in the Storm Tribe gives him a power that most pantheons exclude
+[P5-A-B0037-059] S=['HEORTLINGS'] P=sacrifices O=['BEER', 'RAW GRAIN'] IO=['EURMAL'] implicit=True ps="invoke him with" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Heortling religious rites invoke him with a sprinkle of beer or handful of raw grain even before they call the Good Gods and Goddesses.
+[P5-A-B0037-060] S=['EURMAL', 'ORLANTH'] P=pledges oath with O=[] implicit=False ps="made a deal" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Once, Eurmal and Orlanth made a deal where Orlanth agreed to protect Eurmal, who in turn agreed to obey Orlanth.
+[P5-A-B0037-061] S=['ORLANTH'] P=kills O=['EURMAL'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: he broke his word, and when Orlanth found out, he killed the liar.
+[P5-A-B0037-062] S=['EURMAL'] P=resurrects O=['EURMAL'] implicit=False ps="resurrected himself" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Eurmal resurrected himself (though he was now without one ear)
+[P5-A-B0037-063] S=['RABBITEAR'] P=is alternative name for O=['EURMAL'] implicit=True ps="as he was known" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Some time later, Rabbitear (as he was known ) could not resist stealing, so Orlanth killed him again.
+[P5-A-B0037-064] S=['ORLANTH'] P=kills O=['RABBITEAR'] implicit=False ps="killed him again" sug=one of: kills, shatters, dies
+   Q: Some time later, Rabbitear (as he was known ) could not resist stealing, so Orlanth killed him again.
+[P5-A-B0037-065] S=['RAVEN'] P=resurrects O=['RABBITEAR'] MOD={"at_the_instigation_of": ["RABBITEAR"]} implicit=False ps="bringing him back to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Rabbitear tricked Raven into bringing him back to life.
+[P5-A-B0037-066] S=['RAVEN'] P=steals O=["PART OF RABBITEAR'S HIDING POWER", 'ONE OF HIS EYES'] MOD={"from": "RABBITEAR"} implicit=False ps="stole" sug=steals
+   Q: As payment, Raven stole part of Rabbitear's hiding power and one of his eyes.
+[P5-A-B0037-067] S=['MOUSE-EYE'] P=is alternative name for O=['EURMAL'] implicit=True ps="Listen Mouse-eye" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Orlanth agreed, saying, "Listen Mouse-eye: this the third time, this the last time."
+[P5-A-B0037-068] S=['ORLANTH', 'EURMAL'] P=pledges oath with O=[] implicit=True ps="swore their oaths again" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: The two gods swore their oaths again, with some changes.
+[P5-A-B0038-001] S=['EURMAL'] P=manifests O=['ILLUSIONS'] implicit=False ps="can use his "illusions" to co-create a part of the world" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Eurmal knows that the world is temporary, made of glamour. || He can thus use his "illusions" to co-create a part of the world.
+[P5-A-B0038-002] S=['EURMAL'] P=discovers O=['DEATH'] MOD={"in_on_at": "UNDERWORLD"} implicit=False ps="was the first to find" sug=discovers
+   Q: Eurmal can always find Death. || He was the first to find it, deep down below the lowest part of the Underworld.
+[P5-A-B0038-003] S=['DEATH'] P=travels O=[] MOD={"to": "THE WORLD", "at_the_instigation_of": ["EURMAL"]} implicit=True ps="let into the world" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He let Death into the world, and did not tell anyone about it.
+[P5-A-B0038-004] S=['HUMAKT'] P=is sibling of O=['ORLANTH'] implicit=False ps="his brother" sug=is sibling of
+   Q: Orlanth once lamented the absence of his brother Humakt.
+[P5-A-B0038-005] S=['EURMAL'] P=reveals O=["HUMAKT'S POWER OF DEATH"] IO=['ORLANTH'] implicit=False ps="opened Orlanth's shadow eye and showed him" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Eurmal 'opened Orlanth's shadow eye' and showed him all around where Humakt's power of Death was devastating the land.
+[P5-A-B0038-006] S=['HUMAKT'] P=manifests O=['DEATH'] implicit=False ps="Humakt's power of Death" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: showed him all around where Humakt's power of Death was devastating the land.
+[P5-A-B0038-007] S=['ORLANTH'] P=dismembers O=['EURMAL'] IO=['HUMANITY'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="ripped into pieces" sug=dismembers
+   Q: the Storm Lord recovered and, to protect humanity, ripped Eurmal into pieces that he then scattered.
+[P5-A-B0038-008] S=['EURMAL'] P=survives as relic O=['DEADEYE PLACES'] implicit=True ps="Where the bits landed there are now" sug=survives as relic
+   Q: Where the bits landed there are now Deadeye places.
+[P5-A-B0038-009] S=['EURMAL', 'ORLANTH'] P=descends into O=['UNDERWORLD'] implicit=False ps="accompanied into" sug=one of: descends into, dies
+   Q: Eurmal accompanied Orlanth into the Underworld, and set the dark guardians off-balance enough that the Lightbringers could seize opportunity for success.
+[P5-A-B0038-010] S=['EURMAL'] P=challenges O=['THE DARK GUARDIANS'] MOD={"in_on_at": "UNDERWORLD"} implicit=False ps="set off-balance" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Eurmal accompanied Orlanth into the Underworld, and set the dark guardians off-balance enough that the Lightbringers could seize opportunity for success.
+[P5-A-B0038-011] S=['EURMAL'] P=serves O=['ORLANTH'] implicit=False ps="his bonded man" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: It got its name when Orlanth said to his bonded man, Eurmal, "Sit here," as he finished his preparations for the original Lightbringer's Quest.
+[P5-A-B0038-012] S=['EURMAL'] P=survives as relic O=['TWO VALES'] MOD={"in_on_at": "SIT HERE"} implicit=True ps="The dents from Eurmal's butt are visible there" sug=survives as relic
+   Q: The dents from Eurmal's butt are visible there, the so-called "two vales" where Heort and Ezkankekko mustered their armies out of each others sight.
+[P5-A-B0038-013] S=['HEORT'] P=fights O=['EZKANKEKKO'] MOD={"in_on_at": "TWO VALES"} implicit=False ps="mustered their armies out of each others sight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the so-called "two vales" where Heort and Ezkankekko mustered their armies out of each others sight.
+[P5-A-B0038-014] S=['EURMAL'] P=serves O=['ERNALDA'] implicit=False ps="once owned" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Ernalda once owned Eurmal, with the usual troubled results.
+[P5-A-B0038-015] S=['ERNALDA'] P=bestows magic / gifts O=['A BAG FULL OF MISTAKES, ERRORS, BAD LUCK, TAR, FEATHERS, AND ASHES'] IO=['EURMAL'] implicit=False ps="had given him" sug=one of: bestows, heals, imbues, teaches
+   Q: Ernalda had expected Eurmal to do exactly that, and had given him only a bag full of mistakes, errors, bad luck, tar, feathers, and ashes.
+[P5-A-B0038-016] S=['EURMAL'] P=steals O=['BAG'] MOD={"from": "ERNALDA"} implicit=True ps="plundered" sug=steals
+   Q: He plundered it and since he was lying when he promised, he thought he would get away with it.
+[P5-A-B0038-017] S=['EURMAL'] P=transforms into O=['ANIMAL FORMS'] implicit=False ps="in one of his animal forms" sug=transforms into
+   Q: Sometimes Eurmal is among the people in one of his animal forms, which they treat in like manner.
+[P5-A-B0038-018] S=['KILLER BOY'] P=shatters O=['A LARGE CITY'] implicit=True ps="destroyed" sug=shatters
+   Q: He paused for a while, but in the end destroyed the city, all its residents, and every brick,
+[P5-A-B0038-019] S=['HIDE IN FEAR'] P=is alternative name for O=['EURMAL'] implicit=False ps="the Hide in Fear aspect of" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: A far-flung network of individuals remains in hiding, because they worship the Hide in Fear aspect of Eurmal.
+[P5-A-B0038-020] S=['KARULINORAN'] P=is identified as O=["ORLANTH'S HALL"] implicit=False ps="Karulinoran, Orlanth's Hall" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: First, for a glimpse of Karulinoran, Orlanth's Hall, at his initiation to the god
+[P5-A-B0038-021] S=['HARMAST'] P=enters Godtime / Otherworld O=['KARULINORAN'] implicit=False ps="went to the Hero Plane" sug=enters Godtime / Otherworld
+   Q: Here are the times Harmast went to the Hero Plane. || First, for a glimpse of Karulinoran, Orlanth's Hall, at his initiation to the god
+[P5-A-B0038-022] S=['HARMAST'] P=fights O=['THE STAR WARRIORS'] MOD={"in_on_at": "BATTLE OF THRINBARRI CLOUDS"} implicit=True ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Twice he fought the star warriors at the Battle of Thrinbarri Clouds.
+[P5-A-B0038-023] S=['HARMAST'] P=travels O=["LIGHTBRINGERS' PATH"] MOD={"in_on_at": ["BRIDGE OF SCYTHES", "CRUCIBLE GATE", "BRIDGE OVER CORPSES", "WHERE KARRG WAS DEFEATED"]} implicit=True ps="stood upon" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Four times he stood upon the Lightbringers' Path: at the Bridge of Scythes, at the Crucible Gate, at the Bridge Over Corpses, and Where Karrg was Defeated.
+[P5-A-B0038-024] S=['ORLANTH'] P=marries O=['ERNALDA'] implicit=False ps="the wedding of" sug=is spouse of (qual=wedding)
+   Q: At age twenty-one he was a spectator at the wedding of Orlanth and Ernalda.
+[P5-A-B0038-025] S=['HARMAST'] P=rides O=['WILD WINTER WINDS'] implicit=True ps="rode" sug=rides
+   Q: Once he rode the Wild Winter Winds that covered the world with ice.
+[P5-A-B0038-026] S=['HARMAST'] P=fights O=[] MOD={"in_on_at": "BATTLE OF DARANSTORO"} implicit=False ps="fought at" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: On Harmast's eighth journey as an initiate he fought at the Battle of Daranstoro
+[P5-A-B0038-027] S=['ARIKALGOR'] P=swallows / consumes O=['THE ENTIRE DEFENDING ARMY'] MOD={"in_on_at": "BATTLE OF DARANSTORO", "at_the_instigation_of": ["ELISTIVOROS THE EYE"]} implicit=True ps="swallowed in one bite" sug=swallows / consumes
+   Q: when Elistivoros the Eye unleashed Arikalgor, the giant Night Wolf, which swallowed the entire defending army in one bite.
+[P5-A-B0038-028] S=['ARIKALGOR'] P=is identified as O=['THE GIANT NIGHT WOLF'] implicit=False ps="the giant Night Wolf" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Arikalgor, the giant Night Wolf
+[P5-A-B0038-029] S=['HARMAST'] P=resurrects O=['HARMAST'] MOD={"from": "RIVER OF CORPSES", "using": "HAWTHORN BUSH"} implicit=False ps="found his way back to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Only Harmast found his way back to life from that battle, because he hauled himself from the River of Corpses on a hawthorn bush.
+[P5-A-B0038-030] S=['HARMAST'] P=travels O=[] MOD={"to": "KARU-LINORAN"} implicit=True ps="traveled again to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He traveled again to Karu-linoran, but this time took a seat among the thanes of the god and drank of the strong, sweet mead.
+[P5-A-B0038-031] S=['HARMAST'] P=is member of O=['THANES OF ORLANTH'] implicit=True ps="took a seat among" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: took a seat among the thanes of the god and drank of the strong, sweet mead.
+[P5-A-B0038-032] S=['TWO HEROES OF OLD'] P=pledges oath with O=['HARMAST'] MOD={"at_the_instigation_of": ["DROGARSI"]} implicit=False ps="promised to fight alongside" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Drogarsi praised Harmast in a song full of such promise that two heroes of old came to him and promised to fight alongside him some day.
+[P5-A-B0038-033] S=["ORLANTH'S FORCES"] P=defeats O=['THE ASSEMBLED ARMY OF THE HEAVENS'] MOD={"in_on_at": "BATTLE OF THRINBARRI CLOUDS"} implicit=False ps="overthrew" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Again, the worshippers went to the Battle of Thrinbarri Clouds, where Orlanth's forces overthrew the assembled army of the heavens.
+[P5-A-B0038-034] S=['A FLOCK OF PHOENIXES'] P=fights O=['THE LOYAL ASSEMBLIES OF WORSHIPPERS'] MOD={"via": ["ALASTAN'S MIRROR"]} implicit=False ps="smothered" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: when the Phoenix passed through Alastan's Mirror and a flock of them smothered the loyal assemblies of worshippers.
+[P5-A-B0038-035] S=['HARMAST'] P=strikes O=['PALANGIO THE VROK'] implicit=True ps="struck from his mount" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Then he struck Palangio the Vrok (Governor General of Dragon Pass) from his mount.
+[P5-A-B0038-036] S=['PALANGIO THE VROK'] P=rules O=['DRAGON PASS'] implicit=False ps="Governor General of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Palangio the Vrok (Governor General of Dragon Pass)
+[P5-A-B0038-037] S=['ORLANTH'] P=manifests O=[] implicit=False ps="came" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Orlanth came once Harmast did this great deed, and the clean wet winds cleared the sky of foes.
+[P5-A-B0038-038] S=['HARMAST'] P=discovers O=['THE SHIELD'] MOD={"in_on_at": "NENNORION TOWER"} implicit=False ps="gained" sug=discovers
+   Q: The fourteenth time was when Harmast went to the Nennorion Tower. || He not only gained the Shield, but also went hunting in the Blue Forest beyond.
+[P5-A-B0038-039] S=['HARMAST'] P=travels O=[] MOD={"to": "CAVE OF TEETH"} implicit=False ps="stalked the trolls to the place where they departed" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He stayed in the God World after his companions had returned, and stalked the trolls to the place where they departed, which Harmast called the Cave of Teeth.
+[P5-A-B0038-041] S=['HYRIAM THE SCRIBE', 'HARMAST'] P=travels O=[] MOD={"from": "LORD ARANVARK'S CABIN"} implicit=True ps="returned with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Here Harmast met Hyriam the Scribe, who returned with Harmast to continue preparations.
+[P5-A-B0038-042] S=['PALANGIO THE VROK'] P=fights O=['HARMAST'] MOD={"in_on_at": "FIREWOODS", "using": "HEROQUEST DRAW"} implicit=False ps="drew him into an unfair fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The last time Harmast went to the God World before his great quest he went to the Firewoods, when Palangio the Vrok drew him into an unfair fight with the Heroquest Draw.
+[P5-A-B0038-043] S=['HARMAST'] P=re-enacts O=["LIGHTBRINGER'S QUEST"] implicit=False ps="his great Lightbringer's Quest" sug=re-enacts
+   Q: Harmast traveled to the Hero Plane four separate times on his great Lightbringer's Quest, the first one performed by mortal man.
+[P5-A-B0038-044] S=['HARMAST'] P=travels O=[] MOD={"from": "HILL OF ORLANTH VICTORIOUS", "to": "GATES OF THE WEST", "via": ["HRELAR AMALI", "WESTERN SHORE", "PURPLE SHORES", "LUATHELA"]} implicit=True ps="departed from; passed through" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He departed from the Hill of Orlanth Victorious, ascended and then descended the mountain top, went through Hrelar Amali to the Western Shore, rode the turtle over the waters to the Purple Shores, then passed through Luathela and the Gates of the West.
+[P5-A-B0038-045] S=['HARMAST'] P=rides O=['THE TURTLE'] MOD={"to": "PURPLE SHORES"} implicit=True ps="rode" sug=rides
+   Q: rode the turtle over the waters to the Purple Shores
+[P5-A-B0038-047] S=['HARMAST'] P=descends into O=['UNDERWORLD'] implicit=False ps="his journey through" sug=one of: descends into, dies
+   Q: Details of Harmast's twentieth trip, his journey through the Underworld, are not known.
+[P5-A-B0038-048] S=['HARMAST'] P=discovers O=['ARKAT'] MOD={"in_on_at": "DEAD COURT", "via": ["FIRES OF EHILM"]} implicit=True ps="returned with Arkat as his prize" sug=discovers
+   Q: Nor do we know much about his experiences in the Dead Court, though he succeeded, passed through the Fires of Ehilm, and returned with Arkat as his prize.
+[P5-A-B0039-001] S=['HELER'] P=comes into being O=[] MOD={"from": "SRAMAKE"} implicit=False ps="began as a portion of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Heler began as a portion of Sramake, the cosmic waters that first invaded the land.
+[P5-A-B0039-002] S=['HELER'] P=travels O=[] MOD={"via": ["KEYEVAL", "DELURSO"]} implicit=True ps="flowed over; around" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He flowed over Keyeval and around Delurso, and the lands bloomed where the river ran.
+[P5-A-B0039-003] S=['HELER'] P=defeats O=['THE BRIGHT EMPEROR'] implicit=True ps="drowned" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He drowned the bright Emperor, then invaded the sky at the head of Lorion's army, where he suffered his first setback.
+[P5-A-B0039-004] S=['HELER'] P=rules O=["LORION'S ARMY"] implicit=True ps="at the head of" sug=leads
+   Q: He drowned the bright Emperor, then invaded the sky at the head of Lorion's army, where he suffered his first setback.
+[P5-A-B0039-005] S=['JAGREKRIAND'] P=defeats O=['HELER'] MOD={"from": "CELESTIAL RIVER"} implicit=False ps="knocked out of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Jagrekriand the sky defender knocked Heler out of the Celestial River, confining it to its banks and halting the rising waters forever.
+[P5-A-B0039-006] S=['JAGREKRIAND'] P=is identified as O=['THE SKY DEFENDER'] implicit=False ps="the sky defender" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Jagrekriand the sky defender knocked Heler out of the Celestial River
+[P5-A-B0039-007] S=['HELER'] P=rules O=['THE MIDDLE HEAVENS'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Heler remained powerful, and ruled the middle heavens instead of the highest sky.
+[P5-A-B0039-008] S=['HELER'] P=defeats O=['ORLANTH'] implicit=False ps="helped to overcome" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Heler was at the front of many fights, and he helped to overcome Orlanth in his three aquatic defeats.
+[P5-A-B0039-009] S=['THUNDER BROTHERS'] P=defeats O=['THE SEAS'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Heler was also present when the Thunder Brothers defeated the seas.
+[P5-A-B0039-010] S=['ORLANTH', "ORLANTH'S WEAPONTHANES"] P=fights O=['HELERINGS'] implicit=False ps="marched upon" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: At last, Orlanth gathered all his weaponthanes, and together they marched upon the Helerings.
+[P5-A-B0039-011] S=['HELER'] P=pledges oath with O=['ORLANTH'] implicit=False ps="made a truce and alliance" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Before the fight, however, Heler and Orlanth met in person, and instead of the terrible havoc that was expected, they made a truce and alliance.
+[P5-A-B0039-012] S=['HELERINGS'] P=is member of O=['THREE GREAT STORM TRIBES'] implicit=False ps="became one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Helerings became one of the Three Great Storm Tribes of the Vingkotling Age (the others were the Vingkotlings and the Durevings).
+[P5-A-B0039-013] S=['UI'] P=defeats O=['HELER'] implicit=False ps="finally defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Ui was the god that finally defeated Heler.
+[P5-A-B0039-014] S=['HELER'] P=defeats O=['UI'] implicit=True ps="had defeated him in combat three times" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He hated Heler, who had defeated him in combat three times already, each time chopping off half of his power and vitality.
+[P5-A-B0039-015] S=['UI'] P=serves O=['CHAOS'] implicit=False ps="sold itself to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Ui finally sold itself to Chaos and with its touch turned Heler into solid crystal
+[P5-A-B0039-016] S=['HELER'] P=transforms into O=['SOLID CRYSTAL'] MOD={"at_the_instigation_of": ["UI"]} implicit=True ps="turned into" sug=transforms into
+   Q: with its touch turned Heler into solid crystal, suspended high up in the air where his worshippers could not reach him with their prayers.
+[P5-A-B0039-017] S=['CHAOS'] P=kills O=['HELERINGS'] implicit=False ps="were destroyed by" sug=shatters
+   Q: The Helerings were then destroyed by Chaos, save for a few surviving colonies along the Manirian shore.
+[P5-A-B0039-018] S=['ORLANTH'] P=protects O=['HELER'] MOD={"in_on_at": "LIGHTBRINGER'S RETURN"} implicit=False ps="released" sug=one of: protects, rescues / frees, aids
+   Q: Heler remained frozen until Orlanth released him at Lightbringer's Return.
+[P5-A-B0039-019] S=['HELER'] P=travels O=[] MOD={"to": "THE LIVING WORLD"} implicit=False ps="returned to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: At the Dawn, Heler returned to the living world.
+[P5-A-B0039-020] S=['HELER'] P=is member of O=['ORLANTHI RELIGION'] implicit=False ps="has been an integral part of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Since then, Heler has been an integral part of the Orlanthi religion.
+[P5-A-B0039-021] S=['HELER'] P=embodies O=['MUTABILITY'] implicit=False ps="essential aquatic power underlying his true nature" sug=one of: embodies, has domain
+   Q: Heler has an essential aquatic power underlying his true nature: mutability.
+[P5-A-B0039-022] S=['URANGU'] P=is identified as O=['HELER'] implicit=False ps="an earlier shape of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: His cult acknowledges Urangu, an earlier shape of Heler that was more powerful, called Uruthu by the God Learners.
+[P5-A-B0039-023] S=['URUTHU'] P=is alternative name for O=['URANGU'] implicit=False ps="called by the God Learners" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: His cult acknowledges Urangu, an earlier shape of Heler that was more powerful, called Uruthu by the God Learners.
+[P5-A-B0039-024] S=['TARHELERA'] P=is alternative name for O=['TARHELER'] implicit=False ps="called Tarheler and/or Tarhelera" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Heortlings interact more comfortably with the one called Tarheler and/or Tarhelera, a being of ancient provenance who participated in some of their creation stories.
+[P5-A-B0039-025] S=['TOLINGS'] P=is child of O=['TARHELERA', 'YINKIN'] implicit=False ps="is the mother of; with" sug=is child of
+   Q: For example, Tarhelera is the mother of the tolings with Yinkin.
+[P5-A-B0039-026] S=['ORLANTH'] P=protects O=['HELER'] MOD={"from": "AROKA"} implicit=False ps="freed from" sug=rescues / frees
+   Q: Stories tell of how Orlanth freed Heler from Aroka
+[P5-A-B0039-027] S=['VADRUS'] P=kills O=['ENKOSHONS'] implicit=False ps="slaying" sug=one of: kills, shatters, dies
+   Q: another widely known (but less practiced) myth describe Vadrus' slaying of a similar dragon called Enkoshons, thereby liberating Tarena, the Blue Woman.
+[P5-A-B0039-028] S=['VADRUS'] P=protects O=['TARENA'] implicit=False ps="liberating" sug=rescues / frees
+   Q: Vadrus' slaying of a similar dragon called Enkoshons, thereby liberating Tarena, the Blue Woman.
+[P5-A-B0039-029] S=['ENBARALOR'] P=fights O=['KEYEVAL'] implicit=False ps="the fight between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: These myths are the Orlanthi parts of the fight between Enbaralor and Keyeval.
+[P5-A-B0039-030] S=['HELER'] P=manifests O=['CLOUDS', 'RAIN', 'DEW', 'MIST', 'RAINBOWS'] implicit=False ps="is present in; come from him" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Heler is present in every cloud and drop of rain; dew, mist, and rainbows come from him as well.
+[P5-A-B0039-031] S=['SHEEP'] P=is child of O=['HELER'] implicit=True ps="they are his children" sug=is child of
+   Q: Sheep especially are sacred to him, for they are his children.
+[P5-A-B0039-032] S=['BLUE GOD', 'BLUE GODDESS'] P=is alternative name for O=['HELER'] implicit=False ps="they are talking about" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Heler is blue, and whenever Heortlings speak of the Blue God or Blue Goddess, they are talking about Heler or one of his minions.
+[P5-A-B0039-033] S=['HELER'] P=is identified as O=['A HORNED SHEPHERD GOD'] implicit=True ps="portray him as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Some worshippers portray him as a horned shepherd god.
+[P5-A-B0039-034] S=['HELER'] P=transforms into O=['A FIERCE BLUE RAM'] implicit=False ps="often appears as" sug=transforms into
+   Q: Heler often appears as a fierce blue ram with shaggy wool, accompanied by clouds.
+[P5-A-B0039-035] S=['HELER'] P=transforms into O=['ALYNX', 'HAWK', 'BLUE WOMAN'] implicit=True ps="has many other guises, including" sug=transforms into
+   Q: He has many other guises, including alynx, hawk, and blue woman.
+[P5-A-B0039-036] S=['HELER'] P=rides O=['STORM RAM'] implicit=True ps="sometimes rides" sug=rides
+   Q: In his human guises, he sometimes rides a black, blue, or golden Storm Ram.
+[P5-A-B0039-037] S=['GAPADERO'] P=is identified as O=["HELER'S LONGHOUSE"] MOD={"in_on_at": ["ENGIZI RIVER", "STORM REALM"]} implicit=False ps="Heler's Longhouse is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Heler's Longhouse is Gapadero, the "three-height mountain," located on the banks of the Engizi River in the Storm Realm.
+[P5-A-B0039-038] S=['THREE-HEIGHT MOUNTAIN'] P=is alternative name for O=['GAPADERO'] implicit=False ps="Gapadero, the "three-height mountain,"" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Heler's Longhouse is Gapadero, the "three-height mountain,"
+[P5-A-B0039-039] S=['HELERINGS'] P=serves O=['HELER'] implicit=True ps="serve their god" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: After death, Helerings serve their god in many guises.
+[P5-A-B0039-040] S=['HELER'] P=transforms into O=['ANOTHER GENDER'] implicit=True ps="ability to change gender" sug=transforms into
+   Q: This ambiguity stems from Heler's ability to change gender.
+[P5-A-B0039-041] S=['HELER'] P=alters mythic station O=[] implicit=False ps="started out as a hostage or captive, but earned his freedom" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Heler started out as a hostage or captive, but earned his freedom and the trust of his master.
+[P5-A-B0039-042] S=['BARNTAR'] P=is child of O=['ORLANTH'] implicit=False ps="Orlanth's son" sug=is child of
+   Q: He is a great friend of Orlanth's son, Barntar, whom he aids in some stories.
+[P5-A-B0039-043] S=['HELER'] P=protects O=['BARNTAR'] implicit=True ps="is a great friend of; aids" sug=aids
+   Q: He is a great friend of Orlanth's son, Barntar, whom he aids in some stories.
+[P5-A-B0039-044] S=['HELAMAKT'] P=is alternative name for O=['HELER'] implicit=False ps="uses the name" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: When he uses the name Helamakt, Heler is one of the Thunder Brothers.
+[P5-A-B0039-045] S=['HELER'] P=is member of O=['THUNDER BROTHERS'] implicit=False ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: When he uses the name Helamakt, Heler is one of the Thunder Brothers.
+[P5-A-B0039-046] S=['HELER'] P=challenges O=['ELMAL'] implicit=False ps="compete" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Heler and Elmal compete in many ways. || Their fiercest competition, however, is over the affections of Esrola, the Earth.
+[P5-A-B0039-047] S=['ESROLA'] P=is identified as O=['THE EARTH'] implicit=False ps="Esrola, the Earth" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Their fiercest competition, however, is over the affections of Esrola, the Earth.
+[P5-A-B0039-048] S=['HELER', 'ELMAL'] P=serves O=['ORLANTH'] implicit=True ps="are loyal to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Both are loyal to Orlanth, trusted more than most other thanes.
+[P5-A-B0039-049] S=['HELER'] P=departs from O=['WATER TRIBE'] implicit=False ps="has deserted" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Heler is an enemy of all the Water Tribe because he has deserted them and their cause.
+[P5-A-B0039-050] S=['WATER TRIBE'] P=bestows geas O=[] IO=['HELER'] implicit=True ps="cursed" sug=curses
+   Q: They cursed him, and he is no longer part of their great cycle.
+[P5-A-B0039-051] S=['HELER'] P=fights O=['SKY TRIBE'] implicit=False ps="is an enemy of" sug=hates
+   Q: Heler is also an enemy of the Sky Tribe because they, as fire beings, fear and loathe all water powers.
+[P5-A-B0039-052] S=['HELER'] P=defeats O=['DAGA'] MOD={"using": "RAINS"} implicit=False ps="ever defeated by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Daga is Heler's eternal foe, ever defeated by his rains.
+[P5-A-B0039-053] S=['HELER'] P=binds O=['SPECTER OF DROUGHT'] MOD={"using": "IRON JAR", "at_the_command_of": ["ORLANTH", "BARNTAR"]} implicit=False ps="imprison again in his iron jar" sug=binds
+   Q: In this fight, Orlanth or Barntar usually calls Heler forth to combat the Specter of Drought and imprison him again in his iron jar.
+[P5-A-B0039-054] S=['ERELTHAROL'] P=comes into being O=[] MOD={"from": "HELER"} implicit=False ps="A drop of Heler; grew to be a great warrior" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: A drop of Heler escaped Ui, and it grew to be a great warrior during the Darkness Times. || This was Ereltharol the Black Ram, who fought beside Vinga and protected Voriof in the Darkness.
+[P5-A-B0039-055] S=['BLACK RAM'] P=is alternative name for O=['ERELTHAROL'] implicit=False ps="Ereltharol the Black Ram" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: This was Ereltharol the Black Ram, who fought beside Vinga and protected Voriof in the Darkness.
+[P5-A-B0039-056] S=['ERELTHAROL', 'VINGA'] P=fights O=[] implicit=False ps="fought beside" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: This was Ereltharol the Black Ram, who fought beside Vinga and protected Voriof in the Darkness.
+[P5-A-B0039-057] S=['ERELTHAROL'] P=protects O=['VORIOF'] implicit=False ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: This was Ereltharol the Black Ram, who fought beside Vinga and protected Voriof in the Darkness.
+[P5-A-B0039-058] S=['ERELTHAROL', 'HELERINGS'] P=fights O=['CHAOS'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When the Great Mountain exploded, Ereltharol called the remaining Helerings to him, and they fought against Chaos to keep the center of the world whole.
+[P5-A-B0039-059] S=['URAIN'] P=kills O=['ERELTHAROL'] implicit=True ps="slaughtered" sug=one of: kills, shatters, dies
+   Q: Finally, vicious Urain slaughtered the Black Ram, and his cold blood drained down into the wet caverns of Hell, leaving his wife Ithas bitter and cold.
+[P5-A-B0039-060] S=['ITHAS'] P=is spouse of O=['ERELTHAROL'] implicit=True ps="his wife" sug=is spouse of
+   Q: leaving his wife Ithas bitter and cold.
+[P5-A-B0039-061] S=['ERELTHAROL'] P=is member of O=["ORLANTH'S WEAPONTHANES"] implicit=False ps="lives on Orlanth's tula with the other weaponthanes" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Ereltharol lives on Orlanth's tula with the other weaponthanes, and is always ready for war.
+[P5-A-B0039-062] S=['ORLANTH'] P=departs from O=['THE TRIBE'] implicit=False ps="left in exile" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: After Orlanth left the tribe in exile, his brothers started making trouble.
+[P5-A-B0039-063] S=['HELAMAKT'] P=is alternative name for O=['HELER'] implicit=False ps="called himself" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Heler called himself Helamakt, Heler the Warrior, and followed his lord into exile.
+[P5-A-B0039-064] S=['HELER'] P=serves O=['ORLANTH'] implicit=True ps="followed his lord into exile" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Heler called himself Helamakt, Heler the Warrior, and followed his lord into exile.
+[P5-A-B0039-065] S=['HELER'] P=protects O=['ORLANTH'] implicit=False ps="shielded from the blow" sug=one of: protects, rescues / frees, aids
+   Q: Orlanth was hardpressed, so Heler leapt into the fray and shielded his lord from the blow even as the clouds shield the earth from the drying sun.
+[P5-A-B0039-066] S=['ORLANTH', 'HELER'] P=travels O=[] MOD={"to": "THE TRIBE", "at_the_command_of": ["VINGKOT"]} implicit=False ps="summoned back; returned with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When Vingkot finally summoned Orlanth back to the tribe, Heler returned with him.
+[P5-A-B0039-067] S=['NEVALA'] P=is child of O=['ESROLA', 'HELER'] implicit=False ps="the daughter of" sug=is child of
+   Q: Nevala is both the daughter of Esrola and Heler (the child of their YearMarriage) and a daughter of Ernalda and Uroth the Ram.
+[P5-A-B0039-068] S=['NEVALA'] P=is child of O=['ERNALDA', 'UROTH'] implicit=False ps="a daughter of" sug=is child of
+   Q: Nevala is both the daughter of Esrola and Heler (the child of their YearMarriage) and a daughter of Ernalda and Uroth the Ram.
+[P5-A-B0039-069] S=['ESROLA'] P=is spouse of O=['HELER'] implicit=False ps="their YearMarriage" sug=is spouse of
+   Q: the daughter of Esrola and Heler (the child of their YearMarriage)
+[P5-A-B0039-070] S=['SHEEP OF THE LAND'] P=is child of O=['NEVALA'] implicit=True ps="is the mother of" sug=is child of
+   Q: She is the mother of the many sheep of the land, even as Urotha is the mother of the sheep of the sky.
+[P5-A-B0039-071] S=['SHEEP OF THE SKY'] P=is child of O=['UROTHA'] implicit=False ps="is the mother of" sug=is child of
+   Q: even as Urotha is the mother of the sheep of the sky.
+[P5-A-B0039-072] S=['TARENA'] P=is identified as O=['BLUE WOMAN'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Tarena is the Blue Woman and is known by many names, including Tarhelera and Urotha;
+[P5-A-B0039-073] S=['TARHELERA', 'UROTHA'] P=is alternative name for O=['TARENA'] implicit=False ps="is known by many names, including" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Tarena is the Blue Woman and is known by many names, including Tarhelera and Urotha;
+[P5-A-B0039-074] S=['VANGANTH'] P=is child of O=['TARENA'] implicit=True ps="is the mother of" sug=is child of
+   Q: some say that she is the mother of Vanganth as well
+[P5-A-B0039-075] S=['TARENA'] P=is identified as O=['HELER'] implicit=True ps="is merely a form of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Although worshipped as a separate deity, her followers know that she is merely a form of Heler.
+[P5-A-B0039-076] S=['TARENINGS', 'TOLINGS', 'UROTHINGS'] P=is child of O=['TARENA'] implicit=True ps="is the mother of" sug=is child of
+   Q: Using her various names, she is the mother of the many cloud daimones, including the tarenings (cloud hawks), tolings (cloud cats), and urothings (cloud sheep, also called urothtrorol
+[P5-A-B0039-077] S=['UROTHTROROL'] P=is alternative name for O=['UROTHINGS'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: urothings (cloud sheep, also called urothtrorol
+[P5-A-B0040-001] S=["HELER'S CLOUD CHILDREN"] P=is child of O=['HELER'] implicit=False ps="His cloud children" sug=is child of
+   Q: Heler is a god and had many wives and children during his travels in the Godtime. || His cloud children are daimones, but other clouds are spirits.
+[P5-A-B0040-002] S=['UROTHTROROL'] P=transforms into O=['HAWK', 'ALYNX', 'RAM'] implicit=False ps="can appear in the form of" sug=transforms into
+   Q: Clouds are shapechangers, and only a few have an unchangeable form. || Most urothtrorol can, for instance, appear in the form of a hawk or alynx just as easily as a ram.
+[P5-A-B0040-003] S=['UROTH'] P=is identified as O=['HELER'] implicit=False ps="is the primary form taken by" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Uroth the Blue Ram is the primary form taken by Heler.
+[P5-A-B0040-004] S=['UROTH'] P=travels O=[] MOD={"in_on_at": "GENERTELA"} implicit=True ps="leapt from mountaintop to mountaintop across" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In this form, he leapt from mountaintop to mountaintop across all of Genertela.
+[P5-A-B0040-005] S=['UROTH'] P=marries O=['A GODDESS'] implicit=True ps="married a goddess" sug=is spouse of (qual=wedding)
+   Q: After each leap, he married a goddess and fathered sheep, clouds, or other creatures.
+[P5-A-B0040-006] S=['SHEEP', 'CLOUDS', 'OTHER CREATURES'] P=is child of O=['UROTH'] implicit=True ps="fathered" sug=is child of
+   Q: After each leap, he married a goddess and fathered sheep, clouds, or other creatures.
+[P5-A-B0040-007] S=['HELER'] P=rules O=['HELERINGS'] implicit=False ps="led to war" sug=leads
+   Q: This is also how Heler appeared when he led the Helerings to war in God Time, when he defended his children against raiders, and when he met with Orlanth and became an ally instead of a foe.

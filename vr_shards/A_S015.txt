@@ -1,0 +1,300 @@
+[P5-A-B0034-017] S=['GRENFALUR THE EATER'] P=swallows / consumes O=["ARROIN'S MAGIC"] implicit=False ps="ate" sug=swallows / consumes
+   Q: The most devastating attack came from Grenfalur the Eater, who ate Arroin's magic, leaving him almost dead.
+[P5-A-B0034-018] S=['ARROIN'] P=flees to O=['THE CENTER WORLD'] implicit=True ps="fled to" sug=flees to
+   Q: He fled to the Center World to await the return of his mother.
+[P5-A-B0034-019] S=['ARROIN'] P=protects O=['ALDRYAMI'] implicit=True ps="becoming one of their Protectors" sug=one of: protects, rescues / frees, aids
+   Q: There he sought refuge with the Aldryami, becoming one of their Protectors during the Great Winter.
+[P5-A-B0034-020] S=['ARROIN'] P=discovers O=['PLANTS, MINERALS, AND WATERS WITH HEALING PROPERTIES'] implicit=True ps="found" sug=discovers
+   Q: He found plants, minerals, and waters with healing properties
+[P5-A-B0035-001] S=['PRANJALA'] P=embodies O=['THE DEFEAT OF ILLNESS'] implicit=True ps="is the mistress of defeating illness" sug=one of: embodies, has domain
+   Q: Pranjala is the mistress of defeating illness, whether it attacks the body, soul, or mind, and regardless of its Otherworld origin.
+[P5-A-B0035-002] S=['PRANJALA'] P=departs from O=['MALIA'] implicit=True ps="revolted and pulled itself free" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: When Malia became evil, a part of her revolted and pulled itself free.
+[P5-A-B0035-003] S=['MALIA'] P=fights O=['PRANJALA'] implicit=True ps="tried to infect" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The evil portion tried to infect her twin with every known and unknown disease.
+[P5-A-B0035-004] S=['PRANJALA'] P=is twin of O=['MALIA'] implicit=True ps="her twin" sug=is sibling of (qual=twin)
+   Q: The evil portion tried to infect her twin with every known and unknown disease.
+[P5-A-B0035-005] S=['PRANJALA'] P=defeats O=['EACH DISEASE'] MOD={"in_on_at": "THE HUNDRED TRIALS"} implicit=False ps="facing each disease in turn and defeating it" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Pranjala underwent the Hundred Trials, facing each disease in turn and defeating it.
+[P5-A-B0035-006] S=['PRANJALA'] P=flees to O=['CHALANA ARROY'] implicit=False ps="sought refuge instead with" sug=flees to
+   Q: Pranjala was the power of healing, not harming, and so she sought refuge instead with Chalana Arroy.
+[P5-A-B0035-007] S=['DEVOTEES OF PRANJALA'] P=re-enacts O=['PRANJALA'] implicit=True ps="As Pranjala did, the devotee fights the disease" sug=re-enacts
+   Q: As Pranjala did, the devotee fights the disease, overpowering it and learning the secret of defeating it.
+[P5-A-B0035-008] S=['CHALANA ARROY'] P=resurrects O=['THE DEAD'] implicit=False ps="provides the way to reverse the separation of soul and body, restoring life to" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Chalana Arroy provides the way to reverse the separation of soul and body, restoring life to the dead.
+[P5-A-B0035-009] S=['DEVOTEES OF THE SISTERS OF MERCY'] P=descends into O=['THE UNDERWORLD'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="travel to" sug=one of: descends into, dies
+   Q: The devotee must then travel to the Underworld to recover the soul.
+[P5-A-B0035-010] S=['ELMAL'] P=is identified as O=['THE SUN'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Elmal is the Sun.
+[P5-A-B0035-011] S=['ELMAL'] P=departs from O=['THE FIRE TRIBE'] implicit=False ps="Freed from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Freed from the Fire Tribe was faithful Elmal
+[P5-A-B0035-012] S=['ELMAL'] P=serves O=['ORLANTH'] implicit=True ps="is a weapon companion of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He is a weapon companion of Orlanth and a member of the Storm Tribe.
+[P5-A-B0035-013] S=['ELMAL'] P=is member of O=['THE STORM TRIBE'] implicit=True ps="a member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He is a weapon companion of Orlanth and a member of the Storm Tribe.
+[P5-A-B0035-014] S=['ELMAL'] P=protects O=['THE STEAD'] implicit=True ps="defended" sug=one of: protects, rescues / frees, aids
+   Q: During the Darkness, he defended the stead from all foes while Orlanth was on his Lightbringers Quest
+[P5-A-B0035-015] S=['ELMAL'] P=is member of O=['THE FIRE TRIBE'] implicit=False ps="was one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Elmal was one of the Fire Tribe, and like all of his brothers served the Emperor during the Stagnant Age.
+[P5-A-B0035-016] S=['ELMAL'] P=serves O=['THE EMPEROR'] MOD={"in_on_at": "THE STAGNANT AGE"} implicit=False ps="served" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Elmal was one of the Fire Tribe, and like all of his brothers served the Emperor during the Stagnant Age.
+[P5-A-B0035-017] S=['CHALANA ARROY'] P=bestows magic / gifts O=['ELMAL'] implicit=True ps="healed his sight" sug=heals
+   Q: Then Chalana Arroy healed his sight, so that his own brightness no longer blinded him.
+[P5-A-B0035-018] S=['THE FIRE TRIBE'] P=rules O=['THE REST OF THE WORLD'] implicit=False ps="held the rest of the world as slaves" sug=binds
+   Q: Then he saw the true nature of the Fire Tribe, which held the rest of the world as slaves.
+[P5-A-B0035-019] S=['ELMAL'] P=departs from O=["ELMAL'S BROTHERS"] implicit=False ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Elmal left his brothers, saying
+[P5-A-B0035-020] S=['ELMAL'] P=kills O=['TEGHERN'] implicit=True ps="slaying" sug=one of: kills, shatters, dies
+   Q: He performed great deeds, especially slaying Teghern, who had two noses like mammoth trunks, four horns on its head, and four hands upon a snake's body.
+[P5-A-B0035-021] S=['TEGHERN'] P=has monstrous form O=[] implicit=False ps="had two noses like mammoth trunks, four horns on its head, and four hands upon a snake's body" sug=has anomalous form (qual=monstrous)
+   Q: Teghern, who had two noses like mammoth trunks, four horns on its head, and four hands upon a snake's body.
+[P5-A-B0035-022] S=['THE GOD IN THE TURNIP'] P=reveals O=['ELMAL'] IO=['HIS ATTACKERS'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="told his attackers about" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: The other god departed, but whenever he was threatened, he told his attackers about Elmal so that they would attack him instead.
+[P5-A-B0035-023] S=["ELMAL'S BROTHERS"] P=fights O=['ELMAL'] implicit=False ps="attacked and nearly killed" sug=invades / raids
+   Q: His brothers attacked and nearly killed him, but Elmal refused to fight back.
+[P5-A-B0035-024] S=['JUSTICE'] P=protects O=['ELMAL'] implicit=True ps="called upon divine Justice to save him. It did" sug=one of: protects, rescues / frees, aids
+   Q: He called upon divine Justice to save him. || It did, and he escaped with the last particle of decency of the Fire Tribe in the Justice Spear he bore.
+[P5-A-B0035-025] S=['THE LAST PARTICLE OF DECENCY OF THE FIRE TRIBE'] P=survives as relic O=['THE JUSTICE SPEAR'] IO=['ELMAL'] implicit=True ps="escaped with" sug=survives as relic
+   Q: he escaped with the last particle of decency of the Fire Tribe in the Justice Spear he bore.
+[P5-A-B0035-026] S=['ELMAL'] P=travels O=[] MOD={"to": "ORLANTH'S LAND"} implicit=False ps="was about to cross the river into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Elmal finally met Orlanth as he was about to cross the river into Orlanth's land.
+[P5-A-B0035-027] S=['ORLANTH'] P=challenges O=['ELMAL'] implicit=True ps="refused him passage over the bridge" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Orlanth would not let him pass unless he stated his name, and when he did Orlanth refused him passage over the bridge.
+[P5-A-B0035-028] S=['ELMAL'] P=fights O=['ORLANTH'] MOD={"using": "THE JUSTICE SPEAR"} implicit=True ps="the two fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Elmal persisted and the two fought, until Elmal used the Justice Spear to trip both of them into the river.
+[P5-A-B0035-029] S=['ORLANTH'] P=protects O=['ELMAL'] implicit=False ps="rescued" sug=rescues / frees
+   Q: Orlanth could have left Elmal to drown, but he rescued him instead, and thus proved his worth.
+[P5-A-B0035-030] S=['ELMAL', 'ORLANTH'] P=travels O=[] MOD={"to": "ORLANTH'S HALL"} implicit=False ps="accompanied" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Elmal accompanied Orlanth back to his Hall.
+[P5-A-B0035-031] S=['ELMAL'] P=fights O=['AN ARMY OF UZ'] implicit=False ps="helped to drive them off" sug=exiles / banishes
+   Q: The winter was long, and an army of Uz attacked the stead in the deepest part. || Before anyone could speak, Elmal raised his spear and helped to drive them off.
+[P5-A-B0035-032] S=['ELMAL'] P=is member of O=["ORLANTH'S HOUSEHOLD"] implicit=True ps="a seat in the household" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: His reward for his act was a seat in the household.
+[P5-A-B0035-033] S=['ELMAL'] P=fights O=['A CHAOS ARMY'] implicit=False ps="was instrumental in driving them off" sug=exiles / banishes
+   Q: Later a Chaos army attacked, and Elmal again was instrumental in driving them off.
+[P5-A-B0035-034] S=['ORLANTH'] P=alters mythic station O=['ELMAL'] implicit=False ps="named him thane" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Orlanth named him thane and offered him a seat at the high table, which Elmal accepted.
+[P5-A-B0035-035] S=['ELMAL'] P=defeats O=['THE ENEMIES OF THE STORM TRIBE'] MOD={"using": "THE JUSTICE SPEAR"} implicit=True ps="used the Justice Spear to defeat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He used the Justice Spear to defeat the enemies of the Storm Tribe and to resolve disputes honorably.
+[P5-A-B0035-036] S=['ELMAL'] P=rules O=['THE CLAN'] MOD={"at_the_instigation_of": ["ORLANTH"]} implicit=True ps="elected him as their new chieftain" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: he recommended Elmal to the clan, who elected him as their new chieftain.
+[P5-A-B0035-037] S=['ELMAL'] P=kills O=['THE ASSAILANTS'] implicit=False ps="slaughtered" sug=one of: kills, shatters, dies
+   Q: Elmal broke the siege, slaughtered the assailants, and discovered the infiltrators with the aid of a kinsman.
+[P5-A-B0035-038] S=['ELMAL'] P=discovers O=['THE INFILTRATORS'] MOD={"with_the_aid_of": ["A KINSMAN"]} implicit=False ps="discovered" sug=discovers
+   Q: Elmal broke the siege, slaughtered the assailants, and discovered the infiltrators with the aid of a kinsman.
+[P5-A-B0035-039] S=['ELMAL'] P=travels O=[] MOD={"to": "KERO FIN"} implicit=True ps="climbed to the top of" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When the stead was destroyed and he could barely walk, he climbed to the top of Kero Fin and
+[P5-A-B0035-040] S=['ELMAL'] P=illuminates O=['THOSE FEW HUMANS WHO REMAINED'] MOD={"in_on_at": "KERO FIN"} implicit=True ps="continued to shine on" sug=illuminates
+   Q: continued to shine on those few humans who remained.
+[P5-A-B0035-041] S=['ELMAL'] P=protects O=['THE HOUSEHOLD OF ORLANTH'] implicit=True ps="held intact" sug=one of: protects, rescues / frees, aids
+   Q: Yet he never faltered, and he held the household of Orlanth intact for the entire Darkness.
+[P5-A-B0035-042] S=['ORLANTH'] P=bestows magic / gifts O=['A SACRED TORCH'] IO=['ELMAL'] MOD={"from": "THE UNDERWORLD"} implicit=False ps="cast it high into the sky so that it flew to where Elmal waited" sug=one of: bestows, heals, imbues, teaches
+   Q: When Orlanth returned from the Underworld, he bore a sacred torch. || He cast it high into the sky so that it flew to where Elmal waited.
+[P5-A-B0035-043] S=['ELMAL'] P=illuminates O=[] implicit=False ps="was healed so that he burned brightly again" sug=illuminates
+   Q: Elmal caught it and was healed so that he burned brightly again to welcome the return of Orlanth.
+[P5-A-B0035-044] S=['ELMAL'] P=bestows magic / gifts O=['THE RING'] IO=['ORLANTH'] implicit=False ps="handed back" sug=one of: bestows, heals, imbues, teaches
+   Q: Elmal, always loyal, gladly handed the Ring back to Orlanth, who became chieftain again.
+[P5-A-B0035-045] S=['ORLANTHI TRIBESMEN'] P=initiates into cult O=['ELMAL'] implicit=False ps="have worshipped" sug=initiates into cult
+   Q: Orlanthi tribesmen have worshipped Elmal since the Dawn.
+[P5-A-B0035-046] S=['ELMAL'] P=teaches O=['MONRO'] MOD={"in_on_at": "THE TIME OF KING TARKALOR OF SARTAR"} implicit=True ps="inspired" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Elmal inspired one of his worshippers who had gone wrong how to find what he wanted.
+[P5-A-B0035-047] S=['MONRO'] P=is member of O=['CULT OF YELMALIO'] implicit=True ps="discovered that he actually worshipped Yelmalio" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Thus it was that the lord Monro discovered that he actually worshipped Yelmalio, not Elmal.
+[P5-A-B0035-048] S=['ELMAL'] P=rides O=['A FINE HORSE'] implicit=True ps="sits upon" sug=rides
+   Q: He frequently sits upon a fine horse.
+[P5-A-B0035-049] S=['ELMAL'] P=challenges O=['THUNDER BROTHERS'] implicit=True ps="is often their rival for" sug=one of: challenges, breaks oath, betrays, fights
+   Q: He is friendly with the Thunder Brothers, but is often their rival for Orlanth's favor.
+[P5-A-B0035-050] S=['ESROLA'] P=is spouse of O=['ELMAL', 'HELER'] implicit=True ps="takes one of them each summer as a Year-Husband" sug=is spouse of
+   Q: He and Heler are rivals for the affections of Esrola, the Earth, who takes one of them each summer as a Year-Husband.
+[P5-A-B0035-051] S=['ESROLA'] P=is identified as O=['THE EARTH'] implicit=False ps="Esrola, the Earth" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: He and Heler are rivals for the affections of Esrola, the Earth
+[P5-A-B0035-052] S=['ELMAL'] P=protects O=["ORLANTH'S LANDS"] IO=['HORDES OF UZ'] implicit=False ps="kept them from taking" sug=one of: protects, rescues / frees, aids
+   Q: Hordes of Uz arrived on the surface world, but Elmal kept them from taking Orlanth's lands.
+[P5-A-B0035-053] S=['ELMAL'] P=fights O=['EATER OF SKIN', 'AUTHOR OF SORES', 'TELLER OF LIES'] implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Elmal fought many Chaos monsters, such as Eater of Skin, Author of Sores, and Teller of Lies
+[P5-A-B0036-001] S=['ELMAL'] P=discovers O=['THE SECRET LIGHT'] MOD={"in_on_at": "THE UNDERWORLD"} implicit=True ps="is rewarded for his loyalty by a glimpse of" sug=discovers
+   Q: He perseveres, and on Together Day is rewarded for his loyalty by a glimpse of the Secret Light kindling in the Underworld.
+[P5-A-B0036-002] S=['ORLANTH'] P=bestows magic / gifts O=['ELMAL'] implicit=True ps="Orlanth's return heals him" sug=heals
+   Q: Finally, on the last day of Sacred Time, Orlanth's return heals him.
+[P5-A-B0036-003] S=['HEORTLINGS'] P=sacrifices O=['ELMAL'] MOD={"in_on_at": "SURVIVAL DAY"} implicit=True ps="sacrifice to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: All Heortlings sacrifice to Elmal on this day.
+[P5-A-B0036-004] S=['WORSHIPPERS OF ELMAL'] P=re-enacts O=["ELMAL'S GREATEST TRIAL"] implicit=False ps="share their god's greatest trial in ceremonies" sug=re-enacts
+   Q: Elmal worshippers share their god's greatest trial in ceremonies on this day, renewing their faith in themselves and their god.
+[P5-A-B0036-005] S=['HEORTLINGS'] P=dedicates relic O=['THE FIRST HEARTH OF ANY STEAD'] IO=['ELMAL'] implicit=False ps="dedicate to" sug=dedicates relic
+   Q: Heortlings dedicate the first hearth of any stead to Elmal.
+[P5-A-B0036-006] S=['ELMAL'] P=travels O=[] MOD={"via": ["THE SKY", "THE UNDERWORLD"]} implicit=False ps="cyclic journey across the sky and through" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: reflecting Elmal's cyclic journey across the sky and through the Underworld.
+[P5-A-B0036-007] S=['ELMAL'] P=illuminates O=[] MOD={"in_on_at": "KERO FIN"} implicit=True ps="shone" sug=illuminates
+   Q: The top of Kero Fin, from whence he shone throughout the entire Darkness, is his holiest place in the world.
+[P5-A-B0036-008] S=['ELMAL'] P=protects O=['A MINOR WATER GODDESS'] MOD={"from": "THREE CREATURES OF CHAOS"} implicit=False ps="saved" sug=rescues / frees
+   Q: It originated when Elmal saved a minor water goddess from three creatures of Chaos, but then caused her to cry when he refused to join with her.
+[P5-A-B0036-009] S=["ABRINNA'S TEARS"] P=comes into being O=[] MOD={"in_on_at": "THE FOOT OF THE STORMWALK MOUNTAINS", "at_the_instigation_of": ["ELMAL"]} implicit=False ps="originated when" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Abrinna's Tears is a small pool at the foot of the Stormwalk Mountains in Heortland. || It originated when Elmal saved a minor water goddess from three creatures of Chaos, but then caused her to cry when he refused to join with her.
+[P5-A-B0036-010] S=['ELMAL'] P=rules O=['THE CLAN'] implicit=False ps="was elected to be chieftain of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: When Orlanth left on the Lightbringer's Quest, Elmal was elected to be chieftain of the clan.
+[P5-A-B0036-011] S=['ANATYR'] P=is child of O=['ELMAL'] implicit=False ps="his son" sug=is child of
+   Q: Elmal later gave his son Anatyr the right to the clan chieftain's torc after he proved himself an able leader.
+[P5-A-B0036-012] S=['ELMAL'] P=bestows magic / gifts O=["THE RIGHT TO THE CLAN CHIEFTAIN'S TORC"] IO=['ANATYR'] implicit=False ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: Elmal later gave his son Anatyr the right to the clan chieftain's torc after he proved himself an able leader.
+[P5-A-B0036-013] S=['ELMAL'] P=serves O=['ORLANTH'] implicit=False ps="gave up the torc and returned to his duties as a thane" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: When Orlanth returned, Elmal gave up the torc and returned to his duties as a thane.
+[P5-A-B0036-014] S=['BEREN THE RIDER'] P=travels O=[] MOD={"to": "THE LANDS OF THE VINGKOTLINGS"} implicit=False ps="came to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Beren the Rider was a foreigner who came to the lands of the Vingkotlings during the Darkness.
+[P5-A-B0036-015] S=['REDAYLDE'] P=is child of O=['VINGKOT'] implicit=False ps="the daughter of" sug=is child of
+   Q: He proved his worth and loyalty and won the heart of Redaylde, the daughter of Vingkot.
+[P5-A-B0036-016] S=['BEREN THE RIDER'] P=is spouse of O=['REDAYLDE'] implicit=True ps="won the heart of" sug=is spouse of
+   Q: He proved his worth and loyalty and won the heart of Redaylde, the daughter of Vingkot.
+[P5-A-B0036-017] S=['THE BERENETHTELLI TRIBE'] P=claims ancestry O=['BEREN THE RIDER'] implicit=True ps="He became the father of" sug=claims ancestry
+   Q: He became the father of the Berenethtelli Tribe of the Vingkotlings.
+[P5-A-B0036-018] S=['BEREN THE RIDER'] P=claims ancestry O=['HYALORINGS'] implicit=True ps="his Hyaloring ancestors" sug=claims ancestry
+   Q: He brought with him the horses of his Hyaloring ancestors, and taught his children how to raise and ride those noble animals.
+[P5-A-B0036-019] S=['BEREN THE RIDER'] P=teaches O=["BEREN'S CHILDREN"] implicit=True ps="taught his children how to raise and ride" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He brought with him the horses of his Hyaloring ancestors, and taught his children how to raise and ride those noble animals.
+[P5-A-B0036-020] S=['ELMAL'] P=serves O=['ORLANTH'] implicit=False ps="is Orlanth's weaponthane" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Elmal is Orlanth's weaponthane, and during the Vingkotling Age he defended the Storm Realm many times.
+[P5-A-B0036-021] S=['ELMAL'] P=protects O=['THE STORM REALM'] MOD={"in_on_at": "THE VINGKOTLING AGE"} implicit=False ps="defended" sug=one of: protects, rescues / frees, aids
+   Q: Elmal is Orlanth's weaponthane, and during the Vingkotling Age he defended the Storm Realm many times.
+[P5-A-B0036-022] S=['INITIATES OF ELMAL HEARTHGUARD'] P=re-enacts O=['ELMAL'] implicit=False ps="defend their clans as their god did" sug=re-enacts
+   Q: Most initiates of Elmal worship the Hearthguard subcult, and so defend their clans as their god did.
+[P5-A-B0036-023] S=['ESROLA'] P=is spouse of O=['ELMAL', 'HELER'] MOD={"in_on_at": "THE STORM TRIBE AGE"} implicit=False ps="each year she chose one as her Year-Husband" sug=is spouse of
+   Q: Elmal and Heler were rivals for Esrola in the Storm Tribe Age, and each year she chose one as her Year-Husband.
+[P5-A-B0036-024] S=['ELMAL'] P=bestows magic / gifts O=['SUN-LOVING FLOWERS AND BRIGHT, WARM WEATHER'] IO=['ESROLA'] implicit=True ps="offered" sug=one of: bestows, heals, imbues, teaches
+   Q: Elmal offered sun-loving flowers and bright, warm weather for growing.
+[P5-A-B0036-025] S=['ELMALHARA'] P=is identified as O=['ELMAL'] implicit=False ps="know as the fertile aspect of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: All Heortlings know Elmalhara as the fertile aspect of Elmal
+[P5-A-B0036-026] S=['REDALDA'] P=is child of O=['ORLANTH', 'ERNALDA'] implicit=False ps="is the daughter of" sug=is child of
+   Q: Redalda is the daughter of Orlanth and Ernalda.
+[P5-A-B0036-027] S=['ORLANTH'] P=establishes cult O=["THE FOREIGNER'S WEDDING"] implicit=False ps="created" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: When Elmal joined the Storm Tribe, Orlanth created the Foreigner's Wedding so that Redalda could marry the Sun Thane.
+[P5-A-B0036-028] S=['REDALDA'] P=marries O=['ELMAL'] MOD={"at_the_instigation_of": ["ORLANTH"], "in_accordance_with": ["THE FOREIGNER'S WEDDING"]} implicit=False ps="could marry" sug=is spouse of (qual=wedding)
+   Q: When Elmal joined the Storm Tribe, Orlanth created the Foreigner's Wedding so that Redalda could marry the Sun Thane.
+[P5-A-B0036-029] S=['REDALDA'] P=embodies O=['HORSES'] implicit=True ps="has been the goddess of" sug=one of: embodies, has domain
+   Q: Since then, she has been the goddess of horses.
+[P5-A-B0036-030] S=['RIGSDAL'] P=protects O=['THE POLE STAR GATE'] implicit=False ps="never leaves his post at" sug=one of: protects, rescues / frees, aids
+   Q: Rigsdal is the Night Watchman who never leaves his post at the Pole Star Gate.
+[P5-A-B0036-031] S=['RIGSDAL'] P=serves O=['ELMAL'] implicit=True ps="serves" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He is called the "thane's thane," because he serves Elmal as loyally as Elmal serves Orlanth.
+[P5-A-B0036-032] S=['ELMAL'] P=bestows magic / gifts O=['THE TORCH GIFT'] IO=['DISTANT STEADS'] implicit=False ps="take the torch gift to" sug=one of: bestows, heals, imbues, teaches
+   Q: In the Darkness, Elmal often had to leave to take the torch gift to distant steads.
+[P5-A-B0036-033] S=['BRIGHT FRIEND'] P=is alternative name for O=['ELMAL'] implicit=True ps="Bright Friend" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: I do not neglect you, Bright Friend.
+[P5-A-B0036-034] S=['ORLANTH'] P=bestows geas O=["THE PROTECTION OF ORLANTH'S PEOPLE"] IO=['ELMAL'] implicit=True ps="entrust" sug=one of: bestows geas, curses
+   Q: It is to you that I entrust the greatest task of all: the protection of my people while I am away.
+[P5-A-B0036-035] S=['VORIOF'] P=protects O=['THE SHEEP'] implicit=False ps="protects" sug=one of: protects, rescues / frees, aids
+   Q: Although Voriof protects the sheep
+[P5-A-B0036-036] S=['UROX'] P=fights O=['CHAOS'] implicit=False ps="is a stout fighter of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Although Urox is a stout fighter of Chaos
+[P5-A-B0036-037] S=['ELMAL', 'ORLANTH'] P=pledges oath with O=[] implicit=True ps="traded shields to make a bond of love and allegiance" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: The two gods traded shields to make a bond of love and allegiance between them.
+[P5-A-B0036-038] S=['ELMAL'] P=protects O=['THE STEAD'] implicit=False ps="remained to protect" sug=one of: protects, rescues / frees, aids
+   Q: Then Orlanth left on this great quest, and Elmal remained to protect the stead.
+[P5-A-B0036-039] S=['ELMAL'] P=wounds O=['EATER OF SKIN'] MOD={"using": "ELMAL'S SPEAR"} implicit=True ps="drove his spear into the creature's eye" sug=wounds
+   Q: Elmal leapt from his position in front of the stead and drove his spear into the creature's eye.
+[P5-A-B0036-040] S=['EATER OF SKIN'] P=fights O=['ELMAL'] implicit=False ps="threw its seven terrible mouths at" sug=invades / raids
+   Q: Eater of Skin threw its seven terrible mouths at Elmal, and he stopped every one of them with the shield Orlanth had lent him.
+[P5-A-B0036-041] S=['ORLANTH'] P=bestows magic / gifts O=["ORLANTH'S SHIELD"] IO=['ELMAL'] implicit=True ps="had lent" sug=bestows
+   Q: he stopped every one of them with the shield Orlanth had lent him.
+[P5-A-B0036-042] S=['EATER OF SKIN'] P=has monstrous form O=[] implicit=False ps="seven terrible mouths / five crushing feet, each of them the size of a stead" sug=has anomalous form (qual=monstrous)
+   Q: Eater of Skin threw its seven terrible mouths at Elmal || Eater of Skin tried to stamp on Elmal with its five crushing feet, each of them the size of a stead.
+[P5-A-B0036-043] S=['ELMAL'] P=kills O=['EATER OF SKIN'] implicit=True ps="hurled it into the sky, where it burned to ash" sug=one of: kills, shatters, dies
+   Q: Then he seized Eater of Skin and hurled it into the sky, where it burned to ash.
+[P5-A-B0036-044] S=['ELMAL'] P=illuminates O=[] implicit=False ps="put himself back together and shone again" sug=illuminates
+   Q: Yet when morning came, Elmal put himself back together and shone again, for he had been steadfast.
+[P5-A-B0036-045] S=['ELMAL'] P=kills O=['AUTHOR OF SORES'] implicit=False ps="destroyed" sug=one of: kills, shatters, dies
+   Q: Author of Sores came, and Elmal destroyed her in a battle that was even more ferocious than the last.
+[P5-A-B0037-001] S=['MAKER OF BAD GROWTH'] P=fights O=['ELMAL'] implicit=False ps="tried to slay" sug=invades / raids
+   Q: Finally, Maker of Bad Growth came and tried to slay Elmal by causing the soft parts inside him to multiply like maggots
+[P5-A-B0037-002] S=['ELMAL'] P=defeats O=['MAKER OF BAD GROWTH'] implicit=True ps="burned" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: in the morning his brightness burned all of the extra pieces away, and burned Maker of Bad Growth, too.
+[P5-A-B0037-003] S=['ELMAL'] P=protects O=['OTHER STEADS OF THE VINGKOTLINGS'] implicit=False ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: In this way, Elmal drew attention away from other steads of the Vingkotlings, and thus protected them, too.
+[P5-A-B0037-004] S=['BAD QUESTIONER'] P=is alternative name for O=['TELLER OF LIES'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Chaos Gods chose Teller of Lies, also called Bad Questioner, also called Breaker of Souls.
+[P5-A-B0037-005] S=['BREAKER OF SOULS'] P=is alternative name for O=['TELLER OF LIES'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Chaos Gods chose Teller of Lies, also called Bad Questioner, also called Breaker of Souls.
+[P5-A-B0037-006] S=['TELLER OF LIES'] P=serves O=['CHAOS GODS'] implicit=False ps="the Chaos Gods chose" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: To perform this terrible task, the Chaos Gods chose Teller of Lies
+[P5-A-B0037-007] S=['TELLER OF LIES'] P=has monstrous form O=[] implicit=True ps="had a thousand forms; most were horrible" sug=has anomalous form (qual=monstrous)
+   Q: This being had a thousand forms; most were horrible, but some were beautiful.
+[P5-A-B0037-008] S=['TELLER OF LIES'] P=transforms into O=['A WOMAN ELMAL HAD LOVED'] MOD={"in_on_at": "ORLANTH'S STEAD"} implicit=False ps="disguised as" sug=transforms into
+   Q: Teller of Lies came to Orlanth's stead disguised as a woman Elmal had loved when he belonged to the Fire Tribe.
+[P5-A-B0037-009] S=['ELMAL'] P=is member of O=['FIRE TRIBE'] implicit=False ps="belonged to" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: a woman Elmal had loved when he belonged to the Fire Tribe.
+[P5-A-B0037-010] S=['ORLANTH'] P=defeats O=['ELMAL'] implicit=True ps="was able to beat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Because of me, the upstart god, Orlanth, was able to beat you and steal your pride.
+[P5-A-B0037-011] S=['ELMAL'] P=is member of O=['STORM TRIBE'] implicit=True ps="married into his tribe" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: I married into his tribe, and love only my wife.
+[P5-A-B0037-012] S=['TELLER OF LIES'] P=transforms into O=['A BLIND ORACLE'] implicit=False ps="disguised as" sug=transforms into
+   Q: Teller of Lies returned, disguised as a blind oracle known to the Storm Tribe.
+[P5-A-B0037-013] S=['ELMAL'] P=blinds O=['SOME OF THE PEOPLE'] implicit=False ps="his smile blinded" sug=wounds (qual=blinding)
+   Q: This show of devotion moved Elmal so that he smiled, and his smile blinded some of the people.
+[P5-A-B0037-014] S=['ELMAL'] P=rules O=["SOME OF ORLANTH'S PEOPLE"] implicit=True ps="will lead" sug=leads
+   Q: If some of you wish to call me a king, I will lead you.
+[P5-A-B0037-015] S=['ELMAL'] P=serves O=['ORLANTH'] implicit=True ps="will be my king" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: for Orlanth will be my king when he returns.
+[P5-A-B0037-016] S=['TELLER OF LIES'] P=transforms into O=['THE EMPEROR'] implicit=False ps="in the form of" sug=transforms into
+   Q: When Teller of Lies returned, this time in the form of the Emperor Elmal had once served
+[P5-A-B0037-017] S=['ELMAL'] P=serves O=['THE EMPEROR'] implicit=False ps="had once served" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Emperor Elmal had once served
+[P5-A-B0037-018] S=['ELMAL'] P=departs from O=['BRIGHT TRIBE'] implicit=True ps="once left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: just as I once left the Bright Tribe to serve Orlanth.
+[P5-A-B0037-019] S=['ELMAL'] P=serves O=['ORLANTH'] implicit=True ps="to serve" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: just as I once left the Bright Tribe to serve Orlanth.
+[P5-A-B0037-020] S=['TELLER OF LIES'] P=swallows / consumes O=['THE GREAT STEED'] implicit=False ps="devouring it whole" sug=swallows / consumes
+   Q: Teller of Lies slavered in hunger and leapt upon the great steed, devouring it whole.
+[P5-A-B0037-021] S=['THE GREAT STEED'] P=is identified as O=['ELMAL'] implicit=True ps="was actually Elmal" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: But Elmal had tricked it; the horse was not his soul, but was actually Elmal in his bright entirety.
+[P5-A-B0037-022] S=['ELMAL'] P=dismembers O=['TELLER OF LIES'] MOD={"using": "SHIELD"} implicit=False ps="tore apart from the inside" sug=dismembers
+   Q: Elmal tore Teller of Lies apart from the inside, using the sharpened edges of the shield that Orlanth had given him.
+[P5-A-B0037-023] S=['ORLANTH'] P=bestows magic / gifts O=['SHIELD'] IO=['ELMAL'] implicit=True ps="had given" sug=one of: bestows, heals, imbues, teaches
+   Q: the shield that Orlanth had given him.
+[P5-A-B0037-024] S=['TELLER OF LIES'] P=is identified as O=['NOTHING'] implicit=False ps="Revealed as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Revealed as Nothing, Teller of Lies was destroyed.
+[P5-A-B0037-025] S=['EURMAL'] P=comes into being O=[] MOD={"from": "RATSLAFF"} implicit=False ps="began as a piece of impudent snot from" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Eurmal began as a piece of impudent snot from Ratslaff, the god of disorder on the Gloranthan Council.
+[P5-A-B0037-026] S=['RATSLAFF'] P=is member of O=['GLORANTHAN COUNCIL'] implicit=False ps="the god of disorder on" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Ratslaff, the god of disorder on the Gloranthan Council.
+[P5-A-B0037-027] S=['RATSLAFF'] P=swallows / consumes O=['EURMAL'] implicit=True ps="tore off his whole nose and ate it" sug=swallows / consumes
+   Q: could not be picked until Ratslaff tore off his whole nose and ate it.
+[P5-A-B0037-028] S=['EURMAL'] P=kills O=['RATSLAFF'] implicit=True ps="caused a fecal flood that drowned" sug=one of: kills, shatters, dies
+   Q: Once eaten it then would not be digested, and eventually caused a fecal flood that drowned Ratslaff.
+[P5-A-B0037-029] S=['EURMAL'] P=shatters O=['UNBREAKABLE MOUNTAIN'] implicit=True ps="broke a cliff face off" sug=shatters
+   Q: he broke a cliff face off the Unbreakable Mountain, just to hear it crash down.
+[P5-A-B0037-030] S=['EURMAL'] P=alters mythic station O=['SEVEN FISHES OF EVIN'] implicit=True ps="made mix up" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: He made the seven fishes of Evin mix up so they had sex with their own sisters, and now there are fourteen fish and seven devilfish.
+[P5-A-B0037-031] S=['A MOUSE'] P=defeats O=['THE STRONG PEOPLE'] MOD={"in_on_at": "STRONG-ARM CONTEST", "at_the_instigation_of": ["EURMAL"]} implicit=True ps="being beat by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He mocked the strong people so they all came to the Strong-arm Contest and were humiliated by being beat by a mouse.
+[P5-A-B0037-032] S=['LIGHTFACE'] P=kills O=['EURMAL'] MOD={"using": "SPEARS"} implicit=True ps="made him into the first living target for his spears" sug=one of: kills, shatters, dies
+   Q: such as when he cuckolded Lightface, who angrily made him into the first living target for his spears.
+[P5-A-B0037-033] S=['OAKFED'] P=kills O=['EURMAL'] implicit=True ps="burnt him to nothing" sug=one of: kills, shatters, dies
+   Q: He was destroyed, as when Oakfed burnt him to nothing because he had stolen.
+[P5-A-B0037-034] S=['THE AQUATIC CREATURES'] P=dismembers O=['EURMAL'] implicit=True ps="divided up" sug=dismembers
+   Q: He was divided up, once by the aquatic creatures so that frog got is ability to sing, turtle got his running power, sunfish got his combat power, and so on.
+[P5-A-B0037-035] S=['EURMAL'] P=resurrects O=['EURMAL'] implicit=True ps="was always reassembled, rejuvenated, resurrected, or reborn" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: However, he was always reassembled, rejuvenated, resurrected, or reborn to new parents.
+[P5-A-B0037-036] S=['EURMAL'] P=serves O=['ORLANTH'] implicit=True ps="became a companion of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: everyone does know that he became a companion of Orlanth.
+[P5-A-B0037-037] S=['ORLANTH'] P=pledges oath with O=['EURMAL'] MOD={"in_accordance_with": ["TRICKSTER BOND"]} implicit=True ps="accepted under the strict conditions of" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Nonetheless, he accepted Eurmal, but only under the strict conditions of the Trickster Bond.
+[P5-A-B0037-038] S=['EURMAL'] P=is member of O=['LIGHTBRINGERS'] implicit=False ps="became one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Thus, Eurmal became one of the Lightbringers.
+[P5-A-B0037-039] S=['YOMAT'] P=is child of O=['EURMAL'] implicit=False ps="gave birth to" sug=is child of
+   Q: Eurmal seduced Sinjota at the Lower Gates, and later gave birth to the god Yomat.
+[P5-A-B0037-040] S=['EURMAL'] P=descends into O=['BRIAR CREVASSE'] MOD={"with_the_aid_of": ["ZORAK ZORAN"]} implicit=True ps="tricked Zorak Zoran into throwing him into" sug=tricks
+   Q: He tricked Zorak Zoran into throwing him and his basket (where the others were hiding) into the briar crevasse.
+[P5-A-B0037-041] S=['EURMAL'] P=steals O=['FIRE'] MOD={"from": "VESTKARTHEN OF THE DEEP"} implicit=True ps="stole" sug=steals
+   Q: He stole fire from Vestkarthen of the Deep and gave it to humans.
+[P5-A-B0037-042] S=['EURMAL'] P=bestows magic / gifts O=['FIRE'] IO=['HUMANS'] implicit=True ps="gave it to" sug=one of: bestows, heals, imbues, teaches
+   Q: He stole fire from Vestkarthen of the Deep and gave it to humans.
+[P5-A-B0037-043] S=['CHAVGAZ'] P=is identified as O=['THE CHAOS WOLF'] implicit=False ps="the Chaos Wolf" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: He slid everyone past Chavgaz, the Chaos Wolf;
+[P5-A-B0037-044] S=['GUGUVAR'] P=swallows / consumes O=['LIGHTBRINGERS'] implicit=False ps="swallowed" sug=swallows / consumes
+   Q: made Guguvar vomit forth the Lightbringers after they were swallowed;
+[P5-A-B0037-045] S=['THE LIGHTBRINGERS'] P=transforms into O=['WOMEN'] MOD={"in_on_at": "NO MEN PLAINS", "at_the_instigation_of": ["EURMAL"]} implicit=True ps="turned everyone into" sug=transforms into
+   Q: turned everyone into women to pass through the No Men Plains.
+[P5-A-B0037-046] S=['EURMAL'] P=strikes O=['CHALANA ARROY'] MOD={"to": "RIVER OF SWORDS"} implicit=True ps="pushed into" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: He pushed Chalana Arroy into the River of Swords
+[P5-A-B0037-047] S=['ORLANTH'] P=protects O=['EURMAL'] implicit=True ps="his own protector" sug=one of: protects, rescues / frees, aids
+   Q: even betrayed his own protector Orlanth.
+[P5-A-B0037-048] S=['EURMAL'] P=steals O=['SPARK OF LIFE'] IO=['ORLANTH'] MOD={"from": "JAGREKRIAND", "purpose_clause": "TO AID"} implicit=True ps="stole" sug=steals
+   Q: he redeemed himself when he stole the spark of life from Jagrekriand's secret purse to save Orlanth from where he lay mingled in the dust.

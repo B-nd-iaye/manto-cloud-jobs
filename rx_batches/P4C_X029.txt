@@ -1,0 +1,154 @@
+### TR:00246 | TR | page n/a | The Dawn Age
+FIGURES: ARKAT, GBAJI, HARMAST BAREFOOT
+TEXT: A decade later Harmast Barefoot was the first human being to assemble the myths and perform the entire Lightbringer's Quest. He brought back with him the anti-hero Arkat, a perfect foil to defeat Gbaji, the anti-god. The Heortlings conquered Dara Happa, threw down all the altars to Tarumath, and banished Gbaji back to Chaos.
+TARGETS: punishes / exiles
+
+### TR:00297 | TR | page n/a | S Subcults of Ernalda the H ealer
+FIGURES: ERNALDA, ORLANTH
+TEXT: Belveren was the first being to heal the damage caused by Chaos. Before Belveren, people had to take nearly impossible measures to neutralize something tainted by Chaos. Objects were destroyed in the Vent or another live volcano; cast into the Hell Crack, the Homeward Ocean, or another bottomless pit; or transformed by the Undying Fire of Dagaralobran or the Ultimate Winds of Orlanth. Belveren was blessed by Ernalda to look at a tainted land, artifact, or person with Ernalda's Eyes, and to cleanse it of Chaos.
+TARGETS: heals
+
+### TR:00300 | TR | page n/a | S Subcults of Ernalda the H ealer
+FIGURES: ERNALDA, ORLANTH
+TEXT: *Secret*: **Combat Healing** (Instantly use **Healing** affinity on others during combat, even while taking another action.) ## m **Enferalda the Supporter** Orlanth once complained that fighting was getting more difficult and he was getting hurt more often. When Ernalda asked if there was another way, Orlanth said "No, just my way." She then convinced Orlanth to let one of her servants go along to heal him when he got hurt. She disguised herself as Enferalda and traveled along with her husband as he went on adventure. She bore her own pack, plus food, water, and extra gear. Orlanth was surprised. "You can't carry all of that!" he said. She only smiled and continued walking, for she bore her burdens with Endurance, a little friend who never got tired. *The Swan's Burden* tells the story of how she taught Orlanth to find success where his simple, straight-ahead approach failed. His resistance to Enferalda's flirting provides an amusing exchange, and Orlanthdovar (Orlanth the Faithful) is invoked at wedding ceremonies.
+TARGETS: speaks / prophesies; heals
+
+### TR:00304 | TR | page n/a | THUNDER REBELS
+FIGURES: ERNALDA, ORLANTH, YELM
+TEXT: After Ernalda died and Orlanth left, Orventili's peacemaking failed, and the Rug became heavier and harder to unroll. At last, at Overweary Creek, Orventili rolled herself into the Rug and fell asleep. She awoke in the Underworld when Orlanth found Ernalda. For the first time in ages, her peacemaking was successful when Orlanth and Yelm sat upon the Rug and negotiated the Great Compromise. Orventili is chaste, and owns no property except the Rug of Peace. She makes new baskets each time she unrolls the Rug, and lives entirely upon the gifts of others.
+TARGETS: possesses / wields; dies; sleeps / wakes
+
+### TR:00307 | TR | page n/a | J **Vorela the Animal Healer
+FIGURES: ESROLA, YINKIN
+TEXT: When Angdartha took Esrola away, all of the plants went to sleep. But people still lived off their animals, so Angdartha sent his servants to capture or kill all of the beasts. Some were only wounded by the servants, and managed to escape. Yinkin was one of those who escaped. He led the other animals to Vorela, and she healed them of their wounds. When Esrola returned she blessed Vorela for saving her children.
+TARGETS: heals
+
+### TR:00346 | TR | page n/a | Subcults of Orlanth Adventurous
+FIGURES: ORLANTH, YINKIN
+TEXT: Orlanth called himself Desemborth when he first took something from another god. He was a prisoner of Lord Kavan, who locked him in the Ebon Cage. Yinkin helped him escape, and Orlanth took the Sandals of Darkness to hide from Elvor, who had made them. The two brothers fled, but their foes still hunt them.
+TARGETS: hunts
+
+### TR:00352 | TR | page n/a | Y **Mastakos Mover
+FIGURES: DALIATH, MAGASTA, MASTAKOS, ORLANTH
+TEXT: Mastakos was born in the Undersea, kept hidden by Magasta at the bottom of Daliath's Well of Wisdom. Orlanth quested mightily for a power that would let him move anywhere in the cosmos, and finally won the right to drink from the Well. He drained the cup dry, and at the bottom found Mastakos, who became his companion. Since then, Mastakos has only stopped moving once, when outlaws wounded him. Orlanth rescued and healed him so that the Three-Legged Sign was again whole upon his breast.
+TARGETS: heals
+
+### TR:00354 | TR | page n/a | X **Ormalaya the Hunter
+FIGURES: HEDKORANTH, THUNDER BROTHERS
+TEXT: The first tale of Ormalaya tells how Varanorlanth chose him as one of the Discovery Band. He already carried his bow and arrows, and he helped Varanorlanth to explore the world. He led people into the wilderness and helped them to live by teaching them to hunt. He was one of the raiders in the famous Plundering of Aron. He went home when Hedkoranth got more praise than he did, and thereafter is not counted among the Thunder Brothers. His wife is Indeg, who made the thorn basket that always has another handful of dried berries in it.
+TARGETS: speaks / prophesies; possesses / wields; hunts
+
+### TR:00366 | TR | page n/a | Orlanth in the Wilderness
+FIGURES: THUNDER BROTHERS, UZ, VINGKOT
+TEXT: ## m **Vingkot Champion** Vingkot was a great leader, a maker of laws, a strong worker, and a powerful warrior. No one ever disobeyed him, because he was always right. When the Uz came, Vingkot defended his people. Starkval said that he should command the *fyrd* to defend the tribe, but Vingkot said there was a better way. He led the Thunder Brothers into the darkness so that the battles would destroy the Uz lands, not the Storm Tribe's. When the Uz saw him coming they sent out their best warriors to fight the Champion's Battle. One by one, Vingkot defeated them, and the Uz scattered like shadows before the light.
+TARGETS: breaks oath
+
+### TR:00399 | TR | page n/a | Layers of Law
+FIGURES: ERNALDA, ORLANTH
+TEXT: **— Orlanth's Pledge to Ernalda** As a youth, Orlanth took fathered many children. He never stayed around for long, however, for he was young and full of lust and wanderlust. Although he later found and accepted some of these children, in those days he did not see them born, and so they did not have a place in his heart.
+TARGETS: loves / desires
+
+### KoS:00073 | KoS | pdf.21 | The Queen of Holay
+FIGURES: ARGRATH
+TEXT: At this time the Lunar Empire changed its name. It was called the Good Empire. Perhaps they hoped that this would also change its nature, or that people would be fooled to believe that it had. At that time King Argrath was courting the Queen of Holay88 for marriage. Some people objected to his polygamy, but the women from Esrolia would have said it was acceptable. The Queen told him that he had to do two things to earn her love and respect. He had to defend her from the Empire, and he had to find some way which would not destroy her queendom through war. If he did those, then she would learn to love him89.
+TARGETS: speaks / prophesies
+
+### KoS:00076 | KoS | pdf.21 | The Queen of Holay
+FIGURES: ARGRATH, RED EMPEROR
+TEXT: Argrath went to the Queen and he asked what he should do. "There is always another way," she said to him95. Argrath asked his Companions for advice, and they said that if they could not fight, they should flee, for certainly the Red Emperor would not suspend this feud96 simply because Argrath wouldn't fight. But Argrath would not desert his home to the invaders. Every day Argrath and a
+TARGETS: hates / fears
+
+### KoS:00083 | KoS | pdf.22 | The Queen of Holay
+FIGURES: ARGRATH
+TEXT: When he had been young Argrath once aided some giants101, and they had never forgotten his help. They had also seen the smoke, and they rushed to help their friend. All three kinds of giants came to help, and the Lunar Army was ready to fight them. Jareel especially was eager to slice her foe, and to sing them to death. But when she saw Argrath, who was refusing to fight because of love, she was struck with awe, and remembered her own lover back at camp. She then lusted for him more than she had lusted to kill Argrath, and went to camp to take him. Then the giants attacked the Lunar Army, and it was called the Battle of Gargantuans102. Argrath then sowed the Dragontooth Runners. No humans could stand before them, and the Lunar Army was driven away.
+TARGETS: loves / desires
+
+### KoS:00086 | KoS | pdf.22 | The Queen of Holay
+FIGURES: ARGRATH
+TEXT: <sup>104</sup> Probably the giant called Gonn Orta, of the Rockwood Mountains. <sup>105</sup> A creature unknown, but for this reference. <span id="page-22-0"></span>Too‑Big‑To‑Be‑Seen stood between the Red Moon and the field of battle for a week, and the enemies of Argrath died of fright.]106
+TARGETS: dies
+
+### KoS:00100 | KoS | pdf.25 | Argrath Lightbringer
+FIGURES: ARGRATH, JAR-EEL
+CONTEXT: - 121 A Sartar rebel, conquered years earlier. See *CHDP*. "Fazzur Wideread." - 122 We do not know what this forge means. <span id="page-24-0"></span> And at last, with much loss123, Argrath found the prisoner, and broke the chains which held him. Chalana Arroy124 healed the pulped soul and spirit. The ruins of Sheng Seleris rose, chanted three things, and then raised himself up once again125.
+TEXT: He took two steps, and was back in the world of the living. Argrath followed him from the Underworld, and Sheng went to his own people in the Redlands126 and established himself among them as leader once again.127 Argrath returned to his people, who had once again been conquered by the latest shape which the Lunar Empire had taken. Its inhabitants called themselves citizens of the Good Empire128, and they were led by King Phargentes, the son of King Moirades and Jar-eel. He was a cruel king.
+TARGETS: dwells at
+
+### KoS:00107 | KoS | pdf.26 | Sheng Seleris
+FIGURES: ARGRATH, KALIKOS ICEBREAKER, VALIND
+TEXT: King Argrath was sometimes aided in this war by the Lodrilli134, a confederation of tribes from Peloria135. One of them told Argrath about the annual expedition which the Lunar Empire sent to assist Kalikos Icebreaker. {Kalikos was an ancient demigod who had helped drive back Valind, the God of Winter, during the Gods War. Each year the Lunars sent out an expedition to reinforce Kalikos in his annual fight against Valind. As a result the demigod had held back all bad winters in Peloria for many centuries.}<sup>136</sup>
+TARGETS: speaks / prophesies
+
+### KoS:00170 | KoS | pdf.41 | Deities of the Orlanthi Pantheon
+FIGURES: FLESH MAN, GAGARTH, LIGHTBRINGERS, ORLANTH
+TEXT: **Flesh Man:** A mortal being who was one of the Seven Lightbringers. He first saw Death and helped lead Orlanth to the Underworld. **Gagarth:** God of the Wild Hunt, a malevolent deity who delights even in fighting his own kinfolk of the Storm Tribe.
+TARGETS: hunts
+
+### KoS:00200 | KoS | pdf.45 | Enemy Gods of Orlanth
+FIGURES: GBAJI, LANBRIL, LODRIL, LOKAMAYADON, ORLANTH
+TEXT: **Lanbril:** The Thief, stole from his kinsmen and so was outlawed by Orlanth. **Lodril:** An enemy god, one of the Fire Tribe known for his ability to consume great quantities of anything. **Lokamayadon:** The great traitor. Lokomayadon, or Loko Moko as he is commonly called, betrayed Orlanth to Gbaji the Deceiver so that Loko Moko could replace Orlanth amongst the gods. Loko Moko killed anyone who tried to invoke Orlanth until his power was broken by Harmast and he was killed by Vargast at the Battle of the Verge.
+TARGETS: punishes / exiles
+
+### KoS:00209 | KoS | pdf.46 | Enemy Gods of Orlanth
+FIGURES: ORLANTH, QUIVIN, UMATH
+TEXT: **Vestkarthan:** A great and lusty fighter of the Fire Tribe known for his ability to consume great quantities of anything. He was once a friend of Umath's, and is the father of Orlanth's half-brother Quivin, but he was defeated in the Darkness when he tried to harm the Earth that was under Orlanth's and Maran's protection.
+TARGETS: loves / desires
+
+### KoS:00218 | KoS | pdf.47 | Orlanthi Creation Myth
+FIGURES: GRANDFATHER MORTAL, YOUNG GODS
+TEXT: The gods made many races. First, within the confines of the Perfect Palace, the master entity was made. Then the Young Gods made copies, each according to their desires. First made this way was the Plant Rune, and the world was covered with verdant forests. Then the animals were made, and the forests were populated. Finally, they made the humans. Grandfather Mortal, sometimes called Old Man, was the first of our type of person made.
+TARGETS: loves / desires
+
+### KoS:00240 | KoS | pdf.50 | The First Ring
+FIGURES: CHALANA ARROY, VADRUS
+TEXT: The herdsman was convinced by the truth in her compassion, and so helped them to get the herd away. The herd was hidden at the Inside Mountain, and the Emperor never ate it again. Later when even the gods were starving, the gazellets were killed by Vadrus. But when he ate the flesh it tasted terrible, and everyone who ate it was sorry they had. And so then the Vadrusings decided that this food had actually been a punishment for the Emperor, and they had actually made his life easier by stealing it and reducing his suffering. So Vadrus then said that the goddess had only bad ideas, and that he would no longer listen to the advice of Chalana Arroy. And they did not afterwards.
+TARGETS: punishes / exiles
+
+### KoS:00253 | KoS | pdf.52 | The First Hospitality
+FIGURES: HARANA ILOR, UMATH
+CONTEXT: ng Void trembled when it was taken from its sheath. When Umath used it, the Seven Powers were released, and flew against the giant. Howling Void sent his own most terrible powers in conflict, but they were seized by their opponents, and sent spinning dizzily across the sky, forced to cry out in the seven harmonies. Then the Seven Powers fell upon Howling Void and cut him down with *Harana Ilor*.
+TEXT: His remains were shaped into the world. From his breastbone was made the first harp, which is so pleasant to hear today. And since that time the harp has been the home of *Harana Ilor.* # **The First Hospitality** Umath took for himself the Middle Air as his realm, and set about to make his own camp. This was Umath's home, which no one could enter unless they were invited. It is a secret place, and when Ratslaf told others of it he was killed.
+TARGETS: speaks / prophesies
+
+### KoS:00261 | KoS | pdf.53 | The Initiation of Orlanth
+FIGURES: DEHORE, GENERT, LODRIL, MAGASTA
+TEXT: The giants were Genert, Lord of the Earth; Kalt, the Renewing God; Lodril, lord of Fire; Magasta, the Sea giant; Dehore, Darkness‑keeper; and some others whose names are not known now. These were all uncles of the children gods, so although they hated them they could not kill them. Instead, they decided to destroy them without having to take responsibility for the deed.
+TARGETS: hates / fears
+
+### KoS:00275 | KoS | pdf.57 | The Contests
+FIGURES: ORLANTH, YELM
+TEXT: Orlanth was not content with the way that things were. He felt he too deserved a part of the leadership of the world, but his desires were refused by Yelm. Nonetheless, he kept trying. Orlanth would go to the Emperor and challenge him in some art or skill, trying to prove that he was worthy of command in that realm. They had many contests. Three were most important.
+TARGETS: loves / desires
+
+### KoS:00283 | KoS | pdf.58 | The Sword Story
+FIGURES: (none registered)
+CONTEXT: yed anywhere inside his realm. So it was played outside of his realm only, and when the Emperor sent people to silence it they got lost in the wilderness, or sometimes even discovered they liked it themselves. And in that way the new music and ways of doing things gradually entered into practice among those of the Emperor's court who were usually outside of his attention. # **The Sword Story**
+TEXT: This is a story of ancient time, long before the Sun stopped in the sky and cursed us all. Long before the Sun ever rose, freed from its bondage by God. Long before the Darkness, when gods and heroes preserved the world. Long before the oceans were made, and mountains raised, to the time when Freedom was born, when Death came to the world. To the time when the War of the Gods had just begun.
+TARGETS: curses
+
+### KoS:00285 | KoS | pdf.58 | The Sword Story
+FIGURES: (none registered)
+TEXT: When people had not enough food, they began to quarrel over it. Then the goddess invented gold, and tried to use it to pacify her people. It only gave them more to be greedy for. Greed became so great that even the gods were infected. <span id="page-58-0"></span>Fighting broke out among them, at first for greed but later for revenge, anger, and hatred. This was called the Gods War.
+TARGETS: avenges
+
+### KoS:00287 | KoS | pdf.59 | The Sword Story
+FIGURES: EURMAL, GRANDFATHER MORTAL
+CONTEXT: ger, and hatred. This was called the Gods War. There was a god named Eurmal who did not have much going for him. He was less than a stickpicker, because he had no kin, no friends, and no place to live. He had no ring. Eurmal wished to impress his betters, and when the Gods War became very violent he was hiding in the dark place, and he saw something which he had not seen before. So he took it.
+TEXT: He went to the first person he saw, who was Grandfather Life, the first person. Eurmal asked Grandfather if he wanted to try out this new thing. Grandfather at first would have refused, but he had previously passed up on chances to be master of Thunder and Mirror‑polishing. He agreed, and so Grandfather became Grandfather Mortal when he died. He was the first person to ever die, and because of that all of us mortals must die.
+TARGETS: dies
+
+### KoS:00289 | KoS | pdf.59 | The Sword Story
+FIGURES: ORLANTH, YELM
+TEXT: When Orlanth saw this new thing he wanted to use it in one of his contests against the Emperor. He took it to the Weapon Contest. Yelm loosed his far‑flung arrows. Then Orlanth wielded Death, in the shape of a sword, and so the Emperor was the first God to die. Howling, he fled on the trail which Grandfather had taken, and hid in the Underworld.
+TARGETS: possesses / wields
+
+### KoS:00292 | KoS | pdf.59 | The Sword Story
+FIGURES: HUMAKT, LIGHTBRINGERS, ORLANTH
+CONTEXT: mal traded the weapon to Zorak Zoran, the God of Hate, for a handful of sweets. Zorak Zoran used it to hack down Green Flamal, Lord of Plants. Then the trolls of the Night Tribe devoured the forests of the world. When Zorak Zoran was sleeping after the feast, Ragnaglar, another denizen of the Darkness, took it and slew Genert, the Lord of Life. And after that all the forces of Chaos had it too.
+TEXT: Then many gods got a hold of the weapon, and they were quick to use it. In this way the power of Death was passed among all of the tribes and all of the gods who wished to wield such a thing, and Death was held prisoner without honor. When Orlanth and the Lightbringers reached the edge of the world, they had to enter into the Underworld to continue their travel. At that place, where Sky, Earth and Sea meet, Orlanth gave up his possession and attachment to Death, and he named Humakt to be the honorable wielder of it. In this way Orlanth gained entry into the Land of the Dead, and with that judgment Humakt gained control of Death once again.
+TARGETS: possesses / wields
+
+### KoS:00300 | KoS | pdf.61 | The Sword Story
+FIGURES: AROKA, HELER, ORLANTH
+TEXT: So the elders of the Blue Tribe met in council, and decided to summon a fearsome monster which hated Orlanth. They called upon the powers of the deep, and from its darkest depths crawled Aroka, the enemy Blue Dragon. The demonic monster seeped through all of Glorantha in secret until it found the stead of Heler, the Lord of Rain, and ravaged it until Heler came to protect his lands. Aroka swallowed the god whole. Then it retreated, and hid in its lair.
+TARGETS: hates / fears

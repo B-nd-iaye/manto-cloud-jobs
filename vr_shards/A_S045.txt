@@ -1,0 +1,300 @@
+[P5-A-B0140-022] S=['JAREEL'] P=travels O=[] MOD={"to": "FRONELA'S EASTPOINT", "using": "MOON-BOAT", "purpose_clause": "TO THWART"} implicit=False ps="accompanying a moon-boat expedition to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: JarEel was among the legion of infants accompanying a moon-boat expedition to Fronela's Eastpoint on a mission to destroy Syndic's Ban.
+[P5-A-B0140-023] S=['JAREEL'] P=fights O=['UZ'] MOD={"in_on_at": "NIDAN MOUNTAINS"} implicit=True ps="driving off" sug=exiles / banishes
+   Q: Her divine presence and innocence were crucial in driving off the demonic Uz while the expedition descended from the Nidan Mountains into Fronela.
+[P5-A-B0140-024] S=['YELM'] P=rules O=["YELM'S COSMIC EMPIRE"] MOD={"in_on_at": "OSLIR RIVER VALLEY"} implicit=False ps="Yelm's original cosmic empire" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Dara Happans are the heirs of Yelm's original cosmic empire that lay upon the mighty Oslir river valley at the center of the Heartlands.
+[P5-A-B0140-025] S=['YELM'] P=rules O=['DARA HAPPAN CITIES'] implicit=True ps="made the laws and rules that govern" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Yelm made the laws and rules that govern the cities even today.
+[P5-A-B0140-026] S=['JAREEL', 'BLOODSPILLERS'] P=fights O=['BOLDHOME'] implicit=True ps="storm" sug=invades / raids
+   Q: Her Bloodspillers were put to the test during the conquest of Sartar where she led them to scale up the sheer cliff face to storm the Sartarite capital of Boldhome.
+[P5-A-B0140-027] S=['HUMAKT'] P=wounds O=['RED EMPEROR'] implicit=True ps="gravely wounded" sug=wounds
+   Q: JarEel considered the victory an empty one as Humakt gravely wounded the Emperor.
+[P5-A-B0140-028] S=['JAREEL'] P=dismembers O=['PHARAOH OF THE HOLY COUNTRY'] implicit=True ps="led a magical conspiracy to capture and dismember" sug=dismembers
+   Q: Five years ago she led a magical conspiracy to capture and dismember the Pharaoh of the Holy Country.
+[P5-A-B0140-029] S=['SEDENYA'] P=defeats O=['DARA HAPPAN EMPIRE'] implicit=False ps="conquered" sug=conquers
+   Q: When Sedenya conquered the Dara Happan Empire she altered their upper classes, but made no efforts to replace the ancient traditions.
+[P5-A-B0140-030] S=['DARA HAPPAN NOBLES'] P=claims ancestry O=['YELM'] implicit=True ps="are descended from" sug=claims ancestry
+   Q: The Nobles are descended from Yelm, prestigious professions are restricted to hereditary castes
+[P5-A-B0140-031] S=['SEDENYA'] P=is member of O=['MIDDLE HEAVENS'] implicit=False ps="is a Goddess of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Since Sedenya is a Goddess of the Middle Heavens, learned jurists declare that, according to ancient Dara Happan precepts, an initiate of the Goddess is in the class of the tenths.
+[P5-A-B0140-032] S=['DAYZATAR'] P=is sibling of O=['YELM'] implicit=False ps="is Yelm's Older Brother" sug=is sibling of
+   Q: DAYZATAR, aloof and remote, is Yelm's Older Brother and God of the Heavens.
+[P5-A-B0140-033] S=['DAYZATAR'] P=travels O=[] MOD={"to": "BEYOND THE SKY"} implicit=True ps="retired beyond the Sky" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: During the Gods War, he retired beyond the Sky and now can only be contacted from atop the impossibly tall towers of Yuthuppa.
+[P5-A-B0140-034] S=['STAR WATCHERS OF YUTHUPPA'] P=serves O=['BUSERIAN'] implicit=False ps="worship" sug=is worshipped by
+   Q: the star watchers of Yuthuppa worship Buserian, the first Priest, instead.
+[P5-A-B0140-035] S=['BUSERIAN'] P=teaches O=['PRIESTS'] implicit=False ps="showed the Priests how to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Buserian showed the Priests how to call upon the more reachable heavens for aid and also showed them how to write so that they could record celestial phenomena for all time.
+[P5-A-B0140-036] S=['DARJIINIANS'] P=claims ancestry O=['SURENSLIB'] implicit=True ps="claim descent from" sug=claims ancestry
+   Q: They claim descent from the Great Goddess SurEnslib
+[P5-A-B0141-001] S=['DARJIINIAN CLAN CONGRESS'] P=re-enacts O=['ONENESS OF THE GREEN AGE'] implicit=True ps="magically recreate" sug=re-enacts
+   Q: the elaborate courtship rites that take up so much of the congress's time are needed to magically recreate the oneness of the Green Age.
+[P5-A-B0141-002] S=['DARJIINIAN CLAN CONGRESS'] P=enters Godtime / Otherworld O=['GREEN AGE'] implicit=True ps="Decisions are made in the Green Age" sug=enters Godtime / Otherworld
+   Q: Decisions are made in the Green Age, where words and even thoughts are unnecessary.
+[P5-A-B0141-003] S=['BEAST WITH MANY MOUTHS'] P=swallows / consumes O=['MEMBERS OF THE CONGRESS'] implicit=False ps="will be eaten by" sug=swallows / consumes
+   Q: If the slightest antagonism exists between the clans then the congress will exacerbate this and the many members of the congress will be eaten by the Beast with Many Mouths, a dreadful spirit.
+[P5-A-B0141-004] S=['DARJIINIANS'] P=serves O=['SURENSLIB'] implicit=False ps="worship" sug=is worshipped by
+   Q: Darjiinians worship SurEnslib, her lovers and sons.
+[P5-A-B0141-005] S=['HERON GODDESS'] P=is alternative name for O=['SURENSLIB'] implicit=False ps="know SurEnslib as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Outsiders know SurEnslib as the Heron goddess but SurEnslib is far more than that.
+[P5-A-B0141-006] S=['SURENSLIB'] P=manifests O=['GREAT GODDESS'] implicit=True ps="is a manifestation of" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: To her worshippers she is a manifestation of the Great Goddess, just as Yelm is the Great God.
+[P5-A-B0141-007] S=['YELM'] P=is identified as O=['GREAT GOD'] implicit=False ps="is the Great God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: just as Yelm is the Great God.
+[P5-A-B0141-008] S=['SURENSLIB'] P=alters mythic station O=["YELM'S OTHER"] implicit=False ps="becomes Yelm's Other" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: In this way SurEnslib becomes Yelm's Other.
+[P5-A-B0141-009] S=['BOATERS'] P=serves O=['YESTENDOS'] implicit=False ps="worship" sug=is worshipped by
+   Q: The Boaters worship YESTENDOS, the god of boats.
+[P5-A-B0141-010] S=['ULERIA'] P=embodies O=['LOVE'] implicit=False ps="the Love Goddess" sug=one of: embodies, has domain
+   Q: Ulawar, home to the Oldest temple to the Love Goddess Uleria
+[P5-A-B0141-011] S=['TUROS THE SHAKER'] P=is alternative name for O=['TUROS'] implicit=False ps="Turos the Shaker" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Othens with its Oracle of Turos the Shaker
+[P5-A-B0141-012] S=['PELANDRE'] P=rules O=['PELANDAN CITIES'] implicit=False ps="first united" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Only outsiders call them Pelandans, after the city of Pelandre which first united the cities in the Storm Age.
+[P5-A-B0141-013] S=['SEDENYA'] P=defeats O=['CARMANIANS'] MOD={"in_on_at": "BATTLE OF THE FOUR ARROWS OF LIGHT"} implicit=False ps="the victory of Sedenya over" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Every summer the free Pelandans hold Crimson Day Parades to celebrate the victory of Sedenya over the Carmanians at the Battle of the Four Arrows of Light.
+[P5-A-B0141-014] S=['CARMANIANS'] P=claims ancestry O=['ARONIUS JARANTHIR'] implicit=False ps="the father of the Carmanians" sug=claims ancestry
+   Q: They bitterly curse the memory of Aronius Jaranthir, the father of the Carmanians, for keeping their kindred in serfdom.
+[P5-A-B0141-015] S=['TUROS'] P=protects O=['ORIA'] MOD={"from": "HELL"} implicit=False ps="liberating Oria from Hell" sug=rescues / frees
+   Q: TUROS is the Men's God and is famous for raising mountains, making earthquakes, liberating Oria from Hell, defeating enemies and presiding over the assemblies.
+[P5-A-B0141-016] S=['TUROS'] P=is identified as O=["MEN'S GOD"] implicit=False ps="is the Men's God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: TUROS is the Men's God
+[P5-A-B0141-017] S=['TUROS'] P=manifests O=['EARTHQUAKES'] implicit=True ps="raising mountains, making earthquakes" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: is famous for raising mountains, making earthquakes
+[P5-A-B0141-018] S=['KETTUROSI', 'VITUROSI'] P=is identified as O=['TUROS'] implicit=False ps="are aspects of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Many Pelandan gods worshipped in specific rites, such as the KetTurosi and ViTurosi, are aspects of Turos.
+[P5-A-B0141-019] S=['ORIA'] P=is spouse of O=['TUROS'] implicit=False ps="Turos's wife" sug=is spouse of
+   Q: ORIA, Turos's wife, is the Great Mother, the Women's Goddess and is invoked to bless crops and herds.
+[P5-A-B0141-020] S=['ORIA'] P=is identified as O=['GREAT MOTHER'] implicit=False ps="is the Great Mother" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: ORIA, Turos's wife, is the Great Mother, the Women's Goddess and is invoked to bless crops and herds.
+[P5-A-B0141-021] S=['BISOS'] P=is spouse of O=['ESES'] implicit=False ps="hi wife is" sug=is spouse of
+   Q: BISOS is the god of free men and nobles worship, hi wife is ESES, Father Bull and Mother Cow respectively.
+[P5-A-B0141-022] S=['FATHER BULL'] P=is alternative name for O=['BISOS'] implicit=False ps="Father Bull and Mother Cow respectively" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: BISOS is the god of free men and nobles worship, hi wife is ESES, Father Bull and Mother Cow respectively.
+[P5-A-B0141-023] S=['MOTHER COW'] P=is alternative name for O=['ESES'] implicit=False ps="Father Bull and Mother Cow respectively" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: BISOS is the god of free men and nobles worship, hi wife is ESES, Father Bull and Mother Cow respectively.
+[P5-A-B0141-024] S=['BISOS'] P=serves O=['IDOVANUS'] implicit=False ps="a loyal servant of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Bisos is important in Carmania as a loyal servant of Idovanus.
+[P5-A-B0141-025] S=['LOGICIANS'] P=travels O=[] MOD={"from": "LAND OF LOGIC", "to": "PELANDA", "at_the_instigation_of": ["BLUE KING"]} implicit=True ps="imported" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: During the Gods War the Blue King imported these magicians from the Land of Logic in the Far West.
+[P5-A-B0141-026] S=['LOGICIANS'] P=serves O=['BLUE KING'] implicit=True ps="served him faithfully as his arcane enforcers" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They served him faithfully as his arcane enforcers and remained to plague Pelanda after he was killed.
+[P5-A-B0141-027] S=['LUNARS'] P=protects O=['LOGICIANS'] implicit=True ps="protected and patronized" sug=one of: protects, rescues / frees, aids
+   Q: Since the coming of the Goddess they have been protected and patronized by the Lunars.
+[P5-A-B0141-028] S=['YELM'] P=rules O=['SKY'] implicit=False ps="exercised the righteous order of the sky" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Justice was the rule as Yelm exercised the righteous order of the sky.
+[P5-A-B0141-029] S=['REBELS'] P=dismembers O=['SEDENYA'] implicit=False ps="ripped asunder" sug=dismembers
+   Q: As is detailed in She Blesses Who Reads This, Sedenya was ripped asunder by the Rebels.
+[P5-A-B0141-030] S=['SEDENYA'] P=resurrects O=['YELM'] MOD={"in_on_at": "HELL"} implicit=True ps="woke her father" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: As both books agree, she woke her father and rekindled the universe in hell.
+[P5-A-B0141-031] S=['SEDENYA'] P=is child of O=['YELM'] implicit=True ps="her father" sug=is child of
+   Q: she woke her father
+[P5-A-B0141-032] S=['KARGZANT'] P=travels O=[] MOD={"at_the_command_of": ["YELM"]} implicit=False ps="sent" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: First Yelm sent Kargzant the Wanderer whose worshippers rode horses and drove chariots like the nomads of Pent still do today.
+[P5-A-B0141-033] S=["KARGZANT'S HORSE RIDERS"] P=defeats O=['MONSTERS'] implicit=False ps="met them head on in war and destroyed them in waves" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: As the monsters and their hordes of bestial savages poured north, Kargzant's horse riders met them head on in war and destroyed them in waves.
+[P5-A-B0141-034] S=['MONSTER ARMY'] P=fights O=["KARGZANT'S MEN"] implicit=True ps="gathered against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: At last their greatest army gathered against all Kargzant's men. || both sides were destroyed in the fighting.
+[P5-A-B0141-035] S=['KHORDAVU'] P=establishes cult O=['YELM'] MOD={"in_on_at": "GREAT ALTAR"} implicit=False ps="set Yelm upon the Great Altar once again" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Emperor Khordavu rallied the empire and set Yelm upon the Great Altar once again.
+[P5-A-B0141-036] S=['KHORDAVU'] P=defeats O=['MONSTERS'] implicit=False ps="the monsters surrendered to" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The sun got brighter and even the monsters surrendered to Emperor Khordavu.
+[P5-A-B0141-037] S=['KHORDAVU'] P=rules O=['THE PEOPLE'] implicit=True ps="united the people and ended rule by the Kargzant tribes" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He united the people and ended rule by the Kargzant tribes.
+[P5-A-B0141-038] S=['KHORZANELM'] P=establishes cult O=['GOD PROJECT'] MOD={"in_on_at": "DORASTOR"} implicit=True ps="founded" sug=founds
+   Q: He even founded the God Project in Dorastor where wise and powerful men reassembled a new god who finally bring the monsters to heel.
+[P5-A-B0141-039] S=['MONSTERS'] P=serves O=['GOD PROJECT'] implicit=True ps="aided" sug=aids
+   Q: Some monsters seemed converted beforehand and even aided the Project.
+[P5-A-B0141-040] S=['NYSALOR'] P=is born from O=['GOD PROJECT'] implicit=False ps="From this project ... was born" sug=is born from
+   Q: From this project the god Nysalor was born.
+[P5-A-B0141-041] S=['CARMANIAN SERFS'] P=claims ancestry O=['PELANDANS'] implicit=False ps="are descended from" sug=claims ancestry
+   Q: Serfs are descended from the Pelandans conquered by the first Carmanians in the Imperial Age.
+[P5-A-B0141-042] S=['CARMANIAN SERFS'] P=claims ancestry O=['SPOLITES'] implicit=True ps="their conquered ancestors were all Spolites" sug=claims ancestry
+   Q: Their wretched status is justified on the grounds that their conquered ancestors were all Spolites, an infamous shadowy Empire in Pelanda.
+[P5-A-B0142-001] S=['NYSALOR'] P=rules O=['EMPIRE'] implicit=False ps="guided" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Nysalor guided the empire.
+[P5-A-B0142-002] S=['GBAJI'] P=comes into being O=[] MOD={"from": "NYSALOR'S SHADOWS"} implicit=False ps="From these shadows came" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: But at the edge of every light is darkness and Nysalor's was no different. || From these shadows came Gbaji the Destroyer, known to his friends as Arkat.
+[P5-A-B0142-003] S=['ARKAT'] P=is alternative name for O=['GBAJI'] implicit=False ps="known to his friends as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: From these shadows came Gbaji the Destroyer, known to his friends as Arkat.
+[P5-A-B0142-004] S=['PALANGIO'] P=kills O=['GBAJI'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Palangio the Iron Vrok, the best hero of the Empire, killed Gbaji and threw him into a deep hell [423 ST].
+[P5-A-B0142-005] S=['PALANGIO'] P=fights O=['GBAJI'] implicit=False ps="raised an army to kill" sug=invades / raids
+   Q: Palangio raised an army to kill the second coming of Gbaji, but he was defeated and eaten [440 ST].
+[P5-A-B0142-006] S=['GBAJI'] P=kills O=['NYSALOR'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: With no one to stop him, Gbaji killed Nysalor, cursed Dorastor, and gave our Empire over to the monsters to rule [450 ST].
+[P5-A-B0142-007] S=['GBAJI'] P=enchants O=['DORASTOR'] implicit=False ps="cursed" sug=curses
+   Q: Gbaji killed Nysalor, cursed Dorastor, and gave our Empire over to the monsters to rule [450 ST].
+[P5-A-B0142-008] S=['ORDANESTYU'] P=teaches O=['NEW DYNASTY'] implicit=False ps="educated" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The Great Councilor Ordanestyu educated a new dynasty who expelled the monsters and regained control of the Empire [459 ST].
+[P5-A-B0142-009] S=['KASTOK'] P=fights O=['HORSE RIDERS'] MOD={"in_on_at": "PENT"} implicit=False ps="harry" sug=invades / raids
+   Q: We regained our legacy and got strong enough to send Kastok [c. 565 ST] with an army to harry the horse riders in their own home plains of Pent.
+[P5-A-B0142-010] S=['EMPIRE OF GLOOM'] P=comes into being O=[] MOD={"from": "SPOL", "at_the_instigation_of": ["MONSTERS"]} implicit=True ps="created" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They created the Empire of Gloom from Spol [630 ST] and we needed a new weapon.
+[P5-A-B0142-011] S=['DENESIOD'] P=defeats O=['MONSTERS'] MOD={"using": "NEW LIGHT"} implicit=True ps="used the New Light to defeat them for a time" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Emperor Denesiod used the New Light [690 ST] to defeat them for a time
+[P5-A-B0142-012] S=['YELM'] P=initiates into cult O=['CARMANIANS'] implicit=False ps="were converted back to the light by" sug=initiates into cult
+   Q: The Carmanians seized the western parts of our empire [725 ST] to rule as their own, then were converted back to the light by our Yelm.
+[P5-A-B0142-013] S=['DRAGON SUN'] P=rules O=['EMPIRE'] MOD={"at_the_instigation_of": ["THE DRAGONS"]} implicit=False ps="ruled for many years" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The dragons they summoned destroyed our lands and then placed a foul dragon as our Emperor [878 ST]. || The Dragon Sun ruled for many years before the hero Karvanyar slew him [910 ST] and restored Yelm's Justice to the Empire.
+[P5-A-B0142-014] S=['KARVANYAR'] P=kills O=['DRAGON SUN'] implicit=False ps="slew" sug=one of: kills, shatters, dies
+   Q: The Dragon Sun ruled for many years before the hero Karvanyar slew him [910 ST] and restored Yelm's Justice to the Empire.
+[P5-A-B0142-015] S=['KARVANYAR'] P=fights O=['EWF'] MOD={"with_the_aid_of": ["CARMANIANS"]} implicit=False ps="warred against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Karvanyar became Emperor and, with the aid of the Carmanians, warred against the EWF for years.
+[P5-A-B0142-016] S=['EWF'] P=swallows / consumes O=['IMPERIAL ARMY'] MOD={"in_on_at": "DRAGONKILL WAR"} implicit=False ps="ate" sug=swallows / consumes
+   Q: The EWF ate the whole Imperial army in what we call the Dragonkill War.
+[P5-A-B0142-017] S=['CARMANIANS'] P=defeats O=['VINYARTU'] implicit=False ps="with treachery overcame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Carmanians took advantage of our sudden weakness and conquered the Empire [1174 ST] and with treachery overcame good Emperor Vinyartu.
+[P5-A-B0142-018] S=['SEDENYA'] P=comes into being O=[] MOD={"at_the_instigation_of": ["SEVEN CONSPIRATORS"], "purpose_clause": "TO THWART"} implicit=True ps="succeeded in unleashing" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: These seven succeeded in unleashing both that greatest enemy and the greatest blessing at the same time: Sedenya, the Red Goddess and She Who Frees Us [1220 ST].
+[P5-A-B0142-019] S=['RED GODDESS', 'SHE WHO FREES US'] P=is alternative name for O=['SEDENYA'] implicit=False ps="Sedenya, the Red Goddess and She Who Frees Us" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Sedenya, the Red Goddess and She Who Frees Us [1220 ST].
+[P5-A-B0142-020] S=['RED GODDESS'] P=defeats O=['CARMANIANS'] implicit=False ps="handily defeated Carmanian attempts to destroy her" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Our Red Goddess first handily defeated Carmanian attempts to destroy her
+[P5-A-B0142-021] S=['RED GODDESS'] P=initiates into cult O=['CHARUN'] implicit=True ps="converting" sug=initiates into cult
+   Q: converting the whole tribe of savage nomads called the CharUn [1228 ST]
+[P5-A-B0142-022] S=['RED GODDESS'] P=embodies O=['CYCLES'] implicit=False ps="is the power of cycles" sug=one of: embodies, has domain
+   Q: The Red Goddess is the power of cycles, and her empire is destined to follow a cycle of power and weakness.
+[P5-A-B0142-023] S=['SHENG SELERIS'] P=defeats O=['DARA HAPPA'] implicit=False ps="conquered" sug=conquers
+   Q: As if on schedule, Sheng Seleris appeared and conquered Dara Happa.
+[P5-A-B0142-024] S=['GREAT SISTER'] P=teaches O=['LUNAR MYSTERIES'] implicit=False ps="realized and taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: From among the folk came the Lunar Mysteries, as realized and taught by Great Sister.
+[P5-A-B0142-025] S=['MOONSON', 'SECRET HOUSEHOLD'] P=defeats O=['SHENG SELERIS'] implicit=False ps="fought and destroyed" sug=shatters
+   Q: Moonson was empowered by this and, with his secret household he fought and destroyed Sheng Seleris.
+[P5-A-B0142-026] S=['HONEEL'] P=bestows magic / gifts O=['MAIZE'] IO=['LUNARS'] implicit=True ps="gave us" sug=one of: bestows, heals, imbues, teaches
+   Q: During these exciting years HonEel appeared and gave us maize [1468 ST]
+[P5-A-B0142-027] S=['HONEEL'] P=initiates into cult O=['TARSH'] implicit=False ps="converted Tarsh to adopt the Lunar way" sug=initiates into cult
+   Q: HonEel also converted Tarsh to adopt the Lunar way [1490 ST]
+[P5-A-B0142-028] S=['HONEEL'] P=sacrifices O=['HONEEL'] MOD={"in_on_at": "NIGHTS OF HORRORS", "purpose_clause": "TO PROTECT"} implicit=True ps="sacrificed herself to save Oraya" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: she before sacrificed herself to save Oraya from a Pentan Invasion during the Nights of Horrors [1506 ST].
+[P5-A-B0142-029] S=['ARONIUS JARANTHIR'] P=initiates into cult O=['CARMANIANS'] implicit=False ps="converted the Carmanians to the Lunar Way" sug=initiates into cult
+   Q: Aronius Jaranthir converted the Carmanians to the Lunar Way three centuries ago, but they are not part of the Heartlands.
+[P5-A-B0142-030] S=['CARMANIANS'] P=defeats O=['SHENG SELERIS'] implicit=True ps="helped them to defeat him" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: But separation from the Heartlands preserved Carmania from the onslaught of Sheng Seleris and helped them to defeat him when no one else could.
+[P5-A-B0142-031] S=['CARMANOS'] P=reveals O=['DUALISM'] implicit=False ps="revealed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: CARMANOS revealed the religion of Dualism.
+[P5-A-B0142-032] S=['IDOVANUS', 'GANESATARUS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["INVISIBLE GOD"]} implicit=False ps="created two beings" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The Invisible God created two beings to oversee the world of humans. || Idovanus the Good God was overcome by Ganesatarus the Bad God
+[P5-A-B0142-033] S=['GANESATARUS'] P=defeats O=['IDOVANUS'] implicit=False ps="was overcome by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Idovanus the Good God was overcome by Ganesatarus the Bad God
+[P5-A-B0142-034] S=['RED MOON'] P=is identified as O=['BALANCE BETWEEN LIGHT AND DARKNESS'] implicit=False ps="looks at the Red Moon as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Carmanian looks at the Red Moon as the Balance between Light and Darkness as she moves both visibly and invisibly through her Seven Phases.
+[P5-A-B0142-035] S=['CARMANIANS'] P=serves O=['IDOVANUS'] implicit=False ps="believe in" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: All Carmanians believe in IDOVANUS, the good god and lord of truth.
+[P5-A-B0142-036] S=['IDOVANUS'] P=embodies O=['TRUTH'] implicit=False ps="lord of truth" sug=one of: embodies, has domain
+   Q: IDOVANUS, the good god and lord of truth.
+[P5-A-B0142-037] S=['THIS WORLD'] P=comes into being O=[] MOD={"at_the_instigation_of": ["IDOVANUS"]} implicit=True ps="made this world" sug=conceives
+   Q: He made this world and wars eternally against Ganesatarus, the father of the lie and the evil master of matter.
+[P5-A-B0142-038] S=['IDOVANUS'] P=fights O=['GANESATARUS'] implicit=True ps="wars eternally against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He made this world and wars eternally against Ganesatarus, the father of the lie and the evil master of matter.
+[P5-A-B0142-039] S=['GANESATARUS'] P=embodies O=['LIES'] implicit=False ps="an embodiment of" sug=one of: embodies, has domain
+   Q: GANESATARUS the Deceiver is the god of evil, an embodiment of lies and the devil.
+[P5-A-B0142-040] S=['SPOLITE EMPIRE'] P=serves O=['GANESATARUS'] implicit=True ps="was the patron god of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He was the patron god of the Spolite Empire and even now the peasant rites are heavily infused with his error.
+[P5-A-B0142-041] S=['FRONALAKO', 'YARGAN'] P=is alternative name for O=['GANESATARUS'] implicit=True ps="is also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He is also called Fronalako the Devil Sorcerer and Yargan the Vile God.
+[P5-A-B0142-042] S=['DEMONS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["GANESATARUS"]} implicit=False ps="created many demons to mislead people into the lie" sug=conceives
+   Q: Just as Idovanus made gods to help people in the world, Ganesatarus created many demons to mislead people into the lie.
+[P5-A-B0142-043] S=['GODS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["IDOVANUS"], "purpose_clause": "TO AID"} implicit=False ps="made gods to help people" sug=conceives
+   Q: Just as Idovanus made gods to help people in the world
+[P5-A-B0142-044] S=['GOD LEARNERS'] P=defeats O=['CARMANIANS'] MOD={"from": "FRONELA", "using": "SORCERY"} implicit=False ps="expelled" sug=exiles / banishes
+   Q: The God Learners, using their superior sorceries, expelled the Carmanians from Fronela
+[P5-A-B0142-045] S=['FRONALAKO'] P=serves O=['GANESATARUS'] implicit=False ps="an evil servant of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the viziers found that their own sorceries proceeded from Fronalako, an evil servant of Ganesatarus, and not directly from the Good God as they believed.
+[P5-A-B0142-046] S=['FRONALAKO'] P=bestows magic / gifts O=['SORCERY'] IO=['VIZIERS'] implicit=False ps="their own sorceries proceeded from" sug=one of: bestows, heals, imbues, teaches
+   Q: the viziers found that their own sorceries proceeded from Fronalako, an evil servant of Ganesatarus, and not directly from the Good God as they believed.
+[P5-A-B0142-047] S=['KARMANOI', 'HAZARS'] P=serves O=['DIVINE SERVANTS OF IDOVANUS'] implicit=False ps="worshipped only" sug=is worshipped by
+   Q: To cleanse themselves, the karmanoi and the hazars abandoned their sorcerous training and worshipped only the divine servants of Idovanus.
+[P5-A-B0142-048] S=['HIEROPHANT'] P=travels O=[] MOD={"via": ["SUN"], "purpose_clause": "TO OBTAIN"} implicit=False ps="flies up through the Sun and beyond" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The highest of the magi, the HIEROPHANT, flies up through the Sun and beyond to find out which gods are acceptable to the Good God and which are not.
+[P5-A-B0142-049] S=['HIEROPHANT'] P=discovers O=['LUNAR WAY'] implicit=False ps="discovered that the Lunar Way was acceptable to Idovanus" sug=discovers
+   Q: It was during one of these trips that the Hierophant discovered that the Lunar Way was acceptable to Idovanus.
+[P5-A-B0142-050] S=['CARMANIANS'] P=serves O=['SEDENYA'] implicit=False ps="submitted to" sug=submits to
+   Q: The Carmanians submitted to Sedenya after a century of resistance.
+[P5-A-B0142-051] S=['NYSALOR'] P=is identified as O=['SEDENYA'] implicit=False ps="was an incarnation of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The riddling mystic NYSALOR was an incarnation of Sedenya (more specifically, Rashorana) who was slain by Arkat over a thousand years ago.
+[P5-A-B0142-052] S=['NYSALOR'] P=is identified as O=['RASHORANA'] implicit=False ps="(more specifically, Rashorana)" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The riddling mystic NYSALOR was an incarnation of Sedenya (more specifically, Rashorana) who was slain by Arkat over a thousand years ago.
+[P5-A-B0142-053] S=['ARKAT'] P=kills O=['NYSALOR'] implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: The riddling mystic NYSALOR was an incarnation of Sedenya (more specifically, Rashorana) who was slain by Arkat over a thousand years ago.
+[P5-A-B0142-054] S=['RIDDLERS'] P=manifests chaos taint O=[] implicit=False ps="can taint one with chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Credulous barbarians foolishly believe that listening to a Riddler's questions can taint one with chaos.
+[P5-A-B0142-055] S=['ORDER OF DAY'] P=teaches O=['PHILOSOPHY'] implicit=False ps="is still taught by" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The Philosophy is still taught within the Empire by the Order of Day.
+[P5-A-B0142-056] S=['SEDENYA'] P=embodies O=['LIGHT AND DARK'] implicit=False ps="are seen as embodied in" sug=one of: embodies, has domain
+   Q: light and dark are seen as embodied in Sedenya's balance and phases
+[P5-A-B0142-057] S=['YANAFAL TARNILS'] P=substitutes O=['HUMAKT'] implicit=False ps="has replaced Humakt as the main war god" sug=substitutes
+   Q: Yanafal Tarnils, for example, has replaced Humakt as the main war god.
+[P5-A-B0142-058] S=['RINLIDDI'] P=claims ancestry O=['VRIMAK'] implicit=False ps="are descended from" sug=claims ancestry
+   Q: The Bird People of Rinliddi are descended from Vrimak the High Flyer, the Bird of Yelm.
+[P5-A-B0142-059] S=['VRIMAK'] P=serves O=['YELM'] implicit=False ps="the Bird of Yelm" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Vrimak the High Flyer, the Bird of Yelm.
+[P5-A-B0142-060] S=['HORSE-RIDERS FROM THE EAST'] P=kills O=['RINLIDDI BIRD FLOCKS'] implicit=True ps="exterminated" sug=one of: kills, shatters, dies
+   Q: During the Great Darkness horse-riders from the east exterminated the bird flocks and most of their riders.
+[P5-A-B0142-061] S=['WORLD TREE'] P=survives as relic O=['ADDI'] implicit=True ps="these pillars are the stumps of" sug=survives as relic
+   Q: Worship shows that these pillars are the stumps of the World Tree that used to reach into the Sky.
+[P5-A-B0142-062] S=['NEW BIRDS'] P=enters Godtime / Otherworld O=['WORLD TREE'] implicit=True ps="fly to the branches where their ancestors once lived" sug=enters Godtime / Otherworld
+   Q: During worship ceremonies the New Birds fly to the branches where their ancestors once lived.
+[P5-A-B0143-001] S=['RINLIDDI PEASANTS'] P=serves O=['BASEKORA'] implicit=False ps="worship" sug=is worshipped by
+   Q: Rinliddi peasants worship BASEKORA, the ancient earth goddess.
+[P5-A-B0143-002] S=['BASEKORA'] P=embodies O=['EARTH'] implicit=False ps="the ancient earth goddess" sug=one of: embodies, has domain
+   Q: BASEKORA, the ancient earth goddess.
+[P5-A-B0143-003] S=['BASEKORA'] P=protects O=['RINLIDDI'] implicit=True ps="secrets of survival saved them from extinction" sug=one of: protects, rescues / frees, aids
+   Q: Only Basekora's secrets of survival saved them from extinction.
+[P5-A-B0143-004] S=['CRIMSON BAT'] P=is identified as O=['DEATH GODDESS OF RINLIDDI'] implicit=False ps="is, in fact, an avatar of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The infamous CRIMSON BAT is, in fact, an avatar of the ancient Death Goddess of Rinliddi.
+[P5-A-B0143-005] S=['SEDENYA'] P=teaches O=['CRIMSON BAT'] implicit=True ps="found the Bat and taught it its Self" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: In her quest for her Self Sedenya found the Bat and taught it its Self. || This, at least, is the official version.
+[P5-A-B0143-006] S=['RED GODDESS'] P=rides O=['CRIMSON BAT'] implicit=True ps="became the steed of" sug=rides
+   Q: The Bat grew extra eyes to see its newfound inner knowledge and became the steed of the Goddess.
+[P5-A-B0143-007] S=['CRIMSON BAT'] P=defeats O=['CARMANIAN EMPIRE'] MOD={"in_on_at": "FIRST BATTLE OF CHAOS"} implicit=True ps="destroying the might of" sug=shatters
+   Q: It accompanied her back into the world and helped prove her rightful place in the cosmos by destroying the might of the Carmanian Empire at the First Battle of Chaos.
+[P5-A-B0143-008] S=['CRIMSON BAT'] P=serves O=['LUNAR EMPIRE'] implicit=True ps="has served" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Since that time this huge monster, the size of a small town, has served the empire.
+[P5-A-B0143-009] S=['CRIMSON BAT'] P=swallows / consumes O=['VICTIMS'] implicit=True ps="devours the body and soul of" sug=swallows / consumes
+   Q: The Bat is widely feared as a monstrous demon that devours the body and soul of its victims.
+[P5-A-B0143-010] S=['SABLE RIDERS'] P=travels O=[] MOD={"from": "PRAX", "to": "HUNGRY PLATEAU", "at_the_instigation_of": ["WORLD COUNCIL"]} implicit=True ps="settled the Plateau from distant Prax" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: They settled the Plateau from distant Prax at the request of the World Council during the Dawn Age.
+[P5-A-B0143-011] S=['KOSTADDI'] P=departs from O=['SEDENYA'] implicit=True ps="renounced" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: It disgraced itself in the War against Sheng Seleris when it renounced Sedenya and worshipped Sheng instead.
+[P5-A-B0143-012] S=['KOSTADDI'] P=serves O=['SHENG SELERIS'] implicit=True ps="worshipped Sheng instead" sug=is worshipped by
+   Q: It disgraced itself in the War against Sheng Seleris when it renounced Sedenya and worshipped Sheng instead.
+[P5-A-B0143-013] S=['KOSTADDIANS'] P=re-enacts O=['OVOSTO'] implicit=False ps="his memory is only invoked on Anarchy Day" sug=re-enacts
+   Q: Legend remembers that Emperor Ovosto came from Kostaddi, but his memory is only invoked on Anarchy Day, when a peasant is crowned Emperor for a day and the Dara Happans are forced to be the servants of the Kostaddians.
+[P5-A-B0143-014] S=['GERENDETHO'] P=embodies O=['EARTH'] implicit=False ps="is the local earth god" sug=one of: embodies, has domain
+   Q: GERENDETHO is the local earth god, his rites still popular with local farmer.
+[P5-A-B0143-015] S=['GERENDETHO'] P=manifests O=['GOAT'] implicit=True ps="appears as" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: He appears as a goat.
+[P5-A-B0143-016] S=['SENKANA'] P=is spouse of O=['GERENDETHO'] implicit=False ps="is the wife of" sug=is spouse of
+   Q: SENKANA is the wife of Gerendetho and present in the barley.
+[P5-A-B0143-017] S=['SENKANA'] P=embodies O=['BARLEY'] implicit=False ps="present in the barley" sug=one of: embodies, has domain
+   Q: SENKANA is the wife of Gerendetho and present in the barley.
+[P5-A-B0143-018] S=['HONEEL'] P=travels O=[] MOD={"to": "ORAYA", "at_the_instigation_of": ["RED EMPEROR"]} implicit=True ps="persuaded HonEel to settle there" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Oraya is the newest Satrapy, founded by HonEel only a century ago. || The Emperor persuaded HonEel to settle there in an effort to solve several problems in the Empire.
+[P5-A-B0143-019] S=['DENEGORIA'] P=manifests O=[] MOD={"at_the_instigation_of": ["HONEEL"]} implicit=False ps="revealed herself when HonEel invoked a great power" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: DENEGORIA, the Goddess of Savage Freedom, revealed herself when HonEel invoked a great power to oversee cooperation between the many deities of the migrants.
+[P5-A-B0143-020] S=['DENEGORIA'] P=embodies O=['SAVAGE FREEDOM'] implicit=False ps="the Goddess of" sug=one of: embodies, has domain
+   Q: DENEGORIA, the Goddess of Savage Freedom
+[P5-A-B0143-021] S=['VITUROS'] P=travels O=[] MOD={"from": "PELANDA", "to": "ORAYA", "at_the_instigation_of": ["HONEEL"]} implicit=True ps="was imported from Pelanda by" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: VITUROS is the most popular god among the farmers and was imported from Pelanda by HonEel.
+[P5-A-B0143-022] S=['VITUROS'] P=is spouse of O=['DENEGORIA'] implicit=True ps="is the husband of" sug=is spouse of
+   Q: He is the husband of Denegoria and his priests oversee the rites of many less powerful deities.
+[P5-A-B0143-023] S=['HONEEL'] P=is identified as O=["WOMEN'S GODDESS"] implicit=False ps="is worshipped as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: HONEEL herself is worshipped as a women's goddess.
+[P5-A-B0143-024] S=['ORAYANS'] P=sacrifices O=['HUMANS'] MOD={"in_on_at": "CORN FESTIVITIES OF HONEEL"} implicit=True ps="continued to practice human sacrifice" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: The Emperor's edicts against the sacrifice of humans in her corn festivities was never widely obeyed here. || continued to practice human sacrifice.
+[P5-A-B0144-001] S=['HWARIN DALTHIPPA'] P=defeats O=['THE PROVINCES'] implicit=False ps="subdued" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Hwarin Dalthippa, the Conquering Daughter subdued the Provinces over three centuries ago.
+[P5-A-B0144-002] S=['CONQUERING DAUGHTER'] P=is alternative name for O=['HWARIN DALTHIPPA'] implicit=False ps="appositive epithet" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Hwarin Dalthippa, the Conquering Daughter
+[P5-A-B0144-003] S=['HWARIN DALTHIPPA'] P=rules O=['THE PROVINCES'] implicit=True ps="imposed the Matrimony Tribute" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: She imposed the Matrimony Tribute, which the Provinces paid to Sylila.
+[P5-A-B0144-004] S=['HONEEL'] P=initiates into cult O=['TARSH'] IO=['LUNAR WAY'] implicit=False ps="converted" sug=initiates into cult
+   Q: Problems developed when HonEel converted Tarsh to the Lunar Way.
+[P5-A-B0144-005] S=['THE EMPEROR'] P=bestows magic / gifts O=['PROVINCIAL OVERSEER'] implicit=True ps="manifested a portion of his powers and appointed an Overseer to wield them" sug=one of: bestows, heals, imbues, teaches
+   Q: He manifested a portion of his powers and appointed an Overseer to wield them.
+[P5-A-B0144-006] S=['PHARGENTES'] P=is sibling of O=['EXILED TARSHITE KING'] implicit=False ps="brother to" sug=is sibling of
+   Q: The first Overseer was Phargentes, brother to the exiled Tarshite king.
+[P5-A-B0144-007] S=['PHARGENTES'] P=rules O=['TARSH'] implicit=False ps="inherited the throne" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: When the king was killed in liberating Tarsh, Phargentes inherited the throne.

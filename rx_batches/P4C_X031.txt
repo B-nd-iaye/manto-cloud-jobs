@@ -1,0 +1,151 @@
+### KoS:00548 | KoS | pdf.96 | Later History
+FIGURES: (none registered)
+TEXT: The next war leader was Yanasdarin the Lucky, who adopted an anti‑Sartar line as the best policy. His men successfully raided Sartar often, and he was never captured even when agents and armies sought him in his own lands. Jendetarin the Strong was not friendly to the Lunars, and he aided a rebel to become King of Tarsh. After driving out the Tarsh king he purged Sikithi Vale of its newcomers. His successor also fought the Lunars. At the Battle of Karnge Farm Jardanroste Redhair fought hand to hand against the Pentan commander, and drove him from the field. They called these enemies the False Sunhorses. When Jardanroste tried to avenge his kinsmen a year later he was captured by the Lunars and kept chained in a dark prison for the rest of his long life.
+TARGETS: avenges
+
+### KoS:00550 | KoS | pdf.97 | Later History
+FIGURES: RED EMPEROR
+TEXT: Penraltan the Gold, the next chief, raided Sartar every year, until the Lunar commanders made him stop. He was also present at the plunder of Boldhome but was betrayed and killed by the Red Emperor. Endarsdron the Black was bent upon suicidal revenge. He fought only at night, and after a reign of terror convinced the King of Tarsh to apologize for his wrongdoing. But he was killed shortly afterwards by unknown, probably Lunar, assassins.
+TARGETS: avenges
+
+### KoS:00551 | KoS | pdf.97 | Later History
+FIGURES: (none registered)
+TEXT: Jarsandron Tenherds was a great and powerful king, thanks to being friendly with the Tarshite Lunar king. He often sent troops to aid the Lunar Army in their many conquests. He was murdered by those who hated the Moon after multiple disasters had weakened his hold of terror.
+TARGETS: hates / fears
+
+### KoS:00552 | KoS | pdf.97 | Later History
+FIGURES: ARGRATH, FEATHERED HORSE QUEEN
+TEXT: Jandetin the Avenger was next, and he defended his lands and entered into the dragon conspiracy. He summoned the Sun to fill him, and he danced in the dream part of the ceremony where the dragons of the world destroyed the Lunar leaders and army. That way he avenged the murderers of his family. He also helped his friend, Prince Argrath, to wed the Feathered Horse Queen.
+TARGETS: avenges
+
+### KoS:00626 | KoS | pdf.111 | The Coming of Sartar
+FIGURES: (none registered)
+TEXT: Sartar was a thane from the Orshanti Clan of the Hendriki Tribe. They were settled south of the Solthi River. But he did not maintain connections with them after he departed and entered Dragon Pass. Sartar was well versed in secret magic when he came to Dragon Pass in 1470. He was an unusual person among the tribes that he approached at that time, for he refused to fight and, even when challenged, was never seen to raise weapon or magic offensively against another person. This is not to say that others did not kill for him, but the people he lived among were worshipers of the sword, which protected them in their hard lives.
+TARGETS: dwells at
+
+### KoS:00630 | KoS | pdf.111 | The Coming of Sartar
+FIGURES: (none registered)
+CONTEXT: wings and other parts and live in the air. From more than a foot away they appeared to be insects, and they served as familiars to Sartar. Sartar's third miracle was to turn a band of assassins into termites. The murderers had been bent upon attacking the sleeping family of the Colymar king. Woodpeckers, sacred to several Colymar clans, arrived quickly afterwards to rout the inhuman murderers.
+TEXT: His fourth great deed was to confront Dunorl Tooth‑winds, a savage *kolating* in the Sambari Pass. Their magical exchanges were great, and the place where they fought is now avoided by everyone. Sartar finally won by enchanting the shaman's Drumbeat of Power into a sweet song carried by a secret breeze, whose voice will lead persons to safety. Humiliated, the shaman retired to Prax.
+TARGETS: possesses / wields; trades / exchanges
+
+### KoS:00638 | KoS | pdf.112 | The Coming of Sartar
+FIGURES: (none registered)
+TEXT: Sartar made peace with the Telmori by boldly approaching their mourning ceremonies. They promised to kill him for this intrusion, but he spoke kindly in his particular way, and after he was finished they agreed to befriend him instead if he could solve a problem which they set before him. The problem was to revive their slain chieftain.
+TARGETS: mourns; speaks / prophesies
+
+### KoS:00639 | KoS | pdf.112 | The Coming of Sartar
+FIGURES: (none registered)
+TEXT: Sartar, in his usual way, did not perform what they wanted but did something else instead which was greater. Sartar produced a new chief for them. No one had seen the man before, but there was no doubt he was a Telmori chief. He was called Ostling Four‑wolf, which was a miracle because no one could ever have more than one beast brother at a time, but Ostling had four! Ostling also showed the Telmori chiefs some secrets of their changing, and offered hope of their curse being broken. Ostling passed the leadership tests and so ruled the Telmori afterwards, and was a good friend to Sartar. From that time the tribe was always friendly with the rulers of the Sartar dynasty, though they still mistrusted everyone else as they always had.
+TARGETS: curses
+
+### KoS:00648 | KoS | pdf.113 | The Kingdom of Sartar
+FIGURES: ISSARIES
+TEXT: The first year the royal couple lived in the tent of the queen, and Sartar studied the Grazers and shared his powers with them and their queen. He taught them of Issaries and set up some temples to the merchant god, but refused to ride upon their proud horses and so was scorned by most of the tribesmen. In the next Sacred Time the queen bore a daughter named Yoristina.
+TARGETS: dwells at
+
+### KoS:00653 | KoS | pdf.114 | The Kingdom of Sartar
+FIGURES: (none registered)
+TEXT: Sometime during his reign Sartar also visited the Beastfolk at Duck Point, and built walls for that little city. No City Ring was set up, nor did people inhabit the nearly empty shell for some time. We know next to nothing else about the event, for Sartar went alone and neither he nor the ducks ever told what went on. But he returned after two months with the ducks sworn to be loyal to his family, and he never ate another fowl of any kind.
+TARGETS: dwells at; speaks / prophesies
+
+### KoS:00654 | KoS | pdf.114 | The Kingdom of Sartar
+FIGURES: (none registered)
+TEXT: Sartar was loved by the common tribes people, for he often went disguised among them and searched for those worthy and just enough to help convey the kingdom towards a good future. Those who he found sufficient were rewarded, often in simple ways like their cows never going dry. Some got greater rewards, like swords or the magical stone of the Anzarni Clan which is useless to kings or warriors, but of immeasurable value to a carpenter. The villains and robbers who Sartar met were turned into toads and yapping dogs, or plagued with itching disease and bad teeth.
+TARGETS: loves / desires
+
+### KoS:00715 | KoS | pdf.123 | Fazzur Wideread (1613 ‑ 1621)
+FIGURES: ERNALDA, ORLANTH
+TEXT: But Whitewall fell. A cry of victory went up through all the Lunar Empire. At last, they said, Orlanth had fallen and the outlaw gods of the world were brought low. The chief of the barbarian gods was revealed to be nothing in the light of the Red Moon. Orlanth and Ernalda were dead, chained in the Underworld by Lunar magic. Their magic and influence in the world <span id="page-123-0"></span>vanished. Their worshippers were left breathless. The deities of Heaven had once again, at last, reasserted their primeval claim to leadership in the universe. 1621 was declared to be the Extra Full Moon Year.
+TARGETS: punishes / exiles
+
+### KoS:00831 | KoS | pdf.140 | The Lost Chapter
+FIGURES: ERNALDA, ORLANTH, RED GODDESS
+TEXT: Overhead the face of Red Moon smiled and spoke. "You are heroes, my children," said the Red Goddess, "I will love you forever." Her rivals, Orlanth and his spouse Ernalda, were dead. Their magic and influence in the world vanished. Their worshippers were left breathless. A Great Winter immediately descended upon the former Orlanthi lands. All of Kerofinela froze, except those regions of Tarsh protected by our Red Goddess. Allies, such as the loyal Grazers, were shielded by Lunar priestesses among them.
+TARGETS: speaks / prophesies
+
+### KoS:00841 | KoS | pdf.142 | The Argrath Book
+FIGURES: ARGRATH
+TEXT: - 1. Someone was trying to figure out who Argrath was. The documents do little to solve the mystery of Argrath by themselves, and it is tempting to agree that they were put together by someone long ago for the same purpose which we collected them. Alas, no proof of this exists, even though it includes a document critical to my own thesis. - 2. Everyone knew who Argrath was, and the compiler here was getting *anything* he could which might earn him a place at some lord's dinner table. - 3. It was gathered in the last‑ditch attempts of the Londarios scribes to salvage what they could of a dying knowledge.
+TARGETS: dies
+
+### KoS:00869 | KoS | pdf.148 | Source: Hendart Clan saga
+FIGURES: ARGRATH
+TEXT: "You can have half the spoils of battle," said Argrath, "but not of the kingdom." "But you just swore," said Mularik, "that the kingdom itself was saved. Would you go back on your word?" Of course Argrath would not, for it would have cost him his honor, and he made Mularik regent for the northern half of the kingdom. Mularik was a poor regent, being more interested in battle than in barley. At the end of the first year the nobles of Tarsh complained that Mularik had installed new laws upon them. After the second year the nobles of Tarsh came and Eorl Josdantor was their spokesman. He said that none of them were afraid of death, nor unskilled in battle, but Mularik had still cost them their best horses, and then taxed them of their best herds.
+TARGETS: hates / fears
+
+### KoS:00870 | KoS | pdf.148 | Source: Hendart Clan saga
+FIGURES: ARGRATH
+TEXT: That midwinter Argrath spoke angrily to Mularik at a feast. Then Mularik reminded everyone that he and Argrath had fought the first time they met, but when neither could defeat the other, they swore friendship ever after, by their honor. Argrath was silent and angry after that.
+TARGETS: speaks / prophesies
+
+### KoS:00871 | KoS | pdf.148 | Source: Hendart Clan saga
+FIGURES: ARGRATH
+TEXT: During the third year Argrath's Dishthane spoke to him and complained that Mularik had erected toll stations upon his land, which charged even the royal messengers money to pass. When they complained, the toll takers laughed and said that even the king would have to pay a toll there now. That winter rebellion broke out in Tarsh when Mularik took away the daughter of Genedros, a tribal king. Mularik and his men crushed the rebels and took all their lands, daughters, and wives.
+TARGETS: speaks / prophesies
+
+### KoS:00872 | KoS | pdf.148 | Source: Hendart Clan saga
+FIGURES: ARGRATH
+TEXT: When Argrath heard this he was no longer silent. He said, "I am cursed, for justice is beyond my grasp. I want this man dead, but must retain my honor. What solution can exist for this?" <span id="page-148-0"></span>Brolli the Stout, Engarna Farsee, and Yend the Leaper were members of the Hendart Clan. They heard the king's complaint, and Engarna prepared a spell which could kill the baron. But they lacked the opportunity to use it.
+TARGETS: curses
+
+### KoS:00875 | KoS | pdf.149 | Source: Hendart Clan saga
+FIGURES: ARGRATH
+TEXT: At dinner that night Argrath was heard to say, "No true brother would treat a man that way." Brolli and Yend went forth then with Engarna's spell. They found Mularik upon a hunt, with only six men about him. Mularik and his men could not stand against the pair and their magic and all of them were slain. Yend the Leaper was also killed.
+TARGETS: hunts
+
+### KoS:00876 | KoS | pdf.149 | Source: Hendart Clan saga
+FIGURES: ARGRATH
+TEXT: Brolli the Stout brought the head of Mularik to Argrath. The king was shocked and sad, and lamented the death of his companion. He asked who had done it, and he was told that it had been Yend. Argrath then condemned Yend and all of his clan for the death of a regent, and commanded that all their lands should be impounded, their livestock seized, and the people enslaved.
+TARGETS: mourns; speaks / prophesies; dies
+
+### KoS:00897 | KoS | pdf.153 | Source: Dandaros of Pavis
+FIGURES: ARGRATH, ORLANTH
+TEXT: One day a new sickness came to the city. Argrath was among those who fell ill. The Pavis priests said that it was something that the Lunar miners had uncovered. People became weak, disoriented, and lapsed into unconsciousness. Only priests of Orlanth could heal them, and many people sneaked out of the city to find them.
+TARGETS: heals
+
+### KoS:00898 | KoS | pdf.153 | Source: Dandaros of Pavis
+FIGURES: ARGRATH, ORLANTH
+TEXT: At the Pairing Stone, north of the city, Argrath attended a great ceremony and was healed. At that time the spirit of God truly moved through the man for the first time. Orlanth purged the man of the illness demon, and he asked for nothing in return from Argrath. However, the god made a request of Argrath, and did promise to help him some more, later, in return for some information. Argrath agreed, out of gratitude, and gave to the god all that he knew about the nightmares of the Lunar soldiers in Pavis.
+TARGETS: heals
+
+### KoS:00921 | KoS | pdf.157 | The Cities of the Creek-Stream River
+FIGURES: UZ
+TEXT: The Creek-Stream River here cuts through the Shadowlands, a buffer state between the sea and the Wyrmfriends. It is ruled by the nonhuman race called *Uz,* or in our own tongue, trolls. We Westerners find it abhorrent that this hated, monstrous race rules humans, but the ignorant pagans here do not seem to mind, and actually laughed at my concerns.
+TARGETS: hates / fears
+
+### KoS:00923 | KoS | pdf.157 | The Cities of the Creek-Stream River
+FIGURES: ALDRYAMI
+TEXT: **Karse,** the Decadent, on the left bank of the mouth. This is a place where people of <span id="page-157-0"></span>many cultures meet, and also many races, all as equals (unlike Nochet). They say anything is available here: I met a man who said he had sex with an Aldryami, and a woman who said she exchanged gold for royalty.
+TARGETS: trades / exchanges
+
+### KoS:00939 | KoS | pdf.161 | Source: Story from Ralios
+FIGURES: INGOLF DRAGONFRIEND
+TEXT: In 1570 dragonewts were seen to be employed by the Lunar Empire. They subsequently hired out forces to the Kingdoms of Tarsh and Sartar. [They assisted in the downfall of Boldhome.] # **The Saga of Ingolf Dragonfriend** # **Source: Story from Ralios** Ingolf was of the Garanazar Clan which lives on the Rendalian River. He was the son of Harstov Bigspear, who was the son of Ernandan the Black, son of Hostaran the Chief, who was of the Nardaini.
+TARGETS: dwells at
+
+### KoS:00943 | KoS | pdf.162 | Source: Story from Ralios
+FIGURES: (none registered)
+CONTEXT: small, but it smashed him to the earth so that his eye was near the soil. There, up close, he saw a whole city which seemed the size of a pea. Ingolf realized that the dragon was, in fact, its full size, and that he too was the size of a dragon. So its voice and <span id="page-161-0"></span>flame did not hurt, and its claws gave bearable wounds, and its thoughts could be contained for a moment.
+TEXT: He used only his left hand to grip the foe, his left leg to stand on, his left eye to see with, and the left side of his mouth to pronounce the word of power which he had always borne within his heart. And the dragon, the great monster, was bent slowly back by the grip, into submission. But rather than slaying it, Ingolf healed it. Then the two of them made the *yrtgal.*
+TARGETS: heals
+
+### KoS:00945 | KoS | pdf.162 | Source: Story from Ralios
+FIGURES: (none registered)
+TEXT: When the tides of war turned against him Ingolf used his dragon allies sparingly, but decisively: The fire‑breathers were summoned to save the son of Prince Arastakos, who was being taken into hiding after his uncle slew everyone in New Jardan. They flew overhead to protect the party, and gave deadly surprise to the soldiers in pursuit. Then they bore humans upon their backs far ahead to ambush pursuers. They died in the fight.
+TARGETS: dies
+
+### KoS:00949 | KoS | pdf.162 | Source: Story from Ralios
+FIGURES: DRAGON EMPEROR, THE DRAGONS
+TEXT: The destruction of the Diamond Storm Dragon devastated many in the empire, and wounded most of those who were powerful and well connected. But Ingolf was unharmed, and he helped to heal those who still needed it. Over time the Forward Dragons faction lost strength and power to the Here and Now Dragons faction. Material objectives of the empire thus became easier to accomplish, but the precarious spiritual balance was lost. The empire grew more corrupt until it betrayed its own draconic essence by being too selfish. Then the Dragon Emperor of the humans was confronted by an evil spirit named Utuma who slew him. Other assassins came from out of the shadows and up from under things to kill all of the other draconic leaders. Prisons were thrown open, secret armies let loose, and mobs of people were released into riots and frenzy through the failed heart of the empire.
+TARGETS: heals
+
+### KoS:00988 | KoS | pdf.169 | Yelmalio
+FIGURES: ELMAL, ERNALDA, ORLANTH
+TEXT: The native mythology tells of how Orlanth and Elmal met, fought while standing upon a precarious bridge, and both ended up in the raging waters. Orlanth rescued Elmal; they became friends and companions afterwards. Orlanth and Ernalda created the Foreigner's Wedding so that Elmal could marry their horse‑loving daughter and join the clan.
+TARGETS: speaks / prophesies
+
+### KoS:01013 | KoS | pdf.173 | The Colymar Book
+FIGURES: ORLANTH
+TEXT: South of Dragon Pass lived the Orshanti Clan. They were of the Hendriki Tribe, and were good Orlanthi. One day their chiefs and godi all woke with headaches. They looked into the north, and there for the first time they saw the great orb of the Red Moon. No one except the godi knew what it was, until the assemblies met and the woeful tale was told — that Chaos had once again risen in the north, and that Orlanth had been wounded. In the sky the festering wound still was visible, and from it would come the doom of the world unless it was stopped. This was 1247.
+TARGETS: speaks / prophesies; sleeps / wakes

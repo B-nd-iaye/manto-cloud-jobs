@@ -1,0 +1,300 @@
+[P5-A-B0005-026] S=['TATIUS THE BRIGHT'] P=serves O=['YELM'] implicit=True ps="was a priest of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Tatius was a priest of Yelm
+[P5-A-B0005-027] S=['TATIUS THE BRIGHT'] P=is member of O=['THE IMPERIAL FAMILY'] implicit=True ps="a member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: a member of the imperial family
+[P5-A-B0005-028] S=['TATIUS THE BRIGHT'] P=claims ancestry O=['YELM'] implicit=True ps="traced his own lineage to" sug=claims ancestry
+   Q: traced his own lineage to the emperor Yelm.
+[P5-A-B0005-029] S=['TATIUS THE BRIGHT'] P=fights O=['KING BROYAN'] MOD={"in_on_at": "HENDRIKILAND", "purpose_clause": "to destroy Broyan"} implicit=True ps="dispatched the Lunar Army to destroy" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Tatius dispatched the Lunar Army to destroy Broyan in Hendrikiland.
+[P5-A-B0005-030] S=['TATIUS THE BRIGHT'] P=pledges oath with O=['GAGIX TWO-BARB'] implicit=True ps="allied with" sug=allies with
+   Q: Tatius allied with Queen Gagix Two-Barb
+[P5-A-B0005-031] S=['GAGIX TWO-BARB'] P=rules O=['QUEENDOM OF JAB'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Chaos demigoddess who ruled the Queendom of Jab
+[P5-A-B0005-032] S=['GAGIX TWO-BARB'] P=manifests chaos taint O=[] implicit=True ps="the Chaos demigoddess" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: the Chaos demigoddess who ruled the Queendom of Jab
+[P5-A-B0005-033] S=['CHAOTIC HORRORS OF GAGIX TWO-BARB'] P=travels O=[] MOD={"from": "LARNSTE'S FOOTPRINT"} implicit=True ps="erupted out of" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: whose Chaotic horrors erupted out of Larnste's Footprint.
+[P5-A-B0005-034] S=['TATIUS THE BRIGHT'] P=establishes cult O=['NEW TEMPLE TO THE REACHING MOON'] implicit=True ps="concentrated his main efforts upon erecting" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Tatius concentrated his main efforts upon erecting a New Temple to the Reaching Moon.
+[P5-A-B0005-035] S=['KING BROYAN'] P=fights O=['THE LUNAR ARMY'] MOD={"in_on_at": "BATTLE OF THE AUROCH HILLS"} implicit=False ps="ambushed" sug=invades / raids
+   Q: King Broyan ambushed the Lunar Army, destroying some of the best soldiers of the Lunar army at the Battle of the Auroch Hills.
+[P5-A-B0005-036] S=['KING BROYAN'] P=alters mythic station O=['ORLANTH', 'ERNALDA'] implicit=True ps="partially freed" sug=rescues / frees
+   Q: This victory partially freed Orlanth and Ernalda, allowing some heroes, devotees, and holy folk to wield their magic.
+[P5-A-B0005-037] S=['THREE YELLOW STARS'] P=manifests O=[] MOD={"in_on_at": "THE SKY", "via": ["ORLANTH'S RING"]} implicit=False ps="appeared in the Sky" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Three yellow stars appeared in the Sky and began to follow the path of Orlanth's Ring through the heavens.
+[P5-A-B0005-038] S=['THE LUNARS'] P=shatters O=['COSMIC COMPROMISE'] implicit=False ps="had rent and torn" sug=shatters
+   Q: By their actions, the Lunars had rent and torn the Cosmic Compromise itself.
+[P5-A-B0005-039] S=['KING BROYAN'] P=flees to O=[] MOD={"to": "SHADOW PLATEAU"} implicit=True ps="went into hiding in" sug=flees to
+   Q: Broyan went into hiding in the Shadow Plateau.
+[P5-A-B0005-040] S=['ERNALDA'] P=bestows magic / gifts O=['SAMASTINA'] implicit=False ps="possessed Ernalda's blessings" sug=one of: bestows, heals, imbues, teaches
+   Q: installed Queen Samastina of the Old Earth, who possessed Ernalda's blessings.
+[P5-A-B0005-041] S=['SAMASTINA'] P=rules O=['NOCHET'] implicit=False ps="installed Queen" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: A coup in Nochet pulled the Lunar sympathizers from power and installed Queen Samastina of the Old Earth
+[P5-A-B0005-042] S=['TUSK RIDERS'] P=travels O=[] MOD={"from": "STINKING WOODS", "to": "TARSH"} implicit=False ps="erupted from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: a host of Tusk Riders erupted from the Stinking Woods and raided deep into Tarsh.
+[P5-A-B0005-043] S=['ONJUR THE POET'] P=kills O=['HALF-TROLL KING'] MOD={"in_on_at": "BAGNOT"} implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: his son Onjur the Poet achieved great fame when he killed the Half-Troll King in single combat outside of the walls of Bagnot.
+[P5-A-B0005-044] S=['ONJUR THE POET'] P=is child of O=['FAZZUR WIDEREAD'] implicit=False ps="his son" sug=is child of
+   Q: Fazzur Wideread organized the defense of Old Tarsh and his son Onjur the Poet
+[P5-A-B0005-045] S=['BOAT PLANET'] P=travels O=[] MOD={"via": ["CELESTIAL RIVER"]} implicit=True ps="began making its way through" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: and it began making its way through the Celestial River.
+[P5-A-B0005-046] S=['BOAT PLANET'] P=alters mythic station O=['CLOSING OF THE SEAS'] implicit=False ps="return ended" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: the Boat Planet's return ended the Closing of the Seas, making the oceans open to even those who did not know Dormal's secrets.
+[P5-A-B0005-047] S=['HARREK THE BERSERK'] P=rules O=['WOLF PIRATES'] implicit=False ps="led" sug=leads
+   Q: Wolf Pirates led by Harrek the Berserk
+[P5-A-B0005-048] S=['KING BROYAN', 'HARREK THE BERSERK', 'GREYMANE'] P=defeats O=['THE LUNAR ARMY'] MOD={"in_on_at": "FORD OF PENNEL"} implicit=True ps="was defeated in a rout" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The two armies met at the ford of Pennel. || the Lunar Army was defeated in a rout, despite betrayal by the Western Barbarians.
+[P5-A-B0005-049] S=['THE LUNAR SUN PRIESTS'] P=fights O=['HARREK THE BERSERK'] MOD={"from": "THE SUN"} implicit=False ps="called down a single bolt of flame" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Lunar Sun priests called down a single bolt of flame thrown down from the Sun upon Harrek the Berserk and his twelve boon companions.
+[P5-A-B0005-050] S=['HARREK THE BERSERK'] P=blinds O=['THE SUN GOD'] implicit=False ps="blinded" sug=wounds (qual=blinding)
+   Q: Instead of being burnt to ashes, Harrek blinded the Sun God and killed nearly every Lunar magician who participated in the fight.
+[P5-A-B0005-051] S=['HARREK THE BERSERK'] P=kills O=['LUNAR MAGICIANS'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Harrek blinded the Sun God and killed nearly every Lunar magician who participated in the fight.
+[P5-A-B0005-052] S=["ORLANTH'S RING"] P=manifests O=[] MOD={"from": "STORMGATE", "to": "SKY DOME"} implicit=True ps="appeared out of" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Ring, now comprised of eleven stars instead of eight, triumphantly appeared out of the Stormgate and rapidly climbed a third of the way up the Sky Dome.
+[P5-A-B0005-053] S=['ORLANTH'] P=alters mythic station O=[] implicit=False ps="was completely freed from his fetters" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Orlanth was completely freed from his fetters and the wrathful Storm God sought vengeance upon those who had imprisoned him.
+[P5-A-B0005-054] S=['ERNALDA'] P=travels O=[] MOD={"in_on_at": "ESROLIA", "to": "GREAT TEMPLE OF ERNALDA"} implicit=False ps="returned to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Ernalda returned to her great temple in Esrolia
+[P5-A-B0005-055] S=['ERNALDA'] P=bestows magic / gifts O=['ALL WHO HAD AIDED ERNALDA'] implicit=True ps="blessed" sug=one of: bestows, heals, imbues, teaches
+   Q: blessed all who had aided her with fertility and wealth.
+[P5-A-B0005-056] S=['KING BROYAN'] P=rules O=['KETHAELA'] implicit=False ps="being proclaimed King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: After being proclaimed King of Kethaela, King Broyan went back to Hendrikiland where his people welcomed him.
+[P5-A-B0005-057] S=['ARGRATH', 'OLD EARTH QUEEN'] P=travels O=[] MOD={"to": "THE PAPS"} implicit=False ps="continued on to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Argrath and the young Old Earth Queen continued on to the Paps after summoning the immortal hero Jaldon Toothmaker
+[P5-A-B0005-058] S=['JALDON TOOTHMAKER'] P=manifests O=[] MOD={"at_the_instigation_of": ["ARGRATH", "OLD EARTH QUEEN"]} implicit=True ps="summoning" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: after summoning the immortal hero Jaldon Toothmaker, rallying the Praxian tribes behind the White Bull.
+[P5-A-B0005-059] S=['PRAXIAN TRIBES'] P=serves O=['WHITE BULL'] implicit=False ps="rallying behind" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: rallying the Praxian tribes behind the White Bull.
+[P5-A-B0005-060] S=['HARREK THE BERSERK', 'WOLF PIRATES'] P=defeats O=['CITY OF WONDERS'] implicit=False ps="sacked" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: That winter, Harrek and the Wolf Pirates sacked the City of Wonders.
+[P5-A-B0005-061] S=['CITY OF WONDERS'] P=departs from O=['THE WORLD'] implicit=True ps="disappeared from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Belintar's place of power disappeared from the world, its unique magic lost forever.
+[P5-A-B0005-062] S=['A BAND OF HUMAKTI'] P=kills O=['PRINCE TEMERTAIN'] MOD={"in_on_at": "ROYAL PALACE IN BOLDHOME", "using": "THE SWORD THAT BORE HIS DOOM"} implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: a band of Humakti penetrated the Royal Palace in Boldhome and killed Prince Temertain with the sword that bore his doom.
+[P5-A-B0006-001] S=['DEMON WITH MANY SHARP MOUTHS'] P=kills O=['KING BROYAN'] MOD={"purpose_clause": "sought vengeance"} implicit=True ps="was killed" sug=one of: kills, shatters, dies
+   Q: and the Great King was killed there, with his army.
+[P5-A-B0006-002] S=['BELVANI'] P=rules O=['SUN COUNTY'] MOD={"at_the_instigation_of": ["ARGRATH"]} implicit=True ps="appointing as the new ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: after appointing his ally Belvani as the new ruler of Sun County
+[P5-A-B0006-003] S=['ARGRATH'] P=fights O=['NEW LUNAR TEMPLE'] implicit=False ps="led his army against" sug=invades / raids
+   Q: Argrath led his howling, bloodcrazed army of Praxians against the New Lunar Temple.
+[P5-A-B0006-004] S=['DEMON WITH TWO ARMS AND AN EXTRA ONE'] P=fights O=['ARGRATH'] MOD={"at_the_command_of": ["TATIUS THE BRIGHT"]} implicit=True ps="sent against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Tatius sent a demon that had two arms, and an extra one, against them.
+[P5-A-B0006-005] S=['ARGRATH'] P=flees to O=[] MOD={"to": "PAVIS"} implicit=False ps="retreated to" sug=flees to
+   Q: The nomads were routed, and Argrath retreated to Pavis.
+[P5-A-B0006-006] S=['RIVAL CLAIMANT OF SUN COUNTY'] P=defeats O=['BELVANI'] MOD={"to": "PAVIS"} implicit=True ps="forced to retreat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: She forced Argrath's ally Belvani to retreat to Pavis.
+[P5-A-B0006-007] S=["ORLANTH'S RING"] P=travels O=[] implicit=True ps="rise on the wrong day and then spiral around the sky" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: star, rise on the wrong day and then spiral around the sky in a mere six hours as several planets and constellations streaked out of place to explode against the orange stars.
+[P5-A-B0006-008] S=['ODDI THE KEEN'] P=kills O=['RALZAKARK'] MOD={"in_on_at": "DORASTOR"} implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: In Dorastor, the Chaotic Lunar ally Ralzakark was slain by the Orlanthi hero Oddi the Keen.
+[P5-A-B0006-009] S=['RALZAKARK'] P=manifests chaos taint O=[] implicit=False ps="Chaotic" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: the Chaotic Lunar ally Ralzakark
+[P5-A-B0006-010] S=['KING OF THE WINGS'] P=rules O=['PENTAN HORSE NOMADS'] implicit=False ps="khan of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the King of the Wings, khan of the Pentan horse nomads.
+[P5-A-B0006-011] S=['JAR-EEL'] P=manifests O=[] MOD={"in_on_at": "SHORT LIGHTBRINGERS' QUEST"} implicit=True ps="appeared" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: the Lunar demigoddess Jareel the Razoress appeared, halfway through Kallyr's own sword dance.
+[P5-A-B0006-012] S=['THE RAZORESS'] P=is alternative name for O=['JAR-EEL'] implicit=True ps="Jareel the Razoress" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Lunar demigoddess Jareel the Razoress
+[P5-A-B0006-013] S=['JAR-EEL'] P=kills O=["KALLYR'S COMPANIONS AND HOUSEHOLDS"] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Jar-eel was blindingly armed and killed most of Kallyr's companions and households, and grievously wounded Kallyr, before the Red Goddess was driven off.
+[P5-A-B0006-014] S=['JAR-EEL'] P=wounds O=['KALLYR STARBROW'] implicit=True ps="grievously wounded" sug=wounds
+   Q: Jar-eel was blindingly armed and killed most of Kallyr's companions and households, and grievously wounded Kallyr, before the Red Goddess was driven off.
+[P5-A-B0006-015] S=['KALLYR STARBROW'] P=re-enacts O=["LIGHTBRINGERS' QUEST"] implicit=True ps="managed to complete the ceremony" sug=re-enacts
+   Q: Kallyr somehow managed to complete the ceremony, but the damage was done: the Lightbringers' Quest failed.
+[P5-A-B0006-016] S=['KALLYR STARBROW'] P=alters mythic station O=['COSMIC COMPROMISE'] implicit=True ps="further weakened" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Instead of strengthening the cosmos, Kallyr's failed heroquest further weakened the Cosmic Compromise to the breaking point.
+[P5-A-B0006-017] S=['PHARGENTITES'] P=serves O=['KING PHARANDROS'] implicit=False ps="generals" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: King Pharandros' generals, called the Phargentites
+[P5-A-B0006-018] S=["DIOVENA OF MIRIN'S CROSS"] P=rules O=['PHARGENTITES'] implicit=False ps="headed" sug=leads
+   Q: in truth they were commanded by the Phargentites, headed by Diovena of Mirin's Cross.
+[P5-A-B0006-019] S=['KALLYR STARBROW'] P=rules O=['THE SARTARITE ARMY'] implicit=True ps="were led by" sug=leads
+   Q: They were led by Prince Kallyr; however, most of the army was led by their petty tribal leaders
+[P5-A-B0006-020] S=['KALLYR STARBROW'] P=descends into O=[] implicit=True ps="was killed in battle" sug=dies
+   Q: because her household had been weakened so much Queen Kallyr was killed in battle.
+[P5-A-B0006-021] S=['LEIKA BLACK SPEAR'] P=defeats O=['THE LUNAR ARMY'] implicit=True ps="drove into the river where they drowned" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: But Queen Leika Black Spear of the Colymar drove the enemy opposite her warriors into the river where they drowned, which caused the Lunar attack to stop.
+[P5-A-B0006-022] S=['LEIKA BLACK SPEAR'] P=rules O=['COLYMAR'] implicit=False ps="Queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Queen Leika Black Spear of the Colymar
+[P5-A-B0006-023] S=['RANULF'] P=rules O=['CULBREA'] implicit=False ps="King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: King Ranulf of the Culbrea and Queen Amalda of the Malani also fell in battle.
+[P5-A-B0006-024] S=['AMALDA'] P=rules O=['MALANI'] implicit=False ps="Queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: King Ranulf of the Culbrea and Queen Amalda of the Malani also fell in battle.
+[P5-A-B0006-025] S=['KALLYR STARBROW'] P=is member of O=['ROYAL HOUSE OF SARTAR'] implicit=True ps="the last of the royal house" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: she was widely known to be the last of the royal house and was without heir.
+[P5-A-B0006-026] S=['COLYMAR'] P=sacrifices O=['KALLYR STARBROW'] implicit=True ps="lit the pyre" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: After her body had lain in state for over three weeks, untouched by rot or decay, the Colymar lit the pyre without notifying the other tribes.
+[P5-A-B0006-027] S=['JAR-EEL'] P=defeats O=['KING OF THE WINGS'] MOD={"in_on_at": "BLESSED TORANG"} implicit=False ps="confronted in single combat and defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: outside the walls of Blessed Torang, birthplace of the Red Goddess, Jar-eel the Razoress confronted the King of the Wings in single combat and defeated him in a terrible magical battle.
+[P5-A-B0006-028] S=['RED GODDESS'] P=comes into being O=[] MOD={"in_on_at": "BLESSED TORANG"} implicit=False ps="birthplace of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Blessed Torang, birthplace of the Red Goddess
+[P5-A-B0006-029] S=['JAR-EEL'] P=defeats O=['STARS AND PLANETS'] MOD={"in_on_at": "BLESSED TORANG"} implicit=True ps="overcoming" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: She proved her demi-godhood there, overcoming stars and planets, and forcing the Sun to acknowledge her for her ancestress' sake.
+[P5-A-B0006-030] S=['JAR-EEL'] P=alters mythic station O=[] IO=['THE SUN'] implicit=True ps="proved her demi-godhood" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: She proved her demi-godhood there || forcing the Sun to acknowledge her for her ancestress' sake.
+[P5-A-B0006-031] S=['HARREK THE BERSERK', 'WOLF PIRATES'] P=travels O=[] MOD={"to": "CHORALINTHOR BAY"} implicit=False ps="returned to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Harrek the Berserk and his Wolf Pirates returned to the Choralinthor Bay, raiding and plundering wherever they went.
+[P5-A-B0006-032] S=['HORDE OF GAGIX TWO-BARB'] P=defeats O=['BACKFORD'] implicit=True ps="fell to" sug=conquers
+   Q: The city of Backford fell to her horde of devouring scorpions and other horrors.
+[P5-A-B0006-033] S=['ARGRATH'] P=rules O=['WHITE BULL'] implicit=True ps="commanded the spirit" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: spirit known as the White Bull and incredibly worked his way to supremacy of several secret societies
+[P5-A-B0006-034] S=['ARGRATH'] P=rules O=['TWIN SPEARS', 'SWORD BROTHERS', 'BULLOCKS'] implicit=True ps="worked his way to supremacy of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: incredibly worked his way to supremacy of several secret societies, most notably the Twin Spears, the Sword Brothers, and the Bullocks.
+[P5-A-B0006-035] S=['UNNAMED GIVER'] P=bestows magic / gifts O=["DRAGON'S TEETH"] IO=['ARGRATH'] implicit=True ps="received the gift of" sug=one of: bestows, heals, imbues, teaches
+   Q: After he received the gift of the Dragon's Teeth
+[P5-A-B0006-036] S=['ARGRATH'] P=protects O=['GIANT CRADLE'] MOD={"purpose_clause": "against the Lunars"} implicit=False ps="defended" sug=one of: protects, rescues / frees, aids
+   Q: Argrath defended the giant's cradle against the Lunars in 1621 and accompanied it far to sea where he met the Wolf Pirates.
+[P5-A-B0006-037] S=['ARGRATH'] P=protects O=['GIANT CRADLE'] IO=['HARREK THE BERSERK'] implicit=True ps="convinced to leave the cradle alone" sug=one of: protects, rescues / frees, aids
+   Q: To everyone's astonishment, Argrath convinced Harrek the Berserk to leave the cradle alone.
+[P5-A-B0006-038] S=['ARGRATH', 'HARREK THE BERSERK', 'WOLF PIRATES'] P=travels O=[] MOD={"via": ["INNER SEAS", "MAELSTROM"]} implicit=False ps="sailed around" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Argrath accompanied Harrek as the Wolf Pirates sailed around the entire Inner Seas, circling the bottomless maelstrom at the center of the world.
+[P5-A-B0006-039] S=['ARGRATH'] P=fights O=['ELEPHANTS'] MOD={"in_on_at": "TESHNOS"} implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: At Teshnos, Argrath was among those who fought the elephants.
+[P5-A-B0006-040] S=['ARGRATH'] P=protects O=['PURPLE PEOPLE'] MOD={"in_on_at": "TELEOS"} implicit=False ps="aided" sug=aids
+   Q: At Teleos, Argrath aided the purple people, and came away with the emerald frog.
+[P5-A-B0006-041] S=['ARGRATH'] P=discovers O=['EMERALD FROG'] MOD={"in_on_at": "TELEOS"} implicit=False ps="came away with" sug=discovers
+   Q: At Teleos, Argrath aided the purple people, and came away with the emerald frog.
+[P5-A-B0006-042] S=['EATING TREES'] P=binds O=['ARGRATH'] MOD={"in_on_at": "YANCHI CITY"} implicit=False ps="was trapped by" sug=binds
+   Q: At Yanchi City, Argrath was trapped by the eating trees, but survived
+[P5-A-B0006-043] S=['ARGRATH'] P=steals O=['FOLKS OF YANCHI CITY'] MOD={"in_on_at": "YANCHI CITY", "purpose_clause": "TO PUNISH"} implicit=True ps="plundered" sug=steals
+   Q: plundered the folks there of their livelihood in return for their treachery.
+[P5-A-B0006-044] S=['HARREK THE BERSERK'] P=defeats O=['BATPEOPLE'] MOD={"in_on_at": "GOAN", "with_the_aid_of": ["ARGRATH"]} implicit=False ps="chase off" sug=exiles / banishes
+   Q: At Goan, in Laskal, Argrath helped Harrek to chase off the batpeople, and establish his claim of conquest.
+[P5-A-B0006-045] S=['ARGRATH'] P=rules O=['ALDA-CHURI'] implicit=False ps="proclaimed him their Warlord" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Argrath was cheered as champion among the Alda-Churi, who raised him upon their sacred shield and proclaimed him their Warlord.
+[P5-A-B0006-046] S=['KINGS OF THE ALDA-CHURI'] P=pledges oath with O=['ARGRATH'] MOD={"purpose_clause": "to try to light the Flame of Sartar"} implicit=True ps="swore to accompany" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Their kings urged Argrath to try to light the Flame of Sartar and swore to accompany him.
+[P5-A-B0006-047] S=['THUNDER BROTHERS'] P=bestows magic / gifts O=['ARGRATH'] MOD={"in_on_at": "OLD WIND TEMPLE"} implicit=False ps="went for a blessing, and got it" sug=one of: bestows, heals, imbues, teaches
+   Q: Argrath went to the Thunder Brothers at Old Wind Temple for a blessing, and got it.
+[P5-A-B0006-048] S=['RURIK RUNESPEAR'] P=rules O=['SUN DOME COUNTY'] MOD={"at_the_instigation_of": ["ARGRATH"]} implicit=True ps="installed as Count" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He went to Sun Dome County and installed his friend Rurik Runespear as Count.
+[P5-A-B0006-049] S=['COLYMAR'] P=bestows magic / gifts O=['ARGRATH'] MOD={"in_on_at": "CLEARWINE"} implicit=True ps="a blessing from, and got it" sug=one of: bestows, heals, imbues, teaches
+   Q: He went to Clearwine for a blessing from the Colymar, and got it.
+[P5-A-B0006-050] S=['VAILOR BLUE FOX'] P=rules O=['MALANI'] MOD={"in_on_at": "TWO-RIDGE FORT", "at_the_instigation_of": ["ARGRATH"]} implicit=True ps="installed as king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: At Two-Ridge Fort he installed his friend Vailor Blue Fox as king of the Malani.
+[P5-A-B0006-051] S=['ARGRATH'] P=protects O=['TRICKSTERS'] implicit=False ps="put under his protection" sug=one of: protects, rescues / frees, aids
+   Q: Argrath put the Tricksters under his protection and told them to come out of hiding.
+[P5-A-B0006-052] S=['ARGRATH'] P=kills O=['AN ASSASSIN'] MOD={"using": "ARGRATH'S BLADE"} implicit=False ps="cut down" sug=one of: kills, shatters, dies
+   Q: Once Argrath's own blade cut down an assassin.
+[P5-A-B0006-053] S=['ANNSTAD'] P=is child of O=['FAZZUR WIDEREAD'] implicit=False ps="The younger son of" sug=is child of
+   Q: The younger son of Fazzur Wideread, Annstad was initiated into the mysteries of the Red Goddess in his youth.
+[P5-A-B0006-054] S=['ANNSTAD'] P=initiates into cult O=['RED GODDESS'] implicit=False ps="was initiated into the mysteries of" sug=initiates into cult
+   Q: Annstad was initiated into the mysteries of the Red Goddess in his youth.
+[P5-A-B0006-055] S=['ANNSTAD'] P=initiates into cult O=['ORLANTH THUNDEROUS'] MOD={"in_on_at": "KERO FIN"} implicit=True ps="initiating to" sug=initiates into cult
+   Q: surprised all by initiating to Orlanth Thunderous at Kero Fin in 1625.
+[P5-A-B0006-056] S=['ANNSTAD'] P=is member of O=['COMPANIONS OF ARGRATH'] implicit=True ps="is one of the Companions" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He joined Argrath before the Battle of Sword Hill and is one of the Companions.
+[P5-A-B0006-057] S=['ELUSU'] P=is member of O=['COMPANIONS OF ARGRATH'] implicit=False ps="is the longest serving of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Elusu is the longest serving of Argrath's Companions, having joined him during the years of exile in the Wastes.
+[P5-A-B0006-058] S=['ELUSU'] P=serves O=['ARGRATH'] implicit=True ps="Argrath's Trickster" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: titles given to Argrath's Trickster
+[P5-A-B0006-059] S=['ARGRATH'] P=protects O=['ELUSU'] implicit=True ps="is under the personal protection of" sug=one of: protects, rescues / frees, aids
+   Q: She claims the title of Trickster High Priest and is under the personal protection of Prince Argrath
+[P5-A-B0006-060] S=['GOLDGOTTI'] P=serves O=['ISSARIES'] implicit=True ps="Issaries priest" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: This Issaries priest from Nochet is the scion of one of the Merchant Princes of Maniria.
+[P5-A-B0006-061] S=['GOLDGOTTI'] P=claims ancestry O=['MERCHANT PRINCES OF MANIRIA'] implicit=True ps="is the scion of one of" sug=claims ancestry
+   Q: This Issaries priest from Nochet is the scion of one of the Merchant Princes of Maniria.
+[P5-A-B0007-001] S=['GOLDGOTTI'] P=serves O=['KING BROYAN', 'SAMASTINA', 'ARGRATH'] implicit=True ps="raising and supplying mercenaries for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: he became a war entrepreneur, raising and supplying mercenaries against the Empire, first for King Broyan, later for Queen Samastina, and lately for Prince Argrath.
+[P5-A-B0007-002] S=['HAL-YAN MONSTERKILLER'] P=serves O=['VAILOR BLUE FOX'] implicit=True ps="The bodyguard of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The bodyguard of King Vailor Blue Fox, this Sword of Humakt wandered across Genertela
+[P5-A-B0007-003] S=['HAL-YAN MONSTERKILLER'] P=serves O=['HUMAKT'] implicit=True ps="Sword of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: this Sword of Humakt wandered across Genertela
+[P5-A-B0007-004] S=['HAL-YAN MONSTERKILLER'] P=kills O=['MONSTERS'] implicit=True ps="killing" sug=one of: kills, shatters, dies
+   Q: wandered across Genertela, and even traveled to the East Isles, protecting the weak and killing monsters.
+[P5-A-B0007-005] S=['HAL-YAN MONSTERKILLER'] P=is identified as O=['YAN STARCERE'] implicit=True ps="claims to be the reincarnation of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Hal-Yan claims to be the reincarnation of the Dawn Age hero Yan Starcere.
+[P5-A-B0007-006] S=['MULARIK IRONEYE'] P=claims ancestry O=['ARKAT'] implicit=True ps="is descended from" sug=claims ancestry
+   Q: This adventurer from Rindland is descended from Arkat and a companion of Argrath's since his Wolf Pirate days.
+[P5-A-B0007-007] S=['MULARIK IRONEYE'] P=rules O=['SANUEL'] implicit=True ps="became the Baron of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Mularik returned to the West and became the Baron of Sanuel, a castle on the Seshnelan coast.
+[P5-A-B0007-008] S=['MULARIK IRONEYE'] P=pledges oath with O=['ARGRATH'] MOD={"in_on_at": "BOLDHOME"} implicit=True ps="sworn loyalty to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: He has recently returned to Boldhome and sworn loyalty to Argrath, whom he believes is the reincarnation of his ancient ancestor.
+[P5-A-B0007-009] S=['ARGRATH'] P=is identified as O=['ARKAT'] implicit=True ps="believes is the reincarnation of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: sworn loyalty to Argrath, whom he believes is the reincarnation of his ancient ancestor.
+[P5-A-B0007-010] S=['MULARIK IRONEYE'] P=initiates into cult O=['ARKAT'] implicit=True ps="is deeply initiated into the mysteries of" sug=initiates into cult
+   Q: Mularik is deeply initiated into the mysteries of Arkat and wields strange and terrifying sorceries.
+[P5-A-B0007-011] S=['MULARIK IRONEYE'] P=is member of O=['COMPANIONS OF ARGRATH'] implicit=True ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He is one of the Companions of Argrath.
+[P5-A-B0007-012] S=['SIR NARIB'] P=serves O=['KING RIKARD'] implicit=True ps="a sorcerer in the service of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Narib was once a sorcerer in the service of King Rikard of Malkonwal.
+[P5-A-B0007-013] S=['KING RIKARD'] P=rules O=['MALKONWAL'] implicit=False ps="King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: King Rikard of Malkonwal
+[P5-A-B0007-014] S=['SIR NARIB'] P=is member of O=['COMPANIONS OF ARGRATH'] implicit=True ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He entered Argrath's service after the Battle of Pennel Ford and is one of the Companions of Argrath.
+[P5-A-B0007-015] S=['KALLYR STARBROW'] P=alters mythic station O=['ORLARONT DRAGONFRIEND'] MOD={"from": "SARTAR"} implicit=True ps="was exiled by" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: was exiled from Sartar soon after that momentous event by Prince Kallyr and joined Argrath Whitebull in Pavis.
+[P5-A-B0007-016] S=['ARGRATH'] P=establishes cult O=['SARTAR MAGICAL UNION'] MOD={"with_the_aid_of": ["ORLARONT DRAGONFRIEND"]} implicit=True ps="setting up" sug=founds
+   Q: Orlaront aided Argrath in setting up the Sartar Magical Union
+[P5-A-B0007-017] S=['ORLARONT DRAGONFRIEND'] P=serves O=['ARGRATH'] implicit=True ps="is a chief advisor and boon companion to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: he is a chief advisor and boon companion to the Prince.
+[P5-A-B0007-018] S=['ORLARONT DRAGONFRIEND'] P=teaches O=['ARGRATH'] implicit=True ps="taught draconic secrets" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Orlaront can speak Auld Wyrmish and is believed to have taught Argrath draconic secrets.
+[P5-A-B0007-019] S=['ORLARONT DRAGONFRIEND'] P=is member of O=['COMPANIONS OF ARGRATH'] implicit=True ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He is one of the Companions of Argrath.
+[P5-A-B0007-020] S=['ORLMARL THE CHARIOTEER'] P=initiates into cult O=['MASTAKOS'] implicit=True ps="is initiated into the deepest secrets of" sug=initiates into cult
+   Q: Argrath's Charioteer is initiated into the deepest secrets of Mastakos the Mover and is so devoted that his skin is as blue as his god.
+[P5-A-B0007-021] S=['ORLMARL THE CHARIOTEER'] P=serves O=['ARGRATH'] implicit=True ps="Argrath's Charioteer" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Argrath's Charioteer is initiated
+[P5-A-B0007-022] S=['THE MOVER'] P=is alternative name for O=['MASTAKOS'] implicit=False ps="Mastakos the Mover" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Mastakos the Mover
+[P5-A-B0007-023] S=['ORSTALOR SPEARLORD'] P=pledges oath with O=['ARGRATH'] implicit=True ps="has sworn loyalty to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: He is revered by the tribal militias and has sworn loyalty to Prince Argrath.
+[P5-A-B0007-024] S=['ORSTALOR SPEARLORD'] P=rules O=['SARTAR FREE ARMY'] implicit=True ps="serves as the military commander of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He serves as the military commander of the Sartar Free Army.
+[P5-A-B0007-025] S=['RURIK RUNESPEAR'] P=serves O=['YELMALIO'] implicit=False ps="Yelmalio cultist" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Perhaps the most famous Yelmalio cultist from Pavis, Rurik Runespear joined Argrath
+[P5-A-B0007-026] S=['RURIK RUNESPEAR', 'ARGRATH'] P=protects O=['GIANT CRADLE'] implicit=False ps="joined to defend" sug=one of: protects, rescues / frees, aids
+   Q: Rurik Runespear joined Argrath to defend the Giant's Cradle against his fellows in Sun County.
+[P5-A-B0007-027] S=['RURIK RUNESPEAR', 'ARGRATH'] P=travels O=[] MOD={"via": ["HOMEWARD OCEAN"]} implicit=True ps="accompanied on his voyage around" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He accompanied Argrath on his voyage around the Homeward Ocean, and has experienced the vision of the Many Suns.
+[P5-A-B0007-028] S=['RURIK RUNESPEAR'] P=discovers O=['VISION OF THE MANY SUNS'] implicit=True ps="has experienced" sug=discovers
+   Q: has experienced the vision of the Many Suns.
+[P5-A-B0007-029] S=['RURIK RUNESPEAR'] P=rules O=['SUN COUNTY'] MOD={"at_the_instigation_of": ["ARGRATH"]} implicit=True ps="installed as the Count of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In early 1627, Argrath installed Rurik as the Count of Sun County in Sartar.
+[P5-A-B0007-030] S=['RURIK RUNESPEAR'] P=is member of O=['COMPANIONS OF ARGRATH'] implicit=True ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He is one of the Companions of Argrath. Tarkala the Lover
+[P5-A-B0007-031] S=['TARKALA THE LOVER'] P=serves O=['ERNALDA'] implicit=True ps="snake priestess of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: This snake priestess of Ernalda from Esrolia grants power and counsel to the lovers she chooses.
+[P5-A-B0007-032] S=['TARKALA THE LOVER'] P=alters mythic station O=['ERNALDA'] MOD={"from": "THE UNDERWORLD"} implicit=True ps="helped liberate" sug=rescues / frees
+   Q: She helped liberate the Goddess from the Underworld and has mastered many secrets of life and death.
+[P5-A-B0007-033] S=['TARKALA THE LOVER'] P=is member of O=['COMPANIONS OF ARGRATH'] implicit=True ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: She is one of the Companions of Argrath. Tosti Runefriend
+[P5-A-B0007-034] S=['TOSTI RUNEFRIEND'] P=serves O=['LHANKOR MHY'] implicit=True ps="Lhankor Mhy priest" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: This Lhankor Mhy priest has traveled to Kralorela and learned forbidden magic of both the Empire of the Wyrms Friends and the God Learners.
+[P5-A-B0007-035] S=['TOSTI RUNEFRIEND'] P=discovers O=['FORBIDDEN MAGIC'] MOD={"in_on_at": "KRALORELA", "from": ["EMPIRE OF THE WYRMS FRIENDS", "GOD LEARNERS"]} implicit=True ps="learned forbidden magic of" sug=discovers
+   Q: This Lhankor Mhy priest has traveled to Kralorela and learned forbidden magic of both the Empire of the Wyrms Friends and the God Learners.
+[P5-A-B0007-036] S=['TOSTI RUNEFRIEND'] P=travels O=[] MOD={"to": "SPIKE", "purpose_clause": "TO OBTAIN"} implicit=True ps="has quested to climb" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He has quested to climb primeval Spike, seeking the secrets of the Runes from the very feet of the Celestial Court.
+[P5-A-B0007-037] S=['TOSTI RUNEFRIEND'] P=is member of O=['COMPANIONS OF ARGRATH'] implicit=True ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He entered Argrath's service in 1624 and is one of the Companions of Argrath.
+[P5-A-B0007-038] S=['VAILOR BLUE FOX'] P=is member of O=['WIND LORDS'] implicit=True ps="adventuring Wind Lord" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: This adventuring Wind Lord has traveled across Genertela and beyond, even going to the fabled East Isles.
+[P5-A-B0007-039] S=['VAILOR BLUE FOX'] P=rules O=['MALANI'] MOD={"with_the_aid_of": ["ARGRATH"]} implicit=True ps="helped make him the new king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: he became an ally of Prince Argrath, who helped make him the new king of the Malani tribe in 1627.
+[P5-A-B0007-040] S=['TARKALOR'] P=rules O=['SARTAR'] implicit=False ps="5th Prince of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Tarkalor (Born 1523) 5th Prince of Sartar (1561–1582)
+[P5-A-B0007-041] S=['FEUD BETWEEN SARTAR AND THE LUNAR EMPIRE'] P=re-enacts O=['FEUD BETWEEN SUN AND STORM'] implicit=True ps="reprises" sug=re-enacts
+   Q: this struggle reprises the ancient feud between Sun and Storm for the body of the Earth
+[P5-A-B0007-042] S=['SUN', 'STORM'] P=fights O=[] MOD={"purpose_clause": "TO OBTAIN"} implicit=False ps="the ancient feud between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the ancient feud between Sun and Storm for the body of the Earth
+[P5-A-B0007-043] S=['THE MOON'] P=fights O=['SUN'] MOD={"in_on_at": "THE NORTH"} implicit=False ps="has all but eclipsed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: for the Moon has all but eclipsed the Sun in the North and ever seeks the dominance of the Middle Air.
+[P5-A-B0007-044] S=['ALDRYAMI', 'MOSTALI', 'UZ', 'DRAGONEWTS'] P=is member of O=['ELDER RACES'] implicit=False ps="of whom the greatest are" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the Elder Races, of whom the greatest are the Aldryami (elves), Mostali (dwarfs), Uz (trolls), and dragonewts.
+[P5-A-B0007-045] S=['ELVES'] P=is alternative name for O=['ALDRYAMI'] implicit=False ps="(elves)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Aldryami (elves)
+[P5-A-B0007-046] S=['DWARFS'] P=is alternative name for O=['MOSTALI'] implicit=False ps="(dwarfs)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Mostali (dwarfs)
+[P5-A-B0007-047] S=['TROLLS'] P=is alternative name for O=['UZ'] implicit=False ps="(trolls)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Uz (trolls)
+[P5-A-B0007-048] S=['MAIDSTONE ARCHERS'] P=is alternative name for O=['GROTARONS'] implicit=False ps="(Maidstone Archers)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Grotarons (Maidstone Archers)
+[P5-A-B0007-049] S=['ELVES', 'DRYADS', 'PIXIES', 'RUNNERS'] P=is member of O=['ALDRYAMI'] implicit=False ps="consists of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The race known as the Aldryami consists of elves, dryads, pixies, and runners.
+[P5-A-B0007-050] S=['ALDRYAMI'] P=is member of O=['VEGETABLE KINGDOM'] implicit=True ps="belong to" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: They belong to the vegetable kingdom.
+[P5-A-B0007-051] S=['ALDRYAMI'] P=claims ancestry O=['ALDRYA'] implicit=True ps="claim descent from" sug=claims ancestry
+   Q: Since all claim descent from (and actively engage in worship of) the goddess Aldrya
+[P5-A-B0007-052] S=['ALDRYAMI'] P=serves O=['ALDRYA'] implicit=True ps="actively engage in worship of" sug=is worshipped by
+   Q: Since all claim descent from (and actively engage in worship of) the goddess Aldrya

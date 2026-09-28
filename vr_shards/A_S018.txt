@@ -1,0 +1,300 @@
+[P5-A-B0043-005] S=['GARZEEN'] P=discovers O=['TRADING GOODS FOR MONEY'] implicit=True ps="invented" sug=discovers
+   Q: He took barter as did his brother Harst, but also invented the art of trading goods for money, and so he grew wealthy.
+[P5-A-B0043-006] S=['GARZEEN'] P=protects O=['INTERMEDIARIES', 'FACTORS', 'SHOPKEEPERS'] implicit=True ps="is now the patron of" sug=one of: protects, rescues / frees, aids
+   Q: He is now the patron of intermediaries, factors, and shopkeepers, who ply their trade in towns and cities.
+[P5-A-B0043-007] S=['GULTHA'] P=is child of O=['ISSARIES'] implicit=False ps="The third son of Issaries was" sug=is child of
+   Q: The third son of Issaries was Gultha the Wanderer.
+[P5-A-B0043-008] S=['GULTHA'] P=travels O=[] implicit=False ps="roamed widely" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Gultha roamed widely during the Godtime, and once came across two gods arguing over who had the best powers.
+[P5-A-B0043-009] S=['GULTHA'] P=teaches O=['EXCHANGE OF POWERS'] IO=['TWO ARGUING GODS'] implicit=True ps="showed the gods a way to exchange powers" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: showed the gods a way to exchange powers for a time so that they could appreciate the usefulness of each other's magic.
+[P5-A-B0043-010] S=['TWO ARGUING GODS'] P=bestows magic / gifts O=['GULTHA'] implicit=True ps="each gifted him" sug=one of: bestows, heals, imbues, teaches
+   Q: In this way, Gultha brought peace and understanding, and the two gods each gifted him for his ingenuity.
+[P5-A-B0043-011] S=['GULTHA'] P=is sibling of O=['HARST', 'GARZEEN'] implicit=False ps="their Harst and Garzeen brothers" sug=is sibling of
+   Q: Gultha is the god of traders that travel among the clans and cities trading with their Harst and Garzeen brothers.
+[P5-A-B0043-012] S=['HARST'] P=discovers O=['BARTER'] implicit=False ps="the inventor of" sug=discovers
+   Q: Harst is the clan merchant god and the inventor of barter.
+[P5-A-B0043-013] S=['HARST'] P=teaches O=['SPEECH'] IO=['PEOPLE OF DRAGON PASS'] implicit=True ps="taught the people of Dragon Pass to speak" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He taught the people of Dragon Pass to speak
+[P5-A-B0043-014] S=['HARST'] P=marries O=['DAUGHTER OF YUDAM-ARYAM'] implicit=True ps="won his wife" sug=is spouse of (qual=wedding)
+   Q: when he sought the hand of the daughter of Yudam-aryam || He won his wife, established trade in Dragon Pass
+[P5-A-B0043-015] S=['SPARE GRAIN'] P=is alternative name for O=['HARST'] implicit=True ps="gained the nickname" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He won his wife, established trade in Dragon Pass, and gained the nickname "Spare Grain."
+[P5-A-B0043-016] S=['TARKALOR'] P=defeats O=['THE LUNARS'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Triumph of Tarkalor. || The dramatic lay of the great Sartarite king who defeated the Lunars.
+[P5-A-B0043-017] S=['SARTAR'] P=alters mythic station O=[] implicit=False ps="how one man became a god" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The mystery of Sartar: how one man became a god and built a mighty kingdom.
+[P5-A-B0043-018] S=['REDHEADED DAUGHTER'] P=is alternative name for O=['VINGA'] implicit=False ps="the Redheaded Daughter" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Saga of House Vinga. || Even clans that do not worship her love the Redheaded Daughter.
+[P5-A-B0043-019] S=['TENOSTERE'] P=defeats O=['MALE CHALLENGERS'] implicit=False ps="defeated every male challenger" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The most famous story is that of Tenostere of the Vestantes, "the Fightin'est Woman," who defeated every male challenger in the land.
+[P5-A-B0043-020] S=['TENOSTERE', 'RASTAGAR'] P=descends into O=['DEATH'] MOD={"in_on_at": "LAST ROYAL BETRAYAL"} implicit=True ps="died with" sug=dies
+   Q: She died with King Rastagar at the Last Royal Betrayal.
+[P5-A-B0043-021] S=['ISSARIES THE GUIDE'] P=travels O=['SOULS OF THE DEAD'] MOD={"to": "HAVAN VOR"} implicit=False ps="leads" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Issaries the Guide leads the souls of the dead to Havan Vor for judgement.
+[P5-A-B0043-022] S=['ISSARIES THE GUIDE'] P=is member of O=['LIGHTBRINGERS'] implicit=False ps="is also the Lightbringer aspect of the god" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Issaries the Guide is also the Lightbringer aspect of the god
+[P5-A-B0043-023] S=['KURZANA'] P=is child of O=['LHANKOR MHY'] implicit=False ps="a daughter of" sug=is child of
+   Q: During the course of his wanderings, Gultha met Kurzana, a daughter of Lhankor Mhy called Mother Language.
+[P5-A-B0043-024] S=['MOTHER LANGUAGE'] P=is alternative name for O=['KURZANA'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: During the course of his wanderings, Gultha met Kurzana, a daughter of Lhankor Mhy called Mother Language.
+[P5-A-B0043-025] S=['GULTHA'] P=marries O=['KURZANA'] implicit=True ps="sought her hand in marriage, and won it" sug=is spouse of (qual=wedding)
+   Q: He sought her hand in marriage, and won it only after performing many tasks for the God of Knowledge.
+[P5-A-B0043-026] S=['GULTHA'] P=serves O=['LHANKOR MHY'] implicit=True ps="performing many tasks for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He sought her hand in marriage, and won it only after performing many tasks for the God of Knowledge.
+[P5-A-B0043-027] S=['HERALD GOODWORD'] P=is child of O=['GULTHA', 'KURZANA'] implicit=True ps="had a son" sug=is child of
+   Q: The two had a son, Herald, but they did not stay together.
+[P5-A-B0043-028] S=['HERALD GOODWORD'] P=travels O=[] MOD={"to": ["UZ", "THE SORCERERS", "THE DRAGONS"], "at_the_command_of": ["ORLANTH"]} implicit=True ps="sent him to bear words of peace to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Orlanth sent him to bear words of peace to the Uz, the Sorcerers, and once even to the Dragons.
+[P5-A-B0043-029] S=['ISSARIES'] P=travels O=[] implicit=False ps="set out along his very long trade route" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Trade stopped, so Issaries set out along his very long trade route to find out what the problem was.
+[P5-A-B0043-030] S=['KNOW-IT-ALL GOD'] P=serves O=['ISSARIES'] MOD={"at_the_instigation_of": ["ISSARIES"], "purpose_clause": "TO AID"} implicit=True ps="convinced ... to come and assist him" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He convinced the Know-It-All God to come and assist him
+[P5-A-B0043-031] S=['UROX'] P=travels O=[] MOD={"at_the_instigation_of": ["ISSARIES"], "purpose_clause": "TO PROTECT"} implicit=True ps="to come along" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He convinced Urox to come along, because there were many bad things that might attack him, and the Storm Bull was good at beating things up.
+[P5-A-B0043-032] S=['UROX'] P=is alternative name for O=['STORM BULL'] implicit=False ps="Urox ... the Storm Bull" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He convinced Urox to come along, because there were many bad things that might attack him, and the Storm Bull was good at beating things up.
+[P5-A-B0043-034] S=['LONG-NOSES'] P=fights O=['BIG-TEETH'] MOD={"in_on_at": "TULA OF THE DIGGING STICK PEOPLE"} implicit=True ps="were fighting each other" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Their tula was the battleground for the Long-Noses and the Big-Teeth, two peoples who were fighting each other.
+[P5-A-B0043-035] S=['HUNGRY SOLDIERS'] P=steals O=['COWS OF THE DIGGING STICK PEOPLE'] implicit=True ps="stole and ate" sug=steals
+   Q: Hungry soldiers stole and ate their cows.
+[P5-A-B0043-036] S=['ISSARIES'] P=travels O=[] MOD={"to": "LONG-NOSES"} implicit=False ps="went to talk to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: So Issaries went to talk to the Long-Noses with Storm Bull to protect him.
+[P5-A-B0043-037] S=['STORM BULL'] P=protects O=['ISSARIES'] implicit=False ps="to protect him" sug=one of: protects, rescues / frees, aids
+   Q: So Issaries went to talk to the Long-Noses with Storm Bull to protect him.
+[P5-A-B0043-038] S=['BIG-TEETH'] P=kills O=['LONG-NOSES'] implicit=True ps="attacked and killed" sug=one of: kills, shatters, dies
+   Q: They have always attacked and killed us.
+[P5-A-B0043-039] S=['BIG-TEETH'] P=swallows / consumes O=['LONG-NOSES'] implicit=True ps="devour our flesh" sug=swallows / consumes
+   Q: Then, the Big-Teeth devour our flesh and prevent our bones from being interred in my holy, secret place.
+[P5-A-B0043-041] S=['KNOW-IT-ALL GOD'] P=reveals O=['NATURE OF THE LONG-NOSES'] IO=['ISSARIES'] implicit=True ps="told him" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: KnowIt-All told him that the Long-Noses were, except for their noses, their fur, and their teeth, just like very large cows.
+[P5-A-B0043-042] S=['STORM BULL'] P=travels O=[] MOD={"to": "LONG-NOSE ENCAMPMENT"} implicit=False ps="went to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: So Storm Bull went to the Long-Nose encampment and romanced the priestess.
+[P5-A-B0044-001] S=['STORM BULL'] P=fights O=['WARLEADER OF THE BIG-TEETH'] MOD={"in_on_at": "LONG-TOOTH ENCAMPMENT"} implicit=True ps="fought the warleader, and showed him who was boss" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Then Storm Bull went to the Long-Tooth encampment, fought the warleader, and showed him who was boss.
+[P5-A-B0044-002] S=['LONG-NOSE PRIESTESS', 'WARLEADER OF THE BIG-TEETH'] P=pledges oath with O=[] MOD={"at_the_instigation_of": ["ISSARIES"]} implicit=True ps="accepted ... agreed" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: The priestess accepted the Big-Teeth's right to eat some of her people. || The warleader agreed that his people would only attack the old, the sick, and the cottars of the LongNoses.
+[P5-A-B0044-003] S=['BIG-TEETH'] P=bestows magic / gifts O=['BONES OF THE EATEN'] IO=['LONG-NOSES'] implicit=True ps="turn over the bones of the eaten" sug=one of: bestows, heals, imbues, teaches
+   Q: He also agreed that the Big-Teeth would meet the LongNoses during Earth Season and turn over the bones of the eaten, so that they might be interred in the secret, holy way, and their spirits sent to the right place.
+[P5-A-B0044-004] S=['LHANKOR MHY'] P=is member of O=['LIGHTBRINGERS'] implicit=False ps="helped form the Lightbringers" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Lhankor Mhy suffered many trials along the way, and helped form the Lightbringers.
+[P5-A-B0044-005] S=['LHANKOR MHY'] P=bestows magic / gifts O=['THE KEY'] IO=['ORLANTH'] MOD={"in_on_at": "RIDDLING END"} implicit=True ps="provided the key to Orlanth" sug=one of: bestows, heals, imbues, teaches
+   Q: He provided the key to Orlanth at the Riddling End, and so was the key to success.
+[P5-A-B0044-006] S=['LHANKOR MHY', 'ELASA'] P=travels O=[] implicit=True ps="returned" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When he returned with the victorious Lightbringers, Elasa returned with him, and inspiration was his again.
+[P5-A-B0044-007] S=['LHANKOR MHY'] P=embodies O=['ALL KNOWLEDGE'] implicit=False ps="embraces all knowledge" sug=one of: embodies, has domain
+   Q: Lhankor Mhy embraces all knowledge, something that mortals cannot do.
+[P5-A-B0044-008] S=['LHANKOR MHY'] P=manifests O=[] MOD={"in_on_at": ["EVERY THOUGHT", "WRITING"]} implicit=False ps="is present in" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Lhankor Mhy is present in every thought, but especially in writing.
+[P5-A-B0044-009] S=['MOUNTAIN OF LAW'] P=survives as relic O=['TRUESTONE'] implicit=False ps="The few remaining pieces ... called truestone" sug=survives as relic
+   Q: The few remaining pieces of the Mountain of Law, called truestone, hold special meaning for the cult, for they are the last remnant of the original knowledge and law of the world.
+[P5-A-B0044-010] S=['WORSHIPPERS OF LHANKOR MHY'] P=travels O=[] MOD={"in_on_at": "STORM REALM", "to": "GREAT STUDY"} implicit=False ps="travel to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Worshippers of Lhankor Mhy travel to his Great Study near Orlanth's Stead in the Storm Realm.
+[P5-A-B0044-011] S=['LHANKOR MHY'] P=comes into being O=[] implicit=False ps="the birth of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: This day celebrates the end of the ignorance of the Green Age. || It is the birth of Lhankor Mhy, and so of thought and intelligence.
+[P5-A-B0044-012] S=['LHANKOR MHY'] P=discovers O=['KNOWLEDGE AND LORE'] implicit=False ps="seeking ... amassed" sug=discovers
+   Q: This day celebrates Lhankor Mhy's seeking throughout the Golden Age for knowledge. || None knew of his abilities or sought his council, and so he amassed a body of knowledge and lore that he shared with no one.
+[P5-A-B0044-013] S=['LHANKOR MHY'] P=marries O=['ELASA'] implicit=False ps="the union of" sug=is spouse of (qual=wedding)
+   Q: this day celebrates the union of Lhankor Mhy with Elasa.
+[P5-A-B0044-014] S=['ELASA'] P=bestows magic / gifts O=['INSPIRATION'] IO=['LHANKOR MHY'] implicit=True ps="acquires inspiration from this union" sug=one of: bestows, heals, imbues, teaches
+   Q: The god acquires inspiration from this union
+[P5-A-B0044-015] S=['LHANKOR MHY'] P=serves O=['ORLANTH'] implicit=True ps="advised" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: As he advised Orlanth and wandered the world, he learned that wisdom comes only from experience and a broad base of knowledge.
+[P5-A-B0044-016] S=['THE PHARAOH'] P=establishes cult O=['FINAL INFORMATION LIBRARY'] MOD={"in_on_at": "HOLY COUNTRY"} implicit=False ps="established" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: The greatest temple is the Final Information Library, established by the Pharaoh in the Holy Country when he replaced the chief priests of several rival organizations.
+[P5-A-B0044-017] S=['LHANKOR MHY'] P=travels O=[] MOD={"in_on_at": "SITE OF THE FINAL INFORMATION LIBRARY"} implicit=True ps="had rested with his bride" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He built it on the spot where Lhankor Mhy had rested with his bride when Time began.
+[P5-A-B0044-018] S=['LHANKOR MHY'] P=manifests O=[] MOD={"in_on_at": "FINAL INFORMATION LIBRARY"} implicit=True ps="was present" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The god was present when the Pharaoh opened the temple and transferred the contents of several formerly competing libraries into its vast halls.
+[P5-A-B0044-019] S=['COMPANION OF KING SARTAR'] P=establishes cult O=['JONSTOWN TEMPLE'] implicit=False ps="founded by" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Nearly as famous is the Jonstown Temple, founded by one of King Sartar's companions.
+[P5-A-B0044-020] S=['CHERNAN'] P=serves O=['LHANKOR MHY'] implicit=False ps="was a follower of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Chernan was a follower of Lhankor Mhy during the Vingkotling Age.
+[P5-A-B0044-021] S=['CHERNAN'] P=discovers O=['MANY NEW THINGS'] implicit=True ps="discovered" sug=discovers
+   Q: Despite the dangers, he followed in the footsteps of his god and so discovered many new things.
+[P5-A-B0044-022] S=['GRAY ONES'] P=discovers O=['THE WAY TO SAFETY'] implicit=False ps="found the way to safety" sug=discovers
+   Q: The Gray Ones were a group who avoided Chaos and found the way to safety before the onset of Time.
+[P5-A-B0044-023] S=['GRAY ONES'] P=teaches O=['MAPMAKING', 'COPYING DOCUMENTS'] IO=['LHANKOR MHY CULT'] implicit=True ps="learned ... from them ... also taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: It is from them that the cult learned the art of making maps, but they also taught the art of copying documents so that the cult could better preserve knowledge.
+[P5-A-B0044-024] S=['GRAY SAGES'] P=is alternative name for O=['WORSHIPPERS OF LHANKOR MHY'] implicit=True ps="gained the common nickname" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Many cult daimones are Gray Ones, and it is because of them that worshippers originally gained the common nickname of 'Gray Sages.'
+[P5-A-B0044-025] S=['LHANKOR MHY'] P=discovers O=['THE OTHERWORLDS'] implicit=True ps="was the first to learn of" sug=discovers
+   Q: He was the first to learn of the different Otherworlds, and he alone knew how to use all their magics.
+[P5-A-B0044-026] S=['LHANKOR MHY'] P=alters mythic station O=[] MOD={"purpose_clause": "TO AID"} implicit=True ps="chose to be a god" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: In the end, he chose to be a god so that he could best serve his lord, Orlanth.
+[P5-A-B0044-027] S=['LHANKOR MHY'] P=serves O=['ORLANTH'] implicit=True ps="serve his lord" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: In the end, he chose to be a god so that he could best serve his lord, Orlanth.
+[P5-A-B0044-028] S=['GREAT SCROLLS'] P=comes into being O=[] MOD={"using": "MARKING QUILL", "at_the_instigation_of": ["LHANKOR MHY"]} implicit=True ps="he created" sug=conceives
+   Q: Using the Marking Quill, he created the Great Scrolls.
+[P5-A-B0044-029] S=['LHANKOR MHY'] P=bestows magic / gifts O=['GREAT SCROLLS'] IO=['FOLLOWERS OF LHANKOR MHY'] implicit=True ps="entrusted the scrolls to" sug=one of: bestows, heals, imbues, teaches
+   Q: When he left on the Lightbringer's Quest, he entrusted the scrolls to his followers.
+[P5-A-B0044-030] S=['ENEMIES'] P=steals O=['GREAT SCROLLS'] implicit=True ps="stole" sug=steals
+   Q: During the Darkness, enemies stole some of the scrolls, monsters ate others, and some of his own followers burned them to keep warm.
+[P5-A-B0044-031] S=['MONSTERS'] P=swallows / consumes O=['GREAT SCROLLS'] implicit=True ps="ate" sug=swallows / consumes
+   Q: During the Darkness, enemies stole some of the scrolls, monsters ate others, and some of his own followers burned them to keep warm.
+[P5-A-B0045-001] S=['IRNAR'] P=serves O=['SARTAR'] implicit=False ps="was King Sartar's lawspeaker" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Irnar was King Sartar's lawspeaker, one of the companions who entered Kerofinela with the hero.
+[P5-A-B0045-002] S=['IRNAR', 'SARTAR'] P=travels O=[] MOD={"to": "KEROFINELA"} implicit=False ps="entered Kerofinela with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Irnar was King Sartar's lawspeaker, one of the companions who entered Kerofinela with the hero.
+[P5-A-B0045-003] S=['HEORT'] P=rules O=['HEORTLING TRIBES'] implicit=False ps="united" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: These are the Heortling Tribes, united by Heort in the Silver Age
+[P5-A-B0045-004] S=['KOROL'] P=is child of O=["VINGKOT'S SUMMER WIFE"] implicit=False ps="third son of" sug=is child of
+   Q: Korol, third son of Vingkot's Summer Wife
+[P5-A-B0045-005] S=['ORGORVALE'] P=is child of O=["VINGKOT'S SUMMER WIFE"] implicit=False ps="older daughter of" sug=is child of
+   Q: Orgorvale, older daughter of Vingkot's Summer Wife
+[P5-A-B0045-006] S=['VESTENE'] P=is child of O=["VINGKOT'S SUMMER WIFE"] implicit=False ps="younger daughter of" sug=is child of
+   Q: Vestene, younger daughter of Vingkot's Summer Wife
+[P5-A-B0045-007] S=['BEREN'] P=is spouse of O=['REDAYLDE'] implicit=False ps="husband of" sug=is spouse of
+   Q: Beren, husband of Redaylde (the youngest daughter of Vingkot's Winter Wife)
+[P5-A-B0045-008] S=['REDAYLDE'] P=is child of O=["VINGKOT'S WINTER WIFE"] implicit=False ps="the youngest daughter of" sug=is child of
+   Q: Redaylde (the youngest daughter of Vingkot's Winter Wife)
+[P5-A-B0045-009] S=['INFITHE'] P=is child of O=["VINGKOT'S WINTER WIFE"] implicit=False ps="middle daughter of" sug=is child of
+   Q: Infithe, middle daughter of Vingkot's Winter Wife
+[P5-A-B0045-010] S=['PENENE'] P=is child of O=["VINGKOT'S WINTER WIFE"] implicit=False ps="oldest daughter of" sug=is child of
+   Q: Penene, oldest daughter of Vingkot's Winter Wife
+[P5-A-B0045-011] S=['LIORN THE YOUNG'] P=is spouse of O=['DELEEN KODIGSDOTTIR'] implicit=False ps="star husband of" sug=is spouse of
+   Q: Liorn the Young, star husband of Deleen Kodigsdottir
+[P5-A-B0045-012] S=['FOROSIL FEROCIOUS'] P=is spouse of O=['ORNORE KOROLSDOTTIR'] implicit=False ps="star husband of" sug=is spouse of
+   Q: Forosil Ferocious, star husband of Ornore Korolsdottir
+[P5-A-B0045-013] S=['GARAN'] P=is spouse of O=['SERIAS'] implicit=False ps="star lover of" sug=is spouse of
+   Q: Garan, star lover of Serias
+[P5-A-B0045-014] S=['LHANKOR MHY'] P=fights O=['JOLSEDAR THE BRAIN FLAYER'] MOD={"in_on_at": "LIGHTBRINGERS QUEST"} implicit=False ps="confronted" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: On the Lightbringers Quest, Lhankor Mhy confronted Jolsedar the Brain Flayer.
+[P5-A-B0045-015] S=['LHANKOR MHY'] P=defeats O=['JOLSEDAR THE BRAIN FLAYER'] implicit=True ps="allowed the demon to enter him" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Lhankor Mhy allowed the demon to enter him, for he knew that his knowledge was too great for it to take. || It exploded
+[P5-A-B0045-016] S=['LHANKOR MHY'] P=binds O=['JOLSEDARINGS'] implicit=False ps="captured its arms and tentacles as his servants" sug=binds
+   Q: Lhankor Mhy captured its arms and tentacles as his servants, known as jolsedarings.
+[P5-A-B0045-017] S=['LHANKOR MHY'] P=embodies O=['KNOWLEDGE'] implicit=False ps="is the god of" sug=one of: embodies, has domain
+   Q: Lhankor Mhy is the god of knowledge
+[P5-A-B0045-018] S=['ODAYLA'] P=is child of O=['ORLANTH'] implicit=False ps="Orlanth's son" sug=is child of
+   Q: Orlanth's son, strong Odayla,
+[P5-A-B0045-019] S=['ODAYLA'] P=embodies O=['HUNTING'] implicit=False ps="is the god of" sug=one of: embodies, has domain
+   Q: Odayla is the god of hunting, famous for wrestling the Great Bear into submission.
+[P5-A-B0045-020] S=['ODAYLA'] P=defeats O=['GREAT BEAR'] implicit=False ps="wrestling the Great Bear into submission" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Odayla is the god of hunting, famous for wrestling the Great Bear into submission.
+[P5-A-B0045-021] S=['ODAYLA'] P=is member of O=['THUNDER BROTHERS'] implicit=True ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He is one of the Thunder Brothers (though he rarely gathers with them)
+[P5-A-B0045-022] S=['ODAYLA'] P=bestows magic / gifts O=['HEORTLINGS'] implicit=True ps="gave the Heortlings the skills and magic" sug=one of: bestows, heals, imbues, teaches
+   Q: during the Darkness he gave the Heortlings the skills and magic they needed to stay alive.
+[P5-A-B0045-023] S=['LADY OF THE WILD'] P=is alternative name for O=['VELHARA'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Her name was Velhara, but most of the time she is called Lady of the Wild.
+[P5-A-B0045-024] S=['ORMALAYA'] P=is child of O=['ORLANTH'] implicit=True ps="his son" sug=is child of
+   Q: He returned to his stead with his son Ormalaya
+[P5-A-B0045-025] S=['ODAYLA'] P=is child of O=['VELHARA'] implicit=False ps="stayed in the wild with the other, whom she named" sug=is child of
+   Q: Velhara stayed in the wild with the other, whom she named Odayla.
+[P5-A-B0045-026] S=['ODAYLA'] P=is child of O=['VARANORLANTH'] implicit=True ps="did have a father" sug=is child of
+   Q: She answered that he did have a father, Varanorlanth, who had abandoned him.
+[P5-A-B0045-027] S=['VARANORLANTH'] P=departs from O=['ODAYLA'] implicit=True ps="had abandoned" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: She answered that he did have a father, Varanorlanth, who had abandoned him.
+[P5-A-B0045-028] S=['ODAYLA'] P=manifests O=['BEAR'] implicit=False ps="was born in the shape of" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Odayla was born in the shape of a bear, and he was full of the wilderness.
+[P5-A-B0045-029] S=['ODAYLA'] P=discovers O=['MAGIC OF THE WILD CREATURES'] implicit=True ps="learned the magic of" sug=discovers
+   Q: He lived with the wild things, and learned the magic of each creature that dwelt in the wilderness.
+[P5-A-B0045-030] S=['ODAYLA'] P=fights O=['GREAT BEAR'] implicit=True ps="fell upon each other and wrestled" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The two beings, god and beast, fell upon each other and wrestled, and for hours neither could best the other.
+[P5-A-B0045-031] S=['ODAYLA'] P=kills O=['GREAT BEAR'] implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: In the end, one slew the other and took his skin to wear. || others say Odayla was.
+[P5-A-B0045-032] S=['GREAT BEAR'] P=kills O=['ODAYLA'] implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: In the end, one slew the other and took his skin to wear. || Some Orlanthi say the Great Bear was the eventual victor
+[P5-A-B0045-033] S=['ODAYLA'] P=is identified as O=['GREAT BEAR'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Odayla's worshippers alone know that there were never two beings, for Odayla is the Great Bear.
+[P5-A-B0045-034] S=['ODAYLA'] P=travels O=[] MOD={"to": "ORLANTH'S STEAD"} implicit=False ps="traveled to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Once he had mastered the beast, Odayla traveled to Orlanth's stead wearing his former skin as a cloak.
+[P5-A-B0045-035] S=['ORMALAYA'] P=is sibling of O=['ODAYLA'] implicit=True ps="his own brother" sug=is sibling of
+   Q: Ormalaya performed the Hospitality Greeting, but did not recognize his own brother.
+[P5-A-B0045-036] S=['ORMALAYA'] P=alters mythic station O=['ODAYLA'] implicit=True ps="took the skin off the bear so that it became his brother again" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Ormalaya, who took the skin off the bear so that it became his brother again.
+[P5-A-B0045-037] S=['ODAYLA'] P=is child of O=['ORLANTH'] implicit=False ps="acknowledged Odayla as his son" sug=is child of
+   Q: Orlanth acknowledged Odayla as his son, and welcomed him into his household.
+[P5-A-B0045-038] S=['ODAYLA'] P=teaches O=["ODAYLA'S KINFOLK"] implicit=False ps="showing them what he had learned" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Odayla stayed with his kinfolk, showing them what he had learned in the wilderness.
+[P5-A-B0045-039] S=['ODAYLA'] P=teaches O=['ORMALAYA'] implicit=True ps="taught his brother his final secret" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He taught his brother his final secret, the special chants and rites that return the souls of prey animals to Velhara so they can be reborn.
+[P5-A-B0045-040] S=['ODAYLA'] P=departs from O=["ORLANTH'S STEAD"] implicit=True ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Then he left his father's home.
+[P5-A-B0045-041] S=['ODAYLA'] P=serves O=['ORLANTH', 'VINGKOTLINGS'] implicit=False ps="often helped" sug=aids
+   Q: Odayla often helped Orlanth and the Vingkotlings after that
+[P5-A-B0045-042] S=["ODAYLA'S CHILDREN"] P=is child of O=['ODAYLA'] implicit=True ps="fathered" sug=is child of
+   Q: Despite this, he fathered sons and daughters, many of whom followed his solitary hunting ways.
+[P5-A-B0045-043] S=['ODAYLA'] P=teaches O=["ODAYLA'S KINSMEN"] implicit=True ps="showed them how to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He showed them how to distinguish life from death, how to hide from monsters and Chaos, and finally how to hide even from Death by going to sleep.
+[P5-A-B0045-044] S=['ODAYLA'] P=discovers O=['ORLANTH'] implicit=True ps="discovered that it was the body of his father" sug=discovers
+   Q: when Odayla discovered that it was the body of his father he knew that his time had come.
+[P5-A-B0046-001] S=['ODAYLA'] P=descends into O=['DEATH'] implicit=True ps="went to sleep, the final sleep that is Death" sug=dies
+   Q: He lay down and went to sleep, the final sleep that is Death.
+[P5-A-B0046-002] S=['ODAYLA'] P=resurrects O=['ORLANTH'] implicit=True ps="awakened the dead god" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: He awakened the dead god, and thus taught him that death and sleep are the same thing.
+[P5-A-B0046-003] S=['ODAYLA'] P=teaches O=['ORLANTH'] implicit=True ps="taught him that death and sleep are the same thing" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He awakened the dead god, and thus taught him that death and sleep are the same thing.
+[P5-A-B0046-004] S=['ODAYLA'] P=protects O=['MANY PEOPLE'] implicit=True ps="was instrumental in preserving" sug=one of: protects, rescues / frees, aids
+   Q: They were numerous at the Dawn, for his magic was instrumental in preserving many people through the Great Winter.
+[P5-A-B0046-005] S=['ODAYLA'] P=alters mythic station O=['DEEP HUNTER'] implicit=True ps="became" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: He became the Deep Hunter, whose worshippers leave their steads and families to live and hunt in the wilds.
+[P5-A-B0046-006] S=['ODAYLA'] P=becomes celestial body O=['THE HUNTER'] implicit=False ps="is also visible as the constellation known as" sug=becomes celestial body
+   Q: Odayla is also visible as the constellation known as the Hunter.
+[P5-A-B0046-007] S=["ORLANTH'S RING"] P=is identified as O=['SKY BEAR'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Sometimes worshippers, especially Sylilans, say that the constellation known as Orlanth's Ring is the Sky Bear.
+[P5-A-B0046-008] S=['ODAYLA'] P=is member of O=['THUNDER BROTHERS'] implicit=False ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Odayla is one of the Thunder Brothers, since he is a notable son of Orlanth.
+[P5-A-B0046-009] S=['ODAYLA'] P=is child of O=['ORLANTH'] implicit=False ps="is a notable son of" sug=is child of
+   Q: Odayla is one of the Thunder Brothers, since he is a notable son of Orlanth.
+[P5-A-B0046-010] S=['ODAYLA'] P=is sibling of O=['ORLANTH'] implicit=False ps="is Orlanth's brother" sug=is sibling of
+   Q: There, worshippers say that Odayla is Orlanth's brother, not his son.
+[P5-A-B0046-011] S=['CULT OF ODAYLA'] P=substitutes O=['ORMALAYA', 'YINKIN'] MOD={"in_on_at": "SYLILA"} implicit=True ps="supplants worship of" sug=substitutes
+   Q: The cult supplants worship of Ormalaya and Yinkin almost entirely.
+[P5-A-B0046-012] S=['INDEG'] P=is child of O=['ERNALDA'] implicit=False ps="Ernalda's daughter" sug=is child of
+   Q: Ernalda's daughter Indeg, the wife of Ormalaya
+[P5-A-B0046-013] S=['INDEG'] P=is spouse of O=['ORMALAYA'] implicit=False ps="the wife of" sug=is spouse of
+   Q: Ernalda's daughter Indeg, the wife of Ormalaya
+[P5-A-B0046-014] S=['ODAYLA'] P=manifests O=[] MOD={"in_on_at": "BEAR MOUNTAIN"} implicit=True ps="awakened" sug=awakens
+   Q: It is where Odayla hibernated the final time, and so is where he awakened at the Dawn.
+[P5-A-B0046-015] S=['KUDRAN GOLDEN FEATHER'] P=enters Godtime / Otherworld O=[] MOD={"to": "UMATH'S AGE"} implicit=True ps="discovered a hunting path that took him to" sug=enters Godtime / Otherworld
+   Q: He discovered a hunting path that took him to Umath's Age.
+[P5-A-B0046-016] S=['KUDRAN GOLDEN FEATHER'] P=kills O=["RAPTORS OF UMATH'S AGE"] implicit=True ps="slew several of" sug=one of: kills, shatters, dies
+   Q: He slew several of the mighty raptors of that era and returned with their feathers
+[P5-A-B0046-017] S=['UROX'] P=binds O=['WAKBOTH'] implicit=True ps="hold vile Wakboth under mountains of stone" sug=binds
+   Q: You hold vile Wakboth under mountains of stone.
+[P5-A-B0046-018] S=['UROX'] P=fights O=['CHAOS'] implicit=False ps="the destroyer of" sug=shatters
+   Q: Urox is the most wild and bestial of the good storm gods, the destroyer of Chaos.
+[P5-A-B0046-019] S=['UROX'] P=embodies O=['VIOLENCE'] implicit=True ps="is" sug=one of: embodies, has domain
+   Q: He is violence and raw, unthinking strength, guided by instinct and the sensitivities of a god.
+[P5-A-B0046-020] S=['UROX'] P=embodies O=['EASTERN DUST STORM'] implicit=True ps="is the god of" sug=one of: embodies, has domain
+   Q: He is the god of the eastern dust storm that leaves destruction in its wake
+[P5-A-B0046-021] S=['UROX'] P=rules O=['BERSERKS', 'PRAXIAN SAVAGES'] implicit=True ps="is the god of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He is the god of berserks and the Praxian savages.
+[P5-A-B0046-022] S=['WAKBOTH'] P=embodies O=['CHAOS'] implicit=False ps="is the incarnation of" sug=one of: embodies, has domain
+   Q: Wakboth is the incarnation of Chaos, an abomination, a loophole in the Laws of Creation.
+[P5-A-B0046-023] S=['WAKBOTH'] P=kills O=['MANY GODS'] implicit=True ps="had slain many gods" sug=one of: kills, shatters, dies
+   Q: It had slain many gods before it came upon Urox' final defense to the east of Dragon Pass.
+[P5-A-B0046-024] S=['WAKBOTH'] P=fights O=['UROX'] implicit=True ps="came upon Urox' final defense" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: It had slain many gods before it came upon Urox' final defense to the east of Dragon Pass. || The fight was desperate and doomed.
+[P5-A-B0046-025] S=['WAKBOTH'] P=wounds O=['UROX'] implicit=True ps="His ear was torn off" sug=wounds
+   Q: His ear was torn off, leaving him forever maimed and poisoning the earth where it landed.
+[P5-A-B0046-026] S=['WAKBOTH'] P=strikes O=['UROX'] implicit=True ps="flung his broken form to the ground" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Mortally wounded, Wakboth flung his broken form to the ground.
+[P5-A-B0046-027] S=['EARTH'] P=bestows magic / gifts O=['UROX'] implicit=True ps="healed" sug=heals
+   Q: The Earth, his last ally, healed him.
+[P5-A-B0046-028] S=['UROX'] P=binds O=['WAKBOTH'] MOD={"using": "PIECE OF THE COSMIC MOUNTAIN"} implicit=True ps="crushed Wakboth, pinning him beneath tons of petrified Law" sug=binds
+   Q: He took it in hand and crushed Wakboth, pinning him beneath tons of petrified Law.
+[P5-A-B0046-029] S=['UROX'] P=travels O=[] MOD={"to": "STORM HILLS"} implicit=False ps="dragged himself to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The effort nearly killed Urox, who dragged himself to the Storm Hills, where he became the last living god to fall to Death.
+[P5-A-B0046-030] S=['UROX'] P=descends into O=['DEATH'] MOD={"in_on_at": "STORM HILLS"} implicit=False ps="became the last living god to fall to Death" sug=dies
+   Q: The effort nearly killed Urox, who dragged himself to the Storm Hills, where he became the last living god to fall to Death.
+[P5-A-B0046-031] S=['WAKBOTH'] P=descends into O=['LAND OF THE DEAD'] implicit=False ps="came to" sug=one of: descends into, dies
+   Q: when Wakboth came to the Land of the Dead Urox was waiting for him.
+[P5-A-B0046-032] S=['UROX'] P=fights O=['WAKBOTH'] MOD={"in_on_at": "LAND OF THE DEAD"} implicit=True ps="leapt into the fray" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Urox leapt into the fray once more.
+[P5-A-B0046-033] S=['ARACHNE SOLARA'] P=binds O=['WAKBOTH'] MOD={"at_the_instigation_of": ["UROX"]} implicit=True ps="wrapping Wakboth in her inescapable webs" sug=binds
+   Q: Arachne Solara responded to his cry for aid, wrapping Wakboth in her inescapable webs.
+[P5-A-B0046-034] S=['ARACHNE SOLARA'] P=swallows / consumes O=['CHAOS'] implicit=True ps="devoured" sug=swallows / consumes
+   Q: She devoured Chaos
+[P5-A-B0046-036] S=['UROX'] P=has hybrid form O=['BULL-HEADED MAN'] implicit=False ps="depict Urox as a bull-headed man" sug=has anomalous form (qual=hybrid)
+   Q: The Heortlings usually depict Urox as a bull-headed man.
+[P5-A-B0046-037] S=['UROX'] P=travels O=[] MOD={"to": "PITS OF ENTROPY BEYOND THE COSMOS"} implicit=False ps="personally pursues the souls of worshippers slain by Chaos" sug=hunts
+   Q: Urox personally pursues the souls of worshippers slain by Chaos, even to the pits of entropy beyond the cosmos.
+[P5-A-B0046-038] S=['UROX'] P=fights O=['WAKBOTH'] implicit=False ps="to prevent the rise of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The primary purpose of Urox is to prevent the rise of Wakboth or any associated form of Chaos.
+[P5-A-B0046-039] S=['UROX'] P=embodies O=['DESERT WIND'] implicit=False ps="is" sug=one of: embodies, has domain
+   Q: Urox is the Desert Wind, rough and raw, capable of scrubbing the earth clean with its passage.
+[P5-A-B0047-001] S=['STORM BULL'] P=is identified as O=['UROX'] implicit=False ps="are the same entity" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The god Urox and the great spirit Storm Bull are the same entity.

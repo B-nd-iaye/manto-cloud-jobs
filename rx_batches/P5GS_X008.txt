@@ -1,0 +1,131 @@
+### WOD-GS:00857 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Other Side
+FIGURES: YANAFAL TARNILS
+TEXT: So he then left the command to Paktalus, and he entered into the quest across other worlds to follow that call. Disobedient to Her word, he was nonetheless loyal to his obligations. He wandered through known and unknown events of the Gods War, and everything which dared to oppose him was slain or imprisoned. He was finally confronted by the ghost of Death, an empty Death that could devour his soul as a bat eats a fly. It was the dead Death, which to him appeared as a gigantic wasp, the Carmanian incarnation of whatever lay beyond Death. It was the goddess Ak, which had birthed the first Sword, the first wielder of that Sword, and the first Death. Tarnils fought it, first without success. But he stopped fighting for just one moment, and that foul creature sank its fangs into his hip. Then, with cool detachment borne from limitless practice and experience, he lopped the head from it. Yanafal Tarnils continued to struggle forward with that head attached to him, dipping burning ichor as he walked. The Trail of Death is thus well marked and well known now, and it leads now to the place he found: the Fields of Waste, where he came upon Her ragged corpse, devoured by wasps and maggots and the empty ghosts of the bondage eagles which he had once, long ago, slain. She was staked upon a post, impaled like a puppet, and to his eyes She seemed to be suffering beyond all understanding.
+TARGETS: possesses / wields
+
+### WOD-GS:00860 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Other Side
+FIGURES: (none registered)
+TEXT: And from the grisly post where She was impaled, Teelo Estara, or the ghost of Her spirit, spoke. "Good fellow, loyal man," said Teelo Estara, "I am glad to see you." And those words encouraged him to ignore the Greatest One, the Impossible One, and instead to focus again upon his job at hand.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00862 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Other Side
+FIGURES: (none registered)
+TEXT: Teelo Estara then gave him a choice. She reminded him of the countless loyal followers on the other side who were awaiting his return. "Your men and women," said the goddess, "you can save them!" "Those are Your followers, as well," he said. "They wait for You. And do I need to remind You that You have told me that the greatest sacrifice is of the Self?" he asked Her. And he stood. "My decision is made," he said. And he took the sword from his scabbard and looked at Her. "You, I love," he said, and with a quick move, he turned the blade upon himself and thrust it through his heart. He fell to the ground. It was only then that the grisly head of the wasp dropped from his hip, and it chuckled as it did.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00867 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Other Side
+FIGURES: YANAFAL TARNILS
+CONTEXT: rse. He took his own life, but it was for You," said Taraltara. "So, should You wish, it may be him as well. Yet, would You prefer him, the death-giver, to her, Your gem?" Here Taraltara indicated Homura, the first child of Teelo Estara, who had brought Her from selfishness to an awareness of the world. It had been Homura who had akindled the Goddess, and made Her the Mother of Kindness as well.
+TEXT: "Then I see I have many more choices," said Teelo Estara. "I see that I may return with any being who has given his life for Me, or part of Myself which has given itself that I may be here now. Is that correct? I may take them instead?" asked Estara. She saw the faces of her lovers who had died, and even of those souls who were fighting desperately in the Tent of Life, leaderless without Yanafal Tarnils, who had been dead in the world for only an instant and were now joining the crowd.
+TARGETS: dies
+
+### WOD-GS:00873 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | "Yes," said the Great Goddess. "Choose any."
+FIGURES: (none registered)
+TEXT: Now, when the Goddess had departed she left a body of worshippers behind, all of them dedicated and loyal and sworn to pray, even in the midst of fear and terror. They had worked and prayed for two years, relentlessly continuing a task that they had thought would take two weeks. They had stayed there, sometimes taking time to sleep or stepping out to bathe, but generally sleeping and eating there. Winter had not deterred them, though the fires inside that tent were never warm enough. Nevertheless, they persevered, for they thought at first that a few more weeks would be the worst they would have to endure. Then they thought that the first winter cold would be the worst thing they'd have to bear. Then the endless days wore on, and the second winter seemed like the worst. But they discovered that truly the worst thing was the Carmanian army which came upon them, slicing great rents in the cloth and charging in to kill.
+TARGETS: possesses / wields
+
+### WOD-GS:00879 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | "Yes," said the Great Goddess. "Choose any."
+FIGURES: (none registered)
+CONTEXT: r defeat. It was the howling moan from above that distracted them. That howl caused everyone to look upward, from the lowliest shovel man who had been impressed into the army to the son of the shah, who was even then seated upon his great stallion and spurring it away from battle. Even Mahedres Redbeard, the sorcerer, unconscious and draped upon another steed, looked skyward with bleeding eyes.
+TEXT: There She was. The Goddess, Teelo Imara as She would thereafter be known, radiant and the size of a mountain, standing upon the back of a screeching crimson bat. That bat was death and more than death, the Death of Gods. It was the color of fresh blood, sticky and wet, and the blood dripped from it in living tendrils. Its thousand eyes looked everywhere, and those eyes each saw what they sought, and they sought to look into the eyes of whomever wished harm to its rider. The eyes of the shah's son looked there, and the eyes of Mahedres Redbeard opened and stared, and the gaze of the Lion guards as well looked upward into a vision that was impossible for them to behold. And each of them—a thousand foes!—felt their sanity drain out their own eyes, sucked into the impossible vision, and half of them fell dead upon the spot. The rest howled as they eyes burst, and they ran, panicked and mad, unable to see where they were going. Minds were just husks, unknowing of themselves or of others, all of them empty of purpose. The bat's eyes which had fed upon the souls of those now dead then turned and looked upon other foes, who in turn were driven mad or died. Every foe of the Goddess tried not to look, but they were compelled to see what they did not wish to see, and the madness and death entered them as well.
+TARGETS: dies
+
+### WOD-GS:00880 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | "Yes," said the Great Goddess. "Choose any."
+FIGURES: TEELO NORRI
+TEXT: And what of those who loved Her? They had looked too, yet they saw only their radiant goddess, hovering there upon the back of a hummingbird, with Her extended hand bestowing blessing and healing. Those dead worshippers in the tent saw Her with their dead eyes, and they sat up, healed, and they joined in the song of praise and love that Teelo Norri was singing. Out of that canopy, beautiful music swelled, and men and women who had been struggling a moment before were filled with joy. They raised their weapons and sang as well, and watched as an army which had been trampling upon them a moment before all dropped their weapons and ran, if they did not fall dead.
+TARGETS: loves / desires; heals
+
+### WOD-GS:00881 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | "Yes," said the Great Goddess. "Choose any."
+FIGURES: (none registered)
+TEXT: So She returned. The Bat continued, screeching and howling and driving the foes deeper into madness. She stepped gracefully from its back and descended, floating, down among Her followers and alighted where the Sacred Tent stood. Under the radiance of Her presence, the wounds of the dead and hurt were healed. From the pockets of Mahedres and the cages of his minions, the hummingbird souls and the butterfly spirits were freed, and they alighted on corpses as if they were feeding on flowers. The nectar of life flowed, and the dead rose alive.
+TARGETS: heals
+
+### WOD-GS:00885 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Teelo Imara
+FIGURES: (none registered)
+TEXT: Teelo Imara was back in History, the world of the living, and many tasks lay before Her. But She placed most of those tasks into the hands of Her followers, who carried out those deeds in Her name and with Her power. They did the deeds of humans. When the deeds of a deity were required, She stepped forth.
+TARGETS: possesses / wields
+
+### WOD-GS:00889 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Teelo Imara
+FIGURES: SHARGASH
+TEXT: And so it went with the other gods of Dara Happa, even monstrous Shargash, for all of them are wise and perceptive. Meanwhile, in other lands Her legions fought on. But this was not Her main work. She had other tasks, more important. She gathered to Her the awakened memories of her former selves. Velortina and Deveria and Davu and Ferandarus were recalled, relived, and rejoined.
+TARGETS: sleeps / wakes
+
+### WOD-GS:00895 | WOD-GS | WOD-GS 23011 (Myth of the Month – Pelandan Cosmology () | Where Did the World Come from?
+FIGURES: (none registered)
+TEXT: ## All is Change, All is Balance: Wisdom from the Pelandan Philosopher ### Where Did the World Come from? Glororanor was. Within Glororanor lay all possibilities, and from Glororanor emerged Ma-Elsor. Ma-Elsor bore Eth-Elsor, the feminine, and Vogmaradan, the masculine. Vogmaradan seized Kassa, the desire for life, and mated with Eth-Elsor. She bore a child, and subsequently many more. Their children shaped and inhabited the world, taking their places in the lakes and rivers and raising the mountains. …
+TARGETS: dwells at
+
+### WOD-GS:00902 | WOD-GS | WOD-GS 1569 (Myth of the Month: Aedin’s Wall (2000)) | Page Last updated: 2026-06-17 09:17:58
+FIGURES: MURHARZARM, ORLANTH, URVAIRINUS, YELM
+TEXT: The wall was proved to be fast against giants when Ogin and Magin, Feka and Poka, Dardi and Erestomas finally lost their tempers and attacked. Ogin and Magin had been taunted so much they went crazy. Feka and Poka had been robbed again and again. Dardi's kinfolk had been turned into dirt and rock, and Erestomas was turned into a girl. The giants were all killed easily. That was early in the Storm Age, when Yelm still ruled in his High Throne. It was proved stronger than gods when Urvairinus brought his burning army across the gods worlds and invaded Orlanth's land. He was bent on revenge for the death of Murharzarm by Orlanth's murderous hand. The army of fiery gods burned and pillaged everywhere and all the air of the storm realm was full of grey and brown smoke. The army had as much power as possible and tried four tricks to overcome the walls. Each failed, though it took some work by the gods at times.
+TARGETS: dies; avenges
+
+### WOD-GS:00907 | WOD-GS | WOD-GS 1569 (Myth of the Month: Aedin’s Wall (2000)) | Page Last updated: 2026-06-17 09:17:58
+FIGURES: HEDKORANTH, VINGKOT
+TEXT: Hedkoranth and Vingkot swore they would return their sister to their homes, and they and the Aedinings hated each other afterwards. Hedkoranth, with new allies after Vingkot was killed, succeeded during the Darkness, and sent the Happiness Song to be sung among the ancestors of the Heortlings. Hedkoranth married her, but since Aedin and all his tribe were dead, even the jewel of happiness from Eneria was melancholy. She thus comes and goes as she pleases now. No one is happy all the time.
+TARGETS: hates / fears
+
+### WOD-GS:00910 | WOD-GS | WOD-GS 44794 (Myth of the Month: Chalk Man (July 2002)) | Chalk Man
+FIGURES: (none registered)
+TEXT: - Ikspit the maggot. This came out of Rabbitface's crushed skull. When summoned with the Chalk Man rites it heals illnesses that cause fevers, drives hostile spirits out of a woman's body, or stops the rabbit pox in children.
+TARGETS: heals
+
+### WOD-GS:00926 | WOD-GS | WOD-GS 22955 (Myth of the Month: Chariots and Chariot ) | A Sartarite Tale
+FIGURES: (none registered)
+TEXT: Korzelm summoned all the great ones of his realm to live in his house. From there he sent out heralds who carried every boast and lie to the corners of the world. *Chief was the noble lord of *place. He listened carefully to every word which strangers told, and he sent the heralds away without salt.
+TARGETS: speaks / prophesies; possesses / wields
+
+### WOD-GS:00927 | WOD-GS | WOD-GS 25362 (Myth of the Month: Clouds (2000)) | Regular Types of Clouds
+FIGURES: BLUE WOMAN, HELER, ORLANTH, SHARGASH
+TEXT: - Stratus. Seagull, also - Nimbostratus. Heler. Orlanth made three types of normal, common clouds, the hawks, the Tolings, and the sheep. They lived in the air, as natural to that realm as a fish is to water. Once Orlanth came down from his celestial home and impregnated the goddess Tarena, who was the Blue Woman in hawk shape. Their children were the Cloudhawks, called Tarenings. They are a type of cloud. The Tarenings are the highest of the clouds and never come below five miles in altitude. The Tarenings are also the weakest of the clouds. Sometimes they gather in a flock that spreads across the entire sky. But even gathered in such a flock their collective density is not enough to block out the sun, moon or Shargash, which may appear to have rings around them. They are so high that only the Vanganth flyers can get up there among them.
+TARGETS: dwells at
+
+### WOD-GS:00930 | WOD-GS | WOD-GS 25362 (Myth of the Month: Clouds (2000)) | Regular Types of Clouds
+FIGURES: ORLANTH
+TEXT: Tarena too bred children of more mortal shape. She herself never landed landed from her endless flight until the Golden Archer brought her down with a magical arrow, a magical friend and a curse. But the earth where she landed had pity instead of destroying her, and he took shape just like hers, built a nest atop a tall tree and helped raise the first brood of the Wind Hawks that are the birds of Orlanth. They are in a continual war for him to destroy all eagles.
+TARGETS: curses
+
+### WOD-GS:00944 | WOD-GS | WOD-GS 1650 (Myth of the Month: Enemy Gods of the Orl) | Page Last updated: 2026-02-02 16:37:48
+FIGURES: ARROIN, ORLANTH, VINGKOT
+TEXT: - Greater Ungoron: XX. - Grenfalur the Eater: Chaos demon that ate Arroin's magical healing abilities. - Harand Boar-dick: Foe of Jorganos Archer. He allied with trolls when he tried to take Arrowmound from Vingkot's son, but Orlanth helped and so he was driven away.
+TARGETS: heals
+
+### WOD-GS:00947 | WOD-GS | WOD-GS 1650 (Myth of the Month: Enemy Gods of the Orl) | Page Last updated: 2026-02-02 16:37:48
+FIGURES: LANBRIL, LIGHTBRINGERS, LOKAMAYADON, ORLANTH
+TEXT: - Konagog and Vonagog: Enemies encountered on the Lightbringers Quest. - Lanbril: The Thief, stole from his kinsmen and so was outlawed by Orlanth. - Lesser Kajaboori: XX. - Lokamayadon: XX. - Lord of Beasts: Orlanth's opponent in the Beast Gamble. Orlanth won every time but once, and so took many useful animals for his descendants, including bulls, boars, cocks, and rams.
+TARGETS: punishes / exiles
+
+### WOD-GS:00962 | WOD-GS | WOD-GS 1650 (Myth of the Month: Enemy Gods of the Orl) | Page Last updated: 2026-02-02 16:37:48
+FIGURES: ORLANTH, QUIVIN, UMATH
+TEXT: - Vestkarthan: A great and lusty fighter of the Fire Tribe known for his ability to consume great quantities of anything. He was once a friend of Umath's, and is the father of Orlanth's half-brother Quivin, but he was defeated in the Darkness when he tried to harm the Earth that was under Orlanth's and Maran's protection.
+TARGETS: loves / desires
+
+### WOD-GS:00969 | WOD-GS | WOD-GS 1703 (Myth of the Month: Heler, the Great Rain) | Included in The Book of Heortling Mythology (2009)
+FIGURES: HELER
+TEXT: Heler was a blessed being, and so he knew just the right way to do sacred things. He found a quiet place in the middle air and he prayed to his mother, the Great Waters, and the powers behind those. He was called to give his sacrifice, and he gave to humankind the ability to weep the golden tear. (This is a mystical secret: the Golden Tear is said to be not a tear like crying, but a tear like a rip in the fabric.) This is his first presence in the world. He can never leave us.
+TARGETS: mourns
+
+### WOD-GS:00970 | WOD-GS | WOD-GS 1703 (Myth of the Month: Heler, the Great Rain) | Included in The Book of Heortling Mythology (2009)
+FIGURES: HELER, SSHORG
+TEXT: For this Sshorga appeared to him to grant him an interview. Heler spoke with great reverence, and he proved his influence within the Water Dragon so that the conversation between them was a monologue.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00982 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | The Lesser Darkness
+FIGURES: (none registered)
+TEXT: The glare of the Sungod and his accompanying host, which quickly grew in numbers and power, overwhelmed the sensitivities of the Mistress Race, which hithertofor had dwelt securely in unbroken blackness. Many were evaporated, most were severely burnt and mutated, but all turned and fled, using secret pathways to reach the surface world.
+TARGETS: dwells at
+
+### WOD-GS:00983 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | The Lesser Darkness
+FIGURES: (none registered)
+TEXT: The death of the Sun and the appearance of the Trolls and other forces of Darkness is called the Lesser Dark of the Great Night. The race which crawled to this world from below suffered the agonies of the alien environment of the world and its gods at war, in addition to the torment caused by the Sun and the loss of their homes. Most of the creatures which survived this at all were changed horribly, and are the ancestors of those creatures which humans know as Cave Trolls.
+TARGETS: dies
+
+### WOD-GS:00994 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Dark Trolls in History
+FIGURES: SECOND COUNCIL, XIOLA UMBAR, ZORAK ZORAN
+TEXT: Among the Darkness Deities the cult of Xiola Umbar lost its predominant position. Instead, people loved her brother, Zorak Zoran, called Lord Master of the Legions of Death. Inspired by such a deity the trolls and humans who worshipped the god went to war against the northern nomads, pitting their spells and infantry against the foe's cavalry and shaman-summoned spirits. The forces of the Second Council won the day at great loss to themselves, but there was victory at Argentium Thri'ile which was so decisive that the Nomads began a withdrawal from the whole Pelorian lowlands. Their departure revealed a thinly populated revealed a region thinly populated by indigenous tribes previously enslaved by the nomads.
+TARGETS: loves / desires
+
+### WOD-GS:00995 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Dark Trolls in History
+FIGURES: SECOND COUNCIL
+TEXT: The Battle of Argentium Thri'ile was won by the Praxian allies of the Second Council, whose unusual mounts, large numbers, and particularly adept shaman spirit-hunters carried one wing during the first day of battle, and then pursued for a week, slaughtering as they went. This began the longstanding hatred between the horse-riding nomads and the beast-riding ones. It also instituted a period of Praxian overlordship, by certain nobles and families, over regions of Peloria. Even Dara Happa was, for a short time, ruled by outsiders from the Impala tribe, who also worshipped the Sun.
+TARGETS: possesses / wields

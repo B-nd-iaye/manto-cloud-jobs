@@ -1,0 +1,300 @@
+[P5-B-B0003-057] S=['TOLAT'] P=protects O=['SECHKAUL'] implicit=True ps="lifted" sug=one of: protects, rescues / frees, aids
+   Q: the god lifted the whole land above the raging seas.
+[P5-B-B0003-058] S=['KING DENGBALU'] P=establishes cult O=['TOLAT'] MOD={"in_on_at": "MELIB"} implicit=False ps="built temples ... start of ... worship" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: King Dengbalu built temples to the Red Sword || This was the start of Tolat worship throughout the Melib region.
+[P5-B-B0003-059] S=['SSHORG'] P=defeats O=['SECHKAUL'] implicit=True ps="came roaring northward ... successfully" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Sshorg came roaring northward a second time, this time successfully.
+[P5-B-B0003-060] S=['SONS OF SSHORG'] P=is child of O=['SSHORG'] implicit=True ps="his sons" sug=is child of
+   Q: leaving his sons to live there in the waters.
+[P5-B-B0004-001] S=['ZARANISTANGI'] P=travels O=[] MOD={"in_on_at": "GENERTELA"} implicit=False ps="wandered across" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Zaranistangi never conquered huge areas, nor grew to large numbers, but wandered across Genertela in the Gods War and afterwards.
+[P5-B-B0004-002] S=['SESHNELANS'] P=defeats O=['KING BRADOSZARAN'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Without the Red Sword to aid him, King Bradoszaran was finally defeated by the Seshnelans in 805.
+[P5-B-B0004-003] S=['ORDANAL'] P=dedicates relic O=['RED SWORD'] MOD={"to": "MELIB"} implicit=True ps="placed it in its ancient place" sug=dedicates relic
+   Q: Around 775, a man from Jrustela named Ordanal brought the weapon back to Melib and placed it in its ancient place.
+[P5-B-B0004-004] S=['KING DENGBALU'] P=dedicates relic O=['RED SWORD'] implicit=False ps="stuck" sug=dedicates relic
+   Q: which was the place where King Dengbalu had first stuck the Red Sword.
+[P5-B-B0004-005] S=['KING AVALOR'] P=rules O=['TESHNOS'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: King Avalor, the last and greatest of the Jrusteli dynasty that ruled all of Teshnos
+[P5-B-B0004-006] S=['KING AVALOR'] P=travels O=['KIDNAPPERS'] MOD={"to": "WASTELANDS"} implicit=True ps="followed" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He followed her kidnappers into the Wastelands
+[P5-B-B0004-007] S=['GOD LEARNERS'] P=enchants O=['DUPANYA'] implicit=False ps="cursed" sug=curses
+   Q: Dupanya (ruin): This was a royal capital of the Zaranistangi people before it was cursed by the God Learners and fell to the embrace of the jungle.
+[P5-B-B0004-008] S=['JRUSTELI'] P=comes into being O=['DYRIRESTOLSKIT'] implicit=True ps="founded" sug=founds
+   Q: This city was founded by the Jrusteli in the Second Age
+[P5-B-B0004-009] S=['JRUSTELI KINGDOM OF EEST'] P=defeats O=['MRALANI KINGDOM'] implicit=False ps="conquered" sug=conquers
+   Q: capital of the interior Mralani Kingdom until it was conquered by the Jrusteli Kingdom of Eest.
+[P5-B-B0004-010] S=['GOD LEARNERS'] P=steals O=['GLASS WINDOWS OF BARA SHAL'] implicit=True ps="tried to steal" sug=steals
+   Q: It was destroyed during the reign of King Halaru, when God Learner adventurers tried to steal its beautiful glass windows.
+[P5-B-B0004-011] S=['GOD OF WHAT'] P=is identified as O=['SOMASH'] implicit=False ps="a mystical aspect of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: seeking to reach the God of What, a mystical aspect of Somash.
+[P5-B-B0004-012] S=['MASTAKOS'] P=embodies O=[] implicit=False ps="the god of Movement" sug=one of: embodies, has domain
+   Q: Several unusual shrines have been maintained here, including one to a female incarnation of Mastakos, the god of Movement.
+[P5-B-B0004-013] S=['MASTAKOS'] P=has hybrid form O=[] implicit=False ps="female incarnation of" sug=has anomalous form (qual=hybrid)
+   Q: Several unusual shrines have been maintained here, including one to a female incarnation of Mastakos, the god of Movement.
+[P5-B-B0004-014] S=['GOD LEARNERS'] P=shatters O=['IZNAGRLI'] implicit=True ps="destroyed" sug=shatters
+   Q: These ruins in the Fever Trees were the capital of a small kingdom that was destroyed by the God Learners.
+[P5-B-B0004-015] S=['KANG LUWAY'] P=is alternative name for O=['THE CONQUEROR'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Kang Luway (called "The Conqueror")
+[P5-B-B0004-016] S=['KANG LUWAY'] P=protects O=['LORDS OF LIGHT'] MOD={"from": "DEMON DOGS OF MELIB"} implicit=True ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: especially the stories of how he saved the Lords of Light from the Demon Dogs of Melib.
+[P5-B-B0004-017] S=['CALYZ'] P=protects O=['TESHNA'] MOD={"from": "BODA KARA"} implicit=False ps="rescue of" sug=one of: protects, rescues / frees, aids
+   Q: Famed for its annual festival celebrating Calyz's rescue of Teshna from the sharp-toothed demoness Boda Kara that hid inside her and castrated her first husband on their wedding night.
+[P5-B-B0004-018] S=['BODA KARA'] P=travels O=[] MOD={"in_on_at": "TESHNA"} implicit=True ps="hid inside" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: sharp-toothed demoness Boda Kara that hid inside her and castrated her first husband on their wedding night.
+[P5-B-B0004-019] S=['BODA KARA'] P=dismembers O=['FIRST HUSBAND OF TESHNA'] implicit=True ps="castrated" sug=dismembers
+   Q: sharp-toothed demoness Boda Kara that hid inside her and castrated her first husband on their wedding night.
+[P5-B-B0004-020] S=['TURVENOST'] P=challenges O=['TOLAT'] implicit=False ps="demanded the worship of Tolat be ended" sug=one of: challenges, breaks oath, betrays, fights
+   Q: When Turvenost demanded the worship of Tolat be ended
+[P5-B-B0004-021] S=['SSHORG'] P=kills O=['TURVENOST'] implicit=False ps="drowned" sug=one of: kills, shatters, dies
+   Q: when Sshorg drowned Turvenost and his lands.
+[P5-B-B0004-022] S=['KING ORDANAL'] P=steals O=['MELIB'] MOD={"at_the_instigation_of": ["GOD LEARNERS"]} implicit=True ps="seized" sug=steals
+   Q: It was a province of Teshnos until King Ordanal seized it for the God Learners.
+[P5-B-B0004-023] S=['KING BULTHSHASAM'] P=dedicates relic O=['TEMPLE MOUNTAIN OF SOMASH'] implicit=False ps="built" sug=dedicates relic
+   Q: this city is famed for the ornate Temple Mountain of Somash, originally built by King Bulthshasam in the God Time
+[P5-B-B0004-024] S=['CALYZ'] P=fights O=['DEMONS'] implicit=False ps="tricks" sug=tricks
+   Q: the natives of this city uniquely worship Calyz in the form of a beautiful goddess who tricks demons and otherwise beguiles the enemies of mankind.
+[P5-B-B0004-025] S=['JRUSTELI DYNASTY'] P=rules O=['TESHNOS'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Teshnos, ruled directly by the Jrusteli dynasty.
+[P5-B-B0004-026] S=['DEMIGOD HERO'] P=steals O=['SECRETS OF METAL-WORKING'] MOD={"from": "DWARVES OF DIAMOND MOUNTAIN"} implicit=False ps="stole" sug=steals
+   Q: It was founded in the God Time by a demigod Hero who first stole the secrets of metal-working from the dwarves of Diamond Mountain.
+[P5-B-B0004-027] S=['NEMARTHSHASAM'] P=rules O=['TESHNOS'] MOD={"at_the_command_of": ["SHENG SELERIS"]} implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Nemarthshasam, the planetary god who ruled Teshnos for Sheng Seleris.
+[P5-B-B0004-028] S=['GARUSHEVARA THE VICTORIOUS'] P=defeats O=['NEMARTHSHASAM'] implicit=False ps="overcame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In 1475, the Somash high priest Garushevara the Victorious overcame Nemarthshasam
+[P5-B-B0004-029] S=['CALYZ'] P=alters mythic station O=['TESHO MARSH'] implicit=True ps="tamed" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: This was once a shallow sea but was tamed in the God Time by Calyz, who built dikes and dug canals, turning the sea into swampland for rice paddies.
+[P5-B-B0004-030] S=['ORLANTH'] P=kills O=['YELM'] implicit=False ps="slew" sug=one of: kills, shatters, dies
+   Q: Before Orlanth slew Yelm
+[P5-B-B0004-031] S=['ERNALDA'] P=departs from O=['PRAX'] implicit=True ps="withdrawal" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: With the Darkness, and Ernalda's withdrawal from the land, the peoples of the land met want and starvation, and most died.
+[P5-B-B0004-032] S=['PEOPLES OF THE LAND'] P=sacrifices O=['FORESTS OF THE LAND'] IO=['OAKFED'] implicit=True ps="fed" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: To keep away the Darkness, the folk called on Oakfed and fed him the forests of the land to keep him alive.
+[P5-B-B0004-033] S=['THE DEVIL'] P=shatters O=["GENERT'S GARDEN"] implicit=True ps="destroyed" sug=shatters
+   Q: He destroyed Genert's Garden and slaughtered the Golden Age peoples, and Genert himself.
+[P5-B-B0004-034] S=['THE DEVIL'] P=kills O=['GENERT'] implicit=True ps="slaughtered" sug=one of: kills, shatters, dies
+   Q: He destroyed Genert's Garden and slaughtered the Golden Age peoples, and Genert himself.
+[P5-B-B0004-035] S=['THE DEVIL', 'STORM BULL'] P=fights O=[] implicit=False ps="long battle" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When the Devil met Storm Bull their long battle devastated the land.
+[P5-B-B0004-036] S=['THE BLOCK'] P=binds O=['THE DEVIL'] implicit=True ps="pinned" sug=binds
+   Q: a fragment of that Truestone center of Law pinned the Devil to the ground
+[P5-B-B0004-037] S=['EIRITHA'] P=is child of O=['ERNALDA'] implicit=False ps="daughters" sug=is child of
+   Q: his mother Eiritha, one of Ernalda's daughters
+[P5-B-B0004-038] S=['WAHA'] P=is born from O=['EIRITHA'] implicit=False ps="was born from" sug=is born from
+   Q: Waha the Butcher was born from his mother Eiritha
+[P5-B-B0004-039] S=['WAHA'] P=comes into being O=['GOOD RIVER'] implicit=True ps="dug" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: and he dug the Good River
+[P5-B-B0004-040] S=['WAHA'] P=teaches O=['PEOPLE OF PRAX'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: and taught the starving people to live.
+[P5-B-B0004-041] S=['WAHA'] P=bestows magic / gifts O=['COVENANT OF EATERS AND EATEN'] IO=['PEOPLE OF PRAX'] implicit=False ps="brought" sug=one of: bestows, heals, imbues, teaches
+   Q: Waha then brought the Covenant of Eaters and Eaten to the people of Prax.
+[P5-B-B0004-042] S=['WAHA'] P=teaches O=['MAGIC SONGS OF EIRITHA'] IO=['PEOPLE OF PRAX'] implicit=True ps="made all learn" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Waha made all learn the magic songs to send the spirit of a slaughtered animal back to its mother Eiritha for rebirth.
+[P5-B-B0004-043] S=['CAYLASH RHINO'] P=fights O=['SHADOWS DANCE'] implicit=False ps="led many raids against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Between 780 and 810, the Praxian Hero Caylash Rhino led many raids against Shadows Dance with great success.
+[P5-B-B0004-044] S=['PAVIS'] P=enchants O=['FACELESS STATUE'] implicit=False ps="animated" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: In 830, the Hero named Pavis animated the Faceless Statue that sat atop the Throne in Dagori Inkarth.
+[P5-B-B0004-045] S=['PAVIS'] P=defeats O=['GIANTS', 'NOMADS'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: At the Too Tall Battle, Pavis defeated the giants and nomads, and crippled the god Waha.
+[P5-B-B0004-046] S=['PAVIS'] P=wounds O=['WAHA'] implicit=False ps="crippled" sug=wounds
+   Q: At the Too Tall Battle, Pavis defeated the giants and nomads, and crippled the god Waha.
+[P5-B-B0004-047] S=['PAVIS'] P=resurrects O=['WAHA'] MOD={"purpose_clause": "TO BRING PEACE BETWEEN PAVIS AND THE NOMADS"} implicit=False ps="healed" sug=heals
+   Q: Pavis healed Waha to bring peace between Pavis and the nomads.
+[P5-B-B0004-048] S=['PAVIS'] P=comes into being O=['PAVIS'] implicit=False ps="founded" sug=founds
+   Q: That same year, Pavis founded the city that bears his name
+[P5-B-B0004-049] S=['WAHA'] P=travels O=['ANIMAL NOMADS'] MOD={"from": "VULTURE COUNTRY"} implicit=True ps="led" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: until Waha led many of his people beyond the Vulture Country after his shameful defeat by Pavis and the Faceless Statue.
+[P5-B-B0005-001] S=['JALDON GOLDENTOOTH'] P=travels O=[] MOD={"to": "DRAGON PASS"} implicit=True ps="led his warriors into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: 445 led his warriors into Dragon Pass again and again
+[P5-B-B0005-002] S=['JALDON GOLDENTOOTH'] P=resurrects O=[] implicit=True ps="reincarnating" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: reincarnating each time the nomads needed him to lead them.
+[P5-B-B0005-003] S=['BIMABWE BIGGER-THAN-LIFE'] P=is member of O=['IMPALA TRIBE'] implicit=True ps="Impala Hero" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the Impala Hero Bimabwe Bigger-Than-Life
+[P5-B-B0005-004] S=['BIMABWE BIGGER-THAN-LIFE'] P=defeats O=['PURE HORSE PEOPLE'] MOD={"in_on_at": "BATTLE OF ALAVAN ARGAY", "with_the_aid_of": ["JALDON GOLDENTOOTH"]} implicit=False ps="crushed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In 1250, the Praxian nomads temporarily united under the leadership of the Impala Hero Bimabwe Bigger-Than-Life and crushed the Pure Horse People at the Battle of Alavan Argay with Jaldon's aid.
+[P5-B-B0005-005] S=['PURE HORSE PEOPLE'] P=flees to O=[] MOD={"to": "DRAGON PASS"} implicit=True ps="slipped away to" sug=flees to
+   Q: The survivors slipped away to Dragon Pass, leaving Prax to the Animal Nomads.
+[P5-B-B0005-006] S=['LUNAR EMPIRE'] P=defeats O=['SARTAR'] implicit=True ps="triumphed over" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: when Boldhome was sacked and the Lunar Empire triumphed over its long-defiant foe.
+[P5-B-B0005-007] S=['DERIK POLJONI'] P=is member of O=['BLUE JAY CLAN'] implicit=False ps="was of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Derik Poljoni was of the Blue Jay clan of the Dundealos tribe.
+[P5-B-B0005-008] S=['DERIK POLJONI'] P=is member of O=['DUNDEALOS TRIBE'] implicit=False ps="was of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Derik Poljoni was of the Blue Jay clan of the Dundealos tribe.
+[P5-B-B0005-009] S=['SABLE RIDERS'] P=kills O=['FAMILY OF DERIK POLJONI'] implicit=True ps="slain by" sug=one of: kills, shatters, dies
+   Q: his family was slain by Sable Riders
+[P5-B-B0005-010] S=['DERIK POLJONI'] P=serves O=['YARANDROS'] implicit=True ps="entered the service of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Derik entered the service of King Yarandros of Tarsh.
+[P5-B-B0005-011] S=['DERIK POLJONI'] P=steals O=['IMMORTAL HORSE'] MOD={"with_the_aid_of": ["YARANDROS"]} implicit=True ps="raid to steal" sug=steals
+   Q: Derik accompanied the king on his famous raid to steal an immortal horse.
+[P5-B-B0005-012] S=['DERIK POLJONI', 'YARANDROS'] P=steals O=['MAGICAL BULL OF OPILI'] implicit=True ps="stole" sug=steals
+   Q: They raided the Opili nation's sacred herd and stole one of their great magical bulls.
+[P5-B-B0005-013] S=['DERIK POLJONI'] P=strikes O=['JALDON GOLDENTOOTH'] implicit=True ps="struck" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Derik faced their leader, Jaldon Goldentooth, in battle and struck the mighty Hero down
+[P5-B-B0005-014] S=['DERIK POLJONI'] P=travels O=[] MOD={"to": "NO MAN'S MARCH"} implicit=True ps="moved" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In 1420, Derik and his followers, called the Pol-Joni, moved their cattle, led by the magical bull, into the Praxian lands called No Man's March
+[P5-B-B0005-015] S=['POL-JONI'] P=defeats O=['PRAXIANS'] MOD={"in_on_at": "BATTLE OF DENZIS WATER", "from": "BETTER PLACE"} implicit=True ps="were driven from" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In 1489, Praxians attempted to do so, but were driven from the Better Place with great losses after the Battle of Denzis Water.
+[P5-B-B0005-016] S=['PAVIS'] P=travels O=[] MOD={"from": "ADARI"} implicit=True ps="came from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Pavis himself came from there.
+[P5-B-B0005-017] S=['SORCERER-PRIEST OF ATYAR'] P=rules O=['AKKA'] implicit=True ps="ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: It is ruled by an immortal sorcerer-priest of Atyar from Kralorela.
+[P5-B-B0005-018] S=['SORCERER-PRIEST OF ATYAR'] P=serves O=['ATYAR'] implicit=False ps="sorcerer-priest of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: sorcerer-priest of Atyar
+[P5-B-B0005-019] S=['ANKORI'] P=discovers O=["ANKORI'S BISON IN WINTER GRASSLANDS"] implicit=True ps="rediscovered" sug=discovers
+   Q: Ankori, a khan of the Elstorana dynasty, rediscovered this ancient grassland during the Second Age migrations.
+[P5-B-B0005-020] S=['ANKORI'] P=is member of O=['ELSTORANA DYNASTY'] implicit=False ps="a khan of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Ankori, a khan of the Elstorana dynasty
+[P5-B-B0005-021] S=['SNOW BISON'] P=fights O=['HORSEMEN OF PENT'] implicit=False ps="led the push against" sug=invades / raids
+   Q: The Bison Riders, especially those called the Snow Bison, then led the push against the horsemen of Pent.
+[P5-B-B0005-022] S=['ARINSTOLI TENARROW'] P=travels O=[] MOD={"to": "ARINSTOLI"} implicit=False ps="lead a clan into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Arinstoli TenArrow, an Impala Rider, was the first man to lead a clan into the land
+[P5-B-B0005-023] S=['ARINSTOLI TENARROW'] P=is member of O=['IMPALA TRIBE'] implicit=True ps="an Impala Rider" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Arinstoli TenArrow, an Impala Rider
+[P5-B-B0005-024] S=['SABLE RIDERS'] P=discovers O=["ARNSTADLE'S OWN GRASSLAND"] implicit=False ps="was found by" sug=discovers
+   Q: Arnstadle's Own Grassland: This fertile grassland was found by the Sable Riders during the Second Age migrations.
+[P5-B-B0005-025] S=['STORM BULL CULTISTS'] P=fights O=['CHAOS'] implicit=False ps="war against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Storm Bull cultists and their continuing war against Chaos.
+[P5-B-B0005-026] S=['STORM BULL CULTISTS'] P=serves O=['STORM BULL'] implicit=False ps="Storm Bull cultists" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Storm Bull cultists
+[P5-B-B0005-027] S=['SCORPION QUEEN'] P=rules O=['BAGOGIX'] implicit=False ps="ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Bagogix: A valley swarming with Scorpion People and ruled by a powerful Scorpion Queen.
+[P5-B-B0005-028] S=['FIRST SON OF MALLIA'] P=is child of O=['MALLIA'] implicit=False ps="first son" sug=is child of
+   Q: Mallia's first son, slain by Yelm in the God Time.
+[P5-B-B0005-029] S=['YELM'] P=kills O=['FIRST SON OF MALLIA'] implicit=False ps="slain by" sug=one of: kills, shatters, dies
+   Q: Mallia's first son, slain by Yelm in the God Time.
+[P5-B-B0005-030] S=['RAGING STORM'] P=protects O=['BITTER SPRING'] MOD={"from": "CHAOS"} implicit=False ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: Bitter Spring is protected from the Chaos by the Raging Storm.
+[P5-B-B0005-031] S=['THE BLOCK'] P=is identified as O=['THE SPIKE'] implicit=True ps="is a remnant of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: This enormous chunk of magic rock is a remnant of the Spike.
+[P5-B-B0005-032] S=['THE BLOCK'] P=kills O=['THE DEVIL'] implicit=True ps="crushed" sug=one of: kills, shatters, dies
+   Q: It fell to earth during the Gods War, and crushed the Devil beneath it.
+[P5-B-B0005-033] S=['STORM BULL BERSERKS'] P=protects O=['THE BLOCK'] implicit=False ps="guards" sug=one of: protects, rescues / frees, aids
+   Q: A community of Storm Bull berserks fanatically guards the Block.
+[P5-B-B0005-034] S=['STORM BULL BERSERKS'] P=serves O=['STORM BULL'] implicit=False ps="Storm Bull berserks" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Storm Bull berserks
+[P5-B-B0005-035] S=['MOSTALI'] P=comes into being O=[] MOD={"in_on_at": "COPPER CAVES"} implicit=True ps="dwarf mine" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: These caves are the entrance of what was an extensive dwarf mine in the God Time.
+[P5-B-B0005-036] S=['MOSTALI GHOSTS'] P=manifests O=[] MOD={"in_on_at": "COPPER CAVES"} implicit=True ps="haunted by" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: claiming it is haunted by Mostali ghosts.
+[P5-B-B0005-037] S=['GENERT'] P=manifests O=[] implicit=False ps="Earth magics" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: the once great Earth magics of Genert's Palace
+[P5-B-B0005-038] S=['GENERT'] P=transforms into O=['ARMY OF GENERT'] MOD={"from": "THE DEVIL", "purpose_clause": "TO PROTECT"} implicit=True ps="forces into a stinging cloud" sug=transforms into
+   Q: forces into a stinging cloud of copper dust to hold off the Devil and save the rest of the army.
+[P5-B-B0005-039] S=['GENERT'] P=fights O=['THE DEVIL'] implicit=True ps="hold off" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: forces into a stinging cloud of copper dust to hold off the Devil and save the rest of the army.
+[P5-B-B0005-040] S=['LUNAR EMPIRE'] P=rules O=['CORFLU'] implicit=True ps="under the rule of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: This settlement and seaport on an island in the Zola Fel is under the rule of the Lunar Empire.
+[P5-B-B0005-041] S=['LUNAR ARMY'] P=travels O=[] MOD={"from": "CORFLU", "to": "KARSE"} implicit=True ps="was ferried" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In 1619, the Lunar Army was ferried from here to Karse in the Holy Country.
+[P5-B-B0005-042] S=['DAKASTOR', 'WAHA'] P=fights O=['WICKED WRITHER'] MOD={"in_on_at": "DAKASTOR'S OWN GRASSLAND"} implicit=True ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Here Dakastor himself fought alongside Waha against the Wicked Writher.
+[P5-B-B0005-043] S=['WAHA'] P=protects O=['PROTECTRESSES'] MOD={"from": "FORCES OF DARKNESS"} implicit=True ps="rescuing" sug=one of: protects, rescues / frees, aids
+   Q: rescuing the Protectresses from the forces of Darkness.
+[P5-B-B0005-044] S=['STORM BULL'] P=fights O=['THE DEVIL'] implicit=False ps="fight against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In his fight against the Devil, the Storm Bull was thrown to earth, nearly dead.
+[P5-B-B0005-045] S=['THE DEVIL'] P=wounds O=['STORM BULL'] implicit=False ps="thrown to earth, nearly dead" sug=wounds
+   Q: In his fight against the Devil, the Storm Bull was thrown to earth, nearly dead.
+[P5-B-B0005-046] S=['EIRITHA'] P=is spouse of O=['STORM BULL'] implicit=True ps="mate" sug=is spouse of
+   Q: His mate, Eiritha
+[P5-B-B0005-047] S=['EIRITHA'] P=bestows magic / gifts O=[] IO=['STORM BULL'] implicit=True ps="gave it all to" sug=one of: bestows, heals, imbues, teaches
+   Q: stripped the ground of its power, and gave it all to her lover.
+[P5-B-B0005-049] S=['THE BLOCK'] P=kills O=['THE DEVIL'] implicit=False ps="pinned the Devil to his death" sug=one of: kills, shatters, dies
+   Q: until the Block pinned the Devil to his death.
+[P5-B-B0005-050] S=['EARTH'] P=protects O=["GENERT'S GARDEN"] MOD={"from": "GREAT FLOOD"} implicit=False ps="rose up to protect" sug=one of: protects, rescues / frees, aids
+   Q: When the Great Flood came in the early Storm Age, the earth itself rose up to protect Genert's Garden.
+[P5-B-B0005-051] S=['DEFENDERS OF THE GARDEN'] P=defeats O=['SEA GODS'] implicit=False ps="reconquered a narrow sliver of land from" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The defenders of the Garden even reconquered a narrow sliver of land from the Sea Gods, resulting in this fertile shore.
+[P5-B-B0005-052] S=['DEROS'] P=is child of O=["SURVIVOR OF GENERT'S GARDEN"] implicit=False ps="only son" sug=is child of
+   Q: After the destruction of Genert's Garden, one of the survivors appealed to Eurmal to save his only son, Deros.
+[P5-B-B0005-053] S=['EURMAL'] P=kills O=['DEROS'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Eurmal killed Deros and cut him into pieces.
+[P5-B-B0005-054] S=['EURMAL'] P=dismembers O=['DEROS'] implicit=False ps="cut him into pieces" sug=dismembers
+   Q: Eurmal killed Deros and cut him into pieces.
+[P5-B-B0005-055] S=['DERI'] P=is child of O=['DEROS'] implicit=True ps="became a separate child" sug=is child of
+   Q: Each piece became a separate child, enough to defend their home from Chaos.
+[P5-B-B0005-056] S=['DERI'] P=claims ancestry O=['DEROS'] implicit=True ps="descendants" sug=claims ancestry
+   Q: Their descendants, the Deri
+[P5-B-B0005-057] S=['WAHA'] P=comes into being O=['GOOD CANAL'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="dug" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: When the Devil was crushed beneath the Block, Waha dug the Good Canal to wash away the polluting Chaos horror.
+[P5-B-B0005-058] S=["DEVIL'S MARSH"] P=comes into being O=[] implicit=False ps="was formed" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The Devil's Marsh was formed where the river, in shame, hid her head.
+[P5-B-B0005-059] S=['THE PAPS'] P=rules O=['EIRITHA HILLS'] implicit=False ps="controlled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: As with all of the Eiritha Hills, it is controlled by the Paps.
+[P5-B-B0005-060] S=['MOSTALI'] P=rules O=[] MOD={"in_on_at": "DWARF KNOLL"} implicit=False ps="stronghold" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Dwarf Knoll: This isolated hill was a Mostali stronghold in the God Time.
+[P5-B-B0006-001] S=['DEVIL'] P=fights O=['STORM BULL'] implicit=False ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the Devil fought against Storm Bull for the fate of the cosmos.
+[P5-B-B0006-002] S=['FLINTNAIL'] P=travels O=['PAVIS'] implicit=False ps="first met" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Flintnail the Dwarf first met Pavis
+[P5-B-B0006-003] S=['FLINTNAIL'] P=is member of O=['MOSTALI'] implicit=False ps="Dwarf" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Flintnail the Dwarf
+[P5-B-B0006-004] S=['BLOCK'] P=travels O=[] MOD={"to": "FINAL DESTINATION"} implicit=False ps="bouncing and skidding to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the Block while it was bouncing and skidding to its final destination.
+[P5-B-B0006-005] S=['FANZALI'] P=is member of O=['STORM BULL CULT'] implicit=True ps="was a great Storm Bull hero" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Fanzali was a great Storm Bull hero of the First Migration.
+[P5-B-B0006-006] S=['FANZALI'] P=discovers O=['OSTRICH TRIBE'] implicit=True ps="met" sug=discovers
+   Q: he met the lost Ostrich Tribe of Prax.
+[P5-B-B0006-007] S=['FANZALI'] P=discovers O=['FANZALI AND THE HYENA GRASSLAND'] implicit=True ps="discovery" sug=discovers
+   Q: This rich grassland was Fanzali's second discovery.
+[P5-B-B0006-008] S=['GASH'] P=rules O=['GASH LAND'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the Great Darkness, this was ruled by the troll Hero Gash.
+[P5-B-B0006-009] S=['GASH'] P=is member of O=['UZ'] implicit=False ps="troll" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the troll Hero Gash.
+[P5-B-B0006-010] S=['EARTH'] P=protects O=['DAUGHTER OF EARTH'] implicit=False ps="hide" sug=one of: protects, rescues / frees, aids
+   Q: the Earth herself grew up to hide one of her own daughters buried beneath.
+[P5-B-B0006-011] S=['SONS OF GENERT'] P=is child of O=['GENERT'] implicit=False ps="Sons of" sug=is child of
+   Q: The four peaks here are called the Sons of Genert and have no names.
+[P5-B-B0006-012] S=['WAHA'] P=manifests O=['GOOD CANAL'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="dug" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Waha dug the Good Canal to bring water to wash away the polluting Chaos horror beneath the Block.
+[P5-B-B0006-013] S=['EARTH'] P=alters mythic station O=['RIVER'] implicit=True ps="forced" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: the Earth forced Her upward again, forming the Devil's Marsh.
+[P5-B-B0006-014] S=['FORCES OF GENERT'] P=fights O=['CHAOS HORDES'] implicit=False ps="met" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: This area is where the forces of Genert initially met the Chaos hordes
+[P5-B-B0006-015] S=['STORM BULL'] P=fights O=['CHAOS'] implicit=True ps="try to blow away" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Storm Bull winds still rage here and try to blow away the dust
+[P5-B-B0006-016] S=['MALLIA'] P=wounds O=[] MOD={"in_on_at": "HOOFCRACK"} implicit=True ps="blood fell" sug=wounds
+   Q: Mallia's blood fell here in the Great Darkness
+[P5-B-B0006-017] S=['MALLIA'] P=poisons with chaos O=['HERDS'] implicit=True ps="plague" sug=corrupts
+   Q: her spirits still plague the herds.
+[P5-B-B0006-018] S=['WAHA'] P=protects O=['ENTRY TO HAUNTED RUINS'] MOD={"using": "GATES MADE OF ANIMAL HORNS"} implicit=False ps="covered" sug=one of: protects, rescues / frees, aids
+   Q: Some elders say that the entry to those haunted ruins was once covered by Waha the Butcher with immense gates made of animal horns
+[P5-B-B0006-019] S=['WAHA'] P=is alternative name for O=['WAHA THE BUTCHER'] implicit=False ps="the Butcher" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Waha the Butcher
+[P5-B-B0006-020] S=['ARMIES OF CHAOS'] P=kills O=['GENERT'] implicit=False ps="destroyed" sug=one of: kills, shatters, dies
+   Q: The armies of Chaos blasted the site and destroyed Genert.
+[P5-B-B0006-021] S=['STORM BULL'] P=protects O=['KRJALKI BOG'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="guarding" sug=one of: protects, rescues / frees, aids
+   Q: The Storm Bull lives in the sky north of the bog, still guarding it for his lost lord.
+[P5-B-B0006-022] S=['STORM BULL'] P=serves O=['GENERT'] implicit=True ps="guarding it for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: still guarding it for his lost lord.
+[P5-B-B0006-023] S=['WAHA'] P=reveals O=['LAST DROP'] implicit=False ps="revealed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: It was revealed by Waha when his water skin's last drop fell to the ground and made the last patch of green grow between the Badlands and the Demons Quarter.
+[P5-B-B0006-024] S=['GODS OF CHAOS'] P=shatters O=['SPIKE'] implicit=False ps="destroyed" sug=shatters
+   Q: When the gods of Chaos destroyed the Spike
+[P5-B-B0006-025] S=['SEA GODS'] P=descends into O=['TEAR IN THE WORLD'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="leapt into" sug=one of: descends into, dies
+   Q: many sea gods leapt into the tear in the world to try to plug it.
+[P5-B-B0006-026] S=['ORANSTAL'] P=discovers O=["ORANSTAL'S OWN GRASSLANDS"] implicit=True ps="discovered" sug=discovers
+   Q: This grassland was discovered by the Sable Hero Oranstal
+[P5-B-B0006-027] S=['VINGKOT'] P=marries O=['SUMMER WIFE'] MOD={"in_on_at": "PAIRING STONE"} implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: The Orlanthi say Vingkot married one of Tada's daughters, called the Summer Wife, here.
+[P5-B-B0006-028] S=['SUMMER WIFE'] P=is child of O=['TADA'] implicit=False ps="daughters" sug=is child of
+   Q: one of Tada's daughters, called the Summer Wife
+[P5-B-B0006-029] S=['WAHA'] P=is child of O=['EIRITHA'] implicit=False ps="son" sug=is child of
+   Q: This is the most sacred place of Eiritha and her son, Waha
+[P5-B-B0006-030] S=['EIRITHA'] P=flees to O=['UNDERNEATH THE EARTH'] MOD={"in_on_at": "THE PAPS", "from": "DEATH"} implicit=True ps="hid herself" sug=flees to
+   Q: it was here that Eiritha hid herself from Death by going underneath the earth.
+[P5-B-B0007-001] S=['A COMBINED PRAXIAN ARMY'] P=fights O=['GERAK KAG', 'A TROLL ARMY FROM DAGORI INKARTH'] MOD={"in_on_at": "the Pairing Stone"} implicit=False ps="was intercepted ... eager to do battle" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In 1237, a troll army from Dagori Inkarth led by Gerak Kag was intercepted at the Pairing Stone by a combined Praxian army, eager to do battle with the trolls in the daytime.
+[P5-B-B0007-002] S=['MORNING STAR', 'THUNDERBIRD', 'LIGHTNING BOY', 'PURE HORSE FOUNDER'] P=fights O=['SPECTRAL TROLL SPIRITS'] implicit=False ps="attacks ... failed against" sug=invades / raids
+   Q: The nomad shamans loosed their gods against the Darkness, but successive attacks by Morning Star, Thunderbird, Lightning Boy, and even Pure Horse Founder all failed against the spectral troll spirits.
+[P5-B-B0007-003] S=['GERAK KAG'] P=travels O=[] MOD={"to": "Pavis"} implicit=False ps="approached ... landed atop" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: 456 Gerak Kag and his picked warriors approached the city of Pavis first, and with one jump landed atop the mighty walls.
+[P5-B-B0007-004] S=['BALASTOR'] P=descends into O=[] MOD={"in_on_at": "Pavis"} implicit=True ps="fell" sug=dies
+   Q: During this time Balastor, the last popular leader of the humans in the Rubble, fell.
+[P5-B-B0007-005] S=['BALASTOR'] P=rules O=['HUMANS IN THE RUBBLE'] implicit=False ps="popular leader of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: During this time Balastor, the last popular leader of the humans in the Rubble, fell.
+[P5-B-B0007-006] S=['THE TROLLS'] P=defeats O=['WAHA'] MOD={"in_on_at": "Pavis"} implicit=True ps="had conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He was defeated, and the victorious trolls say it was Waha himself whom they had conquered.
+[P5-B-B0007-007] S=['STORM BULL'] P=protects O=["GENERT'S GARDEN"] MOD={"in_on_at": "Raging Storm"} implicit=True ps="guarding" sug=one of: protects, rescues / frees, aids
+   Q: The Storm Bull lives here, guarding the blasted remains of Genert's Garden for his lost lord.
+[P5-B-B0007-008] S=['STORM BULL'] P=serves O=['GENERT'] implicit=False ps="guarding ... for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Storm Bull lives here, guarding the blasted remains of Genert's Garden for his lost lord.

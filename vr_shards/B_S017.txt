@@ -1,0 +1,300 @@
+[P5-B-B0051-006] S=['DESELENDEEN'] P=is alternative name for O=['BLUE RING'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Blue Ring; also called Dorasar's Ring, the Ring of Health, the Rings Which Sings of Danger, or simply Deselendeen, its actual name.
+[P5-B-B0051-007] S=['PRINCE SARONIL'] P=bestows magic / gifts O=['LIGHTNING BANDS'] IO=['DORASAR'] implicit=False ps="were a gift from Prince Saronil to" sug=one of: bestows, heals, imbues, teaches
+   Q: The Lightning Bands were a gift from Prince Saronil to Dorasar
+[P5-B-B0051-008] S=['ORLANTH'] P=is identified as O=['KING', 'THUNDERER', 'CHANGER', 'LIGHTBRINGER'] implicit=False ps="four aspects of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: these depict four aspects of Orlanth – King, Thunderer, Changer, and Lightbringer.
+[P5-B-B0051-009] S=['LUNARS'] P=defeats O=['NEW PAVIS'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the Lunars conquered New Pavis
+[P5-B-B0051-010] S=['ORVOST'] P=flees to O=[] MOD={"in_on_at": "RUBBLE"} implicit=False ps="fled to" sug=flees to
+   Q: High Priest Orvost fled to the Rubble with the Lightning Bands and the Silver Mantle.
+[P5-B-B0051-011] S=['DORNOLD ORVOST'] P=claims ancestry O=['DORASAR'] implicit=False ps="descendent of" sug=claims ancestry
+   Q: old Dornold Orvost, a descendent of Dorasar.
+[P5-B-B0051-012] S=['DORNOLD ORVOST'] P=flees to O=[] MOD={"in_on_at": "RUBBLE"} implicit=True ps="fled to" sug=flees to
+   Q: Old Dornold fled to the Rubble with Dorasar's divine regalia and some followers
+[P5-B-B0051-013] S=['LUNARS'] P=kills O=['DORNOLD ORVOST'] implicit=True ps="was later killed by" sug=one of: kills, shatters, dies
+   Q: was later killed by Lunar magic.
+[P5-B-B0051-014] S=['CITY OF GIANTS'] P=is identified as O=['PAVIS'] implicit=True ps="usually identified as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: usually identified as Pavis
+[P5-B-B0051-015] S=['GIANTS'] P=comes into being O=['PAVIS'] implicit=False ps="was built by" sug=crafts
+   Q: Pavis (which was built by giants in the Second Age).
+[P5-B-B0051-016] S=['GIANTS'] P=fights O=['ORLANTH'] implicit=False ps="ancient enemies of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the giants (ancient enemies of Orlanth)
+[P5-B-B0051-017] S=['DORASAR'] P=is child of O=['EONISTARAN'] implicit=False ps="son of" sug=is child of
+   Q: Dorasar son of Eonistaran the Sage
+[P5-B-B0051-018] S=['ROYAL HOUSE OF SARTAR'] P=serves O=['LHANKOR MHY CULT'] implicit=False ps="patrons of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Royal House of Sartar are famed as patrons of the cult of Lhankor Mhy
+[P5-B-B0051-019] S=['BROTHERHOOD OF FREE SAGES'] P=is alternative name for O=['PRIESTS OF LHANKOR MHY'] implicit=False ps="other name" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the priests of Lhankor Mhy never permanently attached themselves to any individual or clan and have come by their other name, the Brotherhood of Free Sages.
+[P5-B-B0051-020] S=['SONS OF ORLANTH'] P=is child of O=['ORLANTH'] implicit=False ps="sons of" sug=is child of
+   Q: one of the sons of Orlanth was wed at this place
+[P5-B-B0051-021] S=['SON OF ORLANTH'] P=marries O=[] MOD={"in_on_at": "PAIRING STONES"} implicit=True ps="was wed" sug=is spouse of (qual=wedding)
+   Q: one of the sons of Orlanth was wed at this place
+[P5-B-B0051-022] S=['SON OF ORLANTH'] P=alters mythic station O=[] implicit=True ps="was burned and apotheosized" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: after he died the final time, was burned and apotheosized.
+[P5-B-B0051-023] S=['DORASAR'] P=bestows magic / gifts O=['ERNALDA'] MOD={"to": "NEW PAVIS"} implicit=True ps="brought" sug=one of: bestows, heals, imbues, teaches
+   Q: Dorasar brought her to New Pavis.
+[P5-B-B0051-024] S=['BLOCK'] P=strikes O=['DEVIL'] implicit=False ps="smashed into" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: The Block smashed into the Devil
+[P5-B-B0051-025] S=['DEVIL'] P=fights O=['STORM BULL'] implicit=True ps="was wrestling" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the Evil One was wrestling Storm Bull.
+[P5-B-B0051-026] S=['TROLLS'] P=is child of O=['KYGER LITOR'] implicit=False ps="Mother of" sug=is child of
+   Q: Kyger Litor, the Mother of Trolls
+[P5-B-B0051-027] S=['ZORAK ZORAN'] P=embodies O=['HATE', 'VENGEANCE'] implicit=False ps="god of" sug=one of: embodies, has domain
+   Q: Zorak Zoran, the troll god of Hate and Vengeance.
+[P5-B-B0051-028] S=['FIRST WIND LORD'] P=alters mythic station O=[] MOD={"in_on_at": "PAIRING STONES"} implicit=True ps="died the last time, was burned" sug=dies
+   Q: this is the place where the first Wind Lord of the cult lived and, after he died the last time, was burned.
+[P5-B-B0052-001] S=['LANBRIL'] P=protects O=['CITY OF THIEVES'] implicit=True ps="patron god was" sug=one of: protects, rescues / frees, aids
+   Q: its patron god was Lanbril;
+[P5-B-B0052-002] S=['ORLANTH'] P=rules O=['CITY OF THIEVES'] implicit=False ps="laws" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Dorasar tamed the City of Thieves with his justice and Orlanth's laws,
+[P5-B-B0052-003] S=['THE WAITING MOUTH'] P=is alternative name for O=['KRARSHT'] implicit=True ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Waiting Mouth is the Chaos goddess of intrigue and power-seeking.
+[P5-B-B0052-004] S=['KRARSHT'] P=manifests chaos taint O=[] implicit=True ps="is the Chaos goddess of" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: The Waiting Mouth is the Chaos goddess of intrigue and power-seeking.
+[P5-B-B0052-005] S=['KRARSHT'] P=establishes cult O=[] implicit=False ps="cult of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: The Lunar Conquest brought with it the cult of Krarsht the Waiting Mouth.
+[P5-B-B0052-006] S=['KRARSHT'] P=fights O=['MANY CIVILIZATIONS'] implicit=True ps="has infested" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: since the Dawn she has infested many civilizations.
+[P5-B-B0052-007] S=['ISSARIES'] P=establishes cult O=[] implicit=False ps="Shrines both to" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Shrines both to Issaries (hs) and to Etyries (/h).
+[P5-B-B0052-008] S=['ETYRIES'] P=establishes cult O=[] implicit=False ps="Shrines both to" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Shrines both to Issaries (hs) and to Etyries (/h).
+[P5-B-B0052-009] S=['GOLDENTONGUE', 'HARST', 'GARZEEN', 'ETYRIES'] P=is identified as O=['TRADE GODS'] implicit=False ps="the trade gods" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: within are statues of Goldentongue, Harst, Garzeen, and Etyries. || bargains struck within sight of the trade gods are considered particularly lucky.
+[P5-B-B0052-010] S=['ARGAN ARGAR'] P=establishes cult O=[] implicit=False ps="Argan Argar temple" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: P-16 Argan Argar temple (oh); includes shrines to Kyger Litor, Zorak Zoran, and Xiola Umbar.
+[P5-B-B0052-011] S=['KYGER LITOR', 'ZORAK ZORAN', 'XIOLA UMBAR'] P=establishes cult O=[] implicit=False ps="shrines to" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: P-16 Argan Argar temple (oh); includes shrines to Kyger Litor, Zorak Zoran, and Xiola Umbar.
+[P5-B-B0052-012] S=['ORLANTH'] P=protects O=['ARGAN ARGAR'] implicit=False ps="security was guaranteed by" sug=one of: protects, rescues / frees, aids
+   Q: P-16 Argan Argar temple (oh); || Its security was guaranteed by Dorasar and his Orlanth priests;
+[P5-B-B0052-013] S=['CHALANA ARROY'] P=establishes cult O=[] implicit=False ps="Chalana Arroy Temple" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: P-19 Chalana Arroy Temple (lx). All are welcome in the Healing Hall, Sartarite, Lunar or Praxian, rich or poor; the White Ladies heal all who come.
+[P5-B-B0052-014] S=['WHITE LADIES'] P=is alternative name for O=['CHALANA ARROY'] implicit=False ps="the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: P-19 Chalana Arroy Temple (lx). All are welcome in the Healing Hall, Sartarite, Lunar or Praxian, rich or poor; the White Ladies heal all who come.
+[P5-B-B0052-015] S=['EARTH MOTHER'] P=is alternative name for O=['ERNALDA'] implicit=False ps="the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ernalda the Earth Mother.
+[P5-B-B0052-016] S=['ERNALDA'] P=establishes cult O=[] implicit=False ps="home to the most important cult in New Pavis," sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: The earth temple is home to the most important cult in New Pavis, Ernalda the Earth Mother.
+[P5-B-B0052-017] S=['TEELO NORRI'] P=embodies O=[] implicit=False ps="Lunar goddess" sug=one of: embodies, has domain
+   Q: Teelo Norri /s. This small temple is for the Lunar goddess
+[P5-B-B0052-018] S=['TEELO NORRI'] P=establishes cult O=[] implicit=False ps="small temple is for" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Teelo Norri /s. This small temple is for the Lunar goddess
+[P5-B-B0052-019] S=['LHANKOR MHY'] P=establishes cult O=[] implicit=False ps="Lhankor Mhy sage" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Varanos the Tall, the Lhankor Mhy sage, can often be found here.
+[P5-B-B0053-001] S=['JARONAK THE BRIGHT'] P=is member of O=['YELMALIO CULT'] implicit=True ps="retired Light Son of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Jaronak the Bright, retired Light Son of Yelmalio, runs this school teaching spear and shield fighting.
+[P5-B-B0053-002] S=['GARRATH SHARPSWORD'] P=is member of O=['SARTARITES'] implicit=True ps="former Sartarite" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: A former Sartarite, he fled after the Lunars invaded that land.
+[P5-B-B0053-003] S=['GARRATH SHARPSWORD'] P=flees to O=[] MOD={"from": "Sartar"} implicit=True ps="fled" sug=flees to
+   Q: A former Sartarite, he fled after the Lunars invaded that land.
+[P5-B-B0053-004] S=['LUNAR EMPIRE'] P=fights O=['KINGDOM OF SARTAR'] implicit=True ps="invaded" sug=invades / raids
+   Q: A former Sartarite, he fled after the Lunars invaded that land.
+[P5-B-B0053-005] S=['GINKIZZIE'] P=rules O=['DWARFTOWN'] implicit=False ps="king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Ginkizzie was the king of Dwarftown when Dorasar arrived with his Sartar settlers.
+[P5-B-B0053-006] S=['DORASAR'] P=travels O=[] implicit=False ps="arrived" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Dorasar arrived with his Sartar settlers.
+[P5-B-B0053-007] S=['GINKIZZIE'] P=rules O=['DWARFS OF PAVIS'] implicit=False ps="king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Ginkizzie is still the high priest and king of the dwarfs and also serves as a Daughter of Pavis.
+[P5-B-B0053-008] S=['GINKIZZIE'] P=serves O=['PAVIS CULT'] implicit=True ps="serves as a Daughter of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Ginkizzie is still the high priest and king of the dwarfs and also serves as a Daughter of Pavis.
+[P5-B-B0053-009] S=['LUNAR ARMY'] P=travels O=[] MOD={"to": "Pavis"} implicit=False ps="came" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When the Lunar army came, the Flintnail cultists welcomed them as heartily as did the Pavis cultists
+[P5-B-B0053-010] S=['FLINTNAIL CULT'] P=serves O=['LUNAR ARMY'] implicit=True ps="welcomed" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: When the Lunar army came, the Flintnail cultists welcomed them as heartily as did the Pavis cultists
+[P5-B-B0053-011] S=['PAVIS CULT'] P=serves O=['LUNAR ARMY'] implicit=True ps="welcomed" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: When the Lunar army came, the Flintnail cultists welcomed them as heartily as did the Pavis cultists
+[P5-B-B0053-012] S=['FARMERS'] P=serves O=['ERNALDA'] implicit=False ps="love" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: All farmers love Ernalda; those of Pavis County typically worship Orlanth, those of Sun County Yelmalio.
+[P5-B-B0053-013] S=['FARMERS OF PAVIS COUNTY'] P=serves O=['ORLANTH'] implicit=True ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: those of Pavis County typically worship Orlanth, those of Sun County Yelmalio.
+[P5-B-B0053-014] S=['FARMERS OF SUN COUNTY'] P=serves O=['YELMALIO'] implicit=True ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: those of Pavis County typically worship Orlanth, those of Sun County Yelmalio.
+[P5-B-B0053-015] S=['GARHOUND FAMILY'] P=claims ancestry O=['DORASAR'] implicit=False ps="heirs of" sug=claims ancestry
+   Q: The Garhound Family view themselves as the heirs of Dorasar
+[P5-B-B0053-016] S=['GARHOUND FAMILY'] P=is member of O=['ORLANTH CULT'] implicit=True ps="influential in the cults of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: they are the main landowners in southern Pavis County, have much support amongst the rural farmers, and are influential in the cults of Orlanth and Ernalda.
+[P5-B-B0053-017] S=['GARHOUND FAMILY'] P=is member of O=['ERNALDA CULT'] implicit=True ps="influential in the cults of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: they are the main landowners in southern Pavis County, have much support amongst the rural farmers, and are influential in the cults of Orlanth and Ernalda.
+[P5-B-B0053-018] S=['FLEETER NEMM'] P=is member of O=['PAVIS CULT'] implicit=True ps="deputy High Priest of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The deputy High Priest of Pavis, Fleeter Nemm is Benderri's obvious successor as High Priest.
+[P5-B-B0053-019] S=['BROOSTA'] P=is spouse of O=['FLEETER NEMM'] implicit=True ps="wife" sug=is spouse of
+   Q: He is often accompanied by his wife Broosta, a fellow priest of Pavis and an initiate of Lhankor Mhy.
+[P5-B-B0053-020] S=['BROOSTA'] P=is member of O=['PAVIS CULT'] implicit=True ps="priest of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He is often accompanied by his wife Broosta, a fellow priest of Pavis and an initiate of Lhankor Mhy.
+[P5-B-B0053-021] S=['BROOSTA'] P=is member of O=['LHANKOR MHY CULT'] implicit=True ps="initiate of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He is often accompanied by his wife Broosta, a fellow priest of Pavis and an initiate of Lhankor Mhy.
+[P5-B-B0053-022] S=['RURIK RUNESPEAR'] P=is member of O=['YELMALIO CULT'] implicit=True ps="devout Yelmalio cultist" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Rurik is a devout Yelmalio cultist
+[P5-B-B0053-023] S=['RURIK RUNESPEAR'] P=kills O=['HERKAN QUICKSWORD'] MOD={"in_on_at": "Gimpy's"} implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: he killed Herkan Quicksword in Gimpy's.
+[P5-B-B0053-024] S=['DARKNESS'] P=kills O=['RURIK RUNESPEAR'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: It is rumored he is fated to be killed by Darkness.
+[P5-B-B0053-025] S=['RURIK RUNESPEAR'] P=pledges oath with O=['YELMALIO'] implicit=True ps="sworn an oath to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: He has sworn an oath to his god never to retreat from trolls or trollkin.
+[P5-B-B0053-026] S=['RURIK RUNESPEAR'] P=kills O=['GIANT OF THE GARDEN'] MOD={"using": "a bright arrow"} implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: He is famed for having killed the Giant of the Garden with a bright arrow.
+[P5-B-B0053-027] S=['RURIK RUNESPEAR'] P=enters Godtime / Otherworld O=[] MOD={"purpose_clause": "Hill of Gold heroquest"} implicit=True ps="go on" sug=enters Godtime / Otherworld
+   Q: Rurik intends to go on the Hill of Gold heroquest sometime soon.
+[P5-B-B0053-028] S=['ERNALDA'] P=bestows magic / gifts O=['ORLANTH'] implicit=False ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: the rich splendor that Ernalda gave Orlanth began to fade and dwindle.
+[P5-B-B0053-029] S=['ERNALDA'] P=is spouse of O=['ORLANTH'] implicit=True ps="husband" sug=is spouse of
+   Q: dear husband, because I know you honor kinship so much
+[P5-B-B0053-030] S=['DAGA'] P=is child of O=['MOLANNI'] implicit=False ps="son of" sug=is child of
+   Q: His name is Daga, and he is the son of Molanni, your niece.
+[P5-B-B0053-031] S=['DAGA'] P=wounds O=['WORLD'] implicit=False ps="drying my fields and starving" sug=wounds
+   Q: His name is Daga, and he is the son of Molanni, your niece. || Your kinsman is drying my fields and starving the world.
+[P5-B-B0053-032] S=['ORLANTH'] P=fights O=['BROTHERS OF ORLANTH'] implicit=True ps="fought with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: I have fought with my brothers already, and most of my nephews as well.
+[P5-B-B0053-033] S=['DAGA'] P=is child of O=['YELM'] implicit=False ps="father of" sug=is child of
+   Q: Yelm is the father of Daga, born to shameless Molanni.
+[P5-B-B0053-034] S=['DAGA'] P=is child of O=['MOLANNI'] implicit=False ps="born to" sug=is child of
+   Q: Yelm is the father of Daga, born to shameless Molanni.
+[P5-B-B0053-035] S=['MOLANNI'] P=is child of O=['VADRUS'] implicit=True ps="daughter of" sug=is child of
+   Q: Then I shall find my kinswoman, daughter of my brother Vadrus
+[P5-B-B0053-036] S=['VADRUS'] P=is sibling of O=['ORLANTH'] implicit=True ps="brother" sug=is sibling of
+   Q: daughter of my brother Vadrus
+[P5-B-B0053-037] S=['ORLANTH'] P=fights O=['DAGA'] implicit=False ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: And Orlanth went off, and he fought against Daga, and he was unable to win.
+[P5-B-B0053-038] S=['ORLANTH'] P=kills O=['AROKA'] implicit=True ps="killing" sug=one of: kills, shatters, dies
+   Q: Orlanth earned himself great honor by killing that terrible monster.
+[P5-B-B0053-039] S=['ORLANTH'] P=discovers O=['HELER'] implicit=True ps="found" sug=discovers
+   Q: Inside he found Heler, the God of Rain, who was his loyal friend afterwards.
+[P5-B-B0053-040] S=['HELER'] P=serves O=['ORLANTH'] implicit=True ps="loyal friend" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: who was his loyal friend afterwards.
+[P5-B-B0053-042] S=['ORLANTH'] P=defeats O=['DAGA'] implicit=True ps="banished" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: and Drought was banished for as long as Orlanth was amongst us.
+[P5-B-B0054-001] S=['WORSHIPERS OF BABEESTER GOR'] P=serves O=['BABEESTER GOR'] implicit=False ps="worshipers of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: worshipers of the Babeester Gor
+[P5-B-B0054-002] S=['CRIMSON BAT'] P=travels O=[] MOD={"to": "PRAX"} implicit=False ps="is coming" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the Crimson Bat is coming to Prax
+[P5-B-B0054-003] S=['PAVIS'] P=reveals O=['SECRET DOCUMENT'] implicit=False ps="written" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: This secret document was said to be written in Pavis's own hand.
+[P5-B-B0054-004] S=['ARMY OF CHAOS'] P=kills O=['GENERT', 'ALLIES OF GENERT'] MOD={"in_on_at": "GODS WAR"} implicit=False ps="destroyed" sug=shatters
+   Q: In the Gods War, the great Army of Chaos destroyed Genert and his allies.
+[P5-B-B0054-005] S=['GENERT', 'ALLIES OF GENERT'] P=transforms into O=['GORP'] implicit=True ps="were changed to" sug=transforms into
+   Q: Their bodies were changed to gorp
+[P5-B-B0054-006] S=['GENERT'] P=transforms into O=['REMNANTS OF HIS ARMY'] MOD={"to": "STINGING CLOUD OF COPPER"} implicit=False ps="turned into" sug=transforms into
+   Q: Genert turned the remnants of his army into a stinging cloud of copper
+[P5-B-B0054-007] S=['STINGING CLOUD OF COPPER'] P=protects O=['SURVIVORS'] implicit=False ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: a stinging cloud of copper which protected the survivors.
+[P5-B-B0054-008] S=['STORM BULL'] P=fights O=['WAKBOTH'] MOD={"in_on_at": "PRAX"} implicit=False ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: It was in Prax that the Storm Bull mustered his forces to fight Wakboth the Devil.
+[P5-B-B0054-009] S=['EARTH'] P=bestows magic / gifts O=['STORM BULL'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: the earth gave him her power
+[P5-B-B0054-010] S=['PIECE OF THE SPIKE'] P=strikes O=['WAKBOTH'] implicit=True ps="struck" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: A massive piece of the Spike crashed to earth and struck the Devil
+[P5-B-B0054-011] S=['EVIL MEN'] P=serves O=['CACODEMON', 'MALLIA'] implicit=False ps="have been worshiped by" sug=is worshipped by
+   Q: Chaotic demons such as Cacodemon and Mallia have been worshiped by evil men in the past
+[P5-B-B0054-012] S=['RED GODDESS'] P=is conflated with O=['DECEIVER'] implicit=False ps="is" sug=one of: is identified as, is worshipped by, is part of
+   Q: many Orlanthi fear that the Red Goddess is the Deceiver returned.
+[P5-B-B0054-013] S=['OGRES OF OGRE ISLAND'] P=manifests O=['CACODEMON'] MOD={"in_on_at": "RUBBLE"} implicit=False ps="summon" sug=summons / invokes
+   Q: ogres of Ogre Island are trying to summon the Chaos god Cacodemon at their temple in the Rubble.
+[P5-B-B0054-014] S=['RED GODDESS'] P=re-enacts O=['GBAJI'] MOD={"using": "CHAOS ARTIFACT"} implicit=True ps="complete Gbaji's triumph" sug=re-enacts
+   Q: with this artifact, they whisper, the Red Goddess can complete Gbaji's triumph.
+[P5-B-B0054-015] S=["DORASAR'S DISHTHANE"] P=claims ancestry O=['GEO'] implicit=True ps="was a descendent of" sug=claims ancestry
+   Q: a boon companion who was a descendent of Geo
+[P5-B-B0054-016] S=["DORASAR'S DISHTHANE"] P=marries O=['SISTER OF DESKAR GARHOUND'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: He married the sister of Deskar Garhound
+[P5-B-B0054-017] S=['GARHOUND CLAN'] P=serves O=['CULT OF GEO'] implicit=False ps="serves as the informal patrons of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Garhound clan now serves as the informal patrons of Geo's and its small cult of Sartar loyalists.
+[P5-B-B0054-018] S=['GOD LEARNERS'] P=travels O=[] MOD={"to": "FERODA", "purpose_clause": "to study the treasures looted from the giant cradles"} implicit=False ps="came" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: God Learner scholars came to Feroda to study the treasures looted from the giant cradles
+[P5-B-B0054-019] S=['GOD LEARNERS'] P=enchants O=['COLOSSAL STONE STATUE'] implicit=False ps="awakened" sug=awakens
+   Q: The God Learners awakened the colossal stone statue that once stood sentinel from atop the Right Defender
+[P5-B-B0054-020] S=['COLOSSAL STONE STATUE'] P=travels O=[] MOD={"to": "FERODA", "at_the_command_of": ["GOD LEARNERS"]} implicit=True ps="walk" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: ordered it to walk to Feroda and stand guard.
+[P5-B-B0054-021] S=['COLOSSUS'] P=shatters O=[] MOD={"in_on_at": "SUNDERING OF 1060"} implicit=False ps="was broken" sug=shatters
+   Q: the colossus was broken in the great Sundering of 1060.
+[P5-B-B0054-022] S=['GOD LEARNERS'] P=dedicates relic O=['EPHEMERIS MECHANISM'] MOD={"in_on_at": "CHAPTER HOUSE OF THE SCHOOL OF NEW ORDER"} implicit=True ps="placed" sug=dedicates relic
+   Q: The God Learners placed the mechanism in the chapter house of the School of New Order.
+[P5-B-B0054-023] S=['RENATUS AIMILIUS'] P=discovers O=['MAP OF FERODA'] implicit=False ps="acquired" sug=discovers
+   Q: the Lunar scholar Renatus Aimilius acquired a map showing the location of Feroda.
+[P5-B-B0054-024] S=['RENATUS AIMILIUS'] P=travels O=[] MOD={"to": "FERODA", "purpose_clause": "to unearth the Feroda Mechanism"} implicit=True ps="brought an expedition" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Renatus has brought an expedition to Feroda to unearth the Feroda Mechanism
+[P5-B-B0054-025] S=['RENATUS AIMILIUS'] P=serves O=['TATIUS THE BRIGHT'] implicit=True ps="patron" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: his patron Tatius the Bright.
+[P5-B-B0054-026] S=['GARRATH SHARPSWORD'] P=discovers O=["GOAL OF RENATUS'S EXPEDITION"] MOD={"via": ["LHANKOR MHY TEMPLE"]} implicit=True ps="learned about" sug=discovers
+   Q: Orlanthi priest Garrath Sharpsword has learned about the goal of Renatus's expedition.
+[P5-B-B0054-027] S=['FREKOR FIRMFARER'] P=serves O=['GARRATH SHARPSWORD'] implicit=True ps="associate" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: his associate Frekor Firmfarer
+[P5-B-B0054-028] S=['GOD LEARNERS'] P=challenges O=['GODS'] implicit=False ps="sought to challenge and supplant" sug=one of: challenges, breaks oath, betrays, fights
+   Q: there was a group of evil sorcerers called God Learners who sought to challenge and supplant the gods.
+[P5-B-B0054-029] S=['GOD LEARNERS'] P=steals O=['MAGICAL TREASURES'] MOD={"from": "CRADLES"} implicit=True ps="robbed" sug=steals
+   Q: they robbed the magical treasures from the cradles
+[P5-B-B0054-030] S=['ELDER GIANTS'] P=travels O=['BABIES OF ELDER GIANTS'] MOD={"via": ["RIVER OF CRADLES"]} implicit=False ps="floated" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the Elder Giants floated their babies down the River of Cradles.
+[P5-B-B0054-031] S=['GOD LEARNERS'] P=kills O=['BABIES OF ELDER GIANTS'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: the sorcerers killed the babies too.
+[P5-B-B0054-032] S=['GOD LEARNERS'] P=establishes cult O=['ROBCRADLE'] MOD={"in_on_at": "BIG RUBBLE"} implicit=False ps="founded" sug=founds
+   Q: the God Learners founded Robcradle in what is now the Big Rubble
+[P5-B-B0054-033] S=['GOD LEARNERS'] P=binds O=['GODS', 'SPIRITS'] MOD={"using": "ARTIFACTS FROM THE CRADLES"} implicit=True ps="enslave" sug=binds
+   Q: artifacts they used to enslave the gods and spirits.
+[P5-B-B0054-034] S=['RENATUS AIMILIUS'] P=discovers O=['MAP'] MOD={"from": "TREASURE TROVE HURBI"} implicit=True ps="got his hands on" sug=discovers
+   Q: some Lunar sorcerer named Renatus got his hands on a map from Treasure Trove Hurbi.
+[P5-B-B0054-035] S=['HURBI'] P=is born from O=[] MOD={"in_on_at": "BADSIDE"} implicit=False ps="was born in" sug=is born from
+   Q: Although Hurbi was born in Badside
+[P5-B-B0054-036] S=['PRIESTS OF LHANKOR MHY'] P=teaches O=['HURBI'] implicit=True ps="was educated by" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: he was educated by the priests of Lhankor Mhy
+[P5-B-B0054-037] S=['PRIESTS OF LHANKOR MHY'] P=serves O=['LHANKOR MHY'] implicit=False ps="priests of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: priests of Lhankor Mhy
+[P5-B-B0055-001] S=['ONE-EYED COLOSSUS'] P=protects O=['FERODA'] implicit=True ps="is guarded by" sug=one of: protects, rescues / frees, aids
+   Q: The port is guarded by an immense one-eyed colossus that can overpower even the mightiest monsters of Magasta.
+[P5-B-B0055-002] S=['ONE-EYED COLOSSUS'] P=defeats O=['MONSTERS OF MAGASTA'] implicit=False ps="can overpower" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: an immense one-eyed colossus that can overpower even the mightiest monsters of Magasta.
+[P5-B-B0055-003] S=['MONSTERS OF MAGASTA'] P=serves O=['MAGASTA'] implicit=False ps="of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: monsters of Magasta.
+[P5-B-B0055-004] S=['WIZARDS OF THE NEW ORDER SCHOOL'] P=steals O=['TREASURES OF THE ELDER GIANTS'] MOD={"in_on_at": "FERODA"} implicit=True ps="are gathered by" sug=steals
+   Q: Here the treasures of the Elder Giants are gathered by the wizards of the New Order School.
+[P5-B-B0055-005] S=['CELESTIAL ENGINE'] P=reveals O=['PLANETS', 'WANDERING STARS', 'GREAT CONSTELLATIONS', 'SUN'] MOD={"with_the_aid_of": ["SALOHKIN"]} implicit=True ps="showed the relationship of" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: When Salohkin moved the device it showed the relationship of the Planets, Wandering Stars, and Great Constellations with the Sun
+[P5-B-B0055-006] S=['CULT INITIATES OF ZOLA FEL'] P=pledges oath with O=['ZOLA FEL'] MOD={"purpose_clause": "TO AID"} implicit=True ps="swear an oath to aid" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: swear an oath to aid the Zola Fel
+[P5-B-B0055-007] S=['ZOLA FEL'] P=establishes cult O=[] MOD={"in_on_at": "FERODA"} implicit=False ps="temple to" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: the old temple to Zola Fel at Feroda
+[P5-B-B0055-008] S=['SKEELOS VAR'] P=sacrifices O=['YELMALIO'] implicit=True ps="being sacrificed to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: being sacrificed to Yelmalio.
+[P5-B-B0055-009] S=['ORLANTH'] P=manifests O=['STORM'] implicit=False ps="called" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Orlanth called the storm
+[P5-B-B0055-010] S=['ORLANTH'] P=travels O=['EVIL STORM'] MOD={"to": "BLESSED LAND"} implicit=False ps="brought" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Orlanth brought the evil storm to the Blessed Land
+[P5-B-B0055-011] S=['ORLANTH'] P=rules O=['EVIL STORM'] implicit=True ps="issued directions to" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He issued directions to the evil storm
+[P5-B-B0055-012] S=['ORLANTH'] P=steals O=['ERNALLDA'] implicit=True ps="took away" sug=steals
+   Q: He took away Queen Ernalda
+[P5-B-B0055-013] S=['ERNALLDA'] P=is child of O=['EARTH'] implicit=True ps="mother of" sug=is child of
+   Q: Queen Ernalda, the mother of the earth.
+[P5-B-B0055-014] S=['ORLANTH'] P=manifests O=['EVIL GALES'] implicit=True ps="called upon" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: He called upon the evil gales
+[P5-B-B0055-015] S=['YELMALIO'] P=kills O=["THREE OF THE ENEMY'S FRIENDS"] implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: In his righteous anger he slew three of the enemy's friends
+[P5-B-B0055-016] S=['YELMALIO'] P=is identified as O=['RIGHTEOUS ONE'] implicit=True ps="has suffered" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The righteous one has suffered greatly
+[P5-B-B0055-017] S=['YELMALIO'] P=manifests O=[] implicit=False ps="weeps" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Yelmalio who weeps
+[P5-B-B0055-018] S=['LITTLE SUN'] P=is alternative name for O=['YELMALIO'] implicit=True ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Little Sun
+[P5-B-B0055-019] S=['LITTLE SUN'] P=kills O=['THREE ENEMIES'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: the Little Sun killed three enemies
+[P5-B-B0055-020] S=['STORM GODS'] P=steals O=['WIFE OF THE LITTLE SUN'] implicit=True ps="was stolen by" sug=steals
+   Q: his wife was stolen by the storm gods
+[P5-B-B0055-021] S=['LITTLE SUN'] P=is spouse of O=['WIFE OF THE LITTLE SUN'] implicit=True ps="wife" sug=is spouse of
+   Q: his wife
+[P5-B-B0055-022] S=['YELMALIO CULTISTS'] P=re-enacts O=['THREE BLOWS OF ANGER OF THE LITTLE SUN'] implicit=True ps="enact" sug=re-enacts
+   Q: plans to enact the three blows of anger of the Little Sun.
+[P5-B-B0055-023] S=['ORLANTH'] P=marries O=['ERNALLDA'] implicit=True ps="Wooing of" sug=is spouse of (qual=wedding)
+   Q: Orlanth's Wooing of Ernalda
+[P5-B-B0055-024] S=['ERNALLDA'] P=serves O=['ORLANTH'] implicit=True ps="am" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: I need your aid for protection. || I am yours!
+[P5-B-B0055-025] S=['DEMONS', 'EVIL SORCERERS'] P=enchants O=['FERODA'] implicit=True ps="Built by" sug=crafts
+   Q: some evil place in the swamps west of the town. Built by demons and evil sorcerers, it was.
+[P5-B-B0055-026] S=['GOD LEARNERS'] P=establishes cult O=[] MOD={"in_on_at": "FERODA"} implicit=True ps="Temple" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: the God Learners Temple.
+[P5-B-B0055-027] S=['FOUR-FACED GOD'] P=manifests O=[] MOD={"using": ["MEASURING ROD", "SCISSORS"]} implicit=False ps="carrying" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: statue of a four-faced god carrying a measuring rod and scissors
+[P5-B-B0055-028] S=['ZOLA FEL'] P=establishes cult O=[] MOD={"in_on_at": "FERODA"} implicit=True ps="temple of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: the old temple of Zola Fel.
+[P5-B-B0056-001] S=['MALKIONERAN'] P=is alternative name for O=['INVISIBLE GOD'] MOD={"at_the_instigation_of": ["GOD LEARNERS"]} implicit=False ps="was a name the God Learners gave for" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Malkioneran was a name the God Learners gave for the Creator of Glorantha (also called the Invisible God).
+[P5-B-B0056-002] S=['INVISIBLE GOD'] P=is alternative name for O=['CREATOR OF GLORANTHA'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Creator of Glorantha (also called the Invisible God).

@@ -1,0 +1,300 @@
+[P5-A-B0153-026] S=['LORD OF LIFE AND DEATH'] P=is alternative name for O=['TOLAT'] implicit=False ps="Tolat, Lord of Life and Death" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: h Tolat, Lord of Life and Death
+[P5-A-B0153-027] S=['AMAZONS'] P=serves O=['TOLAT'] implicit=False ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The amazons worship Tolat, the Blood Red Planet.
+[P5-A-B0153-028] S=['BLOOD RED PLANET'] P=is alternative name for O=['TOLAT'] implicit=False ps="Tolat, the Blood Red Planet" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Tolat, the Blood Red Planet.
+[P5-A-B0153-029] S=['TOLAT'] P=bestows magic / gifts O=[] IO=['AMAZONS'] implicit=True ps="it is through him that the amazons reproduce" sug=one of: bestows, heals, imbues, teaches
+   Q: it is through him that the amazons reproduce.
+[P5-A-B0153-030] S=['AMAZONS'] P=pledges oath with O=['TOLAT'] MOD={"in_on_at": "TEMPLE OF UXORIAL ECSTASY"} implicit=True ps="the wedding vows are taken by" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: the wedding vows are taken by the residents and their god, who beds down with every amazon that night.
+[P5-A-B0153-031] S=['GACHI'] P=serves O=['ASHURTANS'] implicit=False ps="made them wretched serfs for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Closing sapped the spirit of the Gachi and made them wretched serfs for the Ashurtans.
+[P5-A-B0153-032] S=['CALYZ'] P=is identified as O=['FIRE OF MEN'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: CALYZ is the fire of men, the friendliest and most accessible of the forms.
+[P5-A-B0153-033] S=['CALYZ'] P=protects O=['METALWORKING', 'COOKING'] implicit=False ps="is the patron of" sug=one of: protects, rescues / frees, aids
+   Q: Calyz is the patron of both metalworking and cooking.
+[P5-A-B0153-034] S=['FURALOR'] P=is identified as O=['THE DESTROYER'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: FURALOR is the destroyer.
+[P5-A-B0153-035] S=['FURALOR'] P=swallows / consumes O=['SOULS'] implicit=True ps="to her goes" sug=swallows / consumes
+   Q: to her goes everything that disappears from this world including souls, rotten stuff, misplaced items, forgotten thoughts, and lost causes.
+[P5-A-B0153-036] S=['HARSTAR'] P=rules O=['MELIB'] implicit=False ps="has ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Harstar has ruled Melib for thirty years
+[P5-A-B0153-037] S=['ZARANISTANGI'] P=rules O=['MELIB'] implicit=False ps="Melib was the heart of the Zaranistangi Kingdom of Sechkaul" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the God's Age Melib was the heart of the Zaranistangi Kingdom of Sechkaul.
+[P5-A-B0153-038] S=['ZARANISTANGI'] P=is member of O=['ARTMALI'] implicit=False ps="were Artmali settlers" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Zaranistangi were Artmali settlers.
+[P5-A-B0153-039] S=['ASHURTANS'] P=kills O=['ZARANISTANGI'] MOD={"using": "TSUNAMI"} implicit=True ps="were drowned when the Ashurtans summoned a tsunami" sug=one of: kills, shatters, dies
+   Q: They were drowned when the Ashurtans, an exiled sky people, summoned a tsunami and claimed the island.
+[P5-A-B0153-040] S=['ASHURTANS'] P=rules O=['MELIB'] implicit=True ps="claimed" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Ashurtans, an exiled sky people, summoned a tsunami and claimed the island.
+[P5-A-B0153-041] S=['HISGORANSTOR OF GACH'] P=defeats O=['ASHURTAN RAIDING FLEETS'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="repelled" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Ashurtan raiding fleets menaced Teshnos, but Hisgoranstor of Gach repelled them.
+[P5-A-B0153-042] S=['HISGORANSTOR OF GACH'] P=defeats O=['ASHURTANS'] MOD={"in_on_at": "MELIB"} implicit=True ps="invaded Melib and made the Ashurtans his slaves" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He invaded Melib with the aid of an army and a navy from his homeland and made the Ashurtans his slaves.
+[P5-A-B0153-043] S=['HISGORANSTOR OF GACH'] P=challenges O=['ARTMALI'] implicit=True ps="unwisely mocked" sug=one of: challenges, breaks oath, betrays, fights
+   Q: But in the hour of his victory, Hisgoranstor unwisely mocked the longdead Artmali.
+[P5-A-B0153-044] S=['SHADES OF THE ZARANISTANGI'] P=defeats O=['INVASION FLEET OF HISGORANSTOR'] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="sinking" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: They exacted their revenge by sinking the invasion fleet at anchor, stranding the Gachi.
+[P5-A-B0153-045] S=['HISGORANSTOR OF GACH'] P=pledges oath with O=['GODS OF THE ARTMALI'] implicit=True ps="vowed that he and his people would worship" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: A humbled Hisgoranstor apologized for his slights and vowed that he and his people would worship the Gods of the Artmali as their own.
+[P5-A-B0153-046] S=['SHADES OF THE ZARANISTANGI'] P=bestows magic / gifts O=['LORE OF THE ZARANISTANGI'] IO=['GACHI'] implicit=True ps="shared their lore with" sug=one of: bestows, heals, imbues, teaches
+   Q: The appeased shades shared their lore with the Gachi.
+[P5-A-B0153-047] S=['ZARANISTANGI'] P=is alternative name for O=['GACHI'] implicit=False ps="are sometimes called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Because of this the Gachi are sometimes called the Zaranistangi.
+[P5-A-B0153-048] S=['GACHI'] P=serves O=['TOLAT'] implicit=False ps="is the main god of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: h Tolat is the main god of the Gachi.
+[P5-A-B0153-049] S=['DENGBALU'] P=dedicates relic O=["TOLAT'S SWORD"] MOD={"in_on_at": "TEMPLE OF THE SWORD"} implicit=True ps="founded it to hold" sug=dedicates relic
+   Q: Dengbalu, the first Zaranistangi king founded it to hold Tolat's Sword.
+[P5-A-B0153-050] S=['DENGBALU'] P=rules O=['ZARANISTANGI'] implicit=False ps="the first Zaranistangi king" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Dengbalu, the first Zaranistangi king
+[P5-A-B0153-051] S=["TOLAT'S SWORD"] P=survives as relic O=[] MOD={"in_on_at": "TEMPLE OF THE SWORD"} implicit=True ps="is still there" sug=survives as relic
+   Q: Tolat's Sword is still there.
+[P5-A-B0153-052] S=['GACHI'] P=serves O=['EMILLA', 'ARTMAL'] implicit=False ps="worshipped by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Other Zaranistangi deities worshipped by the Gachi are Emilla the Blue Moon, Artmal, and the adoptive ancestors of the Gachi.
+[P5-A-B0153-053] S=['BLUE MOON'] P=is alternative name for O=['EMILLA'] implicit=False ps="Emilla the Blue Moon" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Emilla the Blue Moon
+[P5-A-B0153-054] S=['GACHI'] P=sacrifices O=['HUMANS'] IO=['BLUE MOON'] implicit=False ps="sacrifice" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: the Ashurtans allege that the Gachi sacrifice humans to the Blue Moon.
+[P5-A-B0153-055] S=['TURVENOST'] P=challenges O=['SACRIFICES TO GODS AND GODDESSES'] implicit=False ps="attempted to stop" sug=one of: challenges, breaks oath, betrays, fights
+   Q: outsiders are advised to pray to Turvenost. || This Melibi King attempted to stop all sacrifices to gods and goddesses and was drowned for his pains.
+[P5-A-B0153-056] S=['TURVENOST'] P=rules O=['MELIB'] implicit=True ps="This Melibi King" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: outsiders are advised to pray to Turvenost. || This Melibi King
+[P5-A-B0153-057] S=['ASHURTANS'] P=departs from O=['HEAVEN'] implicit=False ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: The Ashurtans have no gods. They lost all contact when they left heaven.
+[P5-A-B0153-058] S=['JUGGERNAUT'] P=travels O=[] implicit=True ps="rolls over" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: It rolls over land, up hills and mountains, and even deep underwater.
+[P5-A-B0153-060] S=['ZARAMAKA'] P=is identified as O=['PRIMAL WATER'] implicit=False ps="Zaramaka, the Primal Water" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Zaramaka, the Primal Water that preceded Sramak's River.
+[P5-A-B0153-061] S=['DOOM CURRENTS'] P=travels O=[] MOD={"from": "SRAMAK'S RIVER", "to": "MAGASTA'S POOL"} implicit=False ps="flow from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Many of the oceans and seas have great currents, called doom currents, which flow from Sramak's River towards and around Magasta's Pool in the normal counter-clockwise direction.
+[P5-A-B0154-001] S=['JRUSTELA'] P=shatters O=['JRUSTELA'] implicit=False ps="was shattered into many pieces" sug=shatters
+   Q: the Jrustela itself was shattered into many pieces at the end of the Imperial Age.
+[P5-A-B0154-002] S=['ELDER RACES'] P=flees to O=[] MOD={"to": "JRUSTELA", "purpose_clause": "TO OBTAIN"} implicit=True ps="became a refugee for" sug=flees to
+   Q: The archipelago became a refugee for Elder Races seeking a haven free from humanity.
+[P5-A-B0154-003] S=['VADELI SAILORS'] P=travels O=[] MOD={"to": "JRUSTELA"} implicit=False ps="brought the Opening to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Vadeli sailors brought the Opening to Jrustela.
+[P5-A-B0154-004] S=['MALASPS'] P=is member of O=['MERFOLK'] implicit=False ps="are one of the two great kindred of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: MALASPS are one of the two great kindred of merfolk.
+[P5-A-B0154-005] S=['ZABDAMAR'] P=claims ancestry O=['KAHAR'] implicit=True ps="Their grandfather is" sug=claims ancestry
+   Q: Their grandfather is Kahar
+[P5-A-B0154-006] S=['ZABDAMAR'] P=claims ancestry O=['HARANTARA'] implicit=True ps="their grandmother" sug=claims ancestry
+   Q: their grandmother, Harantara the Dragon of the Deep
+[P5-A-B0154-007] S=['DRAGON OF THE DEEP'] P=is alternative name for O=['HARANTARA'] implicit=False ps="Harantara the Dragon of the Deep" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Harantara the Dragon of the Deep
+[P5-A-B0154-008] S=['KAHAR'] P=marries O=['HARANTARA'] implicit=False ps="wooing of" sug=is spouse of (qual=wedding)
+   Q: Kahar, a storm god whose wooing of their grandmother, Harantara the Dragon of the Deep, was a cause for the downfall of the old world.
+[P5-A-B0154-009] S=['MOSTALI'] P=rules O=['HUMAN CITIES OF SLON'] implicit=True ps="rule over" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They live underground of course, but rule over many human cities on the surface that are populated by slave descendants of Malkioni captured in the Storm Age.
+[P5-A-B0154-010] S=['HUMAN SLAVES OF SLON'] P=claims ancestry O=['MALKIONI'] implicit=True ps="slave descendants of" sug=claims ancestry
+   Q: populated by slave descendants of Malkioni captured in the Storm Age.
+[P5-A-B0154-011] S=['JASKALI'] P=serves O=['DINOSAURS'] implicit=False ps="worship" sug=is worshipped by
+   Q: Many tribes of primitive Jaskali peoples worship these dinosaurs as gods.
+[P5-A-B0154-012] S=['VADELI'] P=swallows / consumes O=['CHILDREN OF THE VADELI'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="eat their own children" sug=swallows / consumes
+   Q: they procreate through incest and eat their own children to achieve immortality.
+[P5-A-B0154-013] S=['VADELI'] P=challenges O=['MALKION'] implicit=True ps="deliberately defy the laws of" sug=one of: challenges, breaks oath, betrays, fights
+   Q: They are evil descendants who deliberately defy the laws of Malkion.
+[P5-A-B0154-014] S=['COMMONERS'] P=is alternative name for O=['BROWNS'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Browns, or Commoners, were the first and largest tribe.
+[P5-A-B0154-015] S=['WARRIORS'] P=is alternative name for O=['REDS'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The other tribes were the Reds, or Warriors, and the Blues, always the smallest of the three tribes.
+[P5-A-B0154-016] S=['VADELI'] P=shatters O=['DANMALASTAN'] implicit=False ps="destroyed the entire continent of" sug=shatters
+   Q: In prehistory the Vadeli attempted to take over the whole world and very nearly succeeded before they destroyed the entire continent of Danmalastan, leaving only Brithos where Zzabur himself resided.
+[P5-A-B0154-017] S=['REDS', 'BLUES'] P=descends into O=[] implicit=False ps="were all drowned" sug=dies
+   Q: The Reds and the Blues were all drowned in the massive cataclysm.
+[P5-A-B0154-018] S=['BROWNS'] P=flees to O=[] MOD={"to": "OLD VADELI ISLES"} implicit=False ps="found refuge on" sug=flees to
+   Q: A few dozen Browns survived and found refuge on the Old Vadeli Isles.
+[P5-A-B0154-019] S=['WHITE SEA'] P=is alternative name for O=['KENIRYAN SEA'] implicit=True ps="is also known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: It is also known as the White Sea, from the number of icebergs calved from Valind's Glacier.
+[P5-A-B0154-020] S=['ENDARALATH', 'ERMANTHVER'] P=fights O=['THE LAND'] implicit=False ps="wage relentless war against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Deep underneath live the gods Endaralath and Ermanthver who wage relentless war against the land.
+[P5-A-B0154-021] S=['ESTINGITOROX'] P=rules O=['DINISSO SEA'] implicit=True ps="ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: It is the center of the seas ruled by Estingitorox, a powerful ludoch merman.
+[P5-A-B0154-022] S=['ESTINGITOROX'] P=is member of O=['LUDOCH'] implicit=False ps="a powerful ludoch merman" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Estingitorox, a powerful ludoch merman.
+[P5-A-B0154-023] S=['MOTHER OF MONSTERS'] P=is child of O=['DINISSO'] implicit=False ps="is the mother of" sug=is child of
+   Q: Dinisso is the mother of a terrible creature called the Mother of Monsters.
+[P5-A-B0154-024] S=['TERTHINUS'] P=rules O=['HROARILLI'] implicit=False ps="led by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Hroarilli tribe of Malasp merfolk, led by the frightening demigod Terthinus, Voice of the Deep, live here.
+[P5-A-B0154-025] S=['HROARILLI'] P=is member of O=['MALASPS'] implicit=False ps="tribe of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Hroarilli tribe of Malasp merfolk
+[P5-A-B0154-026] S=['VOICE OF THE DEEP'] P=is alternative name for O=['TERTHINUS'] implicit=False ps="Terthinus, Voice of the Deep" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the frightening demigod Terthinus, Voice of the Deep
+[P5-A-B0154-027] S=['FLAURINE'] P=challenges O=['HROARILLI'] implicit=True ps="scoffed at their demands" sug=one of: challenges, breaks oath, betrays, fights
+   Q: The City of Flaurine in Umathela scoffed at their demands and was devastated.
+[P5-A-B0154-028] S=['ZABDAMAR'] P=claims ancestry O=['KAHAR'] implicit=True ps="was their ancestor" sug=claims ancestry
+   Q: for Kahar was their ancestor.
+[P5-A-B0154-029] S=['SEA OF FOG'] P=is alternative name for O=['KAHAR SEA'] implicit=False ps="Also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Also called the Sea of Fog, the KAHAR SEA is blanketed by fogs both natural and magical.
+[P5-A-B0154-030] S=['OCEAN OF TERROR'] P=is alternative name for O=['TOGARO OCEAN'] implicit=False ps="Also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Also called the Ocean of Terror, the TOGARO OCEAN was the first great body of water to invade the land.
+[P5-A-B0154-031] S=['TOGARO OCEAN'] P=fights O=['THE LAND'] implicit=False ps="invade" sug=invades / raids
+   Q: the TOGARO OCEAN was the first great body of water to invade the land.
+[P5-A-B0154-032] S=['MAGASTA'] P=rules O=['SEA GODS'] implicit=False ps="King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Magasta, King of the Sea Gods
+[P5-A-B0154-033] S=['THE CHURNER'] P=is alternative name for O=['MAGASTA'] implicit=False ps="Magasta the Churner" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: All sea creatures, great or small, owe their lives and deaths to Magasta the Churner.
+[P5-A-B0154-034] S=['MAGASTA'] P=embodies O=['THE MOVING FORCE OF LIFE IN THE WATERS'] implicit=True ps="is the moving force of life in the waters" sug=one of: embodies, has domain
+   Q: He is the moving force of life in the waters
+[P5-A-B0154-035] S=['THE GREAT WHIRLPOOL'] P=comes into being O=[] MOD={"in_on_at": "THE CENTER OF THE WORLD", "at_the_instigation_of": ["MAGASTA"], "purpose_clause": "TO THWART"} implicit=True ps="made" sug=conceives
+   Q: made the great whirlpool in the center of the world to destroy the stagnation.
+[P5-A-B0154-036] S=['MAGASTA'] P=rules O=['FAMILY OF MAGASTA'] implicit=False ps="directs" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: His vast family personifies the tremendous primal forces of the sea, but Magasta directs them.
+[P5-A-B0154-037] S=['MAGASTA', 'MINIONS OF MAGASTA'] P=rules O=['MUCH OF THE WORLD'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: During the Storm Age Magasta and his minions ruled much of the world.
+[P5-A-B0154-038] S=['THE FLOOD'] P=is identified as O=['RULE OF MAGASTA'] implicit=True ps="is widely remembered in human lore as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: His rule is widely remembered in human lore as the Flood.
+[P5-A-B0154-039] S=['MAGASTA'] P=defeats O=['JRUSTELA', 'SESHNELA', 'SLONTOS'] implicit=True ps="flooded" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: His last such conquests occurred at the end of the Imperial Age, when he flooded Jrustela, Seshnela, Slontos, and perhaps Brithos.
+[P5-A-B0154-040] S=['MAGASTA'] P=defeats O=['BRITHOS'] implicit=True ps="flooded" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: when he flooded Jrustela, Seshnela, Slontos, and perhaps Brithos.
+[P5-A-B0154-041] S=['MAGASTA'] P=reveals O=['SECRET FLOWS'] IO=['WORSHIPPERS OF MAGASTA'] implicit=False ps="makes their names and locations known to" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Magasta knows the name of every one of these secret flows, for they end in his pool, and he makes their names and locations known to his worshippers.
+[P5-A-B0154-042] S=["MAGASTA'S POOL"] P=swallows / consumes O=['MERFOLK'] implicit=True ps="are dissolved by" sug=swallows / consumes
+   Q: When they die, their minds, bodies and spirits are dissolved by Magasta's Pool before it reaches the unknowable primal waters.
+[P5-A-B0154-043] S=['TRITONS'] P=is child of O=['PHARGON'] implicit=False ps="is The father of" sug=is child of
+   Q: PHARGON is The father of Tritons
+[P5-A-B0154-044] S=['MERFOLK'] P=claims ancestry O=['PHARGON'] implicit=True ps="by extension, ancestor of" sug=claims ancestry
+   Q: by extension, ancestor of the merfolk.
+[P5-A-B0154-045] S=['DALIATH'] P=protects O=['DEEP WISDOM'] implicit=False ps="is the keeper of" sug=one of: protects, rescues / frees, aids
+   Q: DALIATH is the keeper of deep wisdom, a magical well of knowledge hidden at the bottom of the Ocean.
+[P5-A-B0154-046] S=['NELAT'] P=is child of O=['DALIATH'] implicit=True ps="his son" sug=is child of
+   Q: Those that seek to drink it must pass his son, Nelat, to be purified of all corruption.
+[P5-A-B0154-047] S=['DROSPOLY'] P=embodies O=['THE END OF ALL BEING'] implicit=False ps="is the cold and selfless end of all being" sug=one of: embodies, has domain
+   Q: DROSPOLY is the cold and selfless end of all being.
+[P5-A-B0154-048] S=['DROSPOLY'] P=swallows / consumes O=['EVERYTHING THAT FALLS INTO ITS MAW'] implicit=True ps="devours" sug=swallows / consumes
+   Q: It resides at the bottom of the ocean where the water is freezing cold, and devours everything that falls into its maw.
+[P5-A-B0154-049] S=['LORION'] P=defeats O=['THE HEAVENS'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: LORION is the sea that conquered the heavens in the Gods War.
+[P5-A-B0154-050] S=['MANTHI', 'NATEA'] P=rules O=['THE SEAS'] implicit=False ps="are king and queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: MANTHI and NATEA are king and queen of the seas, ruling the waves for their abysmal master, Magasta.
+[P5-A-B0154-051] S=['MANTHI', 'NATEA'] P=serves O=['MAGASTA'] implicit=True ps="ruling the waves for their abysmal master" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: ruling the waves for their abysmal master, Magasta.
+[P5-A-B0154-052] S=['EVERYTHING ALIVE IN THE OCEAN'] P=claims ancestry O=['TRIOLINA'] implicit=False ps="can claim her as an ancestress" sug=claims ancestry
+   Q: TRIOLINA is the mother of life and everything alive in the ocean can claim her as an ancestress.
+[P5-A-B0154-053] S=['TRIOLINA'] P=is member of O=['SEA DEITIES'] implicit=True ps="is one of the greatest sea deities" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: For this reason, she is one of the greatest sea deities.
+[P5-A-B0154-054] S=['DRY LAND'] P=comes into being O=[] MOD={"at_the_instigation_of": ["THE OCEAN"]} implicit=False ps="created" sug=conceives
+   Q: The ocean created dry land to provide it with food.
+[P5-A-B0154-055] S=['DRY GODS'] P=challenges O=['THE OCEAN'] implicit=True ps="revolted against their fate" sug=one of: challenges, breaks oath, betrays, fights
+   Q: But the DRY GODS revolted against their fate and brought about the Gods War.
+[P5-A-B0154-056] S=['FIVE COSMIC WARS'] P=shatters O=['VITHELA'] implicit=False ps="tore into many pieces" sug=shatters
+   Q: But five cosmic wars tore Vithela into many pieces.
+[P5-A-B0154-057] S=['VITH'] P=is identified as O=['HIGH GOD'] implicit=False ps="the High God Vith" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Vithalash is the largest piece of the old continent, home of the High God Vith.
+[P5-A-B0154-058] S=['OORSU SARA'] P=kills O=['EVERYONE WHO KNEW THE LOCATION OF THE DOOR TO VITHELA'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: the demon Oorsu Sara killed everyone who knew its location.
+[P5-A-B0154-059] S=['MASHUNASAN'] P=is identified as O=['GREATEST MYSTIC OF THE EAST ISLES'] implicit=False ps="The Greatest Mystic of the East Isles is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Greatest Mystic of the East Isles is Mashunasan
+[P5-A-B0154-060] S=['MASHUNASAN'] P=protects O=['THE COSMOS'] MOD={"purpose_clause": "TO THWART"} implicit=True ps="saved the Cosmos from utter degradation" sug=one of: protects, rescues / frees, aids
+   Q: whose learned powers saved the Cosmos from utter degradation at the hands of the demon Avanapdur.
+[P5-A-B0155-001] S=['PRINCE MERAN DURAV'] P=serves O=['HENSARAVA'] implicit=False ps="is a devotee of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Prince Meran Durav of Hanfarador is a devotee of Hensarava, the Great Bowman.
+[P5-A-B0155-002] S=['WAERTAGI'] P=pledges oath with O=['VORMAINO ÉMIGRÉS'] implicit=True ps="made an alliance with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: The Waertagi made an alliance with an army of VormainoVormaino émigrés
+[P5-A-B0155-003] S=['WAERTAGI'] P=fights O=['TAMANJARY'] MOD={"with_the_aid_of": ["VORMAINO ÉMIGRÉS"]} implicit=True ps="struck Tamanjary, sinking it" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Waertagi made an alliance with an army of VormainoVormaino émigrés and struck Tamanjary, sinking it with heavy losses.
+[P5-A-B0155-004] S=['GOD LEARNERS'] P=challenges O=['WAERTAGI'] implicit=False ps="challenged" sug=one of: challenges, breaks oath, betrays, fights
+   Q: the God Learners challenged the Waertagi in their home waters.
+[P5-A-B0155-005] S=['MOKATO'] P=rules O=['EASTERN SEAS'] implicit=False ps="was sole master of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: With Tamanjary gone, Mokato was sole master of the Entire Eastern Seas.
+[P5-A-B0155-006] S=['MEMB', 'FORNG'] P=serves O=['COURT OF THE GOLDEN BREATH'] MOD={"in_on_at": "MOKATO"} implicit=False ps="paid tribute to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Even Memb and Forng paid tribute to the court of the Golden Breath in Mokato.
+[P5-A-B0155-007] S=['HOBIMARONG'] P=bestows geas O=['MOKATANS'] implicit=False ps="ordering the Mokatans to renounce their Empire and never leave their isle" sug=one of: bestows geas, curses
+   Q: When the Closing struck the Eastern Isles Hobimarong spoke again, ordering the Mokatans to renounce their Empire and never leave their isle
+[P5-A-B0155-008] S=['THE CLOSING'] P=strikes O=['EASTERN ISLES'] implicit=False ps="struck" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: When the Closing struck the Eastern Isles
+[P5-A-B0155-009] S=['MOKATANS'] P=protects O=['EASTERN ISLES'] implicit=True ps="saved from destruction" sug=one of: protects, rescues / frees, aids
+   Q: by their sacrifice, they saved the Eastern Isles from destruction.
+[P5-A-B0155-010] S=['SSHORG SEA'] P=shatters O=['KEETELA'] implicit=False ps="destroyed" sug=shatters
+   Q: Their original home was Keetela, destroyed by the Sshorg Sea during the Gods War.
+[P5-A-B0155-011] S=['KEETS'] P=fights O=['MERFOLK'] implicit=False ps="conflicts with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Keets were driven to the East Isles after conflicts with the merfolk.
+[P5-A-B0155-012] S=['KEETS'] P=flees to O=['EAST ISLES'] implicit=False ps="were driven to" sug=flees to
+   Q: The Keets were driven to the East Isles after conflicts with the merfolk.
+[P5-A-B0155-013] S=['RATUKI'] P=is member of O=['SHARK-HSUNCHEN'] implicit=False ps="race of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The vicious Ratuki race of Shark-Hsunchen infests the northern East Isles.
+[P5-A-B0155-014] S=['ISLAND BEAST'] P=is alternative name for O=['LEVIATHAN'] implicit=False ps="the Leviathan, the Island Beast" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: their base is the Leviathan, the Island Beast.
+[P5-A-B0155-015] S=['RATUKI'] P=binds O=['LEVIATHAN'] implicit=True ps="enslaved" sug=binds
+   Q: The Ratuki enslaved the Beast and steer it by commanding sharks to bite at its flippers.
+[P5-A-B0155-016] S=['VORMAIN'] P=departs from O=['THE WORLD'] implicit=True ps="isolated itself from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Even as early as the Gods War, it isolated itself from the world and forbade all visits by foreigners.
+[P5-A-B0155-017] S=['PIRATICAL WORSHIPPERS OF TSANKTH'] P=serves O=['TSANKTH'] implicit=False ps="worshippers of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Piratical worshippers of the barracuda-like Tsankth
+[P5-A-B0155-018] S=['WARRIOR-NOBLES OF THE HINTER ISLES'] P=serves O=['TELASK'] implicit=False ps="Telask-worshipping" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Telask-worshipping warrior-nobles of the Hinter Isles
+[P5-A-B0155-019] S=['VORMAINO'] P=rules O=['EAST ISLES'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="carved out a large empire in" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: To keep everybody away, the Vormaino carved out a large empire in the East Isles.
+[P5-A-B0155-020] S=['COMMONERS OF THE HINTER ISLES'] P=serves O=['VORMAIN WARRIORS'] implicit=True ps="give sincere service and tribute to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They give sincere service and tribute to the Vormain warriors who have ruled over them for centuries.
+[P5-A-B0155-021] S=['SOLDIERS AND GOVERNORS OF THE HINTER ISLES'] P=departs from O=['VORMAIN'] implicit=True ps="are all exiles, forbidden to return to" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: The soldiers and governors of these isles are all exiles, forbidden to return to Vormain upon pain of death.
+[P5-A-B0155-022] S=['KRALORELA'] P=travels O=[] MOD={"to": "VORMAIN"} implicit=False ps="has sent, and lost, many expeditions to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Kralorela has sent, and lost, many expeditions to Vormain.
+[P5-A-B0155-023] S=['FEN WATHA TOO'] P=travels O=[] MOD={"from": "UNDERWORLD", "purpose_clause": "to give all his lovers one last kiss"} implicit=False ps="traveled from the underworld" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Fen Watha Too, a great poet who traveled from the underworld to give all his lovers one last kiss after trying to visit Vormain.
+[P5-A-B0155-024] S=['KUANG BRANG'] P=travels O=[] MOD={"in_on_at": "VORMAIN", "using": "BIRD MACHINE"} implicit=False ps="flew over" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Kuang Brang, who flew over Vormain in his bird machine.
+[P5-A-B0155-025] S=['RAZOR WASPS'] P=wounds O=['KUANG BRANG'] implicit=True ps="died of razor wasp wounds" sug=wounds
+   Q: Before he could report anything, he died of razor wasp wounds.
+[P5-A-B0155-026] S=['HANDAL FAARMAN'] P=is member of O=['GOD LEARNERS'] implicit=False ps="a god learner" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Handal Faarman, a god learner surnamed the Invisible Tanisoran
+[P5-A-B0155-027] S=['THE INVISIBLE TANISORAN'] P=is alternative name for O=['HANDAL FAARMAN'] implicit=False ps="surnamed" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Handal Faarman, a god learner surnamed the Invisible Tanisoran
+[P5-A-B0155-028] S=['THE ANCIENT FATHER'] P=is alternative name for O=['VITH'] implicit=False ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: VITH is the Ancient Father
+[P5-A-B0155-029] S=['VITH'] P=rules O=['THE WORLD'] implicit=False ps="ruled wisely" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: VITH is the Ancient Father, who ruled wisely during the High Gods Age when the world was still being made.
+[P5-A-B0155-030] S=['MOST POWERFUL RACES OF THE WORLD'] P=is child of O=['VITH'] implicit=True ps="is the father of" sug=is child of
+   Q: He is the father of the most powerful races of the world.
+[P5-A-B0155-031] S=['VITH'] P=departs from O=['HIS PALACES'] MOD={"to": "FARTHEST EAST OF THE WORLD"} implicit=False ps="departed his palaces and riches and retired" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: At the end of the High Gods Age Vith departed his palaces and riches and retired to live with just his two wives in the farthest east of the world.
+[P5-A-B0155-032] S=['THE BRIGHT MOTHER'] P=is alternative name for O=['LARALOORI'] implicit=False ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: LARALOORI is the Bright Mother
+[P5-A-B0155-033] S=['GODS'] P=is child of O=['LARALOORI'] implicit=False ps="progenitrix of" sug=is child of
+   Q: LARALOORI is the Bright Mother, progenitrix of the gods
+[P5-A-B0155-034] S=['LARALOORI'] P=is spouse of O=['VITH'] implicit=False ps="the wife who sits at the right hand of" sug=is spouse of
+   Q: LARALOORI is the Bright Mother, progenitrix of the gods, and the wife who sits at the right hand of Vith.
+[P5-A-B0155-035] S=['LARALOORI'] P=manifests O=['STARS'] implicit=True ps="the stars are her thoughts" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Her home is in the sky, the stars are her thoughts.
+[P5-A-B0155-036] S=['CHILDREN OF LARALOORI'] P=embodies O=['UNCHANGEABLE PRINCIPLES OF THE UNIVERSE'] implicit=True ps="manifest" sug=one of: embodies, has domain
+   Q: All of her children are immortal and manifest the unchangeable principles of the universe
+[P5-A-B0155-037] S=['THE DARK MOTHER'] P=is alternative name for O=['GEBKERAN'] implicit=False ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: GEBKERAN is the Dark Mother, progenitrix of the Antigods.
+[P5-A-B0155-038] S=['ANTIGODS'] P=is child of O=['GEBKERAN'] implicit=False ps="progenitrix of" sug=is child of
+   Q: GEBKERAN is the Dark Mother, progenitrix of the Antigods.
+[P5-A-B0155-039] S=['YOTHENARA'] P=is identified as O=['GODDESS OF LOVE'] implicit=False ps="is the Vithelan Goddess of Love" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: YOTHENARA is the Vithelan Goddess of Love.
+[P5-A-B0155-040] S=['MOTHER OF LIFE'] P=is alternative name for O=['YOTHENARA'] implicit=True ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She is the Mother of Life
+[P5-A-B0155-041] S=['VITHELAN LIFE'] P=is born from O=['YOTHENARA'] implicit=True ps="filled the world with" sug=is born from
+   Q: with multitude of forms of her husband as creatures of nature she filled the world with the profuse forms of Vithelan life.
+[P5-A-B0155-042] S=['GOVMERANEN'] P=is child of O=['YOTHENARA'] implicit=True ps="is the mother of" sug=is child of
+   Q: She is also the mother of Govmeranen.
+[P5-A-B0155-043] S=['THE GREAT BOWMAN'] P=is alternative name for O=['HENSARAVA'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: HENSARAVA is called the Great Bowman
+[P5-A-B0155-044] S=['HENSARAVA'] P=protects O=['HEAVENS'] implicit=False ps="protected the heavens from many foes" sug=one of: protects, rescues / frees, aids
+   Q: HENSARAVA is called the Great Bowman and protected the heavens from many foes.
+[P5-A-B0155-045] S=['AKORGAT'] P=defeats O=['HENSARAVA'] implicit=True ps="defeated in battle" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He was defeated in battle by Akorgat and driven away in shame.
+[P5-A-B0155-046] S=['DARJA DANAG'] P=teaches O=['HENSARAVA'] implicit=True ps="studied with" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He then studied with Darja Danag
+[P5-A-B0155-047] S=['HENSARAVA'] P=kills O=['AKORGAT'] MOD={"in_on_at": "HEAVENS"} implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: after obtaining the bolt, he returned to the heavens and slew Akorgat and cleansed the sky world.
+[P5-A-B0155-048] S=['HENSARAVA'] P=becomes celestial body O=['CONSTELLATION OF THE BOWMAN'] implicit=False ps="is visible in the night sky as" sug=becomes celestial body
+   Q: Hensarava is visible in the night sky as the great constellation of the Bowman.
+[P5-A-B0155-049] S=['KARKAL'] P=is identified as O=['GOD OF FIRE'] implicit=False ps="is God of Fire and the oldest god of war" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: KARKAL is God of Fire and the oldest god of war
+[P5-A-B0155-050] S=['HUMANS'] P=serves O=['KARKAL'] MOD={"in_on_at": "VITHELA"} implicit=False ps="worshipped extensively" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: KARKAL is God of Fire and the oldest god of war, worshipped extensively throughout Vithela by humans.
+[P5-A-B0155-051] S=['LORD OF BURNING', 'FRIEND OF HUMANS'] P=is alternative name for O=['KARKAL'] implicit=True ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He is called Lord of Burning and Friend of Humans.
+[P5-A-B0155-052] S=['KARKAL'] P=bestows magic / gifts O=['HUMANS'] implicit=False ps="allowed to tame fire" sug=one of: bestows, heals, imbues, teaches
+   Q: Karkal favors human beings, whom he allowed to tame fire, leaving the other mortal races in the cold.
+[P5-A-B0155-053] S=['KARKAL'] P=defeats O=['DEMONS', 'ANTIGODS'] implicit=False ps="has often led their armies to defeat hordes of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Karkal is also one of the bravest war gods of the Vithelan gods, and has often led their armies to defeat hordes of demons and antigods.
+[P5-A-B0155-054] S=['KARKAL'] P=is child of O=['VITH', 'LARALOORI'] implicit=True ps="is a son of" sug=is child of
+   Q: He is a son of Vith and Laraloori.
+[P5-A-B0155-055] S=['LUMAVOXORAN'] P=protects O=['HARAGALA'] implicit=False ps="is the patron god of" sug=one of: protects, rescues / frees, aids
+   Q: LUMAVOXORAN is the patron god of Haragala.

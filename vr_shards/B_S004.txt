@@ -1,0 +1,300 @@
+[P5-B-B0010-053] S=['HRESNSENESO'] P=binds O=['SSHORG'] implicit=False ps="forced" sug=binds
+   Q: Jesolo's companions empowered the goddess Hresnseneso, who forced Sshorg to release its power against Fozeranto, which disappeared underwater.
+[P5-B-B0010-054] S=['SSHORG'] P=shatters O=['FOZERANTO'] MOD={"at_the_command_of": ["HRESNSENESO"]} implicit=False ps="release its power against" sug=shatters
+   Q: Jesolo's companions empowered the goddess Hresnseneso, who forced Sshorg to release its power against Fozeranto, which disappeared underwater.
+[P5-B-B0011-001] S=['URNVORETH THE RED'] P=is identified as O=['GOD OF THE RED PLANET'] implicit=False ps="god of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Urnvoreth the Red, the war god of the city and god of the Red Planet.
+[P5-B-B0011-002] S=['NATIVES OF VATOLAGORINOR'] P=serves O=['THIRT'] implicit=True ps="god is" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Their god is Thirt.
+[P5-B-B0011-003] S=['VELDRU'] P=is identified as O=['WIND GOD'] implicit=False ps="Wind God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: This sacred mountain on Opi Island is home to the god Veldru. Sacrifices are made to the Wind God here
+[P5-B-B0011-004] S=['BEAUTIFUL DYNASTY OF CHUREN'] P=fights O=['PARROT KEETS'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="nearly exterminated" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: They were nearly exterminated in the God Time by the Beautiful Dynasty of Churen, who sought their feathers
+[P5-B-B0011-005] S=['FIRE PARROTS'] P=protects O=['PARROT KEETS'] implicit=True ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: were at last saved by the Fire Parrots
+[P5-B-B0011-006] S=['FIRE PARROTS'] P=defeats O=['BEAUTIFUL DYNASTY OF CHUREN'] implicit=True ps="drove away" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the Fire Parrots, who drove away the invaders
+[P5-B-B0011-007] S=['SEA EAGLE DYNASTY'] P=serves O=['AVANAPUR'] implicit=False ps="followed" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: In the Chaos Age, the Sea Eagle Dynasty widely followed Avanapur
+[P5-B-B0011-008] S=['ZZABUR'] P=shatters O=['THARKARN'] MOD={"using": ["the Blast", "the Break"]} implicit=False ps="tried to destroy" sug=shatters
+   Q: Zzabur and his sorcerers tried to destroy Tharkarn with the Blast and the Break
+[P5-B-B0011-009] S=['MOSTALI'] P=fights O=['MONSTERS'] implicit=False ps="fighting" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Mostali could concentrate on fighting the monsters inside.
+[P5-B-B0011-010] S=['INVISIBLE GOD'] P=bestows magic / gifts O=['JRUSTELI'] implicit=True ps="revealed" sug=reveals
+   Q: the new knowledge and magic revealed by the Invisible God.
+[P5-B-B0011-011] S=['ALDRYAMI OF VRALOS'] P=fights O=['COLONISTS IN UMATHELA'] implicit=False ps="hard-pressed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the colonists in Umathela who were hard-pressed by the Aldryami of Vralos.
+[P5-B-B0011-012] S=['WAERTAGI'] P=rules O=['SEAS'] MOD={"from": "Dawn"} implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Waertagi had ruled the seas since the Dawn and controlled all overseas commerce.
+[P5-B-B0011-013] S=['WAERTAGI'] P=shatters O=['FLEETS'] implicit=False ps="destroyed" sug=shatters
+   Q: when people had built ships and set off to sea, the Waertagi destroyed their fledgling fleets
+[P5-B-B0011-014] S=['TRYMIR'] P=claims ancestry O=['NRALAR THE OLD'] implicit=False ps="descendant of" sug=claims ancestry
+   Q: a descendant of Nralar the Old named Trymir
+[P5-B-B0011-015] S=['ARMY OF RIGHTNESS'] P=fights O=["ARKAT'S DARK EMPIRE"] implicit=False ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: led the Army of Rightness back to Seshnela aboard Waertagi ships. They liberated Seshnela from the Pendali and fought against Arkat's Dark Empire.
+[P5-B-B0011-016] S=['DROSPOLY'] P=is identified as O=['GOD OF THE DEEPEST WATERS'] implicit=False ps="god of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Drospoly, the god of the deepest waters who is the cold end of all being.
+[P5-B-B0011-017] S=['TANIAN'] P=is identified as O=['GOD OF SKY WATER'] implicit=False ps="god of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the god of Sky Water, Tanian.
+[P5-B-B0011-018] S=['TANIAN'] P=is child of O=['FATHER OF THE SEA GOD'] implicit=True ps="child" sug=is child of
+   Q: commanded the father to summon a different child – the god of Sky Water, Tanian.
+[P5-B-B0011-019] S=['TANIAN'] P=shatters O=['WAERTAGI SHIPS'] MOD={"at_the_command_of": ["JRUSTELI SORCERERS"]} implicit=True ps="were destroyed" sug=shatters
+   Q: Upon the command of the sorcerers, the Sky opened and a single drop of celestial fire fell among the Waertagi ships. || ships, mermen, waves, and waterspouts all impossibly caught fire and were destroyed.
+[P5-B-B0011-020] S=['JRUSTELI SORCERERS'] P=fights O=['DARK EMPIRE OF RALIOS'] implicit=False ps="fighting against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Jrusteli sorcerers fighting against the Dark Empire of Ralios
+[P5-B-B0011-021] S=['JRUSTELI SORCERERS'] P=steals O=['ARKAT'] implicit=False ps="steal the Heroquesting secrets of" sug=steals
+   Q: Jrusteli sorcerers fighting against the Dark Empire of Ralios sought to steal the Heroquesting secrets of Arkat.
+[P5-B-B0011-022] S=['GILLAM DE ESTAU'] P=defeats O=['KRALORELA'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the adventurer Gillam De Estau and his Immanent Mastery School conquered Kralorela and he ruled as the Emperor of the New Dragon Empire.
+[P5-B-B0011-023] S=['SVAGAD'] P=rules O=['SESHNELA'] implicit=False ps="named Emperor of Land and Sea" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: King Svagad of Seshnela was named Emperor of Land and Sea
+[P5-B-B0011-024] S=['MIDDLE SEA EMPIRE'] P=defeats O=['SLONTOS', 'LOSKALM'] MOD={"with_the_aid_of": ["GOD LEARNERS"]} implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: With the aid of the God Learners, the Middle Sea Empire quickly conquered Slontos and Loskalm.
+[P5-B-B0011-025] S=['GOD LEARNERS'] P=enters Godtime / Otherworld O=['OTHERWORLD'] implicit=False ps="treated the Otherworld" sug=enters Godtime / Otherworld
+   Q: the God Learners eventually treated the Otherworld with arrogant disdain
+[P5-B-B0011-026] S=['FEN FERU'] P=travels O=[] MOD={"from": "Jrustela", "to": "Seshnela"} implicit=False ps="went back and forth" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Fen Feru and his flying band went back and forth several times between Jrustela and Seshnela
+[P5-B-B0011-027] S=['LUATHANS'] P=shatters O=['GOD LEARNERS'] implicit=False ps="utterly destroyed" sug=shatters
+   Q: In 1050, Jrustela was sunk, presumably by the Luathans, and the civilization of the God Learners utterly destroyed.
+[P5-B-B0011-028] S=['ELVES', 'TROLLS', 'DWARVES'] P=pledges oath with O=['ELVES', 'TROLLS', 'DWARVES'] implicit=False ps="Peace remained between" sug=makes peace with
+   Q: Peace remained between the elves, trolls, and dwarves
+[P5-B-B0011-029] S=['KYGER LITOR', 'ALDRYA', 'MOSTAL'] P=protects O=['ELDER RACES'] implicit=True ps="provided the answers needed" sug=one of: protects, rescues / frees, aids
+   Q: The cults of Kyger Litor, Aldrya, and the Way of Mostal provided the answers needed
+[P5-B-B0012-001] S=['SLONTAN IMMIGRANTS'] P=comes into being O=['ARSHU PHOLA'] implicit=True ps="founded" sug=founds
+   Q: It is the oldest city on the island, founded by Slontan immigrants brought there in the Dawn Ages.
+[P5-B-B0012-002] S=['WAERTAGI'] P=binds O=['SLONTAN IMMIGRANTS'] implicit=True ps="captured" sug=binds
+   Q: The inhabitants variously claimed they went there because they were captured by the Waertagi,
+[P5-B-B0012-003] S=['WAERTAGI'] P=protects O=['SLONTAN IMMIGRANTS'] implicit=True ps="rescued" sug=rescues / frees
+   Q: were exiled by enemies and rescued by the Waertagi,
+[P5-B-B0012-004] S=['DREO'] P=fights O=['SETTLEMENTS OF ARSHU PHOLA'] implicit=True ps="troubled" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: At that time they were all troubled by the spirits of the land, called the Dreo.
+[P5-B-B0012-005] S=['BENGEN TIMINITS', 'MEDRADEN TIMINITS'] P=fights O=['PEOPLE'] implicit=False ps="attacked" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The bengen and medraden timinits also attacked people who went into certain fields.
+[P5-B-B0012-006] S=['SERGALIS MANLANTH'] P=rules O=['ARSHU PHOLA'] implicit=False ps="was the leader of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: At that time Sergalis Manlanth was the leader of Arshu Phola,
+[P5-B-B0012-007] S=['FOUR SETTLEMENTS'] P=fights O=['ARSHU PHOLA'] implicit=False ps="massed against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When the other four settlements massed against Arshu Phola,
+[P5-B-B0012-008] S=['SERGALIS MANLANTH'] P=descends into O=['CAVE OF NEMATH'] implicit=False ps="entered" sug=one of: descends into, dies
+   Q: Sergalis Manlanth entered the nearby Cave of Nemath
+[P5-B-B0012-009] S=['SERGALIS MANLANTH'] P=pledges oath with O=['DREO'] MOD={"in_on_at": "CAVE OF NEMATH"} implicit=False ps="placated" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Sergalis Manlanth entered the nearby Cave of Nemath and placated the Dreo spirits there.
+[P5-B-B0012-010] S=['OLODO'] P=travels O=['IRENSTOS'] implicit=False ps="settled" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Irenstos was a city originally settled by the Olodo.
+[P5-B-B0012-011] S=['DARANGOR'] P=teaches O=['STUDENTS'] implicit=False ps="attracted" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Darangor was a famous scholar who attracted students from across the island,
+[P5-B-B0012-012] S=['JALANS'] P=claims ancestry O=['NRALAR THE OLD'] implicit=False ps="was a grandson of" sug=claims ancestry
+   Q: Jalans was a grandson of Nralar the Old, and thus of royal blood.
+[P5-B-B0012-013] S=['SETTLERS OF JALANSWAL'] P=departs from O=['SESHNELA'] implicit=True ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Outsiders say that they left Seshnela because they could do nothing well,
+[P5-B-B0012-014] S=['GOD LEARNERS'] P=establishes cult O=['RELIGIONS'] implicit=False ps="put in place" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: the religions put in place by the God Learners fell into disuse,
+[P5-B-B0012-015] S=['RED RAVAAL'] P=rules O=['KUMANKU ISLANDS'] implicit=False ps="governor of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Red Ravaal: The Kareeshtan governor of the Kumanku Islands.
+[P5-B-B0012-016] S=['RED RAVAAL'] P=protects O=['SEA EAGLE CROWN'] implicit=True ps="retains" sug=one of: protects, rescues / frees, aids
+   Q: he retains the Sea Eagle Crown, an ancient artifact of powerful magic.
+[P5-B-B0012-017] S=['PEOPLE OF THINOBUTU'] P=travels O=['KUMANKU ISLANDS'] MOD={"from": "THINOBUTU"} implicit=True ps="colonized" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In the First Age, these islands were colonized by people from the mythical city of Thinobutu.
+[P5-B-B0012-018] S=['KUMANKANS'] P=serves O=['MIDDLE SEA EMPIRE'] implicit=True ps="became vassals of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: In the Second Age, the inoffensive inhabitants became vassals of the Middle Sea Empire,
+[P5-B-B0012-019] S=['VADELI'] P=is identified as O=['GOD LEARNERS'] implicit=False ps="pretended to be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Vadeli sailors pretended to be the God Learners returned
+[P5-B-B0012-020] S=['VADELI'] P=rules O=['KUMANKANS'] implicit=False ps="instituted a government over" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Vadeli sailors pretended to be the God Learners returned and instituted a government over the bemused Kumankans.
+[P5-B-B0012-021] S=['KAREESHTU'] P=fights O=['VADELI'] implicit=False ps="warred against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: fleets from Kareeshtu warred against the Vadeli.
+[P5-B-B0012-022] S=['KAREESHTANS'] P=defeats O=['KUMANKANS'] implicit=False ps="conquer" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the Kareeshtans proceeded to conquer the Kumankans themselves.
+[P5-B-B0012-023] S=['KUMANKAN CLANS'] P=pledges oath with O=['KAREESHTU'] implicit=True ps="have sworn allegiance to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: most clans have sworn allegiance to Kareeshtu since 1602.
+[P5-B-B0012-024] S=['XARS SHUNG'] P=travels O=[] MOD={"from": "FONRIT"} implicit=False ps="stormed ashore" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When Xars Shung of Fonrit stormed ashore with 8000 trained soldiers
+[P5-B-B0012-025] S=['CREATURES OF ZIS'] P=kills O=['XARS SHUNG'] implicit=True ps="annihilated" sug=one of: kills, shatters, dies
+   Q: they were harassed by a motley assortment of creatures which, without plan or formation, fought fanatically until the invaders were annihilated.
+[P5-B-B0012-026] S=['FRIENDLIES'] P=serves O=['DWARVES OF SLON'] implicit=True ps="are slaves of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Inside the Wall live civilized human workers called Friendlies || They are slaves of the dwarves.
+[P5-B-B0012-027] S=['DWARVES OF SLON'] P=teaches O=['FRIENDLIES'] implicit=True ps="taught technical skills" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Some slaves are taught technical skills by the dwarves, such as smithing.
+[P5-B-B0012-028] S=['MOSTALI OF THAKARN'] P=comes into being O=['SOMALZ'] implicit=False ps="raised" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: This was Somalz, raised by the Mostali of Thakarn during the Storm Age.
+[P5-B-B0012-029] S=['DWARVES OF SOMALZ'] P=fights O=['DINOSAURS', 'GIANTS'] implicit=True ps="fighting off" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In the God Time, the dwarves held out here in force, fighting off the dinosaurs and giants.
+[P5-B-B0012-030] S=['DWARVES OF THAKARN', 'DWARVES OF SOMALZ'] P=protects O=['THE WORLD'] implicit=False ps="drew the world back together" sug=one of: protects, rescues / frees, aids
+   Q: When the Spike collapsed and the world broke, the dwarves of Thakarn and Somalz drew the world back together enough so that repairs could be made to the World Machine.
+[P5-B-B0012-031] S=['ODENDVA GOLDEN DIAMOND DWARF'] P=binds O=['HUMANS OF SLON'] implicit=True ps="tamed" sug=binds
+   Q: Before the First Age, a dwarf innovator called Odendva Golden Diamond Dwarf the Heretic first tamed the native humans and taught them to work.
+[P5-B-B0012-032] S=['ODENDVA GOLDEN DIAMOND DWARF'] P=teaches O=['HUMANS OF SLON'] implicit=True ps="taught them to work" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Before the First Age, a dwarf innovator called Odendva Golden Diamond Dwarf the Heretic first tamed the native humans and taught them to work.
+[P5-B-B0012-033] S=['NIDAN DECAMONY', 'SLON DECAMONY'] P=rules O=['THE UNIVERSE'] implicit=False ps="divided up" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the Second Age, the dwarves announced that the Nidan Decamony of Genertela and the Slon Decamony divided up the universe.
+[P5-B-B0012-034] S=['UNDETECTABLE DEITY OF TELEOS'] P=protects O=['TELEOS PEOPLE'] implicit=False ps="helping" sug=one of: protects, rescues / frees, aids
+   Q: discovered a nearly undetectable deity who was inciting and helping the Teleos people.
+[P5-B-B0012-035] S=['JRUSTELI'] P=discovers O=['UNDETECTABLE DEITY OF TELEOS'] implicit=False ps="discovered" sug=discovers
+   Q: Pirate activity ended when a group of Jrusteli prepared a new magic and, with it, discovered a nearly undetectable deity who was inciting and helping the Teleos people.
+[P5-B-B0012-036] S=['JRUSTELI'] P=transforms into O=['UNDETECTABLE DEITY OF TELEOS'] implicit=True ps="forced it into butterfly shape" sug=transforms into
+   Q: They went deep within the volcanic island and forced it into butterfly shape, then captured it.
+[P5-B-B0012-037] S=['JRUSTELI'] P=binds O=['UNDETECTABLE DEITY OF TELEOS'] implicit=True ps="captured" sug=binds
+   Q: They went deep within the volcanic island and forced it into butterfly shape, then captured it.
+[P5-B-B0012-038] S=['DORMAL'] P=travels O=[] MOD={"via": ["HOMEWARD OCEAN"]} implicit=False ps="circumnavigation" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Although uncelebrated, probably unrealized by the participants, the circumnavigation of the Homeward Ocean begun by Dormal had become complete.
+[P5-B-B0012-039] S=['VADELI EMPIRE'] P=defeats O=['THE WEST'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: They are shattered remnants of the God Time Vadeli Empire which conquered much of the West during the Gods War.
+[P5-B-B0012-040] S=['VADELI'] P=defeats O=['UMATHELA'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: After the Opening of the Oceans, the immortal Vadeli built several ports in the Jrusteli archipelago and conquered most of coastal Umathela and much of Fonrit.
+[P5-B-B0012-041] S=['VADELI'] P=defeats O=['FONRIT'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: After the Opening of the Oceans, the immortal Vadeli built several ports in the Jrusteli archipelago and conquered most of coastal Umathela and much of Fonrit.
+[P5-B-B0012-042] S=['VADELI'] P=is sibling of O=['BRITHINI'] implicit=True ps="closely related" sug=is sibling of
+   Q: Like the Brithini (to which they are closely related),
+[P5-B-B0012-043] S=['RED VADELI'] P=kills O=[] implicit=False ps="were exterminated" sug=one of: kills, shatters, dies
+   Q: The Red Vadeli were exterminated before the Great Darkness and reappeared during the Closing.
+[P5-B-B0012-044] S=['BLUE VADELI'] P=is member of O=['VADELI'] implicit=False ps="were the wizard caste of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Blue Vadeli were the wizard caste of the Vadeli,
+[P5-B-B0012-045] S=['BLUE VADELI'] P=challenges O=['ZZABUR'] implicit=True ps="rivaled" sug=one of: challenges, breaks oath, betrays, fights
+   Q: and their power rivaled that of Zzabur himself in the Gods War.
+[P5-B-B0012-046] S=['VADELI'] P=claims ancestry O=['MALKION'] implicit=False ps="descended from" sug=claims ancestry
+   Q: Despite being descended from Malkion, the Vadeli reject Malkion's laws utterly
+[P5-B-B0012-047] S=['VADELI'] P=challenges O=['MALKION'] implicit=False ps="reject" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Despite being descended from Malkion, the Vadeli reject Malkion's laws utterly
+[P5-B-B0013-001] S=['VADELI'] P=is child of O=['VADEL'] implicit=False ps="children of" sug=is child of
+   Q: This land was inhabited by a people called the Vadeli, the children of the demigod Vadel
+[P5-B-B0013-002] S=['VADEL'] P=is child of O=['VIMORN', 'VADELA'] implicit=False ps="son of" sug=is child of
+   Q: the demigod Vadel, son of Vimorn and the goddess Vadela.
+[P5-B-B0013-003] S=['VADEL'] P=steals O=['SECRETS'] IO=['MOSTALI OF THARKARN'] implicit=True ps="stole" sug=steals
+   Q: He befriended the Mostali of Tharkarn and stole their secrets
+[P5-B-B0013-004] S=['VADELI'] P=fights O=['MALKIONI'] implicit=False ps="attacked" sug=invades / raids
+   Q: The Vadeli betrayed their fellow Malkioni and attacked them without warning.
+[P5-B-B0013-005] S=['VADELI'] P=defeats O=['TADENITI'] MOD={"with_the_aid_of": ["MOSTALI"]} implicit=False ps="destroyed" sug=shatters
+   Q: With their dwarf allies the Vadeli destroyed the Tadeniti
+[P5-B-B0013-006] S=['VADELI'] P=defeats O=['KACHISTI'] MOD={"with_the_aid_of": ["MOSTALI"]} implicit=True ps="destroyed the cities of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: With the aid of the Mostali, they destroyed the cities of the Kachisti
+[P5-B-B0013-007] S=['VADELI'] P=defeats O=['KADENITI'] implicit=True ps="conquered" sug=conquers
+   Q: They conquered the Kadeniti
+[P5-B-B0013-008] S=['VADELI'] P=fights O=['ENROLVALINI'] implicit=False ps="warred against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Finally, the Vadeli warred against the Enrolvalini
+[P5-B-B0013-009] S=['VADELI'] P=establishes cult O=['CHAOS GODS'] MOD={"purpose_clause": "to gain power"} implicit=True ps="worshiped" sug=is worshipped by
+   Q: They worshiped Chaos gods to gain power
+[P5-B-B0013-010] S=['VADELI'] P=defeats O=['ZERENDEL'] implicit=True ps="seized" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: seized Zerendel
+[P5-B-B0013-011] S=['VADELI'] P=defeats O=['TALARWAL'] implicit=True ps="sacked" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: sacked Talarwal.
+[P5-B-B0013-012] S=['ZZABUR'] P=rules O=['ENROLVALINI'] implicit=False ps="led" sug=leads
+   Q: Finally Zzabur, the First Sorcerer, led the surviving Enrolvalini
+[P5-B-B0013-013] S=['ZZABUR'] P=shatters O=['LANDS OF THE VADELI'] implicit=False ps="sank" sug=shatters
+   Q: Zzabur sank the lands of the Vadeli
+[P5-B-B0013-014] S=['DORMAL'] P=travels O=[] MOD={"to": "VADELI ISLES"} implicit=True ps="visited" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He visited the Vadeli Isles
+[P5-B-B0013-015] S=['DORMAL'] P=discovers O=['RED VADELI ISLES'] implicit=False ps="discovered" sug=discovers
+   Q: Dormal discovered the volcanic Red Vadeli Isles
+[P5-B-B0013-016] S=['DORMAL'] P=discovers O=['BRITHOS'] implicit=True ps="found that Brithos had vanished" sug=discovers
+   Q: He also found that Brithos had vanished from the face of the earth.
+[P5-B-B0013-017] S=['DORMAL'] P=departs from O=[] implicit=True ps="departed" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: He departed westwards and never returned.
+[P5-B-B0013-018] S=['VADELI'] P=defeats O=['KINGDOM OF LOGIC'] implicit=False ps="conquered" sug=conquers
+   Q: those Vadeli sorcerers who conquered the Kingdom of Logic
+[P5-B-B0013-019] S=['VADELI'] P=fights O=['ZZABUR'] implicit=True ps="nearly defeated" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: nearly defeated Zzabur himself.
+[P5-B-B0013-020] S=['BRITHINI'] P=defeats O=['VADELI'] implicit=True ps="decimated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the first was decimated by the Brithini,
+[P5-B-B0013-021] S=['ZZABUR'] P=kills O=['VADELI'] implicit=True ps="eliminated" sug=one of: kills, shatters, dies
+   Q: Zzabur eliminated the second,
+[P5-B-B0013-022] S=['RED VADELI'] P=claims ancestry O=['RED MOON'] implicit=True ps="descended from" sug=claims ancestry
+   Q: Lhankor Mhy sages fear that they descended from the Red Moon.
+[P5-B-B0013-023] S=['DORMAL'] P=enchants O=['OCEANS'] implicit=True ps="opened" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: When the seas were opened again by Dormal the Sailor
+[P5-B-B0013-024] S=['HRESTOL'] P=travels O=[] MOD={"to": "VADELI ISLES"} implicit=False ps="retired in" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Vadeli claim that the great Malkioni Hero Hrestol himself retired in the Vadeli Isles.
+[P5-B-B0013-026] S=['HRESTOL'] P=flees to O=[] MOD={"from": "BRITHOS"} implicit=False ps="was forced to flee" sug=flees to
+   Q: After Hrestol went to Brithos, he was forced to flee.
+[P5-B-B0013-028] S=['FORNALS'] P=is child of O=['HRESTOL'] implicit=True ps="son of" sug=is child of
+   Q: founded by his son Fornals.
+[P5-B-B0013-029] S=['AIGNOR THE TRADER'] P=is child of O=['FORNALS'] implicit=False ps="son" sug=is child of
+   Q: accepted Fornals' son Aignor the Trader as his heir.
+[P5-B-B0013-030] S=['BERTALOR'] P=serves O=['AIGNOR THE TRADER'] implicit=False ps="accepted ... as his heir" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Serpent King Bertalor of Seshnela (reigned 73-89) acknowledged it as truth and accepted Fornals' son Aignor the Trader as his heir.
+[P5-B-B0013-031] S=['AIGNOR THE TRADER'] P=marries O=['SESHNA'] implicit=True ps="mated with" sug=is spouse of (qual=wedding)
+   Q: Aignor mated with the goddess Seshna,
+[P5-B-B0013-032] S=['SONMALOS'] P=is child of O=['AIGNOR THE TRADER', 'SESHNA'] implicit=True ps="son" sug=is child of
+   Q: and their son, the snake-legged Sonmalos, became the fifth Sacred Lord of Seshnela.
+[P5-B-B0013-033] S=['SONMALOS'] P=has hybrid form O=[] implicit=False ps="snake-legged" sug=has anomalous form (qual=hybrid)
+   Q: the snake-legged Sonmalos
+[P5-B-B0013-034] S=['TSANKTH'] P=has hybrid form O=[] implicit=False ps="barracuda-like" sug=has anomalous form (qual=hybrid)
+   Q: worshipers of the barracuda-like Tsankth
+[P5-B-B0013-035] S=['VORMAINO'] P=claims ancestry O=['JOSERUI'] implicit=True ps="ancestral entities were" sug=claims ancestry
+   Q: Their ancestral entities were the Joserui, now worshiped as the gods of Vormain.
+[P5-B-B0013-036] S=['VORMAINO'] P=claims ancestry O=['JOSERUI'] implicit=False ps="ancestors of" sug=claims ancestry
+   Q: The Joserui are the celestial gods of Vormain, and ancestors of the Vormaino.
+[P5-B-B0013-037] S=['VALZAIN'] P=is member of O=['JOSERUI'] implicit=False ps="include" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Joserui include: Valzain: The Emperor God
+[P5-B-B0013-038] S=['VALZAIN'] P=rules O=[] MOD={"in_on_at": "VORMAIN"} implicit=True ps="guide" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He was appointed to guide Vormain in the God Time
+[P5-B-B0013-039] S=['TELASK'] P=defeats O=['OUTSIDERS'] implicit=False ps="drove off" sug=exiles / banishes
+   Q: Telask drove off the outsiders,
+[P5-B-B0013-040] S=['TELASK'] P=transforms into O=[] implicit=True ps="turned corpse blue" sug=transforms into
+   Q: and he turned corpse blue when he swallowed all their poisons.
+[P5-B-B0013-041] S=['TELASK'] P=swallows / consumes O=['POISONS'] IO=['OUTSIDERS'] implicit=True ps="swallowed" sug=swallows / consumes
+   Q: when he swallowed all their poisons.
+[P5-B-B0013-042] S=['TSANKTH'] P=embodies O=['RAPACITY', 'PIRACY'] implicit=False ps="God of" sug=one of: embodies, has domain
+   Q: Tsankth: God of Rapacity and Piracy.
+[P5-B-B0013-043] S=['VIJAYA'] P=embodies O=['SUN'] implicit=False ps="Goddess of" sug=one of: embodies, has domain
+   Q: Vijaya: Golden Goddess of the Sun.
+[P5-B-B0013-044] S=['VIJAYA'] P=marries O=['FOUNDER OF THE NINETEENTH IMPERIAL HOUSE'] implicit=True ps="taken mortal lovers" sug=is spouse of (qual=wedding)
+   Q: This goddess of rebirth and renewal has taken mortal lovers, most notably the founder of the Nineteenth Imperial House.
+[P5-B-B0013-045] S=['ZAKTIRRA'] P=serves O=['JOSERUI'] implicit=True ps="serves" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: This god is an evil sorcerer who serves the gods by sending out curses for them.
+[P5-B-B0013-046] S=['EZDALI'] P=challenges O=['JOSERUI'] implicit=False ps="tried to tempt" sug=one of: challenges, breaks oath, betrays, fights
+   Q: In the Gods Age, the Ezdali, a race of Underworld demonic beings, tried to tempt the Joserui,
+[P5-B-B0013-047] S=['MASTER OF THE EZDALI'] P=kills O=['EZDALI'] implicit=True ps="burnt alive" sug=one of: kills, shatters, dies
+   Q: were burnt alive by their evil master for failing to corrupt them,
+[P5-B-B0013-048] S=['FOSHAN'] P=serves O=['EZDALI'] implicit=False ps="served by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Ezdali are served by demons and monsters, such as the FoShan and the Andin.
+[P5-B-B0013-049] S=['ANDIN'] P=serves O=['EZDALI'] implicit=False ps="served by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Ezdali are served by demons and monsters, such as the FoShan and the Andin.
+[P5-B-B0013-050] S=['JENJU'] P=defeats O=['CHA VELOLA'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Jenju the Father of the Parts and the Center defeated Cha Velola
+[P5-B-B0013-051] S=['JENJU'] P=marries O=['NALA'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: and married Nala the Creatrix,
+[P5-B-B0013-052] S=['ELDEST-PRESENT GODS'] P=is born from O=['JENJU', 'NALA'] implicit=True ps="giving birth to" sug=is born from
+   Q: giving birth to the Eldest-Present Gods,
+[P5-B-B0013-053] S=['HARANTARA'] P=is member of O=['ELDEST-PRESENT GODS'] implicit=True ps="included" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: included Angen, Esdaru, Hangyanth, Harantara, Ivaro, Oktani, Osdero, and Palachath.
+[P5-B-B0013-054] S=['OSDERO'] P=is member of O=['ELDEST-PRESENT GODS'] implicit=True ps="included" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: included Angen, Esdaru, Hangyanth, Harantara, Ivaro, Oktani, Osdero, and Palachath.
+[P5-B-B0013-055] S=['NAK', 'ANTIGODS OF NAK'] P=kills O=['OSDERO'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Nak and his antigods killed Osdero
+[P5-B-B0013-056] S=['NAK', 'ANTIGODS OF NAK'] P=shatters O=['IMPERIAL-ONE-LANDS'] implicit=True ps="flooded" sug=shatters
+   Q: and flooded most of the Imperial-One-Lands.
+[P5-B-B0013-057] S=['MASHUNASAN'] P=alters mythic station O=['VALZAIN'] implicit=False ps="appointed" sug=appoints
+   Q: Mashunasan the Great Mystic appointed the Joserui Valzain to
+[P5-B-B0014-001] S=['ARCHER PRINCE'] P=travels O=[] MOD={"to": "THE HEAVENS"} implicit=False ps="sailed into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Archer Prince, || sailed into the heavens to cleanse the Sky World.
+[P5-B-B0014-002] S=['ARCHER PRINCE'] P=bestows magic / gifts O=['DIAMOND BOLT'] implicit=False ps="wielded" sug=one of: bestows, heals, imbues, teaches
+   Q: Archer Prince, who wielded the Diamond Bolt
+[P5-B-B0014-003] S=['KOLMALA HIN MADO'] P=rules O=['AUGUST-RISE DYNASTY'] implicit=False ps="founded" sug=founds
+   Q: Kolmala Hin Mado founded the August-Rise Dynasty,
+[P5-B-B0014-004] S=['STINKING DYNASTY'] P=is alternative name for O=['AUGUST-RISE DYNASTY'] implicit=False ps="later called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: August-Rise Dynasty, later called the Stinking Dynasty.
+[P5-B-B0014-005] S=['KOLMALA HIN MADO'] P=rules O=['PURE LANDS'] implicit=False ps="was Lord of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Kolmala Hin Mado || was Lord of the Pure Lands
+[P5-B-B0014-006] S=['KOLMALA HIN MADO'] P=protects O=['TWENTY-TWO DISTRICTS OF VORMAIN'] implicit=True ps="reversed the flooding and raised up" sug=one of: protects, rescues / frees, aids
+   Q: He even reversed the flooding and raised up the Twenty-Two Districts of Vormain.
+[P5-B-B0014-007] S=['ENRONO THE SAGE'] P=serves O=['KOLMALA HIN MADO'] implicit=False ps="was a counselor of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Enrono the Sage was a counselor of Kolmala Hin Mado.
+[P5-B-B0014-008] S=['ENRONO THE SAGE'] P=teaches O=[] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He achieved Perfect Stillness and taught that the ultimate could be achieved by being perfect for the task of living right and well with all the universe.
+[P5-B-B0014-009] S=['KOLMALA JAN DARU'] P=rules O=['AUGUST-RISE DYNASTY'] implicit=True ps="was the Bad Emperor and the last emperor of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Kolmala Jan Daru was the Bad Emperor and the last emperor of the dynasty.
+[P5-B-B0014-010] S=['KOLMALA JAN DARU'] P=establishes cult O=['FORTY-TWO HIDDEN TEMPLES'] implicit=True ps="led to the founding of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: His anger and injustice led to the founding of the Forty-Two Hidden Temples
+[P5-B-B0014-011] S=['JOSERUI'] P=shatters O=['EASTERN HEAVENS'] implicit=False ps="cast down" sug=shatters
+   Q: Kolmala Jan Daru's lack of virtue angered the other Joserui and they cast down part of the Eastern Heavens in wrath.
+[P5-B-B0014-012] S=['CHURANPUR THE DEMON ISLAND'] P=is identified as O=['SKY'] implicit=False ps="was revealed to be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the discarded part of the Sky was revealed to be Churanpur the Demon Island,
+[P5-B-B0014-013] S=['DEMONS OF CHURANPUR'] P=descends into O=[] MOD={"from": "HEAVENS"} implicit=True ps="fell from" sug=one of: descends into, dies
+   Q: demons that fell from the heavens
+[P5-B-B0014-014] S=['FOSHAN'] P=fights O=['ATROCITY WAR'] implicit=False ps="launched" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The FoShan launched the Atrocity War.
+[P5-B-B0014-015] S=['JANADI'] P=rules O=['DEMONS'] implicit=False ps="King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Janadi, King of the Demons.
+[P5-B-B0014-016] S=['JANADI'] P=travels O=[] MOD={"from": "SORTUM"} implicit=True ps="led his armies out of" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He led his armies out of Sortum,
+[P5-B-B0014-017] S=['MASTER ENRONO'] P=defeats O=['DEMONS'] implicit=False ps="drove off" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Master Enrono successfully drove off the demons.

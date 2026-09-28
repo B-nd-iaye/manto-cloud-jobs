@@ -1,0 +1,110 @@
+### TP:00231 | TP | p.94 | RuneQuest
+FIGURES: DEHORE, XIOLA UMBAR, ZARAMAKA, ZORAK ZORAN
+TEXT: o , RuneQuest XIOLA UMBAR I. MYTHOS AND HISTORY The goddess Xiola Umbar is of unnamed parentage, though she is definitely a deity of darkness. She is always referred to as the sister of Zorak Zoran. Their association has been long and constant, and early (pre-Lesser Dark) prayers mention them together if they are mentioned at all. The earliest tales of her healing and life-giving aspect occur even before Death entered into the world. At this early time, Zorak Zoran was labelled her 'shadow' – even in the lightless underworld. She aided Dehore, the Dark One to become the Dehori, the many shades. She aided at the birth of Styx and Zaramaka, becoming midwife to the waters of the world. In the Gods War, Zorak Zoran grew in strength, personality, and power, and Xiola Umbar followed in his footsteps, undoing some of the troubles that Zorak Zoran created. Once she opposed him, when she saved the goblin race, but she never favored any true foe of the troll wargod. When chaos came, Xiola Umbar stood by her brother, healing and aiding him to keep him fit, even at her own expense.
+TARGETS: heals
+
+### TP:00234 | TP | p.96 | RuneQuest
+FIGURES: XIOLA UMBAR
+TEXT: The terms Chief Priestess and High Priestess are used normally. Xiola Umbar is worshipped wherever trolls are found, though sometimes her cult is small. She is also worshipped by many humans throughout the world, often as a secondary deity. She is the traditional god of the weak and oppressed. There is no central stronghold of worship for her. The holiest place for this cult is in the Underworld, a fountain called Mirrordark, said to be where Xiola Umbar meditated and found her powers to cure. The holy days of Xiola Umbar vary with the season. The holy day always falls upon Harmony week, and the day always matches the seasonal element: Waterday of Sea season, Fireday of Fire season, Clayday of Earth season, Freezeday of Dark season, and Windsday of Storm season. The cult High Holy Day consists of the entire Fertility week of Dark season. The climactic ceremonies fall upon Freezeday.
+TARGETS: heals
+
+### TP:00238 | TP | p.98 | ZORAK ZORAN
+FIGURES: EURMAL, FLAMAL, HUMAKT, KYGER LITOR, ORLANTH, XIOLA UMBAR, YELMALIO, ZORAK ZORAN
+TEXT: ZORAK ZORAN I. MYTHOS AND HISTORY Zorak Zoran was a god of Darkness, little-noted in early myths where he is, at best, mentioned as attending his sister, Xiola Umbar, or his friend, Kyger Litor. He is known to have taken some trolls to wife during Godtime and fathered some Mistress Race dynasties, but many gods did that. Zorak Zoran came into his own when Death was discovered within the depths of the Underworld. Zorak Zoran was watching, and conceived a passions for the "new power" which Eurmal stole for his friend, Humakt. Zorak Zoran followed this power like a shadow as it passed from hand to hand until he saw and seized the opportunity which made his name known throughout the heavens. Seizing Death as his own, he cut down Flamal, a god most beloved by all the world. That act worsened the Lesser Darkness by bringing on the Great Hunger as well. In the Darkness he fought and wounded Yelmalio, son of the Sun, and stole his Fire powers for his own cult. Later he feuded with Orlanth as well, and their fight made that air god decide to rescue the Sun and try to reassert the Gods Age.
+TARGETS: hates / fears
+
+### TP:00247 | TP | p.112 | ELDEST KIN – the ruling elite of any troll
+FIGURES: ARKAT, CRAGSPIDER, FLAMAL, GASH, GORE, KROPA, KYGER LITOR, LODRIL, SUBERE, XIOLA UMBAR, ZORAK ZORAN
+TEXT: 112 ELDEST KIN – the ruling elite of any troll community. Those in Dagori Inkarth are probably the most powerful trolls in Genertela. ERISTI [eh-RIST-ee] THE DOUBTER – troll living in Wonder-home who later came to the surface. FLAMAL [FLAY-mul] – god of seeds and growing plants, slain by Zorak Zoran. GARAZAF HYLORIC [gar-ah-ZAFF high-LORE-ik] – troll who healed Arkat and worshipped Kyger Litor, Xiola Umbar, and Subere. GBAJI [g'BAH-ji] – chaos god who cursed trolls. Slain by Arkat. GADBLAD [GAD-blad] THE SMITH – troll demigod of crafts and metalworking. Friend to Lodril. GASH – famous warrior troll, brother to Gore. GENERT [GEN-urt] – god of Surface World, slain in Great Darkness by chaos. GERAK KAG [GEHR-ack KAG] – troll hero, conqueror of Pavis. He was famed for his miraculous leaping ability. GORAKIKI [GORE-ah-KEE-ki] – god of Insects. Ancestor of all insects and child of Kropa. GODTIME – the period before time. This phenomena is also called Dreamtime, or Gods Age nontime and is often referred to in heroic chronicles as the magic place or Godworld. GORE – famous warrior troll, brother of Gash. GREAT COMPROMISE – agreement between all gods to share the universe equally. GREAT HUNGER – period of starvation in Darkness caused by death of Flamal. GREAT HUNTER – initiates of Hunter cult who have proven their ability in the Great Hunt. GREAT TROLLS – large trolls accidentally created by Cragspider in an attempt to break the Trollkin Curse. GREATER DARKNESS – a period of Godtime after chaos came. GREY LANDS – Arkat's name for Shadowlands. GREY HILLS OF DREAD – site of the I Fought We Won battle. GUHAN [GOO-hahn] – troll queendom in Ralios. HALIKIV [HAL-i-keev] – troll queendom near Ralios.
+TARGETS: dies; heals; curses; hunts
+
+### TP:00250 | TP | p.113 | RuneQuest
+FIGURES: ARGAN ARGAR, BELINTAR, BRASTALOS, GBAJI, GRANDFATHER MORTAL, KYGER LITOR, PAMALT, ROBBER, XIOLA UMBAR, YELM
+TEXT: RuneQuest KYGERLITH [KYE-ger-lith] – potent stone images of Kyger Litor brought from Wonderhome by trolls. The most imposing is in the Castle of Lead. KYGER LITOR [KYE-ger LEE-tor] – ancestral goddess of all trolls, and the basis for troll social systems. LARNSTE'S GATE – another name for Dragon Pass. LESSER DARKNESS – the period of Godtime after Yelm was slain, but before Chaos arrived. LODRIL [LO-dril] – volcano god, and god of heat and lava in the underworld. LORD LURKER IN SHADOWS – powerful Dehori spirit. MAGASTA [ma-GAST-uh] – important sea deity. Head of oceanic pantheon, owner of Robber and husband of Brastalos. MAN TROLLS – alternative name for dark trolls. MEE VORALA [MEE vor-AHL-uh] – goddess of Dark Plants. Mother of rusts, molds, dark elves, and fungi. MIRRORDARK – the holy fountain where Xiola Umbar found her healing powers. MISTRESS RACE – the rarely-seen revered ancestors of the trolls. They are much larger, stronger, and more magical than their descendants, the Dark Trolls. MOLOKKA [mol-OK-kuh] – Mother of Molluscs. God of all clams, octopi, snails, and other molluscs. MOORGARKI [moor-GAR-ki] – mistress troll who invaded Pamaltela and was defeated by Pamalt. Founder of hot trolls. NAXILI GARANG [nack-SEE-li garANG] – mistress race troll who attempted to break the Trollkin Curse and failed, resulting in the birth of multiple trollkin. NEBUCHAXA [neh-boo-CHAH-kha] – important battle between dwarves and trolls which destroyed troll strength in Fronela. NYSALOR [NIGH-suh-lore] – Another name for Gbaji. OLD MAN – Grandfather Mortal, father to all humanoid races. ONLY OLD ONE – regent of Argan Argar and ruler of Shadowlands before the coming of the Pharoah, Belintar. PAMALT [puh-MAWLT] – deity of surface world and lord of Pamaltela.
+TARGETS: heals; curses
+
+### TP:00251 | TP | p.113 | PERIPATI [pehr-ih-PAT-i] – grey worms
+FIGURES: BINA BANG, BOZTAKANG, GBAJI, KARRG, KORASTING, KROPA, KYGER LITOR, MAGASTA, MOLOKKA, ONLY OLD ONE, SWEMS, VANEEKARA
+TEXT: PERIPATI [pehr-ih-PAT-i] – grey worms with multiple legs and three rasping mouth saws. PIKAT YARABOOM [PEE-kat YAHR-uhboom] – troll shaman, child of Bina Bang and Lord Lurker in Shadows. POCHARNGO [poh-CHARN-go] THE MUTATOR – chaos god slain by Boztakang. Creator of many cave trolls. RASHORAN [RAHSH-or-an] – another term for Gbaji. RED GODDESS – goddess of the Red Moon. Friend to chaos and the Blue Moon cult. ROBBER – death demon of the sea, conquered and enslaved by Magasta. SAZDORF [SAZ-dorf] – mistress troll founder of Sazdorf tribe. SEA TROLLS – a rare race of trolls similar to the Mistress Race, but living underwater. SEVEN SACRED ANCESTORS – troll term for Korasting, Karrg, Vaneekara, Jakaboom, Jeset, Hombobobom, and Boztakang taken together. With Kyger Litor, they form the Circle of Eight. SHADOWLANDS – troll kingdom located where Holy Country later stood. SNOW TROLLS – trolls living in the northern wastes, where they escaped the trollkin curse and live in isolation. SOKAZUB [SOAK-ah-zub] – goddess of Dark Animals, the protostomes. Mother of Kropa, Molokka, and Swems. SOLPUGID [sol-PEW-gid] – little-known spider-like desert animal with eight long legs, two sucker-tipped palps, and enormous jaws. SPIKE – mountain of Law that stood at the center of the world and was destroyed by the Devil. STYX – goddess of the River of Death. Mother to the oceans of the world and goddess of oaths. STYX GROTTO – extensive limestone caverns under the Shadow Plateau in the Holy Country. SUBERE [soo-BEER] – goddess of the Dark Deep Within. Mother of Kyger Litor. SWEMS [SWEHMZ] – goddess of Worms. Mother of leeches, earthworms, and sea worms. TADA [TAH-duh] – Praxian hero of the Godtime. TANISOR [TAN-ih-sore] – ancient kingdom of the West. TARPIT – the Only Old One's death site.
+TARGETS: curses
+
+### TP:00316 | TP | p.191 | RuneQuest
+FIGURES: (none registered)
+TEXT: To his amazement, the effect of the 'poison' turned out to be an increase in his intellect beyond that of a normal trollkin. He tempted, bullied, tricked, and persuaded his littermates to share in the discovery. Shortly thereafter, the troll foreman mysteriously fell off a cliff, and the trollkin military leader died from bad mushrooms. A purge followed of all the trollkin still loyal to the trolls, and the hearts and livers of these trollkin were devoured in a feast, such as the Masters held. The leaders of the rebellion were the Barbag quadruplets. They determined to maintain their freedom, along with that of their downtrodden kindred. They gathered the harvest and sold it in Dragon Pass for cash. This cash was then used for aid in defending their caves against the trolls who were sure to come. In the spring, a messenger came to ask where the mushroom harvest was, but barely escaped with his life. He reported that another miserable clan of trollkin had rebelled. The trolls laughed and prepared for a glorious reassertion of troll supremacy. Many wished to participate in the massacre, but only some could be spared. The trollkin hope they have bought the right aids and pray for surprise against their enemies, who are also their parents.
+TARGETS: dies; trades / exchanges
+
+### TP:00318 | TP | p.214 | RuneQuest
+FIGURES: JONAT, KYGER LITOR
+TEXT: In one very old tale, about the Fronelan Jonat, two things appear which are like trolls, but are quite different. Now only one of those is a troll, the other is a different monster. The RuneQuest game brought a new revelation, for this was the first time that we were to see numbers of trolls close up. Old Xem, Jonat's friend, was almost always in the darkness, unseen, and his great activities all took place offstage, reported by sorry survivors rescued by noble Jonat. But in RuneQuest they quickly became a favorite monster – their every measurement was taken and turned into a viable stat. They were surely a favorite of mine. The Sazdorf Clan is the second scenario which I ever began and played, and it was in play for quite a while. During this time, I was determined to show my players that these creatures were something besides monsters to kill. With a rallying cry of "trolls have kin, too!" I began to show how they worked. Of course, the details were quite a surprise to me as well! I didn't know (at first) about the details of their sonar senses, nor about their amazing digestive system. I did know they ate, hated light, and worshipped ancient Kyger Litor. The results of these studies are presented here for you. This volume contains many hints for scenarios beyond the ones in this package. I hope you enjoy it.
+TARGETS: hates / fears
+
+### TR:00017 | TR | page n/a | Where Do We Come From?
+FIGURES: ORLANTH, UMATH
+TEXT: **After Umath was killed, Orlanth became leader of the world. He defeated the Emperor, an oppressive foreign god who stole breath from the air, life force from the earth, and fluidity from the water, and who banished all darkness to the Underworld. Then Orlanth calmed his brothers, welcomed deities who were not his relatives, and formed the family of gods called the Storm Tribe.**
+TARGETS: punishes / exiles
+
+### TR:00027 | TR | page n/a | The First Clan
+FIGURES: ERNALDA, ORLANTH, THUNDER BROTHERS
+TEXT: **When Orlanth first brought Ernalda to his stead, she looked around and saw that the Thunder Brothers were fighting each other, and that almost everyone was a stickpicker. She showed Orlanth that his folk could be strengthened: "The Emperor's way of organizing people was too much, but this is too little." So Ernalda told her handmaiden, Roitina, how to perform the clanmaking dance, and then the Storm People organized themselves into the first clans: the Cat Clan, the Grain Clan, the Marks-On-Bark Clan, the Hurt-Everyone Clan, the Death-Is-Life Clan, and more. Each god became a chieftain, with responsibilities to protect and govern. Orlanth became the best chieftain of all as head of the Big Thunder Clan.**
+TARGETS: speaks / prophesies
+
+### TR:00100 | TR | page n/a | Funeral Customs
+FIGURES: ERNALDA, ORLANTH
+TEXT: Orlanth and Ernalda are the defenders of life. They died and went to the Underworld, then returned with Life and Light to revitalize the dead world. They guarantee their worshippers that they will retrieve their soul from any place in the universe, as long as they lived right. This way, their people need not fear dying in a strange land among foreigners.
+TARGETS: dies
+
+### TR:00105 | TR | page n/a | Other Deities
+FIGURES: ALDRYA, ALDRYAMI, ERNALDA, ESROLA, ORLANTH
+TEXT: ## N **Aldrya**. The Wild Woods, Mother of the Aldryami. Aldrya was once an enemy, for she tried to grow woods across Orlanth's lands. Ernalda sent Overdruva to make peace with her. #### !**Angdartha**. The Kidnapper of Esrola. Angdartha was a servant of the Emperor. He came and took Esrola away to punish the Earth goddesses for not obeying the Emperor. Ernalda taught people the dances that forced him to return Esrola to them.
+TARGETS: punishes / exiles
+
+### TR:00111 | TR | page n/a | Other Deities
+FIGURES: ERNALDA, ORLANTH
+TEXT: Malia sold her soul to the Predark to feed her hunger. She is now just an empty spirit that nothing can fill. She brings pestilence, but is kept at bay by Ernalda and the other healing goddesses. #### &**Nontraya**. The Spurned, Ernalda's Captor. Nontraya sought to possess Ernalda. He came in the Darkness to steal her away, but found her dead. He followed her to the Underworld and finally possessed her until Orlanth arrived to free her once more.
+TARGETS: possesses / wields; heals; trades / exchanges
+
+### TR:00135 | TR | page n/a | Winds Day of Fate Week
+FIGURES: ELMAL, ERNALDA, LIGHTBRINGERS, ORLANTH
+TEXT: The Lightbringers return from the underworld with Ernalda. Together they heal Elmal who leaps joyously across the sky, bearing the Sun Torch. The other gods and goddesses awaken from their death-sleep. Time begins, Chaos recedes, and the world is healed of all ills. The feast honors the Lightbringers, who saved the world. Just as this day reunites Orlanth and Ernalda, married couples who were separated on Together Day celebrate the return of love to their marriage.
+TARGETS: heals
+
+### TR:00188 | TR | page n/a | Umath's Age (Late Golden Age)
+FIGURES: JAGREKRIAND, ORLANTH, UMATH
+TEXT: **Jagrekriand, called the Red God, was the chief Defender of the Sky Realm. He followed Umath through the sky, and fought him many times. At Highgate they met toe to toe. Umath was sore wounded, and spiraled away. Umath sought refuge with the Zenfel, the White God, but that god broke his vows of friendship and secretly plotted with Jagrekriand to ambush Umath in the healing baths of Melimios. Orlanth, just a boy then, overheard the plots and brought the whispers to his father. Umath and his men crushed the White God's palace, land, and people before the Red God could arrive. He sent his sons to pursue the fleeing survivors.**
+TARGETS: heals
+
+### TR:00203 | TR | page n/a | INSIDE ORLANTH'S HALL
+FIGURES: MAGASTA, ORLANTH, YELM, ZZABUR
+TEXT: **After the death of Yelm, Orlanth and the Storm Tribe came into their own, and soon ruled much of the world. Orlanth had many victories in this era, such as acquiring the Four Magic Weapons, conciliating his brothers, and defeating Deloradella, Magasta, and Zzabur. The First Beast War occurred at this time. Orlanth was sometimes beaten, but he always came back.**
+TARGETS: dies
+
+### TR:00209 | TR | page n/a | INSIDE ORLANTH'S HALL
+FIGURES: JAGREKRIAND, UMATH
+TEXT: *Umath Mountains*: Mountain range formed from pieces of Umath that fell off in his last battle against Jagrekriand. *Umath's Crater* (/): Great pit created in the far north when Umath died and fell crashing to earth. His sons came to this place to retrieve his weapons and powers.
+TARGETS: dies
+
+### TR:00214 | TR | page n/a | Vingkotling Age (Lesser Darkness, Storm Age)
+FIGURES: BARNTAR, ELMAL, ERNALDA, HELER, ORLANTH, VADRUS
+TEXT: **One time all of his brothers conspired, and helped by a thief and a trickster they caused Orlanth to be outlawed. This is the time of Ernalda's "other guardians." She got many strong gods to defend the Vingkotling peoples, and forged alliances with small gods to join them to the tribe. Here is a partial list of her temporary husbands: Elmal the Bright, Heler the Shaggy, Vestkarthen of the Deep, Dojor the Black, Delan the Strong , and Dashing Veradash. While Orlanth was gone, kinstrife rocked the Storm Tribe. Finally, Vadrus killed Barntar, who stayed dead. This was the first true death in the kinstrife.**
+TARGETS: punishes / exiles
+
+### TR:00218 | TR | page n/a | Vingkotling Age (Lesser Darkness, Storm Age)
+FIGURES: ERNALDA, ESROLA, MARAN GOR
+TEXT: **In the cold and darkness, the earth began to die. Esrola, who fed everyone, was taken away by demons. Maran Gor stopped moving , and became the last mountain. The endless wars and struggles had cost the world nearly everything. One day Ernalda sat down and counted her dead kinfolk. Everyone alive joined her in weeping , but could do nothing. Ernalda retired to her bed and slipped into deep and permanent sleep.**
+TARGETS: mourns
+
+### TR:00241 | TR | page n/a | Silver Age (Gray Age, Star Age)
+FIGURES: ALDRYA, ELMAL, ERNALDA
+CONTEXT: ear. She cast a web across the whole world to bind it as one. She blessed Orlanth to rule and sent the other gods to their places. She then loosed the horse of Elmal from the east for the first time, and it galloped to the summit of the sky. Elmal had never left his post atop Kero Fin, and grew stronger when his horse came to him. He mounted, and the first day of the new world was at its noon.**
+TEXT: **This was the Dawning , the start of measured time. Ernalda woke the earth, Aldrya woke the wilds, Elmal woke the heavens, and the other great gods each woke their portion of the world.** Image /page/150/Picture/9 description: The image is a black and white drawing of a horse with Celtic-style designs on its body. The horse is standing in front of a wooden fence. The horse has a long, flowing mane and tail. The horse's body is decorated with spirals and other Celtic designs. The wooden fence is made of vertical planks. The drawing is done in a simple, clean style.
+TARGETS: sleeps / wakes
+
+### TR:00243 | TR | page n/a | The Dawn Age
+FIGURES: KERO FIN, LOKAMAYADON, ORLANTH, UMATH
+TEXT: The simple Unity Council transformed after meeting the Dara Happans. After wars and the death of some gods, all the people came to peace and a new council formed in the land of Dorastor. The Heortlings were only one large group of Orlanthi at this time. In Ralios and southern Peloria, once-fragmentary populations had grown after the Dawn. The Ralians never united, torn by war and foreigners. In Peloria, the hero Lokamayadon united the other large group; they called themselves the Talastari. On Orlanth's high holy day they flew to Mount Farar, popularly called Top of the World, since Kero Fin was too far away. Farar was a huge piece of Umath that had crashed to earth, and had nearly the fame of Kero Fin.
+TARGETS: dies
+
+### TR:00245 | TR | page n/a | The Dawn Age
+FIGURES: ELMAL, GBAJI, LOKAMAYADON, NYSALOR, ORLANTH
+TEXT: On the autumnal equinox of the year 375, Elmal was unhorsed, and the Sun stopped in the sky. The new god was born, and Chaos came into the world again in the form of Nysalor, whom the Heortlings now call Gbaji, the Liar. Lokamayadon fell to the wiles of the god and began to worship Tarumath, whom he called the High Storm. Soon, Lokamayadon's war against men was not enough. He stopped all Orlanth worship, and largely replaced it with sacrifices to Tarumath. Lokamayadon was stopped at the Battle of the Verge by Vargast Redhand, who also died in the fight.
+TARGETS: dies

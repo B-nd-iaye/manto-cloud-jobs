@@ -1,0 +1,145 @@
+### WOD-JR:02775 | WOD-JR | WOD-JR 33544 (Finances of the Lunar Empire) | The Seleukid Royal Economy (2004)
+FIGURES: RED EMPEROR, RED GODDESS
+TEXT: The Red Emperor owns in theory at least all the lands his Mother conquered from the Carmanians or from barbarians, and all land seized from rebels (ie all of Dara Happa). However, lands that voluntarily submitted to the Red Goddess remain their own (although they have to pay tax).
+TARGETS: possesses / wields
+
+### WOD-JR:02787 | WOD-JR | WOD-JR 33584 (Lhankor Mhy the Knowing God) | Select Month September 2026
+FIGURES: ALAKORING DRAGONBREAKER, ARKAT, LHANKOR MHY
+TEXT: Lhankor Mhy's magic is incredibly useful. Analyze Magic lets you discover what that weird wand you stole from Raus's house in New Pavis does. Clairvoyance lets you see what is going on up to 5 km away. Knowledge lets you know that iron crown you found near Griffin Mountain once belonged to Alakoring Dragonbreaker or that broken sword was once wielded by Arkat. Mind Read lets you pull off Mr. Spock's techniques, Reconstruction lets you make Hercule Poirot look like a fool, Translate lets you read ANYTHING, and Truespeak makes you the ultimate interrogator. In short if you want to find out something, the Knowing God is your god.
+TARGETS: possesses / wields
+
+### WOD-JR:02793 | WOD-JR | WOD-JR 33586 (Notes on Chalana Arroy I) | Select Month September 2026
+FIGURES: CHALANA ARROY, LIGHTBRINGERS, ORLANTH, STORM BULL, YELM
+TEXT: The path of Chalana Arroy is very difficult – total non-violence (on the part of the initiate), vegetarianism, and distribution of the Goddess's blessings to all who need it. But she is indispensable for survival in this hostile world, and is loved by Orlanth, Yelm, and Storm Bull alike, not to mention her fellow Lightbringers.
+TARGETS: loves / desires
+
+### WOD-JR:02813 | WOD-JR | WOD-JR 33770 (Drivers of the Hero Wars I) | Quote
+FIGURES: ARGRATH, MULARIK IRONEYE, THE DRAGONS, YARA ARANIS
+TEXT: I personally view Argrath (and the other heroes) as a remarkable and fascinating individual, who did remarkable deeds and co-exist in the realm of myth and legend. But all of Glorantha's heroes did some terrible deeds – free, Argrath gave Furthest over to his companion Mularik Ironeye and then later arranged his murder. Like Alexander he adopted foreign ways, and even accommodated Lunar cults and deities (such as Yara Aranis). He spoke with dragons and revived (at least in some manner) the Empire of the Wyrms Friends. But he was also loyal to his friends (of which he had many) and was by all accounts an inspiring, clever, and remarkable individual.
+TARGETS: speaks / prophesies
+
+### WOD-JR:02820 | WOD-JR | WOD-JR 33872 (Sheng Seleris – a Pentan version) | Select Month September 2026
+FIGURES: CRIMSON BAT, RED EMPEROR, SHENG SELERIS
+TEXT: Normally the Red Emperor overpowers his foes with raw power, ruthlessness, and pure destructive power – the Crimson Bat, the Crater Makers, the Moonburn, are all examples. But Sheng Seleris was more than a match for the Red Emperor in all of these categories. We hear the Lunar story as that is what is recorded in the Redline Histories, but the horrors the Red Emperor tried to unleash on Sheng Seleris goes unrecorded. Indeed, many enemies of the Red Moon loved Sheng Seleris precisely because he was willing to be every bit as ruthless as the Red Emperor.
+TARGETS: loves / desires
+
+### WOD-JR:02821 | WOD-JR | WOD-JR 33872 (Sheng Seleris – a Pentan version) | Select Month September 2026
+FIGURES: POLARIS, RED EMPEROR, SHARGASH, SHENG SELERIS, TOLAT, YELM
+TEXT: The base of Sheng Seleris' power was his tribes of horsemen who had once grazed their herds on the grasslands of Peloria – is it surprising that he rewarded his followers by returning the grasslands of Peloria to him? Sheng Seleris made use of many locals in Kralorela, Peloria, and Teshnos, particularly those belonging to Celestial cults (Yelm, Polaris, Shargash-Tolat, etc.). He accepted/promoted a school of Illumination (later suppressed by the Red Emperor). He made use of Praxians, Dara Happans, and others. He was brutal, no doubt, but more in the style of Timur – hated by his foes, loved by his supporters.
+TARGETS: loves / desires; hates / fears
+
+### WOD-JR:02841 | WOD-JR | WOD-JR 34280 (The Royal Economy of Esrolia) | Select Month September 2026
+FIGURES: ASRELIA, BELINTAR
+TEXT: All of this revenue was collected at a "provincial" or "queendom" level and then the queens (advised by the Asrelia priestesses), allocated it among themselves. About half ended up at Nochet, a little over a quarter at Rhigos, and the rest split between the North March and Longsi Land. In the event of a dispute, they appealed to Belintar, who always wisely resolved the issue, sometimes paying out the City of Wonders vast treasuries.
+TARGETS: speaks / prophesies
+
+### WOD-JR:02850 | WOD-JR | WOD-JR 34290 (Kallyr’s Short Lightbringers Quest 1625 ) | Select Month September 2026
+FIGURES: KALLYR STARBROW, LIGHTBRINGERS
+TEXT: Kallyrs Stationary Lightbringer Quest was much like how many people understand heroquesting. She got the tribes and temples to perform a giant ceremony filled with pageantry. People wore masks and sacred regalia and tried to carry out their sacred tasks as Kallyr and her companions moved around Sartar performing their reenactment of the Lightbringers Quest myth.
+TARGETS: possesses / wields
+
+### WOD-JR:02879 | WOD-JR | WOD-JR 34563 (Prax, The Lunar Empire, and The White Bu) | White Bison by Joanna Patterson-Cross
+FIGURES: GENERT
+TEXT: Few Lunars were aware that it is possible for the Praxians and their herds to survive in Genert's Wastes. I presume most assumed that the defeated nomads crossed into the Vultures Country and simply died of thirst and hunger. Which is actually even worse than being relocated to marginal land if you think about it.
+TARGETS: dies
+
+### WOD-JR:02892 | WOD-JR | WOD-JR 34802 (The Sixes in the Holy Country) | Select Month September 2026
+FIGURES: ARGAN ARGAR, HUMAKT, KYGER LITOR, LODRIL, ORLANTH, STORM BULL, ZORAK ZORAN
+TEXT: - Darkness (ruling the Shadow Plateau) – Argan Argar (Kyger Litor, Zorak Zoran) - Air (ruling Heortland) – Orlanth (Storm Bull, Humakt) - God Forgot (ruling the Leftarm Islands) – none All of these deities and their most important companions are known in each Sixth. We have stories of Orlanth and Lodril's interactions told in Esrolia or the Shadow Plateau; Argan Argar is known in the Islands, and every educated person knows at least a smattering of "God Learner" cosmology. These elemental powers operate in a lesser manner in the other Sixths, and I imagine Lullian circles with six fields are depicted spinning around each other, clockwise and counter clockwise, to show this.
+TARGETS: speaks / prophesies
+
+### WOD-JR:02901 | WOD-JR | WOD-JR 34804 (A God Forgot Story) | Select Month September 2026
+FIGURES: BELINTAR, TALAR
+TEXT: When Belintar came they neither helped nor hindered him, though some claim that the Castaway came from this region. Thus they have managed to survive since then." I thought the natives of God Forgot were just Brithini. Is that not the case anymore? It was never the case. The people of God Forgot are now ruled by ancient immortals using the Brithini forms of life and government. Their ruler is called the Talar, and he is advised by wizards, guarded by staunch soldiers, and supported by loyal farmers. They are not and were never "just Brithini."
+TARGETS: speaks / prophesies
+
+### WOD-JR:02915 | WOD-JR | WOD-JR 34836 (Greater and Major Gods) | Major Gods
+FIGURES: GLOOMSHARK, MAGASTA
+TEXT: Gloomshark is a Greater God! A lot of the sea entities are more important than surface dwellers imagine. Gloomshark is the primary Chaos entity in the Water. He's that entropic hunger beneath the waves, devouring all that stop moving. He threatens to even devour Magasta, when the Great Turner even stops turning, even for a moment.
+TARGETS: dwells at
+
+### WOD-JR:02920 | WOD-JR | WOD-JR 34836 (Greater and Major Gods) | Major Gods
+FIGURES: ARGRATH, ARKAT, WAKBOTH
+TEXT: Note that Argrath/Arkat are definitely not Wakboth. Not by a long mile. Even those who hated Arkat did not say he was Wakboth. After all, he was a mortal. Although Arkat was apotheosised in 500 ST, prior to that he was a mortal (albeit a very powerful one). His ability to heroquest is proof of that.
+TARGETS: hates / fears
+
+### WOD-JR:02946 | WOD-JR | WOD-JR 34856 (The Moonburn) | Select Month September 2026
+FIGURES: COLYMAR
+TEXT: Lunar colonies were planted at Rist, and warfare against Dara-ni continued. It is feared that the elves have not forgotten the Moonburn. Rist had an area of approximately 6200 square km, so more than 6 times the area of the lands claimed by the Colymar Tribe. Although some of the groves survived because of elf defensive magic, this was still destruction on an incredible scale. Let's put aside the tens of thousands of sentient beings that died horribly – this was also vast physical devastation of trees, animals, and you name it.
+TARGETS: hates / fears; dies
+
+### WOD-JR:02954 | WOD-JR | WOD-JR 34856 (The Moonburn) | Quote
+FIGURES: TEELO NORRI
+TEXT: And what of those who loved Her? They had looked too, yet they saw only their radiant goddess, hovering there upon the back of a hummingbird, with Her extended hand bestowing blessing and healing. Those dead worshippers in the tent saw Her with their dead eyes, and they sat up, healed, and they joined in the song of praise and love that Teelo Norri was singing. Out of that canopy, beautiful music swelled, and men and women who had been struggling a moment before were filled with joy. They raised their weapons and sang as well, and watched as an army which had been trampling upon them a moment before all dropped their weapons and ran, if they did not fall dead.
+TARGETS: loves / desires; heals
+
+### WOD-JR:02968 | WOD-JR | WOD-JR 35072 (The Origin of Belintar) | Select Month September 2026
+FIGURES: BELINTAR, RED EMPEROR, THE MASTERS OF LUCK AND DEATH
+TEXT: The Red Emperor's Twin: Belintar appeared after the Tripolis Revolt was crushed by the Red Emperor. Belintar is the manifestation of rule that the Red Emperor should have been but ultimately was not. Argument for: Belintar has proven to have certain simularities with the Red Emperor – when Belintar's form dies, there is a magical contest called the Tournament of the Masters of Luck and Death, and the winner becomes the new incarnation of Belintar. Furthermore, Belintar has more than a passing understanding of the strengths and weaknesses of the Lunar Empire.
+TARGETS: dies
+
+### WOD-JR:02993 | WOD-JR | WOD-JR 35149 (Broken Empires, Gods, and Ideas) | Select Month September 2026
+FIGURES: ARKAT
+TEXT: What was it before Arkat's apotheosis? It was called the Autarchy. Or just Arkat's Home. Think about this – the most powerful mortal the world had ever seen decides to retire nearby and brings an army of his troll friends. He tells everyone that this land is under His Peace, but sends no soldiers to enforce it – everyone knows that he means to enforce his peace personally.
+TARGETS: speaks / prophesies
+
+### WOD-JR:02996 | WOD-JR | WOD-JR 35149 (Broken Empires, Gods, and Ideas) | Select Month September 2026
+FIGURES: ARKAT, GBAJI
+TEXT: And after nine centuries, EVERYONE in Genertela has their Arkat stories. We have a variety of Malkioni stories (told in some form in Teshnos and Kralorela as well), with Arkat as mighty hero, betrayed by his own dark flaws. We have the Orlanthi stories with him as the Lord of Battles, who lived only for his feud with Gbaji. We have the troll stories of Kingtroll. And then all sorts of esoteric stories in Safelster, passed on in secret from generation to generation.
+TARGETS: hates / fears; speaks / prophesies
+
+### WOD-JR:03051 | WOD-JR | WOD-JR 35352 (Top of the World) | Select Month September 2026
+FIGURES: KERO FIN, ORLANTH
+TEXT: In Dragon Pass, Kero Fin is the mother of Orlanth, but for much of Peloria, Fronela, and Ralios, Orlanth resides atop Top of the World. This high peak is some 10,000 meters high, and is the Gloranthan Mount Everest.
+TARGETS: dwells at
+
+### WOD-JR:03070 | WOD-JR | WOD-JR 35365 (Issaries and Etyries) | Select Month September 2026
+FIGURES: BALAZAR, ETYRIES, ISSARIES
+TEXT: But of course, foreign merchants do business, maintain warehouses, and even live the lands they trade with. Just look at the Mith family operations in Balazar. So within the Lunar Heartlands, the Etyries merchants are buying and selling on behalf of the rulers, temples, or their own networks. The few Issaries cultists are maintaining the market grounds, but that's not where the real action is taking place. Biturian Vorash travels to Glamour to sell Truestone, obtained at a great price. He doesn't sell it at the market – he sells it to Falabur, an Etyries priest who provides for the Imperial Court. And then Falabur proudly shows it to the Tharkalists, who have it made into a hat decoration.
+TARGETS: trades / exchanges
+
+### WOD-JR:03073 | WOD-JR | WOD-JR 35365 (Issaries and Etyries) | Select Month September 2026
+FIGURES: ETYRIES, ISSARIES, LOKARNOS, POLARIS, YELM
+TEXT: And how does Lokarnos fit in? Lokarnos carries stuff. Wagons carrying food, resources, supplies, etc. But his cult gets tied into Issaries and Etyries, or directly for Yelm and Polaris. Was Lokarnos in the old Dara Happan empire supplanted by Etyries with the coming of the Lunar Empire? Not really. Lokarnos was not originally a trade god – he was a wagon god, of Horse People origin.
+TARGETS: possesses / wields
+
+### WOD-JR:03086 | WOD-JR | WOD-JR 35385 (Chalana Arroy in Central Genertela) | Select Month September 2026
+FIGURES: CHALANA ARROY, RED EMPEROR, STORM BULL
+TEXT: Once again, the Princes of Sartar were important patrons of this cult, even though the cult remained neutral in the conflict with the Lunar Empire. Chalana Arroy is cherished and loved by Orlanthi and Yelmites alike; by elves, by Praxians, and even by Storm Bull. The Red Emperor even keeps a Chalana Arroy healer in his entourage. She provides another way beyond violence and conflict – one of mercy and love for all.
+TARGETS: loves / desires
+
+### WOD-JR:03098 | WOD-JR | WOD-JR 35400 (Disease in Glorantha) | Select Month September 2026
+FIGURES: CHALANA ARROY, MALLIA
+TEXT: Additionally, exposure to "pollution" can result in diseases. Dealing with disease, and the risk of disease outbreaks, is the primary function of many Chalana Arroy temples. Healers treat the ill, fight disease spirits with their Rune magic, summon healing spirits, and the like. That's where I suspect most of those Rune points get spent – not on Resurrection or Heal Body, but on Cure All Disease, Summon Healing Spirit, and Restore Health, and is why Healing Trance is more popular than Heal Body. The cult is big enough and numerous enough that diseases can be kept mostly under control, but it still might be the biggest killer in Glorantha (a point of pride to the Death goddess Mallia no doubt).
+TARGETS: heals
+
+### WOD-JR:03099 | WOD-JR | WOD-JR 35400 (Disease in Glorantha) | Select Month September 2026
+FIGURES: MALLIA, ORLANTH, YELM
+TEXT: Now this is bad enough without broo and the Mallia cult, but they actively and intentionally release disease spirits, pollute streams and other sources of water, and so on. Mallia is hated and feared – and feared enough that many are willing to become involuntary members in order to not die. Fighting Mallia is something Orlanth and Yelm are in perfect agreement with!
+TARGETS: hates / fears
+
+### WOD-JR:03114 | WOD-JR | WOD-JR 35414 (Notes on Kralorela I) | Select Month September 2026
+FIGURES: EXARCHS, GOD LEARNERS, GODUNYA, SHENG SELERIS, THE DRAGONS
+CONTEXT: e priests-officials in the appropriate province or ministry as a successor to the retired exarch. So what we get is a system of seeming permanence and stability: Exarchs at the top, aided by a bureaucracy of priest-officials, receive worship from the masses through the imperial cult. There's loads of cults outside of this system – most actually – but the imperial cult holds everything together.
+TEXT: This system predates the New Dragon's Ring that ruled Kralorela from 768 to 1120 as a tributary of the Middle Sea Empire, but the Exarchs can't help but have been influenced by their three and a half centuries of exile. The person who became Godunya may have been an exiled exarch or may have been a Hero Mystic who awakened Dragon Consciousness. We really don't know because the personal name of Godunya is a secret that even Sheng Seleris did not uncover. We know that somehow the God Learners found a way to gain power over the dragons of Kralorela, and that they somehow lost that power (old Seshnegi tales refer to an Amulet of Hykim).
+TARGETS: punishes / exiles; sleeps / wakes
+
+### WOD-JR:03133 | WOD-JR | WOD-JR 35483 (Understanding Malkionism) | Source Wikimedia Commons
+FIGURES: ORLANTH
+TEXT: I figure the use of the word "initiatory experiences" may cause trouble: What I meant there is that if I am an initiate of Orlanth, I participate in Orlanth's actions. Through Rune magic I wield some of Orlanth's power and manifest him in the mundane world. Wow!
+TARGETS: possesses / wields
+
+### WOD-JR:03144 | WOD-JR | WOD-JR 35495 (Who is Ginna Jar?) | Select Month September 2026
+FIGURES: FLESH MAN, GINNA JAR, SHE WHO WAITS
+TEXT: In short she's a mystery element in the ceremony. If WE mortals are Flesh Man, Ginna Jar is our lost dreams, love and hopes. Who is equivalent figure to Ginna Jar in solar mythology (Dara Happan or Pentan)? Where did the scattered bands in Peloria put their lost dreams, loves, and hopes? That's where you will find Ginna Jar. Or it is called She Who Waits.
+TARGETS: loves / desires
+
+### WOD-JR:03145 | WOD-JR | WOD-JR 35495 (Who is Ginna Jar?) | Select Month September 2026
+FIGURES: ARACHNE SOLARA, GINNA JAR, THE DEAD, YELM
+TEXT: The other way of thinking about this is that Yelm was already hanging out with Ginna Jar in the Underworld. While Emperor of the Dead, he was surrounded by lost dreams, loves, and hopes. Here's something else: Glorantha, Ginna Jar, and Arachne Solara are all the same being. Greg was clear on that mystery.
+TARGETS: loves / desires
+
+### WOD-JR:03146 | WOD-JR | WOD-JR 35496 (Men-of-All) | That sooner or later…
+FIGURES: GOD LEARNERS
+TEXT: That all things change but truth, and that truth alone, lives on forever. In the Second Age, Men-of-All were big supporters of the Middle Sea Empire and the God Learners, particularly in the wars against the Stygian Empire.
+TARGETS: dwells at

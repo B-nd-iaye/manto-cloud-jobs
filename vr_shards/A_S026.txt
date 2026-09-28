@@ -1,0 +1,300 @@
+[P5-A-B0072-001] S=['XIOLA UMBAR'] P=is sibling of O=['ZORAK ZORAN'] implicit=True ps="is always referred to as the sister of" sug=is sibling of
+   Q: She is always referred to as the sister of Zorak Zoran.
+[P5-A-B0072-002] S=['DEHORE'] P=transforms into O=['DEHORI'] MOD={"with_the_aid_of": ["XIOLA UMBAR"]} implicit=True ps="to become" sug=transforms into
+   Q: She aided Dehore, the Dark One to become the Dehori, the many shades.
+[P5-A-B0072-003] S=['STYX', 'ZARAMAKA'] P=comes into being O=[] MOD={"with_the_aid_of": ["XIOLA UMBAR"]} implicit=True ps="aided at the birth of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: She aided at the birth of Styx and Zaramaka, becoming midwife to the waters of the world.
+[P5-A-B0072-004] S=['XIOLA UMBAR'] P=protects O=['THE GOBLIN RACE'] implicit=True ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: Once she opposed him, when she saved the goblin race
+[P5-A-B0072-005] S=['XIOLA UMBAR'] P=challenges O=['ZORAK ZORAN'] implicit=True ps="opposed" sug=challenges
+   Q: Once she opposed him, when she saved the goblin race
+[P5-A-B0072-006] S=['XIOLA UMBAR'] P=bestows magic / gifts O=['ZORAK ZORAN'] implicit=True ps="healing and aiding" sug=heals
+   Q: When chaos came, Xiola Umbar stood by her brother, healing and aiding him to keep him fit, even at her own expense.
+[P5-A-B0072-007] S=['ZORAK ZORAN'] P=defeats O=['CHAOS'] MOD={"with_the_aid_of": ["XIOLA UMBAR"]} implicit=True ps="prevailed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: No sacrifice was too great to save the world from chaos, and with her aid the war god prevailed.
+[P5-A-B0072-008] S=['XIOLA UMBAR'] P=protects O=['THE WEAK'] implicit=True ps="became Protectress of" sug=one of: protects, rescues / frees, aids
+   Q: She became Protectress of the weak and friend to the helpless.
+[P5-A-B0072-009] S=['CHARMILLA'] P=is child of O=['XIOLA UMBAR'] implicit=False ps="the eldest daughter of" sug=is child of
+   Q: In Dragon Pass, the eldest daughter of Xiola Umbar, Charmilla, sat upon the First Council
+[P5-A-B0072-010] S=['CHARMILLA'] P=is member of O=['THE FIRST COUNCIL'] MOD={"in_on_at": "DRAGON PASS"} implicit=False ps="sat upon" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: In Dragon Pass, the eldest daughter of Xiola Umbar, Charmilla, sat upon the First Council and helped lead the scattered peoples from panic back into the world.
+[P5-A-B0072-011] S=['XIOLA UMBAR'] P=protects O=['TROLLKIN'] implicit=False ps="helping the misbegotten kin to survive" sug=one of: protects, rescues / frees, aids
+   Q: When the trollkin curse swept the race, Xiola Umbar extended her protection of weaklings by helping the misbegotten kin to survive the anger and embarrassment of their parents, preserving that puny race.
+[P5-A-B0072-012] S=['XIOLA UMBAR'] P=embodies O=['DARKNESS RUNE', 'HARMONY RUNE', 'FERTILITY RUNE'] implicit=True ps="is associated with the Runes of" sug=one of: embodies, has domain
+   Q: Xiola Umbar is associated with the Runes of Darkness, Harmony, and Fertility.
+[P5-A-B0072-013] S=['XIOLA UMBAR'] P=discovers O=['HER POWERS TO CURE'] MOD={"in_on_at": "MIRRORDARK"} implicit=False ps="meditated and found" sug=discovers
+   Q: The holiest place for this cult is in the Underworld, a fountain called Mirrordark, said to be where Xiola Umbar meditated and found her powers to cure.
+[P5-A-B0072-014] S=['XIOLA UMBAR'] P=protects O=['THE WEAK AND OPPRESSED'] implicit=True ps="is the traditional god of" sug=one of: protects, rescues / frees, aids
+   Q: She is the traditional god of the weak and oppressed.
+[P5-A-B0072-015] S=['XIOLA UMBAR'] P=protects O=['CHILDREN', 'GRANDMOTHERS', 'PRINCESSES IN DISTRESS'] implicit=False ps="is the patron deity of" sug=one of: protects, rescues / frees, aids
+   Q: Xiola Umbar is the patron deity of children, grandmothers, and princesses in distress.
+[P5-A-B0072-016] S=['LODRIL'] P=is sibling of O=['THE SUN'] implicit=False ps="brother of" sug=is sibling of
+   Q: When Lodril, brother of the Sun, came to battle Chaos
+[P5-A-B0072-017] S=['LODRIL'] P=descends into O=['THE EARTH'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="his spear-form plunged deep into" sug=one of: descends into, dies
+   Q: When Lodril, brother of the Sun, came to battle Chaos, his spear-form plunged deep into the Earth.
+[P5-A-B0072-018] S=['LODRIL'] P=is spouse of O=['GATA'] implicit=True ps="knew Gata, embraced her and loved her" sug=is spouse of
+   Q: There he knew Gata, embraced her and loved her in his own violent fashion.
+[P5-A-B0072-019] S=['LODRIL'] P=protects O=['GATA'] implicit=False ps="led Ash, Earthshaker, and others in Gata's defense" sug=one of: protects, rescues / frees, aids
+   Q: When Lodril at last erupted forth in consuming flame, he led Ash, Earthshaker, and others in Gata's defense.
+[P5-A-B0072-020] S=['STORM BULL'] P=wounds O=['LODRIL'] implicit=True ps="receiving a grave wound from" sug=wounds
+   Q: after receiving a grave wound from Storm Bull, he was conquered, enslaved, and imprisoned by Argan Argar, son of Night.
+[P5-A-B0072-021] S=['ARGAN ARGAR'] P=binds O=['LODRIL'] implicit=True ps="conquered, enslaved, and imprisoned" sug=binds
+   Q: after receiving a grave wound from Storm Bull, he was conquered, enslaved, and imprisoned by Argan Argar, son of Night.
+[P5-A-B0072-022] S=['ARGAN ARGAR'] P=is child of O=['NIGHT'] implicit=False ps="son of" sug=is child of
+   Q: imprisoned by Argan Argar, son of Night.
+[P5-A-B0072-023] S=['CALADRA'] P=is child of O=['LODRIL'] implicit=False ps="inherited her father's element" sug=is child of
+   Q: fiery Caladra, who had inherited her father's element, was tended by the Mostali who depended upon the fire of Lodril for their craft
+[P5-A-B0072-024] S=['MOSTALI'] P=protects O=['CALADRA'] implicit=False ps="tended" sug=one of: protects, rescues / frees, aids
+   Q: fiery Caladra, who had inherited her father's element, was tended by the Mostali
+[P5-A-B0072-025] S=["LODRIL'S CHILDREN"] P=is child of O=['GATA', 'LODRIL'] implicit=False ps="bore Lodril's children" sug=is child of
+   Q: As Gata bore Lodril's children within her she feared for them.
+[P5-A-B0072-026] S=['ASRELIA'] P=is sibling of O=['AURELION'] implicit=False ps="his halfsister" sug=is sibling of
+   Q: Aurelion was watched over by his halfsister, Asrelia, who whispered the lore of the wealth within the Earth into his dreaming mind.
+[P5-A-B0072-027] S=['ASRELIA'] P=teaches O=['AURELION'] implicit=False ps="whispered the lore of the wealth within the Earth into his dreaming mind" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Aurelion was watched over by his halfsister, Asrelia, who whispered the lore of the wealth within the Earth into his dreaming mind.
+[P5-A-B0072-028] S=["AURELION'S BREAKWATER"] P=comes into being O=[] MOD={"at_the_instigation_of": ["AURELION"]} implicit=False ps="hurled up" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Enraged, he hurled up the massive bulwark of cliffs called Aurelion's Breakwater.
+[P5-A-B0072-029] S=['AURELION'] P=rules O=['REFUGEES'] implicit=True ps="accepted the young god's leadership" sug=leads
+   Q: Behind its shelter, refugees gathered and gratefully accepted the young god's leadership against the horrors of Chaos.
+[P5-A-B0072-030] S=['CALADRA'] P=defeats O=['A MASSED CHAOS ARMY'] implicit=True ps="destroying" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Emulating her father, she erupted from the Earth in fire and wrath, destroying a massed Chaos army in a torrent of molten rock.
+[P5-A-B0072-031] S=['CALADRA'] P=protects O=['MORTALS'] implicit=True ps="offered them protection" sug=one of: protects, rescues / frees, aids
+   Q: She overcame their fear and offered them protection.
+[P5-A-B0072-032] S=['CALADRA', 'AURELION'] P=travels O=[] MOD={"to": "MEETINGHALL MOUNTAIN"} implicit=True ps="set out on the epic Search" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Each set out on the epic Search || After great travail, they found each other beneath Meetinghall Mountain.
+[P5-A-B0072-033] S=['CALADRA', 'AURELION'] P=embodies O=['FIRE WITHIN EARTH'] implicit=True ps="resolved to share ever after their elemental natures" sug=one of: embodies, has domain
+   Q: the Twins resolved to share ever after their elemental natures - Fire Within Earth.
+[P5-A-B0072-034] S=['CALADRA', 'AURELION'] P=travels O=[] MOD={"to": "DAYZATAR", "via": ["THE PILLAR OF ASH AND SMOKE"], "purpose_clause": "TO OBTAIN"} implicit=True ps="climbed the pillar of ash and smoke to beseech the aid of" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: when they climbed the pillar of ash and smoke to beseech the aid of lofty Dayzatar (who rebuffed them)
+[P5-A-B0072-035] S=['ERNALDA'] P=is sibling of O=['CALADRA', 'AURELION'] implicit=True ps="their sister" sug=is sibling of
+   Q: in an effort to find Flamal for their sister Ernalda.
+[P5-A-B0072-036] S=['CALADRA', 'AURELION'] P=is child of O=['LODRIL'] implicit=True ps="their father" sug=is child of
+   Q: And not even their combined power could free their father Lodril from the obsidian palace of Argan Argar.
+[P5-A-B0072-037] S=['ARGAN ARGAR'] P=binds O=['LODRIL'] MOD={"in_on_at": "THE OBSIDIAN PALACE OF ARGAN ARGAR"} implicit=False ps="could not free from the obsidian palace of" sug=binds
+   Q: And not even their combined power could free their father Lodril from the obsidian palace of Argan Argar.
+[P5-A-B0072-038] S=['CALADRA', 'AURELION'] P=teaches O=['HUMANS'] implicit=True ps="showing people how to make the lands more fertile" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: They helped the humans reclaim areas devastated by Lodril || showing people how to make the lands more fertile and productive.
+[P5-A-B0072-039] S=['CALADRA', 'AURELION'] P=discovers O=['THE BURIED REMNANTS OF THE GREEN AGE'] MOD={"in_on_at": "BENEATH THE EARTH"} implicit=True ps="found" sug=discovers
+   Q: Deep beneath the Earth the Twins sought for a way to dispel the Great Darkness, and there they found the buried remnants of the Green Age.
+[P5-A-B0072-040] S=['CALADRA', 'AURELION'] P=teaches O=['MORTALS'] implicit=False ps="taught mortals their use" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Caladra and Aurelion taught mortals their use.
+[P5-A-B0072-041] S=['DIAMOND'] P=comes into being O=[] MOD={"at_the_instigation_of": ["CALADRA", "AURELION"]} implicit=True ps="made" sug=conceives
+   Q: they took some of the lifeless carbon, poured their power on it — restoring its potencies — and made Diamond, the hardest and most brilliant of all minerals.
+[P5-A-B0072-042] S=['DIAMOND GOBLET'] P=comes into being O=[] MOD={"at_the_instigation_of": ["MOSTALI"]} implicit=False ps="fashioned" sug=crafts
+   Q: The Mostali seized upon this new substance with joy and fashioned the Diamond Goblet (from which evolved the Diamond Dwarves).
+[P5-A-B0072-043] S=['DIAMOND DWARVES'] P=is born from O=['DIAMOND GOBLET'] implicit=False ps="from which evolved" sug=is born from
+   Q: fashioned the Diamond Goblet (from which evolved the Diamond Dwarves).
+[P5-A-B0072-044] S=['ALDRYA'] P=challenges O=['CALADRA', 'AURELION'] implicit=True ps="her enmity for them" sug=hates
+   Q: And though Aldrya shares the Twins' love of Fertility, her enmity for them is little less than for Oakfed himself.
+[P5-A-B0072-045] S=['THE SEA'] P=shatters O=['JRUSTELA', 'SLONTOS'] implicit=False ps="arose to smash Jrustela and drown Slontos" sug=shatters
+   Q: By the end of the Second Age, many powers were toppled, and the Sea arose to smash Jrustela and drown Slontos.
+[P5-A-B0072-046] S=['CALADRA'] P=manifests O=[] MOD={"in_on_at": "THE VENT"} implicit=False ps="emerged" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The three great holy places — Breakwater, Meetinghall, and the Vent (where Caladra emerged) — survived intact
+[P5-A-B0072-047] S=['CALADRA', 'AURELION'] P=embodies O=['FIRE / SKY RUNE', 'EARTH RUNE'] implicit=True ps="were inherited from their parents" sug=one of: embodies, has domain
+   Q: Heat and Earth, joined together, were inherited from their parents.
+[P5-A-B0072-048] S=['CALADRA', 'AURELION'] P=embodies O=['FERTILITY RUNE'] implicit=True ps="derived Fertility" sug=one of: embodies, has domain
+   Q: The Twins derived Fertility from their efforts to restore the lands Lodril burnt and smothered.
+[P5-A-B0072-049] S=['CALADRA', 'AURELION'] P=embodies O=['HARMONY RUNE'] implicit=True ps="acquired Harmony" sug=one of: embodies, has domain
+   Q: The Twins acquired Harmony during their reunion.
+[P5-A-B0073-001] S=['CALADRA', 'AURELION'] P=rules O=['THE VOLCANIC FIRES'] implicit=True ps="rule" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Twins rule the volcanic fires the dwarves use in their forges
+[P5-A-B0073-002] S=['CALADRA'] P=is spouse of O=['MOSTAL'] implicit=False ps="was among Mostal's lovers" sug=is spouse of
+   Q: The Mostali say that Caladra was among Mostal's lovers
+[P5-A-B0073-003] S=['ARGAN ARGAR'] P=binds O=['LODRIL'] implicit=False ps="captured" sug=binds
+   Q: bad relations with the Dark cults were incited in the Godtime, when Argan Argar captured Lodril
+[P5-A-B0073-004] S=['ZORAK ZORAN'] P=fights O=['THOSE TRYING TO DISPEL THE DARKNESS'] implicit=False ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Zorak Zoran and the rest fought against those trying to dispel the Darkness.
+[P5-A-B0073-005] S=['STORM BULL'] P=fights O=['LODRIL'] implicit=False ps="attack on" sug=invades / raids
+   Q: The Air cults, too, are distrusted, though in a lesser degree, due to Storm Bull's attack on Lodril.
+[P5-A-B0073-006] S=['STORM BULL'] P=fights O=['CHAOS'] implicit=False ps="valor against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Still, the Storm Bull's valor against Chaos is grudgingly admitted.
+[P5-A-B0073-007] S=['AURELION'] P=manifests O=[] MOD={"in_on_at": "THE BREAKWATER", "from": "THE EARTH"} implicit=False ps="emergence from the Earth" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Especially elaborate rites are held at the Breakwater on Clayday in Fire season, and at the Vent on Fireday in Earth season - these being the days of emergence from the Earth of Aurelion and Caladra, respectively.
+[P5-A-B0073-008] S=['CALADRA'] P=manifests O=[] MOD={"in_on_at": "THE VENT", "from": "THE EARTH"} implicit=False ps="emergence from the Earth" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Especially elaborate rites are held at the Breakwater on Clayday in Fire season, and at the Vent on Fireday in Earth season - these being the days of emergence from the Earth of Aurelion and Caladra, respectively.
+[P5-A-B0073-009] S=['TESSELE'] P=is child of O=['AURELION'] implicit=False ps="was a mortal child of" sug=is child of
+   Q: Tessele was a mortal child of Aurelion, and one of the first Twin Priests.
+[P5-A-B0073-010] S=['TESSELE'] P=is member of O=['THE TWIN PRIESTS'] implicit=False ps="one of the first Twin Priests" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Tessele was a mortal child of Aurelion, and one of the first Twin Priests.
+[P5-A-B0073-011] S=['THE PRIESTS OF THED'] P=sacrifices O=["TESSELE'S SOUL-SIBLING"] implicit=True ps="trapped and sacrificed" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: When her Soul-Sibling was trapped and sacrificed by the Priests of Thed
+[P5-A-B0073-012] S=['TESSELE'] P=travels O=[] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="quest for vengeance" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: her subsequent quest for vengeance made her the first hero of the cult.
+[P5-A-B0073-013] S=['SILONIA', 'RALFORISUS'] P=is child of O=['HARANA ILOR', 'LARNSTE'] implicit=False ps="coupled and produced" sug=is child of
+   Q: Harana Ilor, goddess of harmony and Larnste, god of change, coupled and produced a pair of twins to delight the universe. || The pair were Silonia, goddess of Dance, and Ralforisus, god of Music.
+[P5-A-B0073-014] S=['SILONIA'] P=is twin of O=['RALFORISUS'] implicit=False ps="a pair of twins" sug=is sibling of (qual=twin)
+   Q: produced a pair of twins to delight the universe. || The pair were Silonia, goddess of Dance, and Ralforisus, god of Music.
+[P5-A-B0073-015] S=['HARANA ILOR'] P=embodies O=['HARMONY RUNE'] implicit=True ps="goddess of harmony" sug=one of: embodies, has domain
+   Q: Harana Ilor, goddess of harmony
+[P5-A-B0073-016] S=['SKOVARI'] P=is child of O=['SILONIA', 'RALFORISUS'] implicit=True ps="was the first child of" sug=is child of
+   Q: Skovari was the first child of Dance and Music.
+[P5-A-B0073-017] S=['MOLAMIN'] P=is child of O=['SILONIA', 'RALFORISUS'] implicit=True ps="is the second child of" sug=is child of
+   Q: Molamin is the second child of Dance and Music.
+[P5-A-B0073-018] S=['MOLAMIN'] P=travels O=[] MOD={"to": "THE GRAND IMPERIAL PALACE OF THE SUN"} implicit=True ps="went to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He went to the Grand Imperial Palace of the Sun, and there he entertained all the nobles, including the Emperor of the Universe himself.
+[P5-A-B0073-019] S=['DROGARSI'] P=is child of O=['SILONIA', 'RALFORISUS'] implicit=True ps="is the third child of" sug=is child of
+   Q: Drogarsi is the third child of Dance and Music. He was born in the Storm Age
+[P5-A-B0073-020] S=['DONANDAR'] P=is child of O=['RALFORISUS', 'TYLENEA'] implicit=False ps="bore the child" sug=is child of
+   Q: Ralforisus found and stayed with Tylenea, goddess of Illusion. They bore the child Donandar.
+[P5-A-B0073-021] S=['TYLENEA'] P=embodies O=['ILLUSION RUNE'] implicit=True ps="goddess of Illusion" sug=one of: embodies, has domain
+   Q: Ralforisus found and stayed with Tylenea, goddess of Illusion.
+[P5-A-B0073-022] S=['THE PUPPETEERS'] P=teaches O=['DONANDAR'] implicit=True ps="from them he learned" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The young god left his parents to wander the world with worshipers of his mother, the Puppeteers, and from them he learned the arts of entertaining and mastery of illusions
+[P5-A-B0073-023] S=['A TRIBE THAT HAD TURNED TO EVIL'] P=binds O=['SKOVARI'] implicit=False ps="captured" sug=binds
+   Q: He came upon Skovari first, whose trust and love of the common people had caused him to be captured by a tribe that had turned to evil.
+[P5-A-B0073-024] S=['DONANDAR'] P=protects O=['SKOVARI'] implicit=False ps="freed" sug=rescues / frees
+   Q: Donandar freed Skovari, and they traveled together.
+[P5-A-B0073-025] S=['THE FORCES OF KYGER LITOR'] P=binds O=['MOLAMIN'] implicit=False ps="trapped and caged" sug=binds
+   Q: The pair then came across Molamin, trapped and caged by the forces of Kyger Litor.
+[P5-A-B0073-026] S=['DONANDAR'] P=bestows magic / gifts O=['KYGER LITOR'] implicit=False ps="intervened with a gift of hymns to" sug=one of: bestows, heals, imbues, teaches
+   Q: intervened with a gift of hymns to Kyger Litor so enchanting and so flattering that she not only freed Molamin but granted Donandar her eternal friendship.
+[P5-A-B0073-027] S=['KYGER LITOR'] P=bestows magic / gifts O=['DONANDAR'] implicit=True ps="granted Donandar her eternal friendship" sug=one of: bestows, heals, imbues, teaches
+   Q: she not only freed Molamin but granted Donandar her eternal friendship.
+[P5-A-B0073-028] S=['THE WHITE GODDESS'] P=is alternative name for O=['CHALANA ARROY'] implicit=False ps="the White Goddess, Chalana Arroy" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Traveling on, the three came upon the White Goddess, Chalana Arroy
+[P5-A-B0073-029] S=['A HORDE OF MINDLESS THINGS'] P=wounds O=['DROGARSI'] implicit=True ps="chewed away parts of" sug=wounds
+   Q: A horde of mindless things chewed away parts of the god even as Chalana Arroy tried to heal him.
+[P5-A-B0073-030] S=['DONANDAR'] P=enchants O=['THE SWARMING MONSTERS'] implicit=False ps="played entrancingly" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: Donandar played entrancingly and the swarming monsters stopped eating to join in the solemn dance.
+[P5-A-B0073-031] S=['DONANDAR'] P=protects O=['DROGARSI'] implicit=True ps="saved the life of" sug=one of: protects, rescues / frees, aids
+   Q: Thus, he saved the life of the god, their last brother — Drogarsi, and won the gratitude of the White Goddess.
+[P5-A-B0073-032] S=['DROGARSI'] P=is sibling of O=['DONANDAR', 'SKOVARI', 'MOLAMIN'] implicit=True ps="their last brother" sug=is sibling of
+   Q: Thus, he saved the life of the god, their last brother — Drogarsi
+[P5-A-B0073-033] S=['THE OTHER MUSIC BROTHERS'] P=bestows magic / gifts O=['DONANDAR'] implicit=False ps="lent him their songs and spells" sug=bestows
+   Q: Thus Donandar became leader, and the other music brothers lent him their songs and spells.
+[P5-A-B0073-034] S=['DONANDAR'] P=fights O=['CHAOS'] implicit=False ps="stood against chaos he hurled it back" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When Donandar stood against chaos he hurled it back with songs and dances
+[P5-A-B0073-035] S=['DONANDAR'] P=embodies O=['HARMONY RUNE', 'MOVEMENT RUNE', 'ILLUSION RUNE'] implicit=True ps="possesses the three runes of" sug=one of: embodies, has domain
+   Q: Donandar possesses the three runes of Harmony, Mobility, and Illusion.
+[P5-A-B0073-036] S=['SANCHALI'] P=is alternative name for O=["MEMBERS OF GEO'S CULT"] implicit=True ps="were sometimes called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: of Geo's cult were sometimes called Sanchali
+[P5-A-B0073-037] S=['GEO'] P=marries O=['A WIDOW OF THE TRIBE'] implicit=False ps="wed" sug=is spouse of (qual=wedding)
+   Q: Geo himself wed a widow of the tribe.
+[P5-A-B0073-038] S=['LODRIL'] P=is child of O=['AETHER'] implicit=False ps="his three sons" sug=is child of
+   Q: Father Aether, the One Before Fire, called his three sons before him. || Lodril, the youngest, volunteered.
+[P5-A-B0073-039] S=['THE ONE BEFORE FIRE'] P=is alternative name for O=['AETHER'] implicit=False ps="Father Aether, the One Before Fire" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Father Aether, the One Before Fire, called his three sons before him.
+[P5-A-B0073-040] S=['AETHER'] P=bestows magic / gifts O=['LODRIL'] implicit=True ps="received the grandest portion of the inheritance" sug=one of: bestows, heals, imbues, teaches
+   Q: Thus he received the grandest portion of the inheritance: a huge family, care of the Central World, and great inner strength.
+[P5-A-B0073-041] S=['LODRIL'] P=manifests O=['AN IMMORTAL MAN', 'A MAGICAL DEMIGOD', 'SUCCESSIVE MEMBERS OF A DYNASTY', 'AN ANCESTOR'] MOD={"in_on_at": ["DORADDI", "KRALORI", "DARA HAPPANS", "CALADRALAND"]} implicit=True ps="he was many places at once, sometimes in many different forms" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: an immortal man among the Doraddi, a magical demigod among the Kralori, successive members of a dynasty among the Dara Happans, and an ancestor who regularly possessed his descendants in Caladraland.
+[P5-A-B0073-042] S=['LODRIL'] P=protects O=['HUMANS'] implicit=False ps="aid, protect, and cheer" sug=one of: protects, rescues / frees, aids
+   Q: Lodril never wavers in his efforts to aid, protect, and cheer his frail flock of humans
+[P5-A-B0073-043] S=['THE WILDFIRE'] P=is born from O=['LODRIL'] implicit=False ps="His heart is the source of" sug=is born from
+   Q: His heart is the source of the Wildfire, an untamable demon of conflagration which once threatened to destroy all of creation until silenced by Lodril.
+[P5-A-B0073-044] S=['LODRIL'] P=defeats O=['THE WILDFIRE'] implicit=False ps="silenced" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: His heart is the source of the Wildfire, an untamable demon of conflagration which once threatened to destroy all of creation until silenced by Lodril.
+[P5-A-B0073-045] S=['LODRIL'] P=defeats O=['HIS FOE'] MOD={"in_on_at": ["THE HOLY COUNTRY", "THE VENT"], "using": "HOT LAVA"} implicit=False ps="exploding and destroying" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Lodril has since used that power many times, notably in the Holy Country, exploding and destroying his foe both with hot lava, where the Vent volcano is still visible for many kilometers above the sea
+[P5-A-B0073-046] S=['LODRIL'] P=protects O=['THE FAMILIES AND CLANS'] implicit=False ps="coordinated the preservation of" sug=one of: protects, rescues / frees, aids
+   Q: Lodril's protective nature coordinated the preservation of the families and clans who survived the many disasters of the darkness.
+[P5-A-B0073-047] S=['LODRIL'] P=embodies O=['FIRE / SKY RUNE', 'DISORDER RUNE'] implicit=True ps="Lodril's Runes are" sug=one of: embodies, has domain
+   Q: Lodril's Runes are Heat and Disorder.
+[P5-A-B0074-001] S=['PELORA', 'TESHNA'] P=is identified as O=['THE GRAIN GODDESS'] implicit=False ps="the Grain Goddess (Pelora, Teshna, etc., depending upon locale)" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: This holiday celebrates the Grain Goddess (Pelora, Teshna, etc., depending upon locale)
+[P5-A-B0074-002] S=['LODRIL THE MAKER', 'LODRIL THE FARMER'] P=is alternative name for O=['LODRIL'] implicit=False ps="Lodril the Maker is celebrated instead of Lodril the Farmer" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: In Pamaltela, Lodril the Maker is celebrated instead of Lodril the Farmer.
+[P5-A-B0074-003] S=['YELM'] P=departs from O=['LODRIL', 'DAYZATAR'] implicit=False ps="his forced betrayal of" sug=betrays
+   Q: In the evening everyone assists in "The Promise of Yelm," portraying his forced betrayal of Lodril and Dayzatar.
+[P5-A-B0074-004] S=['LODRIL'] P=rules O=['PEASANT GODS'] implicit=False ps="is like the village head man for" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Lodril is like the village head man for peasant gods. He tries to coordinate the lives of many individual, often quarrelsome, lesser deities.
+[P5-A-B0074-005] S=['A YOUNG MAN'] P=establishes cult O=['THE BROTHERHOOD OF THE INVISIBLE SPEAR'] implicit=True ps="was started" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: It was started in the First Age by a young man who survived the Rebellion of Growth.
+[P5-A-B0074-006] S=['THE INVISIBLE SPEAR OF MANHOOD'] P=comes into being O=[] MOD={"at_the_instigation_of": ["GUSTBRAN"]} implicit=False ps="forged" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: He took it to Gustbran, who forged the invisible Spear of Manhood so that anyone who dares to carry it can conceal it.
+[P5-A-B0074-007] S=['A YOUNG MAN'] P=travels O=[] MOD={"to": "GUSTBRAN"} implicit=True ps="took it to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He took it to Gustbran
+[P5-A-B0074-008] S=['CALADRA', 'AURELION'] P=is child of O=['LODRIL'] implicit=False ps="are two more of Lodril's children" sug=is child of
+   Q: Caladra and Aurelion These are two more of Lodril's children.
+[P5-A-B0074-009] S=['CALADRA', 'AURELION'] P=substitutes O=['LODRIL'] MOD={"in_on_at": "CALADRALAND"} implicit=True ps="have virtually replaced" sug=substitutes
+   Q: They are worshiped in Kethaela and have virtually replaced Lodril in Caladraland.
+[P5-A-B0074-010] S=['DENDARA'] P=is spouse of O=["LODRIL'S MOST IMPORTANT LORD"] implicit=False ps="The wife of" sug=is spouse of
+   Q: Dendara The wife of Lodril's most important lord provides Regrow Limb.
+[P5-A-B0074-011] S=['YELM'] P=rules O=['LODRIL'] implicit=False ps="Lodril's liege" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Yelm The King of the Gods, Lodril's liege, provides Shield.
+[P5-A-B0074-012] S=['THE KING OF THE GODS'] P=is alternative name for O=['YELM'] implicit=False ps="Yelm The King of the Gods" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yelm The King of the Gods, Lodril's liege, provides Shield.
+[P5-A-B0074-013] S=['LODRIL'] P=is member of O=['OLD GODS'] implicit=False ps="is recognized as one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: In Pamaltela Lodril is recognized as one of the Old Gods, who preceded Pamalt.
+[P5-A-B0074-014] S=['VANGONO'] P=is child of O=['LODRIL'] implicit=False ps="is Lodril's son" sug=is child of
+   Q: One prominent Doraddi deity, Vangono, is Lodril's son
+[P5-A-B0074-015] S=['LODRIL'] P=is member of O=["PAMALT'S COUNCIL OF THE GODS"] implicit=False ps="obtained a place on" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Lodril is one of the few Old Gods who obtained a place on Pamalt's Council of the Gods.
+[P5-A-B0074-016] S=['LODRIL'] P=fights O=['THE STEAMING JUNGLE HELL'] MOD={"at_the_instigation_of": ["PAMALT"], "purpose_clause": "TO THWART"} implicit=False ps="raised a range of mountains to stop the invasion" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When the steaming jungle hell swept south from the coast to overwhelm and destroy Pamalt's mild savannah, Lodril, at Pamalt's urging, raised a range of mountains to stop the invasion.
+[P5-A-B0074-017] S=['THE MOUNTAINS RAISED BY LODRIL'] P=survives as relic O=['PALARKRI', 'MARI', 'TARMO'] implicit=True ps="their remnants are still visible as" sug=survives as relic
+   Q: The mountains have been weathered by age, but their remnants are still visible as the Palarkri, Mari, and Tarmo ranges.
+[P5-A-B0074-018] S=['YELM'] P=is child of O=['AETHER'] implicit=False ps="is the son of" sug=is child of
+   Q: Yelm is the son of Aether
+[P5-A-B0074-019] S=['THE FLOWER BRINGER'] P=is alternative name for O=['YELM'] implicit=True ps="call him" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Many old elf songs call him the Flower Bringer
+[P5-A-B0074-020] S=['YELM'] P=discovers O=['A MAGICAL TOOL'] implicit=True ps="found" sug=discovers
+   Q: As a child god, he found a magical tool lying on the ground near where he walked.
+[P5-A-B0074-021] S=['A RUNE'] P=transforms into O=['THE HARP OF HARMONY'] MOD={"at_the_instigation_of": ["YELM"]} implicit=True ps="transformed into" sug=transforms into
+   Q: What he touched was a Rune, and it transformed into the Harp of Harmony at the sun god's touch.
+[P5-A-B0074-022] S=['YELM'] P=teaches O=['HIS SONS AND DAUGHTERS'] implicit=True ps="taught music to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He taught music to many of his sons and daughters, and appointed Hyraos Truetune special caretaker and god of Harping.
+[P5-A-B0074-023] S=['YELM'] P=alters mythic station O=['HYRAOS TRUETUNE'] implicit=True ps="appointed special caretaker and god of Harping" sug=appoints
+   Q: He taught music to many of his sons and daughters, and appointed Hyraos Truetune special caretaker and god of Harping.
+[P5-A-B0074-024] S=['YELM'] P=rules O=['THE WORLD'] implicit=False ps="position as Emperor of the World" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Because of Yelm's position as Emperor of the World, the harp became the instrument of nobility.
+[P5-A-B0074-025] S=['KARGAN TOR'] P=teaches O=['THE GODS'] implicit=False ps="the gods learned the military arts from" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Age that the gods learned the military arts from Kargan Tor in the guise of practice, exercises, or fashionable sport.
+[P5-A-B0074-026] S=['YELM'] P=rules O=['THE FIERY SKY ARMIES'] implicit=False ps="a leader of" sug=leads
+   Q: Yelm became known as a great warrior, both as a heroic individual and as a leader of the fiery Sky Armies.
+[P5-A-B0074-027] S=['YELM'] P=fights O=['ZORAK ZORAN'] implicit=False ps="drove the dark war god out of his lands" sug=exiles / banishes
+   Q: His most famous fights were against Zorak Zoran, when he drove the dark war god out of his lands, though Yelm's Shield of Purity was shattered
+[P5-A-B0074-028] S=['YELM'] P=fights O=['ORLANTH'] implicit=True ps="his battle against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: and his battle against Orlanth, who had secreted away the new weapon of his brother, Humakt.
+[P5-A-B0074-029] S=['ORLANTH'] P=steals O=['THE NEW WEAPON OF HUMAKT'] implicit=False ps="had secreted away" sug=steals
+   Q: Orlanth, who had secreted away the new weapon of his brother, Humakt.
+[P5-A-B0074-030] S=['HUMAKT'] P=is sibling of O=['ORLANTH'] implicit=False ps="his brother" sug=is sibling of
+   Q: Orlanth, who had secreted away the new weapon of his brother, Humakt.
+[P5-A-B0074-031] S=['HEALER'] P=is alternative name for O=['YELM'] implicit=False ps="received the title of" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yelm received the title of Healer when once he came upon Mallia, goddess of disease, as she festered and infected a corner of the world.
+[P5-A-B0074-032] S=['YELM'] P=fights O=['MALLIA'] implicit=True ps="drove the foul goddess away" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Yelm's healing brightness drove the foul goddess away into deep places where she eventually found Chaos to aid her.
+[P5-A-B0074-033] S=['MALLIA'] P=discovers O=['CHAOS'] MOD={"in_on_at": "DEEP PLACES", "purpose_clause": "TO AID"} implicit=True ps="eventually found Chaos to aid her" sug=discovers
+   Q: Yelm's healing brightness drove the foul goddess away into deep places where she eventually found Chaos to aid her.
+[P5-A-B0074-034] S=['YELM IMPERATOR'] P=is alternative name for O=['YELM'] implicit=False ps="most important title is that of" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yelm's most important title is that of Emperor, or Yelm Imperator.
+[P5-A-B0074-035] S=['CELESTIAL COURT'] P=alters mythic station O=['YELM'] implicit=True ps="handed rule of the cosmos over to" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Evidently, some time during the Golden Age, the Celestial Court handed rule of the cosmos over to the shining god.
+[P5-A-B0074-036] S=['BASKO'] P=challenges O=['YELM'] implicit=False ps="opponents against him" sug=one of: challenges, breaks oath, betrays, fights
+   Q: When Yelm ascended to become Emperor of the Universe, there were only three opponents against him. First was Basko, a discontent light god
+[P5-A-B0074-037] S=['MOLANDRO'] P=challenges O=['YELM'] implicit=False ps="presented serious opposition" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Molandro was next. He presented serious opposition as the Guardian of the Earthly Powers who ruled before Yelm.
+[P5-A-B0074-038] S=['MOLANDRO'] P=is identified as O=['THE GUARDIAN OF THE EARTHLY POWERS'] implicit=True ps="as the Guardian of the Earthly Powers" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: He presented serious opposition as the Guardian of the Earthly Powers who ruled before Yelm.
+[P5-A-B0074-039] S=['YELM'] P=defeats O=['MOLANDRO'] implicit=True ps="overcame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Yelm had trouble, but he overcame this foe alone, though he used some magical instruments.
+[P5-A-B0074-040] S=['JOKBAZI'] P=has monstrous form O=[] implicit=True ps="a monster mutable in its monstrosity" sug=has anomalous form (qual=monstrous)
+   Q: It was a monster mutable in its monstrosity and accompanied by lesser creatures of horror.
+[P5-A-B0074-041] S=['YELM'] P=defeats O=['THE FORCES OF CHAOS'] MOD={"in_on_at": "THE FIELDS OF DESTINY", "with_the_aid_of": ["THE CELESTIAL HOSTS AND FIERY POWERS"]} implicit=False ps="the forces of chaos were overthrown" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: To combat it, Yelm summoned all of the celestial hosts and fiery powers. || The battle was fought at the Fields of Destiny and the forces of chaos were overthrown.
+[P5-A-B0075-001] S=['YELM'] P=rules O=['THE EARTH GODS', 'THE OTHER FIRE DEITIES', 'SOME OF THE SEA GODS', 'A FEW OF THE DARKNESS GODS'] implicit=False ps="was Emperor over" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Yelm, a Sky God, was Emperor over the earth gods, the other fire deities, some of the sea gods, and a few of the darkness gods.
+[P5-A-B0075-002] S=['THE STORM GODS'] P=shatters O=["YELM'S UTOPIA"] implicit=False ps="The birth of the violent Storm Gods shattered" sug=shatters
+   Q: The birth of the violent Storm Gods shattered Yelm's utopia.
+[P5-A-B0075-003] S=['UMATH'] P=steals O=["AETHER'S PRESTIGE"] implicit=False ps="usurped" sug=steals
+   Q: Umath usurped Aether's prestige
+[P5-A-B0075-004] S=['ORLANTH'] P=challenges O=['YELM'] implicit=False ps="competed for Yelm's throne" sug=one of: challenges, breaks oath, betrays, fights
+   Q: the crude Orlanth competed for Yelm's throne.
+[P5-A-B0075-005] S=['YELM'] P=defeats O=['ORLANTH'] implicit=False ps="was victorious in every contest" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In the rivalry between Orlanth and Yelm, Yelm was victorious in every contest
+[P5-A-B0075-006] S=['ORLANTH'] P=kills O=['YELM'] implicit=True ps="resorted to assassinating" sug=one of: kills, shatters, dies
+   Q: the frustrated Orlanth finally resorted to assassinating him.
+[P5-A-B0075-007] S=['YELM'] P=descends into O=['THE UNDERWORLD'] implicit=False ps="arrived in the underworld" sug=one of: descends into, dies
+   Q: When the murdered Yelm arrived in the underworld, accompanied by a host of friends and subjects, the malignant forces of night refused him entry.
+[P5-A-B0075-008] S=['THE MALIGNANT FORCES OF NIGHT'] P=challenges O=['YELM'] implicit=True ps="refused him entry" sug=one of: challenges, breaks oath, betrays, fights
+   Q: the malignant forces of night refused him entry.
+[P5-A-B0075-009] S=['YELM'] P=fights O=['THE DARK MONSTERS'] implicit=False ps="drove the dark monsters far away" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Yelm's bright glory drove the dark monsters far away
+[P5-A-B0075-010] S=['LAND OF THE BRIGHT DEAD'] P=comes into being O=[] MOD={"in_on_at": "HELL", "at_the_instigation_of": ["YELM"]} implicit=True ps="set up" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: he set up his Land of the Bright Dead in Hell.
+[P5-A-B0075-011] S=['ORLANTH'] P=travels O=[] MOD={"to": "YELM", "purpose_clause": "TO OBTAIN"} implicit=True ps="came seeking Yelm's help" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: finally came seeking Yelm's help.
+[P5-A-B0075-012] S=['YELM'] P=pledges oath with O=['ORLANTH'] implicit=False ps="made oaths of truce and compromise with each other" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Yelm and Orlanth made oaths of truce and compromise with each other
+[P5-A-B0075-013] S=['YELM'] P=marries O=['DENDARA'] implicit=False ps="took Dendara as his queen" sug=is spouse of (qual=wedding)
+   Q: Yelm took Dendara as his queen

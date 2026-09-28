@@ -1,0 +1,105 @@
+### GSB:00079 | GSB | p.23 | Kana-Telsor
+FIGURES: HON-EEL, RED EMPEROR
+TEXT: lover Black Faun 7. Tastinim (1470–1477) 8. Halifitoor (1477–1481) Red Emperor 9. Marofdul (1481–1487, died 1490) Red Emperor Valar-Telsor 10. Pyjeemsab (1487–1490) Hon-eel the Artess 11. Phoronestes (Born 1491, 1510–1535) Kana-Telsor 13. Palashee Long Axe (1538–1555)
+TARGETS: dies
+
+### GSB:00081 | GSB | p.24 | Glorantha Sourcebook
+FIGURES: HON-EEL
+TEXT: lunar tarsh On retrospect, the death of Sarotar heralded the end of Sartar's golden age of peace and prosperity. In 1555, the Lunar Empire invaded Tarsh to reinstall the Hon-eel Dynasty as rulers of that kingdom. With the aid of Prince Jarolar of Sartar and his Praxian allies, King Palashee routed the Lunar Army at the Battle of Karnge Farm. The exiled Lunar King Philigos and his bodyguard were slain. Their scalps still adorn the Shaker's Temple. After the victory feasts, the armies disbanded. Then, in the dead of night, the younger brother of the slain Lunar king launched a surprise raid. King Palashee waited only briefly to gather a small force, comparable in size to that of the desperate raider. King Palashee met General Phargentes in battle and they fought so fiercely that the grass at Axefield is still red today. But in the end Lunar trickery won, and Long Axe was slain.
+TARGETS: dies; punishes / exiles
+
+### GSB:00090 | GSB | p.27 | Qu een s of E sroli a
+FIGURES: NORINEL, THE MASTERS OF LUCK AND DEATH
+TEXT: 27 Glorantha Sourcebook Qu een s of E sroli a Bruvala (1461–1510).Called the High Queen, the Great, or the Mother of Queens, Bruvala was the greatest queen of Esrolia since the Second Age. She was born in 1441 to House Norinel. She married 15 men, and at one time maintained five husbands. She had 23 children (eight female, 15 male), including three queens and one winner of the Tournament of the Masters of Luck and Death. Her son forced her to retire as Reverend Grandmother, and she dominated Esrolia for another generation in "retirement". She died in 1545, at 104 years old. Every subsequent Esrolian queen can trace her ancestry to Bruvala.
+TARGETS: dies
+
+### GSB:00091 | GSB | p.28 | Qu een s of E sroli a
+FIGURES: NORINEL, THE MASTERS OF LUCK AND DEATH
+TEXT: brother won the Tournament of the Masters of Luck and Death in 1550. Imarjira was forced to abdicate in 1564. She died in 1603, aged 72. Bruvalaina (1510–1522).Born 1485 into House Norinel. Daughter of Bruvala, she was an obedient daughter of the Reverend Grandmother, until she tried to rule the city in fact as well as title. She was forced to abdicate and retired to Ezel. She died in 1544 at 59 years old.
+TARGETS: dies
+
+### GSB:00092 | GSB | p.28 | Bruva (1522–1525). Born 1500 to House Norinel. Daughter
+FIGURES: BELINTAR, NORINEL
+TEXT: Bruva (1522–1525). Born 1500 to House Norinel. Daughter of Bruvala, she was acclaimed queen after her half-sister abdicated. She was murdered after trying to seize power from her mother. Hendira (1610–1622).Born 1580 to House Norinel. Granddaughter of Norina and daughter-in-law of Valinalda. She recklessly sought an alliance with the Lunar Empire after the disappearance of Belintar. At her behest, a Lunar Temple was built in our great city and foreign troops marched upon the sacred stones of our streets. Rumor has it that she took a Lunar general as a lover. So offended were the goddesses, the priestesses, and the people that her misrule led to civil war. She was rightfully ejected from the throne in 1622, and died in 1624, aged 44.
+TARGETS: dies
+
+### GSB:00093 | GSB | p.28 | Bruva (1522–1525). Born 1500 to House Norinel. Daughter
+FIGURES: BELINTAR, NORINEL
+TEXT: Brengala (1525–1545).Born 1509 to House Norinel. Youngest daughter of Bruvala, she was eventually given actual power by her mother. She aided Belintar against Doragrestol the Lisper. Brengala retired to become Reverend Grandmother upon Bruvala's death. She was killed in 1565. Norina (1545 to 1551).Born 1525 to House Norinel. Daughter of Brengala, Norina ruled well but was killed by Sartarite assassins seeking to avenge the death of their prince. Imarjira (1551–1564).Born 1521 to House Delaeos (great-granddaughter of Bruvala through Bruvala's son, Imarjira's grandfather). She had a difficult reign, with much conflict with Brengala, the Reverend Grandmother. Her
+TARGETS: dies; avenges
+
+### GSB:00095 | GSB | p.28 | Valinyr (1564–1585).Born 1540 to House Delainaeo
+FIGURES: BELINTAR, DORMAL
+TEXT: 28 Valinyr (1564–1585).Born 1540 to House Delainaeo (great-granddaughter of Bruvala and niece of Brengala). Called the Sage. Overshadowed in history by her cousin Valina (the lover of Belintar and mother of Dormal), Valinyr was a shrewd ruler and a generous patron of many temples (particularly the Temple of Knowledge). Retired to become Reverend Grandmother. She died in 1610, aged 70.
+TARGETS: dies
+
+### GSB:00096 | GSB | p.28 | Valinyr (1564–1585).Born 1540 to House Delainaeo
+FIGURES: ARGRATH, ERNALDA
+TEXT: Samastina (1622 to present).Born 1603 to House Delaeos. Daughter of Marilaina (and great-granddaughter of Imarjira—also the niece of Hendira). By the blessings of Ernalda she was chosen to ascend to the rule of our city, to heal the wounds inflicted by her aunt. She has taken no husband as yet, but her lovers have included Broyan of Whitewall and Argrath of Sartar.
+TARGETS: heals
+
+### GSB:00099 | GSB | p.29 | THE FALL OF BOLDHOME
+FIGURES: (none registered)
+TEXT: took Boldhome and the Flame of Sartar was quenched, battered, and cursed. Although it occasionally sputtered on for years afterwards, for the next twenty-five years the fire of the land was effectively dead. The Lunar army occupied the capital and cities, and began their occupation. Tribute was laid on all subject tribes. The Household of Death had failed. Sartar had fallen.
+TARGETS: curses
+
+### GSB:00101 | GSB | p.30 | Army invaded Kethaela. But the God-King Belintar's magic
+FIGURES: BELINTAR, JAR-EEL
+TEXT: 30 Army invaded Kethaela. But the God-King Belintar's magic defended his land, and the Lunar Army was defeated at the Building Wall Battle. Moirades died during sexual intercourse during a religious ceremony with Jar-eel the Razoress in 1610. Jar-eel later gave birth to a son from that union. Moirades eldest son, Pharandros, became king and encouraged the citizenry to engage and indulge in many colorful imperial practices. Pharandros was enmeshed in imperial politics that later seriously affected his rule. Significant among the new fashions was the civil conflict he began. In 1610, after being turned back from the rich ports of the Holy Country, the Lunar Empire attempted to outflank the God-King and the Lunar army marched eastward towards Pavis. Valiant nomads gathered forces to resist the Chaos foe, but were decisively defeated and slaughtered at the First Battle of Moonbroth. The Lunar army marched against Pavis. The city resisted for a single day, then opened its gates to the besiegers. Within a few years, the Empire had built the port city of Corflu on the coast, but it failed to attract more than a miserable sliver of the Holy Country's commerce.
+TARGETS: dies
+
+### GSB:00105 | GSB | p.33 | OFFSPRING
+FIGURES: RED EMPEROR
+TEXT: The rebel leaders were either outlawed or killed. The Red Emperor gave Fazzur command of the Provincial Army and appointed him Governor-General of Dragon Pass. Fazzur found a surviving member of the Sartar Dynasty to place on the throne of Boldhome, a scholar named Temertain who lived in the Knowledge Temple in Nochet. Temertain was the sixth son of Jotisan of Karse, son Markalor of Nochet, who was son of Eonistaran the Sage, a bastard son of King Sartar who had been an advisor to Prince Saronil. Fazzur was the prince's main advisor, and the real ruler of Sartar, as Temertain was unfit for leadership. The Red Emperor sent a spy, Estal Donge, to keep the prince occupied, and she and Fazzur were soon rivals. After a short time Estal ruled Temertain, but Fazzur ruled Sartar.
+TARGETS: dwells at; punishes / exiles
+
+### GSB:00112 | GSB | p.35 | Glorantha Sourcebook
+FIGURES: ARGRATH, RED EMPEROR, RED GODDESS
+TEXT: H i s t o r y o f D r a g o n Pa s s School of Magic and leader of the imperial Assiday family, as commander of the siege. Fazzur had spent much of 1620 negotiating with Hendira the Red Earth Queen and her supporters in Esrolia. Some of them had adopted Lunar gods and wished to establish Lunar temples to educate the populace. Others even wanted outright Lunar rule. In 1621, a giant cradle, carrying the last baby of the Old Giants and numerous treasures from the Gods Age, made its way down the River of Cradles in Prax. Sor-eel, the Lunar governor of Prax, was determined to seize and plunder the cradle, but, to their surprise, it was defended by Argrath White Bull, an Orlanthi hero who knew many magical secrets, wielded strange powers, and had made even stranger allies. The baby giantess and its defenders made its way to the sea. Later that year, Fazzur prepared to move the Lunar army into Esrolia. But this invasion never occurred, thanks to more imperial plotting and internecine squabbles. Advance elements of the army had already set off when orders from the Red Emperor himself arrived that assigned most of the Fazzur's troops to Tatius the Bright. Fazzur was furious. Instead of the army he sent a picked band of specialists to assist Queen Hendira. With this small assistance she soon gained ascendancy in the great city of Nochet. Priestesses of the Red Goddess laid down the foundations of a great Lunar temple. Fazzur considered
+TARGETS: possesses / wields
+
+### GSB:00113 | GSB | p.35 | WINDSTOP
+FIGURES: ORLANTH
+CONTEXT: when orders from the Red Emperor himself arrived that assigned most of the Fazzur's troops to Tatius the Bright. Fazzur was furious. Instead of the army he sent a picked band of specialists to assist Queen Hendira. With this small assistance she soon gained ascendancy in the great city of Nochet. Priestesses of the Red Goddess laid down the foundations of a great Lunar temple. Fazzur considered
+TEXT: this a triumph, but it would soon be vastly overshadowed by events at Whitewall. WINDSTOP Since the Dawn Age, Whitewall has been an important religious center for the Orlanthi. It held the first temple to the god, where he had come back to life after the Great Darkness. This stronghold was the last great holy center of Orlanth that had not fallen to the Lunar Empire. Tatius claimed that to take it would end the worship of Orlanth entirely. He used his great influence to get every possible resource for his assault. When the final Lunar assault came in winter 1621, the defenders inflicted terrible losses on the Lunar army. Entire regiments were destroyed and nearly half of the Field School of Magic was killed. Only Tatius' will kept the Lunars fighting against the very air and rock itself, although nearly all of his bodyguards and companions died. In the end, Tatius' will triumphed. Whitewall fell. The victorious Lunars were shocked to discover that only two dozen men and women had defended the city. This could have served as a warning to Tatius, but his victory seemed complete and he was about to take steps to ensure a final Lunar triumph in Dragon Pass. With Orlanth's last temple fallen, the final step was simple. The Lunar priests then killed the gods. Orlanth and
+TARGETS: dies
+
+### GSB:00115 | GSB | p.36 | Glorantha Sourcebook
+FIGURES: ERNALDA, ORLANTH, RED GODDESS
+TEXT: in the provinces or the starvation along the frontiers, the nobles and citizens held marvelous revels that lit the sky, earth, and waters with glory. As was customary, no such benefits were granted to the Lunar Provinces, nor were the celebrations so grandiose. But without Orlanth, the winter would not end and the rains would not come. All of Dragon Pass, Kethaela, and Prax froze, except those parts of Tarsh protected by the Red Goddess. And without Ernalda, life would not return. Drought and famine plagued all those lands, crops failed, mothers did not give birth to children, and livestock did not calf. The very Sky was affected, as Orlanth's Ring did not appear in the Heavens. Throughout Glorantha, people reported that magic itself had somehow changed. The Cosmic Compromise had been weakened, and Chaos came in through its fraying web. At Orlanth's High Holy Day, 1621, while the Lunar celebration was only 11 weeks old, trouble began. King Broyan, who was believed to have died at Whitewall, appeared at the city of Bullflood with a household of heroic companions. They told their tale at the tribal
+TARGETS: speaks / prophesies; dies
+
+### GSB:00117 | GSB | p.37 | Glorantha Sourcebook
+FIGURES: ERNALDA, ORLANTH
+TEXT: But these were mere distractions. Tatius concentrated his main efforts upon erecting a New Temple to the Reaching Moon. Once emplaced, this would permanently extend the magical field of the Lunar Glowline to envelop all of Dragon Pass, and a considerable area beyond. Within the Glowline, the power of the Red Moon does not wane and, as a result, the Lunar sorcerers and magicians are far more powerful. In Earth Season, King Broyan ambushed the Lunar Army, destroying some of the best soldiers of the Lunar army at the Battle of the Auroch Hills. This victory partially freed Orlanth and Ernalda, allowing some heroes, devotees, and holy folk to wield their magic. Three yellow stars appeared in the Sky and began to follow the path of Orlanth's Ring through the heavens. The Great Winter ended and the seasons returned to their normal cycle. However, the damage to the Cosmic Compromise had been done, and nothing could help the countless people who had died from hunger, disease, and privation.
+TARGETS: possesses / wields; dies
+
+### GSB:00118 | GSB | p.37 | Glorantha Sourcebook
+FIGURES: (none registered)
+TEXT: the hero wars Beg in By their actions, the Lunars had rent and torn the Cosmic Compromise itself. Death and entropy again threatened the eternal God Time, and mortals wielded cosmic powers. We now know this was the beginning of the Hero Wars. After the Battle of Auroch Hills, the whole of Hendrikiland rose in rebellion. But they had to contend with the Chaos monsters and Wolf Pirates, and so a small Lunar army quelled the rebels quickly by controlling the monsters. Broyan went into hiding in the Shadow Plateau. Much of Sartar also rose in rebellion, led by Kallyr Starbrow. Another distraction for the Empire came from Esrolia, where the struggling pro-Lunar Red Earth Alliance was
+TARGETS: possesses / wields
+
+### GSB:00119 | GSB | p.37 | Glorantha Sourcebook
+FIGURES: ERNALDA
+TEXT: attacked, and their factions thrown out of many cities. The Red Earth Alliance raised an army and burnt a city of the Old Earth faction, but were chased away by spearmen with burning weapons. A coup in Nochet pulled the Lunar sympathizers from power and installed Queen Samastina of the Old Earth, who possessed Ernalda's blessings. The Lunar temple in Nochet was destroyed by a howling mob. Furthermore, the lands of Queen Hendira were plundered, and the Lunar temples there were also destroyed. The Red Earth queen asked for Lunar military help, but Tatius dispatched only the Grazeland Horse Army to help them. In Tarsh, King Pharandros was still friendly with his uncle Fazzur and gave him command of the Tarsh army when a host of Tusk Riders erupted from the Stinking Woods and raided deep into Tarsh. Fazzur Wideread organized the defense of Old Tarsh and his son Onjur the Poet achieved great fame when he killed the Half-Troll King in single combat outside of the walls of Bagnot. King Pharandros grew increasingly jealous and fearful of his uncle, and the two soon became bitter enemies.
+TARGETS: possesses / wields
+
+### GSB:00123 | GSB | p.38 | Glorantha Sourcebook
+FIGURES: ARGRATH, BELINTAR, ERNALDA, ORLANTH
+TEXT: 38 Ring, now comprised of eleven stars instead of eight, triumphantly appeared out of the Stormgate and rapidly climbed a third of the way up the Sky Dome. Orlanth was completely freed from his fetters and the wrathful Storm God sought vengeance upon those who had imprisoned him. Ernalda returned to her great temple in Esrolia and blessed all who had aided her with fertility and wealth. The remnants of the Lunar Army fled, and the Esrolian forces pursued to the Red Earth lands, where they wreaked terrible havoc and vengeance. With Greymane and his sons dead, the surviving Western Barbarians scattered back to Maniria. After being proclaimed King of Kethaela, King Broyan went back to Hendrikiland where his people welcomed him. Argrath and the young Old Earth Queen continued on to the Paps after summoning the immortal hero Jaldon Toothmaker, rallying the Praxian tribes behind the White Bull. That winter, Harrek and the Wolf Pirates sacked the City of Wonders. Belintar's place of power disappeared from the world, its unique magic lost forever. Also during the winter of 1624, a band of Humakti penetrated the Royal Palace in Boldhome and killed Prince Temertain with the sword that bore his doom. Most died in the attempt, but Temertain did not return.
+TARGETS: dies; avenges
+
+### GSB:00125 | GSB | p.39 | DR AGONRISE
+FIGURES: ARGRATH, FEATHERED HORSE QUEEN
+TEXT: and the Great King was killed there, with his army. His body was immolated among the cairns of his ancestors and he was mourned throughout the Holy Country and Dragon Pass. The Grazeland Pony Breeders also revolted and sent the Lunar tribute gatherers home with only dirt. Tatius ignored this, and King Pharandros sent his own general to quell the subsequent raids. They never saw the Feathered Horse Queen in these battles. In Fire Season, after appointing his ally Belvani as the new ruler of Sun County and cleansing the River of Cradles of the Lunar Grantlands, Argrath led his howling, bloodcrazed army of Praxians against the New Lunar Temple. Tatius sent a demon that had two arms, and an extra one, against them. The nomads were routed, and Argrath retreated to Pavis. In Sun County, a rival claimant to the office of Sun County emerged and promised to adhere strictly to temple tradition. She forced Argrath's ally Belvani to retreat to Pavis. Argrath spent the rest of the year gathering a new army. The time for the great Lunar Transformation of Dragon Pass came near. It was to begin at midnight on Clayday, Harmony week, Earth Season, ele, 1625, the day of the
+TARGETS: mourns
+
+### GSB:00132 | GSB | p.41 | Glorantha Sourcebook
+FIGURES: ORLANTH, RALZAKARK, RED EMPEROR
+TEXT: H i s t o r y o f D r a g o n Pa s s star, rise on the wrong day and then spiral around the sky in a mere six hours as several planets and constellations streaked out of place to explode against the orange stars. Other stars were simply darkened by the passage of Orlanth's Ring. People and beings across the world panicked at these terrifying phenomena and many set in motion their ancient curses, cosmic defenses, secret plans, and doomsday rituals. The loss to the Empire was tremendous, and in many cases irreplaceable. Within just minutes the Empire had lost all its provincial leaders, most of the priests, magicians, and sorcerers, most of their best troops, and the majority of their most fervent civilian supporters. Rebellion broke out throughout the Lunar Provinces. Aggar acclaimed a new Orlanthi king and rebelled against the Empire, as did Imther. Smaller rebellions broke out in Holay and Vanch. In Dorastor, the Chaotic Lunar ally Ralzakark was slain by the Orlanthi hero Oddi the Keen. The Lunar Empire was shaken to its foundations. There was little the Red Emperor could do about it, with the Provincial Army gone and the Heartlands Army waging a desperate defensive war against the King of the Wings, khan of the Pentan horse nomads.
+TARGETS: curses
+
+### GSB:00138 | GSB | p.42 | The Sartarite army was smaller, numbering 750 cavalry
+FIGURES: ORLANTH
+TEXT: 42 not return despite the prayers of the healers. King Ranulf of the Culbrea and Queen Amalda of the Malani also fell in battle. The Colymar, as the most powerful tribe present, took possession of Kallyr's body and brought her corpse back to Boldhome to be burned. In Boldhome, Kallyr's kin insisted that the Prince be given a full week to return from her death. When that time expired, mobs prevented Kallyr from being burnt, and so her body lay atop of the pyre at the Temple of Orlanth. When another week passed, blows were exchanged at the King's Square. The tribal leaders could not agree on a successor to Kallyr, for she was widely known to be the last of the royal house and was without heir. After her body had lain in state for over three weeks, untouched by rot or decay, the Colymar lit the pyre without notifying the other tribes. Queen Leika then led her followers out of Boldhome, leaving only fear and uncertainty. In Alda-Chur the imperial soldiers were quartered in the city with the natives, but they had no respect for the local Alda-Churi. The soldiers outraged the city people with their abusive attitudes and actions. Tarkalor
+TARGETS: trades / exchanges

@@ -1,0 +1,127 @@
+### WOD-GS:00782 | WOD-GS | WOD-GS 1944 (Library of Londarios: What the Mystic Ta) | Kachuti, a Dessheetan Isle
+FIGURES: (none registered)
+TEXT: Iren and Finzalvo had ten children, who learned all the things they needed to know from their parents. They all took a wife from among the animals that lived on the island, which is why we have bird families and lizard families.
+TARGETS: dwells at
+
+### WOD-GS:00783 | WOD-GS | WOD-GS 1944 (Library of Londarios: What the Mystic Ta) | Kachuti, a Dessheetan Isle
+FIGURES: (none registered)
+TEXT: One day the typhoon came unexpectedly, while Finzalvo was out fishing. Iren was grief stricken when he didn't return, especially since he had told her that he feared he was to be drowned that next day in a storm. Iren was so stricken that she died, and she was sent back to sea over there, where all the women after death.
+TARGETS: hates / fears; speaks / prophesies; dies
+
+### WOD-GS:00785 | WOD-GS | WOD-GS 1944 (Library of Londarios: What the Mystic Ta) | Sesre, A Keet Story
+FIGURES: (none registered)
+TEXT: Eral was torn between building nests or preparing a defense, and finally chose to make nests, using his sword to chop plants and his breastplate to shield a weakling from the sun. He was watched by Binda, who lives inside the island. She was moved by Eral's devotion and wanted to help him. Binda took the form of a female keet and, accompanied by many small and bright flying creatures, kneeled before Eral. She welcomed him to her island, and she warned him of the approaching flood.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00793 | WOD-GS | WOD-GS 1944 (Library of Londarios: What the Mystic Ta) | Mythic Ages of The East
+FIGURES: YOTHENARA
+TEXT: Here are the Cosmic Ages: First was the Cycle of Creation. In it the world was created and its denizens were born. People inhabited the world, and we have the stories about the Gamble Sea and the Ivaro River. It ended with the Dogsalu War, when that god kidnaped Yothenara, the High Gods saved her, and the High Gods begin their rule.
+TARGETS: dwells at
+
+### WOD-GS:00795 | WOD-GS | WOD-GS 1944 (Library of Londarios: What the Mystic Ta) | Mythic Ages of The East
+FIGURES: MASHUNASAN, OORSU SARA
+TEXT: Third was Cycle of the Gods. During this age occurred the Sages Rivalry, the Fall of Keetela, and the Helpless Death of the Kings. The age ended with the Oorsu Sara War. Oorsu Sara conquered the three worlds, and Mashunasan destroyed him without doing anything at all but maintaining his Detachment. Mashunasan refused to rule, and instead demigods begin their rule.
+TARGETS: dies
+
+### WOD-GS:00801 | WOD-GS | WOD-GS 1944 (Library of Londarios: What the Mystic Ta) | Mashunasan Tells Us
+FIGURES: ANTIGODS, MASHUNASAN
+TEXT: Mashunasan tells us: Now is the Realization War. We see about us many with Individual Consciousness who indulge happily in Partial Consciousness and willingly worship the Antigods, or practice perverted methods to exploit the power of meditation. Indulgence in this will bring suffering and help in the evil, no matter what you do.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00805 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Testimonial
+FIGURES: (none registered)
+CONTEXT: xternal identity; first memory; a person's first awakening to higher consciousness, called akindling; and a person's sevening, or waking of the secret Lunar consciousness that leads to Enlightenment. This last is the most variable, for it changes throughout a person's lifetime, while the others events generally do not. The document begins with the Testimonial of the Living Goddess, Teelo Estara.
+TEXT: Her Testimonial. She told us: "Before telling you about myself, I will tell you of me. I am Teelo Imara, who has seven times seven other names. I was born in Jernamathalana, the Snow White Palace. My first thought was when I saw the Wanderer pass close to my palace, and it incited me to depart from my home. I never got back. I was akindled when Homura, the Gem, my first baby, was born. I was sevened by the eight arms of Taraltara, the face and the mask."
+TARGETS: speaks / prophesies
+
+### WOD-GS:00808 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Early Mythology
+FIGURES: SHARGASH, VERITHURUSA, YELM
+TEXT: Scarlet Verithurusa kept wandering about the Sky, and there She took as lover the god Shargash, who hated Her afterwards; Asyrex, who was the father of Gem; Orbryix, who slew himself when She left him; Urnion, who was turned into a star; Zedada, later a great warrior; and Mur, whose daughter and son were healers. At last, weary of the world, She returned to Her own father's palace. Instead of finding welcome and affection from Yelm, She was rebuked and scolded, then cast from the palace forever. Grieving, She left, but a shadow remained behind, fluttering about in the Palace of Light on dark wings. They were not Her wings, and Yelm did not claim them, but they flapped around like a bat caught in the daytime. Those wings dimmed the eternal light of Yelm, so he did not see so clearly anymore and allowed his foes to enter and come close. Much later, he was killed, and afterwards his wife and his courtiers said it was the wings of Verithurusa that had caused his death. So ended the Creation Age, and so began the Storm Age.
+TARGETS: hates / fears
+
+### WOD-GS:00810 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Early Mythology
+FIGURES: LESILLA
+TEXT: Lesilla always shard her power into the many bodies of with Her descendants. Whichever of them was strongest was Cerrulia, and many others had specific titles as well. One of them was Demiska, the Contrary, and whichever one she inhabited most weakly was called Demiska. Demiska was given the wonderful Bow of Lesilla to compensate for her weakness.
+TARGETS: dwells at
+
+### WOD-GS:00811 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Early Mythology
+FIGURES: LESILLA
+TEXT: After the Flood, the Emperor of the World took Demiska into his palace, because he wanted her bow. Of course, she gave it to him, and she became his wife. Alas, he kept it, and the Mernitans were angry. They asked for the High Crown back, but instead the Emperor bent the magical bow and with it drove an immortal arrow through the heart of Lesilla, their Mother in the Sky. The Goddess, weak and old, stumbled and fell from the Sky. A part of Her is still visible as the Blue Moon Plateau, haunted and devastated, inhabited only by ghosts, demons, and trolls. The armies of the Emperor then conquered Mernita and put its people into slavery.
+TARGETS: dwells at
+
+### WOD-GS:00812 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Early Mythology
+FIGURES: GERRA
+TEXT: When the Emperor died, his wife mourned him, despite the mistreatment She had received and the evils he had done. She took the name Sorrow, or Gerra, and went into mourning. She put away her beautiful clothing and jewels, and donned the black dress of mourning. Over the generations, Her power waned, both from Her unending sadness and because She was further stripped of power. The world continued to grow dark, miserable, and terrifying. The Storm Age ended, and the Darkness began.
+TARGETS: mourns; dies
+
+### WOD-GS:00815 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Early Mythology
+FIGURES: GERRA
+TEXT: The Emperor made everyone seek the cause of his troubles in the secure dome, and the perpetuators of the evil blamed it instead upon Gerra, labelled as an interloper and invader. She was dragged out of the protection and impaled upon a stake set upright into the ground to suffer forever. Then the dome cracked. Some say it was because of Gerra's curse, or Her agonized screaming. Others say the cause was the righteous wrath of the Emperor, who was actually innocent and vastly offended. Others say it was the unrighout lies and evil of his underlines. Maybe it was just the monsters outside who broke in. The results were the same. The stronghold collapsed, all safety was lost, the Sky fell down upon the world, and Hell swallowed the remnants of both. Gerra was torn from Her stake and left to wander with the other unholy remnants of being.
+TARGETS: curses
+
+### WOD-GS:00816 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Early Mythology
+FIGURES: GERRA, KAZKURTUM
+TEXT: Demons ruled. Vengeance and hatred dominated. They destroyed everything, and would have destroyed Gerra as well, but they recognized in Her their own Mother. The shadows from the Realm of Light would not destroy Her. The miseries and tortures would not touch Her, who had been victimized to make them. And the things which were of otherworld origin, like Kazkurtum, ate Her and shat Her out whole. Miserable being! She wandered the world, and whatever She touched was awakened for a moment, aware of its own suffering and misery. Truly, She was Gerra, or Grief.
+TARGETS: avenges; sleeps / wakes
+
+### WOD-GS:00817 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Early Mythology
+FIGURES: BIJIIF, RASHORANA
+TEXT: But one time She found the stake which had impaled Her. It spoke to Her, and it said, "Rashorana, to live is to suffer, but to suffer is not to live." She lived, and She realized that She was more than suffering. With those words, She saw Herself, both Her miserable self and the radiant being that She had been. She was still all of that, and so She ignited a tiny spark. Some say that spark was hope; some say it was just fire. Whatever it was, She treasured and loved it, and whenever She met others, instead of igniting them to grief, She shared this brightness with them. Slowly at first, but faster as the world warmed, life began anew. Babies were born whole; laughter was heard; storms of ash congealed and gods rose from the ashes. Fires revealed their souls; stars rose; Bijiif separated the living from the dead, the immortals from mortals, the spirits and essences and gods from each other. Animals, plants, and minerals were differentiated, and Rashorana showed the inner life and purpose of each. The world was reborn.
+TARGETS: loves / desires; speaks / prophesies
+
+### WOD-GS:00818 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Early Mythology
+FIGURES: NYSALOR, RASHORANA, ULURDA
+CONTEXT: an anew. Babies were born whole; laughter was heard; storms of ash congealed and gods rose from the ashes. Fires revealed their souls; stars rose; Bijiif separated the living from the dead, the immortals from mortals, the spirits and essences and gods from each other. Animals, plants, and minerals were differentiated, and Rashorana showed the inner life and purpose of each. The world was reborn.
+TEXT: She called herself Ulurda. She found Her husband again, who had been lost so long ago and had been seeking the source of joy which was Her. Rashorana wove a new dress, sapphire blue this time, and with Her latest husband She rose into the Sky. She found Her bow, and they hunted the pieces of the universe across Sky, Underworld, and earth until everything was found and put into place once again. She taught of fire, of hunting, of love, and of the secrets of being. The sun rose. Nations separated, each to their own destiny. She began to become reborn in the world of mortals, from which all inspiration and change arises now. She was called Sethir, Verener, Morga, Sendaranpola, Urstenus, Davu, Nysalor, and Kerestus. Each of these men and women planted a portion of the knowledge that would be needed to dress Her in Her full glory.
+TARGETS: hunts
+
+### WOD-GS:00820 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Early Mythology
+FIGURES: NATHA
+TEXT: That is Natha, whom we know today, and love. We could tell ten stories about each of these phases She was in, and ten more about each of Her lifetimes. But however many times it is told, and however many beings She seems to be, She is One who is Many.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00821 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Path of Immortality
+FIGURES: RED GODDESS
+TEXT: Sedenya had been born immortal, beginning life in the aetheric realm and feeding upon the ambrosia of the gods. Yet She became mortal, a limited and finite being who had lost all memory of Her former divine existence. She worked and played, suffered and enjoyed, loved and hated just as all humans do. And She found her way back to godhead. Sedenya, The Great Being, did this because She wished to show human beings how to assist in the recovery of Godtime.
+TARGETS: loves / desires; hates / fears
+
+### WOD-GS:00823 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Path of Immortality
+FIGURES: (none registered)
+TEXT: The world has always been a worse place since the Otherworld Beings destroyed it in the Gods War. Humans have been the primary victims, and are now the primary methods of recovery. Humans didn't destroy the world, for they had no power in those days. Yet now they are the repositories of Free Will, and as such, wield the key to reconstruction. The endless cycles of being require that the world recover its former glory, and it is the job of She Who Cycles to lead the way. Hence Her life of suffering and love as a human being, to be the model for us all. Her ascent into the Heavens shows us the way for our own ascent, and Her promise is that the cosmos will follow.
+TARGETS: possesses / wields
+
+### WOD-GS:00826 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Teelo Estara
+FIGURES: TEELO NORRI
+TEXT: A being woke up in the body of a young girl. She discovered Her true selves and Self, and became immortal. First, at her growth. Teelo Norri had been a girl, young and breastless, with neither the hair nor the hips of a woman. Powerful people performed the Renativity. Then the innocent street girl with the black eyes and the dirty face was no more. Her identity disappeared, submerged by the flood of lives and memories that overwhelmed whatever she had been before. Her first words were "We are all Us." Teelo Norri vanished, and we know that Teelo Estara felt the girl slip beneath the waters of existence with some regret, at first, which disappeared quickly in the face of a hundred new selves and the immensity of the daily life that was set before Her.
+TARGETS: sleeps / wakes
+
+### WOD-GS:00829 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Teelo Estara
+FIGURES: YANAFAL TARNILS
+TEXT: And what of Her leadership in war? First, no one questions Her wisdom in leaving battle leadership to Yanafal Tarnils, save for the Second Battle of Memkorth when the great warlord was humbled (and no general dares to forget the subsequent admission of Her wisdom by the great man afterwards, which led to his reinstatement and later caution whenever he saw the flocks of eagles). And it was She who advised the promotions of Aggavaskaru and Paktalus, and She who named Manazura to defend Dorid, Pesdarau to be the quartermaster and Opada to command the river fleet, though the boatmen so resisted the idea of a woman to lead them.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00830 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | Teelo Estara
+FIGURES: BUSERIAN, NYSALOR, ULURDA
+TEXT: But of all these actions, the most important to Her was to study. Irippi Ontor was rarely far from Her elbow, except when he was researching some history or divining some fact. She would always ask his advice and information about whomever petitioned Her, but She just as often seized odd moments to inquire of him about some landmark that piqued Her memory, to discuss some philosophy alluded to by a visitor, or to pump him for knowledge of a genealogy, a famous person, or one of Her own previous incarnations. No doubt the candor of that brown man was instrumental in educating Her of the faults of her past, as well as the virtues. She Herself credits Irippi Ontor with teaching Her to avoid the obscurity of Nysalor and the unbridled arrogance of Morga. And everyone knows it was She who discovered the secrets of the Mernitan Altar and of Taraltara's Net, but it was Irippi Ontor who told Her about the cave where the altar was hidden, and of the impossibility of knowing Taraltara with Her mind. It was he, also, who revealed to Her so many secrets that he had learned from Buserian, such as the conjunctions of Ulurda with the stars Miningu, Plura, and Beto, and the knowledge of the invisible bodies of Aggatherada the hummingbird.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00843 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Other Side
+FIGURES: (none registered)
+TEXT: So it was that She went first to the oldest realm, in the era of the early Golden Age when She was but a child, and changed Her world. She stayed with the entity known as the Big Guy, and She lived with him in a cave. She had lived there before, eons earlier, and in Her original life and this one both She gave birth to Homura, Her sweet gem. In Her first life, She had eventually fled from this place, but this time, She cast out the Big Guy for his infidelities. This time, when he put a curse upon her, She ignored it. She thought that his curse was finished along with their love, but She did not understand its nature until it revisited Her later.
+TARGETS: dwells at; curses
+
+### WOD-GS:00845 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Other Side
+FIGURES: VERITHURUSA
+TEXT: Teelo Estara, who was called Teelo Verithurusa here, then arranged a great ceremony wherein She would be able to enter into the Otherworld. She had calculated that She needed to connect to another world of immortality at that very place. It was difficult, for She did not know all the prayers and gestures, nor the proper state of mind for assured success. She did get into the otherworld, but then the nature of Big Guy's curse became apparent. Instead of establishing a connection, She was cast out again, not as Herself but as a newborn. She was her own descendant. When She was born, She did not cry, but opened her eyes and spoke to Her mother and Her grandmother.
+TARGETS: speaks / prophesies; curses
+
+### WOD-GS:00853 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Other Side
+FIGURES: (none registered)
+CONTEXT: o more, and then She laughed in its face. She laughed until She could laugh no more, and so on through every possible feeling and thought until She was at last devoid of thought and emotion, entirely calm. Blaskarth hovered over her, the shadow of nonexistence, and neither with nor without knowledge She offered Her throat and womb to it. It struck, sinking hollow iron fangs deep within Her soul.
+TEXT: She died. All died. Everything. She failed to exist. She was not Her. She was. Not Her. Not. Her. Blaskarth hovered over her, and She offered Her throat and womb to it. It struck, sinking hollow iron fangs deep within Her soul.
+TARGETS: dies
+
+### WOD-GS:00855 | WOD-GS | WOD-GS 26818 (Lives of Sedenya (2006)) | The Other Side
+FIGURES: YANAFAL TARNILS
+TEXT: That was when Yanafal Tarnils found Her, a hollow husk, an empty shell, a meaningless being. Now, we need to tell briefly of this brave fellow, the boldest in the land. Yanafal Tarnils had been born well, with strength and intelligence. He was not afraid to kill, nor to offer himself to death for a good cause; nor was he afraid of life. He had also learned courage and, perhaps more importantly, discretion and the critical application of caution.
+TARGETS: hates / fears

@@ -1,0 +1,148 @@
+### CoRQ-Pr:00349 | CoRQ-Pr | pdf.58 | Malkioni Pantheon: Cursed Hero
+FIGURES: HERJAN
+TEXT: A few years later the Luatha landed, and Herjan tried to be killed fighting them. Alas, he was cursed instead, and is said to be wandering the world still, pleading for peace and understanding. #### <span id="page-58-0"></span>HESEZJAGU (HES-ez-JAG-oo)
+TARGETS: curses
+
+### CoRQ-Pr:00368 | CoRQ-Pr | pdf.61 | HRESTOL
+FIGURES: FROALAR, HRESTOL, MALKION, SESHNA LIKITA
+TEXT: ![](_page_60_Picture_18.jpeg) (h'RES-tuhl) #### Malkioni Pantheon: Hero of the Men of the West, Man of All, Ascended Master, Initiator Hrestol was the Ascended Man, son of Froalar, last of the Secret Keepers, and the great Hero of the West. A year after the Dawn of Time, Malkion appeared to Hrestol, then a noble talar of Seshnela in the service of his father. With the wisdom he gained, Hrestol killed the goddess Ifttala, the daughter of Seshna Likita and mother of the Pendali people. Hrestol died, was judged in the Underworld, and made his way back to the world of the living.
+TARGETS: dies
+
+### CoRQ-Pr:00369 | CoRQ-Pr | pdf.61 | HRESTOL
+FIGURES: HRESTOL, INVISIBLE GOD, ZZABUR
+CONTEXT: of the Secret Keepers, and the great Hero of the West. A year after the Dawn of Time, Malkion appeared to Hrestol, then a noble talar of Seshnela in the service of his father. With the wisdom he gained, Hrestol killed the goddess Ifttala, the daughter of Seshna Likita and mother of the Pendali people. Hrestol died, was judged in the Underworld, and made his way back to the world of the living.
+TEXT: He was banished from Seshnela for his crimes but accompanied in exile by the best of his people. Hrestol traveled to Brithos, Akem, and the Vadeli islands, teaching his insights to all who would listen. Hrestol taught that the old Malkioni philosophies were destructive to humankind's eternal souls and happiness. He taught how to achieve eternal Joy through unity with the Invisible God. Hrestol shook off the old limitations of caste that Zzabur demanded, in favor of the deeper truths of the world, and became the first Man of All.
+TARGETS: punishes / exiles
+
+### CoRQ-Pr:00383 | CoRQ-Pr | pdf.63 | With different paramours this couple produced a large variety of
+FIGURES: EARTHMAKER, HYKIM AND MIKYH, LOON, OTTER, SEA EAGLE
+TEXT: The Hsunchen themselves barely recognize the *Blue Book* genealogies and claim the world was created by Earthmaker and the Four Companions (Turtle, Loon, Otter, and Sea Eagle) or some variation thereof. Mikyh was the Dragon that impregnated and was impregnated by Hykim. Hykim and Mikyh were torn apart, and their parts made the universe and its inhabitants, including Old Man and Old Woman.
+TARGETS: dwells at
+
+### CoRQ-Pr:00385 | CoRQ-Pr | pdf.64 | Yelm Pantheon: God of Light and Good
+FIGURES: GANESATARUS, IDOVANUS, YELM
+TEXT: In the Green Age he was choreographer of innocents, in the Golden Age he withdrew into the Above as his shadow Ganesatarus went into the Below. Ganesatarus manufactured the murder of Yelm and defiled the world. Idovanus protected himself from the attacks of Ganesatarus by blessing the best gods and sending them against the legions of Ganesatarus during the Storm Age and the Great Darkness. Although the legions of Ganesatarus seemed to win, Idovanus had only withdrawn, and once all seemed lost, he merely spoke, and the world began again. The Blessed Gods came out of the Darkness and gave their powers to humankind again.
+TARGETS: speaks / prophesies
+
+### CoRQ-Pr:00386 | CoRQ-Pr | pdf.64 | Nearly Universal: Mythological Event of Great Importance and Mystery
+FIGURES: ERNALDA, IMARJA
+TEXT: ![](_page_63_Picture_10.jpeg) ▲ Esrolian depiction of Imarja and Ernalda #### I FOUGHT WE WON ### Nearly Universal: Mythological Event of Great Importance and Mystery During the Great Darkness, when everything was dead or dying, the last individual being confronted the entropy of Chaos and fought it. He managed to win, thanks to his secret essence. That individual then taught others, who remembered doing this themselves. They then discovered that other races too had done this singular event. It was the knowledge which was shared by the members of the Unity Council at the Dawn, and how they survived the Darkness. How a single entity, alone, was simultaneously every other living being as well, each of which was alone, is the mystery which is resolved by participating in their initiation.
+TARGETS: dies
+
+### CoRQ-Pr:00414 | CoRQ-Pr | pdf.69 | Hsunchen and Malkioni Pantheons: God of Reptiles
+FIGURES: GATA, JAR-EEL, JASKAL
+TEXT: Jar-eel is depicted as a beautiful, radiant woman with red hair. She carries a pair of curved sickle-swords and a lyre. #### **JASKAL** (jas-KAL) #### Hsunchen and Malkioni Pantheons: God of Reptiles According to the God Learner taxonomy of Gloranthan animals, Jaskal is the son of Hykim and Gata and father of all reptiles.
+TARGETS: possesses / wields
+
+### CoRQ-Pr:00455 | CoRQ-Pr | pdf.74 | Orlanthi Pantheon: Land Goddess of Kethaela
+FIGURES: FLAMAL, GENERT, ORLANTH
+CONTEXT: Orlanth's father is Umath, and Yinkin's father is Fralar. Kero Fin is depicted as a tall needle-shaped mountain or as a bare-breasted goddess standing atop a high mountain carrying a neck-ring of authority. #### Кетна ![](_page_73_Picture_30.jpeg) #### (KAY-tha) #### Orlanthi Pantheon: Land Goddess of Kethaela Ketha is a daughter of Gata and Genert. She is a generous and beautiful goddess.
+TEXT: She was desired by many suitors and took many lovers, including Genert and Flamal, and most famously married a powerful Storm god, Orlanth in some stories, his son Entru in others. The area around the Mirrorsea Bay is traditionally called Kethaela after her, although her worship exists throughout much of Maniria.
+TARGETS: loves / desires
+
+### CoRQ-Pr:00467 | CoRQ-Pr | pdf.76 | Kralorelan Pantheon: Land Goddess of Kralorela
+FIGURES: DARUDA, DRAGON EMPEROR, GODUNYA, KRALORA, OORSU SARA
+TEXT: (kra-LOR-a) Kralorelan Pantheon: Land Goddess of Kralorela Kralora is the goddess of the Rising Power Land. She was awakened by Daruda the first Dragon Emperor, when he cleansed the land of the ![](_page_75_Picture_18.jpeg) antigod Oorsu Sara's curse. Her cult was important in the Second Age and was sponsored by the False Dragon Ring, but it has declined under the rule of Godunya.
+TARGETS: curses; sleeps / wakes
+
+### CoRQ-Pr:00478 | CoRQ-Pr | pdf.78 | See Amuron
+FIGURES: AMURON, EARTHMAKER, LANBRIL, LANGAMUL, OLD GODS, PAMALT
+TEXT: Nobody knows the face of Lanbril, for he is the master of disguise. Priest-leaders take the part of Lanbril in cult religious ceremonies. #### LANGAMUL (lan-GAM-ul) Doraddi Pantheon: Earthmaker, Creator See Amuron Langamul is the Earthmaker, the Creator of the cosmos. Before he woke the Old Gods, he created the Hsunchen (called the Fiwan or Old People). Langamul later woke Pamalt and the other Old Gods but was then
+TARGETS: sleeps / wakes
+
+### CoRQ-Pr:00482 | CoRQ-Pr | pdf.78 | Vithelan Pantheon: Great Mystic
+FIGURES: LARAVENDERAIN AND VOLENDARU, LARN HASMADOR, OORDUREN
+TEXT: hand and in the other a mongoose that vomits silver, urinates gold, and defecates jewels. Laravenderain and Volendaru are always depicted and worshiped together. #### LARN HASMADOR #### (LARN HAZ-mah-dor) #### Vithelan Pantheon: Great Mystic Great mystic of the East Isles, and teacher of the Nothing. The ancient teachings of Oorduren were widespread, but precise methods were often questioned by others. The most successful method of meditation came from Larn Hasmador, whose name means "Empty Full Larn." He taught Immotion, which surpassed the Silence of Nenduren and allowed true unification with the Nothing. After obtaining this state of universal consciousness, Larn Hasmador lived a long life of peace and blessing among the peoples of the East Isles before he died peacefully, at which moment his entire body dissolved into Nothing. His worshipers dispersed, claiming that no temple or monastery could properly house Nothing. Practitioners of his methods are present throughout the eastern lands.
+TARGETS: dies
+
+### CoRQ-Pr:00487 | CoRQ-Pr | pdf.79 | Orlanthi Pantheon: Humakt Subcult
+FIGURES: GENERT, HUMAKT, LI PHANQUAN, VIVAMORT
+TEXT: in the local noble fashion, or in grey robes, always bearded. He wears the Arm Ring of Knowledge, and usually holds scrolls. #### Li Phanquan ![](_page_78_Picture_21.jpeg) (LEE fan-KWAN) #### Orlanthi Pantheon: Humakt Subcult This warrior from Kralorela fought for the Empire of the Wyrms Friends during its heyday. In a famous journey across the Wastes of Genert, he destroyed all the undead of the Wastes and wounded the Chaos god Vivamort. Since his death and the end of the Empire, some undead have returned to the Wastes, but his victory is still renowned.
+TARGETS: possesses / wields
+
+### CoRQ-Pr:00518 | CoRQ-Pr | pdf.84 | Malkioni Pantheon: Revealer of the Laws of the Invisible God
+FIGURES: MALKION
+TEXT: When the other deities became corrupted and warred among themselves, Malkion left his Tower of Reason and descended into the Material World. He was expelled from the Kingdom of Logic. Malkion himself died in the Great Darkness, killed by rebellious gods. Malkioni wizards now shape the universe without consent from the gods who elsewhere are believed to rule everything.
+TARGETS: dies
+
+### CoRQ-Pr:00522 | CoRQ-Pr | pdf.86 | See Abdamedric, Glorious Ones
+FIGURES: ABDAMEDRIC, GLORIOUS ONES, MALUBADOU
+TEXT: Fonritian Pantheon: Beholder of Beauty, God of Alchemy, Healing, And Medicine See Abdamedric, Glorious Ones Malubadou, Beholder of Beauty, the twin of Abdamedric personified Silver. He was an alchemist of great power. He returned with the secrets of healing and the art of medicine.
+TARGETS: heals
+
+### CoRQ-Pr:00547 | CoRQ-Pr | pdf.89 | Fonritian Pantheon: The Dark Sister, Avenging Earth Goddess
+FIGURES: ARTMAL, BARAKU, FARANAR, GLORIOUS ONES, MIROUNE
+TEXT: When Jarkaru the Indigo Conquerer destroyed Tishamto, Faranar cursed him and released Miroune. She helped Baraku kill Artmal and killed those who brought pollution to the Earth. She guards the temples of the Glorious Ones against the return of the Artmali.
+TARGETS: curses
+
+### CoRQ-Pr:00557 | CoRQ-Pr | pdf.89 | Troll Pantheon: Mother of the Jungle Trolls
+FIGURES: KYGER LITOR, MOORGARKI, PAMALT, UZ
+TEXT: (moor-GAR-ki) ### Troll Pantheon: Mother of the Jungle Trolls Moorgarki was a Mistress Race troll who lived in Kyger Litor's Uz Oueendom. <span id="page-89-0"></span>She was a great and terrible fighter who invaded the south with a great host of her children. She was wounded by Chaos at the Battle of Jaranpur Fields, and was later burnt by Pamalt, who was armed with the Spear of the Burner.
+TARGETS: dwells at
+
+### CoRQ-Pr:00561 | CoRQ-Pr | pdf.90 | Dwarf Pantheon: The Maker, God of Dwarfs
+FIGURES: ALDRYA, GROWER, MOSTAL
+TEXT: From his father he inherited power over stone, which is sometimes called the Unchanging Element. Mostal was skilled at all kinds of making and building, and possessed an inborn distrust and lack of understanding for Aldrya, the Grower. In the God Time, he and his brother Stone were slain by elves. Now, dwarfs work steadfastly to repair Mostal's machine, so that the world will work right again.
+TARGETS: possesses / wields
+
+### CoRQ-Pr:00569 | CoRQ-Pr | pdf.91 | Orlanthi Pantheon: Goddess Born in the Shape of a Man
+FIGURES: ERNALDA, NANDAN
+TEXT: (NAN-dan) #### Orlanthi Pantheon: Goddess Born in the Shape of a Man Nandan is a goddess worshiped by women born in the shape of men. Nandan is worshiped as a subcult of Ernalda. Nandan is depicted as an Earth goddess with the shape and clothing of a woman but revealing that she possesses a phallus.
+TARGETS: possesses / wields
+
+### CoRQ-Pr:00579 | CoRQ-Pr | pdf.92 | Malkioni Pantheon: Longlived King of Seshnela
+FIGURES: NORUMA, NRALAR THE OLD
+TEXT: Noruma is usually shown as a genderless or hermaphroditic person wearing an animal skin, carrying a tall drum, a double-gourd canteen, and wearing a string of flints. #### NRALAR THE OLD #### (NRAE-lar) #### Malkioni Pantheon: Longlived King of Seshnela Nralar the Old ruled Seshnela for over a century in the early Second Age. Powerful at first, he drove some people away to Jrustela, and paid for others to leave as well. He created a sorcerous school and government bureaucracy to prop him up during his increasing senility. He outlived sons and grandsons, and left Seshnela a shambles when he finally died. Nralar is remembered as the "Oldest of Kings." He reigned for over a century, from 501 to 603. He had so many descendants that their strife after his death led to centuries of civil war in Seshnela.
+TARGETS: dies
+
+### CoRQ-Pr:00580 | CoRQ-Pr | pdf.92 | Doraddi Pantheon: Mother of Life and Childbirth
+FIGURES: NYANKA
+TEXT: ![](_page_91_Picture_28.jpeg) (n'YAHNK-uh) #### Doraddi Pantheon: Mother of Life and Childbirth During the Green Age, Mother Nyanka walked across the world and blessed the land. When the Bad Times came, the land dried up, and the people saw the true meaning of her blessing. Every place where Mother Nyanka had slept during her journeys became a green oasis. She also used her generative powers to teach people how to make children. The watering holes of the Pamaltelan veldt are especially sacred to her, and the rivers
+TARGETS: sleeps / wakes
+
+### CoRQ-Pr:00594 | CoRQ-Pr | pdf.95 | Vithelan Pantheon: Master Sage, the Great Liberation, God of Luck
+FIGURES: ANTIGODS, ATRILITH, MASHUNASAN, OORDUREN, OORSU SARA
+TEXT: Oorduren was one of the Cosmic Dancers awakened by Atrilith. He first danced alone and later took his place at the center of the cosmos. Oorduren taught that the purpose of living was to be simple, healthy, and happy, and to achieve liberation through meditation. His soul was so pure that he overcame the King of the Antigods, who conquered the Underworld, the Middle World, and the Sky World. When Oorsu Sara came, Oorduren withdrew entirely from the world and his power passed on to Mashunasan.
+TARGETS: sleeps / wakes
+
+### CoRQ-Pr:00598 | CoRQ-Pr | pdf.96 | See Ernalda, Six Sisters
+FIGURES: ERNALDA, ORANA, ORLANTH
+TEXT: Orana is a daughter or sister of Ernalda, and the goddess of fertility, pleasure, and love. She is the most beautiful of all the goddesses and wears the Golden Necklace of Enlivenment. She is married to one of the sons of Orlanth and is the patron goddess of wives.
+TARGETS: possesses / wields
+
+### CoRQ-Pr:00600 | CoRQ-Pr | pdf.96 | See Celestial Court
+FIGURES: ACOS, DAYZATAR, ORENOAR
+TEXT: Later, Orenoar took up residence with Acos, god of Law, and the world was strong and stable. During the Great Darkness, the goddess of Truth was captured by the forces of Darkness and held captive until one of Dayzatar's sons rescued her. She now resides with Dayzatar in his Sky Realm, far from the mortal world.
+TARGETS: dwells at
+
+### CoRQ-Pr:00615 | CoRQ-Pr | pdf.99 | Yelm and Orlanthi Pantheons: Goddess of the Oslir River
+FIGURES: AROKA, EVERINA, MOHENGUS, OSLIRA, OURANIA, VARNAGA, YESTENDOS
+TEXT: ![](_page_98_Picture_13.jpeg) #### ▲ Depiction of Ourania from Yuthuppa by Varnaga the Crocodile God, who punishes those who anger Oslira. Oslira is worshiped by all who live along her banks. The Orlanthi associate her with Aroka. Among the Dara Happans, she is always worshiped with her daughter Everina and her sons Mohengus and Yestendos.
+TARGETS: punishes / exiles
+
+### CoRQ-Pr:00619 | CoRQ-Pr | pdf.100 | Kralorelan Pantheon: Kitchen God
+FIGURES: DRAGON EMPEROR, EXARCHS, PAI RAOW
+TEXT: #### (PIE-Raw-OW) #### Kralorelan Pantheon: Kitchen God Pai Raow is the god of the masonry oven. He is a son of the Minister of Fire who resides in the stove and protects the household and family, but also reports any misdeeds to the Dragon Emperor and the Exarchs.
+TARGETS: dwells at
+
+### CoRQ-Pr:00623 | CoRQ-Pr | pdf.101 | Demigod Founder of New Pavis and the Big Rubble
+FIGURES: FLINTNAIL, MOSTALI, WAHA, ZOLA FEL
+CONTEXT: nally made a martyr through treachery. In his realm, all were treated fairly and with honor. Western art depicts Paslac as a monstrous being, perhaps a half-troll. Ralian depictions remember him as a handsome, stern ruler with curly blond hair. #### **PAVIS** ![](_page_100_Picture_8.jpeg) (PAH-vis) #### **Orlanthi and Praxian Pantheons:** ### Demigod Founder of New Pavis and the Big Rubble
+TEXT: This Second Age demigod was half-man and half-aldryami, and yet his constant companion was Flintnail the Mostali. He awakened the Faceless Statue, crippled and later healed Waha, and founded the city of Pavis along the Zola Fel. Pavis still resides with his temple in the Big Rubble.
+TARGETS: dwells at; heals; sleeps / wakes
+
+### CoRQ-Pr:00625 | CoRQ-Pr | pdf.101 | Orlanthi and Yelm Pantheons: Land Goddess of Peloria
+FIGURES: ERNALDA, FLAMAL, GATA, GENERT, PELORA, YELM
+TEXT: ![](_page_100_Picture_20.jpeg) #### (pel-OR-ah) #### Orlanthi and Yelm Pantheons: Land Goddess of Peloria Called Pela by the Dara Happans, Pelora is the land goddess of Peloria. She is the daughter of Gata and Genert. Pelora was one of the most beautiful and generous of the land goddesses, and Genert took her, his sister-daughter, to wife. She took Flamal as a lover, and together they produced the grains and fruits, and covered the nakedness of the land with greenery. When Flamal was slain in the Darkness, Pelora followed Ernalda into sleep, and the land slept until the Dawn.
+TARGETS: sleeps / wakes
+
+### CoRQ-Pr:00644 | CoRQ-Pr | pdf.105 | Orlanthi Pantheon: Land Goddess of Ralios, Snake Goddess
+FIGURES: EHILM, ERNALDA, FLAMAL, ORLANTH, RALIA, SAFA, SRAMAK, TANIER, XENTHA, ZORAK ZORAN
+CONTEXT: er they made Skovari, Molamin, and Drogarsi. With Tylenea, goddess of Illusion, Ralforisus made Donandar the theatre god. Ralforisus is depicted as a handsome god playing a lyre. #### RALIA ![](_page_104_Picture_7.jpeg) ![](_page_104_Picture_8.jpeg) ![](_page_104_Picture_9.jpeg) (RAL-ee-aa) Orlanthi Pantheon: Land Goddess of Ralios, Snake Goddess Ralia is the daughter of Gata and Genert.
+TEXT: She took Flamal as a lover, and together they produced the grains and fruits, and covered the nakedness of the land with greenery. She took Sramak as a lover, and together she gave birth to Doskior, Safa, and Tanier. Ehilm and Orlanth both took their turns as her lovers. When Flamal was murdered by Zorak Zoran and his corpse carried off by Xentha, Ralia wept inconsolably. She followed her niece Ernalda the Earth Queen into sleep, and the land slept until the Dawn.
+TARGETS: mourns; possesses / wields; sleeps / wakes
+
+### CoRQ-Pr:00648 | CoRQ-Pr | pdf.105 | See Gbaji, Nysalor
+FIGURES: NYSALOR, OSENTALKA, RASHORANA
+TEXT: Such restraint was one lesson of the Great Teacher. She had the power of Illumination, a way to open a being's soul to Transcendence. Rashorana was troublesome to the unchanging world; she was often cursed, maimed, or otherwise nearly destroyed by her foes. In the male form of Atarks, he was castrated. As Jernotius, he was turned to stone. As Osentalka, he was made incomplete. As Nysalor, he was dismembered and cast about. Yet Illumination cannot be eliminated, and Rashorana has always returned.
+TARGETS: curses

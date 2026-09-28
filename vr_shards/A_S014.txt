@@ -1,0 +1,300 @@
+[P5-A-B0030-031] S=['ARGRATH', 'JALDON GOLDENTOOTH'] P=defeats O=['LUNAR EMPIRE'] MOD={"in_on_at": "PRAX"} implicit=False ps="cleansed Prax of" sug=exiles / banishes
+   Q: In 1624, Argrath summoned Jaldon Goldentooth and together they cleansed Prax of the Lunar Empire.
+[P5-A-B0030-032] S=['KALLYR STARBROW'] P=rules O=['KHELDON TRIBE'] implicit=True ps="Queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Queen of the Kheldon tribe and a member of the royal house of Sartar, Kallyr warred against the Lunars her entire life.
+[P5-A-B0030-033] S=['KALLYR STARBROW'] P=is member of O=['ROYAL HOUSE OF SARTAR'] implicit=True ps="a member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Queen of the Kheldon tribe and a member of the royal house of Sartar, Kallyr warred against the Lunars her entire life.
+[P5-A-B0030-034] S=['KALLYR STARBROW'] P=fights O=['LUNARS'] implicit=True ps="warred against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Queen of the Kheldon tribe and a member of the royal house of Sartar, Kallyr warred against the Lunars her entire life.
+[P5-A-B0030-035] S=['KALLYR STARBROW'] P=protects O=['BOLDHOME'] implicit=True ps="liberated" sug=rescues / frees
+   Q: She liberated Boldhome after the Dragonrise and was acclaimed Prince of Sartar.
+[P5-A-B0030-036] S=['KALLYR STARBROW'] P=rules O=['SARTAR'] implicit=True ps="was acclaimed Prince of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: She liberated Boldhome after the Dragonrise and was acclaimed Prince of Sartar.
+[P5-A-B0030-037] S=['KALLYR STARBROW'] P=re-enacts O=["LIGHTBRINGERS' QUEST"] implicit=True ps="tried to repeat" sug=re-enacts
+   Q: She tried to repeat the Lightbringers' Quest, but failed, and died at the Battle of Queens in 1626.
+[P5-A-B0030-038] S=['KALLYR STARBROW'] P=descends into O=[] MOD={"in_on_at": "BATTLE OF QUEENS"} implicit=True ps="died at" sug=dies
+   Q: She tried to repeat the Lightbringers' Quest, but failed, and died at the Battle of Queens in 1626.
+[P5-A-B0030-039] S=['ARGRATH'] P=establishes cult O=['NEW SECRET SOCIETIES'] implicit=False ps="creating new secret societies" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Argrath melded them together by creating new secret societies, each possessing magical secrets taught by Argrath
+[P5-A-B0030-040] S=['ARGRATH'] P=discovers O=['MAGICAL UNION TECHNIQUE'] implicit=True ps="discovered" sug=discovers
+   Q: During his world spanning travels with Harrek the Berserk, Argrath discovered how to merge together diverse magicians and priests to form a magical unit with far greater power than the sum of its members.
+[P5-A-B0030-041] S=['ARGRATH'] P=teaches O=["ARGRATH'S WARLOCKS"] implicit=False ps="taught new techniques to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: As Argrath gained greater insight, he taught new techniques to his warlocks and founded new units that used his new insights.
+[P5-A-B0030-042] S=['SARTAR MAGICAL UNION'] P=defeats O=['LUNARS'] MOD={"in_on_at": "BATTLE OF SWORD HILL"} implicit=False ps="so devastated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Battle of Sword Hill in 1627 is rightfully celebrated as the first appearance of the Sartar Magical Union, whose magicians so devastated their Lunar enemies that the rest of the Sartar Free Army only pursued their routed foes.
+[P5-A-B0030-043] S=['OLD GODS'] P=protects O=['ARGRATH'] implicit=False ps="enjoys the unqualified support of" sug=aids
+   Q: Argrath enjoys the unqualified support of the Old Gods
+[P5-A-B0030-044] S=['ORLANTH'] P=bestows magic / gifts O=[] IO=['ARGRATH'] implicit=True ps="showers him with favors" sug=one of: bestows, heals, imbues, teaches
+   Q: the god Orlanth showers him with favors not shown since Harmast Barefoot.
+[P5-A-B0030-045] S=['WARLOCKS'] P=is alternative name for O=['MAGICIANS OF THE SARTAR MAGICAL UNION'] implicit=False ps="are popularly called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The magicians of the Sartar Magical Union are popularly called "warlocks" after a derisive comment by the Lunar general who opposed them at the Battle of Sword Hill.
+[P5-A-B0030-046] S=['ARGRATH'] P=teaches O=["ARGRATH'S WARLOCKS"] implicit=True ps="has taught them to perceive a higher consciousness" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Argrath has taught them to perceive a higher consciousness through their inner eye
+[P5-A-B0030-047] S=['ARKAT'] P=teaches O=["ARKAT'S COMPANIONS"] implicit=False ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: these teachings are like those Arkat taught his companions but include some element of draconic communication.
+[P5-A-B0030-048] S=['ARGRATH'] P=establishes cult O=['EAGLEBROWN WARLOCKS'] implicit=False ps="created" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: The Eaglebrown Warlocks was the first of the new Sartar Magical Union units created by Argrath himself.
+[P5-A-B0030-049] S=["EAGLEBROWN WARLOCKS' WYTER"] P=manifests O=['THUNDERBIRD'] implicit=True ps="manifests as" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: They summon their wyter through sacrifices and austerities followed by ecstatic dances and chants and it manifests as a Thunderbird
+[P5-A-B0030-050] S=['SHAMANS OF PRAX'] P=serves O=['THUNDERBIRD'] implicit=False ps="worshiped by" sug=is worshipped by
+   Q: a Thunderbird, a powerful Air spirit worshiped by the shamans of Prax.
+[P5-A-B0030-051] S=['ARGRATH'] P=establishes cult O=['EGGLORD WARLOCKS'] implicit=False ps="created" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Egglord Warlocks This elite magical unit was the second of the new Sartar Magical Union units created by Argrath himself.
+[P5-A-B0030-052] S=['ARGRATH'] P=illuminates O=['FLAME OF SARTAR'] implicit=False ps="lit" sug=illuminates
+   Q: After he lit the Flame of Sartar, Argrath founded a new cult with personally selected adventurers, madmen, sorcerers, and tricksters from many traditions.
+[P5-A-B0030-053] S=['ARGRATH'] P=teaches O=['EGGLORD WARLOCKS'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He taught these warlocks secrets and riddles forgotten since the Second Age.
+[P5-A-B0030-054] S=['EGGLORD WARLOCKS'] P=serves O=['ARGRATH'] implicit=False ps="are fanatical in their devotion to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Egglord Warlocks are fanatical in their devotion to Argrath.
+[P5-A-B0030-055] S=["EGGLORD WARLOCKS' WYTER"] P=manifests O=['DRAGON'] implicit=True ps="manifests as" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: the wyter manifests as a dragon.
+[P5-A-B0030-056] S=['ELEVEN LIGHTS'] P=manifests O=["SPIRITS FROM ORLANTH'S RING"] implicit=True ps="summon" sug=summons / invokes
+   Q: They summon spirits from Orlanth's Ring to serve as their wyter.
+[P5-A-B0030-057] S=['ELEVEN LIGHTS'] P=serves O=['KALLYR STARBROW'] MOD={"in_on_at": "BATTLE OF DANGERFORD"} implicit=True ps="fought at Queen Kallyr's side" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The unit predated the arrival of Argrath and is known to have fought at Queen Kallyr's side at the Battle of Dangerford in 1625.
+[P5-A-B0030-058] S=['ELEVEN LIGHTS'] P=serves O=['ARGRATH'] implicit=True ps="joined" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They joined Argrath after the queen's death and learned new insights that greatly increased their effectiveness.
+[P5-A-B0030-059] S=['RIKARD THE TIGER-HEARTED'] P=defeats O=['MALKONWAL'] MOD={"with_the_aid_of": ["NARIB"]} implicit=False ps="to conquer" sug=conquers
+   Q: Narib was a sorcerer from Pithdaros, who aided the adventurer Rikard the Tiger-Hearted to conquer his kingdom of Malkonwal.
+[P5-A-B0030-060] S=['RIKARD THE TIGER-HEARTED'] P=flees to O=[] MOD={"from": "LUNAR EMPIRE"} implicit=True ps="fled from" sug=flees to
+   Q: When his employer fled from the Lunar Empire, Narib formed a "company" with his fellow surviving sorcerers and found their way into Esrolian service.
+[P5-A-B0030-061] S=['NARIB', "NARIB'S FELLOW SORCERERS"] P=serves O=['ESROLIA'] implicit=True ps="found their way into Esrolian service" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Narib formed a "company" with his fellow surviving sorcerers and found their way into Esrolian service.
+[P5-A-B0030-062] S=['NARIB'] P=serves O=['ARGRATH'] implicit=False ps="entered Argrath's service" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Sir Narib entered Argrath's service in 1624 and has taught some of Argrath's magical techniques to his fellow sorcerers.
+[P5-A-B0030-063] S=['NARIB'] P=teaches O=["NARIB'S FELLOW SORCERERS"] implicit=False ps="has taught some of Argrath's magical techniques to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Sir Narib entered Argrath's service in 1624 and has taught some of Argrath's magical techniques to his fellow sorcerers.
+[P5-A-B0030-064] S=["SIR NARIB'S COMPANY'S WYTER"] P=rides O=['BLUE LION'] implicit=True ps="riding on" sug=rides
+   Q: They use a huge adamant nail to summon their wyter in the form of demonic entity wielding a flaming sword and riding on a blue lion.
+[P5-A-B0031-001] S=['TOSTI RUNEFRIEND'] P=serves O=['LHANKOR MHY'] implicit=False ps="is a Lhankor Mhy priest" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Tosti Runefriend is a Lhankor Mhy priest who has learned forbidden magic of both the Empire of the Wyrms Friends and the God Learners.
+[P5-A-B0031-002] S=['TOSTI RUNEFRIEND'] P=discovers O=['FORBIDDEN MAGIC'] MOD={"from": ["EMPIRE OF THE WYRMS FRIENDS", "GOD LEARNERS"]} implicit=False ps="has learned" sug=discovers
+   Q: Tosti Runefriend is a Lhankor Mhy priest who has learned forbidden magic of both the Empire of the Wyrms Friends and the God Learners.
+[P5-A-B0031-003] S=["TOSTI RUNEFRIEND'S COMPANY'S OVER-SOUL"] P=has hybrid form O=['LION-FACED DRAGON'] implicit=True ps="a lion-faced dragon surrounded in flame" sug=has anomalous form (qual=hybrid)
+   Q: This magic is performed through the over-soul of the participants, a lion-faced dragon surrounded in flame.
+[P5-A-B0031-004] S=['ORLANTH'] P=kills O=['EVIL EMPEROR'] implicit=False ps="slew" sug=one of: kills, shatters, dies
+   Q: When Orlanth slew the Evil Emperor, he freed the world and brought about the Storm Tribe Age.
+[P5-A-B0031-005] S=['LIGHTBRINGERS'] P=descends into O=['LAND OF THE DEAD'] MOD={"purpose_clause": "TO AID"} implicit=False ps="traveled into / descended into" sug=one of: descends into, dies
+   Q: He gathered or met a group of six other gods, and together they traveled into the Underworld to bring life back to the dead world. || The Lightbringers descended into the Land of the Dead.
+[P5-A-B0031-006] S=['LHANKOR MHY', 'ISSARIES', 'CHALANA ARROY', 'FLESH MAN', 'EURMAL'] P=is member of O=['LIGHTBRINGERS'] implicit=True ps="Those other gods are" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Those other gods are Lhankor Mhy, the Sage; Issaries, the Guide; Chalana Arroy, the Healer; Flesh Man, the terrified mortal; and Eurmal, the slippery Trickster.
+[P5-A-B0031-007] S=['LIGHTBRINGERS'] P=alters mythic station O=['THE SUN', 'VORIA', 'OTHER DEITIES OF LIFE'] implicit=True ps="freed" sug=rescues / frees
+   Q: finally they atoned for their errors and freed the Sun, Voria, and the other deities of life.
+[P5-A-B0031-008] S=['GINNA JAR'] P=is identified as O=['WYTER OF THE LIGHTBRINGERS'] implicit=True ps="was the wyter of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Seventh is called Ginna Jar, who some say was the wyter of the group
+[P5-A-B0031-009] S=['GINNA JAR'] P=is identified as O=['WYTER OF THE LIGHTBRINGERS'] implicit=False ps="is the wyter of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ginna Jar is the wyter of the Lightbringers the Seventh that is greater than the sum of the parts
+[P5-A-B0031-010] S=['ALAIN'] P=serves O=['HUMAKT'] implicit=False ps="Sword of Humakt" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Eye-whisper said he detected the ragged ghost of Alain, Sword of Humakt, plaguing the consciousness of the healer.
+[P5-A-B0031-011] S=['ALAIN'] P=fights O=['BROOS'] MOD={"in_on_at": "SOG'S RUINS"} implicit=True ps="had prepared an expedition against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: I recalled that that Humakti had prepared an expedition against broos active in Sog's Ruins.
+[P5-A-B0031-012] S=['ISSARIES'] P=reveals O=['PATH TO HERODOM'] MOD={"in_on_at": "SOG'S RUINS"} implicit=False ps="answered, saying" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: When so filled with fear, I always ask Issaries. He answered, saying that the path to herodom lay in Sog's Ruins.
+[P5-A-B0031-013] S=['SPELL-LADEN STONE'] P=substitutes O=['BITURIAN VAROSH'] implicit=True ps="sending instead" sug=substitutes
+   Q: Thus, I bought my way out of a heroquest, sending instead a spellladen stone with all my magic.
+[P5-A-B0031-014] S=['ORLANTH'] P=is spouse of O=['ERNALDA'] implicit=False ps="Orlanth's marriage to Ernalda" sug=is spouse of
+   Q: When Orlanth's marriage to Ernalda was new, he spent much time enjoying the sweet secrets of his bride.
+[P5-A-B0031-015] S=['EMPEROR'] P=alters mythic station O=['ORLANTH'] implicit=True ps="had shamed him and deprived him of his rightful influence" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: began to think again of his enemy the Emperor, who had shamed him and deprived him of his rightful influence in the world.
+[P5-A-B0031-016] S=['EMPEROR'] P=is member of O=['FIRE TRIBE'] implicit=False ps="his tribe" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: when you fight the Emperor you also fight his tribe, the Fire Tribe.
+[P5-A-B0031-017] S=['ERNALDA'] P=teaches O=['ORLANTH'] implicit=True ps="said to him" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Ernalda saw that he was turbulent inside, and said to him || If you really want something to rival what the Emperor has, you must make a new thing, like the Fire Tribe, but better.
+[P5-A-B0031-018] S=['DOUBTING WHEEL'] P=challenges O=['ORLANTH'] implicit=False ps="said that Orlanth should not make a tribe" sug=one of: challenges, breaks oath, betrays, fights
+   Q: The Doubting Wheel rolled towards him, and said that Orlanth should not make a tribe.
+[P5-A-B0031-019] S=['ORLANTH'] P=binds O=['DOUBTING WHEEL'] MOD={"using": "GREAT NET"} implicit=False ps="captured" sug=binds
+   Q: Orlanth captured the Doubting Wheel in a great net, and took it home to Ernalda
+[P5-A-B0031-020] S=['DOUBTING WHEEL'] P=transforms into O=['SMALL SILVER THING'] MOD={"at_the_instigation_of": ["ERNALDA"]} implicit=True ps="cooked it up in a soup until it was small and silver" sug=transforms into
+   Q: took it home to Ernalda, who cooked it up in a soup until it was small and silver.
+[P5-A-B0031-021] S=['YINKIN'] P=is sibling of O=['ORLANTH'] implicit=False ps="his brother" sug=is sibling of
+   Q: Orlanth left again and wandered until he found his brother Yinkin, who was chieftain of the Cat Clan.
+[P5-A-B0031-022] S=['YINKIN'] P=rules O=['CAT CLAN'] implicit=False ps="was chieftain of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Orlanth left again and wandered until he found his brother Yinkin, who was chieftain of the Cat Clan.
+[P5-A-B0031-023] S=['PLANT TRIBE'] P=fights O=['CAT CLAN'] implicit=True ps="fights us for our hunting ground" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: My clan is badly pressed by the Plant Tribe, which fights us for our hunting ground.
+[P5-A-B0031-024] S=['ORLANTH'] P=defeats O=['RUSTLING VEINS', 'SHARP GREEN'] implicit=False ps="fought and bested" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: So Orlanth fought Rustling Veins and the Sharp Green, and bested them.
+[P5-A-B0031-025] S=['ORLANTH'] P=bestows magic / gifts O=['SMALL SILVER THING'] IO=['YINKIN'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: He gave the small silver thing to Yinkin and said, "Now you must join my Storm Tribe."
+[P5-A-B0031-026] S=['CAT CLAN'] P=is member of O=['STORM TRIBE'] MOD={"at_the_instigation_of": ["YINKIN"]} implicit=False ps="agreed to make part of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Yinkin agreed to make the Cat Clan part of the Storm Tribe, so long as this new tribe had a way of remembering its good laws.
+[P5-A-B0031-027] S=['KNOWING GOD'] P=rules O=['MARKS ON BARK CLAN'] implicit=False ps="was head of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Orlanth searched for some good laws, and found the Knowing God, who was head of the Marks On Bark Clan.
+[P5-A-B0031-028] S=['STONE TRIBE'] P=binds O=['KNOWING GOD'] MOD={"using": "GREAT CUBE"} implicit=True ps="had trapped him inside" sug=binds
+   Q: The Stone Tribe had trapped him inside a great cube because he tried to make new knowledge about them, and they hated new things.
+[P5-A-B0031-029] S=['ORLANTH'] P=shatters O=['GREAT CUBE'] MOD={"using": "NEW POEM"} implicit=True ps="ruined" sug=shatters
+   Q: Orlanth ruined the cube by creating a new poem, which confused it so that it fell apart.
+[P5-A-B0031-030] S=['ORLANTH'] P=bestows magic / gifts O=["YINKIN'S CLAW"] IO=['KNOWING GOD'] implicit=False ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: Orlanth gave the Knowing God one of Yinkin's old claws
+[P5-A-B0031-031] S=['MARKS ON BARK CLAN'] P=is member of O=['STORM TRIBE'] MOD={"at_the_instigation_of": ["KNOWING GOD"]} implicit=True ps="agreed to make part of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Knowing God agreed to make the Marks-onBark Clan part of the Storm Tribe, so long as this new tribe had fierce warriors.
+[P5-A-B0031-032] S=['VADRUS'] P=is sibling of O=['ORLANTH'] implicit=False ps="his brother" sug=is sibling of
+   Q: So Orlanth looked for fierce warriors, and found his brother Vadrus, who was boss of the Hurt-Everything-Clan.
+[P5-A-B0031-033] S=['VADRUS'] P=rules O=['HURT-EVERYTHING-CLAN'] implicit=False ps="was boss of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: So Orlanth looked for fierce warriors, and found his brother Vadrus, who was boss of the Hurt-Everything-Clan.
+[P5-A-B0031-034] S=['ORLANTH'] P=defeats O=['VADRUS'] MOD={"using": "ARM-WRESTLING"} implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He defeated Vadrus, and gave Vadrus a lock of the Knowing God's beard
+[P5-A-B0031-035] S=['ORLANTH'] P=bestows magic / gifts O=["KNOWING GOD'S BEARD"] IO=['VADRUS'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: He defeated Vadrus, and gave Vadrus a lock of the Knowing God's beard
+[P5-A-B0032-001] S=['YINKIN'] P=wounds O=['VADRUS'] implicit=True ps="scratched" sug=wounds
+   Q: Yinkin scratched me, and I will not attend a moot if he is there
+[P5-A-B0032-002] S=['TRAVELING CLAN'] P=is member of O=['STORM TRIBE'] MOD={"at_the_instigation_of": ["TALKING GOD"]} implicit=False ps="agreed to make part of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Talking God agreed to make his Traveling Clan part of the Storm Tribe, so long as it had many cows to trade with.
+[P5-A-B0032-003] S=['COW CLAN'] P=is member of O=['STORM TRIBE'] MOD={"at_the_instigation_of": ["URALDA"]} implicit=False ps="agreed that should join" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: So Orlanth sought out Uralda, who agreed that the Cow Clan should join the Storm Tribe, so long as her clan-mates had enough grain.
+[P5-A-B0032-004] S=['URALDA'] P=is member of O=['COW CLAN'] implicit=False ps="her clan-mates" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: So Orlanth sought out Uralda, who agreed that the Cow Clan should join the Storm Tribe, so long as her clan-mates had enough grain.
+[P5-A-B0032-005] S=['ERNALDA'] P=bestows magic / gifts O=['CHEST OF TORCS', 'HALL OF UNDERSTANDING', 'CROWN OF AUTHORITY'] IO=['ORLANTH'] implicit=True ps="brought him / gave him" sug=one of: bestows, heals, imbues, teaches
+   Q: then Ernalda brought him items of tribal regalia. || She brought him the Chest of Torcs, with which he could gift the clan leaders. She brought the Hall of Understanding, where people could settle their differences by talking them out. She gave him the Crown of Authority, which made people respect his sacral powers and pledge allegiance to him.
+[P5-A-B0032-006] S=['WARRIORS OF THE NIGHT TRIBE'] P=fights O=['QUARRELLING CLANS'] implicit=False ps="attacked" sug=invades / raids
+   Q: Then warriors from the Night Tribe came and attacked the quarrelling clans, and everyone banded together to fight the hungry enemies.
+[P5-A-B0032-007] S=['ORLANTH'] P=rules O=['STORM TRIBE'] implicit=False ps="named Orlanth king" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The last of the troublemakers settled down and named Orlanth king, and so he made the Storm Ring to govern the new tribe.
+[P5-A-B0032-008] S=['STORM RING'] P=comes into being O=[] MOD={"at_the_instigation_of": ["ORLANTH"]} implicit=False ps="made" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The last of the troublemakers settled down and named Orlanth king, and so he made the Storm Ring to govern the new tribe.
+[P5-A-B0032-009] S=['WIND LORDS'] P=serves O=['ORLANTH ADVENTUROUS'] implicit=False ps="are disciples of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Wind Lords are disciples of Orlanth Adventurous.
+[P5-A-B0032-010] S=['WIND LORDS'] P=re-enacts O=["ORLANTH'S EARLY ADVENTURES"] implicit=True ps="emulate" sug=re-enacts
+   Q: They emulate Orlanth's early adventures, and spend their time fighting, raiding, and loving.
+[P5-A-B0032-011] S=['ORLANTH'] P=fights O=['EVIL EMPEROR', 'DRAGONS', 'WATER TRIBE', 'DARKNESS TRIBE'] implicit=True ps="traditional enemies" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: His preparatory heroquests take him against Orlanth's traditional enemies, including the Evil Emperor, the dragons, and the Water and Darkness Tribes.
+[P5-A-B0032-012] S=['ORLANTH'] P=fights O=['CHAOS'] implicit=False ps="foulest foe" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Chaos is Orlanth's foulest foe, and can never be bargained with or ignored.
+[P5-A-B0032-013] S=['ANA GOR'] P=is member of O=['ESROLA', 'BABEESTER GOR', 'HUMAKT', 'MARAN', 'TY KORA TEK'] implicit=False ps="subcult of" sug=is part of
+   Q: Ana Gor, subcult of Esrola, Babeester Gor, Humakt, Maran, and Ty Kora Tek (see pg. 192).
+[P5-A-B0032-014] S=['DROGARSI'] P=is member of O=['ORLANTH ADVENTUROUS', 'DONANDAR'] implicit=False ps="subcult of" sug=is part of
+   Q: Drogarsi, subcult of Orlanth Adventurous and Donandar (see pg. 212).
+[P5-A-B0032-015] S=['HARST'] P=is member of O=['ORLANTH ALLFATHER', 'ISSARIES'] implicit=False ps="subcult of" sug=is part of
+   Q: Harst, subcult of Orlanth Allfather and Issaries (see pg. 117).
+[P5-A-B0032-016] S=['HELAMAKT'] P=is member of O=['ORLANTH THUNDEROUS', 'HELER'] implicit=False ps="subcult of" sug=is part of
+   Q: Helamakt, subcult of Orlanth Thunderous and Heler (see pg. 82).
+[P5-A-B0032-017] S=['MINLISTER'] P=is member of O=['ERNALDA', 'ORLANTH'] implicit=False ps="subcult of" sug=is part of
+   Q: Minlister, subcult of Ernalda and Orlanth (see pg. 222).
+[P5-A-B0032-018] S=['NEVALA'] P=is member of O=['ESROLA', 'HELER'] implicit=False ps="subcult of" sug=is part of
+   Q: Nevala, subcult of Esrola and Heler (see pg. 83).
+[P5-A-B0032-019] S=['THE RED WOMAN'] P=is member of O=['ERNALDA', 'VINGA'] implicit=False ps="subcult of" sug=is part of
+   Q: The Red Woman, subcult of Ernalda and Vinga (see pg. 175).
+[P5-A-B0032-020] S=['REDALDA'] P=is member of O=['ERNALDA ALLMOTHER', 'ELMAL'] implicit=False ps="subcult of" sug=is part of
+   Q: Redalda, subcult of Ernalda Allmother and Elmal (see pg. 228).
+[P5-A-B0032-021] S=['RIGSDAL'] P=is member of O=['ORLANTH ALLFATHER', 'ELMAL', 'HUMAKT'] implicit=False ps="subcult of" sug=is part of
+   Q: Rigsdal, subcult of Orlanth Allfather, Elmal, and Humakt (see pg. 230).
+[P5-A-B0032-022] S=['SKOVARI'] P=is member of O=['ERNALDA ALLMOTHER', 'DONANDAR'] implicit=False ps="subcult of" sug=is part of
+   Q: Skovari, subcult of Ernalda Allmother and Donandar (see pg. 213).
+[P5-A-B0032-023] S=['UMATH'] P=is identified as O=['FIRST STORM'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Umath is the First Storm, who separated earth and sky to make the Air Realm
+[P5-A-B0032-024] S=['AIR REALM'] P=comes into being O=[] MOD={"at_the_instigation_of": ["UMATH"]} implicit=False ps="separated earth and sky to make" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Umath is the First Storm, who separated earth and sky to make the Air Realm
+[P5-A-B0032-025] S=['JAGREKRIAND'] P=binds O=['UMATH'] MOD={"purpose_clause": "TO PUNISH"} implicit=False ps="chained" sug=binds
+   Q: who was later punished by being chained between them for all eternity. || After Jagrekriand chained Umath
+[P5-A-B0032-026] S=["UMATH'S CHILDREN"] P=departs from O=['UMATH'] implicit=False ps="treated him as if he was dead" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: After Jagrekriand chained Umath, all of his children treated him as if he was dead, except Orlanth.
+[P5-A-B0032-027] S=['ORLANTH'] P=comes into being O=[] MOD={"in_on_at": "KERO FIN"} implicit=True ps="is the place where he was born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Kero Fin, the Mighty Mountain, is the place where he was born, the center of the world.
+[P5-A-B0032-028] S=['ORLANTH'] P=is child of O=['UMATH'] implicit=True ps="his ancient father" sug=is child of
+   Q: On top of the mountain, Orlanth could see his ancient father, the Prisoner God, tied to Earth and Sky.
+[P5-A-B0032-029] S=['UMATH'] P=teaches O=['ORLANTH'] implicit=True ps="replied to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Orlanth asked him for advice and he replied to his youngest and most faithful son.
+[P5-A-B0032-030] S=['WINTER KING'] P=rules O=['THE NORTH'] implicit=False ps="Lord of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Winter King, Lord of the North, with his lover frozen for his entertainment
+[P5-A-B0032-031] S=['DROUGHT'] P=departs from O=['BRASS JAR'] implicit=False ps="escaped from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Drought, once again escaped from his brass jar
+[P5-A-B0032-032] S=['SKY TERROR'] P=alters mythic station O=[] MOD={"from": "THE SKY"} implicit=False ps="knocked from the sky" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Sky Terror, knocked from the sky and now plucking among the ruins of Agant Faraltilion
+[P5-A-B0032-033] S=['DARKNESS MOTHER'] P=is alternative name for O=['PREGNANT DARKNESS'] implicit=False ps="the Pregnant Darkness" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Darkness Mother, the Pregnant Darkness who reclines in a cave
+[P5-A-B0032-034] S=['JARANI'] P=is child of O=['RAGORN'] implicit=False ps="Son of" sug=is child of
+   Q: Jarani, Son of Ragorn, sometimes called the Mountain Glider.
+[P5-A-B0032-035] S=['MOUNTAIN GLIDER'] P=is alternative name for O=['JARANI'] implicit=False ps="sometimes called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Jarani, Son of Ragorn, sometimes called the Mountain Glider.
+[P5-A-B0032-036] S=['MANTHI STONES'] P=wounds O=["ZORAK ZORAN'S SON"] implicit=False ps="had been wounded by" sug=wounds
+   Q: Zorak Zoran, whose evil son had been wounded by the Manthi Stones
+[P5-A-B0032-037] S=['BES GEZOS'] P=is child of O=['TYRAM'] implicit=False ps="the son of" sug=is child of
+   Q: Bes Gezos, the son of Tyram, plucking among the ruins of Agant Faraltilion
+[P5-A-B0032-038] S=['VALIND'] P=is identified as O=['GOD OF WINTER'] implicit=False ps="God of Winter" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Valind, God of Winter, whose lover was frozen for his entertainment
+[P5-A-B0033-001] S=['ASRELIA', 'TY KORA TEK'] P=is identified as O=['ERNALDA'] implicit=False ps="function together as an aspect of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Although Asrelia and Ty Kora Tek are different goddesses, within the Earth Religion they function together as an aspect of Ernalda.
+[P5-A-B0033-002] S=['WOMEN'] P=initiates into cult O=['ASRELIA', 'TY KORA TEK'] implicit=False ps="worship" sug=initiates into cult
+   Q: Finally, after menopause, women worship Asrelia and Ty Kora Tek.
+[P5-A-B0033-003] S=['DARA HAPPANS'] P=sacrifices O=["HEDKORANTH'S FOES"] implicit=False ps="have made special sacrifices to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: For centuries, Dara Happans have made special sacrifices to Hedkoranth's foes, who are not part of the Yelm Pantheon.
+[P5-A-B0033-004] S=['VENEBAIN', 'GOLAGOLAR'] P=manifests O=[] IO=['WORSHIPPERS OF SHARGASH OR YELM', 'WORSHIPPERS OF URVAIRINUS'] implicit=False ps="comes first / precedes them" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: whenever worshippers of Shargash or Yelm attack in force Venebain comes first, but when worshippers of Urvairinus come Golagolar precedes them.
+[P5-A-B0033-005] S=['THE LUNAR EMPIRE'] P=alters mythic station O=["HEDKORANTH'S FOES"] IO=['SHARGASH', 'YELM', 'URVAIRINUS'] implicit=True ps="is trying to reduce these even further so that they are just masks" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The Lunar Empire is trying to reduce these even further so that they are just masks, mere disguises for Shargash, Yelm, and Urvairinus.
+[P5-A-B0033-006] S=['CHALANA ARROY'] P=resurrects O=['THE WORLD'] implicit=True ps="healed the world, made life come again" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: She healed the world, made life come again.
+[P5-A-B0033-007] S=['CHALANA ARROY'] P=embodies O=['HEALING'] implicit=False ps="Goddess of Healing" sug=one of: embodies, has domain
+   Q: Chalana Arroy Goddess of Healing
+[P5-A-B0033-008] S=['CHALANA ARROY'] P=is member of O=['LIGHTBRINGERS'] implicit=False ps="joined" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: During the Darkness, Chalana Arroy joined the Lightbringers and opened the way to the Land of the Dead.
+[P5-A-B0033-009] S=['CHALANA ARROY'] P=reveals O=['THE WAY TO THE LAND OF THE DEAD'] implicit=False ps="opened the way to" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: During the Darkness, Chalana Arroy joined the Lightbringers and opened the way to the Land of the Dead.
+[P5-A-B0033-010] S=['CHALANA ARROY'] P=resurrects O=['ORLANTH', 'THE OTHER GODS AND GODDESSES'] implicit=True ps="restored life to" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: She restored life to Orlanth and the other gods and goddesses, and so to the world.
+[P5-A-B0033-011] S=['CHALANA ARROY'] P=embodies O=['HEALING'] implicit=False ps="is the greatest healing goddess" sug=one of: embodies, has domain
+   Q: Chalana Arroy is the greatest healing goddess in Glorantha, perhaps even the source of all healing.
+[P5-A-B0033-012] S=['CHALANA ARROY'] P=embodies O=['THE LIFE FORCE'] implicit=False ps="bears" sug=one of: embodies, has domain
+   Q: Chalana Arroy is an ancient goddess who bears the Life Force that is the power of Creation and Making.
+[P5-A-B0033-013] S=['CHALANA ARROY'] P=is child of O=['GLORANTHA'] implicit=False ps="is the daughter of" sug=is child of
+   Q: Chalana Arroy is the daughter of Glorantha.
+[P5-A-B0033-014] S=['CHALANA ARROY'] P=serves O=['ORLANTH', 'ISSARIES', 'YELM', 'HUMAKT', 'ERNALDA'] implicit=True ps="aided" sug=aids
+   Q: she aided Orlanth, Issaries, Yelm, Humakt, Ernalda, and others in tales.
+[P5-A-B0033-015] S=['ARROIN'] P=is child of O=['CHALANA ARROY'] implicit=True ps="her son" sug=is child of
+   Q: One or all of these gods fathered her son, Arroin, beloved by all the world.
+[P5-A-B0033-016] S=['ARROIN'] P=is child of O=['ORLANTH', 'ISSARIES', 'YELM', 'HUMAKT', 'ERNALDA'] implicit=True ps="One or all of these gods fathered" sug=is child of
+   Q: One or all of these gods fathered her son, Arroin, beloved by all the world.
+[P5-A-B0033-017] S=['CHALANA ARROY'] P=discovers O=["THE SECRETS OF MANY GODS' INNARDS AND POWERS"] MOD={"in_on_at": "THE WAR OF THE GODS"} implicit=False ps="learned" sug=discovers
+   Q: In the War of the Gods, Chalana Arroy made many efforts to heal the wounded, and learned the secrets of many gods' innards and powers.
+[P5-A-B0033-018] S=['CHAOS'] P=kills O=['THE GLORANTHAN COURT'] implicit=False ps="annihilated" sug=one of: kills, shatters, dies
+   Q: When the Darkness came and Chaos annihilated the Gloranthan Court
+[P5-A-B0033-019] S=['CHALANA ARROY', 'ARROIN'] P=travels O=[] MOD={"in_on_at": "THE CENTER OF THE WORLD"} implicit=True ps="met with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Chalana Arroy met with her son in the center of the world.
+[P5-A-B0033-020] S=['ARROIN'] P=bestows magic / gifts O=['FLESH MAN'] implicit=False ps="almost healed" sug=one of: bestows, heals, imbues, teaches
+   Q: Arroin used his powers and almost healed the fugitive, but Flesh Man fled before he could finish.
+[P5-A-B0033-021] S=['CHALANA ARROY'] P=departs from O=['ARROIN'] implicit=True ps="left behind" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: She left behind her son and Chalana Arroy followed Flesh Man to search for the Wound in the Cosmos so that she could heal it.
+[P5-A-B0033-022] S=['CHALANA ARROY'] P=travels O=['FLESH MAN'] MOD={"purpose_clause": "TO AID"} implicit=False ps="followed" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She left behind her son and Chalana Arroy followed Flesh Man to search for the Wound in the Cosmos so that she could heal it.
+[P5-A-B0033-023] S=['CHALANA ARROY'] P=is member of O=['LIGHTBRINGERS'] implicit=True ps="became one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: She later met Orlanth and others and became one of the Lightbringers.
+[P5-A-B0033-024] S=['CHALANA ARROY'] P=embodies O=['LIFE'] implicit=False ps="is" sug=one of: embodies, has domain
+   Q: Chalana Arroy is Life, more specifically healthy life and the power of healing.
+[P5-A-B0033-025] S=['CHALANA ARROY'] P=manifests O=['THE ALETHA FLOWER'] implicit=True ps="is one of her manifestations" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The aletha flower is one of her manifestations, for it first grew where she rested after returning from the Lightbringers Quest.
+[P5-A-B0033-026] S=['CHALANA ARROY'] P=is member of O=['THE STORM VILLAGE'] MOD={"in_on_at": "THE HALL OF HEALING"} implicit=False ps="lives in" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Chalana Arroy lives in the Hall of Healing in the Storm Village in the Storm Realm.
+[P5-A-B0033-027] S=['WORSHIPPERS OF CHALANA ARROY'] P=serves O=['CHALANA ARROY'] implicit=True ps="help her heal" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: After death, worshippers help her heal the wounds of the cosmos before returning to the inner world as nehalings
+[P5-A-B0034-001] S=['BROOS', 'TROLLS'] P=fights O=['HEALERS OF CHALANA ARROY'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="regularly make targets of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Broos or trolls want nothing of Chalana Arroy's healing, and regularly make targets of her healers in order to cripple their opponents.
+[P5-A-B0034-002] S=['THE GREAT HEALER'] P=is alternative name for O=['CHALANA ARROY'] implicit=False ps="revere Chalana Arroy as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: All members of the Storm Tribe Pantheon revere Chalana Arroy as the Great Healer.
+[P5-A-B0034-003] S=['MALIA'] P=fights O=['CHALANA ARROY'] implicit=True ps="is a particular enemy" sug=hates
+   Q: Malia, the Mother of Disease, is a particular enemy.
+[P5-A-B0034-004] S=['WORSHIPPERS OF HUMAKT'] P=fights O=['CULT OF CHALANA ARROY'] implicit=True ps="there is sometimes animosity between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Humakt's worshippers are often excessive in their use of death, and there is sometimes animosity between the cults, especially with the Sisters of Mercy subcult.
+[P5-A-B0034-005] S=['CHALANA ARROY'] P=fights O=['SEVSALSAL'] IO=['KOLAT'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The only time that Chalana Arroy has ever fought was to save Kolat when Sevsalsal infected his breath with poison.
+[P5-A-B0034-006] S=['SEVSALSAL'] P=wounds O=['KOLAT'] implicit=True ps="infected his breath with poison" sug=wounds
+   Q: Sevsalsal infected his breath with poison.
+[P5-A-B0034-007] S=['HEDKORANTH'] P=kills O=['SEVSALSAL'] implicit=True ps="was slain by" sug=one of: kills, shatters, dies
+   Q: The demon was defeated and driven away, although he later returned and was slain by Hedkoranth.
+[P5-A-B0034-008] S=['CHALANA ARROY'] P=resurrects O=['ORLANTH'] MOD={"in_on_at": "THE UNDERWORLD"} implicit=False ps="resurrection of" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: commemorates Chalana Arroy's resurrection of Orlanth in the Underworld.
+[P5-A-B0034-009] S=['CHALANA ARROY'] P=discovers O=['THE WAY TO REVERSE DEATH'] MOD={"in_on_at": "THE LIGHTBRINGER'S QUEST"} implicit=False ps="discovered" sug=discovers
+   Q: This struggle leads her to join the Lightbringer's Quest, where Chalana Arroy discovered the way to reverse Death.
+[P5-A-B0034-010] S=['INITIATES OF CHALANA ARROY'] P=enters Godtime / Otherworld O=[] MOD={"in_on_at": "THE SPIKE"} implicit=True ps="a visit the Spike in the Green Age" sug=enters Godtime / Otherworld
+   Q: Initiation to Chalana Arroy includes a visit the Spike in the Green Age, where they see the world as it was before Pain and Death.
+[P5-A-B0034-011] S=['INITIATES OF CHALANA ARROY'] P=re-enacts O=["THE LIGHTBRINGER'S QUEST"] MOD={"from": "HELL"} implicit=True ps="return from Hell and return the Breath of Life to the world" sug=re-enacts
+   Q: They return from Hell and return the Breath of Life to the world.
+[P5-A-B0034-012] S=['FERACE', 'NATYRSA', 'PRANJALA', 'SISTERS OF MERCY'] P=is member of O=['CULT OF CHALANA ARROY'] implicit=True ps="the particular subcult" sug=is part of
+   Q: The sash is usually white with a band of color that marks the particular subcult to which the devotee belongs: orange (Ferace), brown (Natyrsa), green (Pranjala), or purple (Sisters of Mercy).
+[P5-A-B0034-013] S=['HIGH HEALERS'] P=re-enacts O=['FERACE'] implicit=False ps="choose to be wandering healers in emulation of" sug=re-enacts
+   Q: Most disciples choose to be wandering healers in emulation of Ferace, although not all belong to his subcult before becoming high healers.
+[P5-A-B0034-014] S=['ARROIN'] P=is child of O=['CHALANA ARROY'] implicit=False ps="is a son of" sug=is child of
+   Q: Arroin is a son of Chalana Arroy, begotten by one or more of the many gods who guarded her during the Gods War.
+[P5-A-B0034-015] S=['ARROIN'] P=is child of O=['THE GODS WHO GUARDED CHALANA ARROY'] implicit=False ps="begotten by" sug=is child of
+   Q: Arroin is a son of Chalana Arroy, begotten by one or more of the many gods who guarded her during the Gods War.
+[P5-A-B0034-016] S=['CHAOS GODS'] P=fights O=['ARROIN'] implicit=False ps="attacked" sug=invades / raids
+   Q: Originally a powerful healer, many Chaos gods attacked Arroin.

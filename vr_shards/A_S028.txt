@@ -1,0 +1,300 @@
+[P5-A-B0078-017] S=['SCORPION MAN'] P=wounds O=["ODDI'S INITIATE"] implicit=True ps="repeatedly stabbed" sug=wounds
+   Q: Oddi told me how it had grabbed his initiate with the claw, then repeatedly stabbed her with the wicked bone
+[P5-A-B0078-018] S=['PAULIS LONGVALE'] P=is member of O=['LUNAR RELIGION'] implicit=True ps="a good Lunar worshipper" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Oddi asked me, a good Lunar worshipper, how I liked my chaos friends
+[P5-A-B0078-019] S=['ORLANTH'] P=rules O=['AIR'] implicit=False ps="is the realm of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the air is the realm of Orlanth
+[P5-A-B0078-020] S=['ERNALDA'] P=rules O=['EARTH REALM'] implicit=False ps="is Ernalda's" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the earth realm is Ernalda's
+[P5-A-B0078-021] S=['KYGER LITOR', 'ZORAK ZORAN'] P=rules O=['DARKNESS'] implicit=False ps="is the realm of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: darkness is the realm of Kyger Litor or Zorak Zoran
+[P5-A-B0078-022] S=['YELM', 'YELMALIO'] P=rules O=['DAYTIME'] implicit=False ps="is the realms of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the daytime is the realms of Yelm and his son Yelmalio.
+[P5-A-B0078-023] S=['YELMALIO'] P=is child of O=['YELM'] implicit=False ps="his son" sug=is child of
+   Q: Yelm and his son Yelmalio.
+[P5-A-B0078-024] S=['THED'] P=is spouse of O=['RAGNAGLAR'] implicit=True ps="was the wife of" sug=is spouse of
+   Q: She was the wife of Ragnaglar, who later was called the Mad God
+[P5-A-B0078-025] S=['MAD GOD'] P=is alternative name for O=['RAGNAGLAR'] implicit=False ps="later was called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ragnaglar, who later was called the Mad God
+[P5-A-B0078-026] S=['BROOS'] P=is child of O=['THED', 'RAGNAGLAR'] implicit=True ps="their children were" sug=is child of
+   Q: their children were the broos, who then were untainted by chaos.
+[P5-A-B0078-027] S=['THED', 'RAGNAGLAR', 'MALLIA'] P=poisons with chaos O=['THE WORLD'] MOD={"via": ["THE DEVIL"]} implicit=True ps="schemed to introduce chaos into" sug=corrupts
+   Q: Together with Ragnaglar and Mallia, she schemed to introduce chaos into the world in the form of the Devil.
+[P5-A-B0078-028] S=['THE DEVIL'] P=is child of O=['THED'] implicit=False ps="was the mother of" sug=is child of
+   Q: Thed herself was the mother of the Devil, and his malevolence twisted and distorted her in childbirth.
+[P5-A-B0078-029] S=['BROOS'] P=serves O=['THED'] implicit=True ps="aligned with" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: She participated in the wars of chaos, and her broos aligned with her.
+[P5-A-B0078-030] S=['STORM BULL'] P=kills O=['RAGNAGLAR'] implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: During the war, Ragnaglar was slain by the Storm Bull
+[P5-A-B0078-031] S=['MALLIA'] P=departs from O=['THE CONSPIRACY'] implicit=False ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Mallia left the conspiracy
+[P5-A-B0078-032] S=['KYGER LITOR'] P=defeats O=['THED'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Kyger Litor defeated and skinned Thed.
+[P5-A-B0078-033] S=['KYGER LITOR'] P=wounds O=['THED'] implicit=False ps="skinned" sug=wounds
+   Q: Kyger Litor defeated and skinned Thed.
+[P5-A-B0078-034] S=['STORM BULL'] P=kills O=['THE DEVIL'] implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: The Devil finally was slain by the Storm Bull and cast to Hell
+[P5-A-B0078-035] S=['ARACHNE SOLARA'] P=swallows / consumes O=['THE DEVIL'] MOD={"in_on_at": "HELL"} implicit=True ps="devoured" sug=swallows / consumes
+   Q: cast to Hell, where Arachne Solara devoured him.
+[P5-A-B0078-036] S=['THED'] P=travels O=[] MOD={"to": ["ALL THE DARK CORNERS OF THE UNIVERSE", "PRAX"]} implicit=False ps="dispersed to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Thed dispersed to all the dark corners of the universe, including Prax.
+[P5-A-B0078-038] S=['THED'] P=bestows magic / gifts O=['AID IN RAIDS AND BATTLES'] IO=['ANIMAL NOMADS'] implicit=True ps="grants them this" sug=one of: bestows, heals, imbues, teaches
+   Q: she grants them this for the perfunctory worship they give her in return.
+[P5-A-B0078-039] S=['GREAT COMPROMISE'] P=protects O=['THED'] implicit=False ps="protected in her existence by" sug=one of: protects, rescues / frees, aids
+   Q: Though protected in her existence by the Great Compromise, Thed was on the losing side
+[P5-A-B0078-040] S=['THED'] P=is identified as O=['MOTHER OF THE BROOS'] implicit=True ps="her initial role as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: It is probable that only her initial role as Mother of the Broos has been effective in maintaining her powers.
+[P5-A-B0078-041] S=["THED'S WORSHIPPERS"] P=transforms into O=['DEMONS OF CHAOS'] implicit=False ps="become" sug=transforms into
+   Q: Thed's worshippers become demons of chaos after they die
+[P5-A-B0078-042] S=['DEMONS OF CHAOS'] P=serves O=['THE FORCES OF CHAOS'] MOD={"in_on_at": "THE FINAL BATTLE"} implicit=False ps="will be scouts for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The demons will be scouts for the forces of chaos in the Final Battle.
+[P5-A-B0078-043] S=['BROOS'] P=serves O=['THED'] implicit=False ps="are Thed's worshipper's" sug=is worshipped by
+   Q: The great majority of Thed's worshipper's are broos and other such vile creatures.
+[P5-A-B0078-044] S=['BROOS'] P=is child of O=['THED'] implicit=True ps="worship her as their mother" sug=is child of
+   Q: They worship her as their mother and the source of their existence.
+[P5-A-B0078-045] S=['THED'] P=poisons with chaos O=['THE WORLD'] implicit=True ps="because of her that chaos came into" sug=corrupts
+   Q: It is because of her that chaos came into the world.
+[P5-A-B0078-046] S=['STORM BULL'] P=kills O=['RAGNAGLAR', 'THE DEVIL', 'BROOS'] implicit=False ps="slew" sug=one of: kills, shatters, dies
+   Q: The Storm Bull slew her husband, Ragnaglar, and her children, the Devil and many broos
+[P5-A-B0078-047] S=['THED'] P=challenges O=['STORM BULL', 'AIR GODS'] implicit=True ps="hates" sug=hates
+   Q: she hates him and the Air gods particularly.
+[P5-A-B0078-048] S=['DARKNESS DEITIES'] P=fights O=['CHAOS'] implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She greatly dislikes the Darkness deities, who fought chaos so fiercely and for so long.
+[P5-A-B0078-049] S=['MALLIA'] P=departs from O=['THED'] implicit=False ps="has now disassociated from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Though Mallia has now disassociated from Thed, the beings who worship Thed also often worship Mallia as well.
+[P5-A-B0078-050] S=["THED'S WORSHIPPERS"] P=serves O=['MALLIA'] implicit=True ps="often worship" sug=is worshipped by
+   Q: the beings who worship Thed also often worship Mallia as well.
+[P5-A-B0079-001] S=['THE DEVIL'] P=survives as relic O=[] MOD={"in_on_at": "THE DEVIL'S MARSH"} implicit=False ps="there still are parts of the Devil there" sug=survives as relic
+   Q: The Devil's Marsh is a holy place, since there still are parts of the Devil there.
+[P5-A-B0079-002] S=['THED'] P=bestows magic / gifts O=['SECRET WORD OF RECOGNITION'] IO=['THED CULT MEMBERS'] MOD={"via": ["NIGHTMARE"]} implicit=True ps="bestows" sug=one of: bestows, heals, imbues, teaches
+   Q: Thed bestows the word upon all cult members during a nightmare.
+[P5-A-B0079-003] S=['MONNIE THE SHRILL'] P=is spouse of O=['BOLTHOR BRIGHTEYES'] implicit=True ps="Bolthor's Lunar spouse" sug=is spouse of
+   Q: Queen Monnie the Shrill, Bolthor's Lunar spouse, a priestess with a powerful reputation.
+[P5-A-B0079-004] S=['GREYSKIN GROVELLERS'] P=is member of O=['PRIMAL CHAOS'] implicit=False ps="grovellers of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Some were Thed-spawn, others clearly Greyskin grovellers of Primal Chaos, warped almost beyond recognition.
+[P5-A-B0079-005] S=["BOLTHOR'S ARMY"] P=kills O=['BROOS'] implicit=True ps="were slaughtered by" sug=one of: kills, shatters, dies
+   Q: All through the evening parties of broos attacked, and were slaughtered by our bold men
+[P5-A-B0079-006] S=['BROOS'] P=serves O=['THED'] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="sought only easy vengeance for their goddess" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the race made little of learning and sought only easy vengeance for their goddess.
+[P5-A-B0079-007] S=['STORM BULL WORSHIPPERS'] P=defeats O=['BROOS', 'SCORPION FOLK'] implicit=False ps="cut through the broos" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the worshippers of the Storm Bull cut through the broos like a plow through the soil, and everywhere overturned them, even the scorpion folk
+[P5-A-B0079-008] S=['BOLTHOR BRIGHTEYES'] P=bestows magic / gifts O=['ODDI THE KEEN'] implicit=True ps="rewarded richly" sug=one of: bestows, heals, imbues, teaches
+   Q: the King rewarded Oddi richly, as befitted a true king
+[P5-A-B0079-009] S=['CACODEMON'] P=bestows magic / gifts O=['RUNE SPELL'] IO=['THED'] implicit=True ps="gives" sug=one of: bestows, heals, imbues, teaches
+   Q: Cacodemon gives his grandmother the following Rune spell:
+[P5-A-B0079-010] S=['CACODEMON'] P=claims ancestry O=['THED'] implicit=True ps="his grandmother" sug=claims ancestry
+   Q: Cacodemon gives his grandmother the following Rune spell:
+[P5-A-B0079-011] S=['BROOS'] P=serves O=['THED'] implicit=False ps="gave Thed ancestor worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Before she became chaotic, the broos gave Thed ancestor worship.
+[P5-A-B0079-012] S=['VIVAMORT'] P=protects O=['THE TERRIBLE SECRET'] MOD={"in_on_at": "HELL"} implicit=False ps="placed there to stand eternal guard over" sug=one of: protects, rescues / frees, aids
+   Q: Before Time Vivamort was a Darkness spirit of the labyrinthine halls and ways of Hell, placed there to stand eternal guard over the Terrible Secret.
+[P5-A-B0079-013] S=['VIVAMORT'] P=is identified as O=['DARKNESS SPIRIT'] implicit=False ps="was a Darkness spirit of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Vivamort was a Darkness spirit of the labyrinthine halls and ways of Hell
+[P5-A-B0079-014] S=['EURMAL'] P=descends into O=['HELL'] implicit=False ps="crept into" sug=one of: descends into, dies
+   Q: when Eurmal crept into Hell, Vivamort betrayed his trust to learn the secret.
+[P5-A-B0079-015] S=['VIVAMORT'] P=departs from O=['THE TERRIBLE SECRET'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="betrayed his trust" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: when Eurmal crept into Hell, Vivamort betrayed his trust to learn the secret.
+[P5-A-B0079-016] S=['VIVAMORT', 'EURMAL'] P=discovers O=['DEATH'] MOD={"in_on_at": "HELL"} implicit=True ps="discovered" sug=discovers
+   Q: There they discovered Death.
+[P5-A-B0079-017] S=['EURMAL', 'HUMAKT'] P=travels O=[] MOD={"to": "SURFACE WORLD", "with_the_aid_of": ["VIVAMORT"]} implicit=False ps="came to carry Death to the surface world" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Vivamort aided Eurmal again when he and Humakt came to carry Death to the surface world, helping them past Death-hound and Bimbaros, Hell's porter.
+[P5-A-B0079-018] S=['BIMBAROS'] P=is identified as O=["HELL'S PORTER"] implicit=False ps="Hell's porter" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Bimbaros, Hell's porter.
+[P5-A-B0079-019] S=['GRANDFATHER MORTAL'] P=descends into O=[] MOD={"to": "VIVAMORT"} implicit=False ps="was the first to die and the first to come to" sug=dies
+   Q: Grandfather Mortal was the first to die and the first to come to Vivamort.
+[P5-A-B0079-020] S=['THE SUN'] P=descends into O=['HELL'] implicit=False ps="came to" sug=one of: descends into, dies
+   Q: When the Sun later came to Hell, Vivamort was burned and had to flee, hurt and disfigured, to the now-darkened surface.
+[P5-A-B0079-021] S=['THE SUN'] P=wounds O=['VIVAMORT'] implicit=False ps="was burned" sug=wounds
+   Q: When the Sun later came to Hell, Vivamort was burned and had to flee, hurt and disfigured, to the now-darkened surface.
+[P5-A-B0079-022] S=['VIVAMORT'] P=flees to O=['SURFACE WORLD'] implicit=True ps="had to flee" sug=flees to
+   Q: Vivamort was burned and had to flee, hurt and disfigured, to the now-darkened surface.
+[P5-A-B0079-023] S=['THE SUN'] P=bestows geas O=['VIVAMORT'] MOD={"purpose_clause": "TO PUNISH"} implicit=False ps="sent curses upon" sug=curses
+   Q: When the Sun learned of Vivamort's role in the release of Death, he sent curses upon him.
+[P5-A-B0079-024] S=['VIVAMORT'] P=teaches O=['MALLIA'] implicit=False ps="trading secrets of Darkness and Death" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Vivamort sheltered a while with Mallia, Mother of Disease, trading secrets of Darkness and Death.
+[P5-A-B0079-025] S=['MALLIA'] P=is identified as O=['MOTHER OF DISEASE'] implicit=False ps="Mother of Disease" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Mallia, Mother of Disease
+[P5-A-B0079-026] S=['THE DEVIL'] P=wounds O=['VIVAMORT'] implicit=True ps="attacked him and wounded him" sug=wounds
+   Q: Soon the Devil attacked him and wounded him.
+[P5-A-B0079-027] S=['VIVAMORT'] P=pledges oath with O=["VIVAMORT'S CHAOS FOES"] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="made evil pacts with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: he begged help from his chaos foes and made evil pacts with them.
+[P5-A-B0079-028] S=['THE DEVIL'] P=alters mythic station O=['VIVAMORT'] implicit=True ps="allowed him a hollow existence" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The Devil allowed him a hollow existence.
+[P5-A-B0079-029] S=['VIVAMORT'] P=manifests chaos taint O=[] implicit=False ps="to embrace chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: From that agreement onwards, Vivamort would need to drain life from others and to embrace chaos.
+[P5-A-B0079-030] S=['VIVAMORT'] P=kills O=['SOME OF THE HARRIED GODS'] implicit=True ps="was able to destroy totally" sug=shatters
+   Q: He used his demonic abilities to rip Power from the harried gods, and some he was able to destroy totally.
+[P5-A-B0079-031] S=['VIVAMORT', "VIVAMORT'S UNDEAD ALLIES"] P=defeats O=['ARROIN'] implicit=False ps="caught Arroin and broke his spirit" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Once Vivamort and his undead allies caught Arroin and broke his spirit, but could not kill him.
+[P5-A-B0079-032] S=['LYNX'] P=serves O=['HAHLGRIM'] implicit=True ps="his allied spirit" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: his allied spirit, a snarling lynx, prowled a perimeter around the camp to watch for foes.
+[P5-A-B0079-033] S=['HAHLGRIM'] P=kills O=['KARNOORA'] implicit=True ps="is no more" sug=one of: kills, shatters, dies
+   Q: "Karnoora is no more," he told us, "unless she knows not the bite of silver nor fears blessed water. It was a mighty struggle."
+[P5-A-B0079-034] S=['KARNOORA'] P=is identified as O=['VAMPIRE PRINCESS'] implicit=False ps="was a vampire princess" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Karnoora was a vampire princess of great power
+[P5-A-B0079-035] S=['ORLANTH'] P=reveals O=['KARNOORA'] IO=['HAHLGRIM'] implicit=True ps="spoke full to me of her and her ways" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Orlanth spoke full to me of her and her ways, and so she was confounded where she thought herself most safe.
+[P5-A-B0079-036] S=['TY KORA TEK'] P=is identified as O=['QUEEN OF THE DEAD'] implicit=False ps="Queen of the Dead" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ty Kora Tek, Queen of the Dead
+[P5-A-B0079-037] S=['VIVAMORT'] P=steals O=['SOULS'] MOD={"from": "TY KORA TEK"} implicit=False ps="stole souls who were hers" sug=steals
+   Q: Ty Kora Tek, Queen of the Dead, was incensed when Vivamort stole souls who were hers
+[P5-A-B0079-038] S=['EARTH'] P=fights O=['VIVAMORT'] MOD={"at_the_instigation_of": ["TY KORA TEK"]} implicit=True ps="set the Earth against" sug=challenges
+   Q: she set the Earth against him
+[P5-A-B0079-039] S=['RIVER STYX'] P=bestows geas O=['VIVAMORT'] MOD={"purpose_clause": "TO PUNISH"} implicit=False ps="swore he never would cross her waters again" sug=one of: bestows geas, curses
+   Q: the River Styx heard of Vivamort's betrayal and swore he never would cross her waters again
+[P5-A-B0079-040] S=['ALL THE WATERS OF THE MATERIAL WORLD'] P=fights O=['VIVAMORT'] implicit=False ps="remain a prime enemy of" sug=hates
+   Q: All the waters of the material world followed Styx's vow, and they remain a prime enemy of Vivamort.
+[P5-A-B0080-001] S=['VIVAMORT'] P=embodies O=['CHAOS RUNE', 'DARKNESS RUNE'] implicit=True ps="His Runes are" sug=one of: embodies, has domain
+   Q: His Runes are Chaos, Darkness, and Undead.
+[P5-A-B0080-002] S=['VIVAMORT'] P=claims ancestry O=['DARKNESS'] implicit=False ps="retains his origin in" sug=claims ancestry
+   Q: Despite the enmity of most of the other gods of Darkness, Vivamort retains his origin in Darkness.
+[P5-A-B0080-003] S=['VIVAMORT'] P=resurrects O=['VIVAMORT'] MOD={"in_on_at": "PLATEAU OF TERROR", "in_accordance_with": ["PACT WITH CHAOS"]} implicit=False ps="died and was reborn" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: the Plateau of Terror, where Vivamort died and was reborn under the terms of his pact with chaos
+[P5-A-B0080-004] S=['VIVAMORT'] P=pledges oath with O=['CHAOS'] implicit=False ps="his pact with chaos" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: where Vivamort died and was reborn under the terms of his pact with chaos
+[P5-A-B0080-005] S=['FIRST VAMPIRES'] P=comes into being O=[] MOD={"in_on_at": "PLATEAU OF TERROR"} implicit=True ps="came into being" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: where the first vampires came into being.
+[P5-A-B0080-006] S=['CRIMSON BAT'] P=is member of O=['RED MOON'] implicit=False ps="sub-cults of the Red Moon (the Crimson Bat in particular)" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Vivamort is friendly to certain sub-cults of the Red Moon (the Crimson Bat in particular)
+[P5-A-B0080-007] S=['GRANDFATHER MORTAL'] P=is member of O=['DAKA FAL'] implicit=False ps="the associated cult" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Daka Fal and the associated cult Grandfather Mortal are specially hated.
+[P5-A-B0080-008] S=['VIVAMORT'] P=fights O=['EURMAL', 'HUMAKT'] implicit=False ps="are hated intensely, due to the dealings they had with" sug=hates
+   Q: Eurmal and Humakt are hated intensely, due to the dealings they had with Vivamort in the Godtime.
+[P5-A-B0080-009] S=['VIVAMORT'] P=fights O=['ANTI-CHAOS CULTS'] implicit=True ps="dislikes and fights" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Vivamort always dislikes and fights any cult that actively fights chaos and sees Vivamort as the harbinger of chaos.
+[P5-A-B0080-010] S=['MOTHER OF DISEASE'] P=is alternative name for O=['MALLIA'] implicit=False ps="Mother of Disease" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Mallia, Mother of Disease
+[P5-A-B0080-011] S=['MALLIA'] P=protects O=['VIVAMORT'] implicit=True ps="sheltered" sug=one of: protects, rescues / frees, aids
+   Q: Vivamort maintains a connection with the being who sheltered him and who helped (inadvertently, some say) destroy him.
+[P5-A-B0080-012] S=['MALLIA'] P=fights O=['VIVAMORT'] implicit=True ps="helped (inadvertently, some say) destroy" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Vivamort maintains a connection with the being who sheltered him and who helped (inadvertently, some say) destroy him.
+[P5-A-B0080-013] S=['MALLIA'] P=bestows magic / gifts O=['DISEASE'] IO=['VIVAMORT'] implicit=False ps="given to" sug=one of: bestows, heals, imbues, teaches
+   Q: a disease given to Vivamort by Mallia in the Godtime.
+[P5-A-B0080-014] S=['VIVAMORT'] P=bestows magic / gifts O=['SECRETS OF HELL AND DEATH'] IO=['MALLIA'] implicit=True ps="in return for secrets of Hell and Death" sug=one of: bestows, heals, imbues, teaches
+   Q: This spirit of disease was given to Vivamort in return for secrets of Hell and Death that he brought with him when he first emerged from the underworld.
+[P5-A-B0080-015] S=['VIVAMORT'] P=travels O=[] MOD={"from": "UNDERWORLD"} implicit=True ps="emerged from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: when he first emerged from the underworld.
+[P5-A-B0080-016] S=['VAMPIRES'] P=serves O=['MALLIA'] implicit=True ps="aid her and her followers on occasion" sug=aids
+   Q: Vampires are immune to her form of Death, but aid her and her followers on occasion
+[P5-A-B0080-017] S=['HAHLGRIM'] P=serves O=['BOLTHOR'] implicit=True ps="My fealty remains as sworn" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: My fealty remains as sworn, unless you have it elsewise.
+[P5-A-B0080-018] S=['HAHLGRIM'] P=kills O=['VAMPIRE'] MOD={"using": "IRONBREAKER"} implicit=False ps="skewered" sug=one of: kills, shatters, dies
+   Q: I came upon Lord Hahlgrim and Ironbreaker. || But Hahlgrim skewered the smoke even as it hung, and the air flashed with power, and its vanishing scream testified that the vampire had been annihilated.
+[P5-A-B0080-019] S=['THE DEVIL'] P=travels O=[] MOD={"to": "THE WORLD"} implicit=False ps="entered" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Devil entered the world; with him came the slimey hordes of chaos.
+[P5-A-B0080-020] S=['TIEN'] P=is child of O=['THE DEVIL'] implicit=False ps="his father's (the Devil's)" sug=is child of
+   Q: Foremost in his father's (the Devil's) favor was Tien
+[P5-A-B0080-021] S=['TIEN'] P=rules O=['LEGIONS OF CHAOS'] implicit=True ps="commanded" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Tien, who commanded the most powerful of the legions.
+[P5-A-B0080-022] S=['TIEN'] P=kills O=['GENERT'] implicit=True ps="personally directed the destruction of" sug=one of: kills, shatters, dies
+   Q: He personally directed the destruction of the god Genert.
+[P5-A-B0080-023] S=['ARMY OF ORDER'] P=defeats O=['THE FORCES OF TIEN'] MOD={"in_accordance_with": ["LHANKOR MHY"]} implicit=True ps="routed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: his forces were routed at last by a vastly outnumbered army of order which used strategy devised by Lhankor Mhy, the god of knowledge.
+[P5-A-B0080-024] S=['LHANKOR MHY'] P=is identified as O=['GOD OF KNOWLEDGE'] implicit=False ps="the god of knowledge" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Lhankor Mhy, the god of knowledge.
+[P5-A-B0080-025] S=['TIEN'] P=binds O=['LHANKOR MHY'] MOD={"in_on_at": "TIEN'S BLACK PIT", "purpose_clause": "TO AVENGE"} implicit=False ps="captured and imprisoned" sug=binds
+   Q: Tien was furious, and sought personal vengeance against the god. || Lhankor Mhy was deceived, and walked into Tien's black pit, and there was captured and imprisoned.
+[P5-A-B0080-026] S=['LHANKOR MHY'] P=departs from O=["TIEN'S TUNNELS"] implicit=True ps="escape from his bonds and flee from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: The knowledge god instead found the knowledge to escape from his bonds and flee from the chaos creature's treacherous tunnels.
+[P5-A-B0080-027] S=['TIEN'] P=fights O=['LHANKOR MHY'] implicit=False ps="pursue and harry" sug=hunts
+   Q: Tien became obsessed with the destruction of Lhankor Mhy, abandoning all other activity to pursue and harry that foe.
+[P5-A-B0080-028] S=['LIGHTBRINGERS'] P=protects O=['LHANKOR MHY'] implicit=False ps="found protection with" sug=one of: protects, rescues / frees, aids
+   Q: Lhankor Mhy, fearing another meeting with Tien, found protection with the Lightbringers.
+[P5-A-B0081-001] S=['SPIKE'] P=shatters O=[] implicit=False ps="exploded" sug=shatters
+   Q: It was then that the Spike exploded.
+[P5-A-B0081-002] S=['TIEN'] P=travels O=[] MOD={"in_on_at": "COSMIC MOUNTAIN"} implicit=False ps="stalked" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: With the fall of the Greater Darkness, Tien stalked the sacred vestibules of the cosmic mountain, shadowing the Devil and hunting the heart and soul of Glorantha, plotting the downfall of his arch foe.
+[P5-A-B0081-003] S=['TIEN'] P=steals O=['MISTRESS OF THE LIGHT OF KNOWLEDGE'] MOD={"using": "SHARP GARROTE"} implicit=True ps="capture this magic for his own" sug=steals
+   Q: In triumph, he used a sharp garrote to capture this magic for his own.
+[P5-A-B0081-004] S=['TIEN'] P=dismembers O=['MISTRESS OF THE LIGHT OF KNOWLEDGE'] implicit=True ps="beheaded" sug=dismembers
+   Q: It became known that Tien had not merely beheaded her - he had magicked her soul into her still-living head.
+[P5-A-B0081-005] S=['TIEN'] P=enchants O=['MISTRESS OF THE LIGHT OF KNOWLEDGE'] implicit=True ps="magicked her soul into her still-living head" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: he had magicked her soul into her still-living head.
+[P5-A-B0081-006] S=['TIEN'] P=swallows / consumes O=['MISTRESS OF THE LIGHT OF KNOWLEDGE'] implicit=True ps="extracting her magic and skills" sug=swallows / consumes
+   Q: He carried this foul trophy with him, extracting her magic and skills to supplement his own.
+[P5-A-B0081-007] S=['HROTHMIR'] P=is child of O=['STORM BULL'] implicit=False ps="his sons, one of whom" sug=is child of
+   Q: Storm Bull and his sons, one of whom, Hrothmir the Horned Hero, pursued Tien to the gates of Hell itself.
+[P5-A-B0081-008] S=['HORNED HERO'] P=is alternative name for O=['HROTHMIR'] implicit=False ps="the Horned Hero" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Hrothmir the Horned Hero
+[P5-A-B0081-009] S=['HROTHMIR'] P=fights O=['TIEN'] MOD={"to": "GATES OF HELL"} implicit=False ps="pursued" sug=hunts
+   Q: Hrothmir the Horned Hero, pursued Tien to the gates of Hell itself.
+[P5-A-B0081-010] S=['TIEN'] P=flees to O=['FRINGES OF THE UNDERWORLD'] implicit=True ps="slipped away, and hid in" sug=flees to
+   Q: There the Death/Darkness deity easily slipped away, and hid in the fringes of the underworld where Yelm's light barely reached.
+[P5-A-B0081-011] S=['HROTHMIR'] P=kills O=['HROTHMIR'] implicit=False ps="slew himself" sug=one of: kills, shatters, dies
+   Q: In fury, Hrothmir slew himself to pass through the barrier between life and death
+[P5-A-B0081-012] S=['HROTHMIR'] P=descends into O=['UNDERWORLD'] implicit=True ps="entered the underworld" sug=one of: descends into, dies
+   Q: underworld also, bound by powerful oaths to destroy this thing of chaos.
+[P5-A-B0081-013] S=['TIEN'] P=flees to O=['DARKEST CRYPTS OF HELL'] implicit=False ps="fled, now into" sug=flees to
+   Q: Again Tien fled, now into the darkest crypts of Hell, blocking his pursuer's path with the dead and the Dark, warping both by the chaotic forces of the outer darkness.
+[P5-A-B0081-014] S=['HROTHMIR'] P=dismembers O=['TIEN'] implicit=True ps="separating the god's ram-horned head from his black-shrouded body" sug=dismembers
+   Q: Swiftly came the blade of the Horned Hero, separating the god's ram-horned head from his black-shrouded body.
+[P5-A-B0081-015] S=['LIGHT OF YELM'] P=blinds O=['TIEN'] implicit=False ps="searing away most of Tien's power of Darkness, leaving his living eyes to stare blindly" sug=wounds (qual=blinding)
+   Q: The head rolled into the full light of Yelm's glory || searing away most of Tien's power of Darkness, leaving his living eyes to stare blindly.
+[P5-A-B0081-016] S=['MISTRESS OF THE LIGHT OF KNOWLEDGE'] P=transforms into O=['GHOSTLY FORM'] implicit=False ps="shriveled to dust and became" sug=transforms into
+   Q: the grisly head of a once-beautiful woman shriveled to dust and became the ghostly form of the Mistress of the Light of Knowledge
+[P5-A-B0081-017] S=['MISTRESS OF THE LIGHT OF KNOWLEDGE'] P=descends into O=['HELL'] implicit=True ps="faded forever into the depths of" sug=one of: descends into, dies
+   Q: and then faded forever into the depths of Hell.
+[P5-A-B0081-018] S=['BODY OF TIEN'] P=swallows / consumes O=['HROTHMIR'] implicit=True ps="dismembered and fed upon the hero's spirit" sug=swallows / consumes
+   Q: the sky god's son was enveloped in darkness and fear, which dismembered and fed upon the hero's spirit.
+[P5-A-B0081-019] S=['BODY OF TIEN'] P=dismembers O=['HROTHMIR'] implicit=True ps="removed Hrothmir 's head" sug=dismembers
+   Q: At last it removed Hrothmir 's head and placed it upon its own headless shoulders.
+[P5-A-B0081-020] S=['BODY OF TIEN'] P=steals O=['SPELLS AND ABILITIES OF HROTHMIR'] implicit=True ps="seized a portion of" sug=steals
+   Q: By taking the hero's head, it regained some of its intelligence and seized a portion of the spells and abilities possessed by Hrothmir.
+[P5-A-B0081-021] S=['BODY OF TIEN'] P=manifests O=['DEATH RUNE'] implicit=True ps="the possession of a part of Death" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: only the possession of a part of Death had prevented it from dying.
+[P5-A-B0081-022] S=['THAN'] P=is alternative name for O=['TIEN'] implicit=False ps="a corruption of" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the god Than (a corruption of Tien)
+[P5-A-B0081-023] S=['THAN'] P=travels O=[] MOD={"in_on_at": ["CATACOMBS BENEATH NAMELESS MOUNTAINS", "SNAKE PIPE HOLLOW"]} implicit=False ps="wandering / prowling" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: A frequent and terrible sight during the Darkness was the vision of the god Than (a corruption of Tien) wandering the catacombs beneath nameless mountains, or prowling the fens of Snake Pipe Hollow with something else's head balanced atop his shoulders
+[P5-A-B0081-024] S=['LHANKOR MHY'] P=discovers O=['SKULL OF TIEN'] MOD={"in_on_at": "HELL"} implicit=True ps="discovered" sug=discovers
+   Q: Resting in the full light of Yelm (who was ignorant of the chaos god's nature), Lhankor Mhy discovered it on his quest to Hell.
+[P5-A-B0081-025] S=['LHANKOR MHY'] P=descends into O=['HELL'] implicit=False ps="his quest to Hell" sug=one of: descends into, dies
+   Q: Lhankor Mhy discovered it on his quest to Hell.
+[P5-A-B0081-026] S=['LHANKOR MHY'] P=fights O=['SKULL OF TIEN'] implicit=True ps="attempted to destroy" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He attempted to destroy the skull but could not
+[P5-A-B0081-027] S=['LHANKOR MHY'] P=travels O=[] MOD={"from": "HELL", "to": "OCEAN"} implicit=True ps="carried it with him out of Hell and cast it into the Ocean" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: god carried it with him out of Hell and cast it into the Ocean.
+[P5-A-B0081-028] S=['SKULL OF TIEN'] P=survives as relic O=[] implicit=True ps="did not die either" sug=survives as relic
+   Q: In spite of Yelm's burning light, this piece of Tien did not die either.
+[P5-A-B0081-029] S=['PRIMITIVE ISLANDERS'] P=establishes cult O=['SKULL OF TIEN'] implicit=True ps="enshrined it as a death god" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: But the only victims available to it for centuries were small animals and primitive islanders who enshrined it as a death god-a power over which it had no domain.
+[P5-A-B0081-030] S=['LHANKOR MHY'] P=bestows magic / gifts O=['ABILITY TO RESIST CONSUME MIND'] IO=['PRIESTS AND RUNE LORDS OF LHANKOR MHY'] implicit=False ps="was passed on to" sug=one of: bestows, heals, imbues, teaches
+   Q: Lhankor Mhy's ability to resist the Consume Mind spell was passed on to all Priests and Rune Lords of Lhankor Mhy.
+[P5-A-B0081-031] S=['THANICS'] P=re-enacts O=['THAN'] implicit=True ps="Imitating their deity" sug=re-enacts
+   Q: Imitating their deity, the Thanics collected the living heads of their victims and drew limited magics and skills from them.
+[P5-A-B0081-032] S=['THAN'] P=alters mythic station O=[] implicit=False ps="lost the ability to grant Rune magics" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: In the catastrophe of his severing, Than lost the ability to grant Rune magics to his followers except for the Create Head spells and a few Death and Darkness magics.
+[P5-A-B0081-033] S=['PRIEST OF LHANKOR MHY'] P=discovers O=['SKULL OF TIEN'] implicit=True ps="had been found by" sug=discovers
+   Q: But the head, resting in a sandy niche of a tiny island temple, had been found by a wandering, self-serving Priest of Lhankor Mhy
+[P5-A-B0081-034] S=['SKULL OF TIEN'] P=teaches O=['KNOWLEDGE-DEVOURING SPELLS'] IO=['PRIEST OF LHANKOR MHY'] MOD={"in_on_at": "KRALORIAN EMPIRE"} implicit=True ps="learned from it" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: the power-hungry sage concealed the skull in the catacombs of an unknown city in the Kralorian Empire, and learned from it the awful knowledge-devouring spells.
+[P5-A-B0081-035] S=['PRIEST OF LHANKOR MHY'] P=establishes cult O=['CULT OF THE HORNED SKULL'] implicit=True ps="founded" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: In the process he founded the cult of the Horned Skull, whom he named Atyar, Devourer of Knowledge.
+[P5-A-B0081-036] S=['ATYAR'] P=is alternative name for O=['HORNED SKULL'] MOD={"at_the_instigation_of": ["PRIEST OF LHANKOR MHY"]} implicit=True ps="whom he named" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Horned Skull, whom he named Atyar, Devourer of Knowledge.
+[P5-A-B0081-037] S=['DEVOURER OF KNOWLEDGE'] P=is alternative name for O=['ATYAR'] implicit=False ps="Devourer of Knowledge" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Atyar, Devourer of Knowledge.
+[P5-A-B0081-038] S=['ATYARI'] P=departs from O=['KRALORIAN EMPIRE'] implicit=True ps="forced to flee" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Constant persecution by other cults and local wars at last forced the Atyari to flee the Empire, in a Diaspora continent wide.
+[P5-A-B0081-039] S=['CULT OF THAN', 'CULT OF ATYAR'] P=establishes cult O=['CULT OF THANATAR'] MOD={"in_on_at": "GENERTELA"} implicit=False ps="unification into" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: The flight from the Kralori Empire ended in the mutual discovery and unification in Genertela of the cults of Than and Atyar into the cult of Thanatar, the Severed God.
+[P5-A-B0081-040] S=['SEVERED GOD'] P=is alternative name for O=['THANATAR'] implicit=False ps="the Severed God" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the cult of Thanatar, the Severed God.
+[P5-A-B0081-041] S=['ATYAR'] P=fights O=['LHANKOR MHY'] implicit=False ps="hatred of" sug=hates
+   Q: Atyar's hatred of Lhankor Mhy was aided by Than's head-stealing abilities
+[P5-A-B0081-042] S=['ATYARI'] P=bestows magic / gifts O=['CREATE MAJOR HEAD'] IO=['WORSHIPPERS OF THAN'] implicit=False ps="wove the Create Major Head spell for" sug=one of: bestows, heals, imbues, teaches
+   Q: In return, the Atyari wove the Create Major Head spell for the worshippers of Than, perfecting the already-existing spell.
+[P5-A-B0081-043] S=['BOLTHOR'] P=serves O=['RALZAKARK'] implicit=False ps="the 'old ally' of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: You are the 'old ally' of Ralzakark, King Bolthor?
+[P5-A-B0081-044] S=['SEVERED GOD'] P=comes into being O=[] implicit=False ps="was formed" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Since the pieces did not knit together, the Severed God was formed, and each piece retained its individuality.
+[P5-A-B0081-045] S=['GREEGROG'] P=discovers O=['SKULL OF ATYAR'] implicit=True ps="retrieved" sug=discovers
+   Q: Some say that the broo Hero, Greegrog, retrieved the skull and was made immortal for his pains.
+[P5-A-B0081-046] S=['GREEGROG'] P=alters mythic station O=[] implicit=False ps="was made immortal" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Some say that the broo Hero, Greegrog, retrieved the skull and was made immortal for his pains.
+[P5-A-B0081-047] S=['BOLTHOR'] P=pledges oath with O=['RALZAKARK'] implicit=True ps="have agreed with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: I have agreed with Ralzakark that my forces will not patrol beyond Dorasta shrine, and that his forces will not penetrate beyond the Oilstream and Frog river.
+[P5-A-B0081-048] S=['THANATAR'] P=embodies O=['COVETOUSNESS'] implicit=False ps="represents" sug=one of: embodies, has domain
+   Q: Thanatar represents the covetousness of creatures for the abilities of their fellow creatures.
+[P5-A-B0081-049] S=['THANATAR'] P=challenges O=['DEITIES OF CHAOS'] implicit=False ps="seeks to lord it over" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Thanatar remembers fondly his preeminence during the Godtime and seeks to lord it over his fellow deities of chaos

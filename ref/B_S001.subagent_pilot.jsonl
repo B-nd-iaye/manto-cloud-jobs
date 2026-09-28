@@ -1,0 +1,100 @@
+{"id": "P5-B-B0001-001", "v": "S", "inf": []}
+{"id": "P5-B-B0001-002", "v": "S", "inf": []}
+{"id": "P5-B-B0001-003", "v": "P", "inf": ["direct_object"], "why": "'them' not identified as Luatha in quote"}
+{"id": "P5-B-B0001-004", "v": "P", "inf": ["from"], "why": "'from Brithos' not stated in quote"}
+{"id": "P5-B-B0001-005", "v": "S", "inf": []}
+{"id": "P5-B-B0001-006", "v": "S", "inf": []}
+{"id": "P5-B-B0001-007", "v": "S", "inf": []}
+{"id": "P5-B-B0001-008", "v": "S", "inf": []}
+{"id": "P5-B-B0001-009", "v": "P", "inf": ["subject"], "why": "'he' not identified as Ylream in quote"}
+{"id": "P5-B-B0001-010", "v": "P", "inf": ["direct_object"], "why": "'his mother' not named Seshna Likita in quote"}
+{"id": "P5-B-B0001-011", "v": "S", "inf": []}
+{"id": "P5-B-B0001-012", "v": "P", "inf": ["subject"], "why": "'he' not named as Ylream in quote"}
+{"id": "P5-B-B0001-013", "v": "S", "inf": []}
+{"id": "P5-B-B0001-014", "v": "P", "inf": ["direct_object"], "why": "'the King' not identified as Ylream in quote"}
+{"id": "P5-B-B0001-015", "v": "S", "inf": []}
+{"id": "P5-B-B0001-016", "v": "P", "inf": ["subject"], "why": "'his' not identified as Ylream in quote"}
+{"id": "P5-B-B0001-017", "v": "S", "inf": []}
+{"id": "P5-B-B0001-018", "v": "S", "inf": []}
+{"id": "P5-B-B0001-019", "v": "S", "inf": []}
+{"id": "P5-B-B0001-020", "v": "S", "inf": []}
+{"id": "P5-B-B0001-021", "v": "P", "inf": ["subject"], "why": "'his' not named as Hrestol in quote"}
+{"id": "P5-B-B0001-022", "v": "S", "inf": []}
+{"id": "P5-B-B0001-023", "v": "S", "inf": []}
+{"id": "P5-B-B0001-024", "v": "P", "inf": ["subject"], "why": "'He' not named as Froalar in quote"}
+{"id": "P5-B-B0001-025", "v": "S", "inf": []}
+{"id": "P5-B-B0001-026", "v": "S", "inf": []}
+{"id": "P5-B-B0001-027", "v": "S", "inf": []}
+{"id": "P5-B-B0001-028", "v": "P", "inf": ["direct_object"], "why": "'the new god' not named Nysalor in quote"}
+{"id": "P5-B-B0001-029", "v": "P", "inf": ["predicate"], "why": "text says foreigners 'showed how'; pact-making not confirmed"}
+{"id": "P5-B-B0001-030", "v": "P", "inf": ["subject"], "why": "defeat is passive; Tanisor as agent not stated"}
+{"id": "P5-B-B0001-031", "v": "S", "inf": []}
+{"id": "P5-B-B0001-032", "v": "S", "inf": []}
+{"id": "P5-B-B0001-033", "v": "S", "inf": []}
+{"id": "P5-B-B0001-034", "v": "S", "inf": []}
+{"id": "P5-B-B0001-035", "v": "P", "inf": ["subject"], "why": "quote fragment omits explicit subject of 'fight'"}
+{"id": "P5-B-B0001-036", "v": "P", "inf": ["predicate"], "why": "'appointed to destroy' is a task, not confirmed fighting"}
+{"id": "P5-B-B0001-037", "v": "U", "inf": ["predicate"], "why": "quote says he quit worshiping; contradicts ongoing service"}
+{"id": "P5-B-B0001-038", "v": "P", "inf": ["subject"], "why": "subject Arkat not stated in this quote fragment"}
+{"id": "P5-B-B0001-039", "v": "P", "inf": ["subject", "direct_object"], "why": "'him' and implicit subject not named in quote"}
+{"id": "P5-B-B0001-040", "v": "P", "inf": ["predicate"], "why": "'said by many to be' is hearsay, not confirmed fact"}
+{"id": "P5-B-B0001-041", "v": "P", "inf": ["direct_object"], "why": "Seshnela not named in quote"}
+{"id": "P5-B-B0001-042", "v": "S", "inf": []}
+{"id": "P5-B-B0001-043", "v": "P", "inf": ["direct_object"], "why": "'her' and 'river brother' not named entities in quote"}
+{"id": "P5-B-B0001-044", "v": "S", "inf": []}
+{"id": "P5-B-B0001-045", "v": "P", "inf": ["subject"], "why": "'who' not identified as Damol in quote"}
+{"id": "P5-B-B0001-046", "v": "S", "inf": []}
+{"id": "P5-B-B0001-047", "v": "P", "inf": ["direct_object"], "why": "Rolfasland not named in this quote fragment"}
+{"id": "P5-B-B0001-048", "v": "P", "inf": ["direct_object"], "why": "Pendali not named in this quote fragment"}
+{"id": "P5-B-B0001-049", "v": "P", "inf": ["to"], "why": "destination 'it' (temple) not named explicitly in quote"}
+{"id": "P5-B-B0001-050", "v": "P", "inf": ["direct_object"], "why": "'the Goddess' not identified as Seshna Likita in quote"}
+{"id": "P5-B-B0001-051", "v": "P", "inf": ["subject", "direct_object"], "why": "subject and 'the Goddess' identity not stated in quote"}
+{"id": "P5-B-B0001-052", "v": "P", "inf": ["subject"], "why": "'expelled' passive; Seshnegi as agent not explicit"}
+{"id": "P5-B-B0002-001", "v": "S", "inf": []}
+{"id": "P5-B-B0002-002", "v": "S", "inf": []}
+{"id": "P5-B-B0002-003", "v": "S", "inf": []}
+{"id": "P5-B-B0002-004", "v": "S", "inf": []}
+{"id": "P5-B-B0002-005", "v": "S", "inf": []}
+{"id": "P5-B-B0002-006", "v": "P", "inf": ["direct_object"], "why": "'his family' pronoun not identified as Aamor's family"}
+{"id": "P5-B-B0002-007", "v": "S", "inf": []}
+{"id": "P5-B-B0002-008", "v": "S", "inf": []}
+{"id": "P5-B-B0002-009", "v": "P", "inf": ["subject"], "why": "'He' not named as Mularik in quote"}
+{"id": "P5-B-B0002-010", "v": "S", "inf": []}
+{"id": "P5-B-B0002-011", "v": "S", "inf": []}
+{"id": "P5-B-B0002-012", "v": "P", "inf": ["predicate"], "why": "'accompany' does not confirm a service/subordinate relation"}
+{"id": "P5-B-B0002-013", "v": "P", "inf": ["predicate"], "why": "'advisor to' does not confirm membership in the order"}
+{"id": "P5-B-B0002-014", "v": "S", "inf": []}
+{"id": "P5-B-B0002-015", "v": "P", "inf": ["subject"], "why": "subject Halwal not stated in this quote fragment"}
+{"id": "P5-B-B0002-016", "v": "P", "inf": ["subject"], "why": "'He' not named as Halwal in quote"}
+{"id": "P5-B-B0002-017", "v": "P", "inf": ["direct_object"], "why": "subject thwarted (Halwal) not named in this quote fragment"}
+{"id": "P5-B-B0002-018", "v": "P", "inf": ["direct_object"], "why": "'the king' not named as Guilmarn in quote"}
+{"id": "P5-B-B0002-019", "v": "S", "inf": []}
+{"id": "P5-B-B0002-020", "v": "P", "inf": ["subject"], "why": "subject not named in this quote fragment"}
+{"id": "P5-B-B0002-021", "v": "P", "inf": ["subject"], "why": "'He' not identified as Phillippe in quote"}
+{"id": "P5-B-B0002-022", "v": "P", "inf": ["direct_object"], "why": "'it' not explicitly named Grachamagacan in quote"}
+{"id": "P5-B-B0002-023", "v": "S", "inf": []}
+{"id": "P5-B-B0002-024", "v": "S", "inf": []}
+{"id": "P5-B-B0002-025", "v": "S", "inf": []}
+{"id": "P5-B-B0002-026", "v": "P", "inf": ["subject"], "why": "subject (Halwal, Yomili) not stated in this quote fragment"}
+{"id": "P5-B-B0002-027", "v": "S", "inf": []}
+{"id": "P5-B-B0002-028", "v": "P", "inf": ["direct_object"], "why": "'the land' not named Old Seshnela in quote"}
+{"id": "P5-B-B0002-029", "v": "S", "inf": []}
+{"id": "P5-B-B0002-030", "v": "P", "inf": ["subject"], "why": "subject Isarnos not named in this relative-clause quote"}
+{"id": "P5-B-B0002-031", "v": "P", "inf": ["subject", "direct_object"], "why": "'them' and 'him' pronouns not named entities in quote"}
+{"id": "P5-B-B0002-032", "v": "P", "inf": ["direct_object"], "why": "'this city' not named Kaniwal in quote"}
+{"id": "P5-B-B0002-033", "v": "P", "inf": ["direct_object"], "why": "'his' (altars) not identified as Kraljiid in quote"}
+{"id": "P5-B-B0002-034", "v": "P", "inf": ["subject", "direct_object"], "why": "subject and city name not stated in this quote fragment"}
+{"id": "P5-B-B0002-035", "v": "P", "inf": ["direct_object"], "why": "patient of defeat not named Kraljiid in this quote fragment"}
+{"id": "P5-B-B0002-036", "v": "P", "inf": ["in_on_at"], "why": "'here' not explicitly named Mount Aerlit in quote"}
+{"id": "P5-B-B0002-037", "v": "P", "inf": ["predicate"], "why": "one-time command does not confirm an ongoing rule relation"}
+{"id": "P5-B-B0002-038", "v": "P", "inf": ["direct_object"], "why": "'it' not explicitly named Mount Aerlit in quote"}
+{"id": "P5-B-B0002-039", "v": "P", "inf": ["direct_object"], "why": "object (Neleoswal) not named in this quote fragment"}
+{"id": "P5-B-B0002-040", "v": "P", "inf": ["subject"], "why": "'the Duke' not specified as Duke of Nolos in quote"}
+{"id": "P5-B-B0002-041", "v": "S", "inf": []}
+{"id": "P5-B-B0002-042", "v": "P", "inf": ["direct_object"], "why": "'It' not explicitly named Noyelle in quote"}
+{"id": "P5-B-B0003-001", "v": "P", "inf": ["direct_object"], "why": "'this land' not named Old Seshnela; 'goddess of' not explicit rule"}
+{"id": "P5-B-B0003-002", "v": "P", "inf": ["direct_object"], "why": "'the old capital' not explicitly named Tanewal in quote"}
+{"id": "P5-B-B0003-003", "v": "P", "inf": ["in_on_at"], "why": "location 'whence' not explicitly named Tanewal in quote"}
+{"id": "P5-B-B0003-004", "v": "S", "inf": []}
+{"id": "P5-B-B0003-005", "v": "S", "inf": []}
+{"id": "P5-B-B0003-006", "v": "P", "inf": ["in_on_at"], "why": "'this area' not explicitly named Rindland in quote"}

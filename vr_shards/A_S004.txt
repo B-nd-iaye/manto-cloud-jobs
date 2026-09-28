@@ -1,0 +1,300 @@
+[P5-A-B0007-053] S=['ELVES'] P=rules O=['UNITY COUNCIL'] MOD={"in_on_at": "DORASTOR"} implicit=True ps="gradually took control" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Council was moved to Dorastor where elves gradually took control, after eliminating dwarf rivals.
+[P5-A-B0007-054] S=['ELVES'] P=defeats O=['DWARF RIVALS'] MOD={"in_on_at": "DORASTOR"} implicit=False ps="eliminating" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Council was moved to Dorastor where elves gradually took control, after eliminating dwarf rivals.
+[P5-A-B0007-055] S=['BROWN ELVES'] P=fights O=['GREEN ELVES'] MOD={"in_on_at": "LOWLAND GENERTELA"} implicit=False ps="began to contest with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The green elves had been leaders since the end of the Gods War. || Now, in lowland Genertela, the brown elves began to contest with them.
+[P5-A-B0007-056] S=["ALDRYA'S WOE"] P=is alternative name for O=['ELF RACIAL WARS'] implicit=True ps="known afterwards among elves as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: These wars went on for the early part of the First Age known afterwards among elves as "Aldrya's Woe."
+[P5-A-B0007-057] S=['GBAJI WARS'] P=wounds O=['ELVES'] MOD={"in_on_at": "GENERTELA"} implicit=True ps="crippled" sug=wounds
+   Q: In the last part of the age, the Gbaji Wars crippled elf power in Genertela.
+[P5-A-B0007-058] S=['TROLLS', 'DWARFS'] P=fights O=['ELVES OF GENERTELA'] implicit=False ps="assailed" sug=invades / raids
+   Q: In the early Second Age, trolls and dwarfs assailed the elves of Genertela
+[P5-A-B0007-059] S=['LUNAR EMPIRE'] P=shatters O=['TWO HEALTHY FORESTS'] implicit=False ps="has burned to the ground" sug=shatters
+   Q: The Lunar Empire has already burned two healthy forests to the ground.
+[P5-A-B0007-060] S=['MOSTALI'] P=claims ancestry O=['MOSTAL'] implicit=False ps="claiming descent from" sug=claims ancestry
+   Q: The Mostali (called dwarfs) are a humanoid race claiming descent from Mostal the Maker
+[P5-A-B0007-061] S=['THE WORLD'] P=comes into being O=[] MOD={"at_the_instigation_of": ["MOSTAL"]} implicit=False ps="is said to have created" sug=conceives
+   Q: Mostal the Maker, a most ancient deity who is said to have created the world.
+[P5-A-B0007-062] S=['THE MAKER'] P=is alternative name for O=['MOSTAL'] implicit=False ps="Mostal the Maker" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Mostal the Maker
+[P5-A-B0007-063] S=['DWARFS'] P=fights O=['ELVES', 'TROLLS'] implicit=False ps="are mortal foes of" sug=hates
+   Q: Dwarfs are mortal foes of elves and trolls, because of old crimes dating back to the God Time.
+[P5-A-B0007-064] S=['DWARF CASTES'] P=re-enacts O=['RACES OF MOSTALI OF THE GOD TIME'] implicit=True ps="mimic" sug=re-enacts
+   Q: These occupations mimic the different races of Mostali which were known in the God Time.
+[P5-A-B0007-065] S=['THE SPIKE'] P=descends into O=['PRIMAL OCEAN'] implicit=True ps="descended into" sug=one of: descends into, dies
+   Q: it descended into the Primal Ocean, and its roots rested below the dark pits of the Underworld.
+[P5-A-B0007-066] S=['FINE PALACES'] P=comes into being O=[] MOD={"in_on_at": "THE SPIKE", "at_the_instigation_of": ["MOSTAL", "MINIONS OF MOSTAL"]} implicit=False ps="making" sug=crafts
+   Q: Within the Spike, Mostal and his minions proved their subtler arts, making fine palaces, each appropriate to the immortal who presided there.
+[P5-A-B0007-067] S=['ALDRYA'] P=is identified as O=['FIRST PLANT'] implicit=False ps="Aldrya, the First Plant" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: there grew Aldrya, the First Plant, and there walked Hykim, the First Beast, and Grandfather Mortal, the First Man.
+[P5-A-B0007-068] S=['HYKIM'] P=is identified as O=['FIRST BEAST'] implicit=False ps="Hykim, the First Beast" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: there walked Hykim, the First Beast
+[P5-A-B0007-069] S=['GRANDFATHER MORTAL'] P=is identified as O=['FIRST MAN'] implicit=False ps="Grandfather Mortal, the First Man" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Grandfather Mortal, the First Man.
+[P5-A-B0007-070] S=['DESCENDANTS OF ALDRYA, HYKIM AND GRANDFATHER MORTAL'] P=travels O=[] MOD={"from": "THE SPIKE", "to": "THE REST OF THE WORLD"} implicit=True ps="spread into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: From that place, their descendants spread into the rest of the world.
+[P5-A-B0007-071] S=['RATSLAF'] P=wounds O=['THE SPIKE'] IO=['MOSTAL'] implicit=False ps="tickled his nose and made one blow land imperfectly" sug=wounds
+   Q: When Mostal was hard at work pounding the Spike deep into the world, the god Ratslaf tickled his nose and made one blow land imperfectly. || Thus, the Spike, despite its vast size, intricate interior, and complex structure, had a single minute flaw.
+[P5-A-B0007-072] S=['MOSTALI'] P=departs from O=['THE SPIKE'] implicit=True ps="went forth and formed colonies in the world" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Later, most of them went forth and formed colonies in the world
+[P5-A-B0007-073] S=['UMATH'] P=is born from O=['FLAW IN THE SPIKE'] implicit=True ps="is where was born" sug=is born from
+   Q: That one fault is where Umath the Destroyer was born.
+[P5-A-B0007-074] S=['THE DESTROYER'] P=is alternative name for O=['UMATH'] implicit=False ps="Umath the Destroyer" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Umath the Destroyer
+[P5-A-B0007-075] S=['BOGGLES'] P=travels O=[] MOD={"to": "THE SPIKE"} implicit=False ps="infested" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Furthermore, boggles quickly infested the Spike, which caused great distress to Acos and his followers.
+[P5-A-B0007-076] S=['UMATH'] P=embodies O=['CHANGE', 'STRENGTH'] implicit=False ps="was" sug=one of: embodies, has domain
+   Q: Umath was Change and Strength, a howling mindless force bent only on altering the world.
+[P5-A-B0007-077] S=['UMATH'] P=shatters O=['PEACEFUL WORLD OF THE MOSTALI'] implicit=False ps="When born, was broken" sug=shatters
+   Q: When Umath was born, the peaceful world of the Mostali was broken.
+[P5-A-B0007-078] S=['UMATH', 'SONS OF UMATH'] P=alters mythic station O=['THE SKY'] MOD={"from": "THE EARTH"} implicit=False ps="tore the groaning sky from its place, thrusting it away from" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: At one point, Umath and his sons set their muscles to work and tore the groaning sky from its place, thrusting it away from the earth.
+[P5-A-B0007-079] S=['UMATH', 'SONS OF UMATH'] P=alters mythic station O=['BOWL OF THE HEAVENS'] implicit=True ps="was knocked atilt" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The bowl of the Heavens, carefully placed by Mostal, was knocked atilt.
+[P5-A-B0007-080] S=['MOSTALI'] P=serves O=['KARGAN TOR'] implicit=False ps="marching purposefully in the wake of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Mostali fought in many early battles, marching purposefully in the wake of Kargan Tor, War God of the Celestial Court.
+[P5-A-B0007-081] S=['KARGAN TOR'] P=is member of O=['CELESTIAL COURT'] implicit=False ps="War God of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Kargan Tor, War God of the Celestial Court.
+[P5-A-B0007-082] S=['MOSTALI'] P=challenges O=['VADRUS'] implicit=True ps="engaged in a contest" sug=one of: challenges, breaks oath, betrays, fights
+   Q: For example, one time they engaged Vadrus, a storm god, in a contest pitting Quicksilver's changing ability against the wind's.
+[P5-A-B0007-083] S=['VADRUS'] P=is member of O=['STORM GODS'] implicit=True ps="a storm god" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Vadrus, a storm god
+[P5-A-B0007-084] S=['DEATH'] P=manifests O=[] MOD={"in_on_at": "THE WORLD"} implicit=False ps="entered the world" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: When Death entered the world, the Gods War took a fatal turn for the worse.
+[P5-A-B0007-085] S=['ELVES'] P=enchants O=['SACRED AXE'] MOD={"using": "DEATH"} implicit=False ps="placed Death in" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: The elves placed Death in their sacred axe, an Earth weapon, and slaughtered the Mostali.
+[P5-A-B0007-086] S=['ELVES'] P=kills O=['MOSTALI'] MOD={"using": "SACRED AXE"} implicit=False ps="slaughtered" sug=one of: kills, shatters, dies
+   Q: The elves placed Death in their sacred axe, an Earth weapon, and slaughtered the Mostali.
+[P5-A-B0007-087] S=['HIGH KING ELF'] P=kills O=['MOSTAL'] MOD={"in_on_at": "MOSTAL'S PALACE", "using": "SACRED AXE"} implicit=True ps="struck down" sug=one of: kills, shatters, dies
+   Q: High King Elf bore it to the heart of Mostal's Palace and struck down the god there.
+[P5-A-B0007-088] S=['STONE'] P=is sibling of O=['MOSTAL'] implicit=False ps="brother of" sug=is sibling of
+   Q: Stone, brother of Mostal, was also slain, and so the gods of the Mostali were lost.
+[P5-A-B0008-001] S=['TROLLS'] P=kills O=['MOSTALI'] implicit=False ps="slaughtering" sug=one of: kills, shatters, dies
+   Q: Trolls poured out of secret passages, slaughtering and devouring faithful Mostali, wrecking their machinery and laboratories.
+[P5-A-B0008-002] S=['TROLLS'] P=swallows / consumes O=['MOSTALI'] implicit=True ps="melted in their own pots and drank" sug=swallows / consumes
+   Q: They melted Mostali in their own pots and drank them.
+[P5-A-B0008-003] S=['CRUCIBLE OF IRON'] P=comes into being O=[] MOD={"at_the_instigation_of": ["OCTAGONY OF ANCIENT MINERALS"]} implicit=True ps="made" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: With their great skill and magic, the council made the Ninth Container, the Crucible of Iron.
+[P5-A-B0008-004] S=['IRON'] P=is identified as O=['MOSTALI GOD OF WAR'] implicit=False ps="is now also" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: They also developed the skills of using those tools, and so Iron is now also the Mostali god of war.
+[P5-A-B0008-005] S=['IRON'] P=fights O=['TROLLS', 'ELVES'] MOD={"purpose_clause": "to fight against the greatest of the Mostali's foes"} implicit=False ps="was made to fight against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Iron was made to fight against the greatest of the Mostali's foes: trolls and elves.
+[P5-A-B0008-006] S=['IRON MOSTALI'] P=is child of O=['MOSTAL'] implicit=True ps="their father" sug=is child of
+   Q: The Iron Mostali made axes, like that which slew their father
+[P5-A-B0008-007] S=['IRON GOD'] P=descends into O=['BASEMENTS OF THE SPIKE'] implicit=False ps="led a force deep into" sug=one of: descends into, dies
+   Q: At one point the Iron God led a force deep into the basements of the Spike, there discovering the abode of the dead and returning to his realm with as many as could escape.
+[P5-A-B0008-008] S=['IRON GOD'] P=discovers O=['ABODE OF THE DEAD'] MOD={"in_on_at": "BASEMENTS OF THE SPIKE"} implicit=True ps="discovering" sug=discovers
+   Q: there discovering the abode of the dead and returning to his realm with as many as could escape.
+[P5-A-B0008-009] S=['TY KORA TEK'] P=protects O=['SPIRITS OF THE DEAD MOSTALI'] implicit=True ps="took under her protection" sug=one of: protects, rescues / frees, aids
+   Q: Ty Kora Tek, an Earth Goddess, took these spirits under her protection.
+[P5-A-B0008-010] S=['TY KORA TEK'] P=is member of O=['EARTH GODDESSES'] implicit=True ps="an Earth Goddess" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Ty Kora Tek, an Earth Goddess
+[P5-A-B0008-011] S=['CLAY JAR'] P=comes into being O=[] MOD={"at_the_instigation_of": ["OCTAGONY OF ANCIENT MINERALS"]} implicit=True ps="made" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They made the Tenth Container, the Clay Jar.
+[P5-A-B0008-012] S=['CLAY MOSTALI'] P=is born from O=['CLAY JAR'] implicit=True ps="From it clambered" sug=is born from
+   Q: From it clambered the many Clay Mostali.
+[P5-A-B0008-013] S=['DWARFS'] P=is alternative name for O=['CLAY MOSTALI'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: These are the Clay Mostali, also called dwarfs.
+[P5-A-B0008-014] S=['CLAY MOSTALI'] P=serves O=['IRON GOD'] implicit=True ps="sent to follow into battle" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: most were outfitted with iron and sent to follow Iron God into battle.
+[P5-A-B0008-015] S=['DIAMOND GOBLET'] P=comes into being O=[] MOD={"at_the_instigation_of": ["OCTAGONY OF ANCIENT MINERALS", "CLAY GOD"]} implicit=True ps="sang songs of power and worked their skills to make" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Next the Octagony and the Clay God sang songs of power and worked their skills to make the Last Container, the Diamond Goblet.
+[P5-A-B0008-016] S=['DIAMOND MOSTALI'] P=is born from O=['DIAMOND GOBLET'] implicit=True ps="From that came" sug=is born from
+   Q: From that came new beings, the Diamond Mostali or the Diamond Dwarfs.
+[P5-A-B0008-017] S=['DIAMOND DWARFS'] P=is alternative name for O=['DIAMOND MOSTALI'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Diamond Mostali or the Diamond Dwarfs.
+[P5-A-B0008-018] S=['DIAMOND MOSTALI'] P=rules O=['DWARFS'] implicit=True ps="are the leaders of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They are the leaders of the dwarfs.
+[P5-A-B0008-019] S=['OLD MOSTALI'] P=teaches O=['CLAY MOSTALI'] implicit=False ps="were taught their skills" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: there were losses among the Old Mostali, and many Clay Mostali were taught their skills as replacements
+[P5-A-B0008-020] S=['BOGGLES'] P=wounds O=['LAW'] implicit=False ps="holes made by" sug=wounds
+   Q: Cracks had long been present in the unchangeable face of Law, and utter confusion had seeped out of the holes made by the boggles.
+[P5-A-B0008-021] S=['LAWS OF THE CELESTIAL COURT'] P=binds O=['CELESTIAL COURT'] implicit=False ps="was held prisoner by" sug=binds
+   Q: The Celestial Court was held prisoner by their own laws.
+[P5-A-B0008-022] S=['KARGAN TOR'] P=departs from O=['HIS POST'] implicit=False ps="abandoned" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Kargan Tor, God of War, abandoned his post and allowed the army of Chaos to slide in.
+[P5-A-B0008-023] S=['ARMY OF CHAOS'] P=travels O=[] MOD={"at_the_instigation_of": ["KARGAN TOR"]} implicit=False ps="allowed to slide in" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Kargan Tor, God of War, abandoned his post and allowed the army of Chaos to slide in.
+[P5-A-B0008-024] S=['KARGAN TOR'] P=is identified as O=['GOD OF WAR'] implicit=False ps="God of War" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Kargan Tor, God of War
+[P5-A-B0008-025] S=['THE EDIFICE'] P=descends into O=['NOTHINGNESS'] implicit=False ps="vanished into" sug=one of: descends into, dies
+   Q: With a clap of doom, the edifice vanished into nothingness. || It took with it the majority of the elder Mostali races.
+[P5-A-B0008-026] S=['CLAY DWARFS'] P=rules O=['REALMS OF THE VANISHED MOSTALI'] implicit=False ps="inherited" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Clay dwarfs inherited the realms of the vanished Mostali.
+[P5-A-B0008-027] S=['COUNCIL OF TEN MINERALS'] P=is alternative name for O=['DECAMONY'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Decamony, or Council of Ten Minerals
+[P5-A-B0008-028] S=['CLAY DWARFS'] P=serves O=['OLD LAW'] implicit=True ps="revered" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They revered the Old Law to the best of their ability, and they determined to struggle forever to reassemble the World Machine.
+[P5-A-B0008-029] S=['IRON MOSTALI'] P=teaches O=['CLAY DWARFS'] implicit=False ps="taught their ways to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The Iron Mostali, the most numerous of the surviving Old Mostali, taught their ways to the eager Clay dwarfs, thus reestablishing the dwarf culture firmly.
+[P5-A-B0008-030] S=['IRON MOSTALI'] P=is member of O=['OLD MOSTALI'] implicit=False ps="the most numerous of the surviving" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Iron Mostali, the most numerous of the surviving Old Mostali
+[P5-A-B0008-031] S=['ARGAN ARGAR'] P=binds O=['LODRIL'] implicit=True ps="was tamed by" sug=binds
+   Q: After he was tamed by Argan Argar, the dwarfs continued friendship with his two children, Caladra and Aurelion.
+[P5-A-B0008-032] S=['CALADRA AND AURELION'] P=is child of O=['LODRIL'] implicit=True ps="his two children" sug=is child of
+   Q: the dwarfs continued friendship with his two children, Caladra and Aurelion.
+[P5-A-B0008-033] S=['DWARFS'] P=pledges oath with O=['LODRIL', 'CALADRA AND AURELION'] implicit=False ps="friend / continued friendship with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Lodril was one such friend. || the dwarfs continued friendship with his two children, Caladra and Aurelion.
+[P5-A-B0008-034] S=['TY KORA TEK'] P=is child of O=['GATA'] implicit=False ps="daughter of" sug=is child of
+   Q: Ty Kora Tek, daughter of Gata, is the dwarf Goddess of Death
+[P5-A-B0008-035] S=['TY KORA TEK'] P=is identified as O=['DWARF GODDESS OF DEATH'] implicit=False ps="is the dwarf Goddess of Death" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ty Kora Tek, daughter of Gata, is the dwarf Goddess of Death, for she lives deep within the earth
+[P5-A-B0008-036] S=['TY KORA TEK'] P=pledges oath with O=['DWARFS'] implicit=True ps="promising to return their souls' energy to them if they would worship her" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: has befriended the dwarfs, promising to return their souls' energy to them if they would worship her.
+[P5-A-B0008-037] S=['IRON GOD'] P=is spouse of O=['TY KORA TEK'] implicit=True ps="is said to be her husband" sug=is spouse of
+   Q: Sometimes Iron God is said to be her husband, sometimes Lodril is, and sometimes it is Mostal.
+[P5-A-B0008-038] S=['LODRIL'] P=is spouse of O=['TY KORA TEK'] implicit=True ps="sometimes Lodril is" sug=is spouse of
+   Q: Sometimes Iron God is said to be her husband, sometimes Lodril is, and sometimes it is Mostal.
+[P5-A-B0008-039] S=['MOSTAL'] P=is spouse of O=['TY KORA TEK'] implicit=True ps="sometimes it is Mostal" sug=is spouse of
+   Q: Sometimes Iron God is said to be her husband, sometimes Lodril is, and sometimes it is Mostal.
+[P5-A-B0008-040] S=['DWARFS'] P=serves O=['WORLD MACHINE'] implicit=True ps="sent their prayers and powers to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They wrought their wonders, sent their prayers and powers to the Machine, and rejoiced when the Sun rose again
+[P5-A-B0008-041] S=['IRON'] P=steals O=['DWARF SECRETS'] implicit=False ps="retrieve" sug=steals
+   Q: some of the early acts of Iron were to retrieve dwarf secrets from the ill-advised hands which held them.
+[P5-A-B0008-042] S=['GREATWAY DWARFS'] P=fights O=['CHAOS'] implicit=False ps="cooperated with all races to fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Openhandism sprang into popularity during the Darkness, especially from the Greatway region where dwarfs cooperated with all races to fight chaos.
+[P5-A-B0008-043] S=['IRON DIAMOND VOICE'] P=is member of O=['FIRST COUNCIL'] implicit=False ps="was the first dwarf to sit upon" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Iron Diamond Voice became a leader of dwarf dissent among the Greatway dwarfs, and was the first dwarf to sit upon the First Council
+[P5-A-B0008-044] S=['FIRST COUNCIL'] P=travels O=[] MOD={"from": "DRAGON PASS", "to": "PELORIA"} implicit=False ps="went out from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the First Council that went out from Dragon Pass and brought culture to the wastes of Peloria.
+[P5-A-B0008-045] S=['DECAMONY'] P=alters mythic station O=['GREATWAY DWARFS'] implicit=False ps="declared to be severed from all dwarfs of Mostal" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: In 182, the Decamony declared the Greatway dwarfs to be severed from all dwarfs of Mostal
+[P5-A-B0008-046] S=['GREATWAY DWARFS'] P=serves O=['SECOND COUNCIL'] implicit=False ps="supported" sug=aids
+   Q: Shortly afterward, many Greatway dwarfs supported the Second Council
+[P5-A-B0008-047] S=['DWARFS'] P=serves O=['GBAJI EXPERIMENT'] implicit=False ps="supported" sug=aids
+   Q: Dwarfs supported the Gbaji experiment.
+[P5-A-B0008-048] S=['TROLLS'] P=departs from O=['GBAJI EXPERIMENT'] implicit=True ps="walked out on" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: when the trolls walked out on the experiment and created the Broken Council
+[P5-A-B0008-049] S=['TROLLS'] P=establishes cult O=['BROKEN COUNCIL'] implicit=False ps="created" sug=founds
+   Q: when the trolls walked out on the experiment and created the Broken Council
+[P5-A-B0008-050] S=['DWARFS'] P=kills O=['TROLLS'] implicit=False ps="began to ambush and kill" sug=one of: kills, shatters, dies
+   Q: the dwarfs did not even wait for government sanction, but immediately began to ambush and kill trolls.
+[P5-A-B0008-051] S=['NYSALOR'] P=rules O=['PELORIA'] implicit=False ps="golden reign" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: most of Peloria brought to silence under Nysalor's golden reign
+[P5-A-B0008-052] S=['LORD ANGARKO'] P=substitutes O=['IRON DIAMOND VOICE'] implicit=False ps="succeeded him as speaker of the dwarfs at the council" sug=substitutes
+   Q: A further schism among the heretics broke out when Lord Angarko the Golden Diamond argued with Iron Diamond Voice, and then succeeded him as speaker of the dwarfs at the council.
+[P5-A-B0008-053] S=['THE GOLDEN DIAMOND'] P=is alternative name for O=['LORD ANGARKO'] implicit=False ps="Lord Angarko the Golden Diamond" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Lord Angarko the Golden Diamond
+[P5-A-B0008-054] S=['ELVES'] P=kills O=['LORD ANGARKO'] implicit=True ps="was murdered by" sug=one of: kills, shatters, dies
+   Q: Lord Angarko was murdered by elvish treachery
+[P5-A-B0008-055] S=['ARKAT'] P=fights O=['CHAOS FORCES'] MOD={"with_the_aid_of": ["DWARFS OF THE WEST"]} implicit=False ps="help against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The dwarfs of the West were glad to help Arkat against the Chaos forces in their area.
+[P5-A-B0008-056] S=['DWARFS OF THE WEST'] P=bestows magic / gifts O=["ARKAT'S MEN"] implicit=True ps="benefited greatly from dwarf favor" sug=one of: bestows, heals, imbues, teaches
+   Q: Some of Arkat's men benefited greatly from dwarf favor.
+[P5-A-B0008-057] S=['BAND OF DWARF VOLUNTEERS', 'ARKAT'] P=travels O=[] MOD={"to": "DRAGON PASS", "purpose_clause": "to convert the dwarfs there back to Dectamonic ways"} implicit=False ps="volunteered to go with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Only a small band of hardy volunteers, all fanatics for the Decamony, volunteered to go with Arkat to Dragon Pass. || for in Dragon Pass they sought to convert the dwarfs there back to Dectamonic ways.
+[P5-A-B0008-058] S=['CHARK THE LIBERATOR'] P=establishes cult O=['INDIVIDUALISM'] implicit=True ps="was born by" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: It was born sometime during the Second Age, probably about the year 700, by a dwarf later called Chark the Liberator.
+[P5-A-B0008-059] S=['CHARK THE LIBERATOR'] P=transforms into O=['IRON'] implicit=True ps="his bones turned into" sug=transforms into
+   Q: His piety was so firm that, they say, his bones turned into iron.
+[P5-A-B0008-060] S=['CHARK THE LIBERATOR'] P=enters Godtime / Otherworld O=['GODS WORLD'] MOD={"purpose_clause": "seeking his god, Mostal"} implicit=True ps="seeking in the Gods World" sug=enters Godtime / Otherworld
+   Q: he also met young Arkat one day while seeking his god, Mostal, in the Gods World.
+[P5-A-B0008-061] S=['CHARK THE LIBERATOR'] P=serves O=['MOSTAL'] implicit=True ps="his god" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: seeking his god, Mostal
+[P5-A-B0008-062] S=['ARKAT'] P=teaches O=['CHARK THE LIBERATOR'] implicit=True ps="The combination of Arkat's knowledge brought him to the secret" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The combination of Arkat's knowledge, plus Chark's own seeking, brought him to the secret of his heresy.
+[P5-A-B0008-063] S=['DWARF SOULS'] P=embodies O=['MOSTAL'] implicit=True ps="made in the image of" sug=one of: embodies, has domain
+   Q: Chark claims that each little soul is, in fact, made in the image of Mostal.
+[P5-A-B0008-064] S=['GREATWAY DWARFS'] P=bestows magic / gifts O=['OCTAMONIST LEADERS'] implicit=True ps="sent money and power to" sug=one of: bestows, heals, imbues, teaches
+   Q: insane, and then sent money and power to the Octamonist leaders there.
+[P5-A-B0008-065] S=['DECAMONY'] P=defeats O=['DWARFS OF BELKSAN'] implicit=True ps="sent an army against; the city fell" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: sent an army secretly over-ground against the dwarfs of Belksan, near Seshnela. || The city fell, with heavy losses, in 852.
+[P5-A-B0008-066] S=['GOD LEARNERS', 'EMPIRE OF THE WYRMS FRIENDS'] P=discovers O=['DWARF SECRETS'] implicit=False ps="used keen investigative techniques to rediscover" sug=discovers
+   Q: Both the God Learners and the Empire of the Wyrms Friends used keen investigative techniques to rediscover dwarf secrets
+[P5-A-B0008-067] S=['TROLLS'] P=defeats O=['DWARF ARMY'] implicit=True ps="harassed it into nothing" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: One was caught in the open by trolls, who harassed it into nothing
+[P5-A-B0008-068] S=['GREATWAY DWARFS'] P=defeats O=['DWARF ARMY'] implicit=True ps="was destroyed in an ambush" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: another was destroyed in an underground dwarf ambush from Greatway.
+[P5-A-B0009-001] S=['HUMANS FROM THE THIRD COUNCIL'] P=fights O=["NIDAN DECAMONY'S LAST ARMY"] implicit=False ps="surprised" sug=invades / raids
+   Q: humans from the Third Council surprised the Nidan Decamony's last army, so that the battle was quickly decided in Greatway's favor.
+[P5-A-B0009-002] S=['RED MOON'] P=becomes celestial body O=[] implicit=False ps="rose into the sky" sug=becomes celestial body
+   Q: In 1247, a new moon rose into the sky of Glorantha, the Red Moon.
+[P5-A-B0009-003] S=['RED MOON'] P=reveals O=['WORLD MACHINE'] IO=['DWARFS'] implicit=True ps="was another great sign believed to prophesize" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: this was another great sign believed to prophesize that their ancient World Machine was, according to plan, being repaired.
+[P5-A-B0009-004] S=['UZ'] P=flees to O=['SURFACE WORLD'] MOD={"from": "UNDERWORLD", "at_the_instigation_of": ["YELM"]} implicit=False ps="spilled onto" sug=flees to
+   Q: The Uz (popularly called trolls) are a subterranean race that spilled onto the Surface World when Yelm's light chased them from the Underworld.
+[P5-A-B0009-005] S=['TROLLS'] P=is alternative name for O=['UZ'] implicit=False ps="popularly called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Uz (popularly called trolls)
+[P5-A-B0009-006] S=['MISTRESS RACE', 'DARK TROLLS', 'GREAT TROLLS', 'TROLLKIN', 'CAVE TROLLS'] P=is member of O=['TROLLS'] implicit=False ps="Types of trolls include" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Types of trolls include the Mistress Race (uzuz), Dark Trolls (uzko), Great Trolls (uzdo), Trollkin (enlo), and Cave Trolls (romal).
+[P5-A-B0009-007] S=['UZUZ'] P=is alternative name for O=['MISTRESS RACE'] implicit=False ps="Mistress Race: The uzuz" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Mistress Race: The uzuz.
+[P5-A-B0009-008] S=['KYGER LITOR'] P=flees to O=['SURFACE WORLD'] MOD={"from": "WONDERHOME"} implicit=True ps="disasters forced her to the surface" sug=flees to
+   Q: Plate One shows Kyger Litor in Wonderhome before disasters forced her to the surface.
+[P5-A-B0009-009] S=['MINARYTH THE PURPLE'] P=is member of O=['LHANKOR MHY'] implicit=False ps="Lhankor Mhy sage" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Noted Lhankor Mhy sage Minaryth the Purple has theorized that this frieze is duplicated at each temple.
+[P5-A-B0009-010] S=['KYGER LITOR', 'ZORAK ZORAN'] P=fights O=['CHAOS'] implicit=True ps="fighting" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: she was famous for her deeds in fighting Chaos with her cousin, Zorak Zoran
+[P5-A-B0009-011] S=['ZORAK ZORAN'] P=is sibling of O=['KYGER LITOR'] implicit=True ps="her cousin" sug=is sibling of
+   Q: she was famous for her deeds in fighting Chaos with her cousin, Zorak Zoran
+[P5-A-B0009-012] S=['XIOLA UMBAR'] P=is sibling of O=['ZORAK ZORAN'] implicit=True ps="his sister" sug=is sibling of
+   Q: in creation, with his sister Xiola Umbar.
+[P5-A-B0009-013] S=['GRANDFATHER MORTAL'] P=comes into being O=[] MOD={"with_the_aid_of": ["ALL THE DEITIES"], "in_accordance_with": ["CELESTIAL COURT"]} implicit=False ps="was the result of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Grandfather Mortal, first of humans (and humanoids), was the result of all the deities working together under the tutelage of the Celestial Court.
+[P5-A-B0009-014] S=['TROLLS'] P=is identified as O=['MEN OF DARKNESS'] implicit=False ps="being" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The trolls were just such an imitation, being the Men of Darkness.
+[P5-A-B0009-015] S=['TROLLS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["KYGER LITOR"]} implicit=True ps="were fashioned by" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They were fashioned by the goddess called Kyger Litor.
+[P5-A-B0009-016] S=['CREATRIX'] P=is alternative name for O=['KYGER LITOR'] implicit=True ps="know her as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: There are now many types of trolls who know her as Creatrix
+[P5-A-B0009-017] S=['MISTRESS RACE'] P=is alternative name for O=['ORIGINAL TROLLS'] implicit=False ps="were called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The original trolls were as large as Great Trolls || it was later that they were called the Mistress Race.
+[P5-A-B0009-018] S=['GRANDFATHER MORTAL'] P=reveals O=['DEATH'] IO=['MISTRESS RACE'] implicit=True ps="came to them with" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: It was during this time that Grandfather Mortal came to them with great tales and prophecies of woe, and the chilling tale of Death.
+[P5-A-B0009-019] S=['RIVAL OF THE SUN'] P=kills O=['SUN'] implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: Shortly afterwards the Sun was slain by his rival
+[P5-A-B0009-020] S=['GRANDFATHER MORTAL'] P=descends into O=['DEATH'] implicit=True ps="the first creature to ever die" sug=dies
+   Q: the spirit of that great god followed the path set by Grandfather Mortal, the first creature to ever die.
+[P5-A-B0009-021] S=['SUN GOD'] P=descends into O=['UNDERWORLD'] MOD={"via": ["GATES OF THE WEST"]} implicit=False ps="deep into the Underworld went" sug=one of: descends into, dies
+   Q: Across the world to the Gates of the West, and then deep into the Underworld went the Sun God.
+[P5-A-B0009-022] S=['GRANDFATHER MORTAL'] P=rules O=['MISTRESS RACE'] MOD={"in_on_at": "LANDS OF THE DEAD"} implicit=False ps="was king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: when he reached the Lands of the Dead, where Grandfather Mortal was king of the Mistress Race.
+[P5-A-B0009-023] S=['SUN GOD', 'HOST OF THE SUN GOD'] P=wounds O=['MISTRESS RACE'] implicit=False ps="overwhelmed the sensitivities of" sug=wounds
+   Q: The glare of the Sun God and his accompanying host, which quickly grew in numbers and power, overwhelmed the sensitivities of the Mistress Race || most were severely burnt and mutated
+[P5-A-B0009-024] S=['MISTRESS RACE'] P=flees to O=['SURFACE WORLD'] MOD={"via": ["SECRET PATHWAYS"]} implicit=True ps="turned and fled" sug=flees to
+   Q: all turned and fled, using secret pathways to reach the Surface World.
+[P5-A-B0009-025] S=['CASTLES OF LEAD'] P=protects O=['THOSE WHO OPPOSED CHAOS'] implicit=False ps="emanated a radiating darkness and comfort for" sug=one of: protects, rescues / frees, aids
+   Q: Wherever she won a great magic against the mutating forces of Chaos the trolls erected great castles built of lead, which emanated a radiating darkness and comfort for those who opposed Chaos.
+[P5-A-B0009-026] S=['YELM'] P=descends into O=['HELL'] implicit=False ps="the death of Yelm, as the burning sun comes to Hell" sug=dies
+   Q: Plate Two displays the death of Yelm, as the burning sun comes to Hell and overcomes the troll mother.
+[P5-A-B0009-027] S=['YELM'] P=defeats O=['TROLL MOTHER'] MOD={"in_on_at": "HELL"} implicit=True ps="overcomes" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the burning sun comes to Hell and overcomes the troll mother.
+[P5-A-B0009-028] S=['CAVE TROLLS'] P=claims ancestry O=['SURVIVORS OF THE LESSER DARK'] implicit=True ps="are the ancestors of" sug=claims ancestry
+   Q: Most of the creatures which survived this at all were changed horribly, and are the ancestors of those creatures which humans know as Cave Trolls.
+[P5-A-B0009-029] S=['DARK TROLLS'] P=comes into being O=[] MOD={"in_on_at": "SURFACE WORLD", "at_the_instigation_of": ["KYGER LITOR"]} implicit=False ps="fashioned her race anew" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: In the Surface World Kyger Litor fashioned her race anew || This was the origin of the first of the numerous Dark Trolls
+[P5-A-B0009-030] S=['SPIKE'] P=shatters O=[] implicit=False ps="exploded" sug=shatters
+   Q: The Greater Darkness began when the Spike, center of the universe and stronghold of the Law of the Cosmos, exploded and sent its pieces rebounding about the worlds.
+[P5-A-B0009-031] S=['LEGIONS OF CHAOS'] P=manifests O=[] MOD={"from": "VOID"} implicit=False ps="began pouring through" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: At the center of the world there was, for a moment, nothing but the empty Void, from whence the legions of Chaos began pouring through.
+[P5-A-B0009-032] S=['KRJALKI'] P=is alternative name for O=['EVIL DEMONIC ARMIES'] implicit=False ps="were called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: evil demonic armies were called Krjalki in Western manuscripts.
+[P5-A-B0009-033] S=['FORCES OF DARKNESS', 'ORLANTHI'] P=is conflated with O=['KRJALKI'] implicit=True ps="(mistakenly) denote" sug=one of: is identified as, is worshipped by, is part of
+   Q: this term is also used to (mistakenly) denote the various forces of Darkness, and even other human tribes who allied with them to fight Chaos (such as the Orlanthi).
+[P5-A-B0009-034] S=['ORLANTHI', 'FORCES OF DARKNESS'] P=fights O=['CHAOS'] implicit=True ps="allied with them to fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: other human tribes who allied with them to fight Chaos (such as the Orlanthi).
+[P5-A-B0009-035] S=['KYGER LITOR'] P=fights O=['CHAOS'] implicit=True ps="was a leader in that fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Kyger Litor was a leader in that fight
+[P5-A-B0009-036] S=['FORTRESSES FOUNDED BY KYGER LITOR'] P=survives as relic O=[] implicit=False ps="survived into Time from the Great Darkness" sug=survives as relic
+   Q: There were many fortresses founded by Kyger Litor that survived into Time from the Great Darkness
+[P5-A-B0009-037] S=['SPIRITS OF LIGHT FROM THE TORCH'] P=illuminates O=['SPIRITS OF SHADOW'] MOD={"in_on_at": "SHADOWS DANCE"} implicit=True ps="makes even the almost physical darkness flee before it" sug=illuminates
+   Q: They defy daylight until spirits of light from the Torch, in the east, makes even the almost physical darkness flee before it
+[P5-A-B0009-038] S=['THE DRAGONS'] P=protects O=['DRAGON PASS'] implicit=False ps="allowed it to survive" sug=one of: protects, rescues / frees, aids
+   Q: During the Great Darkness, the region of Dragon Pass was blessed by many occurrences that allowed it to survive the horrible times relatively intact. || Important among those occurrences is the presence of the Dragons and their kin
+[P5-A-B0009-039] S=['SUN GOD'] P=departs from O=['UNDERWORLD'] implicit=False ps="was freed from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: when the Dawn came and the Sun God was freed from the Underworld (and shackled to Time)
+[P5-A-B0009-040] S=['UNITY COUNCIL'] P=comes into being O=[] MOD={"at_the_instigation_of": ["PEOPLE OF DRAGON PASS"]} implicit=True ps="formed" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They formed the Unity Council, and set out in missionary teams to educate the populations of savages in the lowlands.
+[P5-A-B0009-041] S=['DARK TROLL LEADER'] P=is member of O=['UNITY COUNCIL'] implicit=False ps="was a member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: A Dark Troll leader, High Priestess of Xiola Umbar, was a member of the Unity Council at this time
+[P5-A-B0009-042] S=['DARK TROLL LEADER'] P=serves O=['XIOLA UMBAR'] implicit=False ps="High Priestess of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: A Dark Troll leader, High Priestess of Xiola Umbar
+[P5-A-B0009-043] S=['SEVEN FAMILIES OF THE MISTRESS RACE'] P=rules O=['TROLLS'] MOD={"from": "DAGORI INKARTH"} implicit=True ps="was ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the race was ruled by seven families of the Mistress Race from Dagori Inkarth.
+[P5-A-B0009-044] S=['XIOLA UMBAR'] P=is identified as O=['GODDESS OF SOLACE DEEP WITHIN'] implicit=False ps="was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Xiola Umbar was Goddess of Solace Deep Within, who brought comfort and peace from fear, and protection from ignorance and inner darkness.
+[P5-A-B0009-045] S=['YELM', 'ORLANTH'] P=fights O=[] implicit=False ps="the rivalry between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: helpless before the rivalry between Yelm and Orlanth.
+[P5-A-B0009-046] S=['UNITY COUNCIL'] P=travels O=[] MOD={"from": "DRAGON PASS", "to": "DORASTOR"} implicit=True ps="moved its capital" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the Council also moved its capital from Dragon Pass to the lands of Dorastor.

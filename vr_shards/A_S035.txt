@@ -1,0 +1,300 @@
+[P5-A-B0108-027] S=['ARACHNE SOLARA'] P=is identified as O=['GODDESS OF NATURE'] implicit=False ps="may be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Arachne Solara is the nickname of an otherwise unnamed deity who may be the Goddess of Nature in Glorantha.
+[P5-A-B0108-028] S=['ARACHNE SOLARA'] P=is identified as O=['GLORANTHA'] implicit=True ps="is the ghost of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Her origins are mysterious, but there are strong indications that she is the ghost of Glorantha, the Mother of the Universe.
+[P5-A-B0108-029] S=['ORLANTH', 'YELM', 'THE OTHER DEITIES IN THE UNDERWORLD'] P=pledges oath with O=['ORLANTH', 'YELM', 'THE OTHER DEITIES IN THE UNDERWORLD'] MOD={"in_on_at": "UNDERWORLD", "purpose_clause": "TO PROTECT"} implicit=False ps="swear pacts and oaths" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Orlanth, Yelm, and the other deities in the Underworld swear pacts and oaths to preserve themselves.
+[P5-A-B0108-030] S=['ARACHNE SOLARA'] P=reveals O=['GREAT COMPROMISE'] implicit=True ps="created" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: This plan is said to have been created by Arachne Solara, based upon mutual support between the entire remaining world.
+[P5-A-B0108-031] S=['GINNA JAR'] P=is identified as O=['GLORANTHA'] implicit=False ps="may have been the ghost of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Detailed research and speculation has indicated that Ginna Jar may have been the ghost of Glorantha, the Great Goddess of the Cosmos who had once headed the Celestial Court.
+[P5-A-B0108-032] S=['GLORANTHA'] P=rules O=['CELESTIAL COURT'] implicit=True ps="had once headed" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Great Goddess of the Cosmos who had once headed the Celestial Court.
+[P5-A-B0108-033] S=['DEVIL'] P=kills O=['GLORANTHA'] implicit=False ps="her death at the hands of" sug=one of: kills, shatters, dies
+   Q: There is no mention of Glorantha after her death at the hands of the Devil.
+[P5-A-B0108-034] S=['ARACHNE SOLARA'] P=defeats O=['DEVIL'] MOD={"in_on_at": "HELL", "with_the_aid_of": ["THE OTHER GODS"]} implicit=False ps="combats / defeats" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: But there is a mysterious goddess in Hell who combats the Devil and, with the aid of the other gods, defeats it and devours it || The mysterious goddess is called Arachne Solara in myths and worship
+[P5-A-B0108-035] S=['ARACHNE SOLARA'] P=swallows / consumes O=['DEVIL'] MOD={"in_on_at": "HELL"} implicit=False ps="devours" sug=swallows / consumes
+   Q: But there is a mysterious goddess in Hell who combats the Devil and, with the aid of the other gods, defeats it and devours it || The mysterious goddess is called Arachne Solara in myths and worship
+[P5-A-B0108-036] S=['TIME'] P=is born from O=['ARACHNE SOLARA'] implicit=False ps="giving birth to" sug=is born from
+   Q: shortly afterwards giving birth to the force called Time. || The mysterious goddess is called Arachne Solara in myths and worship
+[P5-A-B0108-037] S=['GLORANTHA', 'GINNA JAR'] P=is identified as O=['ARACHNE SOLARA'] implicit=False ps="are the same being" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: It is our contention that Glorantha, Ginna Jar, and Arachne Solara are the same being.
+[P5-A-B0108-038] S=['LIGHTBRINGERS'] P=descends into O=['HELL'] implicit=False ps="at last reached" sug=one of: descends into, dies
+   Q: The Lightbringers at last reached Hell, though each suffered losses and learned much.
+[P5-A-B0108-039] S=['YELM'] P=rules O=['THE END OF THE UNIVERSE'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: found their way to where Yelm ruled the end of the universe.
+[P5-A-B0108-040] S=['ORLANTH'] P=pledges oath with O=['YELM'] implicit=False ps="came to terms and contracted for harmony" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: There Orlanth and Yelm came to terms and contracted for harmony.
+[P5-A-B0108-041] S=['STORM BULL'] P=kills O=['DEVIL'] MOD={"in_on_at": "MIDDLE WORLD"} implicit=False ps="slain by" sug=one of: kills, shatters, dies
+   Q: Other deities agreed, so that when the Devil appeared, slain by Storm Bull in the Middle World, Arachne Solara trapped and devoured the Chaos god.
+[P5-A-B0108-042] S=['ARACHNE SOLARA'] P=swallows / consumes O=['DEVIL'] implicit=True ps="trapped and devoured" sug=swallows / consumes
+   Q: Arachne Solara trapped and devoured the Chaos god.
+[P5-A-B0108-043] S=['YELM'] P=travels O=[] MOD={"to": "THE WORLD OF THE LIVING"} implicit=False ps="returned to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: At last Yelm, preceded by his daughter called Dawn, returned to the world of the Living and released Time upon the cosmos.
+[P5-A-B0108-044] S=['DAWN'] P=is child of O=['YELM'] implicit=True ps="his daughter" sug=is child of
+   Q: preceded by his daughter called Dawn
+[P5-A-B0108-045] S=['YELM'] P=bestows magic / gifts O=['TIME'] IO=['THE COSMOS'] implicit=False ps="released Time upon" sug=one of: bestows, heals, imbues, teaches
+   Q: At last Yelm, preceded by his daughter called Dawn, returned to the world of the Living and released Time upon the cosmos.
+[P5-A-B0108-046] S=['ISSARIES'] P=is child of O=['LARNSTE', 'HARANA ILOR'] implicit=False ps="was the son of" sug=is child of
+   Q: Issaries was the son of Larnste and Harana Ilor, both members of the Gloranthan Court who ruled over Change and Harmony, respectively.
+[P5-A-B0108-047] S=['LARNSTE', 'HARANA ILOR'] P=is member of O=['GLORANTHAN COURT'] implicit=False ps="both members of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Issaries was the son of Larnste and Harana Ilor, both members of the Gloranthan Court who ruled over Change and Harmony, respectively.
+[P5-A-B0108-048] S=['ISSARIES'] P=serves O=['SKY', 'EARTH'] implicit=True ps="was the messenger carrying secret notes between" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: One story says that he was the messenger carrying secret notes between Sky and Earth that led to the begetting of Umath.
+[P5-A-B0108-049] S=['ISSARIES'] P=protects O=['YELM', 'ORLANTH'] implicit=True ps="settled an early argument between" sug=one of: protects, rescues / frees, aids
+   Q: He was sometimes a conciliator, as when he settled an early argument between Yelm
+[P5-A-B0108-050] S=['ISSARIES'] P=teaches O=['ORLANTH'] implicit=True ps="taught Orlanth the magic of poetry" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He was sometimes aiding war, as when he taught Orlanth the magic of poetry in return for protection.
+[P5-A-B0108-051] S=['HUMAKT'] P=reveals O=['DEATH'] implicit=False ps="bring Death" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: He was often a mere spectator, as when he saw Humakt bring Death
+[P5-A-B0108-052] S=['EIRITHA'] P=descends into O=['EARTH'] implicit=False ps="be buried beneath" sug=one of: descends into, dies
+   Q: or watched Eiritha be buried beneath Earth and magic.
+[P5-A-B0108-053] S=['ISSARIES'] P=travels O=[] MOD={"using": "SPELL OF PASSAGE", "purpose_clause": "TO OBTAIN"} implicit=True ps="set off to find" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He prepared his Spell of Passage and set off to find the light of communication with which to rekindle the world.
+[P5-A-B0108-054] S=['ISSARIES'] P=is member of O=['LIGHTBRINGERS'] implicit=True ps="becoming" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: On his way, he met others, and they succeeded in their journey, becoming the Seven Lightbringers.
+[P5-A-B0108-055] S=['ISSARIES'] P=discovers O=['SECRETS OF MOTION AND STILLNESS', 'SECRETS OF SILENCE'] MOD={"in_on_at": "HALLS OF THE SLAIN"} implicit=True ps="learned" sug=discovers
+   Q: Issaries learned from this failure the secrets of motion and stillness, and when his tongue also failed him he learned the secrets and terrors of silence.
+[P5-A-B0108-056] S=['ISSARIES'] P=embodies O=['COMMUNICATION'] implicit=False ps="worships him as the god of" sug=one of: embodies, has domain
+   Q: The cult of Issaries worships him as the god of language and speech, of communication in general, and of passage and transit, travel, trade, and roads.
+[P5-A-B0108-057] S=['GUARDIAN OF THE WAY'] P=is alternative name for O=['ISSARIES'] implicit=True ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He is the Guardian of the Way.
+[P5-A-B0108-058] S=['ISSARIES'] P=travels O=[] MOD={"in_on_at": "THE WORLD", "purpose_clause": "TO AID"} implicit=False ps="went about the world" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: After the Dawn, Issaries went about the world to remind people of his secrets and to guide them back to civilization and safety.
+[P5-A-B0108-059] S=['SPARE GRAIN'] P=is alternative name for O=['HARST'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: there was a god called Harst, "Spare Grain."
+[P5-A-B0108-060] S=['CHILDREN OF ISSARIES'] P=establishes cult O=['SUBCULTS OF ISSARIES'] implicit=True ps="developed into" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: His children were left as guides, and each of these children developed into a specialized subcult, depending on local needs.
+[P5-A-B0108-061] S=['HARST'] P=marries O=['DAUGHTER OF ARYAM-YA-UDRAM'] implicit=True ps="sought her hand in marriage" sug=is spouse of (qual=wedding)
+   Q: He was in love with the daughter of Aryam-ya-Udram and sought her hand in marriage.
+[P5-A-B0108-062] S=['HARST'] P=teaches O=['PEOPLE OF DRAGON PASS'] implicit=False ps="had taught the people of Dragon Pass to speak" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Harst, who had taught the people of Dragon Pass to speak
+[P5-A-B0108-063] S=['HARST'] P=marries O=['DAUGHTER OF ARYAM-YA-UDRAM'] implicit=True ps="got his wife" sug=is spouse of (qual=wedding)
+   Q: He got his wife, and established the method of trade among his people.
+[P5-A-B0108-064] S=['HARST'] P=teaches O=['HIS PEOPLE'] implicit=True ps="established the method of trade among" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He got his wife, and established the method of trade among his people.
+[P5-A-B0108-065] S=['MIDDLEMAN'] P=is alternative name for O=['GARZEEN'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Garzeen, or "Middleman," is the name of the second son.
+[P5-A-B0108-066] S=['GARZEEN'] P=teaches O=['PEOPLE OF THE TOWNS'] implicit=True ps="taught them his language" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: At first people gathered there and could not speak, but he taught them his language (afterwards called Tradetalk) and passed among many different races.
+[P5-A-B0108-067] S=['FENELA'] P=is child of O=['FROALAR'] implicit=False ps="a daughter of" sug=is child of
+   Q: With this he once hoped to attract Fenela, a daughter of King Froalar in the west.
+[P5-A-B0109-001] S=['FENELA'] P=bestows geas O=['GARZEEN'] implicit=True ps="made him swear to fulfill a vow" sug=one of: bestows geas, curses
+   Q: She made him swear to fulfill a vow before she'd marry him, and then told him he must reassemble the body of the Chaos-slain god Genert.
+[P5-A-B0109-002] S=['CHAOS'] P=kills O=['GENERT'] implicit=False ps="Chaos-slain" sug=one of: kills, shatters, dies
+   Q: the Chaos-slain god Genert.
+[P5-A-B0109-003] S=['TRADER PRINCE'] P=is alternative name for O=['GOLDENTONGUE'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The third son was called Goldentongue, or "Trader Prince."
+[P5-A-B0109-004] S=['GOLDENTONGUE'] P=is child of O=['ISSARIES'] implicit=True ps="The third son" sug=is child of
+   Q: The third son was called Goldentongue || Unlike his brothers he refused to stay in one place, and thereby exploited the ways of their father the most.
+[P5-A-B0109-005] S=['THERELMA'] P=is child of O=['LHANKOR MHY'] implicit=False ps="the daughter of" sug=is child of
+   Q: in his travels met the daughter of Lhankor Mhy called Therelma, "Mother Language."
+[P5-A-B0109-006] S=['MOTHER LANGUAGE'] P=is alternative name for O=['THERELMA'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: in his travels met the daughter of Lhankor Mhy called Therelma, "Mother Language."
+[P5-A-B0109-007] S=['THERELTERO'] P=is child of O=['GOLDENTONGUE', 'THERELMA'] implicit=True ps="had one son named" sug=is child of
+   Q: They had one son named Thereltero the Herald, but the pair did not stay together.
+[P5-A-B0109-008] S=['GOLDENTONGUE'] P=protects O=['WANDERING MERCHANTS'] implicit=False ps="became the patron of" sug=one of: protects, rescues / frees, aids
+   Q: Goldentongue became the patron of wandering merchants, who travel the world and know no home but their caravans.
+[P5-A-B0109-009] S=['CAARITH'] P=serves O=['GOLDENTONGUE'] implicit=True ps="One of his followers" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: One of his followers was Caarith, a woman Hero who was the first of the Desert Trackers.
+[P5-A-B0109-010] S=['CAARITH'] P=is member of O=['DESERT TRACKERS'] implicit=False ps="was the first of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: One of his followers was Caarith, a woman Hero who was the first of the Desert Trackers.
+[P5-A-B0109-011] S=['CULT OF ISSARIES'] P=travels O=[] MOD={"via": ["EMPIRE OF LAND AND SEA", "EMPIRE OF THE WYRMS FRIENDS"]} implicit=False ps="spread widely, carried" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In the Second Age, the cult of Issaries spread widely, carried to all corners of the earth by the Empire of Land and Sea and by the Empire of the Wyrms Friends.
+[P5-A-B0109-012] S=['ETYRIES'] P=is child of O=['ISSARIES'] implicit=False ps="a daughter of" sug=is child of
+   Q: There was also a daughter of Issaries named Etyries.
+[P5-A-B0109-013] S=['ETYRIES'] P=travels O=[] MOD={"to": "RED GODDESS"} implicit=True ps="decided to travel a great distance to hear" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: After a thousand years, she decided to travel a great distance to hear the words of a young goddess of the far north. || The goddess was the Red Goddess, still on earth and in mortal form.
+[P5-A-B0109-014] S=['ETYRIES'] P=serves O=['RED GODDESS'] MOD={"at_the_instigation_of": ["RED GODDESS"]} implicit=False ps="corrupted / seduced her into guiding" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: She corrupted Etyries and seduced her into guiding the Red Goddess through the secret paths.
+[P5-A-B0109-015] S=['ETYRIES'] P=is identified as O=['TRADE GODDESS OF THE LUNAR EMPIRE'] implicit=False ps="is now" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Etyries is now the Trade Goddess of the Lunar Empire
+[P5-A-B0109-016] S=['ISSARIES'] P=protects O=['DEAD SOULS'] MOD={"in_on_at": "UNDERWORLD"} implicit=False ps="is also the psychopomp, guiding" sug=one of: protects, rescues / frees, aids
+   Q: For the Lightbringers' cults, the god Issaries Goldentongue is also the psychopomp, guiding the dead souls through the Underworld.
+[P5-A-B0109-017] S=['ISSARIES'] P=embodies O=['TRADE RUNE'] implicit=False ps="is the owner and originator of" sug=one of: embodies, has domain
+   Q: Issaries is the owner and originator of the Trade Rune
+[P5-A-B0109-018] S=['ISSARIES RUNE'] P=is alternative name for O=['TRADE RUNE'] implicit=True ps="is often called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: (indeed that rune is often called the "Issaries Rune")
+[P5-A-B0109-019] S=['ISSARIES'] P=manifests O=['MOVEMENT RUNE'] implicit=True ps="is also associated with" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: He is also associated with the Movement Rune.
+[P5-A-B0109-020] S=['MULES'] P=comes into being O=[] MOD={"at_the_instigation_of": ["ISSARIES"], "purpose_clause": "TO OBTAIN"} implicit=False ps="were first created by / conjured up" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Mules were first created by Issaries, conjured up in order to make something to sell out of nothing.
+[P5-A-B0109-021] S=['ISSARIES'] P=challenges O=['CULT OF LHANKOR MHY'] implicit=False ps="has a friendly rivalry with" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Issaries has a friendly rivalry with the cult of Lhankor Mhy.
+[P5-A-B0109-022] S=['CULTISTS OF ISSARIES'] P=fights O=['CHAOS'] implicit=False ps="hate" sug=hates
+   Q: Like all Lightbringers, Issaries' cultists hate Chaos.
+[P5-A-B0109-023] S=['HYENAS'] P=is identified as O=['PARTS OF THE BODY OF GENERT'] implicit=False ps="are parts of the body of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The cult has a dislike for hyenas, which are parts of the body of Genert
+[P5-A-B0109-024] S=['BROTHERS OF THE MIDDLEMAN'] P=kills O=['HYENAS'] implicit=False ps="kill hyenas on sight" sug=one of: kills, shatters, dies
+   Q: Thus the brothers of the Middleman kill hyenas on sight, if possible.
+[P5-A-B0109-025] S=['ISSARIES'] P=enchants O=['GREAT PASSAGE'] implicit=False ps="prepared" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: When the world fell apart, Issaries prepared the Great Passage, which unerringly found the right path and made sure it was safe from ambushes and enemies.
+[P5-A-B0109-026] S=['ISSARIES'] P=discovers O=['HIDDEN WAY'] MOD={"using": "GREAT PASSAGE"} implicit=True ps="used this to find" sug=discovers
+   Q: He used this to find the Hidden Way to his destination.
+[P5-A-B0109-027] S=['HUMAKT'] P=is child of O=['UMATH'] implicit=False ps="was the fourth son of" sug=is child of
+   Q: Humakt was the fourth son of Umath.
+[P5-A-B0109-028] S=['KARGAN TOR'] P=teaches O=['HUMAKT'] MOD={"in_on_at": "THE SPIKE"} implicit=True ps="learned how to fight from" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: There he learned how to fight from Kargan Tor the God of Endings, but he was not satisfied with this.
+[P5-A-B0109-029] S=['KARGAN TOR'] P=is identified as O=['GOD OF ENDINGS'] implicit=False ps="the God of Endings" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Kargan Tor the God of Endings
+[P5-A-B0109-030] S=['HUMAKT'] P=travels O=[] MOD={"to": "GATE OF INTROSPECTION"} implicit=True ps="traveled to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He traveled to the Gate of Introspection, entered, and spent a year and a day in that Deep Place.
+[P5-A-B0109-031] S=['HUMAKT'] P=discovers O=['DEATH'] MOD={"in_on_at": "GATE OF INTROSPECTION"} implicit=True ps="discovered" sug=discovers
+   Q: Therein he discovered his own true and ultimate power: the power of Death.
+[P5-A-B0109-032] S=['HUMAKT'] P=reveals O=['DEATH'] IO=['GRANDFATHER MORTAL'] implicit=True ps="showed it to" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Humakt showed it to another god, who we call Grandfather Mortal, who fell dead and had to flee to the Gates of Sunset and thence to the Underworld.
+[P5-A-B0109-033] S=['GRANDFATHER MORTAL'] P=flees to O=[] MOD={"to": ["GATES OF SUNSET", "UNDERWORLD"]} implicit=False ps="fell dead and had to flee to" sug=flees to
+   Q: Humakt showed it to another god, who we call Grandfather Mortal, who fell dead and had to flee to the Gates of Sunset and thence to the Underworld.
+[P5-A-B0109-034] S=['EURMAL'] P=steals O=['DEATH'] IO=['ORLANTH'] implicit=False ps="stole" sug=steals
+   Q: But Eurmal stole the power of Death for Orlanth, who used it incautiously and unwisely.
+[P5-A-B0109-035] S=['OLD DEATH'] P=comes into being O=[] MOD={"to": "THE WORLD"} implicit=False ps="released" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: This released the power called Old Death into the world.
+[P5-A-B0109-036] S=['HUMAKT'] P=departs from O=['ORLANTH'] implicit=False ps="severed their brotherhood forever" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Theft between the Storm kin was forbidden, and since Orlanth broke that bond Humakt used his power as the God of Endings and severed their brotherhood forever.
+[P5-A-B0109-037] S=['HUMAKT'] P=is sibling of O=['ORLANTH'] implicit=True ps="their brotherhood" sug=is sibling of
+   Q: Humakt used his power as the God of Endings and severed their brotherhood forever.
+[P5-A-B0109-038] S=['HUMAKT'] P=travels O=[] MOD={"in_on_at": "THE WORLD", "purpose_clause": "TO OBTAIN"} implicit=True ps="set out across the world alone to recover" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He set out across the world alone to recover Death.
+[P5-A-B0109-039] S=['HUMAKT'] P=binds O=['THE DEAD'] MOD={"to": "UNDERWORLD"} implicit=False ps="separated the living from the dead and collected the latter into" sug=binds
+   Q: Humakt separated the living from the dead and collected the latter into his special place, which is now called the Underworld.
+[P5-A-B0109-040] S=['HUMAKT'] P=binds O=['OLD DEATH'] implicit=False ps="regained more of the Old Death and put it under his control" sug=binds
+   Q: With each entity that he recaptured Humakt regained more of the Old Death and put it under his control, creating Death.
+[P5-A-B0109-041] S=['OLD DEATH'] P=transforms into O=['DEATH'] MOD={"at_the_instigation_of": ["HUMAKT"]} implicit=False ps="put it under his control, creating Death" sug=transforms into
+   Q: With each entity that he recaptured Humakt regained more of the Old Death and put it under his control, creating Death.
+[P5-A-B0109-042] S=['HUMAKTI WARRIORS'] P=fights O=['UNDEAD ARMY'] MOD={"in_on_at": "ISLE OF THE DEAD"} implicit=False ps="fought a valiant but ultimately doomed assault against" sug=invades / raids
+   Q: t Above Humakti warriors fought a valiant but ultimately doomed assault against the Undead Army at the Isle of the Dead in 1615.
+[P5-A-B0109-043] S=['HUMAKT'] P=challenges O=['ORLANTH'] implicit=False ps="confronted" sug=one of: challenges, breaks oath, betrays, fights
+   Q: At last Humakt confronted his greatest foe: his own former brother who had robbed him of Death and begun this disaster. || Orlanth was King then, and so he resisted, demanding obedience instead.
+[P5-A-B0109-044] S=['ORLANTH'] P=rules O=[] implicit=False ps="was King then" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Orlanth was King then, and so he resisted, demanding obedience instead.
+[P5-A-B0109-045] S=['HUMAKT'] P=kills O=['ORLANTH'] MOD={"using": "TRUTH"} implicit=False ps="enforced his own Truth that was stronger, and so killed" sug=one of: kills, shatters, dies
+   Q: But Humakt enforced his own Truth that was stronger, and so killed Orlanth too.
+[P5-A-B0109-046] S=['HUMAKT'] P=resurrects O=['ORLANTH'] MOD={"via": ["LIGHTBRINGERS' QUEST"]} implicit=True ps="let his brother arise again" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: But Humakt showed the secret of his honor and justice and let his brother arise again through the Lightbringers' Quest.
+[P5-A-B0109-047] S=['ORLANTH'] P=alters mythic station O=['HUMAKT'] implicit=False ps="acknowledged Humakt's proper place among the gods" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Afterwards Orlanth acknowledged Humakt's proper place among the gods.
+[P5-A-B0109-048] S=['HUMAKT'] P=embodies O=['MERCENARIES AND WARRIORS'] implicit=True ps="is the god of" sug=one of: embodies, has domain
+   Q: He is the god of mercenaries and warriors, and is often found on all sides in any conflict.
+[P5-A-B0109-049] S=['INITIATES OF HUMAKT'] P=protects O=['HELL'] MOD={"from": "CHAOS"} implicit=False ps="protect Hell from Chaos" sug=one of: protects, rescues / frees, aids
+   Q: Initiates of Humakt can look forward to a special section of Hell reserved for them to practice and prepare for the next Gods War. || By doing this they protect Hell from Chaos.
+[P5-A-B0110-001] S=['HUMAKT'] P=embodies O=['DEATH RUNE'] implicit=False ps="is the owner of" sug=one of: embodies, has domain
+   Q: Humakt is the owner of the Death Rune and is always also associated with the Truth Rune.
+[P5-A-B0110-002] S=['HUMAKT'] P=manifests O=['TRUTH RUNE'] implicit=False ps="is always also associated with" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Humakt is the owner of the Death Rune and is always also associated with the Truth Rune.
+[P5-A-B0110-003] S=['HUMAKT'] P=is identified as O=['WAR GOD OF CARMANIA', 'WAR GOD OF SAFELSTER'] implicit=False ps="is the war god of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Humakt is worshiped throughout Orlanthi lands and is the war god of Carmania and Safelster.
+[P5-A-B0110-004] S=['HUMAKT'] P=fights O=['DELECTI', 'CULT OF VIVAMORT'] implicit=False ps="are both particular targets of Humakt's wrath" sug=challenges
+   Q: Delecti the Necromancer and the sorcerous cult of Vivamort are both particular targets of Humakt's wrath.
+[P5-A-B0110-005] S=['ZORAK ZORAN'] P=is identified as O=['DARKNESS GOD'] implicit=False ps="the Darkness God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Another great enemy is the Darkness God, Zorak Zoran, a bloody-handed slaughterer motivated primarily by hate and vengeance, but whose worst offense is regularly raising corpses to be Undead.
+[P5-A-B0110-006] S=['ZORAK ZORAN'] P=resurrects O=['CORPSES'] implicit=True ps="regularly raising corpses to be Undead" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: whose worst offense is regularly raising corpses to be Undead.
+[P5-A-B0110-007] S=['HUMAKT'] P=fights O=['ZORAK ZORAN'] implicit=False ps="always fight when they meet" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Humakt and Zorak Zoran always fight when they meet, and their worshippers may never be on the same side of a struggle.
+[P5-A-B0110-008] S=['HUMAKT'] P=bestows magic / gifts O=['HEROIC POWERS'] IO=['WORSHIPPERS OF HUMAKT'] implicit=False ps="gives heroic powers to" sug=one of: bestows, heals, imbues, teaches
+   Q: Humakt gives heroic powers to worshippers at the cost of terrible geases.
+[P5-A-B0110-009] S=['HUMAKT'] P=bestows geas O=['WORSHIPPERS OF HUMAKT'] implicit=False ps="at the cost of terrible geases" sug=one of: bestows geas, curses
+   Q: Humakt gives heroic powers to worshippers at the cost of terrible geases.
+[P5-A-B0110-010] S=['HUMAKT'] P=bestows magic / gifts O=['SWORD'] IO=['MAD-BLOOD MALAN'] implicit=False ps="was gifted by Humakt with" sug=one of: bestows, heals, imbues, teaches
+   Q: The ruthless Humakti king Mad-Blood Malan was gifted by Humakt with a sword that always increased the consequence of defeat suffered by his opponents
+[P5-A-B0110-011] S=['MAD-BLOOD MALAN'] P=pledges oath with O=['HUMAKT'] implicit=True ps="vowed" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Malan vowed to never retreat or withdraw from any combat – which ultimately was his death.
+[P5-A-B0110-012] S=['HUVENDARS'] P=serves O=['TARKALOR'] implicit=False ps="was the fearsome bodyguard of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Huvendars the Silent was the fearsome bodyguard of King Tarkalor
+[P5-A-B0110-013] S=['HUMAKT'] P=bestows magic / gifts O=['POWER TO DEFEND HIS MASTER'] IO=['HUVENDARS'] implicit=True ps="with the power to defend" sug=one of: bestows, heals, imbues, teaches
+   Q: with the power to defend his master from assassins and traitors.
+[P5-A-B0110-014] S=['HUMAKT'] P=bestows geas O=['HUVENDARS'] implicit=True ps="could not speak except to make a vow" sug=one of: bestows geas, curses
+   Q: He could not speak except to make a vow sworn by his dread god.
+[P5-A-B0110-015] S=['HUMAKT'] P=bestows magic / gifts O=['POWER TO KILL WITH A GLANCE'] IO=['JONONRAL'] implicit=True ps="was given" sug=one of: bestows, heals, imbues, teaches
+   Q: Jononral the Fearsome was given the power to kill with a glance but had to vow to kill all who feared Death.
+[P5-A-B0110-016] S=['HUMAKT'] P=bestows geas O=['JONONRAL'] implicit=True ps="had to vow to kill all who feared Death" sug=one of: bestows geas, curses
+   Q: Jononral the Fearsome was given the power to kill with a glance but had to vow to kill all who feared Death.
+[P5-A-B0110-017] S=['JONONRAL'] P=kills O=['EVERYONE IN THREE TOWNS'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: He killed everyone in three towns because they feared him.
+[P5-A-B0110-018] S=['HERAND'] P=defeats O=['JONONRAL'] implicit=True ps="managed to stop" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Only Great Herand managed to stop him, for the Wind Lord loved Life and did not fear Death.
+[P5-A-B0110-019] S=['HUMAKT'] P=bestows magic / gifts O=['DEADLY POWERS'] IO=['ENTARKVAL HOSPITALITYBREAKER'] MOD={"purpose_clause": "TO AVENGE"} implicit=False ps="was given deadly powers by Humakt to strike down" sug=one of: bestows, heals, imbues, teaches
+   Q: The vengeful Hero Entarkval HospitalityBreaker was given deadly powers by Humakt to strike down every member of the Bridgeford Clan.
+[P5-A-B0110-020] S=['HUMAKT'] P=bestows geas O=['ENTARKVAL HOSPITALITYBREAKER'] implicit=True ps="vowed" sug=one of: bestows geas, curses
+   Q: He vowed to kill every member of that clan he encountered as well as to drink no alcohol and eat no flesh.
+[P5-A-B0110-021] S=['HUMAKT'] P=bestows magic / gifts O=['POWER TO HARM THE RED EMPEROR'] IO=['HOUSEHOLD OF DEATH'] implicit=True ps="was given the power to inflict grievous harm on" sug=one of: bestows, heals, imbues, teaches
+   Q: Each member of the Household of Death was given the power to inflict grievous harm on the Red Emperor and his household
+[P5-A-B0110-022] S=['HOUSEHOLD OF DEATH'] P=protects O=['BOLDHOME'] implicit=True ps="vowed to die defending" sug=one of: protects, rescues / frees, aids
+   Q: but vowed to die defending Boldhome, which they did. Boldhome still fell.
+[P5-A-B0110-023] S=['WAHA'] P=rules O=['PRAXIAN NOMADS'] implicit=False ps="is the Great Khan of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Waha is the Butcher, Founder, and Great Khan of the Praxian nomads.
+[P5-A-B0110-024] S=['WAHA'] P=is child of O=['STORM BULL', 'EIRITHA'] implicit=False ps="is the son of" sug=is child of
+   Q: Waha is the son of Storm Bull and Eiritha.
+[P5-A-B0110-025] S=['STORM BULL'] P=kills O=['DEVIL'] implicit=True ps="had slain" sug=one of: kills, shatters, dies
+   Q: He was born at the end of the Gods War, after his father had slain the Devil and long after his mother was hidden beneath the earth.
+[P5-A-B0110-026] S=['EIRITHA'] P=descends into O=['EARTH'] implicit=True ps="was hidden beneath" sug=one of: descends into, dies
+   Q: He was born at the end of the Gods War, after his father had slain the Devil and long after his mother was hidden beneath the earth.
+[P5-A-B0110-027] S=['WAHA'] P=teaches O=['PEOPLE OF THE BLASTED LAND'] implicit=True ps="taught them new ways to live" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Some had followed lesser spirits or dark gods, but Waha taught them new ways to live.
+[P5-A-B0110-028] S=['WAHA'] P=binds O=['WASTELANDS'] MOD={"via": ["TASKS OF WAHA"]} implicit=False ps="bound the Wastelands together" sug=binds
+   Q: Waha did many things to save the world; these Tasks of Waha bound the Wastelands together.
+[P5-A-B0110-029] S=['WAHA'] P=protects O=['DAUGHTERS OF EIRITHA'] implicit=False ps="freed" sug=rescues / frees
+   Q: Waha freed the Daughters of Eiritha who were imprisoned by the forces of Darkness.
+[P5-A-B0110-030] S=['THE FORCES OF DARKNESS'] P=binds O=['DAUGHTERS OF EIRITHA'] implicit=False ps="imprisoned" sug=binds
+   Q: Waha freed the Daughters of Eiritha who were imprisoned by the forces of Darkness.
+[P5-A-B0110-031] S=['WAHA'] P=travels O=['PROTECTRESSES'] MOD={"to": "THE WORLD"} implicit=True ps="returned to the world with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Through the dark and dangerous ways he searched and fought, and returned to the world with the goddesses known as the Protectresses.
+[P5-A-B0110-032] S=['WAHA'] P=teaches O=['MEN'] implicit=False ps="taught men the secrets of Death" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Waha the Butcher taught men the secrets of Death.
+[P5-A-B0110-034] S=['WAHA'] P=fights O=['OAKFED'] implicit=True ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He fought Oakfed the Wild Fire and tamed it to be a friend to men.
+[P5-A-B0110-035] S=['WAHA'] P=binds O=['OAKFED'] implicit=True ps="tamed it to be a friend to men" sug=binds
+   Q: He fought Oakfed the Wild Fire and tamed it to be a friend to men.
+[P5-A-B0110-036] S=['WAHA'] P=travels O=['A RIVER'] MOD={"to": "THE PLACE WHERE THE DEVIL LAY", "using": "EARTH POWERS OF EIRITHA"} implicit=True ps="dig a great channel through the earth, diverting a river" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He used the Earth powers of his mother to dig a great channel through the earth, diverting a river to the place where the Devil lay.
+[P5-A-B0110-037] S=['THE RIVER AND ITS CREATURES'] P=swallows / consumes O=['DEVIL'] MOD={"at_the_command_of": ["WAHA"]} implicit=True ps="devour" sug=swallows / consumes
+   Q: Waha ordered the river and its creatures to devour the putrid being, and the river did.
+[P5-A-B0110-038] S=['WAHA'] P=protects O=['RELEASED SOULS'] implicit=False ps="offered them solace and protection" sug=one of: protects, rescues / frees, aids
+   Q: When the body of the Devil was gone many souls were released from bondage, many of these were grateful and joined Waha who offered them solace and protection.
+[P5-A-B0110-039] S=['WAHA'] P=claims ancestry O=['SPIDER GRANDMOTHER'] implicit=False ps="great-aunt" sug=claims ancestry
+   Q: Waha's great-aunt, Spider Grandmother collected the drawstrings and closed the bag tight.
+[P5-A-B0110-040] S=['SPIDER GRANDMOTHER'] P=binds O=['WASTELANDS'] implicit=False ps="collected the drawstrings and closed the bag tight" sug=binds
+   Q: Waha's great-aunt, Spider Grandmother collected the drawstrings and closed the bag tight. || Now the Wastelands could not drift away and they were part of Time.
+[P5-A-B0110-041] S=['PRAXIAN CLANS'] P=is member of O=['SECOND COUNCIL'] MOD={"in_on_at": "PELORIA"} implicit=False ps="settled in Peloria as part of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: During the First Age, many Praxian clans settled in Peloria as part of the Second Council.
+[P5-A-B0110-042] S=['PAVIS'] P=defeats O=['CULT OF WAHA'] implicit=True ps="was a victory for" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The greatest of these was about 850, and was a victory for Pavis, who thereby established his own city.
+[P5-A-B0110-043] S=['PAVIS'] P=establishes cult O=['CITY OF PAVIS'] implicit=False ps="established his own city" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: and was a victory for Pavis, who thereby established his own city.
+[P5-A-B0110-044] S=['PRAXIANS'] P=flees to O=['WASTELANDS'] MOD={"at_the_instigation_of": ["EMPIRE OF THE WYRMS FRIENDS"]} implicit=False ps="were forced deep into" sug=flees to
+   Q: During the Second Age, Waha failed to protect Prax from the Empire of the Wyrms Friends, and the Praxians were forced deep into the Wastelands.
+[P5-A-B0110-045] S=['LUNAR EMPIRE'] P=defeats O=["WAHA'S PEOPLE"] MOD={"using": "CHAOTIC MAGICS"} implicit=False ps="has defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In the Third Age, the mighty Lunar Empire, armed with its Chaotic magics and aided by treachery, has defeated Waha's people again.
+[P5-A-B0110-046] S=['WAHA', 'EIRITHA'] P=rules O=['GREAT HERD'] implicit=False ps="live and rule" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Followers know that they will go to the Great Herd (where Waha and Eiritha live and rule).
+[P5-A-B0110-047] S=['WAHA'] P=manifests O=['DEATH RUNE', 'MASTERY RUNE'] implicit=False ps="is associated with" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Runes Waha is associated with the Death Rune and the Mastery Rune.
+[P5-A-B0110-048] S=['WAHA', 'STORM BULL'] P=fights O=[] MOD={"in_on_at": "ETERNAL BATTLE"} implicit=True ps="was honing his skills alongside his father in" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Soon after his birth, he was honing his skills alongside his father in the Eternal Battle.
+[P5-A-B0110-049] S=['WAHA'] P=rules O=['WASTELANDS'] implicit=False ps="is the ruling god of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Waha is associated with the Mastery Rune and is the ruling god of the Wastelands.
+[P5-A-B0110-050] S=['FOUNDCHILD'] P=teaches O=['WAHA'] implicit=True ps="Using Foundchild's teachings" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Using Foundchild's teachings he wove the songs to sing those spirits back to the bliss within the womb of Eiritha.
+[P5-A-B0110-051] S=['WAHA'] P=teaches O=['MEN'] implicit=True ps="taught these to men" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He taught these to men as the Peaceful Cut.
+[P5-A-B0111-001] S=['WAHA'] P=protects O=['THE HERDS'] implicit=False ps="is the Protector of" sug=one of: protects, rescues / frees, aids
+   Q: Waha is the Protector of the Herds, and he dislikes any who would harm them.
+[P5-A-B0111-002] S=['WAHA'] P=claims ancestry O=['ORLANTH'] implicit=False ps="Orlanth is his uncle" sug=claims ancestry
+   Q: Waha does not trust the Lightbringers, but honors them, as Orlanth is his uncle.
+[P5-A-B0111-003] S=['HORSES'] P=serves O=['YELM'] implicit=False ps="are animals of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Waha dislikes horses, for they are animals of Yelm, the Sun God; they are not of Eiritha.
+[P5-A-B0111-004] S=["WAHA'S PEOPLE"] P=fights O=['PURE HORSE PEOPLE'] implicit=True ps="have an ancient feud with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: His people have an ancient feud with the Pure Horse People, who are always enemies.
+[P5-A-B0111-005] S=['CHAOS'] P=shatters O=["GENERT'S GARDEN"] implicit=False ps="destroyed" sug=shatters
+   Q: Waha hates Chaos in all its forms for Chaos destroyed Genert's Garden and made it into the Wastelands.
+[P5-A-B0111-006] S=["GENERT'S GARDEN"] P=transforms into O=['WASTELANDS'] MOD={"at_the_instigation_of": ["CHAOS"]} implicit=False ps="made it into" sug=transforms into
+   Q: Waha hates Chaos in all its forms for Chaos destroyed Genert's Garden and made it into the Wastelands.
+[P5-A-B0111-007] S=['WAHA'] P=fights O=['CHAOS'] implicit=False ps="hates" sug=hates
+   Q: Waha hates Chaos in all its forms
+[P5-A-B0111-008] S=['THE FOES OF THE GREAT DARKNESS'] P=dismembers O=['CANDIDATE'] MOD={"at_the_command_of": ["BAD MAN"]} implicit=False ps="tear him to pieces" sug=dismembers
+   Q: Bad Man always appears and singles out the candidate, directing the foes of the Great Darkness to tear him to pieces.
+[P5-A-B0111-009] S=['HORNED MAN'] P=is identified as O=['FATHER OF ALL SHAMAN'] implicit=False ps="the Father of all shaman" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: There the Horned Man, the Father of all shaman, pores over the pieces slowly fitting the candidate back together.
+[P5-A-B0111-010] S=['HORNED MAN'] P=resurrects O=['CANDIDATE'] MOD={"in_on_at": "EIRITHA'S WOMB"} implicit=True ps="slowly fitting the candidate back together" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: There the Horned Man, the Father of all shaman, pores over the pieces slowly fitting the candidate back together.

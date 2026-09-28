@@ -1,0 +1,300 @@
+[P5-A-B0017-061] S=['STORM BULL'] P=travels O=[] MOD={"from": "SPIKE", "to": "PRAX"} implicit=False ps="descended from the Spike with his sons and settled in" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Vadrus was present when Storm Bull descended from the Spike with his sons and settled in the verdant land of Prax.
+[P5-A-B0017-062] S=['VADRUS'] P=fights O=['MORTAL RACES OF THE WORLD'] implicit=False ps="was leading a warband of Storm Gods against" sug=invades / raids
+   Q: Vadrus was leading a warband of Storm Gods against the mortal races of the world
+[P5-A-B0017-063] S=['FORCES OF CHAOS'] P=kills O=['VADRUS'] implicit=False ps="was destroyed by" sug=shatters
+   Q: Vadrus was destroyed during the Gods War by the forces of Chaos.
+[P5-A-B0017-064] S=['VADRUS'] P=survives as relic O=['MAGICAL TOOLS AND WEAPONS OF VADRUS'] implicit=True ps="are still found among the gods and heroes" sug=survives as relic
+   Q: there are still some of his great magical tools and weapons found among the gods and heroes.
+[P5-A-B0017-065] S=['VALIND'] P=is child of O=['VADRUS', 'SLAVE GODDESS'] implicit=False ps="is a son of" sug=is child of
+   Q: Valind the God of Winter is a son of Vadrus and a slave goddess.
+[P5-A-B0017-066] S=['VALIND'] P=embodies O=['WINTER'] implicit=False ps="is the source of the winter powers" sug=one of: embodies, has domain
+   Q: Valind is the source of the winter powers that sweep over the earth from the north.
+[P5-A-B0017-067] S=['ORLANTH'] P=defeats O=['VADRUS', 'VADRUDINGS'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: When Orlanth conquered Vadrus and the other Vadrudings
+[P5-A-B0017-068] S=['VALIND'] P=pledges oath with O=['ORLANTH'] implicit=True ps="swore loyalty to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Valind swore loyalty to the Storm King, and took possession of his father's palace in the far north.
+[P5-A-B0017-069] S=['VALIND'] P=rules O=['PALACE OF VADRUS'] MOD={"in_on_at": "FAR NORTH"} implicit=True ps="took possession of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Valind swore loyalty to the Storm King, and took possession of his father's palace in the far north.
+[P5-A-B0017-070] S=['GREAT GLACIER'] P=comes into being O=[] MOD={"at_the_instigation_of": ["VALIND"]} implicit=False ps="created" sug=conceives
+   Q: Valind remained cruel and destructive, and created the Great Glacier that grew larger and colder until it conquered much of the world in the later Storm Age.
+[P5-A-B0017-071] S=['MOLANNI'] P=is child of O=['VADRUS'] implicit=False ps="was the daughter of" sug=is child of
+   Q: Molanni was the daughter of Vadrus
+[P5-A-B0017-072] S=['MOLANNI'] P=is spouse of O=['ENEMY OF HER KIN'] implicit=True ps="took as her lover" sug=is spouse of
+   Q: She took as her lover the enemy of her kin, and found no shame in that.
+[P5-A-B0017-073] S=['DAGA'] P=is child of O=['MOLANNI', 'YELM'] implicit=False ps="begat" sug=is child of
+   Q: Molanni and Yelm begat Daga, the God of Drought.
+[P5-A-B0017-074] S=['DAGA'] P=embodies O=['DROUGHT'] implicit=False ps="the God of Drought" sug=one of: embodies, has domain
+   Q: Daga, the God of Drought.
+[P5-A-B0017-075] S=['ORLANTH'] P=fights O=['DAGA'] implicit=True ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Orlanth fought it often
+[P5-A-B0017-076] S=['DAGA'] P=steals O=['THRONE OF THE STORM'] implicit=False ps="took" sug=steals
+   Q: when he went to free the sun, Daga took the throne of the storm and placed his mother in the center of the universe.
+[P5-A-B0017-077] S=['DAGA'] P=alters mythic station O=['MOLANNI'] MOD={"in_on_at": "CENTER OF THE UNIVERSE"} implicit=True ps="placed his mother in the center of the universe" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Daga took the throne of the storm and placed his mother in the center of the universe.
+[P5-A-B0017-078] S=['BARNTAR'] P=is child of O=['ORLANTH', 'ERNALDA'] implicit=False ps="a son of" sug=is child of
+   Q: An Orlanthi tale tells how Barntar the Plowman, a son of Orlanth and Ernalda, put aside his plow and took up weapons to fight Drought.
+[P5-A-B0017-079] S=['BARNTAR'] P=fights O=['DAGA'] implicit=True ps="took up weapons to fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: An Orlanthi tale tells how Barntar the Plowman, a son of Orlanth and Ernalda, put aside his plow and took up weapons to fight Drought.
+[P5-A-B0017-080] S=['HELER'] P=pledges oath with O=['ORLANTH'] implicit=False ps="had pledged himself to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: he found there a god named Heler who had pledged himself to Orlanth many ages
+[P5-A-B0018-001] S=['BARNTAR'] P=discovers O=['SPELLS OF HELER'] implicit=False ps="learned some spells which brought the powers of Heler" sug=discovers
+   Q: So, Barntar learned some spells which brought the powers of Heler, also called Rain, to his fields again.
+[P5-A-B0018-002] S=['RAIN'] P=is alternative name for O=['HELER'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the powers of Heler, also called Rain
+[P5-A-B0018-003] S=['ORLANTH'] P=defeats O=['DAGA'] implicit=False ps="Daga was finally defeated when Orlanth" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Daga was finally defeated when Orlanth, replete with thunders and lightnings rolling across the horizon from the east, was resurrected in his mighty Lightbringers' Quest and brought the world back to life.
+[P5-A-B0018-004] S=['ORLANTH'] P=resurrects O=['WORLD'] MOD={"from": "EAST"} implicit=False ps="brought the world back to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Orlanth, replete with thunders and lightnings rolling across the horizon from the east, was resurrected in his mighty Lightbringers' Quest and brought the world back to life.
+[P5-A-B0018-005] S=['DAGA'] P=serves O=['ORLANTH'] MOD={"purpose_clause": "TO PUNISH"} implicit=True ps="has often used his kinsman to punish his foes" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Since that time Orlanth has often used his kinsman to punish his foes, or even his followers if they need it.
+[P5-A-B0018-006] S=['IRON JAR'] P=binds O=['DAGA'] MOD={"in_on_at": "LOCK-BED OF A SON OF ORLANTH"} implicit=True ps="is kept in" sug=binds
+   Q: Daga is otherwise kept in an iron jar on the lock-bed of one of Orlanth's sons, or else lives in a cursed shack upon the edge of the world until summoned.
+[P5-A-B0018-007] S=['HUMAKT'] P=embodies O=['WAR'] implicit=False ps="the God of War" sug=one of: embodies, has domain
+   Q: Humakt, the God of War, epitomizes many of the traits of the Air Gods
+[P5-A-B0018-008] S=['HUMAKT'] P=embodies O=['DEATH'] implicit=True ps="the God of Death" sug=one of: embodies, has domain
+   Q: Yet amid the multiple agonies which the God of Death bestows, this god also reveals a glimmer of hope.
+[P5-A-B0018-009] S=['HUMAKT'] P=is child of O=['UMATH'] implicit=False ps="the fourth son of" sug=is child of
+   Q: Humakt was the fourth son of Umath.
+[P5-A-B0018-010] S=['KAGAN TOR'] P=teaches O=['HUMAKT'] MOD={"in_on_at": "SPIKE"} implicit=True ps="he studied the arts of" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: There, like many others, he studied the arts of Kagan Tor the God of Endings.
+[P5-A-B0018-011] S=['KAGAN TOR'] P=embodies O=['ENDINGS'] implicit=False ps="the God of Endings" sug=one of: embodies, has domain
+   Q: Kagan Tor the God of Endings.
+[P5-A-B0018-012] S=['URENGERUM', 'HASTATUS'] P=is child of O=['YELM'] implicit=False ps="children of" sug=is child of
+   Q: Urengerum the Archer and Hastatus the Spear, children of Yelm
+[P5-A-B0018-013] S=['ZORAK ZORAN'] P=embodies O=['DARKNESS'] implicit=False ps="god of Darkness" sug=one of: embodies, has domain
+   Q: Zorak Zoran, scar-visaged god of Darkness
+[P5-A-B0018-014] S=['WACHAZA'] P=is child of O=['SEA'] implicit=False ps="the Son of the Sea" sug=is child of
+   Q: Wachaza, the Son of the Sea
+[P5-A-B0018-015] S=['ERINLARI'] P=transforms into O=['WEAPON'] implicit=False ps="later became a weapon" sug=transforms into
+   Q: Erinlari the Axe, who later became a weapon.
+[P5-A-B0018-016] S=['ELVES'] P=descends into O=['HELL'] MOD={"purpose_clause": "TO PUNISH"} implicit=True ps="raided the depths of" sug=one of: descends into, dies
+   Q: he is listed among the combatants in an elf-myth of early times when they raided the depths of hell to punish some trolls.
+[P5-A-B0018-017] S=['HUMAKT'] P=discovers O=['DEATH'] MOD={"from": "DARKNESS"} implicit=False ps="brought forth" sug=discovers
+   Q: Humakt put an end to all that when he brought forth, from the Darkness, the power called Death.
+[P5-A-B0018-018] S=['DEATH'] P=manifests O=['SWORD'] implicit=True ps="was either in the shape of a sword or Humakt fashioned it into a sword" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: This was either in the shape of a sword or Humakt fashioned it into a sword
+[P5-A-B0018-019] S=['GRANDFATHER MORTAL'] P=descends into O=['DARKNESS'] implicit=False ps="was the first to die, and he retired into" sug=one of: descends into, dies
+   Q: In the Gods Age, Grandfather Mortal was the first to die, and he retired into the Darkness.
+[P5-A-B0018-020] S=['HUMAKT'] P=is sibling of O=['ORLANTH'] implicit=True ps="his own brother" sug=is sibling of
+   Q: not even his own brother Orlanth.
+[P5-A-B0018-021] S=['EURMAL'] P=steals O=['DEATH'] MOD={"from": "HUMAKT"} implicit=True ps="stole it from his fingers" sug=steals
+   Q: It was not until Eurmal the Trickster came, who had led Humakt to the blade the first time, that Humakt's grip loosened and the Trickster stole it from his fingers.
+[P5-A-B0018-022] S=['EURMAL'] P=reveals O=['DEATH'] IO=['HUMAKT'] implicit=True ps="had led Humakt to the blade" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Eurmal the Trickster came, who had led Humakt to the blade the first time
+[P5-A-B0018-023] S=['EURMAL'] P=substitutes O=['DEATH'] implicit=False ps="had left in Death's place" sug=substitutes
+   Q: Whatever it was that Eurmal had left in Death's place continued to kill, and Death proliferated throughout the world.
+[P5-A-B0018-024] S=['ORLANTH'] P=kills O=['YELM'] MOD={"using": "DEATH"} implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: Then Orlanth took his weapon, Death, and killed the Sun God.
+[P5-A-B0018-025] S=['YELM'] P=challenges O=['ORLANTH'] implicit=False ps="had insulted Orlanth and engaged in a duel of skills" sug=one of: challenges, breaks oath, betrays, fights
+   Q: This was the resplendent Yelm, Emperor of the Golden Age, who had insulted Orlanth and engaged in a duel of skills as a trial of innocence.
+[P5-A-B0018-026] S=['HUMAKT'] P=departs from O=['AIR GODS'] implicit=False ps="sever all his kinship ties with" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Humakt claimed further that he would use his power as the God of Endings and sever all his kinship ties with the Air Gods || Nothing could ever change such a pronouncement from Humakt, and so the severance was made.
+[P5-A-B0018-027] S=['HUMAKT'] P=embodies O=['ENDINGS'] implicit=True ps="the God of Endings" sug=one of: embodies, has domain
+   Q: he would use his power as the God of Endings
+[P5-A-B0018-028] S=['HUMAKT'] P=alters mythic station O=['HUMAKT'] implicit=True ps="no longer had airy powers" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: He no longer had airy powers, not from wind or spirits.
+[P5-A-B0018-029] S=['ORLANTH'] P=comes into being O=[] implicit=False ps="was one of the later deities to be born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Orlanth was one of the later deities to be born.
+[P5-A-B0018-030] S=['ERNALDA'] P=is spouse of O=['ORLANTH'] implicit=True ps="his wife" sug=is spouse of
+   Q: He is the single most important of them all and his wife, Ernalda, is second.
+[P5-A-B0018-031] S=['ORLANTH'] P=rules O=['UNIVERSE'] implicit=True ps="claims overlordship of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He claims, by right of his deeds, overlordship of the universe.
+[P5-A-B0018-032] S=['HELER', 'ODAYLA'] P=is conflated with O=['ORLANTH'] implicit=False ps="subcults also coupled with his name" sug=one of: is identified as, is worshipped by, is part of
+   Q: there are many lesser-known "forms" of Orlanth which are subcults also coupled with his name (such as Orlanth Goodvoice, Orlanth Heler, Orlanth Odayla, and so on).
+[P5-A-B0018-033] S=['ORLANTH'] P=embodies O=['COURAGE', 'WISDOM', 'GENEROSITY', 'JUSTICE', 'HONOR', 'PIETY'] implicit=False ps="the Six Virtues of Orlanth" sug=one of: embodies, has domain
+   Q: It is useful to keep watch for the Six Virtues of Orlanth at work in these tales. || They are: Courage, Wisdom, Generosity, Justice, Honor, and Piety.
+[P5-A-B0018-034] S=['ORLANTH'] P=is child of O=['UMATH'] implicit=False ps="the last son of" sug=is child of
+   Q: Orlanth was the last son of Umath, born after the depredations of the older, more brutal Storm Gods had begun.
+[P5-A-B0018-035] S=['ORLANTH'] P=strikes O=['YINKIN'] MOD={"in_on_at": "WHISTLING CAVES", "using": "WIND"} implicit=True ps="raised the wind abruptly to see if he could knock down" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Orlanth raised the wind abruptly to see if he could knock down his brother, Yinkin. || He did, and blew the shadow cat out of the cave, tumbling hundreds of feet down towards the rocks below.
+[P5-A-B0018-036] S=['YINKIN'] P=is sibling of O=['ORLANTH'] implicit=True ps="his brother" sug=is sibling of
+   Q: his brother, Yinkin.
+[P5-A-B0018-037] S=['ORLANTH'] P=protects O=['YINKIN'] implicit=True ps="leapt through space to the rescue" sug=rescues / frees
+   Q: Orlanth flew to the cave mouth and leapt through space to the rescue.
+[P5-A-B0018-038] S=['ORLANTH', 'VADRUS', 'HUMAKT', 'VALIND'] P=defeats O=['ARMY OF THE MANTHI SEA-MEN'] MOD={"from": "INLAND SEAS OF GENERTELA"} implicit=True ps="surprised the army of the Manthi sea-men and swept it from" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He was, for instance, with his kinsmen Vadrus, Humakt, and Valind when they surprised the army of the Manthi sea-men and swept it from the inland seas of Genertela.
+[P5-A-B0018-039] S=['YELM'] P=defeats O=['ORLANTH'] implicit=False ps="the judges ruled in favor of Yelm rather than Orlanth" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Three in particular, the contests of Dancing, Music, and Magic are often cited. || In all three cases, the judges ruled in favor of Yelm rather than Orlanth.
+[P5-A-B0018-040] S=['YELM'] P=binds O=['ERNALDA'] implicit=True ps="the clutches of" sug=binds
+   Q: It was during this early time that Orlanth first became enamored of Ernalda whom he swore to free from the clutches of the Bright Emperor.
+[P5-A-B0018-041] S=['ORLANTH'] P=protects O=['ERNALDA'] implicit=False ps="became enamored of Ernalda whom he swore to free" sug=one of: protects, rescues / frees, aids
+   Q: It was during this early time that Orlanth first became enamored of Ernalda whom he swore to free from the clutches of the Bright Emperor.
+[P5-A-B0018-042] S=['YELM'] P=rules O=['UNIVERSE'] implicit=False ps="the Emperor of the Universe" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Yelm, the Emperor of the Universe and Keeper of Law
+[P5-A-B0018-043] S=['GORE AND GASH'] P=fights O=['ORLANTH'] implicit=False ps="surprised" sug=invades / raids
+   Q: One noted fight of Orlanth during this time occurred when he was surprised by a pair of famous troll heroes, Gore and Gash.
+[P5-A-B0018-044] S=['ORLANTH'] P=wounds O=['GORE'] implicit=True ps="broke Gore's legs" sug=wounds
+   Q: He fought his way free of them and broke Gore's legs.
+[P5-A-B0018-045] S=['EURMAL'] P=steals O=['DEATH'] MOD={"from": "HUMAKT"} implicit=False ps="stole" sug=steals
+   Q: The most famous act of Orlanth's youth was when Eurmal, a friend, stole the sword Death from Humakt, Orlanth's brother.
+[P5-A-B0018-046] S=['ORLANTH'] P=kills O=['YELM'] MOD={"using": "DEATH"} implicit=False ps="struck down" sug=one of: kills, shatters, dies
+   Q: In a final contest with Yelm, that of weapons, Orlanth struck down the Bright Emperor with Death, and removed the single greatest source of Light from the cosmos.
+[P5-A-B0018-047] S=['VALIND'] P=steals O=['GODS OF THE WATERS'] implicit=False ps="encroached upon or robbed" sug=steals
+   Q: The gods of the waters were more and more encroached upon or robbed, particularly by Valind, the God of Winter, who spread his glacial sheets farther and farther.
+[P5-A-B0018-048] S=['STORM GODS'] P=fights O=['STORM GODS'] implicit=False ps="had turned upon each other" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Even before the more powerful foes were quenched though, the Storm Gods had turned upon each other.
+[P5-A-B0018-049] S=['AROKA'] P=swallows / consumes O=['RAINS'] implicit=False ps="swallowed" sug=swallows / consumes
+   Q: When the dragon Aroka swallowed the rains
+[P5-A-B0018-050] S=['ORLANTH'] P=fights O=['AROKA'] MOD={"using": "DARKWIND"} implicit=True ps="journeyed to fight the dragon and forced it out of its lair" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Orlanth journeyed to fight the dragon and forced it out of its lair with the Darkwind.
+[P5-A-B0018-051] S=['ORLANTH'] P=defeats O=['AROKA'] MOD={"using": ["SACK OF THE FOUR WINDS", "KLANTH", "TWISTED VINE OF THE UPPER WIND", "LEATHER ROPE OF THE LOWER WIND"]} implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Armed with a sack with the Four Winds in it, a klanth, a twisted vine which held the Upper Wind, and a leather rope which held the Lower Wind, Orlanth defeated Aroka and brought the life-giving rain to the land.
+[P5-A-B0018-052] S=['ORLANTH'] P=bestows magic / gifts O=['RAIN'] IO=['LAND'] implicit=False ps="brought the life-giving rain to the land" sug=one of: bestows, heals, imbues, teaches
+   Q: Orlanth defeated Aroka and brought the life-giving rain to the land.
+[P5-A-B0019-001] S=['ORLANTH'] P=travels O=[] MOD={"to": "WELL OF DALIATH"} implicit=True ps="finally found himself at" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He passed through the region and, after more dangers, finally found himself at the Well of Daliath.
+[P5-A-B0019-002] S=['ORLANTH'] P=fights O=['MAGASTA'] MOD={"in_on_at": "WELL OF DALIATH"} implicit=True ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: There he fought against Magasta and/or his son.
+[P5-A-B0019-003] S=['ORLANTH'] P=discovers O=['SACRED DRINK'] MOD={"from": "DALIATH"} implicit=False ps="succeeded in gaining a sip of" sug=discovers
+   Q: Orlanth succeeded in gaining a sip of the sacred drink from Daliath which brought him access to true Wisdom.
+[P5-A-B0019-004] S=['ORLANTH'] P=fights O=['REMAINING LIGHT GODS', 'TROLL AND DARKNESS GODS'] implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Orlanth also fought the remaining Light gods and the troll and Darkness Gods.
+[P5-A-B0019-005] S=['ORLANTH'] P=wounds O=['YELMALIO'] MOD={"in_on_at": "HILL OF GOLD"} implicit=False ps="was hurt by" sug=wounds
+   Q: Another fight was at the Hill of Gold where Yelmalio was hurt by Orlanth then critically wounded shortly afterwards by Zorak Zoran who then stole Yelmalio's heat powers.
+[P5-A-B0019-006] S=['ZORAK ZORAN'] P=wounds O=['YELMALIO'] MOD={"in_on_at": "HILL OF GOLD"} implicit=False ps="critically wounded" sug=wounds
+   Q: Another fight was at the Hill of Gold where Yelmalio was hurt by Orlanth then critically wounded shortly afterwards by Zorak Zoran who then stole Yelmalio's heat powers.
+[P5-A-B0019-007] S=['ZORAK ZORAN'] P=steals O=['HEAT POWERS OF YELMALIO'] MOD={"in_on_at": "HILL OF GOLD", "from": "YELMALIO"} implicit=True ps="stole" sug=steals
+   Q: Zorak Zoran who then stole Yelmalio's heat powers.
+[P5-A-B0019-008] S=['WHITE PRINCESS', 'SNOW GODDESS'] P=is alternative name for O=['INORA'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Another combatant there was Inora, also called the White Princess or Snow Goddess.
+[P5-A-B0019-009] S=['ERNALDA'] P=is identified as O=['EARTH'] implicit=False ps="the Earth, here shown as the goddess Ernalda" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: An entertaining tale is told about the relationship between Orlanth and the Earth, here shown as the goddess Ernalda.
+[P5-A-B0019-010] S=['SONS OF UMATH'] P=travels O=[] MOD={"in_on_at": "EARTH", "purpose_clause": "TO OBTAIN"} implicit=False ps="strode the earth to choose what wonders they would take" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When the world was young the sons of Umath strode the earth to choose what wonders they would take for themselves.
+[P5-A-B0019-011] S=['ORLANTH'] P=travels O=[] MOD={"to": "ERNALDA", "purpose_clause": "TO OBTAIN"} implicit=True ps="went to Ernalda and said he wanted the earth" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He went to Ernalda and said he wanted the earth.
+[P5-A-B0019-012] S=['ERNALDA'] P=steals O=[] MOD={"from": "ORLANTH"} implicit=True ps="took from me" sug=steals
+   Q: That was not trash which you took from me! I was robbed. You are the Taker.
+[P5-A-B0019-013] S=['KEEPER OF KIN'] P=is alternative name for O=['ORLANTH'] implicit=True ps="Keeper of Kin" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ernalda: "Great God, Keeper of Kin, Clear the spots from your mind: look again.
+[P5-A-B0019-014] S=['ORLANTH'] P=fights O=['POWERS OF THE WATERS'] implicit=False ps="fought often against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Orlanth fought often against the powers of the waters and usually overcame them.
+[P5-A-B0019-015] S=['ORLANTH'] P=binds O=['WATER GODS'] implicit=True ps="enslaved" sug=binds
+   Q: Orlanth destroyed some of those gods, enslaved others, and became friends with the rest.
+[P5-A-B0019-016] S=['HELER'] P=serves O=['ORLANTH'] implicit=False ps="became Orlanth's loyal, if subordinate, friend" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Heler is a god who became Orlanth's loyal, if subordinate, friend.
+[P5-A-B0019-017] S=['ORLANTH'] P=kills O=['AROKA'] implicit=False ps="destroyed" sug=shatters
+   Q: If both that story and the Barntar story are to be believed, it seems that Orlanth destroyed Aroka and freed Heler, but Barntar brought him home.
+[P5-A-B0019-018] S=['ORLANTH'] P=protects O=['HELER'] implicit=False ps="freed" sug=rescues / frees
+   Q: it seems that Orlanth destroyed Aroka and freed Heler, but Barntar brought him home.
+[P5-A-B0019-019] S=['BARNTAR'] P=alters mythic station O=['HELER'] implicit=False ps="brought him home" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: it seems that Orlanth destroyed Aroka and freed Heler, but Barntar brought him home.
+[P5-A-B0019-020] S=['HELER'] P=is member of O=['WATER GODS'] implicit=False ps="like many of the Water Gods" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Heler, like many of the Water Gods, is blue in color.
+[P5-A-B0019-021] S=['ODAYLA'] P=is child of O=['ORLANTH', 'LADY OF THE WILDS'] implicit=True ps="This is the son of" sug=is child of
+   Q: This is the son of Orlanth and the Lady of the Wilds, an obscure minor deity.
+[P5-A-B0019-022] S=['MASTAKOS'] P=serves O=['ORLANTH'] implicit=False ps="is Orlanth's charioteer" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Mastakos is Orlanth's charioteer, captured by Orlanth at Daliath's Well of Wisdom.
+[P5-A-B0019-023] S=['ORLANTH'] P=binds O=['MASTAKOS'] MOD={"in_on_at": "WELL OF DALIATH"} implicit=False ps="captured" sug=binds
+   Q: Mastakos is Orlanth's charioteer, captured by Orlanth at Daliath's Well of Wisdom.
+[P5-A-B0019-024] S=['MASTAKOS'] P=travels O=[] MOD={"from": "KERO FIN", "to": "BLACK ISLE OF INSPIRATION"} implicit=False ps="traveled" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Once Mastakos traveled from Kero Fin to the Black Isle of Inspiration in only eight steps.
+[P5-A-B0019-025] S=['VINGKOT'] P=is child of O=['ORLANTH', 'JANERRA ALONE'] implicit=False ps="is the son of" sug=is child of
+   Q: Vingkot is the son of Orlanth and Janerra Alone, born in the Storm Age.
+[P5-A-B0019-026] S=['VINGKOT'] P=serves O=['ORLANTH'] implicit=True ps="one of Orlanth's champions" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He is often named as one of Orlanth's champions and was considered the fourth greatest warrior of Orlanth's household (the others being Humakt, Storm Bull, and Vadrus).
+[P5-A-B0019-027] S=['VINGKOT'] P=rules O=['MORTAL WORLD'] MOD={"at_the_instigation_of": ["ORLANTH"]} implicit=False ps="made the king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Orlanth made his son Vingkot the king of the mortal world and gave him a magical Sword and Helm that granted him victory.
+[P5-A-B0019-028] S=['ORLANTH'] P=bestows magic / gifts O=['VINGKOT'] implicit=False ps="gave him a magical Sword and Helm" sug=one of: bestows, heals, imbues, teaches
+   Q: Orlanth made his son Vingkot the king of the mortal world and gave him a magical Sword and Helm that granted him victory.
+[P5-A-B0019-029] S=['VINGKOT'] P=marries O=['SUMMER WIFE', 'WINTER WIFE'] implicit=False ps="married" sug=is spouse of (qual=wedding)
+   Q: Vingkot married two daughters of Tada, the ruler of sacred Prax, called the Summer Wife and the Winter Wife
+[P5-A-B0019-030] S=['SUMMER WIFE', 'WINTER WIFE'] P=is child of O=['TADA'] implicit=False ps="two daughters of" sug=is child of
+   Q: Vingkot married two daughters of Tada, the ruler of sacred Prax, called the Summer Wife and the Winter Wife
+[P5-A-B0019-031] S=['TADA'] P=rules O=['PRAX'] implicit=False ps="the ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Tada, the ruler of sacred Prax
+[P5-A-B0019-032] S=['KODIG'] P=is child of O=['VINGKOT', 'SUMMER WIFE'] MOD={"in_on_at": "NOCHET"} implicit=True ps="His oldest son with the Summer Wife" sug=is child of
+   Q: His oldest son with the Summer Wife, Kodig, was born at Nochet.
+[P5-A-B0019-033] S=['VINGKOT'] P=descends into O=['DEATH'] implicit=True ps="was killed fighting" sug=dies
+   Q: Vingkot was killed fighting in the Great Darkness, but his body was immolated so his soul would forever be free and within the call of his descendants and followers.
+[P5-A-B0019-034] S=['KODIG'] P=rules O=['VINGKOTLINGS'] MOD={"at_the_instigation_of": ["VINGKOT"]} implicit=False ps="made king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Vingkot made Kodig king of the Vingkotlings and gave him the Sword and Helm, which Kodig in turn passed on to his heirs
+[P5-A-B0019-035] S=['VINGKOT'] P=bestows magic / gifts O=['KODIG'] implicit=False ps="gave him the Sword and Helm" sug=one of: bestows, heals, imbues, teaches
+   Q: Vingkot made Kodig king of the Vingkotlings and gave him the Sword and Helm, which Kodig in turn passed on to his heirs
+[P5-A-B0019-036] S=['KODIGVARI'] P=rules O=['LAND OF ESROLA'] MOD={"in_on_at": "NOCHET"} implicit=False ps="claimed Esrola's rich land" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Kodig's dynasty ruled from their palace in Nochet, and the Kodigvari claimed Esrola's rich land.
+[P5-A-B0019-037] S=['VORIOF'] P=is child of O=['ORLANTH', 'ERNALDA'] implicit=False ps="is the son of" sug=is child of
+   Q: Voriof is the son of Orlanth and Ernalda who is said to tend Orlanth's sheep
+[P5-A-B0019-038] S=['VORIOF'] P=protects O=['SHEEP OF ORLANTH'] implicit=False ps="is said to tend Orlanth's sheep" sug=one of: protects, rescues / frees, aids
+   Q: Voriof is the son of Orlanth and Ernalda who is said to tend Orlanth's sheep
+[P5-A-B0019-039] S=['ORLANTH'] P=steals O=['SHEEP'] implicit=False ps="were stolen by" sug=steals
+   Q: The sheep are said to be water animals which were stolen by Orlanth, presumably because their fleeces are similar in appearance to clouds.
+[P5-A-B0019-040] S=['VARNAVAL'] P=teaches O=['VORIOF'] implicit=False ps="learned his arts from" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Voriof learned his arts from an elder sibling named Varnaval, who was also a herdsman.
+[P5-A-B0019-041] S=['VARNAVAL'] P=is sibling of O=['VORIOF'] implicit=False ps="an elder sibling" sug=is sibling of
+   Q: Voriof learned his arts from an elder sibling named Varnaval, who was also a herdsman.
+[P5-A-B0019-042] S=['YINKIN'] P=embodies O=['SHADOW CATS'] implicit=False ps="is the god of" sug=one of: embodies, has domain
+   Q: Yinkin is the god of shadow cats.
+[P5-A-B0019-043] S=['YINKIN'] P=is sibling of O=['ORLANTH'] implicit=True ps="half-brother of" sug=is sibling of
+   Q: He is an old friend and half-brother of Orlanth and they appear often in adventures, especially during Orlanth's youth.
+[P5-A-B0019-044] S=['MANY FAMILIES'] P=claims ancestry O=['YINKIN'] implicit=False ps="trace their ancestry to" sug=claims ancestry
+   Q: Many families trace their ancestry to Yinkin.
+[P5-A-B0019-045] S=['RAGNAGLAR', 'MALLIA', 'THED'] P=is member of O=['UNHOLY TRIO'] implicit=False ps="The Unholy Trio:" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Unholy Trio: Ragnaglar, Mallia, and Thed.
+[P5-A-B0019-046] S=['WAKBOTH'] P=is born from O=['UNHOLY TRIO'] implicit=False ps="Together they gave birth to" sug=is born from
+   Q: The Unholy Trio: Ragnaglar, Mallia, and Thed. || Together they gave birth to Wakboth the Devil and began the destruction of the world.
+[P5-A-B0019-047] S=['MALLIA'] P=comes into being O=[] MOD={"from": "DARKNESS"} implicit=False ps="grew from" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Mallia grew from the Darkness, in the waste and destruction of the Gods War.
+[P5-A-B0019-048] S=['MALLIA'] P=transforms into O=['CORRUPTION OF DEATH'] implicit=True ps="became a corruption of Death itself" sug=transforms into
+   Q: She became a corruption of Death itself, tainted and degraded from the swift brightness which Humakt and Orlanth used, becoming a lingering and festering dimness.
+[P5-A-B0019-049] S=['MALLIA'] P=is spouse of O=['RAGNAGLAR'] implicit=True ps="became mistress to" sug=is spouse of
+   Q: During the Darkness, she became mistress to Ragnaglar and friend to Thed.
+[P5-A-B0019-050] S=['BROOS'] P=is child of O=['RAGNAGLAR'] implicit=False ps="The children of Ragnaglar" sug=is child of
+   Q: The children of Ragnaglar, the broos, gave Mallia worship, and she in turn aided them and provided special magics and spirit allies so that they could further the spread of her diseased dominion.
+[P5-A-B0019-051] S=['BROOS'] P=serves O=['MALLIA'] implicit=False ps="gave Mallia worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The children of Ragnaglar, the broos, gave Mallia worship
+[P5-A-B0019-052] S=['MALLIA'] P=bestows magic / gifts O=['BROOS'] implicit=True ps="provided special magics and spirit allies" sug=one of: bestows, heals, imbues, teaches
+   Q: she in turn aided them and provided special magics and spirit allies so that they could further the spread of her diseased dominion.
+[P5-A-B0019-053] S=['THED'] P=is spouse of O=['RAGNAGLAR'] implicit=True ps="was the wife of" sug=is spouse of
+   Q: She was the wife of Ragnaglar, who later was called the Mad God, and their children were the broos, who then were untainted by Chaos.
+[P5-A-B0019-054] S=['BROOS'] P=is child of O=['THED', 'RAGNAGLAR'] implicit=True ps="their children were" sug=is child of
+   Q: She was the wife of Ragnaglar, who later was called the Mad God, and their children were the broos, who then were untainted by Chaos.
+[P5-A-B0019-055] S=['MAD GOD'] P=is alternative name for O=['RAGNAGLAR'] implicit=False ps="later was called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ragnaglar, who later was called the Mad God
+[P5-A-B0019-056] S=['THED', 'RAGNAGLAR', 'MALLIA'] P=poisons with chaos O=['WORLD'] implicit=True ps="schemed to introduce Chaos into the world" sug=corrupts
+   Q: Together with Ragnaglar and Mallia, she schemed to introduce Chaos into the world in the form of the Devil.
+[P5-A-B0019-057] S=['DEVIL'] P=is child of O=['THED'] implicit=False ps="was the mother of" sug=is child of
+   Q: Thed herself was the mother of the Devil, and his malevolence twisted and distorted her in childbirth.
+[P5-A-B0019-058] S=['STORM BULL'] P=kills O=['RAGNAGLAR'] implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: During the war, Ragnaglar was slain by the Storm Bull, Mallia left the conspiracy, and Kyger Litor defeated and skinned Thed.
+[P5-A-B0019-059] S=['MALLIA'] P=departs from O=['UNHOLY TRIO'] implicit=True ps="left the conspiracy" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: During the war, Ragnaglar was slain by the Storm Bull, Mallia left the conspiracy, and Kyger Litor defeated and skinned Thed.
+[P5-A-B0019-060] S=['KYGER LITOR'] P=defeats O=['THED'] implicit=False ps="defeated and skinned" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: During the war, Ragnaglar was slain by the Storm Bull, Mallia left the conspiracy, and Kyger Litor defeated and skinned Thed.
+[P5-A-B0019-061] S=['STORM BULL'] P=kills O=['DEVIL'] implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: The Devil finally was slain by the Storm Bull and cast into Hell, where Arachne Solara devoured him.
+[P5-A-B0019-062] S=['ARACHNE SOLARA'] P=swallows / consumes O=['DEVIL'] MOD={"in_on_at": "HELL"} implicit=False ps="devoured" sug=swallows / consumes
+   Q: The Devil finally was slain by the Storm Bull and cast into Hell, where Arachne Solara devoured him.
+[P5-A-B0019-063] S=['THED'] P=travels O=[] MOD={"to": ["DARK CORNERS OF THE UNIVERSE", "PRAX"]} implicit=False ps="dispersed to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Thed dispersed to all the dark corners of the universe, including Prax.
+[P5-A-B0019-064] S=['DEVIL'] P=travels O=[] MOD={"to": "SURFACE WORLD"} implicit=False ps="led his forces into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When the Devil led his forces into the Surface World, many other creatures also escaped to there.
+[P5-A-B0019-065] S=['BAGOG'] P=flees to O=['SURFACE WORLD'] implicit=True ps="escaped to" sug=flees to
+   Q: many other creatures also escaped to there. || One such was Bagog, a slow-witted scorpion daughter of the Darkness.
+[P5-A-B0019-066] S=['BAGOG'] P=is child of O=['DARKNESS'] implicit=False ps="daughter of" sug=is child of
+   Q: One such was Bagog, a slow-witted scorpion daughter of the Darkness.
+[P5-A-B0019-067] S=['BAGOG'] P=swallows / consumes O=['ALL WHO OPPOSED HER'] MOD={"in_on_at": "SURFACE WORLD"} implicit=False ps="fighting and eating" sug=swallows / consumes
+   Q: Bagog scuttled about the Surface World, comfortably enjoying the carnage of the Gods War, fighting and eating all who opposed her.
+[P5-A-B0019-068] S=['SCORPION KINDS'] P=is born from O=['BAGOG'] implicit=True ps="she began to lay many eggs. Soon they hatched" sug=is born from
+   Q: Then other urges shook her, and she began to lay many eggs. || Soon they hatched into smaller versions of herself
+[P5-A-B0019-069] S=['BAGOG'] P=rules O=['SCORPION KINDS'] implicit=False ps="centered about the might of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Soon the scorpion kinds formed a rough social order, centered about the might of Bagog.
+[P5-A-B0019-070] S=['VIVAMORT'] P=pledges oath with O=['CHAOS FOES'] implicit=True ps="made evil pacts with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: he begged help from his Chaos foes and made evil pacts with them.
+[P5-A-B0019-071] S=['DEVIL'] P=bestows magic / gifts O=['VIVAMORT'] implicit=True ps="allowed him a hollow existence" sug=one of: bestows, heals, imbues, teaches
+   Q: The Devil allowed him a hollow existence.
+[P5-A-B0019-072] S=['VIVAMORT'] P=alters mythic station O=['VIVAMORT'] implicit=False ps="was cut off from the mystic unity of the world" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Vivamort was cut off from the mystic unity of the world and from the universal flow of Power, and cast apart from both life and death.
+[P5-A-B0019-073] S=['VIVAMORT'] P=steals O=['POWER'] MOD={"from": "HARRIED GODS"} implicit=True ps="rip Power from" sug=steals
+   Q: He used his demonic abilities to rip Power from the harried gods, and some he could destroy totally.
+[P5-A-B0019-074] S=['VIVAMORT', 'UNDEAD ALLIES OF VIVAMORT'] P=wounds O=['ARROIN'] implicit=False ps="caught Arroin and broke his spirit" sug=wounds
+   Q: Once Vivamort and his undead allies caught Arroin and broke his spirit, but could not kill him.
+[P5-A-B0019-075] S=['VIVAMORT'] P=steals O=['SOULS'] MOD={"from": "TY KORA TEK"} implicit=False ps="stole souls who were hers" sug=steals
+   Q: Ty Kora Tek, Queen of the Dead, was incensed when Vivamort stole souls who were hers
+[P5-A-B0019-076] S=['TY KORA TEK'] P=rules O=['DEAD'] implicit=False ps="Queen of the Dead" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Ty Kora Tek, Queen of the Dead
+[P5-A-B0019-077] S=['EARTH'] P=fights O=['VIVAMORT'] MOD={"at_the_instigation_of": ["TY KORA TEK"]} implicit=True ps="set the Earth against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: she set the Earth against him
+[P5-A-B0019-078] S=['STYX'] P=bestows geas O=['VIVAMORT'] implicit=False ps="swore he never would cross her waters again" sug=one of: bestows geas, curses
+   Q: the River Styx heard of Vivamort's betrayal and swore he never would cross her waters again

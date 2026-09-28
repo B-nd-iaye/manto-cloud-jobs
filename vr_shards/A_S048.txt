@@ -1,0 +1,300 @@
+[P5-A-B0148-047] S=["FAMILIES OF WAHA'S BLOOD"] P=claims ancestry O=['WAHA'] implicit=False ps="founded so many families of his own blood" sug=claims ancestry
+   Q: Waha Father-of-Khans founded so many families of his own blood.
+[P5-A-B0148-048] S=['WAHA'] P=protects O=['THE LAND'] MOD={"purpose_clause": "to make it safe"} implicit=False ps="cleansed" sug=one of: protects, rescues / frees, aids
+   Q: Waha Killer-of-Chaos cleansed the land to make it safe.
+[P5-A-B0148-049] S=['THE YELLOWBELLIED GOD'] P=illuminates O=['PRAXIANS'] MOD={"at_the_instigation_of": ["WAHA"]} implicit=True ps="began to shine on us again" sug=illuminates
+   Q: Through Waha's deeds, the yellowbellied god felt brave enough to come out of his hiding hole and began to shine on us again
+[P5-A-B0148-050] S=['PRAXIANS'] P=serves O=['THE OUTSIDERS'] MOD={"in_on_at": "STRANGE LANDS"} implicit=True ps="hired us to fight" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Sometimes they were so impressed at our prowess that they even hired us to fight in strange lands [230 ST]
+[P5-A-B0148-051] S=['HORSES'] P=travels O=[] MOD={"to": "PRAX", "at_the_instigation_of": ["THE DRAGONS"]} implicit=True ps="made ... enter" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The dragons made horses, horrible beasts with ugly growths on their backs, enter our lands [620 ST].
+[P5-A-B0148-052] S=['PRAXIANS'] P=fights O=['HORSES'] implicit=True ps="harried" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: But we harried them so hard the dragons had to take the field to protect their allies [740 ST].
+[P5-A-B0148-053] S=['THE DRAGONS'] P=protects O=['HORSES'] implicit=True ps="take the field to protect" sug=one of: protects, rescues / frees, aids
+   Q: the dragons had to take the field to protect their allies [740 ST].
+[P5-A-B0148-054] S=['WAHA', 'AN ARMY OF GIANTS'] P=defeats O=['THE DRAGONS'] implicit=True ps="drove them off" sug=exiles / banishes
+   Q: But Waha appeared with an army of giants and drove them off [800 ST].
+[P5-A-B0148-055] S=['PAVIS'] P=defeats O=['WAHA'] implicit=False ps="forced ... to retire" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Then Pavis forced Waha to retire [831 ST]
+[P5-A-B0148-056] S=['THE LAND-WITHIN-A-WALL'] P=comes into being O=[] MOD={"at_the_instigation_of": ["PAVIS"]} implicit=False ps="built" sug=crafts
+   Q: Then Pavis forced Waha to retire [831 ST] and built the Land-within-a-wall.
+[P5-A-B0148-057] S=['PAVIS'] P=binds O=['HORSES'] implicit=True ps="enslaved" sug=binds
+   Q: He was so strong that he enslaved many horses and forced them to wear stripes as a sign of their servitude.
+[P5-A-B0148-058] S=['JALDON TOOTHMAKER'] P=manifests O=[] implicit=False ps="appeared" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Then Jaldon Toothmaker appeared [924 ST]
+[P5-A-B0148-059] S=['JALDON TOOTHMAKER', 'ALL THE TRIBES'] P=fights O=['THE LAND-WITHIN-A-WALL'] implicit=True ps="unified all the Tribes to besiege" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: unified all the Tribes to besiege the Land-within-a-wall [927 ST].
+[P5-A-B0148-060] S=['JALDON TOOTHMAKER'] P=shatters O=['THE WALL'] MOD={"using": "GREAT MAGICS"} implicit=True ps="ate a hole in" sug=shatters
+   Q: Using great magics, he ate a hole in the wall
+[P5-A-B0148-061] S=['JALDON TOOTHMAKER'] P=steals O=["PAVIS' LAND"] implicit=True ps="plundered" sug=steals
+   Q: plundered Pavis' land and the dragons could do nothing about it.
+[P5-A-B0148-062] S=['JALDON TOOTHMAKER'] P=fights O=['THE DRAGONS'] implicit=True ps="raided" sug=invades / raids
+   Q: Jaldon raided the dragons for many years
+[P5-A-B0148-063] S=['THE TRIBES'] P=is member of O=['THE TRUE GOLDEN HORDE'] MOD={"at_the_instigation_of": ["JALDON TOOTHMAKER"]} implicit=True ps="gathered together ... into" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He gathered together the tribes into the True Golden Horde
+[P5-A-B0148-064] S=['THE TRUE GOLDEN HORDE'] P=kills O=['OUTSIDERS'] MOD={"in_on_at": "DRAGON PASS"} implicit=False ps="killed all outsiders in" sug=one of: kills, shatters, dies
+   Q: As planned, the True Golden Horde killed all outsiders in Dragon Pass and gathered the greatest pile of loot ever.
+[P5-A-B0148-065] S=['A RED DRAGON'] P=swallows / consumes O=['THE TRUE GOLDEN HORDE'] implicit=True ps="were eaten by" sug=swallows / consumes
+   Q: were eaten by a passing Red Dragon [1120 ST].
+[P5-A-B0148-066] S=['THE DEVIL'] P=shatters O=['PRAX'] implicit=True ps="destroyed" sug=shatters
+   Q: They know that their land was a paradise until the Devil destroyed it.
+[P5-A-B0148-067] S=['STORM BULL'] P=kills O=['THE DEVIL'] implicit=False ps="killing" sug=one of: kills, shatters, dies
+   Q: They praise the mighty Storm Bull, the Desert Wind, for killing the Devil
+[P5-A-B0148-068] S=['STORM BULL'] P=binds O=['THE DEVIL'] MOD={"in_on_at": "A TITANIC BLOCK OF TRUESTONE"} implicit=True ps="imprisoning its corpse beneath" sug=binds
+   Q: imprisoning its corpse beneath a titanic block of Truestone.
+[P5-A-B0148-069] S=['STORM BULL'] P=travels O=[] MOD={"in_on_at": "THE REMAINS OF GENERT'S PALACE"} implicit=False ps="blows over" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Storm Bull blows over the remains of Genert's Palace
+[P5-A-B0148-070] S=['BERSERKERS'] P=serves O=['STORM BULL'] implicit=True ps="his Berserkers" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: his Berserkers likewise scour the wastes for any chaos to kill.
+[P5-A-B0148-071] S=['EIRITHA'] P=is spouse of O=['STORM BULL'] implicit=False ps="wife of" sug=is spouse of
+   Q: Eiritha is the ancestral mother of the beasts of Prax, wife of Storm Bull, mother of Waha and the woman's giantess.
+[P5-A-B0148-072] S=['THE BEASTS OF PRAX'] P=claims ancestry O=['EIRITHA'] implicit=False ps="ancestral mother of" sug=claims ancestry
+   Q: Eiritha is the ancestral mother of the beasts of Prax
+[P5-A-B0148-073] S=['WAHA'] P=is child of O=['EIRITHA'] implicit=True ps="mother of" sug=is child of
+   Q: mother of Waha and the woman's giantess.
+[P5-A-B0148-074] S=['EIRITHA'] P=is member of O=["GENERT'S KIN"] implicit=True ps="alone of Genert's kin" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: She, alone of Genert's kin, escaped the Devil's slaughter, for she had been buried beneath the earth.
+[P5-A-B0148-075] S=['THE DEVIL'] P=kills O=["GENERT'S KIN"] implicit=False ps="the Devil's slaughter" sug=one of: kills, shatters, dies
+   Q: alone of Genert's kin, escaped the Devil's slaughter
+[P5-A-B0148-076] S=['OTHER TRIBES'] P=serves O=["WAHA'S LAWS"] implicit=False ps="obey" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Other Tribes obey Waha's Laws
+[P5-A-B0149-001] S=['STORM BULL'] P=defeats O=['THE DEVIL'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Even though Storm Bull defeated the Devil the dazed and confused Animal Nomads starved
+[P5-A-B0149-002] S=['WAHA'] P=is child of O=['STORM BULL'] implicit=False ps="Storm Bull's son" sug=is child of
+   Q: Waha, Storm Bull's son, saved them by making the Survival Covenant.
+[P5-A-B0149-003] S=['WAHA'] P=protects O=['ANIMAL NOMADS'] MOD={"using": "SURVIVAL COVENANT"} implicit=True ps="saved them by making the Survival Covenant" sug=one of: protects, rescues / frees, aids
+   Q: Waha, Storm Bull's son, saved them by making the Survival Covenant.
+[P5-A-B0149-004] S=['WAHA'] P=teaches O=['ANIMAL NOMADS'] implicit=True ps="showed them how to live like this" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Waha, their ancestral hero, showed them how to live like this when he made the Survival Covenant.
+[P5-A-B0149-005] S=['ANIMAL NOMADS'] P=claims ancestry O=['WAHA'] implicit=True ps="their ancestral hero" sug=claims ancestry
+   Q: Waha, their ancestral hero, showed them how to live like this
+[P5-A-B0149-006] S=['SABLE RIDERS'] P=defeats O=['HIGH LLAMA TRIBE'] MOD={"from": "PRAX"} implicit=True ps="expelled them from Prax" sug=exiles / banishes
+   Q: They were proved wrong when the Sable Riders expelled them from Prax.
+[P5-A-B0149-007] S=['BISON RIDERS'] P=fights O=['LUNARS'] MOD={"in_on_at": "MOONBROTH"} implicit=True ps="opposed" sug=challenges
+   Q: They opposed the Lunars at Moonbroth and the Sable riders have been busy expelling them.
+[P5-A-B0149-008] S=['IMPALA RIDERS'] P=fights O=['LUNARS'] MOD={"in_on_at": "MOONBROTH"} implicit=True ps="opposed" sug=challenges
+   Q: They too opposed the Lunars at Moonbroth and have suffered for it.
+[P5-A-B0149-009] S=['MOROKANTH'] P=rules O=['HUMANS'] MOD={"in_accordance_with": ["SURVIVAL COVENANT"]} implicit=False ps="became the masters" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: When Waha made the Survival Covenant, the Morokanth were the only tribe where the animals became the masters and the humans servants.
+[P5-A-B0149-010] S=['CAPTURED RAIDERS'] P=transforms into O=['HERDMEN'] MOD={"at_the_instigation_of": ["MOROKANTH"]} implicit=False ps="can be magically turned into" sug=transforms into
+   Q: All Animal Nomads fear raiding the Morokanth, because captured raiders can be magically turned into herdmen and eaten.
+[P5-A-B0149-011] S=['RHINO RIDERS'] P=is member of O=['GREAT TRIBES'] implicit=False ps="were one of the Great Tribes" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The RHINO RIDERS were one of the Great Tribes at the Dawn, but have dwindled over the years.
+[P5-A-B0149-012] S=['UNICORN MAIDENS'] P=departs from O=['EIRITHA'] implicit=False ps="reject their traditional Eiritha lifestyle" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: The UNICORN MAIDENS are a tribe of women who reject their traditional Eiritha lifestyle.
+[P5-A-B0149-013] S=['ZEBRA TRIBE'] P=serves O=['PAVIS'] implicit=False ps="was originally the cavalry of the city of Pavis" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The ZEBRA TRIBE was originally the cavalry of the city of Pavis, created in the Imperial Age.
+[P5-A-B0149-014] S=['JALDON'] P=defeats O=['PAVIS'] implicit=False ps="sacked" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: After Jaldon sacked Pavis the Zebra Tribe was scattered and became known as the Pavis Survivors.
+[P5-A-B0149-015] S=['PAVIS SURVIVORS'] P=is alternative name for O=['ZEBRA TRIBE'] implicit=False ps="became known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Zebra Tribe was scattered and became known as the Pavis Survivors.
+[P5-A-B0149-016] S=['BASMOLI BERSERKERS'] P=claims ancestry O=['GIANT LION'] implicit=False ps="are hsunchen descendants of" sug=claims ancestry
+   Q: The BASMOLI BERSERKERS are hsunchen descendants of the giant lion, which was slain by the Waha.
+[P5-A-B0149-017] S=['WAHA'] P=kills O=['GIANT LION'] implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: The BASMOLI BERSERKERS are hsunchen descendants of the giant lion, which was slain by the Waha.
+[P5-A-B0149-018] S=['BABOONS'] P=serves O=['GRANDFATHER BABOON'] implicit=False ps="worship" sug=is worshipped by
+   Q: A common sight in Prax, they worship Grandfather Baboon, the Primate of the bygone Monkey Empire.
+[P5-A-B0149-019] S=['GRANDFATHER BABOON'] P=rules O=['MONKEY EMPIRE'] implicit=False ps="the Primate of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: they worship Grandfather Baboon, the Primate of the bygone Monkey Empire.
+[P5-A-B0149-020] S=['MONKEY EMPIRE'] P=rules O=['THE WORLD'] implicit=True ps="ruled the whole world" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They tell the tragic tale of how their empire ruled the whole world.
+[P5-A-B0149-021] S=['DEMENTED APES'] P=departs from O=['GRANDFATHER BABOON'] implicit=True ps="adjured their primacy" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: But demented apes, sick of fleas, went bald and adjured their primacy, thus bringing about the catastrophic Giants War.
+[P5-A-B0149-022] S=['MEN-AND-A-HALF'] P=is member of O=['AGIMORI'] implicit=False ps="are Agimori" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The MEN-AND-A-HALF are Agimori from far Pamaltela.
+[P5-A-B0149-023] S=['BALUMBASTA'] P=fights O=['CHAOS'] implicit=False ps="led a vast army that marched north to fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: They are the remnants of a vast army led by Balumbasta that marched north to fight Chaos.
+[P5-A-B0149-024] S=['UZ'] P=defeats O=['BALUMBASTA'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Balumbasta was enslaved and defeated by the Uz and his army was forced to disperse to survive.
+[P5-A-B0149-025] S=['UZ'] P=binds O=['BALUMBASTA'] implicit=False ps="enslaved" sug=binds
+   Q: Balumbasta was enslaved and defeated by the Uz
+[P5-A-B0149-026] S=['OASIS FOLK'] P=claims ancestry O=['ORIGINAL GIANTS'] implicit=False ps="claim to be descended from" sug=claims ancestry
+   Q: The Oasis Folk claim to be descended from the original giants who inhabited Genert's Garden before the Devil destroyed it.
+[P5-A-B0149-027] S=['THE DEVIL'] P=shatters O=["GENERT'S GARDEN"] implicit=False ps="destroyed" sug=shatters
+   Q: the original giants who inhabited Genert's Garden before the Devil destroyed it.
+[P5-A-B0149-028] S=['BASTARD TRIBES'] P=rides O=['HORSE'] implicit=True ps="ride" sug=rides
+   Q: Animal Nomads despise the Bastards, who ride the detested horse.
+[P5-A-B0149-029] S=['BASTARD TRIBES'] P=serves O=['EIRITHA'] implicit=True ps="worship Eiritha as their cattle giantess" sug=is worshipped by
+   Q: They worship Eiritha as their cattle giantess and the men worship Orlanth.
+[P5-A-B0149-030] S=['MEN OF THE BASTARD TRIBES'] P=serves O=['ORLANTH'] implicit=True ps="worship" sug=is worshipped by
+   Q: They worship Eiritha as their cattle giantess and the men worship Orlanth.
+[P5-A-B0149-031] S=['BASTARD TRIBES'] P=departs from O=['DRAGON PASS'] implicit=True ps="originally came from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: The Bastards originally came from Dragon Pass.
+[P5-A-B0149-032] S=['SHE WHO TIES'] P=teaches O=['WAHA ROPES'] IO=['WAHA'] MOD={"in_on_at": "THE PLACE OF NETS"} implicit=False ps="taught this system of the Ropes to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: She Who Ties is the spirit who taught this system of the Ropes to Waha in the time after his great birth before the Dawning, at the place of nets.
+[P5-A-B0149-033] S=['WAHA'] P=travels O=[] MOD={"to": "GRASSLANDS OF THE GIANTS", "via": ["THE PLACE OF NETS"]} implicit=True ps="Waha's pathway to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: It is on Waha's pathway to the grasslands of the giants.
+[P5-A-B0149-034] S=['MONSTERS'] P=fights O=['GODS'] implicit=False ps="warred with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Then a great hole opened up in the earth and monsters crawled out. || They even invaded the sky and warred with the gods.
+[P5-A-B0149-035] S=['MONSTERS'] P=wounds O=['HIPPOI'] implicit=True ps="had her fangs knocked from her jaws, her claws torn from her feet, and her golden wings from her back" sug=wounds
+   Q: Our mother goddess, Hippoi, had her fangs knocked from her jaws, her claws torn from her feet, and her golden wings from her back.
+[P5-A-B0149-036] S=['HIPPOI'] P=has monstrous form O=[] implicit=False ps="had her fangs, her claws, and her golden wings" sug=has anomalous form (qual=monstrous)
+   Q: Our mother goddess, Hippoi, had her fangs knocked from her jaws
+[P5-A-B0149-037] S=['HYALOR'] P=protects O=['HIPPOI'] implicit=True ps="saved her from death" sug=one of: protects, rescues / frees, aids
+   Q: The great hero Hyalor saved her from death and formed an alliance with her.
+[P5-A-B0149-038] S=['HYALOR'] P=pledges oath with O=['HIPPOI'] implicit=True ps="formed an alliance with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: The great hero Hyalor saved her from death and formed an alliance with her.
+[P5-A-B0149-039] S=['HORSE'] P=is alternative name for O=['HIPPOI'] implicit=True ps="now she is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She changed her name and identity and now she is called Horse.
+[P5-A-B0149-040] S=['HIPPOI'] P=transforms into O=['HORSE'] implicit=True ps="changed her name and identity" sug=transforms into
+   Q: She changed her name and identity and now she is called Horse.
+[P5-A-B0149-041] S=['KARGZANT'] P=descends into O=['MONSTER LAND'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="went into the monster land to destroy the source of the monsters" sug=one of: descends into, dies
+   Q: Finally Kargzant could stand this no longer and went into the monster land to destroy the source of the monsters.
+[P5-A-B0149-042] S=['JOSAD THE ELDER'] P=sacrifices O=['HORSES', 'MONSTERS', 'SLAVES'] IO=['KARGZANT'] MOD={"purpose_clause": "TO AID"} implicit=False ps="made the first sacrifices of" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Josad the Elder recognized Kargzant's plight and made the first sacrifices of horses, monsters and slaves to strengthen him.
+[P5-A-B0149-043] S=['PENTAN NOMADS'] P=sacrifices O=['MONSTERS'] IO=['KARGZANT'] MOD={"purpose_clause": "TO AID"} implicit=True ps="offered to Kargzant" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Every monster that we killed, we offered to Kargzant so that he became brighter.
+[P5-A-B0149-044] S=['PENTAN NOMADS'] P=defeats O=['MONSTERS'] MOD={"to": "THE EDGES OF THE WORLD"} implicit=True ps="drove the monsters away" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: We drove the monsters away to the edges of the world and even conquered Peloria, the western edge.
+[P5-A-B0149-045] S=['PENTAN NOMADS'] P=rules O=['PELORIA'] implicit=True ps="conquered" sug=conquers
+   Q: We drove the monsters away to the edges of the world and even conquered Peloria, the western edge.
+[P5-A-B0149-046] S=['KARGZANT'] P=manifests O=[] implicit=False ps="had come back" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Finally Kargzant became so bright that even the monster people at the edge of the world had to admit that he had come back [0 ST].
+[P5-A-B0149-048] S=['MONSTER PEOPLE'] P=defeats O=['PENTAN NOMADS'] MOD={"from": "PELORIA"} implicit=True ps="expelled us from Peloria" sug=exiles / banishes
+   Q: Due to our great strength, the Monster People developed cunning and expelled us from Peloria [230 ST].
+[P5-A-B0149-049] S=['PELORIANS'] P=alters mythic station O=['PELORIAN HORSEMEN'] implicit=False ps="had corrupted" sug=corrupts
+   Q: They had corrupted the Pelorian horsemen into herding slave monsters, called cows.
+[P5-A-B0149-050] S=['KARGZANT'] P=teaches O=['PENTAN NOMADS'] implicit=True ps="stopped in his course to counsel peace to us" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Kargzant even stopped in his course to counsel peace to us
+[P5-A-B0149-051] S=['PURE HORSE PEOPLE'] P=challenges O=['KARGZANT'] implicit=True ps="claimed he had been bribed with the sacrifice of cows" sug=one of: challenges, breaks oath, betrays, fights
+   Q: this only caused renewed fighting when the Pure Horse People claimed he had been bribed with the sacrifice of cows [375 ST].
+[P5-A-B0149-052] S=['PELORIANS'] P=fights O=['PENTAN NOMADS'] implicit=True ps="dared to invade our land" sug=invades / raids
+   Q: Finally we were so weak, that the Pelorians dared to invade our land [c. 565 ST].
+[P5-A-B0149-053] S=['PURE HORSE PEOPLE'] P=travels O=[] IO=['HORSE QUEEN'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="fled south seeking" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The few survivors fled south seeking the prophesized Horse Queen to save them.
+[P5-A-B0149-054] S=['PENTAN NOMADS'] P=defeats O=['PELORIANS'] MOD={"to": "THE EDGE OF THE WORLD"} implicit=True ps="drove the Pelorians back" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: we drove the Pelorians back to the edge of the world.
+[P5-A-B0149-055] S=['CHARUN'] P=serves O=['PELORIANS'] implicit=True ps="were seduced into supporting" sug=aids
+   Q: The CharUn opposed them at first but were seduced into supporting them [1228 ST].
+[P5-A-B0149-056] S=['RED MOON'] P=becomes celestial body O=[] implicit=False ps="rose into the Sky" sug=becomes celestial body
+   Q: With their support the Red Moon rose into the Sky [1247 ST].
+[P5-A-B0149-057] S=['YELLOW EMPEROR'] P=binds O=['AGARTUSAY'] implicit=True ps="enslaved" sug=binds
+   Q: He tried to make a name for himself by leading a horde into Kralorela but the Yellow Emperor enslaved him [1250 ST].
+[P5-A-B0149-058] S=['AGARTUSAY'] P=travels O=[] MOD={"to": "KRALORELA"} implicit=True ps="leading a horde into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He tried to make a name for himself by leading a horde into Kralorela
+[P5-A-B0149-059] S=['SHENG SELERIS'] P=is alternative name for O=['AGARTUSAY'] implicit=False ps="his name was now" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Many years later AgartuSay returned [1355 ST] but his name was now Sheng Seleris.
+[P5-A-B0149-060] S=['JOLATY'] P=teaches O=['SHENG SELERIS'] implicit=True ps="had enlightened him with the truths of good slavery" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He claimed that Jolaty had enlightened him with the truths of good slavery that allowed him to defeat all monsters.
+[P5-A-B0150-001] S=['SHENG SELERIS'] P=defeats O=['IRON FORTS'] implicit=True ps="led us to conquer" sug=conquers
+   Q: he led us to conquer the Iron Forts [1356 ST] which had never been done before.
+[P5-A-B0150-002] S=['PENTANS'] P=fights O=['KRALORI'] MOD={"with_the_aid_of": ["BOSHANI"]} implicit=True ps="raided" sug=invades / raids
+   Q: For seven years, we raided the Kralori mercilessly with the aid of the Boshani.
+[P5-A-B0150-003] S=['SHENG SELERIS'] P=challenges O=['YELLOW EMPEROR'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="challenged" sug=one of: challenges, breaks oath, betrays, fights
+   Q: He then overran many lands and then challenged the Yellow Emperor for the right to rule over all Kralorela.
+[P5-A-B0150-004] S=['SHENG SELERIS'] P=travels O=['CHERN DUREL', 'THE WASTELANDS'] MOD={"purpose_clause": "TO OBTAIN"} implicit=False ps="invaded" sug=invades / raids
+   Q: Enraged, Sheng Seleris invaded Chern Durel, the Wastelands and even the jungle people of the far south, seeking magics to confound the Yellow Emperor.
+[P5-A-B0150-005] S=['SHENG SELERIS'] P=travels O=['PELORIA'] implicit=False ps="invaded" sug=invades / raids
+   Q: Finally Sheng Seleris invaded Peloria [1375 ST].
+[P5-A-B0150-006] S=['SHENG SELERIS'] P=defeats O=['RED EMPEROR'] implicit=False ps="finally defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Red Emperor went into hiding and sent demons before Sheng Seleris finally defeated him [1415 ST].
+[P5-A-B0150-007] S=['SHENG SELERIS'] P=travels O=['KRALORELA'] implicit=False ps="invaded" sug=invades / raids
+   Q: Sheng then invaded Kralorela again with help from the rest of the world [1442 ST].
+[P5-A-B0150-008] S=['SHENG SELERIS'] P=alters mythic station O=[] MOD={"at_the_instigation_of": ["SKY PEOPLE"]} implicit=False ps="acclaimed as their Emperor" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The Sky People then acclaimed Sheng Seleris as their Emperor
+[P5-A-B0150-009] S=['SKY PEOPLE'] P=bestows magic / gifts O=['STELLAR PALACE'] IO=['SHENG SELERIS'] implicit=True ps="gave him" sug=one of: bestows, heals, imbues, teaches
+   Q: they gave him his own stellar palace to live in [1444 ST].
+[P5-A-B0150-010] S=['SHENG SELERIS'] P=travels O=['RED MOON'] implicit=False ps="landed on" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Sheng then vowed to conquer the monsters of the sky for them and landed on the Red Moon [1449 ST].
+[P5-A-B0150-011] S=['REBELS OF THE SKY'] P=alters mythic station O=['SHENG SELERIS'] implicit=True ps="cast a great spell to pull his star down" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: But the rebels of the sky cast a great spell to pull his star down [1460 ST].
+[P5-A-B0150-012] S=['RED EMPEROR', 'YELLOW EMPEROR'] P=fights O=['PENTANS'] implicit=True ps="expelled us from their lands" sug=exiles / banishes
+   Q: Bereft of our great leader, the Red and Yellow Emperors expelled us from their lands.
+[P5-A-B0150-013] S=['PENTANS'] P=kills O=['RED EMPEROR'] implicit=True ps="had killed" sug=one of: kills, shatters, dies
+   Q: But because we had killed the Red Emperor and most of the Pelorians in the same battle
+[P5-A-B0150-014] S=['FOUR WINDS'] P=is member of O=["KARGZANT'S TRIBE"] MOD={"at_the_instigation_of": ["BRONZE-SWORDED PROPHET"]} implicit=True ps="persuaded to become part of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He has persuaded the Four Winds to become part of Kargzant's tribe.
+[P5-A-B0150-015] S=['MANY TRIBES'] P=serves O=['FOUR WINDS'] implicit=False ps="worshipped" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Many tribes have thus worshipped the Four Winds
+[P5-A-B0150-016] S=['DIGIJELM', 'TROLLS', 'DOZAKI'] P=is alternative name for O=['UZ'] implicit=False ps="Also known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Also known as: Digijelm (Pelorians), Trolls (Western), and Dozaki (Kralori).
+[P5-A-B0150-017] S=['TROLLS'] P=comes into being O=[] MOD={"in_on_at": "UNDERWORLD"} implicit=False ps="underworld origins" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Because of their underworld origins, the trolls are active during the nighttime.
+[P5-A-B0150-018] S=['DARK TROLLS'] P=substitutes O=['MISTRESS RACE'] implicit=False ps="replaced" sug=substitutes
+   Q: After arrival on the surface world, DARK TROLLS replaced the Mistress Race as the leading troll type.
+[P5-A-B0150-019] S=['GREAT TROLLS', 'TROLLKIN'] P=is born from O=['DARK TROLLS'] implicit=False ps="are born to dark troll mothers" sug=is born from
+   Q: Both great trolls and trollkin are born to dark troll mothers although the reverse is never true.
+[P5-A-B0150-020] S=['DARK TROLLS'] P=serves O=['KYGER LITOR'] implicit=False ps="generally worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Dark trolls are the most intelligent of them all and generally worship Kyger Litor and other deities.
+[P5-A-B0150-021] S=['TROLLKIN'] P=comes into being O=[] MOD={"via": ["CURSE OF KIN"], "at_the_instigation_of": ["GBAJI"]} implicit=False ps="are the produce of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: TROLLKIN are the produce of the Curse of Kin, caused by the curses of Gbaji.
+[P5-A-B0150-022] S=['UZ'] P=fights O=['DEATH'] implicit=False ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Uz fought against Death
+[P5-A-B0150-023] S=['DEATH'] P=wounds O=['UZ'] implicit=True ps="burn" sug=wounds
+   Q: he burn many Uz!
+[P5-A-B0150-024] S=['UZKO'] P=flees to O=['HURTPLACE'] implicit=False ps="fled to" sug=flees to
+   Q: Uzko [dark trolls] fled to Hurtplace [the surface world] and lick burns.
+[P5-A-B0150-025] S=['UZ'] P=kills O=['CHAOS'] implicit=False ps="finally kill" sug=one of: kills, shatters, dies
+   Q: Uz fought back and finally kill chaos.
+[P5-A-B0150-026] S=['HOOMANZ', 'DWARVEZ', 'ELVEZ'] P=pledges oath with O=['UZ'] implicit=True ps="promise" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: They promise Death's arms and legs be broken, that Death shine only half the time and that Death allow uz back into Wonderhome. || Uz agreed [0 ST].
+[P5-A-B0150-027] S=['COUNCIL OF FRIENDS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["EZKANKEKKO"]} implicit=False ps="form" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Ezkankekko friends with so many hoomanz, dwarvez, elvez and dragonootz that he form Council of Friends to keep track of his friends.
+[P5-A-B0150-028] S=['UZ'] P=kills O=['DEATH WORSHIPPERS'] implicit=False ps="so uz did" sug=one of: kills, shatters, dies
+   Q: death worshippers want to kill instead [167 ST]. || That was fine by uz and so uz did.
+[P5-A-B0150-029] S=['TROLLS'] P=is child of O=['KYGER LITOR'] implicit=False ps="is the mother of" sug=is child of
+   Q: Kyger Litor is the mother of the trolls.
+[P5-A-B0150-030] S=['SUN'] P=descends into O=['HELL'] implicit=False ps="entered" sug=one of: descends into, dies
+   Q: When the sun entered hell
+[P5-A-B0150-031] S=['KYGER LITOR'] P=departs from O=['WONDERHOME'] MOD={"at_the_instigation_of": ["SUN"]} implicit=True ps="forced to flee" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: it scorched all Wonderhome and forced Kyger Litor to flee.
+[P5-A-B0150-032] S=['KYGER LITOR', "KYGER LITOR'S CHILDREN"] P=travels O=['SURFACE WORLD'] MOD={"purpose_clause": "TO AVENGE"} implicit=False ps="invaded" sug=invades / raids
+   Q: In revenge, Kyger Litor and her children invaded the surface world and conquered most of it, a period known to humans as the Great Darkness.
+[P5-A-B0150-033] S=["KYGER LITOR'S CHILDREN"] P=defeats O=['THE DEVIL AND HIS SPAWN'] implicit=False ps="defeated them or drove them off" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Devil and his spawn invaded Glorantha, but Kyger Litor's children defeated them or drove them off into remote places.
+[P5-A-B0150-034] S=['KYGER LITOR'] P=pledges oath with O=['HUMANS'] implicit=False ps="permitted ... provided" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Kyger Litor permitted the return of the sun at the Dawn, provided the pathetic humans gave Wonderhome back. || But the humans have reneged on their oaths
+[P5-A-B0150-035] S=['KYGER LITOR'] P=fights O=['BRIGHT EMPIRE'] implicit=False ps="has fought back ... ended up as food" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Kyger Litor has fought back, as always, and the Bright Empire and other foes of hers have ended up as food.
+[P5-A-B0150-036] S=['KYGER LITOR'] P=embodies O=['DARKNESS'] implicit=False ps="goddess of darkness" sug=one of: embodies, has domain
+   Q: As goddess of darkness, Kyger Litor and the trolls are heirs to the both the order and pattern of the darkness
+[P5-A-B0150-037] S=['DEATH'] P=is identified as O=['SUN'] implicit=False ps="is the fiery sun" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Death is the fiery sun that forced the trolls out of Wonderhome.
+[P5-A-B0150-038] S=['BLACK EATER'] P=swallows / consumes O=['SUN'] implicit=False ps="will devour" sug=swallows / consumes
+   Q: the night of the Black Eater that will devour the sun and create a new Wonderhome on the surface world.
+[P5-A-B0150-039] S=['UZ'] P=swallows / consumes O=['DEATH HOOMANZ'] implicit=False ps="eat them all" sug=swallows / consumes
+   Q: Uz war against Death hoomanz and soon uz eat them all [c.230 ST].
+[P5-A-B0150-040] S=['UZ'] P=departs from O=['COUNCIL OF LIARS'] implicit=False ps="withdrew from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Uz discover he was a Death god and withdrew from Council of Liars [365 ST].
+[P5-A-B0150-041] S=['UZ'] P=binds O=['DEATH'] implicit=False ps="forced to stop in sky" sug=binds
+   Q: Uz magic was so strong that Death was forced to stop in sky by Uz [375 ST].
+[P5-A-B0150-042] S=['GBAJI'] P=fights O=['UZ'] MOD={"at_the_command_of": ["BROKEN COUNCIL"]} implicit=False ps="sent at" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Broken Council sent Gbaji at Uz [379 ST].
+[P5-A-B0150-043] S=['GBAJI'] P=bestows geas O=['UZ'] MOD={"using": "WOMB-BITER"} implicit=True ps="cursed" sug=curses
+   Q: He cursed Uz with Womb-biter
+[P5-A-B0150-044] S=['ENLO'] P=is born from O=['UZ'] implicit=False ps="has been born to" sug=is born from
+   Q: since then Enlo [trollkin] always has been born to Uz.
+[P5-A-B0150-045] S=['ARGAN ARGAR'] P=is child of O=['NIGHT'] implicit=False ps="son of" sug=is child of
+   Q: ARGAN ARGAR, son of night
+[P5-A-B0150-046] S=['UZ'] P=serves O=['ARGAN ARGAR'] implicit=True ps="is worshipped by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: is worshipped by Uz seeking to extend the power of darkness upon the surface world.
+[P5-A-B0150-047] S=['ARGAN ARGAR WORSHIPPERS'] P=rules O=['KINGDOM OF NIGHT'] implicit=True ps="were the ruling clique in" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They are often found as merchants and translators but were the ruling clique in the Kingdom of Night.
+[P5-A-B0150-048] S=['XIOLA UMBAR'] P=is twin of O=['ZORAK ZORAN'] implicit=False ps="twin sister" sug=is sibling of (qual=twin)
+   Q: XIOLA UMBAR is Zorak Zoran's twin sister
+[P5-A-B0150-049] S=['XIOLA UMBAR'] P=embodies O=['BRUTE COMPASSION'] implicit=True ps="embodies" sug=one of: embodies, has domain
+   Q: embodies brute compassion just he embodies destruction.
+[P5-A-B0150-050] S=['XIOLA UMBAR'] P=protects O=['UZ', 'TROLLKIN'] implicit=True ps="protects" sug=one of: protects, rescues / frees, aids
+   Q: She protects the weakest Uz and the trollkin too.
+[P5-A-B0150-051] S=['ZONG'] P=embodies O=['HUNT'] implicit=False ps="is the god of" sug=one of: embodies, has domain
+   Q: ZONG is the god of the hunt
+[P5-A-B0150-052] S=['EVERYTHING ELSE IN THE WORLD'] P=is born from O=['DARKNESS'] implicit=False ps="spawned" sug=is born from
+   Q: The darkness spawned everything else in the world as food for Kyger Litor and her children.
+[P5-A-B0150-053] S=['BLUE MOON PLATEAU'] P=is identified as O=['FRAGMENT OF THE BLUE MOON'] MOD={"in_on_at": "PELORIA"} implicit=False ps="is reportedly a fragment of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The BLUE MOON PLATEAU is reportedly a fragment of the Blue Moon that crashed on Peloria.
+[P5-A-B0150-054] S=['BLUE MOON PLATEAU TROLLS'] P=serves O=['BLUE MOON'] implicit=True ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They worship the Blue Moon and are governed by the Emperor's Cousin.
+[P5-A-B0150-055] S=["EMPEROR'S COUSIN"] P=rules O=['BLUE MOON PLATEAU TROLLS'] implicit=True ps="are governed by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They worship the Blue Moon and are governed by the Emperor's Cousin.
+[P5-A-B0150-056] S=['DAGORI INKARTH'] P=comes into being O=[] MOD={"at_the_instigation_of": ["GORE", "GASH"]} implicit=False ps="originally dug out by" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: DAGORI INKARTH is the oldest troll settlement on the surface world, originally dug out by the heroes Gore and Gash.
+[P5-A-B0150-057] S=['ELDER WILDS TROLLS'] P=fights O=['ELVES'] implicit=True ps="in constant war with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: They are disorganized and in constant war with the elves.
+[P5-A-B0150-058] S=['PAMALT'] P=wounds O=['ANCESTRESS OF THE JUNGLE TROLLS'] implicit=True ps="wounded" sug=wounds
+   Q: Pamalt wounded their ancestress and they can no longer endure cold.
+[P5-A-B0150-059] S=['TROLLS'] P=travels O=['GUHAN'] MOD={"at_the_command_of": ["ARKAT"]} implicit=False ps="settled at the bidding of" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Trolls originally settled GUHAN at the bidding of Arkat after the Chaos Wars.
+[P5-A-B0150-060] S=['EXILED MANDARINS'] P=defeats O=['UZ OF KOROMANDOL'] implicit=True ps="losing a war with" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Uz here were expelled from Chern Durel after losing a war with exiled mandarins.
+[P5-A-B0150-061] S=['UZ OF KOROMANDOL'] P=departs from O=['CHERN DUREL'] implicit=True ps="were expelled from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: The Uz here were expelled from Chern Durel after losing a war with exiled mandarins.

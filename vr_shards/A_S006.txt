@@ -1,0 +1,300 @@
+[P5-A-B0012-006] S=['GREATER ELEMENTALS'] P=alters mythic station O=[] implicit=True ps="lost most of their worship" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Especially after the Great Darkness these primal entities lost most of their worship, reducing them almost to the level of powerless philosophical deities.
+[P5-A-B0012-007] S=['XEOTAM'] P=teaches O=['AAMOR'] implicit=False ps="master sorcerer and his apprentice" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: They are written as a dialogue between the master sorcerer Xeotam and his young (and half-barbarian) apprentice, Aamor.
+[P5-A-B0012-008] S=['HIMEL', 'NAKALA', 'SRAMAK', 'GATA', 'ZRENTHUS', 'LODIK'] P=is member of O=['ELEMENTALS'] implicit=False ps="He learned of the Elementals" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He learned of the Elementals, the gods whose makeup was the same as the elements: Himel, God of Cold; Nakala, Goddess of Darkness; Sramak, God of Waters; Gata, Goddess of Earth; Zrenthus, God of the Sky; and Lodik, God of Fire.
+[P5-A-B0012-009] S=['HIMEL'] P=is identified as O=['GOD OF COLD'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Himel, God of Cold
+[P5-A-B0012-010] S=['NAKALA'] P=is identified as O=['GODDESS OF DARKNESS'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Nakala, Goddess of Darkness
+[P5-A-B0012-011] S=['SRAMAK'] P=is identified as O=['GOD OF WATERS'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Sramak, God of Waters
+[P5-A-B0012-012] S=['GATA'] P=is identified as O=['GODDESS OF EARTH'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Gata, Goddess of Earth
+[P5-A-B0012-013] S=['ZRENTHUS'] P=is identified as O=['GOD OF THE SKY'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Zrenthus, God of the Sky
+[P5-A-B0012-014] S=['LODIK'] P=is identified as O=['GOD OF FIRE'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Lodik, God of Fire.
+[P5-A-B0012-015] S=['SRVUALI'] P=is child of O=['ELEMENTALS'] implicit=False ps="their parent Elementals" sug=is child of
+   Q: It was just this fact that made the Srvuali more useful than their parent Elementals
+[P5-A-B0012-016] S=['NAKALA'] P=is identified as O=['DARKNESS ABOVE AND BELOW THE SURFACE'] implicit=False ps="was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Thus, although Nakala was the Darkness above and below the Surface, a wizard would call upon Xentha, Srvuali of the Darkness of Night for some nocturnal service.
+[P5-A-B0012-017] S=['XENTHA'] P=is identified as O=['SRVUALI OF THE DARKNESS OF NIGHT'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: a wizard would call upon Xentha, Srvuali of the Darkness of Night for some nocturnal service.
+[P5-A-B0012-018] S=['VIELTOR'] P=is identified as O=['FIRE SRVUALI', 'CHIEF SMITH OF THE GODS'] implicit=False ps="was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Thus, although Vieltor was a fire Srvuali, he was also chief Smith of the gods.
+[P5-A-B0012-019] S=['DEHORI', 'HOLLRI', 'TRIOLINI', 'LIKITI', 'WAMBOLI', 'PROMALTI'] P=is member of O=['SRVUALI'] implicit=False ps="Each Elemental had its own Srvuali" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Each Elemental had its own Srvuali: the Dehori of Darkness; the Hollri of Cold; the Triolini of Water; the Likiti of Earth; the Wamboli of the Sky; and the Promalti of Fire.
+[P5-A-B0012-020] S=['TILNTA', 'VAMALM', 'MESOR', 'GETHER'] P=is member of O=['POWERS'] implicit=False ps="There were" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Powers were the gods who controlled the different activities of the world. || There were Tilnta, Goddess of Love and Fertility; Vamalm, God of War; Mesor, God of Vengeance; Gether, God of Death; and many others.
+[P5-A-B0012-021] S=['TILNTA'] P=is identified as O=['GODDESS OF LOVE AND FERTILITY'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Tilnta, Goddess of Love and Fertility
+[P5-A-B0012-022] S=['VAMALM'] P=is identified as O=['GOD OF WAR'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Vamalm, God of War
+[P5-A-B0012-023] S=['MESOR'] P=is identified as O=['GOD OF VENGEANCE'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Mesor, God of Vengeance
+[P5-A-B0012-024] S=['GETHER'] P=is identified as O=['GOD OF DEATH'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Gether, God of Death
+[P5-A-B0012-025] S=['EURMAL'] P=kills O=['FLAMAL'] implicit=False ps="slew" sug=one of: kills, shatters, dies
+   Q: Thus, until the god Eurmal slew the god Flamal, there was no death in the world.
+[P5-A-B0012-026] S=['GETHER'] P=rules O=['ALL THE BEINGS IN THE WORLD'] implicit=False ps="his domain included" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the great slaughter that followed during the Gods War, Gether gained power until his domain included all the beings in the world, gods and mortals alike.
+[P5-A-B0012-027] S=['EURMAL'] P=kills O=['FLAMAL'] implicit=False ps="fell and died under the hand of" sug=one of: kills, shatters, dies
+   Q: Take for example Flamal, who was the first being in the world to die. || He was a god, yet he fell and died under the hand of Eurmal.
+[P5-A-B0012-028] S=['FLAMAL'] P=resurrects O=[] MOD={"from": "UNDERWORLD", "to": "SURFACE WORLD"} implicit=True ps="his body is reborn" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Each year his body is reborn after his soul struggles to the Surface World from the Underworld.
+[P5-A-B0012-029] S=['EHILM'] P=resurrects O=[] implicit=False ps="become reborn each morning" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Likewise, does Ehilm become reborn each morning after his physical body dies at dusk.
+[P5-A-B0012-030] S=['SOULS WHO REGAIN THE SURFACE WORLD'] P=transforms into O=['KAELITH'] MOD={"from": "NAKALA"} implicit=True ps="become yet another class of gods" sug=transforms into
+   Q: And upon regaining the surface after escaping Nakala, these souls become yet another class of gods, the Kaelith.
+[P5-A-B0012-031] S=['JONAT', 'HARMAST', 'TALOR', 'ARKAT'] P=is member of O=['KAELITH'] implicit=True ps="are just such gods" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Jonat of the north and Harmast of the east are just such gods, as are Talor and Arkat.
+[P5-A-B0012-032] S=['ZEDEI'] P=resurrects O=[] implicit=False ps="lived twice" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Sometimes, as in the case of Zedei who lived twice before the War of the Gods.
+[P5-A-B0012-033] S=['CROSSBREEDS'] P=is alternative name for O=['BURTAE'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: In addition to these types of gods, Aanor learned of those known as Burtae, or Crossbreeds.
+[P5-A-B0012-034] S=['BURTAE'] P=is born from O=['ELEMENTALS', 'SRVUALI'] implicit=False ps="are the product of interbreeding between" sug=is born from
+   Q: The Burtae deities are the product of interbreeding between Elementals or their Srvuali.
+[P5-A-B0012-035] S=['HUMAT'] P=is child of O=['GATA', 'ZRENTHUS'] implicit=False ps="child of" sug=is child of
+   Q: Humat, God of Air, is the most powerful of the Burtae, child of Gata and Zrenthus.
+[P5-A-B0012-036] S=['HUMAT'] P=is member of O=['BURTAE'] implicit=False ps="is the most powerful of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Humat, God of Air, is the most powerful of the Burtae
+[P5-A-B0012-037] S=['HUMAT'] P=is identified as O=['GOD OF AIR'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Humat, God of Air
+[P5-A-B0012-038] S=['FLAMAL', 'HYKIM'] P=is child of O=['SRAMAK', 'GATA'] implicit=False ps="twins of" sug=is child of
+   Q: Others include Flamal and Hykim, twins of Sramak and Gata
+[P5-A-B0012-039] S=['FLAMAL'] P=is twin of O=['HYKIM'] implicit=False ps="twins" sug=is sibling of (qual=twin)
+   Q: Others include Flamal and Hykim, twins of Sramak and Gata
+[P5-A-B0012-040] S=['TOLAT', 'ANEHILLA'] P=is child of O=['EHILM', 'NAKALA'] implicit=False ps="twins of" sug=is child of
+   Q: Tolat and Anehilla, twins of Ehilm and Nakala.
+[P5-A-B0012-041] S=['TOLAT'] P=is twin of O=['ANEHILLA'] implicit=False ps="twins" sug=is sibling of (qual=twin)
+   Q: Tolat and Anehilla, twins of Ehilm and Nakala.
+[P5-A-B0012-042] S=['KOLATI'] P=is child of O=['HUMAT'] implicit=False ps="Humat's many air gods" sug=is child of
+   Q: These are the Burtae who can give birth to their own Srvuali. || Thus, Humat's many air gods, the Kolati.
+[P5-A-B0012-043] S=['LOWER BURTAE'] P=is alternative name for O=['ELEMENTAL BURTAE'] implicit=False ps="are known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: These Burtae are known as the Elemental Burtae, or, because of their restraints, the Lower Burtae.
+[P5-A-B0012-044] S=['HIGHER BURTAE'] P=is child of O=['BURTAE'] implicit=False ps="are the children of" sug=is child of
+   Q: The Higher Burtae are the children of other Burtae, either with each other or with Srvuali.
+[P5-A-B0012-045] S=['EURMAL'] P=is identified as O=['TRICKSTER'] implicit=False ps="is more important as the cunning, clever, trickster" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Eurmal, for instance, is more important as the cunning, clever, trickster than as a god of fertility, water, earth, or the sun-fire, all of which are included in his ancestry.
+[P5-A-B0012-046] S=['LUATHA', 'ALTINAE'] P=is member of O=['BURTAE'] implicit=True ps="are often grouped into clans such as" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: They are often grouped into clans such as the Luatha or Altinae
+[P5-A-B0012-047] S=['LUATHA'] P=defeats O=['SESHNEG'] MOD={"in_on_at": "SURFACE WORLD", "at_the_instigation_of": ["SESHNA", "HUMAT", "SRAMAK"]} implicit=True ps="destroyed" sug=shatters
+   Q: such as the time the Luatha destroyed the Seshneg at the request of Seshna, Humat, and Sramak.
+[P5-A-B0012-048] S=['IFALDOR'] P=is born from O=['SRVUALI'] implicit=False ps="are the product of two types of" sug=is born from
+   Q: Another class of Burtae, known as the Ifaldor, is that which are the product of two types of Srvuali.
+[P5-A-B0012-049] S=['MALKIONI'] P=is born from O=['KOLATI', 'TRIOLINI'] MOD={"in_on_at": "BRITHA"} implicit=False ps="a cross between" sug=is born from
+   Q: The Malkioni, a cross between a Kolati and Triolini, are better known by the name of Brithini after their birthplace in the land of Britha.
+[P5-A-B0012-050] S=['BRITHINI'] P=is alternative name for O=['MALKIONI'] implicit=False ps="are better known by the name of" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Malkioni, a cross between a Kolati and Triolini, are better known by the name of Brithini after their birthplace in the land of Britha.
+[P5-A-B0012-051] S=['TAMALI'] P=is born from O=['DEHORI', 'TILNTI'] implicit=False ps="were a cross between" sug=is born from
+   Q: The Tamali were a cross between a band of Dehori and Tilnti.
+[P5-A-B0012-052] S=['CHILDREN-OF-ANIMALS'] P=is alternative name for O=['HSUNCHEN'] implicit=True ps="the word means" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: In the language of the Kralori, the word means Children-of-Animals.
+[P5-A-B0012-053] S=['HSUNCHEN'] P=claims ancestry O=['ANIMAL GODS'] implicit=True ps="are all descended from" sug=claims ancestry
+   Q: The various nations of the Hsunchen are all descended from some animal god or another, with one of the parents of the race being of another class of god.
+[P5-A-B0012-054] S=['BEAR-PEOPLE'] P=is alternative name for O=['JONATINGS'] implicit=False ps="are called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: "Then that's the reason the Jonatings of the north are called the Bear-People?"
+[P5-A-B0012-055] S=['GOAT-PEOPLE', 'HORSE-PEOPLE', 'CAT-PEOPLE', 'BULL-PEOPLE'] P=is member of O=['HSUNCHEN'] implicit=True ps="There were" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: There were Goat-People, Horse-People, Cat-People, Bull-People, and many others.
+[P5-A-B0012-056] S=['HSUNCHEN'] P=alters mythic station O=[] implicit=True ps="mingled, losing their brotherhoods with the animals" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: due to the influences of the War of the Gods and the War with Chaos the nations mingled, losing their brotherhoods with the animals.
+[P5-A-B0012-057] S=['LION-PEOPLE'] P=is alternative name for O=['BASMOLI'] implicit=False ps="apposition" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Basmoli Lion-People of the Mislari Mountains to the south have retained their brotherhood with their beasts but have fallen into savagery
+[P5-A-B0012-058] S=['VRIMAKI'] P=claims ancestry O=['BIRD KING'] implicit=False ps="have retained their kinship with their bird king brothers" sug=claims ancestry
+   Q: the winged Vrimaki of the farthest east have retained their kinship with their bird king brothers
+[P5-A-B0012-059] S=['UNIVERSE'] P=comes into being O=[] MOD={"from": ["CHAOS", "NAMELESS DEPTHS"]} implicit=False ps="was created, pulled from" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The universe was created, pulled from the gaping maw of Chaos and the Nameless Depths.
+[P5-A-B0012-060] S=['THE DRAGONS'] P=protects O=['BLACK LADY'] MOD={"from": "VOID"} implicit=False ps="struggles to free" sug=rescues / frees
+   Q: The Dragons tell legends of their own struggles to free the Black Lady from the Void.
+[P5-A-B0012-061] S=['PALTRY CREATURES'] P=discovers O=['DEATH'] MOD={"in_on_at": "REALM OF DARKNESS", "purpose_clause": "TO OBTAIN"} implicit=False ps="came away with" sug=discovers
+   Q: Paltry creatures came within the cavernous realm of Darkness, seeking hidden powers, and came away with what men call Death.
+[P5-A-B0012-062] S=['SUN'] P=descends into O=['UNDERWORLD'] implicit=False ps="came to" sug=one of: descends into, dies
+   Q: The fiery sun itself came to the Underworld, blazing and burning away all the black shadows.
+[P5-A-B0012-063] S=['ALL BUT THE MIGHTIEST DEITIES OF DARKNESS'] P=flees to O=['SURFACE WORLD'] MOD={"at_the_instigation_of": ["SUN"]} implicit=True ps="fled" sug=flees to
+   Q: All but the mightiest deities of Darkness fled his bright presence to the Surface World, initiating the age called the Lesser Darkness.
+[P5-A-B0013-001] S=['NAKALA'] P=comes into being O=[] implicit=False ps="gradually coalesced into" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: she began as a vague and formless mass and gradually coalesced into the goddess Nakala.
+[P5-A-B0013-002] S=['DAME DARKNESS'] P=comes into being O=[] MOD={"from": "NAKALA", "at_the_instigation_of": ["CELESTIAL COURT"]} implicit=True ps="lifted the Black Lady from the cloud of ignorance" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: A story from Tarsh says that the court "lifted the Black Lady from the cloud of ignorance." || A footnote explains that the cloud was Nakala.
+[P5-A-B0013-003] S=['DAME DARKNESS'] P=embodies O=['THE ABILITIES OF THE DARKNESS'] implicit=False ps="seems to be a personification of" sug=one of: embodies, has domain
+   Q: Dame Darkness seems to be a personification of the abilities of the Darkness
+[P5-A-B0013-004] S=['DAME DARKNESS'] P=is child of O=['NAKALA'] implicit=True ps="is the daughter of" sug=is child of
+   Q: A Holy Country tale says that she is the daughter of Nakala
+[P5-A-B0013-005] S=['THE FATHER OF DEMONS', 'THE MOTHER OF SPACE'] P=is child of O=['NAKALA'] implicit=True ps="are said to be children of" sug=is child of
+   Q: They are said to be children of Nakala.
+[P5-A-B0013-006] S=['DEHORE', 'HIMILE', 'SUBERE'] P=is child of O=['THE FATHER OF DEMONS', 'THE MOTHER OF SPACE'] implicit=True ps="having some very powerful children" sug=is child of
+   Q: were more noted for having some very powerful children, three of whom are listed below: Dehore, Himile, and Subere.
+[P5-A-B0013-007] S=['DEHORI'] P=is child of O=['DEHORE'] implicit=False ps="father of" sug=is child of
+   Q: Dehoreis the God of Fear and father of the Dehori, many lesser Darkness spirits with limited power and capacity.
+[P5-A-B0013-008] S=['DEHORE'] P=embodies O=['FEAR'] implicit=False ps="is the God of" sug=one of: embodies, has domain
+   Q: Dehoreis the God of Fear
+[P5-A-B0013-009] S=['DEHORE'] P=rules O=['DARKNESS SPIRITS'] implicit=True ps="collected into his command" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: This god did not father all these, but seems to have collected the otherwise leaderless Darkness spirits into his command.
+[P5-A-B0013-010] S=['SUBERE'] P=is spouse of O=['DEHORE'] implicit=True ps="His wife was" sug=is spouse of
+   Q: His wife was Subere.
+[P5-A-B0013-011] S=['FATHER WINTER'] P=is alternative name for O=['HIMILE'] implicit=False ps="He is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Himileis the God of Cold. || He is Father Winter
+[P5-A-B0013-012] S=['HIMILE'] P=embodies O=['COLD'] implicit=False ps="is the God of" sug=one of: embodies, has domain
+   Q: Himileis the God of Cold.
+[P5-A-B0013-013] S=['HIERARCHY OF COLD DEITIES'] P=serves O=['HIMILE'] implicit=True ps="subservient to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: There is a hierarchy of deities subservient to him, worshipped in cold places
+[P5-A-B0013-014] S=['SUBERE'] P=embodies O=['THE INNER DARK'] implicit=False ps="is the Goddess of" sug=one of: embodies, has domain
+   Q: Subereis the Goddess of the Inner Dark, and also called wife of Dehore and Goddess of the Darkness of the Underworld.
+[P5-A-B0013-015] S=['LORDS OF THE SEVEN HELLS'] P=serves O=['SUBERE'] implicit=True ps="worship" sug=is worshipped by
+   Q: It is written that the Lords of the Seven Hells all worship her.
+[P5-A-B0013-016] S=['DEATH RUNE'] P=comes into being O=[] MOD={"in_on_at": "SUBERE"} implicit=True ps="was made or found within" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: She is also called the Mother of Death, for that Rune was made or found within her cavernous being before it was brought into the Surface World.
+[P5-A-B0013-017] S=['MOTHER OF DEATH'] P=is alternative name for O=['SUBERE'] implicit=True ps="is also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She is also called the Mother of Death
+[P5-A-B0013-018] S=['MALLIA'] P=is member of O=['UNHOLY TRIO'] implicit=True ps="As one of the Unholy Trio" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: As one of the Unholy Trio, she was part of the blasphemous ritual made by Ragnaglar, Thed, and some others which allowed Chaos into the world.
+[P5-A-B0013-019] S=['RAGNAGLAR', 'THED'] P=poisons with chaos O=['THE WORLD'] implicit=False ps="allowed Chaos into" sug=corrupts
+   Q: the blasphemous ritual made by Ragnaglar, Thed, and some others which allowed Chaos into the world.
+[P5-A-B0013-020] S=['MALLIA'] P=manifests chaos taint O=[] implicit=True ps="was never free of the taint" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: She was the Death contact, and though she eventually broke from the alliance she was never free of the taint.
+[P5-A-B0013-021] S=['BROOS'] P=serves O=['MALLIA'] implicit=True ps="is still worshipped by" sug=is worshipped by
+   Q: She is still worshipped by the unclean broos, and she is dependent upon them for her survival as a being of power.
+[P5-A-B0013-022] S=['CHAOS'] P=binds O=['MALLIA'] implicit=False ps="captured and enslaved" sug=binds
+   Q: Malliawas a Death Goddess captured and || enslaved by Chaos (or who freely joined,
+[P5-A-B0013-023] S=['YELM'] P=rules O=['THE GOLDEN FIELDS OF THE BLESSED'] MOD={"in_on_at": "UNDERWORLD"} implicit=True ps="lording it over" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: that Night rules upon the Surface World the Sun God is in the Underworld, lording it over the golden fields of the blessed
+[P5-A-B0013-024] S=['NIGHT'] P=rules O=['SURFACE WORLD'] implicit=False ps="rules upon" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: that Night rules upon the Surface World
+[P5-A-B0013-025] S=['DEAD WORSHIPERS OF HUMAKT'] P=protects O=['HELL'] MOD={"in_on_at": "HALL OF THE SLAIN"} implicit=True ps="protect Hell from Chaos" sug=one of: protects, rescues / frees, aids
+   Q: his Hall of the Slain is a special part in the Underworld where his dead worshipers practice and prepare for the next Gods War. By doing this they protect Hell from Chaos.
+[P5-A-B0013-026] S=['VIVAMORT'] P=alters mythic station O=[] implicit=True ps="who is now a god" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: the first vampire type of creature, who is now a god and can even destroy some spirits upon their own plane.
+[P5-A-B0013-027] S=['DELECTI'] P=is member of O=['CULT OF VIVAMORT'] implicit=True ps="is a master of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Delecti the Necromancer is a master of this cult.
+[P5-A-B0013-028] S=['JESET'] P=discovers O=['THE FIRST BOAT'] implicit=True ps="invented" sug=discovers
+   Q: have invented the first boat ever made.
+[P5-A-B0013-029] S=['JESET'] P=travels O=[] MOD={"in_on_at": "EDZAROUN", "using": "THE FIRST BOAT", "purpose_clause": "delivers souls to the far side"} implicit=True ps="sail over" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He uses it to sail over the River Edzaroun and delivers souls to the far side.
+[P5-A-B0013-030] S=['RED GODDESS'] P=descends into O=['HELL'] MOD={"at_the_instigation_of": ["BIMBAROS"]} implicit=True ps="let the Red Goddess pass" sug=one of: descends into, dies
+   Q: He let the Red Goddess pass without any payment, as often happens when mortals enter the realm alive.
+[P5-A-B0013-031] S=['RED GODDESS'] P=departs from O=['HELL'] MOD={"at_the_instigation_of": ["BIMBAROS"]} implicit=True ps="let her leave" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: It was unusual, though, that he later let her leave without a struggle
+[P5-A-B0013-032] S=['NETTA'] P=is alternative name for O=['XENTHA'] implicit=True ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: although she is called Netta by the Pelorians.
+[P5-A-B0013-033] S=['XENTHA'] P=is child of O=['SUBERE'] implicit=True ps="is a daughter of" sug=is child of
+   Q: She is a daughter of Subere.
+[P5-A-B0013-034] S=['SUN GOD'] P=descends into O=['UNDERWORLD'] implicit=False ps="was slain and fled to hide in" sug=one of: descends into, dies
+   Q: When the Sun God was slain and fled to hide in the underworld
+[P5-A-B0013-035] S=['XENTHA'] P=protects O=['CHILDREN OF XENTHA'] implicit=False ps="spread her great cloak of protection over" sug=one of: protects, rescues / frees, aids
+   Q: They were led by Xentha, who spread her great cloak of protection over her children, and used her powers to fight against Chaos during the Great Night.
+[P5-A-B0013-036] S=['XENTHA'] P=fights O=['CHAOS'] implicit=True ps="fight against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: used her powers to fight against Chaos during the Great Night.
+[P5-A-B0013-037] S=['XENTHA', 'YELM'] P=rules O=['SURFACE WORLD'] implicit=False ps="shared in the rule of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: After the Great Compromise, when Time began, Xentha and Yelm shared in the rule of the Surface World.
+[P5-A-B0013-038] S=['ONLY OLD ONE'] P=is child of O=['ARGAN ARGAR', 'ESROLA'] implicit=False ps="is the son of" sug=is child of
+   Q: Only Old Oneis the son of Argan Argar and || Esrola.
+[P5-A-B0013-039] S=['ARGAN ARGAR'] P=binds O=['LODRIL'] MOD={"purpose_clause": "to build the Palace of Black Glass"} implicit=True ps="bound into servitude" sug=binds
+   Q: His father bound Lodril into servitude to build the Palace of Black Glass where the Only Old One and his minions lived.
+[P5-A-B0013-040] S=['ONLY OLD ONE'] P=rules O=['SHADOWLANDS'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He ruled the Shadowlands until the early Third Age when he was slain by Belintar the Stranger.
+[P5-A-B0013-041] S=['BELINTAR'] P=kills O=['ONLY OLD ONE'] implicit=True ps="was slain by" sug=one of: kills, shatters, dies
+   Q: he was slain by Belintar the Stranger.
+[P5-A-B0013-042] S=['BELINTAR'] P=shatters O=['PALACE OF BLACK GLASS'] implicit=False ps="shattered" sug=shatters
+   Q: Belintar shattered the Palace of Black Glass and proclaimed himself the God-King of the Holy Country.
+[P5-A-B0013-043] S=['BELINTAR'] P=alters mythic station O=[] MOD={"in_on_at": "HOLY COUNTRY"} implicit=True ps="proclaimed himself the God-King of" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: proclaimed himself the God-King of the Holy Country.
+[P5-A-B0013-044] S=['EDZAROUN'] P=embodies O=['THE WATER OF DARKNESS'] implicit=False ps="is" sug=one of: embodies, has domain
+   Q: The River Edzarounis the Water of Darkness,
+[P5-A-B0013-045] S=['STYX', 'LAST DROP OF DARKNESS'] P=is alternative name for O=['EDZAROUN'] implicit=False ps="call her" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: some texts call her the Styx or the Last Drop of Darkness
+[P5-A-B0013-046] S=['ZARAMAKA'] P=is child of O=['EDZAROUN'] implicit=False ps="a single son" sug=is child of
+   Q: All Edzaroun's children were daughters to guard the aspects listed, except a single son, Zaramaka.
+[P5-A-B0013-047] S=['ZARAMAKA'] P=is identified as O=['THE PRIMAL SEA'] implicit=False ps="who was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Mother of Zaramaka, who was the Primal Sea.
+[P5-A-B0013-048] S=['GARROTE OF THE GODS'] P=is alternative name for O=['EDZAROUN'] implicit=False ps="is sometimes called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Edzaroun is sometimes called Garrote of the Gods, for she could cause any immortal to choke and suffer if they swore an oath upon her name and broke it.
+[P5-A-B0013-049] S=['EDZAROUN'] P=protects O=['OATHS'] implicit=True ps="was known as an Oath Guardian" sug=one of: protects, rescues / frees, aids
+   Q: Thus, she was known as an Oath Guardian, and avenger of broken oaths.
+[P5-A-B0013-050] S=['FURIES'] P=serves O=['EDZAROUN'] implicit=True ps="was aided in this by" sug=aids
+   Q: She was aided in this by several families of Furies and similar demons.
+[P5-A-B0013-051] S=['SOME TYPES OF FURIES'] P=fights O=['YELM'] implicit=True ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Some types (including occasional dragons) fought the more powerful deities who broke oaths, such as the time Yelm was forced to return to his path in the sky in 375 ST.
+[P5-A-B0013-052] S=['GNATS'] P=strikes O=['THE MOTHERS OF BALAZAR'] implicit=False ps="enraged and drove them mad" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Other Furies were more mundane, like the gnats which enraged the mothers of Balazar and drove them mad after they poisoned their sons.
+[P5-A-B0013-053] S=['THE MOTHERS OF BALAZAR'] P=wounds O=['SONS OF THE MOTHERS OF BALAZAR'] implicit=True ps="poisoned" sug=wounds
+   Q: drove them mad after they poisoned their sons.
+[P5-A-B0013-054] S=['GORAKIKI'] P=is born from O=['UNDERWORLD'] implicit=True ps="born in" sug=is born from
+   Q: invertebrate Animals of Darkness born in the Underworld in the God Time.
+[P5-A-B0013-055] S=['MOTHER OF INSECTS'] P=is alternative name for O=['GORAKIKI'] implicit=False ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Gorakikiis the Mother of Insects
+[P5-A-B0013-056] S=['SUN'] P=descends into O=['UNDERWORLD'] implicit=False ps="died and came to" sug=one of: descends into, dies
+   Q: When the sun died and came to the Underworld
+[P5-A-B0013-057] S=['GORAKIKI', 'CHILDREN OF GORAKIKI'] P=flees to O=['THE SURFACE'] implicit=False ps="fled" sug=flees to
+   Q: Gorakiki and her children fled, helping the trolls in their escape to the surface.
+[P5-A-B0013-058] S=['GORAKIKI', 'CHILDREN OF GORAKIKI'] P=serves O=['TROLLS'] implicit=False ps="helping" sug=aids
+   Q: Gorakiki and her children fled, helping the trolls in their escape to the surface.
+[P5-A-B0013-059] S=['ANNILLA'] P=is child of O=['A SEA GOD', 'A DARKNESS GODDESS'] implicit=False ps="is a daughter of" sug=is child of
+   Q: Annilla the Blue Moonis a daughter of a Sea || God and a Darkness goddess.
+[P5-A-B0013-060] S=['BLUE MOON'] P=is alternative name for O=['ANNILLA'] implicit=False ps="the Blue Moon" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Annilla the Blue Moonis a daughter
+[P5-A-B0013-061] S=['ANNILLA'] P=embodies O=['HIDDEN SECRETS'] implicit=True ps="is Goddess of" sug=one of: embodies, has domain
+   Q: She is Goddess of Hidden Secrets, and her cult manifested itself as specializing in assassination and invisibility.
+[P5-A-B0013-062] S=['ANNILLA', 'NIGHT'] P=travels O=[] MOD={"to": "EARTH"} implicit=True ps="came to earth with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Blue Moon was seen on earth only during the Darkness, when it came to earth with the Night.
+[P5-A-B0013-063] S=['TROLLS', 'VELDANG'] P=serves O=['ANNILLA'] implicit=True ps="is worshipped primarily by" sug=is worshipped by
+   Q: She is worshipped primarily by trolls and the blue-skinned Veldang people.
+[P5-A-B0013-064] S=['TROLL RACES'] P=claims ancestry O=['KYGER LITOR'] implicit=False ps="is the ancestress of" sug=claims ancestry
+   Q: Kyger Litor is the ancestress of all the troll races
+[P5-A-B0013-065] S=['SRAMAKE'] P=is alternative name for O=['SRAMAK'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Sramakor Sramake is the hermaphrodite of the
+[P5-A-B0013-066] S=['PRIMEVAL OCEAN'] P=is alternative name for O=['SRAMAK'] implicit=True ps="is sometimes called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He is sometimes called the Primeval Ocean.
+[P5-A-B0013-067] S=['ONE WATER'] P=is alternative name for O=['SRAMAK'] implicit=True ps="One of his nicknames is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: One of his nicknames is "One Water."
+[P5-A-B0013-068] S=['SRAMAK'] P=embodies O=['THE GREAT WATER UPON WHICH THE EARTH FLOATS'] implicit=True ps="is" sug=one of: embodies, has domain
+   Q: He is the great water upon which the earth floats and which separates earth from the Underworld.
+[P5-A-B0013-069] S=['WATERS BENEATH THE EARTH'] P=is alternative name for O=['SRAMAK'] implicit=True ps="is sometimes called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He is sometimes called the Waters Beneath the Earth.
+[P5-A-B0013-070] S=['DALIATH'] P=protects O=['THE WISDOM OF THE DEEP'] implicit=False ps="is the Keeper of" sug=one of: protects, rescues / frees, aids
+   Q: Daliath is the Keeper of the Wisdom of the Deep and is sometimes known only by his title of Lord of Wisdom.
+[P5-A-B0013-071] S=['LORD OF WISDOM'] P=is alternative name for O=['DALIATH'] implicit=True ps="is sometimes known only by his title of" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: is sometimes known only by his title of Lord of Wisdom.
+[P5-A-B0013-072] S=['FRAMANTHE'] P=embodies O=['THE SPIRIT THAT MOVES THE OCEAN'] implicit=True ps="is the spirit that moves" sug=one of: embodies, has domain
+   Q: She is titled Goddess of the Deep and she is the spirit that moves the ocean and all its relatives.
+[P5-A-B0013-073] S=['GODDESS OF THE DEEP'] P=is alternative name for O=['FRAMANTHE'] implicit=True ps="is titled" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She is titled Goddess of the Deep
+[P5-A-B0013-074] S=['SRAMAK', 'DALIATH', 'FRAMANTHE'] P=is child of O=['ZARAMAKA'] implicit=True ps="children of" sug=is child of
+   Q: Each of these children of Zaramaka interbred with the others.
+[P5-A-B0013-075] S=['SRAMAK', 'DALIATH', 'FRAMANTHE'] P=marries O=['SRAMAK', 'DALIATH', 'FRAMANTHE'] implicit=True ps="interbred with" sug=is spouse of (qual=wedding)
+   Q: Each of these children of Zaramaka interbred with the others. This produced three distinct families of beings in the waters
+[P5-A-B0013-076] S=['THE WATERS OF THE WORLD'] P=is child of O=['SRAMAK', 'FRAMANTHE'] implicit=True ps="are the children of" sug=is child of
+   Q: These are the children of Sramak and Framanthe, or Body and Spirit.
+[P5-A-B0013-077] S=['THE LESSER SEAS'] P=is child of O=['THE OCEANS OF THE WORLD'] implicit=True ps="Their children are" sug=is child of
+   Q: Their children are, in turn, the lesser seas, whose children are the rivers and lakes.
+[P5-A-B0013-078] S=['THE RIVERS AND LAKES'] P=is child of O=['THE LESSER SEAS'] implicit=False ps="whose children are" sug=is child of
+   Q: the lesser seas, whose children are the rivers and lakes.
+[P5-A-B0013-079] S=['OCEAN OF TERROR'] P=travels O=[] MOD={"from": "THE EAST"} implicit=True ps="encroached into the world from the east and moved" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: world from the east and moved in a somewhat northwesterly direction at first.
+[P5-A-B0013-080] S=['SEA OF FOG'] P=is child of O=['OCEAN OF TERROR'] implicit=True ps="Her largest child is" sug=is child of
+   Q: Her largest child is the Sea of Fog who loved Kahar.
+[P5-A-B0013-081] S=['ADELRE', 'JEMEKE'] P=is child of O=['SEA OF FOG'] implicit=True ps="Among the children of" sug=is child of
+   Q: Among the children of this placid sea were twins, Adelre and Jemeke
+[P5-A-B0013-082] S=['ADELRE'] P=is twin of O=['JEMEKE'] implicit=False ps="were twins" sug=is sibling of (qual=twin)
+   Q: Among the children of this placid sea were twins, Adelre and Jemeke
+[P5-A-B0013-083] S=['VITHELA'] P=comes into being O=[] MOD={"in_on_at": ["ADELRE", "JEMEKE"]} implicit=True ps="grew about" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: about these beautiful River deities grew the eastern civilization called Vithela.
+[P5-A-B0013-084] S=['WESTERN OCEAN'] P=travels O=[] MOD={"from": "THE WEST", "to": "THE WORLD DISC"} implicit=False ps="came over the world disc from the west" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Western Oceancame over the world disc || from the west and also created many lesser children.
+[P5-A-B0013-085] S=['BROWN SEA', 'NELIOMI', 'WHITE SEA'] P=is child of O=['WESTERN OCEAN'] implicit=True ps="Among them are" sug=is child of
+   Q: Among them are the old Brown Sea (now broken into the Sea of Worms and Jorkar's Sea), Neliomi, the White or Ice Sea, and some others.
+[P5-A-B0013-086] S=['BROWN SEA'] P=transforms into O=['SEA OF WORMS', "JORKAR'S SEA"] implicit=False ps="now broken into" sug=transforms into
+   Q: the old Brown Sea (now broken into the Sea of Worms and Jorkar's Sea)
+[P5-A-B0013-087] S=['HOMEWARD OCEAN'] P=travels O=[] MOD={"to": "THE BREACH", "purpose_clause": "TO THWART"} implicit=False ps="leapt into the breach" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: At that moment, many deities leapt into the breach to try and staunch the disruption. One was Homeward Ocean
+[P5-A-B0013-088] S=['UMATH'] P=binds O=['HOMEWARD OCEAN'] implicit=False ps="taken and used as a weapon" sug=binds
+   Q: One was Homeward Ocean, who was taken and used as a weapon by Umath.
+[P5-A-B0013-089] S=['HOMEWARD OCEAN'] P=transforms into O=['THE GIGANTIC WHIRLPOOL'] implicit=True ps="now he is" sug=transforms into
+   Q: He was twisted and thrown, but held, and now he is the gigantic whirlpool which sucks all the water from the oceans and drops it down into the Underworld again.
+[P5-A-B0014-001] S=['TRIOLINI'] P=claims ancestry O=['TRIOLINA'] implicit=False ps="the descendants of" sug=claims ancestry
+   Q: The Triolini is a group name referring to the descendants of Triolina
+[P5-A-B0014-002] S=['TRIOLINA'] P=is child of O=['SRAMAKE', 'DALIATH'] implicit=False ps="the only daughter among the three children of" sug=is child of
+   Q: Triolina, who is the only daughter among the three children of Sramake and Daliath, that is to say Mind and Body.
+[P5-A-B0014-003] S=['HELER', 'NELAT'] P=is child of O=['SRAMAKE', 'DALIATH'] implicit=True ps="The two sons were called" sug=is child of
+   Q: The two sons were called Heler and Nelat, and both are counted among the many husbands of Triolina.

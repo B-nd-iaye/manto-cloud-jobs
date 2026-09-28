@@ -1,0 +1,130 @@
+### CoRQ-Pr:00656 | CoRQ-Pr | pdf.106 | Malkioni, Orlanthi, and Yelm Pantheons: Goddess of Dusk
+FIGURES: LIGHTBRINGERS, ORLANTH, RAUSA, YELM
+TEXT: #### (ROWSE-ah) #### Malkioni, Orlanthi, and Yelm Pantheons: Goddess of Dusk Rausa is a daughter of Yelm. When her father was slain by Orlanth, she wept tears of blood and retired to rule Luathela, the Land of Dusk that guarded the Gates to the Underworld. When Orlanth came to her on his Lightbringers Quest, she was more than happy to let him through her gates and locked them behind him. When the Sun returned, she opened her gates again so that Yelm could enter them each night.
+TARGETS: mourns
+
+### CoRQ-Pr:00687 | CoRQ-Pr | pdf.110 | See *Heort, Vingkot
+FIGURES: HEORT, SECOND SON
+TEXT: For six generations, Hengall was never heard from again by any of the Vingkotlings, or by their allies. When the world had finally died, and every man was alone, Heort went out upon the world. There, at the edge of the world, Heort met with the Second Son, who told him of his great and terrible battle. The Second Son showed Heort his wounds, and the secret of the Star Heart, and told him the secrets of the I Fought We Won Battle.
+TARGETS: speaks / prophesies; dies
+
+### CoRQ-Pr:00692 | CoRQ-Pr | pdf.111 | Kralorelan Pantheon: Antigod, the Demon Emperor
+FIGURES: DARUDA, DRAGON EMPEROR, OORSU SARA, RED GODDESS, SEKEVER, SEVEN MOTHERS
+TEXT: Sedenya was resurrected by the Seven Mothers as the Red Goddess. Sedenya is the source of all powers that are recognized as being cyclical. #### SEKEVER #### (SEK-ee-ver) ### Kralorelan Pantheon: Antigod, the Demon Emperor Sekever was one of many antigods who helped Oorsu Sara conquer the world. When Oorsu Sara cursed Kerandaruth, Sekever led an army of demons and corpses to take over that land and conquered the Land of Splendor with Ignorance. When Daruda came, the Dragon Emperor blasted the demon kin and banished Sekever to the Underworld
+TARGETS: curses; punishes / exiles
+
+### CoRQ-Pr:00693 | CoRQ-Pr | pdf.111 | Kralorelan Pantheon: Antigod, the Demon Emperor
+FIGURES: BLACK SUN, DARUDA, SEKEVER
+TEXT: Sekever learned the secrets of martial arts while in the Underworld and later emerged from the Underworld. He conquered Kralorela, banished Daruda's heirs, and even caused the Minister of Fire to hide himself away so that the land was dark and cold. Sekever then sacrificed to his hidden god and Basko the Black Sun rose into the sky and sent rains of blood across the world.
+TARGETS: punishes / exiles
+
+### CoRQ-Pr:00696 | CoRQ-Pr | pdf.111 | SERABA
+FIGURES: ERNALDA, ODAYLA, SERABA
+TEXT: #### (SER-ah-bah) Orlanthi Pantheon: Earth Goddess of Sylila Seraba is the Earth goddess of Old Cafol, a daughter or aspect of Ernalda. She was hunted by Odayla, and she became his wife and tamed him with civilized arts. Together they built Cafol, tamed the dog-people, and are the ancestors of the Sylilings.
+TARGETS: hunts
+
+### CoRQ-Pr:00705 | CoRQ-Pr | pdf.112 | SESHNA LIKITA
+FIGURES: FROALAR, GOD LEARNERS, HRESTOL, SERPENT KINGS, SESHNA LIKITA
+TEXT: After the Dawn, the hero Hrestol slew Seshna Likita's daughter and was exiled from Seshnela. To appease the goddess for what Hrestol had done, Hrestol's father Froalar married Seshna Likita, and their children were the Serpent Kings. Seshna Likita's worship was changed by the God Learners, conducted differently than as of old, taking away from the goddess without feeding her. Seshna strained against their perverted worship, which caused her to slowly twist around and around.
+TARGETS: punishes / exiles
+
+### CoRQ-Pr:00725 | CoRQ-Pr | pdf.115 | Malkioni Pantheon: Founder of Modern Loskalm
+FIGURES: SIGLAT
+TEXT: #### (SIG-lat) ### Malkioni Pantheon: Founder of Modern Loskalm Loskalmi hero, founder of the current regime, and son of Snodal. Siglat was a demigod, for his mother was an immortal called Damosel of the Black Veil and his father was the hero Snodal. She handed the child over to Snodal to raise and was never heard from again. Siglat was a prodigy, but not superhuman. He had the best instructors, being raised at the court of Loskalm, and was esteemed for his modesty and virtue. When the Syndics Ban struck, he was a nobleman, and when the king died Siglat was selected to rule next. He did so wisely, ruling for most of the Syndics Ban. During that time, he and his advisors instituted fulfillment of Siglat's Dream, and after his death he was called the Good.
+TARGETS: dies
+
+### CoRQ-Pr:00730 | CoRQ-Pr | pdf.115 | See Donandar, Drogarsi, and Molamin
+FIGURES: DONANDAR, DROGARSI, HARANA ILOR, LARNSTE, MOLAMIN, SKOVARI
+TEXT: #### (skoe-VAR-ee) ### Orlanthi Pantheon: God of Folk Music and Dance ### See Donandar, Drogarsi, and Molamin Skovari is the son of Dance and Music, and grandson of Harana Ilor and Larnste. He lived in the Green Age, <span id="page-115-0"></span>when everyone was equal and love was strong. Skovari played his pipes, banged his tambourines, and sang his songs for the goddesses of the land and danced with the nymphs of the Earth. The gods and mortals sang and danced with him wherever he went.
+TARGETS: dwells at
+
+### CoRQ-Pr:00775 | CoRQ-Pr | pdf.123 | See Caladra and Aurelion, Lodril, Veskarthan
+FIGURES: CALADRA AND AURELION, LODRIL, MOSTALI, THED, VESKARTHAN
+TEXT: #### (TES-sel-AH) #### Orlanthi Pantheon: Demigoddess Guardian of Caladraland See Caladra and Aurelion, Lodril, Veskarthan Tessele is the demigoddess daughter of Aurelion and wielder of the Blazing Axe. When her twin brother Vortem was trapped and sacrificed by the followers of Thed, Tessele set off on an impossible quest for vengeance. She ultimately succeeded in reconstructing and resurrecting her lost soul-sibling. She befriended the Mostali with oaths of diamond and became the ruler of the Caladrans in the Silver Age.
+TARGETS: possesses / wields; avenges
+
+### CoRQ-Pr:00813 | CoRQ-Pr | pdf.128 | TYLOQUE
+FIGURES: ORLANTH, THUNDER BROTHERS, TYLENEA, TYLOQUE
+TEXT: As with all the other members of the Court, Tylenea now knows no active worship, for she died with the explosion of the Spike. #### **TYLOQUE** (Tie-LOE-kay) Orlanthi Pantheon: War God, One of the Thunder Brothers Tyloque is one of the Thunder Brothers and the son of Orlanth. He warred against the Artmali and ruled Pamaltela from his palace atop the Kunganjodun Mountains. Tyloque is depicted by the Umathelans as a warrior wielding a thunderbolt and an axe.
+TARGETS: possesses / wields; dies
+
+### CoRQ-Pr:00826 | CoRQ-Pr | pdf.130 | Universal: The Spike
+FIGURES: ACOS, CELESTIAL COURT, MOSTAL, URYARDA, UTRIAM
+TEXT: Uryarda is depicted as a goat or as a goat-headed woman. #### **Utriam** #### *(OO-tree-am)* #### *Universal: The Spike* Utriam is one of the names for the Spike, the Cosmic Mountain built by Acos and his son Mostal. Its immutable body and laws held the universe together. Within it was the Perfect Palace, where the Celestial Court resided.
+TARGETS: dwells at
+
+### CoRQ-Pr:00830 | CoRQ-Pr | pdf.130 | Orlanthi Pantheon: The Ill Wind
+FIGURES: GAGARTH, MOLANNI, VADRUS, VALIND
+TEXT: #### *(VAE-drus)* #### *Orlanthi Pantheon: The Ill Wind* Vadrus was a Storm god of unrestrained violence and its attendant destruction. His nameless minions, the Vadrudi, are still called upon when someone wants a destroying wind. Vadrus had some famous and hated children such as Valind, Gagarth, and Molanni.
+TARGETS: hates / fears
+
+### CoRQ-Pr:00835 | CoRQ-Pr | pdf.131 | Pantheons: The Good Sorcerer
+FIGURES: GOD LEARNERS, VALKARO
+TEXT: #### (VAL-kuh-roe) #### East Isles and Malkioni #### **Pantheons: The Good Sorcerer** Valkaro, disturbed at the perfidy of the Jrusteli Empire and the God Learners, left his rich home and lands to travel to the distant East Isles. There he preached the Malkioni Liberation and succeeded in converting all the inhabitants of one island to that philosophy. He defended his converts against the Eastern Sea Empire in a famous war instigated by Brithini diplomats.
+TARGETS: dwells at
+
+### CoRQ-Pr:00843 | CoRQ-Pr | pdf.132 | Yelm Pantheon: Crocodile God
+FIGURES: MOHENGUS, OSLIRA, VARNAGA, YELM
+CONTEXT: Varama. He is now a slave, a bright orb of fire chained to an unyielding path, trapped by duty to his task. #### VARCHULANGA #### (VAR-choo-LANG-gah) #### Merfolk Pantheon: Mother of Monsters Varchulanga is the origin of both the common and the unique monsters which live in the ocean depths. She can be fended off with propitiatory worship and is often called upon to destroy foes of the sea.
+TEXT: She is not shown, as standard among the merfolk. The Waertagi worship her, but also fashion no images of her. #### VARNAGA #### (var-NAH-gah) #### Yelm Pantheon: Crocodile God Varnaga, the Crocodile God, floats under Oslira's waters; he is one of her servants and is her primary protector. When Mohengus came to demand service from Oslira, Varnaga bit him and sent him off. Mohengus then built bulwarks to keep Varnaga out of Yelm's land. When Yelm heard of this, he called Varnaga vile and bloody, declared him outlawed, and ordered all his people to slay him and his children.
+TARGETS: punishes / exiles
+
+### CoRQ-Pr:00860 | CoRQ-Pr | pdf.134 | Goddess of Youth and Innocence
+FIGURES: RED GODDESS, VERITHURUSA
+TEXT: The Lunars say Verithurusa is one of the Seven Ancient Forms of the Red Goddess and is associated with Full Half Moon. She left her place in the Sky to do many things that were innocent, unwise, and foolish. She broke ranks, ignored her imperial father, believed a liar, was robbed, stripped of everything, impregnated, and outlawed from the Sky. She also
+TARGETS: punishes / exiles
+
+### CoRQ-Pr:00863 | CoRQ-Pr | pdf.134 | See Lodril, Lowfires
+FIGURES: ARGAN ARGAR, ONLY OLD ONE, VESKARTHAN
+TEXT: Veskarthan fought with Argan Argar in the Darkness and was defeated. The Dark God forced Veskarthan into humiliating chains of shadow and had him build an immense palace of black glass for the Only Old One. Veskarthan is depicted as a man with flaming hair and beard and wielding a burning spear. His statues are often made of igneous rock.
+TARGETS: possesses / wields
+
+### CoRQ-Pr:00865 | CoRQ-Pr | pdf.135 | Golden Sun Goddess
+FIGURES: VIJAYA
+TEXT: (vee-JAY-ah) Vormaino Pantheon: #### Golden Sun Goddess Vijaya is the sun goddess, and the goddess of rebirth and renewal. She died in the God Time but was alive when the antigods were cleansed from Vormain. Now she is born every morning, lives her life as she crosses the Sky Dome, then dies and travels through the Underworld, only to be reborn with the Dawn.
+TARGETS: dies
+
+### CoRQ-Pr:00883 | CoRQ-Pr | pdf.137 | Vralos, Goddess of Peas
+FIGURES: ALDRYA, ERNALDA, FLAMAL, GATA, HIGH KING ELF, ORLANTH, PAMALT, UMATH, VOVISIBOR, VRALA
+TEXT: Vovisibor hobbles across the vast plains of Pamaltela each Sacred Time, only to be felled again by Pamalt. Every time it appears it is wrapped in rotten meat and degenerate plant parts, caked with dung. #### **VRALA** (VRAE-lah) Malkioni and Orlanthi Pantheons: Land Goddess of #### Vralos, Goddess of Peas Vrala was another daughter of Gata and Pamalt; and like her sister she welcomed Aldrya. She took many lovers, including Flamal, Pamalt, Umath, and later his son Orlanth. When Flamal was slain by the trolls, Vrala followed Ernalda into sleep, and the land slept until the Dawn, guarded by High King Elf. She is associated with peas.
+TARGETS: sleeps / wakes
+
+### CoRQ-EG:00006 | CoRQ-EG | p.6 | Where Did the World Come From?
+FIGURES: ALDRYA, ARGAN ARGAR, ASRELIA, BABEESTER GOR, BARNTAR, BLOODY TUSK, CALADRA AND AURELION, CHALANA ARROY, DONANDAR, EARTH WITCH, EIRITHA, ERNALDA, FLAMAL, GENERT, GRAIN GODDESSES, HYKIM AND MIKYH, LODRIL, MAGASTA, MARAN GOR, ORLANTH, PAMALT, RIVER DEITIES, STORM BULL, TY KORA TEK, ULERIA, VORIA, YELM, YELMALIO
+TEXT: A lesser position was held by Ernalda's consort, a thundering god who brought the fertilizing rain, without whose help the Earth Mother could not conceive. The Earth suffered greatly in the Gods War. When Death came and Darkness murdered Flamal, many goddesses fled to the Underworld. Genert was destroyed by Chaos, and the bountiful garden became the desolate Wastelands. The Earth died but was revived with the Great Compromise. Time meant that each year the Earth must cycle through the seasons, being reborn each Sacred Time. Earth Cults: Aldrya, Asrelia, Babeester Gor, Barntar, Bloody Tusk, Caladra and Aurelion, Chalana Arroy, Donandar, Earth Witch, Eiritha, Ernalda, Flamal, Grain Goddesses, Hykim and Mikyh, Maran Gor, River Deities, Ty Kora Tek, Uleria, Voria. Husband Deities: Argan Argar, Flamal, Lodril, Magasta, Pamalt, Orlanth, Storm Bull, Yelm, Yelmalio.
+TARGETS: dies
+
+### CoRQ-EG:00015 | CoRQ-EG | p.8 | Babeester Gor
+FIGURES: BABEESTER GOR
+TEXT: Babeester Gor The Avenging Daughter and Sacred Guardian When the Gods War made the world evil the earth brought forth its own grim defender. Babeester Gor was born from her mother's corpse, axes in hand, body ritually scarred to carry deadly magic. She destroyed all kin-slayers, all oathbreakers who swore by her mother, and everything that desecrated the sacred places of the earth.
+TARGETS: breaks oath; avenges
+
+### CoRQ-EG:00034 | CoRQ-EG | p.11 | Voria
+FIGURES: ERNALDA, GRAIN GODDESSES, LIGHTBRINGERS, VORIA
+TEXT: Voria Spring Virgin Spring's Handmaiden was born of Ernalda, begat in the joy of the Underworld after the arrival of the Lightbringers. She is always portrayed as a youthful virgin. Her appearance awakens the Grain Goddesses to awake at the start of a new year, and persons seeking a propitious start in a venture sacrifice to her.
+TARGETS: sleeps / wakes
+
+### CoRQ-EG:00036 | CoRQ-EG | p.11 | Yelmalio
+FIGURES: ORLANTH, YELMALIO
+TEXT: Yelmalio The Bright God After the sun fell and the sky drew far off, when the volcanoes went cold and the hearthfires were but glowing coals, Yelmalio remained. Wounded, robbed, and hounded from place to place, Yelmalio carried the spark of life throughout the Darkness. Frozen, limping through the leafless forests, the glow of Yelmalio warmed the elves and humans who clung to the light. He fought fiercely and, in the Greater Darkness, even aided Orlanth, an old foe who begrudgingly settled their feud.
+TARGETS: hates / fears; possesses / wields
+
+### CoRQ-EG:00040 | CoRQ-EG | p.15 | Before Time
+FIGURES: ALDRYA, ASRELIA, CELESTIAL COURT, EIRITHA, ERNALDA, FLAMAL, GATA, MARAN GOR, TY KORA TEK, YELM
+TEXT: In the rich and fertile land north of the Spike, Gata birthed twin daughters, Asrelia and Ty Kora Tek, who dwell deep within the earth. Gata gave that land to Asrelia, who in turn had twin daughters, Maran Gor and Ernalda. When Ernalda came of age, Asrelia gave the land to her, which became known as Ernaldela, along with her primacy among the earth goddesses. Ernalda lived in the foothills of the Spike; when the Spike was destroyed, she inherited Gata's power. Ernalda's beauty and bounty brought life to the land, and she was the Earth Mother and Source of Life. Many suitors vied for Ernalda's favors, and she gave them freely. With Flamal the God of Vegetation, she conceived Aldrya the Forest Goddess. With Hykim the Father of Beasts, she conceived Eiritha the Herd Mother. With a myriad of lovers and magical activities, Ernalda was responsible for most of the life on the Earth. Ernalda had a great love for her many children, and they bloomed and multiplied and came to cover the whole earth. Among her favorites were the serpents that wound around her and whispered secrets in her ear. The power of the feminine came forward in this Green Age, and women and girls dominated the deities of the earth. There was no drought or famine, and everything was good. Ernalda gave us weaving, sowing, marriage rites, and the love of family. Everyone lived in peace and plenty all their lives, which went on forever. The cosmos was filled with existence and new life. The Celestial Court handed rulership of the cosmos over to Yelm, who came and inaugurated the Golden Age. Yelm took Ernalda as his concubine and demanded absolute submission
+TARGETS: dwells at
+
+### CoRQ-EG:00042 | CoRQ-EG | p.15 | Since Time Began
+FIGURES: ARKAT, BROKEN COUNCIL, DENDARA, ERNALDA, GOD LEARNERS, GRAIN GODDESSES, LOKAMAYADON, NYSALOR, ONLY OLD ONE, ORLANTH, SECOND COUNCIL
+TEXT: Since Time Began At the Dawn, Ernalda returned from the Underworld and brought the blessings of renewed life to the world. The ruling women of Esrolia, who had survived the Great Darkness under the protection of the Only Old One, welcomed the Earth Mother back to her home. Esrolia joined the Theyalan Council and thrived under the peace of the Only Old One. Ernalda was also welcomed by the Dawn Age Heortlings, who also joined the Theyalan Council, and her cult quickly spread among the Theyalan peoples. The Grain Goddesses were awakened, and agriculture spread to neighboring lands. Even those who fought against Orlanth embraced Ernalda and Saird became a stronghold of the cult. During the Second Council, the Ernalda priestess Erilindia became the ruler of Terarir and was instrumental in the rise of Lokamayadon. Ernalda was welcomed in Ralios as the Green Lady; in other places, the Grain Goddesses were the subject of devotion and worship. The Ernalda cult was on both sides of the Broken Council. In lowland Peloria, her cult was supplanted by that of Dendara, a similar goddess. In Esrolia the cult secretly aided Arkat while outwardly supporting the empire of Nysalor. In the Second Age, both the God Learners and the Empire of the Wyrms Friends vied for Ernalda's magic. The Ernalda
+TARGETS: sleeps / wakes
+
+### CoRQ-EG:00061 | CoRQ-EG | p.21 | Babeester Gor, the Avenging Daughter, was born from
+FIGURES: BABEESTER GOR, ERNALDA
+TEXT: The Volcano Twins are the younger sister and brother of Ernalda. They provide their mighty sister with Fertilize. Babeester Gor, the Avenging Daughter, was born from Ernalda's corpse in the Great Darkness and went on to avenge all the wrongs done to the Earth. Ernalda gave Babeester Gor her famous Earth Shield, as she herself had little use for it. Babeester Gor now teaches Earth Shield.
+TARGETS: avenges
+
+### CoRQ-EG:00064 | CoRQ-EG | p.22 | Hippoi
+FIGURES: AETHER, ERNALDA, FEATHERED HORSE QUEEN, GALANIN, HIPPOI
+TEXT: Hippoi Hippoi was born pure-white and innocent in the eternal reaches of the pure Aether, whole and powerful and proud. She was also winged and nailed and toothed. As was common in the God Time, Hippoi travelled much, and during the Gods War, the Great Horse suffered at the hands of violence. The myths of the gradual destruction of the Great Horse are widespread. In Ralios, the Great Horse had her claws broken, in Fronela, her fangs shattered, and in the far east, a demon tore off her wings. In Ralios, there are tales of Galanin the Horsebreaker, whose several sons carried the skill far and wide across the world so that many peoples learned to capture and tame the wild horse. Ernalda took pity upon Hippoi and cared for her. She let Hippoi run free across her broad lands and fed her from her bounty. In Saird, Hippoi is often closely associated with the Ernalda cult, while in Dragon Pass, the Feathered Horse Queen proved that Hippoi now serves Ernalda. She provides the Earth Goddess with the special Rune spell of Speak with Horse.
+TARGETS: possesses / wields

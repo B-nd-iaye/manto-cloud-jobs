@@ -1,0 +1,127 @@
+### WOD-JR:01217 | WOD-JR | WOD-JR 36463 (Orlanth and the Red Goddess) | Select Month September 2026
+FIGURES: GBAJI, ORLANTH, RED GODDESS
+TEXT: The birth of a new god or demon is always an attraction, and so Orlanth was there to see when Gbaji was born, and the Machine God was made, and when the Red Goddess cheated her way to acceptance. The Red Goddess had begun as almost nothing: a petty spirit, one among many which sought power in the world. She was aided by sorcerers and a priest of Gbaji, and the spirit possessed an innocent girl to gain life. She was called Shepelkirt, or Poison Blood, when the Orlanthi priests saw her in their dreams.
+TARGETS: possesses / wields
+
+### WOD-JR:01220 | WOD-JR | WOD-JR 36463 (Orlanth and the Red Goddess) | Select Month September 2026
+FIGURES: ALAKORING DRAGONBREAKER, RED GODDESS
+TEXT: One day the Red Goddess angered Vyran, the queen of Castle Blue. The two women argued, and Vyran sent three of her swift foot servants to avenge her lover's wounds. All three were slain, and crippled so they could never walk again. Then two women in red and a man in crimson were captured attempting to bring slime worms into the castle, and they were executed. So then the Scarlet Warlord came, with his companions, to wreak vengeance and impress the Red Moon Empress by his act of heroism. Alakoring Dragonbreaker, the famous warrior, was supping at the Blue Castle that day, and said, "If I could fight that man myself, I'd be so eager that my sword would raise itself from my sheath." The weapon then lifted silently from its sheath, and everyone knew that the Great Compromise had somehow been broken. Alakoring slew the first of these Scarlet Warlords, and the Battle of Castle Blue was begun.
+TARGETS: avenges
+
+### WOD-JR:01227 | WOD-JR | WOD-JR 36463 (Orlanth and the Red Goddess) | Select Month September 2026
+FIGURES: ARGRATH, THE DRAGONS
+CONTEXT: bowshot around the Oronin lake, fell. The castle flickered a few moments, and the Red Goddess and her entourage departed in great pomp and ceremony. And there, deep in the body of Orlanth, was the wound which she had made, and which was her own entry into the world of Order. Now, the Red Goddess is immortal, and it is only the last secret of Orlanth which keeps the world from Chaos once again.
+TEXT: This is a "tale" not a myth or cult secret told to initiates. More something you might hear sung by poets or written by scribes. I expect like with the Orlanthi, the Lunar tales vary. But the most common rants about evil Argrath raising dragons, animal nomads, allying with monsters, and doing all sorts of cheating things.
+TARGETS: speaks / prophesies
+
+### WOD-JR:01230 | WOD-JR | WOD-JR 34831 (Inkarne, the Feathered Horse Queen) | Artist, Anna Orlova
+FIGURES: DENDARA, ERNALDA
+TEXT: The Grazers were doomed and dying, and soon to be torn apart. Their Dendara-Horse Priestess delved deep into the womb of the Earth hoping to find some ancient secret that would help them survive. She did, and returned with Ernalda (and not Dendara) and the source of sovereignty. She defeated the Yelmites of the Pure Horse People and forced them to submit to the sovereignty of the Goddess in Her land. She proved herself the incarnation of the Earth Goddess and the gods competed for her favor. She married the cleverest and strongest of them and ensured that the Grazelands would have their place in Dragon Pass.
+TARGETS: dies
+
+### WOD-JR:01237 | WOD-JR | WOD-JR 35158 (Dara Happa Cities) | Select Month September 2026
+FIGURES: DENDARA, POLARIS, RED GODDESS, YELM
+TEXT: The Lunar Way offers alternatives, and within the Lunar cults, women enjoy equal rights to men. As the Yelmic leadership IS Lunar, this means that effectively the Lunar Way has greatly moderated traditional Dara Happan patriarchy. The traditional cults such as Yelm, Dendara, Polaris, etc, which have thoroughly accepted the Red Goddess as part of the celestial heirarchy and acknowledge her place within that pantheon. Dara Happa is less multicultural than Dragon Pass or the Holy Country. Almost everyone is at least a lay member of a Lunar cult. Almost everyone speaks New Pelorian as their primary language. Most foreigners people encounter are merchants or slaves, or the occasional folk from the Provinces or the West Reaches.
+TARGETS: speaks / prophesies
+
+### WOD-JR:01254 | WOD-JR | WOD-JR 32586 (A taxonomy of Glorantha life) | Image links
+FIGURES: ORLANTH, RED GODDESS
+TEXT: Greg came up with this system very early on. Long before anyone had a glimmer of Orlanth or the Red Goddess. That's the God Learner taxonomy and I prefer to keep it. Ducks are either birds cursed with intelligence and flightlessness, or men cursed with beaks and feathers. Simple as that!
+TARGETS: curses
+
+### WOD-JR:01274 | WOD-JR | WOD-JR 32705 (Varmandi Clan) | Magic
+FIGURES: ERNALDA, ORLANTH, VORIOF
+TEXT: The Varmandi support a minor temple to Orlanth Adventurous and shrines to Ernalda and Voriof. The clan's guardian spirit resides in the Oak of Vengeance, a sacred oak in the center of Oakton, and is the source of the clan's terrifying war cry and their ability to heal themselves in combat. The clan chief serves as the clan's chief priest. The clan is served by several spirits (including a badger spirit that is the source of the clan's taboo against harming that animal) and Air elementals. The clan chieftain possesses the Lerith Sword, an ancient magical weapon, and the clan also has several minor magical artifacts. The clan is strong with war and combat magic but is quite weak with fertility and earth magic.
+TARGETS: dwells at; possesses / wields; heals; avenges
+
+### WOD-JR:01278 | WOD-JR | WOD-JR 32707 (Orlmarth Clan) | Magic
+FIGURES: ERNALDA, ESROLA, LHANKOR MHY, ORLANTH, VORIOF
+CONTEXT: holds, including that of the chieftain and the crafters. The village controls access to the Starfire Ridges. Another 12 households live in four small hamlets scattered around the Nymie Vale below the Starfire Ridges. Five more households live in steads on the Starfire Ridge itself. About 100 members of the clan live outside of the clan territory, mostly in Clearwine Fort about 8 kilometers away.
+TEXT: There can be up to 300 young men residing on the Starfire Ridges, in several makeshift camps. ## Magic The Orlmarth maintain a minor temple to Orlanth Thunderous, and shrines to Ernalda, Esrola, Voriof, Orlanth Adventurous, and one more deity. The clan has five full-time priests, five martial thanes, and eight god-talkers. The clan sage of Lhankor Mhy is part of the Knowledge Temple in Wilmskirk. For more important Earth Magic, the Clearwine Earth Temple is nearby. The Orlmarth control access to a major temple to Orlanth atop the Starfire Ridges, which gives them access to many powerful cult spirits and Air elementals. The clan's magic is strongly oriented towards Air and Movement.
+TARGETS: dwells at
+
+### WOD-JR:01280 | WOD-JR | WOD-JR 32707 (Orlmarth Clan) | Lore
+FIGURES: COLYMAR, ORLANTH
+TEXT: In addition, there are often as many as 300 young men on the Starfire Ridges, where they hunt, raid, and learn to fight as a group. These bands serve as skirmishers. ## Lore The Orlmarth priests are an oral repository of Orlanth cult lore and of Colymar songs going back three centuries. The clan has a reputation for singing, typically accompanied by drumming.
+TARGETS: hunts
+
+### WOD-JR:01283 | WOD-JR | WOD-JR 35403 (Hiording Clan) | Magic
+FIGURES: BARNTAR, COLYMAR, ERNALDA, ISSARIES, ORLANTH, ULERIA
+TEXT: Minor temple to Orlanth Thunderous and Ernalda, with a shrine to Barntar. Apple Lane has shrine to Uleria, shrine to Issaries. The clan spirit resides in a cloak of swan feathers worn by the chief priestess. The clan Earth priestess speaks to the clan wyter, which resides in a cloak of swan feathers worn by her. The chieftain is the clan's Storm Voice and serves as warleader and judge. The chief Orlanth Thunder Priest of the Colymar Tribe belongs to the clan.
+TARGETS: dwells at; speaks / prophesies
+
+### WOD-JR:01291 | WOD-JR | WOD-JR 35405 (Manifestations of Gods) | Select Month September 2026
+FIGURES: HUMAKT, YELMALIO
+TEXT: We know something about these manifestations, because often they are us. When we duel honorably with swords, we are Humakt. When we persevere in the Darkness after having lost everything, we are Yelmalio. We wield the power of these Gloranthan gods when we cast Rune magic. We tell stories about them as we have witnessed or even participated in their deeds.
+TARGETS: possesses / wields
+
+### WOD-JR:01292 | WOD-JR | WOD-JR 35405 (Manifestations of Gods) | Select Month September 2026
+FIGURES: AROKA, EURMAL, FLAMAL, HUMAKT, ORLANTH, VADRUS, YELM
+TEXT: But these stories, deeds, and names are just manifestations of deeper archetypes in the world. But these stories and deeds are often contradictory, given different names, or two versions of the same story often differ in key details. I saw Orlanth defeat Aroka, but I heard the same story told about Vadrus and Enkoshans. Orlanth killed Yelm with Death, but I heard another story where it was Humakt, or even Eurmal who killed Flamal with Death. I even heard a story where Eurmal is an alligator. All of these stories are true. But some truths work better than other truths.
+TARGETS: speaks / prophesies
+
+### WOD-JR:01297 | WOD-JR | WOD-JR 35405 (Manifestations of Gods) | So what makes Orlanth Orlanth? Is it just Air?
+FIGURES: HUMAKT, ORLANTH, STORM BULL
+TEXT: The God Time is our Multiverse. So what makes Orlanth Orlanth? Is it just Air? At the Dawn, the Thunderer and the Adventurer were often worshiped as separate gods. Pretty quickly the Theyalans recognised both as aspects of Orlanth, and that with a little preparation, a Thunderer could draw on Adventurer's magic and vice versa. And both were pathways to Orlanth. And so very quickly they became Orlanth Thunderous and Orlanth Adventurous.Were they originally different gods? Or just aspects of the same? Does it even make sense to talk about the divine in that way? What is clear is that it is easier and more useful to worship Orlanth as having a Thunderer aspect and an Adventurous aspect than to worship them as separate gods. While it is more useful to worship Orlanth as being separate from Storm Bull (although there have been efforts to say they are the same).Sometimes things that were once thought possible are proven to be no more. So once there were those in Ralios who said Orlanth and Humakt were the same god. But since the end of the First Age it has not been possible to wield Humakt's magic through Orlanth or vice versa.
+TARGETS: possesses / wields
+
+### WOD-JR:01300 | WOD-JR | WOD-JR 35405 (Manifestations of Gods) | So what makes Orlanth Orlanth? Is it just Air?
+FIGURES: EURMAL, GOD LEARNERS, ORLANTH
+CONTEXT: nd they are ALL true. So where does Horned Croc come from? I heard it was the time that Eurmal shape changed into an alligator in order to seduce Oslira and then get her to flood her banks. But if I recall, he couldn't remember how to change back, so he wandered around the world growling and biting and waddling until he managed to annoy Ourania so much she dispelled his illusion with her Truth.
+TEXT: Then there was the time Eurmal got eaten by a fish who then impregnated Kylerela the Floating Land who in turn gave birth to Eurmal. Remember, Eurmal is present in Glorantha. He's closely tied to Orlanth. And some God Learners feared that Eurmal is active and present in the God Time and not "fixed in place" by Time. There are some accounts of Thanor in the Second Age that made it sound like the Void in Episode 5 of Loki. Complete with every Eurmal variant all hanging out, not just the Tom Hiddleston and Richard E Grant and Sophia di Martino, but also Owen Wilson, Jonas Strand Gravli, Orlando Jones, and both Johnny Depp and Keith Richards. And Mr. Raccoon as well.
+TARGETS: hates / fears
+
+### WOD-JR:01305 | WOD-JR | WOD-JR 35405 (Manifestations of Gods) | So what makes Orlanth Orlanth? Is it just Air?
+FIGURES: HUMAKT, ORLANTH
+TEXT: Sometimes things that were once thought possible are proven to be no more. So once there were those in Ralios who said Orlanth and Humakt were the same god. But since the end of the First Age it has not been possible to wield Humakt's magic through Orlanth or vice versa.
+TARGETS: possesses / wields
+
+### WOD-JR:01306 | WOD-JR | WOD-JR 32747 (Sorcery serves only mortal will) | Select Month September 2026
+FIGURES: ARKAT, GOD LEARNERS
+TEXT: The God Learners went a step further and explored the God Time, following the paths revealed by Arkat. By exploring the God Time and understanding the myths of the gods, these sorcerers could gain tremendous insight into the functioning of the cosmos and create far greater magic than the First Age sorcerers could even imagine. The God Learners did truly blasphemous things in order to gain knowledge – and one was to manipulate the challenges and tests used to prove spiritual claims. They might use sorcery to create effects that could not be created through known Rune magic and then use that to prove their claims and force changes on cults. For although sorcery is not directly as powerful or immediate as Rune magic, with preparation it can be far more flexible, and sorcerers can craft spells that duplicate the effects of Rune magic. Think through the implications of that and be appalled. And this is why the God Learners are hated. Not the Monomyth, which has been embraced by thinkers everywhere. Not the Middle Sea Empire, gone for seven centuries. Not even the Goddess Switch or the Machine City. No, it is the corrosive impact of their approach on spiritual experimentation. In the Third Age people feared heroquesting because they feared what the God Learners did and what happened to them.
+TARGETS: hates / fears
+
+### WOD-JR:01313 | WOD-JR | WOD-JR 35402 (Changing Gods) | Select Month September 2026
+FIGURES: HUMAKT, ORLANTH
+TEXT: Sometimes things that were once thought possible are proven to be no more. So once there were those in Ralios who said Orlanth and Humakt were the same god. But since the end of the First Age it has not been possible to wield Humakt's magic through Orlanth or vice versa.
+TARGETS: possesses / wields
+
+### WOD-JR:01315 | WOD-JR | WOD-JR 35402 (Changing Gods) | Artist Loïc Muzy
+FIGURES: HUMAKT, ORLANTH
+TEXT: That's how this stuff happens in Glorantha. And survival is perilous enough that when someone proves they wield greater magic, that is a VERY convincing argument. What if an individual suddenly wielded Orlanth magic while worshipping an obscure aspect of Humakt, claiming to have retraced the ancient pathways linking the two via heroquesting? A few basic ground rules of these tests – the person has to be able to participate in the inner rites of the cult (in this case Humakt). That's the place only those initiated can perceive. That gets witnessed. They need to be able stay within the rites, without being forced out by guardian spirits and so on.
+TARGETS: possesses / wields
+
+### WOD-JR:01317 | WOD-JR | WOD-JR 32744 (Leika Blackspear) | Select Month September 2026
+FIGURES: COLYMAR, KALLYR STARBROW
+TEXT: Queen Leika Blackspear has got to be one of the toughest survivors in Sartarite tribal history. Once an adventurer, she became the Colymar tribal king after her second cousin King Kallai Rockbuster and his wife Beneva Chan were exiled by the Lunar Empire following in the wake of Starbrow's Rebellion. She managed to lead the tribe for a few years before Kallai's son Korlmhy (her second cousin once removed) returned from exile and overthrew her with Lunar military aid. Leika took the Black Spear – the sacred regalia of the tribe – and fled to Whitewall, where she joined the household of King Broyan (and where she gained an intense personal rivalry with another exile – Kallyr Starbrow). For the next decade, she fought against the Lunar Empire, defending Whitewall, in the Hendriki uprising, in Nochet, and at the Battle of Pennel Ford. In 1625, Leika was present when King Broyan was killed by Lunar magic, and when the Dragonrise happened, Leika did not follow Kallyr to Boldhome but went to Clearwine Fort with her companions.
+TARGETS: punishes / exiles
+
+### WOD-JR:01318 | WOD-JR | WOD-JR 32744 (Leika Blackspear) | Select Month September 2026
+FIGURES: KALLYR STARBROW
+TEXT: Finding that Korlmhy was one of those missing at the Dragonrise, she proclaimed to a hastily gathered assembly that she was never lawfully deposed – to which the assembly agreed. Leika did not aid Kallyr at Dangerford, although she was among those tribal leaders who later proclaimed Starbrow Prince of Sartar. Her focus was on rebuilding her tribe after years of misrule by her cousin. She reluctantly gave minimal support to Kallyr's Lightbringer Quest, but the tribe suffered less than the others after its failure. The next year, Leika fought alongside Kallyr against the Lunar Army at the Battle of the Queens, and after the death of the Prince, Leika led the Sartarites to victory over the Lunar Army. However, Leika lacked the connection to the Sartar Dynasty that could have made her Prince. So after Kallyr's body was burned in Boldhome, Leika and her supporters returned to Clearwine Fort to regroup.
+TARGETS: dies
+
+### WOD-JR:01324 | WOD-JR | WOD-JR 32744 (Leika Blackspear) | Queen Leika Blackspear by Anna Orlova
+FIGURES: KALLYR STARBROW, ORLANTH
+TEXT: One of the interesting elements for Leika (and Kallyr) is that although we call her in English by the feminine "queen", she is a tribal Rex – a king – and the local manifestation of Orlanth Rex. And that means that Leika (and Kallyr) has a wife, at least for ceremonial purposes. There are stories that suggest that Kallyr's wife was Ernaldesta the Vigorous (although she had other husbands). And if I recall Ereneva Chan is Leika's wife. Which sets up two parallel pairs of female king-female Earth Priestess partnerships in Sartar. And interestingly both sides of that partnership are rivals, as Ereneva Chan intensely dislikes Kallyr, and blames Starbrow for the death of her father, exile of her mother, and even her brother's descent into madness and treason.
+TARGETS: dies
+
+### WOD-JR:01327 | WOD-JR | WOD-JR 32744 (Leika Blackspear) | Queen Leika Blackspear by Anna Orlova
+FIGURES: COLYMAR, KALLYR STARBROW
+TEXT: Leika, like most of the Colymar ruling group, blames Kallyr for launching a rebellion when the tribes weren't ready and didn't really have a long-term chance at success. As a result, Leika's cousin Kallai was exiled and later died, and the Colymar, who had been pretty much independent of the Empire, were subject to imperial diktat.
+TARGETS: dies; punishes / exiles
+
+### WOD-JR:01328 | WOD-JR | WOD-JR 32744 (Leika Blackspear) | Queen Leika Blackspear by Anna Orlova
+FIGURES: KALLYR STARBROW
+TEXT: At Whitewall, Leika came face to face with Kallyr, and that experience hardened and strengthened her assessment of Starbrow. Leika's cousin was exiled and later killed because of Starbrow's Rebellion. Her family suffered tragedies – outlawry, assassination, betrayal, etc. Kallyr is seen as the cause of that misfortune.
+TARGETS: punishes / exiles
+
+### WOD-JR:01333 | WOD-JR | WOD-JR 32743 (A few notes on Arkat) | Select Month September 2026
+FIGURES: ARKAT, GOD LEARNERS
+TEXT: The God Learners allied with the Kingdom of Seshnela and attacked Arkat's Dark Empire. Arkat's cult became military and religious figures, assuming more and more power, and Ralios became a true empire. Armies marched on the Dark Empire, whose resistance failed in 740 when the great temple of the Arkat cult was plundered and razed. His empire, and his cult, fell to conquerors who carried off his secrets, prizes, and wonders.The God Learners lacked the morality of the Arkat cult. They stemmed from Malkioni philosophers who insisted on the ultimate impersonality of the universe and feared no taboo or curse. Their courage and power were unquestionable, and they performed magical deeds previously unknown even to the gods.
+TARGETS: hates / fears; possesses / wields; curses
+
+### WOD-JR:01340 | WOD-JR | WOD-JR 32743 (A few notes on Arkat) | Select Month September 2026
+FIGURES: ARKAT
+TEXT: In many lands, tales of Arkat are often told. I think the most comparative figure is Alexander the Great, who 1500 years later still was the subject of popular romances from England to Thailand. Would a reasonably educated person in 1200 AD in Merv, Samarkand, Cairo, Acre, Constantinople, or Baghdad know his name?
+TARGETS: speaks / prophesies

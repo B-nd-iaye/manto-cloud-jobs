@@ -1,0 +1,300 @@
+[P5-A-B0047-002] S=['UROX'] P=fights O=['WAKBOTH'] MOD={"in_on_at": "ETERNAL BATTLE"} implicit=True ps="the conflict of Urox and Wakboth continues" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: It is a fragmented myth where the conflict of Urox and Wakboth continues.
+[P5-A-B0047-003] S=['CHALANA ARROY'] P=bestows magic / gifts O=['UROX'] implicit=False ps="healed Urox' many wounds" sug=heals
+   Q: Urox has a special relationship with Chalana Arroy, for she healed Urox' many wounds after his fight against the Devil.
+[P5-A-B0047-004] S=['UROX'] P=fights O=['MANY GODS'] implicit=False ps="fought many gods" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Urox has many enemies, for he fought many gods during the Darkness.
+[P5-A-B0047-005] S=['UROX'] P=fights O=['CHAOS'] implicit=True ps="His greatest enemy is" sug=hates
+   Q: His greatest enemy is Chaos, and Uroxi will join with enemies to fight the One Evil.
+[P5-A-B0047-006] S=['CHALANA ARROY'] P=bestows magic / gifts O=['UROX'] implicit=False ps="healed" sug=heals
+   Q: This is the day that Chalana Arroy healed Urox so that he could rise again.
+[P5-A-B0047-007] S=['UROX'] P=resurrects O=['WORLD'] implicit=True ps="led the world back to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: His rage calmed, and he led the world back to life.
+[P5-A-B0047-008] S=['UROX'] P=defeats O=['VESTKARTHEN'] implicit=False ps="victory over" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Extinguish Day commemorates Urox' victory over Vestkarthen, who thought that he was better than Orlanth and Urox.
+[P5-A-B0047-009] S=['UROX'] P=wounds O=['VESTKARTHEN'] MOD={"at_the_command_of": ["ORLANTH"]} implicit=True ps="gored him so that his heat flowed out and he cooled" sug=wounds
+   Q: Orlanth sent Urox to deal with him, and the Wild Wind gored him so that his heat flowed out and he cooled.
+[P5-A-B0047-010] S=['MARAN'] P=defeats O=['VESTKARTHEN'] implicit=False ps="another who defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Worshippers of Maran often join Urox on this day, for she is an ally against Chaos and another who defeated Vestkarthen.
+[P5-A-B0047-011] S=['UROX'] P=marries O=['EARTH GODDESSES'] implicit=False ps="married many" sug=is spouse of (qual=wedding)
+   Q: Urox married many Earth goddesses in Umath's Age and fathered many children.
+[P5-A-B0047-012] S=["UROX'S CHILDREN"] P=is child of O=['UROX'] implicit=False ps="fathered" sug=is child of
+   Q: Urox married many Earth goddesses in Umath's Age and fathered many children.
+[P5-A-B0047-013] S=['UROX'] P=defeats O=['WAKBOTH'] implicit=False ps="his defeat of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Urox' high holy day reenacts his defeat of Wakboth.
+[P5-A-B0047-014] S=['UROX'] P=dismembers O=['GIANT'] implicit=False ps="whose head Urox twisted off" sug=dismembers
+   Q: Stormwalk Mountain, the highest peak in the Storm Hills, was formed from the body of a giant whose head Urox twisted off.
+[P5-A-B0047-015] S=['GIANT'] P=transforms into O=['STORMWALK MOUNTAIN'] implicit=False ps="was formed from the body of" sug=transforms into
+   Q: Stormwalk Mountain, the highest peak in the Storm Hills, was formed from the body of a giant whose head Urox twisted off.
+[P5-A-B0047-016] S=['BASKELOS'] P=is child of O=['UROX'] implicit=False ps="his son" sug=is child of
+   Q: At the top of this mountain graze Urox' herds of zarur (see Anaxial's Roster, pg. 34), guarded by his son Baskelos.
+[P5-A-B0047-017] S=['BASKELOS'] P=protects O=["UROX' HERDS OF ZARUR"] MOD={"in_on_at": "STORMWALK MOUNTAIN"} implicit=True ps="guarded" sug=one of: protects, rescues / frees, aids
+   Q: At the top of this mountain graze Urox' herds of zarur (see Anaxial's Roster, pg. 34), guarded by his son Baskelos.
+[P5-A-B0047-018] S=['MINOTAURS'] P=claims ancestry O=['MINOTAUROS'] implicit=False ps="is descended from" sug=claims ancestry
+   Q: The minotaurs is descended from Urox' son Minotauros.
+[P5-A-B0047-019] S=['MINOTAUROS'] P=is child of O=['UROX'] implicit=False ps="Urox' son" sug=is child of
+   Q: The minotaurs is descended from Urox' son Minotauros.
+[P5-A-B0048-001] S=['FURY JARLS'] P=serves O=['UROX'] implicit=False ps="are beholden only to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Fury Jarls are beholden only to Urox, and always attract a large following of styrmen and jarls.
+[P5-A-B0048-002] S=['BINSTARNIF AWE'] P=is member of O=['POL JONI'] implicit=False ps="was a Pol Joni hero" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Binstarnif Awe was a Pol Joni hero, though he had orange skin.
+[P5-A-B0048-003] S=['VINGA'] P=protects O=['HEORTLINGS'] implicit=False ps="is also a primary protector of" sug=one of: protects, rescues / frees, aids
+   Q: Vinga is the warrior goddess for women, and is also a primary protector of the Heortlings.
+[P5-A-B0048-004] S=['VINGA'] P=fights O=['UZ'] implicit=True ps="drove off" sug=exiles / banishes
+   Q: She organized defenses and drove off the Uz.
+[P5-A-B0048-005] S=['VINGA'] P=fights O=['ELMAL'] implicit=False ps="the two raged on and on" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The first time Vinga lost her temper was when Elmal the Defender told her to keep off the palisades. || Her stormy wrath eclipsed even the bright torch of Elmal's righteousness, and the two raged on and on
+[P5-A-B0048-006] S=['VINGA'] P=fights O=[] MOD={"in_on_at": "HARAR BRIDGE"} implicit=False ps="brawled with the best at" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Vinga brawled with the best at Harar Bridge.
+[P5-A-B0048-007] S=['OLD SEA'] P=fights O=['ORLANTH'] MOD={"in_on_at": "CHESEROSOS"} implicit=False ps="ambushed" sug=invades / raids
+   Q: At Cheserosos, when the Old Sea ambushed Orlanth, she stubbornly held her place in the shieldwall and spoke only of final victory.
+[P5-A-B0048-008] S=['HANCHEROS'] P=kills O=['FYRD'] MOD={"in_on_at": "DOREROS"} implicit=False ps="drowned" sug=one of: kills, shatters, dies
+   Q: She fought at Doreros and escaped when Hancheros drowned the fyrd.
+[P5-A-B0048-010] S=['MADADAN'] P=binds O=['VINGA'] MOD={"in_on_at": "KONGARL"} implicit=True ps="swept her up" sug=binds
+   Q: She could not avoid the reach of Madadan, who swept her up at Kongarl with the rest of the women.
+[P5-A-B0048-011] S=['VINGA'] P=defeats O=['JIRIL'] MOD={"in_on_at": "THRINBARRI ROOFS"} implicit=True ps="cut him down" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: When Jiril tried to flee, she cut him down like a cowardly Vadrudi. || She honorably spared him when he surrendered
+[P5-A-B0048-012] S=['VINGA'] P=steals O=['JIRIL'] implicit=True ps="forced him to relinquish his powers" sug=steals
+   Q: She honorably spared him when he surrendered, but forced him to relinquish his powers.
+[P5-A-B0048-013] S=['VINGA'] P=is member of O=['WAR WOMEN', 'THUNDER BROTHERS'] implicit=False ps="fought among" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: At these battles, Vinga sometimes fought among the War Women and sometimes among the Thunder Brothers.
+[P5-A-B0048-014] S=['VINGKOT'] P=rules O=['THUNDER BROTHERS'] implicit=True ps="led them to conquer the peoples" sug=leads
+   Q: Vingkot led them to conquer the peoples and settle the recovered lands, from Sivilis to Velun.
+[P5-A-B0048-015] S=['VINGA'] P=is member of O=['WEAVER WOMEN'] MOD={"in_on_at": "LOOM HOUSE"} implicit=True ps="joined" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: She joined the Weaver Women in the Loom House
+[P5-A-B0049-001] S=['DEFENDER STORM'] P=protects O=['HEORTLINGS'] implicit=False ps="has protected" sug=one of: protects, rescues / frees, aids
+   Q: since then her Defender Storm has protected the Heortlings from Valind and his followers.
+[P5-A-B0049-002] S=['VINGA'] P=teaches O=['CATTLE ORPHANS'] implicit=False ps="taught them to be men" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: When Odayla brought the starving Cattle Orphans to the stead, Vinga taught them to be men.
+[P5-A-B0049-003] S=['VINGA'] P=protects O=['ELMAL'] MOD={"in_on_at": "STONE FOREST", "using": "BRIGHT EYE"} implicit=False ps="tracked him ... bring him safely home" sug=rescues / frees
+   Q: When Elmal was lost and wounded in the Stone Forest, Vinga tracked him with her Bright Eye, found food to restore his strength, killed his adversary with Elmal's own spear, then forged a path to bring him safely home.
+[P5-A-B0049-004] S=['VINGA'] P=kills O=["ELMAL'S ADVERSARY"] MOD={"in_on_at": "STONE FOREST", "using": "ELMAL'S SPEAR"} implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: killed his adversary with Elmal's own spear
+[P5-A-B0049-005] S=['VINGA'] P=kills O=['GASH GRA NAK'] MOD={"using": "PLOW"} implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: She killed the Uz ravager Gash Gra Nak with a plow borrowed from Barntar
+[P5-A-B0049-006] S=['BARNTAR'] P=bestows magic / gifts O=['PLOW'] IO=['VINGA'] implicit=True ps="borrowed from" sug=bestows
+   Q: She killed the Uz ravager Gash Gra Nak with a plow borrowed from Barntar
+[P5-A-B0049-007] S=['GASH GRA NAK'] P=is member of O=['UZ'] implicit=False ps="the Uz ravager" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the Uz ravager Gash Gra Nak
+[P5-A-B0049-008] S=['VINGA'] P=fights O=['EAT YOU ARMY'] MOD={"with_the_aid_of": ["VORIOF"]} implicit=True ps="bluffed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: bluffed the Eat You Army by having Voriof mount straw warriors on the backs of his many sheep.
+[P5-A-B0049-009] S=['VINGA'] P=protects O=['DRENYAN RED CLAW'] MOD={"in_on_at": "GRIZZLY PEAK"} implicit=False ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: On Grizzly Peak, Vinga protected her friend Drenyan Red Claw from the Marching Teeth as she labored to give birth to Heort the Swift.
+[P5-A-B0049-010] S=['HEORT'] P=is born from O=['DRENYAN RED CLAW'] MOD={"in_on_at": "GRIZZLY PEAK"} implicit=True ps="labored to give birth to" sug=is born from
+   Q: Drenyan Red Claw from the Marching Teeth as she labored to give birth to Heort the Swift.
+[P5-A-B0049-011] S=['VINGA'] P=protects O=['THE STEAD'] implicit=False ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: All that time, Vinga protected the stead.
+[P5-A-B0049-012] S=['VINGA'] P=fights O=['UZ'] implicit=False ps="met the Dark Folk with cunning" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When Uz attacked, Vinga met the Dark Folk with cunning.
+[P5-A-B0049-013] S=['VINGA'] P=fights O=['CHAOS'] MOD={"using": "BRONZE JAVELIN"} implicit=True ps="met it with fury" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When unthinking Chaos sought to devour, she met it with fury and a bronze javelin.
+[P5-A-B0049-014] S=['VINGA'] P=protects O=['ERNALDA'] implicit=True ps="guard" sug=one of: protects, rescues / frees, aids
+   Q: it was so that she could go to guard Ernalda and clutch her portion of the Cosmic Web that imprisoned Wakboth.
+[P5-A-B0049-015] S=['COSMIC WEB'] P=binds O=['WAKBOTH'] implicit=False ps="imprisoned" sug=binds
+   Q: the Cosmic Web that imprisoned Wakboth.
+[P5-A-B0049-016] S=['VINGA'] P=protects O=['THE HEARTH'] implicit=True ps="is the protector of" sug=one of: protects, rescues / frees, aids
+   Q: She is the protector of the hearth when all men are gone and an expression of the courage of women.
+[P5-A-B0049-017] S=['VINGA'] P=is identified as O=['GREAT ORLANTH'] implicit=True ps="functions as an aspect of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: at the same time functions as an aspect of Great Orlanth.
+[P5-A-B0049-018] S=['VINGA'] P=embodies O=["ORLANTH'S COMPASSION"] implicit=True ps="is" sug=one of: embodies, has domain
+   Q: Her worshippers understand that she is Orlanth's compassion.
+[P5-A-B0049-019] S=['VINGA'] P=is child of O=['ORLANTH'] implicit=True ps="her father" sug=is child of
+   Q: She is closely identified with her father Orlanth, and is one of the Thunder Brothers.
+[P5-A-B0049-020] S=['VINGA'] P=is member of O=['THUNDER BROTHERS'] implicit=True ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: She is closely identified with her father Orlanth, and is one of the Thunder Brothers.
+[P5-A-B0049-021] S=['VINGA'] P=challenges O=['ELMAL'] implicit=True ps="has a sometimes hostile rivalry with" sug=one of: challenges, breaks oath, betrays, fights
+   Q: She has a sometimes hostile rivalry with Elmal, resulting from their mutual responsibility for protecting the stead and the different ways they go about it.
+[P5-A-B0049-022] S=['VINGA'] P=serves O=['ORLANTH'] implicit=True ps="obeys" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Vinga obeys her father, however, but rarely anyone else
+[P5-A-B0049-023] S=['VINGA'] P=fights O=['UZ', 'CHAOS', 'VALINDING GODS'] implicit=True ps="greatest foes are" sug=hates
+   Q: Her greatest foes are the Uz, Chaos, and the Valinding gods of ice and winter.
+[P5-A-B0049-024] S=['VINGA'] P=bestows magic / gifts O=["ORLANTH'S MAGIC"] IO=['WOMEN'] implicit=False ps="gives them access to" sug=one of: bestows, heals, imbues, teaches
+   Q: Only women worship Vinga, who in return gives them access to Orlanth's magic.
+[P5-A-B0049-025] S=['VINGA'] P=is child of O=['ORLANTH', 'ERNALDA'] implicit=True ps="the daughter of" sug=is child of
+   Q: her worshippers know her not as the daughter of Orlanth and Ernalda but as a human hero from Heort's time.
+[P5-A-B0049-026] S=['LUNAR FORCES'] P=shatters O=["DEFENDER'S FORT"] implicit=False ps="destroyed" sug=shatters
+   Q: Another important temple, Defender's Fort, stood in the hills north of Swenstown, but Lunar forces destroyed it after Starbrow's Rebellion.
+[P5-A-B0049-027] S=['VINGA'] P=is child of O=['ORLANTH'] implicit=False ps="is the daughter of" sug=is child of
+   Q: Vinga is the daughter of Orlanth, and so she commands a wind.
+[P5-A-B0049-028] S=['VINGA'] P=fights O=['VALIND'] implicit=True ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: when she fought Valind she revealed the power of the Defender Storm.
+[P5-A-B0049-029] S=['VINGA'] P=reveals O=['DEFENDER STORM'] implicit=True ps="revealed the power of" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: when she fought Valind she revealed the power of the Defender Storm.
+[P5-A-B0049-030] S=['VINGA'] P=is member of O=['THUNDER BROTHERS'] MOD={"at_the_instigation_of": ["THUNDER BROTHERS"]} implicit=True ps="accepted her into their ranks" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: It was at this time that the Thunder Brothers accepted her into their ranks as an equal.
+[P5-A-B0049-031] S=['VINGA'] P=fights O=['THE FORCES OF WINTER'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="holds back" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She holds back the forces of winter so that the people can better prepare against its coming.
+[P5-A-B0049-032] S=['VINGA'] P=departs from O=['INNER WORLD'] MOD={"to": "ORLANTH'S STEAD", "purpose_clause": "TO PROTECT"} implicit=True ps="departs" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: She then departs the Inner World to defend Orlanth's own stead throughout the Darkness
+[P5-A-B0049-033] S=['VINGA', 'OHORLANTH', 'THUNDER BROTHERS'] P=travels O=[] implicit=True ps="returns" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: returns in Storm Season with Ohorlanth and the rest of the Thunder Brothers.
+[P5-A-B0049-034] S=['DEFENDER STORM'] P=is alternative name for O=['VINGA'] implicit=False ps="Vinga the Defender Storm" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Vinga the Defender Storm has few initiates or devotees
+[P5-A-B0050-001] S=['RED WOMAN'] P=embodies O=['THE BLADE-STRENGTH OF ALL WOMEN'] implicit=False ps="is the blade-strength of" sug=one of: embodies, has domain
+   Q: The Red Woman is the blade-strength of all women.
+[P5-A-B0050-002] S=['ERNALDA'] P=protects O=["THE WORSHIPPER'S FERTILITY"] implicit=False ps="keeps safely" sug=one of: protects, rescues / frees, aids
+   Q: The worshipper must renounce her fertility, which Ernalda keeps safely until the Red Woman's vengeance or other task is completed.
+[P5-A-B0050-003] S=['VINGA THE AVENGER'] P=is alternative name for O=['RED WOMAN'] implicit=False ps="is another name for" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Vinga the Avenger is another name for the Red Woman.
+[P5-A-B0050-004] S=['WANDERING CHAOS OBSCENITY'] P=kills O=["VINGA'S LOVER", "VINGA'S HEARTH-MATES"] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: When a wandering Chaos obscenity killed her lover and hearth-mates, Vinga's fury and despair knew no bounds.
+[P5-A-B0050-005] S=["VINGA'S GRIEF"] P=transforms into O=['VENGEANCE'] MOD={"at_the_instigation_of": ["GUSTBRAN"]} implicit=True ps="forged it into" sug=transforms into
+   Q: Gustbran took the goddess' grief and forged it into a blade called Vengeance.
+[P5-A-B0050-006] S=['VINGA'] P=travels O=[] MOD={"via": ["NINE RAW MOUNTAINS", "EIGHT TERRIBLE VALLEYS"], "purpose_clause": "TO AVENGE"} implicit=True ps="tracked the raider's bloody trail over" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Loyal Daughter took the sword and tracked the raider's bloody trail over nine raw mountains and eight terrible valleys.
+[P5-A-B0050-007] S=['VINGA'] P=defeats O=['WANDERING CHAOS OBSCENITY'] MOD={"using": "VENGEANCE"} implicit=True ps="enacted a vengeance" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Finding the killer and its spawn in their lair, she enacted a vengeance so terrible and complete that even the monster's name is lost to our knowing.
+[P5-A-B0050-008] S=['NALDARA THREE CROPS'] P=is member of O=['ERNALDA CULT', 'SHOUTING ROCK CLAN'] implicit=True ps="was an Ernalda matchmaker of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Naldara Three Crops was an Ernalda matchmaker of the Shouting Rock clan.
+[P5-A-B0050-009] S=['GRAZERS'] P=kills O=["NALDARA'S FAMILY"] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: When raiding Grazers burned her stead and killed her entire family, Naldara took the path of the Red Woman.
+[P5-A-B0050-010] S=['NALDARA THREE CROPS'] P=is member of O=['RED WOMAN'] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="took the path of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Naldara took the path of the Red Woman.
+[P5-A-B0050-011] S=['NALDARA THREE CROPS'] P=kills O=['MALES OF THE GRAZER BAND'] implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: In time, she slew every male in the band.
+[P5-A-B0050-012] S=['ERNALDA'] P=bestows magic / gifts O=['HIDE SHIELD', 'BRONZE JAVELIN'] IO=['VINGA'] implicit=False ps="gave her" sug=one of: bestows, heals, imbues, teaches
+   Q: Ernalda saw that Vinga had made up her mind, so she gave her a hide shield and the bronze javelin that Orlanth had given her.
+[P5-A-B0050-013] S=['ORLANTH'] P=bestows magic / gifts O=['BRONZE JAVELIN'] IO=['ERNALDA'] implicit=True ps="had given her" sug=one of: bestows, heals, imbues, teaches
+   Q: the bronze javelin that Orlanth had given her.
+[P5-A-B0050-014] S=['ENFERALDA'] P=bestows magic / gifts O=['AMULET'] IO=['VINGA'] implicit=True ps="giving her" sug=one of: bestows, heals, imbues, teaches
+   Q: Only Enferalda supported her sister by giving her an amulet to give her strength when she needed it.
+[P5-A-B0050-015] S=['ENFERALDA'] P=is sibling of O=['VINGA'] implicit=True ps="her sister" sug=is sibling of
+   Q: Only Enferalda supported her sister by giving her an amulet to give her strength when she needed it.
+[P5-A-B0050-016] S=['VINGA'] P=challenges O=['BANSH BONE-BITER'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="decided to kill" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Vinga decided to kill him before they could, and thus prove that she was the equal of any of them.
+[P5-A-B0050-017] S=['VINGA'] P=challenges O=['BANSH BONE-BITER'] implicit=True ps="challenged" sug=one of: challenges, breaks oath, betrays, fights
+   Q: She challenged him, and he accepted by inviting her to dinner.
+[P5-A-B0050-018] S=['BANSH BONE-BITER'] P=fights O=['VINGA'] MOD={"using": "BOW"} implicit=True ps="shot an arrow tipped with a tooth at" sug=invades / raids
+   Q: He shot an arrow tipped with a tooth at Vinga, but she dodged it.
+[P5-A-B0050-019] S=['VINGA'] P=kills O=['BANSH BONE-BITER'] MOD={"using": "SWORD"} implicit=True ps="cut off Bansh's head" sug=one of: kills, shatters, dies
+   Q: She rushed forward, then drew her sword and in the very same motion cut off Bansh's head.
+[P5-A-B0050-020] S=['VINGA'] P=travels O=[] MOD={"to": "THUNDER BARRACKS"} implicit=False ps="set out for" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Vinga set out for the Thunder Barracks.
+[P5-A-B0050-021] S=['VINGA'] P=is child of O=['ORLANTH'] implicit=True ps="his daughter" sug=is child of
+   Q: Orlanth looked at his daughter in a new way, for she had never before carried a shield.
+[P5-A-B0050-022] S=['STARKVAL'] P=kills O=['KANKSTANK NEVERSLEEP'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: I killed Kankstank Neversleep, who rests only half his eyes at once.
+[P5-A-B0050-023] S=['KANKSTANK NEVERSLEEP'] P=swallows / consumes O=['SOULS OF MANY PEOPLE'] implicit=True ps="ate their souls" sug=swallows / consumes
+   Q: He killed many people and ate their souls.
+[P5-A-B0050-024] S=['BANSH BONE-BITER'] P=pledges oath with O=['KANKSTANK NEVERSLEEP'] implicit=True ps="swore loyalty to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Bansh Bone-biter swore loyalty to him.
+[P5-A-B0050-025] S=['HEDKORANTH'] P=defeats O=['VINGA'] implicit=False ps="she lost" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Vinga's stone went as far as Hedkoranth's, but his returned to his hand while hers did not, and so she lost.
+[P5-A-B0050-026] S=['DROGARSI'] P=defeats O=['VINGA'] MOD={"in_accordance_with": ["ORLANTH"]} implicit=True ps="pronounced Drogarsi the winner" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Orlanth pronounced Drogarsi the winner.
+[P5-A-B0050-027] S=['VANGANTH'] P=defeats O=['VINGA'] MOD={"in_accordance_with": ["ORLANTH"]} implicit=True ps="judged Vanganth the winner" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Orlanth judged Vanganth the winner, for he had flown on his own, without needing something to carry him.
+[P5-A-B0050-028] S=['VINGA'] P=manifests O=["VINGA'S WIND"] implicit=False ps="called her own wind" sug=summons / invokes
+   Q: Vinga called her own wind, which most of her brothers did not even know existed
+[P5-A-B0050-029] S=['FINOVAN'] P=is child of O=['ORLANTH'] implicit=False ps="the shrewdest of Orlanth's sons" sug=is child of
+   Q: Only Finovan, the shrewdest of Orlanth's sons, dared to speak.
+[P5-A-B0050-030] S=['FINOVAN'] P=is sibling of O=['VINGA'] implicit=True ps="My sister" sug=is sibling of
+   Q: My sister is second best at many things, but second best is not good enough in battle.
+[P5-A-B0050-031] S=['VINGA'] P=shatters O=['MARKING STONE'] MOD={"using": "JAVELIN"} implicit=True ps="shattered" sug=shatters
+   Q: She turned three circles and let her javelin fly with a piercing shriek, and all of her brothers watched in admiration as it flew a full mile and shattered the marking stone at the border of the next field.
+[P5-A-B0050-032] S=['VINGA'] P=is member of O=['THUNDER BROTHERS'] MOD={"in_on_at": "THUNDER BARRACKS"} implicit=True ps="their newest member" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the Thunder Brothers carried her into the Thunder Barracks on their shields so that they could toast their newest member with Minlister's best brew.
+[P5-A-B0050-033] S=['YINKIN'] P=is identified as O=['ALYNX GOD'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Yinkin is the Alynx God.
+[P5-A-B0050-034] S=['YINKIN'] P=is sibling of O=['ORLANTH'] implicit=True ps="his brother" sug=is sibling of
+   Q: his loyalty to his brother Orlanth.
+[P5-A-B0050-035] S=['YINKIN'] P=protects O=['ORLANTH'] MOD={"purpose_clause": "TO AID"} implicit=True ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: saved him in the Darkness so that he could finish his Lightbringer's Quest.
+[P5-A-B0050-036] S=['YINKIN'] P=fights O=['SERPENTBEAST'] implicit=True ps="Serpentbeast's foe" sug=hates
+   Q: Serpentbeast's foe
+[P5-A-B0050-037] S=['CLOUDS'] P=is child of O=['YINKIN'] implicit=True ps="father of clouds" sug=is child of
+   Q: father of clouds
+[P5-A-B0051-001] S=['SERPENTBEAST BROTHERHOOD'] P=binds O=['YINKIN'] implicit=True ps="seized" sug=binds
+   Q: the Brotherhood seized Yinkin again and demanded that he follow only his father, the great beast spirit Fralar.
+[P5-A-B0051-002] S=['YINKIN'] P=is child of O=['FRALAR'] implicit=True ps="his father" sug=is child of
+   Q: demanded that he follow only his father, the great beast spirit Fralar.
+[P5-A-B0051-003] S=['ORLANTH'] P=protects O=['YINKIN'] implicit=True ps="freed" sug=rescues / frees
+   Q: Yinkin stayed loyal to the Thunderer, who freed him again.
+[P5-A-B0051-004] S=['YINKIN'] P=alters mythic station O=[] implicit=False ps="decided to be a god and not a spirit" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: That was when Yinkin decided to be a god and not a spirit.
+[P5-A-B0051-005] S=['YINKIN'] P=defeats O=['SERPENTBEAST BROTHERHOOD'] implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Yinkin defeated the Brotherhood and kept many creatures alive that did not come from the Spirit World.
+[P5-A-B0051-007] S=['ORLANTH'] P=defeats O=['UROX'] MOD={"using": ["LARIAT", "STICK"], "purpose_clause": "TO PROTECT"} implicit=False ps="soundly beat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: when Urox bullied Yinkin, Orlanth soundly beat the Bull with a lariat and stick.
+[P5-A-B0051-008] S=['UROX'] P=fights O=['YINKIN'] implicit=False ps="bullied" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: when Urox bullied Yinkin
+[P5-A-B0051-009] S=['YINKIN'] P=protects O=['ORLANTH'] implicit=True ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: Yinkin in turn also saved his brother several times.
+[P5-A-B0051-010] S=['YINKIN', 'ORLANTH'] P=travels O=[] implicit=False ps="accompanied ... when he left in exile" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Yinkin even accompanied Orlanth when he left in exile
+[P5-A-B0051-011] S=['YINKIN'] P=protects O=['ORLANTH'] implicit=True ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: saved him when he caught the scent of an invisible enemy that was waiting in ambush.
+[P5-A-B0051-012] S=['YINKIN'] P=fights O=['MONSTERS'] implicit=False ps="preying upon" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: After Orlanth left the world Yinkin wandered the wilds, helping lost humans and preying upon monsters.
+[P5-A-B0051-013] S=['YINKIN'] P=teaches O=['PEOPLE'] implicit=True ps="taught people to hunt" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He taught people to hunt, and left litters of his descendants to help the humans.
+[P5-A-B0051-014] S=['YINKIN'] P=travels O=[] MOD={"in_on_at": "LAND OF THE DEAD"} implicit=False ps="wandered" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Yinkin wandered this Land of the Dead, growing weaker and weaker, for there were no creatures to hunt.
+[P5-A-B0051-015] S=['YINKIN'] P=discovers O=['FROZEN MAN'] implicit=True ps="happened upon" sug=discovers
+   Q: He happened upon the Frozen Man.
+[P5-A-B0051-016] S=['YINKIN'] P=protects O=['FROZEN MAN'] implicit=True ps="licked him until he thawed" sug=one of: protects, rescues / frees, aids
+   Q: Instead of eating the corpse-cold man, he licked him until he thawed.
+[P5-A-B0051-017] S=['FROZEN MAN'] P=is identified as O=['ORLANTH'] implicit=True ps="it was his own brother, Orlanth" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Yinkin was delighted to find that it was his own brother, Orlanth
+[P5-A-B0051-018] S=['ORLANTH'] P=bestows magic / gifts O=['LAST RATIONS'] IO=['YINKIN'] implicit=True ps="fed Yinkin his last rations" sug=one of: bestows, heals, imbues, teaches
+   Q: who fed Yinkin his last rations and went on with his Lightbringer's Quest
+[P5-A-B0051-019] S=['ARACHNE SOLARA'] P=manifests O=['NET OF THE GREAT COMPROMISE'] implicit=False ps="cast" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: he was present when Arachne Solara cast the Net of the Great Compromise.
+[P5-A-B0051-021] S=['YINKIN'] P=manifests O=["YINKIN'S CHILDREN"] implicit=False ps="is present in" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Yinkin is present in all of his children (whether mundane or magical), and in certain lovemaking and hunting techniques.
+[P5-A-B0051-022] S=['YINKIN'] P=has hybrid form O=[] implicit=True ps="a man with alynx features" sug=has anomalous form (qual=hybrid)
+   Q: Others show him as a man with alynx features, or rarely as a man with an alynx head.
+[P5-A-B0051-023] S=['YINKIN'] P=embodies O=['ALL ALYNXES'] implicit=False ps="the great soul of" sug=one of: embodies, has domain
+   Q: Yinkin is the Alynx God, the great soul of all alynxes.
+[P5-A-B0051-024] S=['YINKIN'] P=alters mythic station O=[] MOD={"purpose_clause": "TO AID"} implicit=True ps="chose to be the latter" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The Great Alynx was once a spirit and a god, but he chose to be the latter so that he could stay with his brother.
+[P5-A-B0051-025] S=['YINKIN'] P=teaches O=['ORLANTHI'] implicit=False ps="teaching them to be self sufficient by hunting" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Yinkin helped the Orlanthi through the Vingkotling Age and early Chaos Age, teaching them to be self sufficient by hunting and showing them how to fight off Chaos.
+[P5-A-B0051-026] S=['YINKIN'] P=embodies O=['THE SECRET PERCEPTION OF ORLANTH'] implicit=False ps="is the secret perception of" sug=one of: embodies, has domain
+   Q: In many myths, Yinkin is the secret perception of Orlanth
+[P5-A-B0051-027] S=['YINKIN'] P=departs from O=['FRALAR'] implicit=False ps="denied his father" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Because Yinkin denied his father, Fralar, and fought against the Serpentbeast Brotherhood, all beast spirits (and their hsunchen worshippers) are hostile to Yinkin.
+[P5-A-B0051-028] S=['YINKIN'] P=fights O=['SERPENTBEAST BROTHERHOOD'] implicit=False ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Because Yinkin denied his father, Fralar, and fought against the Serpentbeast Brotherhood, all beast spirits (and their hsunchen worshippers) are hostile to Yinkin.
+[P5-A-B0051-029] S=['BEAST SPIRITS', 'HSUNCHEN'] P=fights O=['YINKIN'] implicit=False ps="are hostile to" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: all beast spirits (and their hsunchen worshippers) are hostile to Yinkin.
+[P5-A-B0051-030] S=['TELMORI'] P=fights O=['YINKIN'] implicit=False ps="despise" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Telmori especially despise Yinkin, as do those who love or worship dogs.
+[P5-A-B0051-031] S=['ORLANTH'] P=travels O=[] MOD={"from": "UNDERWORLD"} implicit=False ps="returned gloriously from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: they were the first to greet Orlanth when he returned gloriously from the Underworld with light and warmth.
+[P5-A-B0051-032] S=['ALUSAR'] P=is child of O=['YINKIN', 'EYES IN THE DARK'] implicit=False ps="was the son of" sug=is child of
+   Q: Alusar was the son of Yinkin and a goddess known only as Eyes in the Dark.
+[P5-A-B0051-033] S=['ALUSAR'] P=travels O=[] MOD={"to": "YELM'S PALACE"} implicit=True ps="sneaked into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: he sneaked into Yelm's Palace one time and saw Orlanth kill the Emperor.
+[P5-A-B0051-034] S=['ORLANTH'] P=kills O=['YELM'] MOD={"in_on_at": "YELM'S PALACE"} implicit=True ps="kill" sug=one of: kills, shatters, dies
+   Q: saw Orlanth kill the Emperor.
+[P5-A-B0051-035] S=['ALUSAR'] P=discovers O=['YELM'] implicit=True ps="saw where Yelm went" sug=discovers
+   Q: He was not blinded like everyone else, and he saw where Yelm went when he disappeared.
+[P5-A-B0051-036] S=['GAVREN'] P=is child of O=['YINKIN', 'VELHARA'] implicit=False ps="is the child of" sug=is child of
+   Q: Gavren the Lurker is the child of Yinkin and Velhara, the Lady of the Wild
+[P5-A-B0051-037] S=['LADY OF THE WILD'] P=is alternative name for O=['VELHARA'] implicit=False ps="the Lady of the Wild" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Velhara, the Lady of the Wild
+[P5-A-B0051-038] S=['GAVREN'] P=protects O=['YINKIN'] implicit=True ps="fed" sug=one of: protects, rescues / frees, aids
+   Q: he fed his crippled father until his wounds had healed.
+[P5-A-B0051-039] S=['GAVREN ALYNX BREED'] P=is child of O=['GAVREN'] implicit=False ps="mated with many goddesses to produce" sug=is child of
+   Q: Gavren followed his father's example and mated with many goddesses to produce the breed of alynx that bears his name.
+[P5-A-B0051-040] S=['GAVREN'] P=fights O=['UZ'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="preventing the Uz from despoiling the earth" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He favored earth goddesses, and several times gained a mate by preventing the Uz from despoiling the earth.
+[P5-A-B0051-041] S=['GAVREN'] P=wounds O=['KARRG'] implicit=True ps="clawed" sug=wounds
+   Q: He once clawed great Karrg, the Uz war god, who in turn killed several of his litters.
+[P5-A-B0051-042] S=['KARRG'] P=kills O=["GAVREN'S LITTERS"] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: He once clawed great Karrg, the Uz war god, who in turn killed several of his litters.
+[P5-A-B0051-043] S=['KARRG'] P=is identified as O=['UZ WAR GOD'] implicit=False ps="the Uz war god" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: great Karrg, the Uz war god
+[P5-A-B0051-044] S=['HEVREN'] P=is child of O=['YINKIN', 'MAHOME'] implicit=False ps="the oldest of Yinkin's children, born to Mahome" sug=is child of
+   Q: Hevren is the oldest of Yinkin's children, born to Mahome after Yinkin lay with her for the first time.
+[P5-A-B0051-045] S=['HEVREN', "HEVREN'S CHILDREN"] P=fights O=['VENG BIRDS'] MOD={"in_on_at": "PELORIA"} implicit=True ps="used to run down" sug=hunts
+   Q: He was so fast that he and his children used to run down the great Veng birds of Peloria.
+[P5-A-B0051-046] S=['VORIA'] P=protects O=['MURNI'] implicit=False ps="would hide" sug=one of: protects, rescues / frees, aids
+   Q: Once Ernalda had to abandon her stead, and only Voria would hide Murni.
+[P5-A-B0051-047] S=['ERNALDA'] P=departs from O=["ERNALDA'S STEAD"] implicit=False ps="had to abandon" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Once Ernalda had to abandon her stead, and only Voria would hide Murni.
+[P5-A-B0051-048] S=['VORIA'] P=is child of O=['ERNALDA'] implicit=False ps="her mother" sug=is child of
+   Q: Voria showed her mother the little creature and it became one of Ernalda's favorites.
+[P5-A-B0052-001] S=['TOL'] P=is alternative name for O=['YINKIN'] implicit=False ps="is the name that Yinkin used" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Tol is the name that Yinkin used when he seduced Tarhelera, a goddess as seductive and beautiful as he was.

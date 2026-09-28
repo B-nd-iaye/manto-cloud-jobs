@@ -1,0 +1,300 @@
+[P5-B-B0014-018] S=['ENRONO THE SAGE'] P=protects O=['VORMAIN'] implicit=True ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: Enrono's Refutation saved Vormain,
+[P5-B-B0014-019] S=['FOSHAN'] P=defeats O=['VORMAIN'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the FoShan conquered Vormain.
+[P5-B-B0014-020] S=['DEMONS'] P=rules O=['VORMAIN'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: These demons ruled Vormain
+[P5-B-B0014-021] S=['KRALORI DRAGONS'] P=defeats O=['CHURANPUR', 'DEMONS'] implicit=False ps="drove off" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the Kralori dragons led an army which drove off the Churanpur and demon invaders.
+[P5-B-B0014-022] S=['KRALORI DRAGONS'] P=rules O=['KUANKAL'] MOD={"in_on_at": "PEACOCK THRONE"} implicit=True ps="forcibly set" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The dragons forcibly set KuanKal on the Peacock Throne,
+[P5-B-B0014-023] S=['MUR VANDERO'] P=defeats O=['KUANKAL'] implicit=True ps="cast ... out" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the demigod hero Mur Vandero cast him and his foreign army out.
+[P5-B-B0014-024] S=['MUR VANDERO'] P=rules O=[] MOD={"in_on_at": "PHOENIX THRONE"} implicit=False ps="ascended" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Mur Vandero then ascended the Phoenix Throne
+[P5-B-B0014-025] S=['MUR VANDERO'] P=rules O=['THIRTEENTH IMPERIAL HOUSE'] implicit=False ps="established" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Mur Vandero || established the Thirteenth Imperial House.
+[P5-B-B0014-026] S=['KUMANTI LUN'] P=fights O=['DEMONS OF SORTUM'] implicit=False ps="led the armies of Vormain against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the great martial arts Hero Kumanti Lun, who led the armies of Vormain against the demons of Sortum,
+[P5-B-B0014-027] S=['KUMANTI LUN', 'HUA LOWCHU', 'MON VERLO'] P=defeats O=['NAK'] implicit=False ps="defeating" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Kumanti Lun was aided by his rivals Hua Lowchu of Kralorela and Mon Verlo of the Yellow Islands. Together, the three rivals || ultimately defeating Nak, the chief demon of Sortum.
+[P5-B-B0014-028] S=['NAK'] P=rules O=['SORTUM'] implicit=False ps="chief demon of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Nak, the chief demon of Sortum.
+[P5-B-B0014-029] S=['JAN YIMANU'] P=rules O=['TWENTY-FIRST IMPERIAL HOUSE'] implicit=False ps="founded by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the current Imperial House is the Twenty-First, founded by Jan Yimanu in 1189.
+[P5-B-B0014-030] S=['VORMAINO'] P=serves O=['WAERTAGI'] implicit=True ps="serve as shock troops" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Vormaino agreed to serve as shock troops
+[P5-B-B0014-031] S=['WAERTAGI', 'VORMAINO'] P=fights O=['NAVIES OF THE EAST ISLES'] implicit=True ps="attempt to destroy" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: in an attempt to destroy the navies of the East Isles, which the Waertagi saw as a threat to their own.
+[P5-B-B0014-032] S=['FEN WATHA TOO'] P=travels O=[] MOD={"to": "UNDERWORLD"} implicit=False ps="traveled to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Fen Watha Too, a great poet who traveled to the Underworld
+[P5-B-B0014-033] S=['KUANG BRANG'] P=travels O=[] MOD={"to": "VORMAIN"} implicit=True ps="flew over" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Kuang Brang, who flew over on his bird machine.
+[P5-B-B0014-034] S=['OSDERO'] P=is child of O=['HARANTARA'] implicit=False ps="son of" sug=is child of
+   Q: Osdero the Lord Phoenix and son of Harantara the Goddess of the Kahar Sea.
+[P5-B-B0014-035] S=['OSDERO'] P=is identified as O=['LORD PHOENIX'] implicit=False ps="the Lord Phoenix" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Osdero the Lord Phoenix
+[P5-B-B0014-036] S=['OSDERO'] P=alters mythic station O=['PALACE OF ETERNAL LIGHT'] implicit=True ps="raised" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: raised in the Golden Age by Osdero the Lord Phoenix
+[P5-B-B0014-037] S=['SEA GODS'] P=kills O=['OSDERO'] implicit=True ps="extinguished his fire, plucked the feathers from his body, and dragged his corpse down" sug=one of: kills, shatters, dies
+   Q: His palace was sunk by vengeful sea gods who extinguished his fire, plucked the feathers from his body, and dragged his corpse down into the deep sea.
+[P5-B-B0014-038] S=['SEA GODS'] P=shatters O=['PALACE OF ETERNAL LIGHT'] implicit=True ps="was sunk by" sug=shatters
+   Q: His palace was sunk by vengeful sea gods
+[P5-B-B0014-039] S=['HARAU'] P=travels O=[] MOD={"in_on_at": "YA MON WOU"} implicit=False ps="resides in a temple along its banks at" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The blossom goddess Harau resides in a temple along its banks at Ya Mon Wou.
+[P5-B-B0014-040] S=['RED BLUE EAGLE CLAN'] P=claims ancestry O=['KUMANTI LUN', 'TELASK'] implicit=False ps="claims ... as ancestors" sug=claims ancestry
+   Q: the Red Blue Eagle clan, an ancient warrior clan that claims Kumanti Lun and the god Telask as ancestors.
+[P5-B-B0014-041] S=['TELASK'] P=protects O=['VORMAIN'] implicit=False ps="Defender God of" sug=one of: protects, rescues / frees, aids
+   Q: Telask the Defender God of Vormain.
+[P5-B-B0014-042] S=['MANUSUKO'] P=establishes cult O=['HEAVEN AND HELL DOJO'] implicit=False ps="founded" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: the Heaven and Hell Dojo, a swordsmanship school founded before the Dawn by Manusuko
+[P5-B-B0014-043] S=['MANUSUKO'] P=serves O=['KUMANTI LUN'] implicit=False ps="student of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Manusuko, a renowned student of Kumanti Lun.
+[P5-B-B0014-044] S=['KANENAGA XU'] P=claims ancestry O=['TSANKTH'] implicit=False ps="descended from" sug=claims ancestry
+   Q: Kanenaga Xu, a terrifying magician said to be descended from the god Tsankth.
+[P5-B-B0014-045] S=['GOLDEN VIJAYA'] P=embodies O=['GOLD'] implicit=True ps="auric goddess" sug=one of: embodies, has domain
+   Q: the auric goddess Golden Vijaya.
+[P5-B-B0014-046] S=['KRESH'] P=travels O=[] MOD={"from": "KOTHAR"} implicit=False ps="originally came from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Kothar The Kresh nomads, who ride upon wagons of colossal size, originally came from here.
+[P5-B-B0014-047] S=['AGIMORI OF KIMOS'] P=claims ancestry O=['GENJERA'] implicit=True ps="claim to be the heirs of" sug=claims ancestry
+   Q: They claim to be the heirs of legendary Genjera,
+[P5-B-B0014-048] S=['KING KEDIRI'] P=rules O=[] implicit=False ps="King" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: demigod King Kediri
+[P5-B-B0014-049] S=['KING KEDIRI'] P=travels O=['AGIMORI OF KIMOS'] MOD={"to": "KIMOS", "purpose_clause": "TO THWART"} implicit=True ps="sent" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: sent here by their demigod King Kediri in the God Time to fight the Gorgers
+[P5-B-B0014-050] S=['AGIMORI OF KIMOS'] P=fights O=['GORGERS'] implicit=True ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: to fight the Gorgers, a race of terrible demons.
+[P5-B-B0014-051] S=['ELVES OF MIRELOS'] P=fights O=[] MOD={"in_on_at": "TALUK MORMADAK"} implicit=False ps="warred over" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In the First Age, the elves of Mirelos warred over the pine forests of Jolar in Taluk Mormadak.
+[P5-B-B0014-052] S=['SIX SISTER DRYADS'] P=establishes cult O=['LYNELSIAN COUNCIL OF ELDERS'] implicit=False ps="united to form" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: six sister dryads united to form the Lynelsian Council of Elders.
+[P5-B-B0014-053] S=['ERRINORU'] P=is child of O=['SIX SISTER DRYADS'] implicit=False ps="gave joint birth to" sug=is child of
+   Q: six sister dryads || gave joint birth to a male named Errinoru,
+[P5-B-B0014-054] S=['ERRINORU'] P=is member of O=['HOUSE OF ERRINORU'] implicit=False ps="first and greatest of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Errinoru, first and greatest of the House of Errinoru.
+[P5-B-B0014-055] S=['ERRINORU'] P=is identified as O=['EMBYLI'] implicit=True ps="seemed no different from" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: To them, he seemed no different from any other Embyli.
+[P5-B-B0014-056] S=['ERRINORU'] P=is member of O=['HIGH KING ELF'] implicit=True ps="held the positions of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He simultaneously held the positions of High King Elf, Gardener High Priestess, and Chosen One
+[P5-B-B0014-057] S=['ERRINORU'] P=travels O=[] MOD={"to": "MOUNTAINS OF THE DWARVES"} implicit=True ps="traveled to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He traveled to the Mountains of the Dwarves with his brothers and returned with the Ironseed.
+[P5-B-B0014-058] S=['ERRINORU'] P=discovers O=['IRONSEED'] implicit=True ps="returned with" sug=discovers
+   Q: He traveled to the Mountains of the Dwarves with his brothers and returned with the Ironseed.
+[P5-B-B0014-059] S=['ERRINORU'] P=kills O=['QUEENS OF THE JUNGLE TROLLS'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: He visited the queens of the jungle trolls, killed many,
+[P5-B-B0014-060] S=['ERRINORU'] P=pledges oath with O=['QUEENS OF THE JUNGLE TROLLS'] implicit=True ps="forced the survivors to take a magic oath" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: forced the survivors to take a magic oath preventing them from harming any elf
+[P5-B-B0014-062] S=['ERRINORU'] P=fights O=['GOD LEARNERS'] implicit=False ps="sailed forth, encountering" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Errinoru built a fleet of ships and sailed forth, encountering God Learners,
+[P5-B-B0014-063] S=['ERRINORU'] P=descends into O=[] MOD={"to": ["MAGASTA'S POOL", "HELL"]} implicit=True ps="sailed ... down" sug=one of: descends into, dies
+   Q: sailed his personal ship down Magasta's Pool. While he was in Hell,
+[P5-B-B0014-064] S=['GOLD-CROWNED WORMS'] P=serves O=['COUNCILS OF ELDERS OF PAMALTELA'] implicit=False ps="crawled to ... and did obeisance" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: gold-crowned worms crawled to all the Councils of Elders of Pamaltela and did obeisance.
+[P5-B-B0014-066] S=['ERRINORU'] P=bestows magic / gifts O=[] implicit=False ps="brought with him a magic poison" sug=one of: bestows, heals, imbues, teaches
+   Q: Errinoru brought with him a magic poison that withered mountains
+[P5-B-B0014-067] S=['SEVEN-CONQUEROR'] P=is alternative name for O=['ERRINORU'] implicit=False ps="was named" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Errinoru was named Seven-Conqueror.
+[P5-B-B0014-068] S=['ERRINORU'] P=travels O=[] MOD={"to": "DINAL"} implicit=False ps="walking to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In 760, Errinoru made his last journey, walking to Dinal and never returning.
+[P5-B-B0014-069] S=['ELVES OF DINAL'] P=serves O=['HOUSE OF ERRINORU'] implicit=True ps="were the allies of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the elves of that magic land all said that they, too, were the allies of the House of Errinoru.
+[P5-B-B0014-070] S=['NEW MONSTER'] P=travels O=[] MOD={"to": "JUNGLE"} implicit=False ps="came to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: A new monster came to the jungle,
+[P5-B-B0014-071] S=['HOUSE OF ERRINORU'] P=descends into O=[] implicit=False ps="perished" sug=one of: descends into, dies
+   Q: soon all the House of Errinoru perished.
+[P5-B-B0015-001] S=['GABARYANGA'] P=serves O=['SERARTAMAL'] MOD={"to": "JOKOTU"} implicit=False ps="dedicated himself to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Gabaryanga escaped to Jokotu, where he has dedicated himself to Serartamal the Blue Moon.
+[P5-B-B0015-002] S=['SESEINE KALLIG'] P=is identified as O=['SESEINE'] implicit=False ps="claims to be the incarnation of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Seseine Kallig: This demigod sorceress was originally a blue slave. She claims to be the incarnation of the Chaos goddess Seseine
+[P5-B-B0015-003] S=['SESEINE KALLIG'] P=binds O=['GOD OF DEATH'] implicit=True ps="seduced a god of Death into servitude" sug=binds
+   Q: She claims to be the incarnation of the Chaos goddess Seseine and to have seduced a god of Death into servitude.
+[P5-B-B0015-004] S=['KYTHRA MENNA'] P=steals O=['YRANIAN LEAPERS'] implicit=False ps="liberated the magic of" sug=steals
+   Q: Kythra Menna, the Red Moon Seer. This strange mystic claims to have liberated the magic of the Yranian Leapers to serve her.
+[P5-B-B0015-005] S=['VELDANG'] P=claims ancestry O=['ARTMALI EMPIRE'] implicit=False ps="survivors of" sug=claims ancestry
+   Q: The inhabitants at the start of Time were scattered tribes of a peaceful, blue-skinned people called the Veldang, survivors of the near-forgotten Artmali Empire.
+[P5-B-B0015-006] S=['GARANGORDOS THE CRUEL'] P=protects O=['OMPALAM'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="quested to liberate" sug=rescues / frees
+   Q: The leader of the Gargandites, Garangordos the Cruel, quested to liberate Ompalam
+[P5-B-B0015-007] S=['GARANGORDOS'] P=defeats O=['VELDANG'] MOD={"with_the_aid_of": ["DARLEESTER THE NOOSE"]} implicit=False ps="conquered and enslaved" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Garangordos and his companions then conquered and enslaved all the Veldang, with the aid of his god-weapon Darleester the Noose
+[P5-B-B0015-008] S=['GARANGORDOS'] P=establishes cult O=['OMPALAM'] implicit=True ps="imposed the worship of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: and imposed the worship of Ompalam.
+[P5-B-B0015-009] S=['GARANGORDOS'] P=kills O=['ALDRYAMI'] MOD={"in_on_at": ["FONRIT", "LASKAL"]} implicit=True ps="exterminated" sug=one of: kills, shatters, dies
+   Q: He exterminated the Aldryami in Fonrit and Laskal.
+[P5-B-B0015-010] S=['JOKOTU'] P=kills O=['GARANGORDOS'] implicit=False ps="was killed by" sug=one of: kills, shatters, dies
+   Q: Garangordos was killed by his brother Jokotu
+[P5-B-B0015-011] S=['JOKOTU'] P=is sibling of O=['GARANGORDOS'] implicit=False ps="brother" sug=is sibling of
+   Q: Garangordos was killed by his brother Jokotu
+[P5-B-B0015-012] S=['GLORIOUS ONES'] P=dismembers O=['GARANGORDOS'] implicit=True ps="dismembered" sug=dismembers
+   Q: whose seventeen brothers and sisters (called the Glorious Ones) dismembered the fratricide
+[P5-B-B0015-013] S=['KOLAT'] P=shatters O=['MIDDLE SEA EMPIRE'] implicit=True ps="shattered" sug=shatters
+   Q: In 907, the Kolat slave riots shattered the Empire's hold on the Fonritian cities.
+[P5-B-B0015-014] S=['JANN OF AFADJANN'] P=binds O=['DARLEESTER THE NOOSE'] implicit=True ps="enslaved" sug=binds
+   Q: In 908, a new Jann enslaved Darleester the Noose and quickly unified Fonrit in rebellion against the Middle Sea Empire.
+[P5-B-B0015-015] S=['PURE DOCTRINE FREEDOMISTS'] P=establishes cult O=['DORADDI CULT'] MOD={"to": "KAREESHTU"} implicit=False ps="bearing" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: In 1202, the Pure Doctrine Freedomists returned to Kareeshtu, bearing a rigidly dogmatic Doraddi cult and social structure.
+[P5-B-B0015-016] S=['AFADJANN'] P=defeats O=['CULT OF SILENCE'] MOD={"from": "VRALOS"} implicit=False ps="seized much of Vralos from" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Under Sarro leadership Afadjann seized much of Vralos from the Cult of Silence.
+[P5-B-B0015-017] S=['YRANIAN LEAPERS'] P=fights O=['AFADJANN'] MOD={"from": "FALADJE"} implicit=False ps="swept down upon" sug=invades / raids
+   Q: A most significant event began in 1319, when an army of red-robed Yranian Leapers swept down upon Afadjann from their city of Faladje.
+[P5-B-B0015-018] S=['ARTMALI'] P=fights O=['STORM GODS'] implicit=False ps="withstood" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Artmali were a great empire of the south in the Gods Age. They withstood the storm gods.
+[P5-B-B0015-019] S=['ARTMALI'] P=descends into O=[] MOD={"from": "SKY"} implicit=True ps="fell down from" sug=one of: descends into, dies
+   Q: They fell down from the Sky with their gods.
+[P5-B-B0015-020] S=["H'NARSH"] P=defeats O=['ARTMALI'] implicit=True ps="were broken underfoot by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: They were broken underfoot by their foe, H'narsh, and dissipated in the waters.
+[P5-B-B0015-021] S=['ARTMALI'] P=rules O=['BLUE CASTLE'] implicit=True ps="nation's heart was" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Their nation's heart was the Blue Castle
+[P5-B-B0015-022] S=['GARANGORDOS'] P=embodies O=['TENOARPESAS'] IO=['KENDAMALAR'] MOD={"purpose_clause": "to embody the powers of Kendamalar the Sun"} implicit=False ps="selected by" sug=one of: embodies, has domain
+   Q: Tenoarpesas the Golden One, was selected by Garangordos to embody the powers of Kendamalar the Sun.
+[P5-B-B0015-023] S=['TENOARPESAS'] P=manifests chaos taint O=['VOVISIBOR', 'CHAOS'] implicit=False ps="brought forth" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Tenoarpesas brought forth the forces of Vovisibor and Chaos into himself, and entered the Underworld.
+[P5-B-B0015-024] S=['TENOARPESAS'] P=descends into O=[] MOD={"to": "UNDERWORLD"} implicit=False ps="entered" sug=one of: descends into, dies
+   Q: Tenoarpesas brought forth the forces of Vovisibor and Chaos into himself, and entered the Underworld.
+[P5-B-B0015-025] S=['TENOARPESAS'] P=transforms into O=['VARAMA'] MOD={"from": "UNDERWORLD"} implicit=True ps="returned from the Underworld as" sug=transforms into
+   Q: He returned from the Underworld as both the power of Ompalam and as Varama, the now-shackled Sun and slave to Ompalam.
+[P5-B-B0015-026] S=['OMPALAM'] P=binds O=['VARAMA'] implicit=False ps="chained" sug=binds
+   Q: In Fonrit, the Sun is worshiped as the slave of Ompalam, who chained Varama to his unyielding task.
+[P5-B-B0015-027] S=['EHILM'] P=is alternative name for O=['VARAMA'] implicit=True ps="became a common name for" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ehilm became a common name for the Sun throughout northern Fonrit.
+[P5-B-B0015-028] S=['RULER OF HOMBORI TONDO'] P=establishes cult O=['DARLEESTER THE NOOSE'] implicit=True ps="restoring his cult" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Darleester the Noose and restoring his cult.
+[P5-B-B0015-029] S=['RED VADELI'] P=binds O=['DARLEESTER THE NOOSE'] MOD={"using": "SORCERY"} implicit=True ps="compelled the use of" sug=binds
+   Q: and, through terrible sorcery, compelled the use of Darleester the Noose as a weapon against the people of Afadjann.
+[P5-B-B0015-030] S=['RED VADELI'] P=kills O=['PEOPLE OF AFADJANN'] implicit=True ps="were brutally killed by" sug=one of: kills, shatters, dies
+   Q: Those who resisted were brutally killed by the Red Vadeli.
+[P5-B-B0015-031] S=['MIGHTY MEN AND WOMEN OF OLD'] P=defeats O=['JOTIMAM', 'KAJABOR', 'WAKBOTH'] implicit=True ps="fought us and we lost" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Then the mighty men and women of old fought us and we lost.
+[P5-B-B0015-032] S=['ACAC THE REVIVIFIER'] P=is member of O=['BROO'] implicit=False ps="claiming to be a" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Acac the Revivifier was the pen-name of an author claiming to be a broo.
+[P5-B-B0015-033] S=['GBAJI'] P=embodies O=['CHAOS'] implicit=False ps="is the deity of" sug=one of: embodies, has domain
+   Q: Gbaji, of course, is the deity of seductive Chaos
+[P5-B-B0015-034] S=['WAKBOTH'] P=embodies O=['CHAOS'] implicit=False ps="Chaos God of Evil" sug=one of: embodies, has domain
+   Q: Wakboth the Chaos God of Evil
+[P5-B-B0015-035] S=['KAJABOR'] P=is identified as O=['DESTROYER'] implicit=False ps="is the Destroyer" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Kajabor is the Destroyer
+[P5-B-B0015-036] S=['JOTIMAM'] P=is identified as O=['VOID'] implicit=False ps="was the Void" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Jotimam was the Void at the center of the world, now transformed into Magasta's Pool.
+[P5-B-B0015-037] S=['JOTIMAM'] P=transforms into O=["MAGASTA'S POOL"] implicit=False ps="transformed into" sug=transforms into
+   Q: Jotimam was the Void at the center of the world, now transformed into Magasta's Pool.
+[P5-B-B0015-038] S=['BEP'] P=dedicates relic O=['ANNILLA'] implicit=True ps="was a Gods Age temple to" sug=dedicates relic
+   Q: God Learner scholars theorized that this was a Gods Age temple to Annilla the Blue Moon.
+[P5-B-B0015-039] S=['VELDANG'] P=claims ancestry O=['MOONSON'] implicit=False ps="claimed ... ancestor" sug=claims ancestry
+   Q: The ancient Veldang claimed these hills are the bones of their ancestor they call Moonson.
+[P5-B-B0015-040] S=['BLUE MAN HILLS'] P=is identified as O=['MOONSON'] implicit=True ps="are the bones of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The ancient Veldang claimed these hills are the bones of their ancestor they call Moonson.
+[P5-B-B0015-041] S=['BARUBA KINSLAYER'] P=comes into being O=['DISTALWEMMA'] implicit=False ps="was founded as a rival capital of the Wemma Empire by" sug=founds
+   Q: Distalwemma (small city): This city was founded as a rival capital of the Wemma Empire by Baruba Kinslayer
+[P5-B-B0015-042] S=['DESCENDANTS OF BARUBA KINSLAYER'] P=claims ancestry O=['BARUBA KINSLAYER'] implicit=False ps="descendants" sug=claims ancestry
+   Q: Baruba Kinslayer, whose descendants still rule here.
+[P5-B-B0015-043] S=['PUJALEG BAT PEOPLE'] P=is member of O=['DOLRANSTANG'] implicit=False ps="inhabited by" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Dolranstang (ruin): This ruin in the Sabaki Gorge was a God Learner fortification of unknown purpose. It is now inhabited by several clans of Pujaleg Bat People.
+[P5-B-B0016-001] S=['PUJALEG'] P=serves O=['TOLAT', 'ARTIA', 'BLUE STREAK'] implicit=False ps="worship" sug=is worshipped by
+   Q: The Pujaleg worship a pantheon of Darkness and Death powers headed by the Decapitator (Tolat), the Red Bat goddess (Artia), and the Blue Bat goddess (Blue Streak).
+[P5-B-B0016-002] S=['DECAPITATOR'] P=is alternative name for O=['TOLAT'] implicit=False ps="headed by the Decapitator (Tolat)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: headed by the Decapitator (Tolat)
+[P5-B-B0016-003] S=['RED BAT GODDESS'] P=is alternative name for O=['ARTIA'] implicit=False ps="the Red Bat goddess (Artia)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Red Bat goddess (Artia)
+[P5-B-B0016-004] S=['BLUE STREAK'] P=is alternative name for O=['BLUE BAT GODDESS'] implicit=False ps="the Blue Bat goddess (Blue Streak)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Blue Bat goddess (Blue Streak)
+[P5-B-B0016-005] S=['PUJALEG'] P=transforms into O=['HUMAN-SIZED FLYING BATS'] implicit=False ps="can transform into" sug=transforms into
+   Q: The Pujaleg are fierce warriors, fighting with clubs, spears, and poison darts, and can transform into human-sized flying bats.
+[P5-B-B0016-006] S=['RACHAMI'] P=is alternative name for O=['VULTURE PEOPLE'] implicit=False ps="Rachami (Vulture People)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Rachami (Vulture People)
+[P5-B-B0016-007] S=['RACHAMI'] P=is member of O=['HSUNCHEN'] implicit=False ps="other Hsunchen" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: unlike other Hsunchen, the Rachami have entered into a symbiotic relationship with some civilized peoples.
+[P5-B-B0016-008] S=['TANUKU'] P=is alternative name for O=['MILK ANTELOPE PEOPLE'] implicit=False ps="Tanuku (Milk Antelope People)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Tanuku (Milk Antelope People)
+[P5-B-B0016-009] S=['MILK-PRODUCING ANTELOPE'] P=serves O=['GRANDMOTHER EARTH'] implicit=False ps="is sacred to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The milk-producing antelope supports many people and is sacred to Grandmother Earth.
+[P5-B-B0016-010] S=['TE HUANTAL'] P=is alternative name for O=['JAGUAR PEOPLE'] implicit=False ps="Te Huantal (Jaguar People)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Te Huantal (Jaguar People)
+[P5-B-B0016-011] S=['TE HUANTAL'] P=serves O=['UNDERWORLD SPIRITS'] implicit=False ps="worship" sug=is worshipped by
+   Q: Like the Pujaleg, the Te Huantal are nocturnal and worship a pantheon of Underworld spirits.
+[P5-B-B0016-012] S=['VLAKVARKI'] P=is alternative name for O=['WARTHOG PEOPLE'] implicit=False ps="Vlakvarki (Warthog People)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Vlakvarki (Warthog People)
+[P5-B-B0016-013] S=['MONDATOR', 'OABIL'] P=fights O=[] MOD={"in_on_at": "Fonrit"} implicit=True ps="contended for dominance" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In the Storm Age, these empires contended for dominance over Fonrit, and cities often changed hands.
+[P5-B-B0016-014] S=['SLARGES'] P=defeats O=['OABIL'] implicit=False ps="was overrun by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Oabil was overrun by slarges
+[P5-B-B0016-015] S=['HORDE OF BARAKU THE INVADER'] P=defeats O=['MONDATOR'] implicit=False ps="was overcome by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Mondator was overcome by the horde of Baraku the Invader, who slew Artmal.
+[P5-B-B0016-016] S=['BARAKU'] P=kills O=['ARTMAL'] implicit=False ps="slew" sug=one of: kills, shatters, dies
+   Q: Baraku the Invader, who slew Artmal.
+[P5-B-B0016-017] S=['KADIOLA'] P=alters mythic station O=[] IO=['KIN OF KADIOLA'] implicit=False ps="became king" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Kadiola won a bet with his kin and became king.
+[P5-B-B0016-018] S=['BORNOTIN'] P=manifests O=['FLOATING CITY'] implicit=False ps="built" sug=crafts
+   Q: From the collected debris, Bornotin built the first parts of the Floating City.
+[P5-B-B0016-019] S=['MENAKA'] P=is alternative name for O=['BOATMAN'] implicit=False ps="called Boatman" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Menaka, called Boatman
+[P5-B-B0016-020] S=['FLOATING CITY'] P=protects O=['NATIVE FLEET'] implicit=True ps="rescue" sug=one of: protects, rescues / frees, aids
+   Q: the city opened to rescue a native fleet
+[P5-B-B0016-021] S=["GOD LEARNERS' FLEET"] P=descends into O=[] implicit=False ps="was thus all destroyed" sug=one of: descends into, dies
+   Q: forbade the evil God Learners' fleet entry, which was thus all destroyed.
+[P5-B-B0016-022] S=['CULT OF MALKION'] P=serves O=['MALKION'] MOD={"in_on_at": "EBBESHAL"} implicit=True ps="temple to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: A large temple to Malkion is located here.
+[P5-B-B0016-023] S=['GRUE'] P=manifests chaos taint O=[] implicit=False ps="Chaos monsters" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: murderous Chaos monsters of diabolic cunning called Grue.
+[P5-B-B0016-024] S=['TENOARPESAS'] P=is alternative name for O=['GOLDEN ONE'] implicit=False ps="the Golden One" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Tenoarpesas the Golden One
+[P5-B-B0016-025] S=['PRIESTHOOD OF TENOARPESAS'] P=binds O=['SOLAR AND SKY GODS'] implicit=False ps="enslaved" sug=binds
+   Q: the priesthood of Tenoarpesas the Golden One, who have enslaved many solar and sky gods to serve their temples.
+[P5-B-B0016-026] S=['HIGH PRIESTESS OF THE EMERALD GODDESS'] P=serves O=['EMERALD GODDESS'] implicit=False ps="High Priestess of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: This city is ruled by the High Priestess of the Emerald Goddess
+[P5-B-B0016-027] S=['IKADZ'] P=is alternative name for O=['PURIFIER'] implicit=False ps="the Purifier" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ikadz the Purifier
+[P5-B-B0016-028] S=['EUNUCH PRIESTS OF IKADZ'] P=serves O=['IKADZ'] implicit=False ps="priests of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: ruled by the eunuch priests of Ikadz the Purifier
+[P5-B-B0016-029] S=['VESSEL OF TONDIJI AND IKADZ'] P=serves O=['TONDIJI', 'IKADZ'] implicit=False ps="Vessel of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: owned by the Vessel of Tondiji and Ikadz.
+[P5-B-B0016-030] S=['ARCHIDOMIDES'] P=defeats O=['HESTACH'] implicit=True ps="was conquered by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: until it was conquered by Archidomides.
+[P5-B-B0016-031] S=['TEMPLE OF GOLDEN VARAMA'] P=sacrifices O=['ALDRYAMI', 'HILL BARBARIANS'] implicit=True ps="sacrifices of" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: altars smoking with sacrifices of captive Aldryami and hill barbarians.
+[P5-B-B0016-032] S=['JANFUSU'] P=is alternative name for O=['CITY OF FAR WATERS'] implicit=False ps="The City of Far Waters" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Janfusu (large city): The City of Far Waters
+[P5-B-B0016-033] S=['GRANDSON OF SERELAZAM'] P=claims ancestry O=['SERELAZAM'] implicit=False ps="grandson of" sug=claims ancestry
+   Q: founded by a grandson of the sea god Serelazam
+[P5-B-B0016-034] S=['SESEINE'] P=is sibling of O=['GRANDSON OF SERELAZAM'] implicit=True ps="sister" sug=is sibling of
+   Q: seduced by his sister Seseine
+[P5-B-B0016-035] S=['SESEINE'] P=enchants O=['GRANDSON OF SERELAZAM'] MOD={"purpose_clause": "building this stronghold across the Inner Sea"} implicit=True ps="seduced" sug=seduces
+   Q: seduced by his sister Seseine into building this stronghold across the Inner Sea.
+[P5-B-B0016-036] S=['JANFUSU'] P=serves O=['MAGASTA', 'SESEINE'] implicit=True ps="temples to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: It is famed for its temples to Magasta and Seseine.
+[P5-B-B0016-037] S=['JRUSTELI ADVENTURERS'] P=steals O=['STONE MIRROR OF AXAXAXAS MLÖ'] MOD={"from": "JAST"} implicit=True ps="was taken" sug=steals
+   Q: The legendary stone mirror of Axaxaxas Mlö was taken from here by Jrusteli adventurers
+[P5-B-B0016-038] S=['JRUSTELI ADVENTURERS'] P=fights O=['TRANSPARENT TIGERS'] implicit=True ps="fighting" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: their mad stories of fighting transparent tigers and climbing towers of blood were generally disbelieved by the God Learners.
+[P5-B-B0016-039] S=['KALABAR'] P=is alternative name for O=['CITY OF SORCERY'] implicit=False ps="the City of Sorcery" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Kalabar, the City of Sorcery
+[P5-B-B0016-040] S=['DENIZENS OF KALABAR'] P=wounds O=['GODS OF PAMALTELA'] implicit=True ps="tortured" sug=wounds
+   Q: its denizens tortured the gods of Pamaltela.
+[P5-B-B0016-041] S=['SESEKO'] P=is alternative name for O=['FIRE LORD'] implicit=False ps="called the Fire Lord" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Seseko, called the Fire Lord
+[P5-B-B0016-042] S=['SIKKANOS'] P=is alternative name for O=['SCORCHING SOUTH WIND'] implicit=False ps="the scorching south wind" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Sikkanos, the scorching south wind
+[P5-B-B0016-043] S=['SESEKO'] P=bestows magic / gifts O=['BREATH OF HOLARALAM'] IO=['SIKKANOS'] implicit=True ps="armed" sug=one of: bestows, heals, imbues, teaches
+   Q: armed him with the Breath of Holaralam
+[P5-B-B0016-044] S=['SIKKANOS'] P=defeats O=['FOES OF THE SEVENTEEN ALLIES OF THE FIRE LORD'] MOD={"using": "BREATH OF HOLARALAM"} implicit=True ps="destroyed" sug=shatters
+   Q: the Breath of Holaralam which destroyed all foes of the Seventeen Allies of the Fire Lord.
+[P5-B-B0016-045] S=['SURVIVORS OF THE ARMY OF SESEKO'] P=marries O=[] MOD={"at_the_instigation_of": ["BIA"]} implicit=False ps="won wives" sug=is spouse of (qual=wedding)
+   Q: The survivors of the army of Seseko won wives in Bia's famous contest of 1137
+[P5-B-B0016-046] S=['LOHANASEN'] P=is alternative name for O=['WHITE PEARL'] implicit=False ps="the White Pearl" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Lohanasen the White Pearl
+[P5-B-B0016-047] S=['KANI-NA'] P=serves O=['LOHANASEN'] implicit=True ps="temple of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: This city is an important temple of the goddess Lohanasen the White Pearl
+[P5-B-B0016-048] S=['AFATI-TAL'] P=is alternative name for O=['DIVER'] implicit=False ps="the Diver" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Afati-Tal the Diver
+[P5-B-B0016-049] S=['AFATI-TAL'] P=fights O=['PUJALEG BAT PEOPLE'] implicit=False ps="resisted" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Under the leadership of Afati-Tal the Diver, they resisted the Pujaleg Bat People
+[P5-B-B0016-050] S=['EKURBENYOW'] P=fights O=['AFATI-TAL'] MOD={"in_on_at": "Underworld"} implicit=False ps="ambushed" sug=invades / raids
+   Q: Ekurbenyow ambushed Afati-Tal in the Underworld
+[P5-B-B0016-051] S=['EKURBENYOW'] P=dismembers O=['AFATI-TAL'] implicit=False ps="dissected" sug=dismembers
+   Q: Ekurbenyow ambushed Afati-Tal in the Underworld and dissected him.
+[P5-B-B0016-052] S=['ARCHIDOMIDES'] P=is alternative name for O=['HEARTLESS AND OPENHANDED'] implicit=False ps="the Heartless and Openhanded" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Archidomides the Heartless and Openhanded
+[P5-B-B0016-053] S=['ARCHIDOMIDES'] P=serves O=['TONDIJI', 'IKADZ'] implicit=False ps="Vessel of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Archidomides the Heartless and Openhanded, Vessel of Tondiji and Ikadz.
+[P5-B-B0016-054] S=['TENTACULE'] P=is alternative name for O=['SLAVE GOD'] implicit=False ps="the Slave God" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Tentacule, the Slave God
+[P5-B-B0016-055] S=['CULT OF IKADZ'] P=serves O=['IKADZ'] implicit=False ps="state cult of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the state cult of Ikadz purifies the land of disobedience and rebellion.

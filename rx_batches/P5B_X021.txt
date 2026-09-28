@@ -1,0 +1,80 @@
+### HQRiG:00285 | HQRiG | p.238 | Contest: Question the Bandits
+FIGURES: (none registered)
+TEXT: The Gagarthi are bandits, not berserkers, and they flee if death is the alternative. Olend uses his Sneak or Camouflage abilities, augmented by his Stealth affinity, to melt into the forest if necessary, while Frithorf dashes to his tethered horse and uses his Windwalking Steed feat to ride it into the stormy sky. He is a true Gagarthi, a spitting, frothing maniac, and would probably die with his spear in his hand if it came to it rather than be captured, knowing that he faces death for his crimes. Nonetheless, by interrogating captured bandits, the heroes may piece together some clues as to the Black Oaks' plot. It is, of course, a terrible thing for good Orlanthi to hire outlaws, but terrible things often happen in terrible times. Engthor, the Black Oak chieftain, arranged for Gulvik's capture and the ransom demand in earshot of Olend Shadowfriend, no kin of the Black Oaks but an occasional visitor to their hall. His bandit ties have never been proven. At times he has been useful to the Black Oaks, so he receives a measure of wary hospitality. As Engthor anticipated, Olend told Frithorf, who was unable to resist the lure of such easy treasure… The ordinary bandits know nothing of this—the most they can tell is that Olend, a seeming friend of Frithorf's, rode into their
+TARGETS: speaks / prophesies
+
+### HQRiG:00286 | HQRiG | p.238 | Appropriate Abilities: The heroes may try all kinds of methods
+FIGURES: GAGARTH
+TEXT: Frithorf Wildwind is more than just a bandit, he is a worshipper of the brutal outlaw god Gagarth, and can embody his stinging and sterile whirlwind. 238 o "When he sent us out here, why did Gray Orlkost [the clan's warband leader] tell us that he didn't expect the ransom to arrive?" o "You know my sister Angarna? She says Engthor's looking pleased with himself this past week." o "It can't just be the raid, surely—that Gulvik's nothing but a pup." o "Aye, but when Orlkost sent us to snatch him, he said he'd be worth more than his da knew." o "Did you see that storm just now? I didn't like the look of that."
+TARGETS: punishes / exiles
+
+### HQRiG:00288 | HQRiG | p.241 | Appropriate Abilities: Know Birds, Mythology of [Trickster or
+FIGURES: EURMAL, HUMAKT, ORLANTH
+TEXT: Much as it twists and turns, Holuf's kite The Blackstorm Bird is unable to shake off Engord's Orlanth's Gift, much to the dismay of Holuf's mother, Monra. Resolution Appropriate Abilities: Know Birds, Mythology of [Trickster or Death God], Know Animals (–5), Know Heortling Myths (–5). Resistance: 17. Any Victory: The raven is one of Trickster's favorite forms and figures in many myths. A raven is a servant of Humakt Deathgod, and can be a terrible omen. Tie or Marginal Defeat: A magical bird like this is probably a messenger sent by the gods, but it could be the servant of a hostile clan or even a spirit sent by a wicked shaman. Any Other Defeat: "This is terrible, just terrible. The gods must be punishing us!"
+TARGETS: punishes / exiles
+
+### HQRiG:00292 | HQRiG | p.250 | In the middle of the patio is a figure, manlike
+FIGURES: PELASKOS
+CONTEXT: is a figure, manlike though larger, dressed like a fisherman. He is on his hands and knees, dry-heaving violently. The heroes can speak to the daimon here, and he asks if they can help him. Are they able to heal or cure? His active vomiting power is 10W2, so maybe a group effort will help. If victory is achieved he stops (except for the occasional choke) long enough to tell who he is. Oralprath
+TEXT: He is Oralprath, a fishing god. A great friend of the Twin Fishers (Pelaskos and Poverri), Oralprath was one of those who cast magical nets and dragged up everything that was alive or dead. He hauled in huge nets full of creatures of the deep and shallow waters. Once, Oralprath dragged up something that was both alive and dead: Varvar the Deep Gulper. The two struggled, but Oralprath killed it with his gaff (a pole with a vicious hook on the end, used for landing catch) and hung it up by the gills. Recently, though, without warning (and seeming to defy the laws of the God World) the trophy puffed up again with water and began to rumble and roar. It was rejuvenated somehow, shook itself from the hook, and flopped back to some waters. That movement made a ripple in the God World that, in turn, woke Oralprath. But he was weak, a mere shadow of a story without anyone who worshipped him now. Varvar demanded back all the fish and creatures that Oralprath had ever caught. He refused. Varvar demanded all the unique things that Oralprath had ever caught. He refused.
+TARGETS: sleeps / wakes
+
+### HQRiG:00298 | HQRiG | p.253 | Companions
+FIGURES: EARTH WITCH
+TEXT: Companions o Red Fox was Bush Child's best friend. She is very clever and always wore a red hat. Earth Witch treated her like her own daughter even though she was not (or so they say). o Three Stripe Stringbean was the clan's best archer. His bow, Never-slack, was blue. His arrows were Death itself to Bush Child's foes. o Bear Stance Sharp-eye was a great and boastful hunter. He always wore a necklace of bear claws and trained the best tracking beasts. He found the way to Earth Witch's cave.
+TARGETS: possesses / wields
+
+### HQRiG:00304 | HQRiG | p.254 | Station 2: Berries in a Basket
+FIGURES: EARTH WITCH
+TEXT: Station 2: Berries in a Basket The friends set out from the village. Everyone knew that Deep Lord Below was behind the troubles. Everyone said so. But no one knew where he might be found. Earth Witch might know but she lived in a hidden cave far away. To please her, they took a basket of Fireberries—her favorite food! The friends wandered through the hills, growing heavier with each step. But Sharp-eyed Bear Stance noticed strange tracks—they did not sink deep into the ground like the others. Hurrying along the path, the friends soon found a dark cave and entered it. The Fireberries lit the way for them.
+TARGETS: dwells at
+
+### HQRiG:00305 | HQRiG | p.254 | Side Benefits
+FIGURES: EARTH WITCH
+TEXT: Red Fox might gain a Persuade Elders feat or increase her relationship with Earth Witch. Other heroes might be given a gift by a pleased Earth Witch in return for the gifts given her—from single-use earth spirits to healing mud or spellsticks. Z Results Station 4: Unexpected Travelers! Side Benefits Bush Child and his friends left Earth Witch's cave. All around them was dark and still, for they were deep under the earth indeed. They followed the path that Earth Witch told of and traveled ever downwards into the earth. They traveled for what seemed forever, the caverns and paths endless. Bush Child met with many strange peoples and bizarre dangers on this road but he and his friends overcame them all.
+TARGETS: speaks / prophesies; heals
+
+### HQRiG:00306 | HQRiG | p.254 | Station 3: Earth Witch's Cave
+FIGURES: EARTH WITCH
+TEXT: Bear Stance may gain the Keeneye Tracking feat or find a clever hunting dog if he finds Earth Witch's Cave. Z Station 3: Earth Witch's Cave When Bush Child entered the cave, the heaviness departed. Looking around, they found themselves in Earth Witch's home. Her cave was filled with all the good gifts of the earth, things to eat and drink, healing muds and sacred stones. Bush Child gave Earth Witch the basket of Fireberries and Earth Witch offered the heroes a meal in return. Red Fox was too clever and asked if
+TARGETS: heals
+
+### HQRiG:00308 | HQRiG | p.255 | Lord Below wanted, Strong Earth Nephew promised to serve as
+FIGURES: (none registered)
+TEXT: Lord Below wanted, Strong Earth Nephew promised to serve as he had in the past if Bush Child would forgive him. When Bush Child agreed, there was a feast to seal their bargain. A hogan is a one-room structure made of earth-covered poles, traditionally built with the entrance facing the sunrise. It is used as a dwelling or for ceremony.
+TARGETS: dwells at; trades / exchanges
+
+### HQRiG:00311 | HQRiG | p.255 | The friends traveled deeper into the earth. Eventually they reached
+FIGURES: EARTH WITCH
+TEXT: The friends traveled deeper into the earth. Eventually they reached the hogan of Strong Earth Nephew. It stood in a clearing, the door covered with a bear hide. They could hear sounds of feasting inside. Bush Child entered and confronted Strong Earth Nephew. He challenged the god to a test of strength and arms. He wagered his service against Strong Earth Nephew's. Not wanting to be humbled before his followers, Strong Earth Nephew agreed. The god brandished his spear Blacksnake but Bladeblunt and Toothsharp were strong and protected the hero. Neither could harm the other. Strong Earth Nephew said that they should wrestle. With a smile, Bush Child agreed. The men formed a circle, whooping and jeering. Bush Child took up his stance but as the god stared at him, he felt himself growing heavier. When the god grappled with him, it felt like fighting a landslide. Desperate, he called upon his family and with a surge struck Strong Earth Nephew on the clubfoot Earth Witch had told him of. Howling with pain, the god staggered back and Bush Child swiftly pinned him down. Pleading that he was only doing as Great
+TARGETS: speaks / prophesies
+
+### HQRiG:00314 | HQRiG | p.259 | Heartdrummers
+FIGURES: (none registered)
+TEXT: ; ; ; Bright Ercolina manages to contain her "enthusiasm" as Arshkuveth strikes upon another "cunning plan." 259 Heartdrummers On the first day of Sea Season in 1595, three peals of thunder rang out from the cloudless sky across the Blue Fox tula. Minaressa, grandmother of the clan chieftain and the oldest woman in the tribe, awoke from her doze in the loom house. She found a small hand-drum next to her and went capering across the tula with an agility she had not shown in a generation, playing all the rhythms of the loom upon her drum. At the edge of the clan lands she found a young man clad only in rags carrying a massive and magnificent drum. Handdrum and great drum spoke. Soon the Greeting was exchanged and the stranger returned with Minaressa to the chieftain's hall. She introduced him as Klavis, and hinted that he was a great hero. He was given a seat at the chieftain's table that night. Klavis explained that he had had a vision of a time soon to come when all the old rhythms would be broken and useless. He followed his vision and found the Heartdrum.
+TARGETS: speaks / prophesies; trades / exchanges
+
+### HQRiG:00317 | HQRiG | p.262 | Prophets of the Golden Age
+FIGURES: ALDRYAMI, TANIAN
+TEXT: tor, but eventually turned against humankind and engineered the destruction of the beautiful Machine City. This was the Second Betrayal. To any human foolish enough to accept aid from nonhumans, the Prophets say, "Humans let them meddle in our great project, and we all know how that ended!" When Humankind was deceived by Dragonkind and collaborated in the evil schemes of the Youf, it ended in the massacre of the Dragonkill. This was the Final Betrayal. To any human contemplating worship of the dragonewts, the Prophets retort, "Look what happened to the Golden Horde!" The Prophets have had their victories. Ohlensa Flame-eye called down Tanian's purifying flames on the scaly Waertagi and their slimy fish-kin. Grash Dantaz led the Dark Hunt in the Yolp Mountains, and confounded the secret plans of the Nidan Decamony in the Emerald Blood Battle. A Prophet was among those that unleashed the Skyburn on Erigia to ravage the forests, and another was at the Moonburn in Rist when the Aldryami were vanquished and forced into Dorastor. Now Glorantha stands on the threshold of a New Dawn. Throughout the world, Humankind recognizes the deceit, evil, and murderous intentions of the nonhumans. It is the dawn of a new age, a Golden Age, when humans will rightly seize their place as the true people of the world. A new era, when the lands and treasures that the nonhumans have stolen from humans and hoarded will be returned to their rightful owners.
+TARGETS: hunts
+
+### HQRiG:00318 | HQRiG | p.262 | Grandfather Mortal was the First Person. He is the exemplary
+FIGURES: GRANDFATHER MORTAL
+TEXT: Grandfather Mortal was the First Person. He is the exemplary model of behavior and decision-making for all humans. He made the Path of Death and was responsible for the collection of deities and powers that gathered there afterwards to confront the Devil. He was present during the conference that resulted in the Great Compromise. He was the first being to volunteer for mortality, to maintain the balance of Entropy and Eternity. His cleverness led to the triumph of mankind over the universe, for he won the Gift of Free Will denied to those tied to immortality. It is this Gift that allows mankind to exert their individuality upon the world. Nonhumans can never share in the Gift. Their origins are in the wild and unwieldy elements, and although mortal they do not have the freedom of mankind. Indeed, the shortness of the reigns of the nonhumans speaks for their ultimate demise. In the Mythical Ages they were great and powerful and mankind suffered at their hands. Since the Dawn they have declined, but they still ruined all the compromises that humans offered them to accommodate them into the new universe of Time.
+TARGETS: speaks / prophesies
+
+### HQRiG:00321 | HQRiG | p.262 | The Hero Wars are between…Men and the Elder Races
+FIGURES: ALDRYAMI, MOSTALI, UZ
+TEXT: ; ; ; The Hero Wars are between…Men and the Elder Races At ﬁrst, humans were just one minor race among many, and weaker than most. However, the Gods War was hard on the Elder Races. Since the Dawn, their numbers and powers have dwindled, and they have been forced into marginal lands as human civilizations have expanded. Despite some important successes within Time, most humans believe that the Elder Races are weak, and will eventually die. They are wrong. The Elder Races were around before humans were even imagined, and their plots are as ancient. The Aldryami, Mostali, Uz, and lesser races have been mustering their strength for centuries, and are ready to unleash their vengeance against unsuspecting humanity. Soon, their worlds will expand again, and the humans will be exterminated. 262
+TARGETS: avenges
+
+### HQRiG:00344 | HQRiG | p.295 | Anaxial's Roster
+FIGURES: ANAXIAL
+TEXT: a This is a relatively painless process and should not significantly affect game play. No hero points should be paid unless otherwise noted. 295 a a a Anaxial's Roster When detailed in both places, the entry for a creature in HeroQuest should be used in conjunction with the entry in Anaxial's Roster. In cases of discrepencies or contradictions, data in the HeroQuest entry (such as ability ratings or weapon bonuses) should take precedence. However, where Anaxial's Roster has additional information (such as the new powers possessed by nymphs), such were left out of HeroQuest for simplicity's sake, and the information in Anaxial's Roster is still valid.
+TARGETS: possesses / wields
+
+### GoS:00047 | GoS | p.149 | THE BEANPOT
+FIGURES: HUMAKT, MAHOME
+TEXT: The Blade of Change is one of Humakt's Runic Blades. THE BEANPOT The Beanpot is a kitchen pot stolen from the hearth of Mahome and used as a helmet by "Beanpot" Aelwin, a minor Lunar hero. It was unknown in history before Aelwin began to use it and is an example of a focus that was invented by its wielder instead of one with a well-known previous history. -
+TARGETS: possesses / wields

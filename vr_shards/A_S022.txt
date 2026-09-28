@@ -1,0 +1,300 @@
+[P5-A-B0058-043] S=['ALAKORING DRAGONBREAKER'] P=kills O=['DIAMOND STORM DRAGON', "EMPIRE'S LEADERS"] implicit=False ps="slew" sug=one of: kills, shatters, dies
+   Q: Alakoring came from Ralios and slew many dragons, including the Diamond Storm Dragon and the Empire's leaders.
+[P5-A-B0058-044] S=['ALAKORING DRAGONBREAKER'] P=travels O=[] MOD={"from": "RALIOS"} implicit=False ps="came from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Alakoring came from Ralios
+[P5-A-B0058-045] S=['GORANGI VAK'] P=re-enacts O=['ORLANTH'] implicit=True ps="sought to be a model of" sug=re-enacts
+   Q: Bad kings ruled his land, so he sought to be a model of Orlanth's virtues.
+[P5-A-B0058-046] S=['GORANGI VAK'] P=reveals O=['STORMWALK'] implicit=False ps="revealed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Gorangi also revealed the Stormwalk heroquest path.
+[P5-A-B0058-047] S=['KING HEORT', 'ORLANTH ADVENTUROUS'] P=bestows magic / gifts O=['BLESSING'] IO=['HARMAST'] implicit=False ps="To gain the blessing of" sug=one of: bestows, heals, imbues, teaches
+   Q: Here are the heroquests of Harmast, a peasant who rose to duty: || 2. To gain the blessing of King Heort and Orlanth Adventurous;
+[P5-A-B0058-048] S=['HARMAST'] P=fights O=['JAJAMOKKI'] implicit=False ps="To ambush" sug=invades / raids
+   Q: Here are the heroquests of Harmast, a peasant who rose to duty: || 5. To ambush Jajamokki;
+[P5-A-B0058-049] S=['HARMAST'] P=discovers O=['ARKAT'] MOD={"in_on_at": "LAND OF THE DEAD", "via": ["LIGHTBRINGER'S PATH"]} implicit=True ps="discovered and freed" sug=discovers
+   Q: 6. Upon the Lightbringer's path to the Land of the Dead he discovered Arkat and freed him;
+[P5-A-B0058-050] S=['HARMAST'] P=bestows magic / gifts O=['KEYS OF KARTOLIN'] IO=['TALOR'] MOD={"purpose_clause": "TO AID"} implicit=True ps="returned with to aid" sug=one of: bestows, heals, imbues, teaches
+   Q: 8. Upon the Lightbringer's path again he was wounded but returned with the keys of Kartolin to aid Talor
+[P5-A-B0058-051] S=['LAUGHING WARRIOR'] P=is alternative name for O=['TALOR'] implicit=False ps="whom the Westerners call" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Talor, whom the Westerners call the Laughing Warrior;
+[P5-A-B0058-052] S=['HARMAST BAREFOOT'] P=re-enacts O=["LIGHTBRINGER'S QUEST"] implicit=False ps="was the first human being to travel upon" sug=re-enacts
+   Q: Harmast was the first human being to travel upon the Lightbringer's Quest.
+[P5-A-B0058-053] S=['GBAJI'] P=fights O=['HEORTLINGS'] implicit=False ps="had enslaved, driven into hiding, or killed" sug=binds
+   Q: Gbaji had enslaved, driven into hiding, or killed all of the Heortlings.
+[P5-A-B0058-054] S=['HARMAST BAREFOOT'] P=enters Godtime / Otherworld O=['HERO AGE', 'GOD WORLD'] implicit=True ps="traveled through" sug=enters Godtime / Otherworld
+   Q: He traveled through the Hero Age and God World and returned with Arkat, who later destroyed Gbaji.
+[P5-A-B0058-055] S=['ARKAT'] P=defeats O=['GBAJI'] implicit=False ps="destroyed" sug=shatters
+   Q: returned with Arkat, who later destroyed Gbaji.
+[P5-A-B0059-001] S=['HEORT'] P=teaches O=['I FOUGHT WE WON'] IO=['VINGKOTLINGS'] implicit=True ps="taught about" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: At the end of the Chaos Age, he taught the few remaining Vingkotlings about I Fought We Won.
+[P5-A-B0059-002] S=['SECOND SON'] P=teaches O=['I FOUGHT WE WON'] IO=['HEORT'] implicit=True ps="learned from" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He learned this secret from Second Son, who had fought against the Predark since long before Heort was born.
+[P5-A-B0059-003] S=['SECOND SON'] P=fights O=['PREDARK'] implicit=False ps="had fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Second Son, who had fought against the Predark since long before Heort was born.
+[P5-A-B0059-004] S=['HEORT'] P=protects O=['IVARNE'] MOD={"from": "ICE TOMB"} implicit=False ps="freed from" sug=rescues / frees
+   Q: Heort freed Ivarne from the Ice Tomb where enemies had imprisoned her a hundred generations earlier.
+[P5-A-B0059-005] S=['ENEMIES'] P=binds O=['IVARNE'] MOD={"in_on_at": "ICE TOMB"} implicit=False ps="had imprisoned" sug=binds
+   Q: Heort freed Ivarne from the Ice Tomb where enemies had imprisoned her a hundred generations earlier.
+[P5-A-B0059-006] S=['MANY BLESSED CHILDREN'] P=is child of O=['HEORT', 'IVARNE'] implicit=True ps="had children" sug=is child of
+   Q: They had many blessed children.
+[P5-A-B0059-007] S=['MANY OF THE CLANS'] P=claims ancestry O=['HEORT'] implicit=True ps="was the ancestor of" sug=claims ancestry
+   Q: He was the ancestor of many of the clans that survive today.
+[P5-A-B0059-008] S=['UZ', 'ALDRYAMI', 'MOSTALI'] P=fights O=[] MOD={"in_on_at": "UNITY BATTLE", "at_the_instigation_of": ["HEORT"]} implicit=False ps="he brought together to fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Heort taught a way to achieve unity among all the races, even the Uz, Aldryami, and Mostali, whom he brought together to fight the Unity Battle.
+[P5-A-B0059-009] S=['UNITY OF THE RACES'] P=defeats O=['CHAOS'] implicit=True ps="repelled" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: This unity repelled Chaos so that their army was unable to fight, and so was destroyed.
+[P5-A-B0059-010] S=['EZKANKEKKO'] P=establishes cult O=['UNITY COUNCIL'] implicit=False ps="formed" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: supported Ezkankekko, an Uz, when he formed the Unity Council that ruled the land during the Dawn Age.
+[P5-A-B0059-011] S=['EZKANKEKKO'] P=is member of O=['UZ'] implicit=False ps="an Uz" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Ezkankekko, an Uz
+[P5-A-B0059-012] S=['UNITY COUNCIL'] P=rules O=['THE LAND'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Unity Council that ruled the land during the Dawn Age.
+[P5-A-B0059-013] S=['RENVALD MELDEKBANE'] P=fights O=['GOD LEARNERS'] implicit=True ps="tried to fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When the God Learners came in the Imperial Age, Renvald was one of many who tried to fight them.
+[P5-A-B0059-014] S=['RENVALD MELDEKBANE'] P=enters Godtime / Otherworld O=['ALIEN OTHERWORLD'] MOD={"at_the_instigation_of": ["EVIL SORCERERS"]} implicit=True ps="Driven into" sug=enters Godtime / Otherworld
+   Q: Driven by evil sorcerers into an alien Otherworld, Renvald discovered secret signs of a lost god
+[P5-A-B0059-015] S=['RENVALD MELDEKBANE'] P=discovers O=['SECRET SIGNS OF A LOST GOD'] implicit=True ps="discovered" sug=discovers
+   Q: Renvald discovered secret signs of a lost god
+[P5-A-B0059-016] S=['RENVALD MELDEKBANE'] P=kills O=['SORCERERS'] implicit=True ps="killed one by one" sug=one of: kills, shatters, dies
+   Q: He killed sorcerers one by one, and finally joined the siege of the Clanking City.
+[P5-A-B0059-017] S=['RENVALD MELDEKBANE'] P=fights O=['CLANKING CITY'] implicit=True ps="joined the siege of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He killed sorcerers one by one, and finally joined the siege of the Clanking City.
+[P5-A-B0059-018] S=['MOSTALI'] P=fights O=['RENVALD MELDEKBANE'] implicit=True ps="betrayed" sug=betrays
+   Q: Just as he was about to slay the Flesh Machine, however, the Mostali betrayed him.
+[P5-A-B0059-019] S=['SARTAR'] P=travels O=[] MOD={"to": "KEROFINELA"} implicit=False ps="came to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Sartar is the hero who came to Kerofinela 150 years ago and created a mighty kingdom.
+[P5-A-B0059-020] S=['FOUR GREAT CITIES'] P=comes into being O=[] MOD={"at_the_instigation_of": ["SARTAR"]} implicit=True ps="founded" sug=founds
+   Q: He founded four great cities, linking them with roads.
+[P5-A-B0059-021] S=['SWEN LEAPFOOT'] P=is member of O=['BALKOTH'] implicit=False ps="of the" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Third was Swenstown, built at the request of Swen Leapfoot of the Balkoth.
+[P5-A-B0059-022] S=['SARTAR'] P=alters mythic station O=[] implicit=False ps="his apotheosis" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Sartar ruled wisely for many years, and lit the Flame of Sartar at his apotheosis.
+[P5-A-B0059-023] S=['FLAME OF SARTAR'] P=comes into being O=[] MOD={"at_the_instigation_of": ["SARTAR"]} implicit=False ps="lit" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Sartar ruled wisely for many years, and lit the Flame of Sartar at his apotheosis.
+[P5-A-B0059-024] S=['LUNARS'] P=kills O=['MANY OF THE PRINCES'] implicit=False ps="murdered" sug=one of: kills, shatters, dies
+   Q: the coming of the Lunars, who murdered many of the princes and then finally conquered the land a generation ago.
+[P5-A-B0059-025] S=['LUNARS'] P=defeats O=['SARTAR (KINGDOM)'] implicit=True ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the coming of the Lunars, who murdered many of the princes and then finally conquered the land a generation ago.
+[P5-A-B0059-026] S=['EVIL LUNAR SORCERERS'] P=shatters O=['FLAME OF SARTAR'] implicit=False ps="extinguished" sug=shatters
+   Q: No one has been able to worship Sartar since evil Lunar sorcerers extinguished his Flame.
+[P5-A-B0059-027] S=['VOGARTH THE STRONG MAN'] P=protects O=['INNOCENT PEOPLE'] implicit=True ps="performed many deeds to protect" sug=one of: protects, rescues / frees, aids
+   Q: He performed many deeds during the Silver Age to protect innocent people.
+[P5-A-B0059-028] S=['VOGARTH THE STRONG MAN'] P=is member of O=['SILVER KINGS'] implicit=True ps="to prove himself worthy of becoming one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He performed twelve great feats of strength to prove himself worthy of becoming one of the Silver Kings
+[P5-A-B0059-029] S=['SILVER KINGS'] P=is spouse of O=['MERNGALA'] implicit=False ps="the Husband-Protectors of" sug=is spouse of
+   Q: the Silver Kings, the Husband-Protectors of legendary Queen Merngala.
+[P5-A-B0059-030] S=['RIGSDAL'] P=is identified as O=['POLE STAR'] implicit=False ps="epithet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Rigsdal, Watchman and Pole Star
+[P5-A-B0060-001] S=['GOD LEARNERS'] P=travels O=[] MOD={"from": "JRUSTELA"} implicit=False ps="came from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: During the Second Age of Glorantha, a very powerful people came from the island of Jrustela. || They were called the God Learners
+[P5-A-B0060-002] S=['JRUSTELI MAGICIANS AND MILITARISTS'] P=rules O=['COASTAL LANDS OF GLORANTHA'] implicit=False ps="dominate" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: from their studies developed Jrusteli magicians and militarists to dominate the coastal lands of Glorantha for much of the Second Age
+[P5-A-B0060-003] S=['NATURE'] P=defeats O=['GOD LEARNERS'] implicit=True ps="sprang back and destroyed" sug=shatters
+   Q: before nature sprang back and destroyed them.
+[P5-A-B0060-004] S=['DRAGON-POWERS'] P=manifests O=[] MOD={"in_on_at": "THE VOID"} implicit=False ps="manifested themselves in" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The mystics claim that the dragon-powers manifested themselves in the void by becoming committed and entangled with the world which was yet to come
+[P5-A-B0060-005] S=['THE VOID'] P=is identified as O=['MYSTIC ORIGIN OF THE UNIVERSE'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Void is the mystic origin of the universe.
+[P5-A-B0060-006] S=['GLORANTHA'] P=is child of O=['THE SILENCE'] implicit=True ps="is credited as the mother of" sug=is child of
+   Q: a being without beginning and without end who is credited as the mother of Glorantha, Queen of the Universe.
+[P5-A-B0060-007] S=['QUEEN OF THE UNIVERSE'] P=is alternative name for O=['THE SILENCE'] implicit=True ps="Queen of the Universe" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: a being without beginning and without end who is credited as the mother of Glorantha, Queen of the Universe.
+[P5-A-B0060-008] S=['WELL OF WONDER'] P=is identified as O=['PRIMAL PLASMA'] implicit=True ps="depict the plasma as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Their paintings often depict the plasma as the Well of Wonder, producing the rest of the world.
+[P5-A-B0060-009] S=['MIRACULOUS MATERIAL'] P=transforms into O=['MATERIAL WORLD', 'SPIRITS'] MOD={"from": "WELL OF WONDER"} implicit=True ps="separated into" sug=transforms into
+   Q: The Well contained a miraculous material which separated into those parts of the elements recognizable as the material world and those spirits which guard and tend them.
+[P5-A-B0060-010] S=['THE WORLD'] P=comes into being O=[] MOD={"at_the_instigation_of": ["THE SILENCE"]} implicit=False ps="wished up" sug=conceives
+   Q: Silence woke, and wished up the world, and hoped to know.
+[P5-A-B0060-011] S=['THE WORLD'] P=comes into being O=[] MOD={"at_the_instigation_of": ["CELESTIAL COURT"]} implicit=False ps="are said to have made" sug=conceives
+   Q: A body of deities, the Celestial Court, are said to have made the world.
+[P5-A-B0060-012] S=['COUNCIL OF PAIRS', 'ELEMENTAL DEITIES', 'ELDER GODS'] P=is member of O=['CELESTIAL COURT'] implicit=False ps="was made up of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Celestial Court was made up of three distinct parts: the Council of Pairs, the Elemental Deities, and the Elder Gods.
+[P5-A-B0060-013] S=['DEITIES OF POWER'] P=is alternative name for O=['COUNCIL OF PAIRS'] implicit=False ps="also are called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The gods of the Council of Pairs also are called the deities of Power.
+[P5-A-B0060-014] S=['ACOS'] P=embodies O=['LAW', 'STABILITY'] implicit=False ps="god of" sug=one of: embodies, has domain
+   Q: Acos (u), god of Law & Stability
+[P5-A-B0060-015] S=['LARNSTE'] P=embodies O=['CHANGE', 'MOTION'] implicit=False ps="god of" sug=one of: embodies, has domain
+   Q: Larnste (v), god of Change & Motion
+[P5-A-B0060-016] S=['ULERIA'] P=embodies O=['LOVE'] implicit=False ps="goddess of" sug=one of: embodies, has domain
+   Q: Uleria (X), goddess of Love
+[P5-A-B0060-017] S=['KARGAN TOR'] P=embodies O=['CONFLICT', 'WAR'] implicit=False ps="god of" sug=one of: embodies, has domain
+   Q: Kargan Tor (t), god of Conflict & War
+[P5-A-B0060-018] S=['ORENOAR'] P=embodies O=['TRUTH'] implicit=False ps="goddess of" sug=one of: embodies, has domain
+   Q: Orenoar (Y), goddess of Truth
+[P5-A-B0060-019] S=['TYLENEA'] P=embodies O=['ILLUSION'] implicit=False ps="goddess of" sug=one of: embodies, has domain
+   Q: Tylenea (i). goddess of Illusion
+[P5-A-B0060-020] S=['HARANA ILOR'] P=embodies O=['HARMONY'] implicit=False ps="goddess of" sug=one of: embodies, has domain
+   Q: Harana Ilor (h). goddess of Harmony
+[P5-A-B0060-021] S=['RATSLAF'] P=embodies O=['DISORDER', 'CONFUSION'] implicit=False ps="god of" sug=one of: embodies, has domain
+   Q: Ratslaf (j) god of Disorder & Confusion.
+[P5-A-B0060-022] S=['ELDEST ELEMENTALS'] P=transforms into O=['LESSER BEINGS'] implicit=True ps="divided and subdivided themselves" sug=transforms into
+   Q: These primal Elementals then entered into a self-exploration of potentials which was called devolution. || In this process the entities divided and subdivided themselves in a manner which isolated portions of their internalities as recognizably separate beings.
+[P5-A-B0060-023] S=['ELEMENTAL PANTHEONS'] P=comes into being O=[] implicit=False ps="This process formed" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: This process formed the elemental pantheons of the naturalists.
+[P5-A-B0060-024] S=['DAME DARKNESS'] P=is alternative name for O=['NAKALA'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Nakala, or Dame Darkness (d), goddess of Dark and Cold
+[P5-A-B0060-025] S=['SIR SEA'] P=is alternative name for O=['ZARAMAKA'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Zaramaka, or Sir Sea (Z), god of all Waters
+[P5-A-B0060-026] S=['EMPRESS EARTH'] P=is alternative name for O=['GA'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ga, or Empress Earth (e), goddess of all Earths
+[P5-A-B0060-027] S=['LORD LIGHT'] P=is alternative name for O=['AETHER'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Aether, or Lord Light (f), god of Light and Heat
+[P5-A-B0060-028] S=['KING STORM'] P=is alternative name for O=['UMATH'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Umath, or King Storm (a), god of Air and Storm.
+[P5-A-B0060-029] S=['CENTER OF THE WORLD'] P=comes into being O=[] MOD={"at_the_instigation_of": ["CELESTIAL COURT"]} implicit=False ps="combined their powers and together built" sug=crafts
+   Q: The Celestial Court combined their powers and together built the center of the world.
+[P5-A-B0060-030] S=['PERFECT PALACE', 'SPIKE'] P=is alternative name for O=['CENTER OF THE WORLD'] implicit=True ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: This 'center' is called the Perfect Palace on its interior, and its exterior was called the Spike.
+[P5-A-B0060-031] S=['SPIKE'] P=comes into being O=[] MOD={"with_the_aid_of": ["MOSTAL"]} implicit=False ps="engineered the mundane construction" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The Spike was the cosmic mountain, and it got its name from Mostal the Maker, who engineered the mundane construction.
+[P5-A-B0060-032] S=['YOUNGER DEITIES'] P=departs from O=['SPIKE'] implicit=True ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Younger deities left the unchanging mountain with its secrets and filled the universe with variants of the ancient schemes.
+[P5-A-B0060-033] S=['YOUNG GODS'] P=comes into being O=[] implicit=False ps="were born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The Form Runes were introduced and the Young Gods were born.
+[P5-A-B0060-034] S=['FORM RUNES'] P=comes into being O=[] MOD={"at_the_instigation_of": ["CELESTIAL COURT"]} implicit=True ps="Said to be creations of" sug=conceives
+   Q: Said to be creations of the Celestial Court, each deity made a Form Rune by contributing to it.
+[P5-A-B0060-035] S=['DRAGONEWT RUNE'] P=comes into being O=[] implicit=False ps="First made was" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: First made was the Dragonewt Rune
+[P5-A-B0060-036] S=['GRANDFATHER MORTAL'] P=embodies O=['FORM RUNES'] implicit=True ps="embodied" sug=one of: embodies, has domain
+   Q: The theists claim that there were entities or beings which embodied these Forms. || Grandfather Mortal, also commonly called Old Man, is the best-known of these.
+[P5-A-B0060-037] S=['OLD MAN'] P=is alternative name for O=['GRANDFATHER MORTAL'] implicit=False ps="also commonly called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Grandfather Mortal, also commonly called Old Man, is the best-known of these.
+[P5-A-B0060-038] S=['YOUNG GODS'] P=comes into being O=[] implicit=False ps="were born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: When the elemental deities and power gods grew to their limits of their fulfillment and filled their natural realms, the Young Gods were born.
+[P5-A-B0060-039] S=['INCREASINGLY POWERFUL CHILDREN'] P=is born from O=['MORE POWERFUL ENTITIES'] implicit=False ps="produced" sug=is born from
+   Q: Joinings between more powerful entities produced increasingly powerful children.
+[P5-A-B0060-040] S=['CELESTIAL COURT'] P=teaches O=['YOUNG GODS'] implicit=False ps="taught them ancient knowledge" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: These Young Gods were the delight of the Celestial Court, who nurtured their strange powers and taught them ancient knowledge.
+[P5-A-B0060-041] S=['YELM'] P=rules O=['THE WORLD'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Sun God, Yelm, is said to have been the Emperor of the Universe when he ruled the world.
+[P5-A-B0060-042] S=['EMPEROR OF THE UNIVERSE'] P=is alternative name for O=['YELM'] implicit=False ps="is said to have been the Emperor of the Universe" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Sun God, Yelm, is said to have been the Emperor of the Universe when he ruled the world.
+[P5-A-B0060-043] S=['DAYZATAR'] P=is sibling of O=['YELM'] implicit=True ps="elder' brother" sug=is sibling of
+   Q: He was advised by his elder' brother, Dayzatar
+[P5-A-B0060-044] S=['LODRIL'] P=is sibling of O=['YELM'] implicit=True ps="younger brother" sug=is sibling of
+   Q: aided by his lusty younger brother; Lodril.
+[P5-A-B0060-045] S=['YELM'] P=marries O=['ERNALDA'] implicit=False ps="wed" sug=is spouse of (qual=wedding)
+   Q: Yelm wed Ernalda, the Earth Mother, and many other' deities were counted in his pantheon.
+[P5-A-B0060-046] S=['EARTH MOTHER'] P=is alternative name for O=['ERNALDA'] implicit=False ps="the Earth Mother" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yelm wed Ernalda, the Earth Mother
+[P5-A-B0060-047] S=['UMATH'] P=comes into being O=[] implicit=False ps="The birth of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The birth of the god Umath started the Gods' War.
+[P5-A-B0060-048] S=['UMATH'] P=dismembers O=["UMATH'S FATHER", "UMATH'S MOTHER"] MOD={"purpose_clause": "TO OBTAIN"} implicit=False ps="ripping asunder" sug=dismembers
+   Q: When none was available, Umath made one for himself by ripping asunder his father and mother,,
+[P5-A-B0060-049] S=['CHILDREN OF UMATH'] P=is child of O=['UMATH'] implicit=True ps="producing a brood" sug=is child of
+   Q: Umath devolved violently, producing a brood of unruly entities bent on taking or making their own realms of influence.
+[P5-A-B0060-050] S=['YOUNG GODS'] P=is member of O=['CHILDREN OF UMATH'] implicit=True ps="were joined by" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: They were joined by many other ambitious or frustrated Young Gods.
+[P5-A-B0061-001] S=['YELM'] P=fights O=['ORLANTH'] implicit=False ps="contested as an equal with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Imperial Yelm contested as an equal with barbarian Orlanth.
+[P5-A-B0061-002] S=['HUMAKT'] P=strikes O=['GRANDFATHER MORTAL'] MOD={"using": "DEATH"} implicit=True ps="used it on" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: It came first to the hands of Humakt (who used it on Grandfather Mortal)
+[P5-A-B0061-003] S=['ORLANTH'] P=strikes O=['YELM'] MOD={"using": "DEATH"} implicit=True ps="used it on" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: and then to Orlanth (who used it on Yelm).
+[P5-A-B0061-004] S=['DEATH'] P=comes into being O=[] implicit=False ps="was either the first of the New Powers or the last of the old" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The power of Death was either the first of the New Powers or the last of the old.
+[P5-A-B0061-005] S=['YELM'] P=descends into O=['THE LAND OF DEATH'] MOD={"from": "THE WORLD OF THE LIVING"} implicit=False ps="left the world of the living to follow Grandfather Mortal into" sug=one of: descends into, dies
+   Q: It began when Yelm was killed, and left the world of the living to follow Grandfather Mortal into the land of Death.
+[P5-A-B0061-006] S=['LESSER DARKNESS'] P=is alternative name for O=['STORM AGE'] implicit=False ps="also call" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Philosophers also call the Storm Age the Lesser Darkness.
+[P5-A-B0061-007] S=['DAYZATAR'] P=departs from O=[] implicit=False ps="drew further away" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Dayzatar the Sky God drew further away
+[P5-A-B0061-008] S=['A GOD OF DARKNESS'] P=binds O=['LODRIL'] implicit=False ps="buried and then imprisoned" sug=binds
+   Q: Lodril was first buried and then imprisoned by a god of Darkness
+[P5-A-B0061-009] S=['SPIRITS OF PLANTS, ANIMALS, AND MINERALS'] P=descends into O=['THE PATH OF THE DEAD'] implicit=False ps="took the path of the dead" sug=one of: descends into, dies
+   Q: Spirits of plants, animals, and minerals took the path of the dead and were lost to the world.
+[P5-A-B0061-010] S=['NEW RACES OF HUMANS'] P=comes into being O=[] implicit=False ps="were born in the world" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: During this time new races of humans were born in the world
+[P5-A-B0061-011] S=['CELESTIAL COURT'] P=bestows magic / gifts O=['ANYONE CAPABLE OF WIELDING THE POWERS'] implicit=True ps="lent themselves impartially to" sug=bestows
+   Q: lent themselves impartially to anyone capable of wielding the powers
+[P5-A-B0061-012] S=['KARGAN TOR'] P=fights O=['KARGAN TOR'] implicit=True ps="was forced to face himself in battle" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: war, when he was forced to face himself in battle
+[P5-A-B0061-013] S=['ULERIA'] P=manifests O=['ULERIA'] implicit=False ps="impregnated herself" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Uleria, goddess of love, impregnated herself
+[P5-A-B0061-014] S=['ACOS'] P=embodies O=['LAW'] implicit=False ps="god of Law" sug=one of: embodies, has domain
+   Q: Acos, god of Law, made a ruling and found himself unjust.
+[P5-A-B0061-015] S=['RATSLAF'] P=embodies O=['DISORDER'] implicit=False ps="god of Disorder" sug=one of: embodies, has domain
+   Q: The initial disruptions were hastened by Ratslaf, god of Disorder, and his race of creatures called Boggles.
+[P5-A-B0061-016] S=['BOGGLES'] P=serves O=['RATSLAF'] implicit=False ps="his race of creatures called" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Ratslaf, god of Disorder, and his race of creatures called Boggles.
+[P5-A-B0061-017] S=['LARNSTE'] P=strikes O=['KRARSHT'] implicit=False ps="stamped upon" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Krarsht may have been the creature which Larnste once saw || The god of Motion stamped upon it, hoping to destroy the thing with his divine trampling
+[P5-A-B0061-018] S=['KRARSHT'] P=wounds O=['LARNSTE'] implicit=True ps="bit him and pierced the skin" sug=wounds
+   Q: the slimey thing bit him and pierced the skin. || Larnste was immediately infected and ever afterwards limped when he moved.
+[P5-A-B0061-019] S=['FOUL BLOOD WOODS'] P=comes into being O=[] MOD={"in_on_at": "HOLY COUNTRY"} implicit=False ps="was drenched in polluted ichor" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The place where the monster had been was drenched in polluted ichor, and never has healed itself. || The place is called Foul blood Woods, in the Holy Country.
+[P5-A-B0061-020] S=['LARNSTE'] P=manifests O=['A FOUL CESSPOOL'] implicit=True ps="his blood dropped to the earth it left a foul cesspool" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Wherever his blood dropped to the earth it left a foul cesspool.
+[P5-A-B0061-021] S=['RASHORAN'] P=is member of O=['YOUNG GODS'] implicit=False ps="is said to be the last born of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: One god who lived at this time is said to be the last born of the Young Gods. || He was called Rashoran, and none know his parentage.
+[P5-A-B0061-022] S=['RASHORAN'] P=teaches O=['THE FRIGHTENED GODS'] implicit=False ps="teaching them to be unafraid" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: At first Rashoran went about calming the frightened gods, teaching them to be unafraid.
+[P5-A-B0061-023] S=['RASHORAN'] P=teaches O=['HUMAKT', 'ULERIA'] implicit=True ps="taught this knowledge to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He taught this knowledge to some of the other gods || a few seem to have been fortified, such al Humakt and Uleria.
+[P5-A-B0061-024] S=['UNHOLY TRIO'] P=kills O=['RASHORAN'] MOD={"purpose_clause": "to keep his secret to themselves"} implicit=False ps="destroy" sug=one of: kills, shatters, dies
+   Q: One of the first things they did was to destroy Rashoran to keep his secret to themselves. || These murderers were the Unholy Trio.
+[P5-A-B0061-025] S=['RAGNAGLAR'] P=is member of O=['UNHOLY TRIO'] implicit=True ps="The first of the trio was" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The first of the trio was Ragnaglar, whom some call kinsman to Storm Bull, driven to hatred by jealousy and dishonor-able acts.
+[P5-A-B0061-026] S=['RAGNAGLAR'] P=is sibling of O=['STORM BULL'] implicit=False ps="some call kinsman to" sug=is sibling of
+   Q: Ragnaglar, whom some call kinsman to Storm Bull
+[P5-A-B0061-027] S=['THED'] P=is spouse of O=['RAGNAGLAR'] implicit=False ps="said to have been wife to" sug=is spouse of
+   Q: The second was Thed, said to have been wife to Ragnaglar at one time.
+[P5-A-B0061-028] S=['THED'] P=is member of O=['UNHOLY TRIO'] implicit=True ps="The second was" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The second was Thed
+[P5-A-B0061-029] S=['MALLIA'] P=is member of O=['UNHOLY TRIO'] implicit=True ps="The third was" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The third was Mallia, another goddess, who had great properties to aid birth and growth.
+[P5-A-B0061-030] S=['RAGNAGLAR', 'THED', 'MALLIA'] P=alters mythic station O=[] MOD={"purpose_clause": "to make their weapon of hatred and vengeance"} implicit=True ps="perverted their natures" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: These three joined together and perverted their natures to make their weapon of hatred and vengeance.
+[P5-A-B0061-031] S=['UNHOLY TRIO'] P=discovers O=['PRIMAL CHAOS'] implicit=True ps="had discovered the wonder and power of" sug=discovers
+   Q: for they had discovered the wonder and power of primal chaos, and used it magically to strengthen themselves for what was to come.
+[P5-A-B0061-032] S=['WAKBOTH'] P=is born from O=['UNHOLY TRIO'] implicit=True ps="The product of the ritual was" sug=is born from
+   Q: The product of the ritual was the Devil, the product of poisoned souls. || Documents and oral memories from storm, darkness, and earth cults name the product Wakboth.
+[P5-A-B0061-033] S=['WAKBOTH'] P=is identified as O=['THE DEVIL'] implicit=False ps="Wakboth the Devil" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Wakboth the Devil is the moral evil of the world.
+[P5-A-B0061-034] S=['WAKBOTH'] P=is identified as O=['THE WORLD DEFILER'] implicit=False ps="is the world defiler" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Twisted and foul, Wakboth is the world defiler.
+[P5-A-B0061-035] S=['DEITIES AND SPIRITS OF CHAOS AND DESTRUCTION'] P=comes into being O=[] implicit=False ps="were born into the world" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: After that, more deities and spirits of chaos and destruction were born into the world.
+[P5-A-B0061-036] S=['MANY OF THE WORLD'] P=serves O=['WAKBOTH'] implicit=True ps="joined him" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: in their fear many of the world joined him, swelling the strength of chaos
+[P5-A-B0061-037] S=['KAJABOR'] P=is conflated with O=['WAKBOTH'] implicit=False ps="mistakenly called 'the devil'" sug=one of: is identified as, is worshipped by, is part of
+   Q: Kajabor is mistakenly called 'the devil' in some older documents, confusing him with Wakboth.
+[P5-A-B0061-038] S=['GOD-KILLER', 'BLACK HOLE', 'GREAT FEAR'] P=is alternative name for O=['KAJABOR'] implicit=True ps="Often called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Often called God-Killer or Black Hole or Great Fear
+[P5-A-B0061-039] S=['KAJABOR'] P=embodies O=['ENTROPY'] implicit=False ps="wields entropy" sug=one of: embodies, has domain
+   Q: Kajabor wields entropy in the world.
+[P5-A-B0061-040] S=['PEOPLE OR GODS'] P=serves O=['WAKBOTH'] MOD={"at_the_instigation_of": ["GREAT FEAR"]} implicit=False ps="drives people or gods to follow" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Some say the Great Fear drives people or gods to follow such corruption as Wakboth.
+[P5-A-B0061-041] S=['KAJABOR'] P=rules O=['THE MAJOR CHAOS ARMY'] MOD={"from": "THE NORTH"} implicit=False ps="led" sug=leads
+   Q: Genertelan legend says that the major chaos army approached from the north, and that Kajabor led it.
+[P5-A-B0061-042] S=['GENERT'] P=rules O=["THE GODS' ARMY"] MOD={"in_on_at": "FIELDS OF PLENTY"} implicit=False ps="led" sug=leads
+   Q: A great alliance of deities met upon the Fields of Plenty to fight these new enemies. || Genert led the gods' army.
+[P5-A-B0061-043] S=['GENERT'] P=is identified as O=['EARTH GOD'] implicit=True ps="This earth god" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: This earth god was the ranking spirit there, though not the greatest fighter.
+[P5-A-B0061-044] S=['YAMSUR'] P=is child of O=['THE SUN'] implicit=False ps="was a son of" sug=is child of
+   Q: Splendid Yamsur, who was a son of the Sun
+[P5-A-B0061-045] S=['SEOLINTHUR'] P=is identified as O=["RIVER GOD FOR GENERT'S REALM"] implicit=False ps="river god for" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Seolinthur, river god for Genert's realm.
+[P5-A-B0061-046] S=['THE FORCES OF CHAOS'] P=defeats O=["THE GODS' ARMY"] implicit=True ps="fought to utter victory" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The forces of chaos fought to utter victory. || Their bodies were changed to gorp, and their souls were scoured by the Fatal Screaming.
+[P5-A-B0061-047] S=["THE GODS' ARMY"] P=transforms into O=['GORP'] implicit=True ps="bodies were changed to" sug=transforms into
+   Q: Their bodies were changed to gorp
+[P5-A-B0061-048] S=['KRJALKI BOG'] P=is alternative name for O=['FIELDS OF PLENTY'] implicit=False ps="are now called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Forever polluted, the Fields of Plenty are now called the Krjalki Bog.
+[P5-A-B0061-049] S=['GENERT'] P=protects O=['THE MORTAL RACES'] implicit=False ps="were saved by" sug=one of: protects, rescues / frees, aids
+   Q: The mortal races who sought to escape the rout were saved by Genert, who turned many into a stinging cloud of copper which protected the survivors.
+[P5-A-B0061-050] S=['THE MORTAL RACES'] P=transforms into O=['A STINGING CLOUD OF COPPER'] MOD={"at_the_instigation_of": ["GENERT"], "purpose_clause": "protected the survivors"} implicit=True ps="turned many into" sug=transforms into
+   Q: Genert, who turned many into a stinging cloud of copper which protected the survivors.
+[P5-A-B0061-051] S=['THE MORTAL RACES'] P=survives as relic O=['COPPER SANDS'] MOD={"in_on_at": "THE WASTES OF GENERT"} implicit=True ps="sacrifice is still visible" sug=survives as relic
+   Q: Their sacrifice is still visible in the wastes of Genert, when the Copper Sands are seen.
+[P5-A-B0061-052] S=['MANY GODS'] P=flees to O=['THE SPIKE'] MOD={"purpose_clause": "relying upon the ancient Celestial Court for protection"} implicit=False ps="sought refuge in" sug=flees to
+   Q: Many gods sought refuge in the Spike, relying upon the ancient Celestial Court for protection.
+[P5-A-B0061-053] S=['YOUNG GODS'] P=fights O=['CHAOS'] implicit=False ps="delaying chaos" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Young Gods did their best and did it well, delaying chaos and learning some secrets to fight it.
+[P5-A-B0061-054] S=['KARGAN TOR'] P=departs from O=['HIS POST'] implicit=False ps="abandoned his post" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: But Kargan Tor abandoned his post and the hordes of chaos slid through his faults and into the heart of stability.
+[P5-A-B0061-055] S=['THE HORDES OF CHAOS'] P=travels O=[] MOD={"to": "THE HEART OF STABILITY", "via": ["KARGAN TOR"]} implicit=True ps="slid through his faults and into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the hordes of chaos slid through his faults and into the heart of stability.
+[P5-A-B0061-056] S=['THE CHAOS FORCES'] P=shatters O=['THE ANCIENT RUNES'] implicit=True ps="smashing" sug=shatters
+   Q: powers of creation, smashing the ancient Runes and scattering them to the winds.
+[P5-A-B0061-057] S=['THEIR FOES'] P=dismembers O=['THE GODS AND GODDESSES'] implicit=False ps="were hacked to pieces" sug=dismembers
+   Q: The gods and goddesses collapsed and were hacked to pieces or otherwise abused by their foes.

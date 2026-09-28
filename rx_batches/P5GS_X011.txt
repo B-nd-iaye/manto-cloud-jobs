@@ -1,0 +1,141 @@
+### WOD-GS:01261 | WOD-GS | WOD-GS 1907 (Myth of the Month: Three Documents, One ) | A Letter to the Duke
+FIGURES: (none registered)
+TEXT: I believe, after a month in the company of King Beserid, that it was not they who destroyed the fort and its brave guardians. Beserid first singled out the behemoth we slew. When I explained that such a huge thing would have ruined the castle, he said that it must have been the Kitings-the monster men that live father north, towards the dragon lands. He was quite afraid of them, he said, and was worried that with half his tribe dead they might not make it through the winter. I gave him my deepest regrets and said I would leave behind some food for his people at our fort. I gave him a flag to wave when he came to the fort. It is of your Service Household, of course.
+TARGETS: hates / fears
+
+### WOD-GS:01262 | WOD-GS | WOD-GS 1907 (Myth of the Month: Three Documents, One ) | Excerpt from the Nobility of Emperors
+FIGURES: (none registered)
+TEXT: In the grace of my lord and my God, I shall ever remain truly your servant, Danshavlas of Grumya. IOL, IOV. ### Excerpt from the Nobility of Emperors Duke Malmakan the Tamer of Beasts was killed while alone in his treasure chamber, by an assassin who was not there, but who wielded a gold and silver knife decorated in the style of the Golden Empire.
+TARGETS: possesses / wields
+
+### WOD-GS:01265 | WOD-GS | WOD-GS 1907 (Myth of the Month: Three Documents, One ) | From the tribal storytellers
+FIGURES: (none registered)
+TEXT: The next time a great army burnt a third of the land between the Bullflood and the Syphon. King Oranvil's house singer, Stevalis, carried magic from the tribe into the house of the enemy, undetected by their own protection. Stevalis, Deresa and Enaesrola led the enemy general on a long tour, avoiding everything important. The army sailed away.
+TARGETS: possesses / wields
+
+### WOD-GS:01272 | WOD-GS | WOD-GS 1907 (Myth of the Month: Three Documents, One ) | The story of Stevalis
+FIGURES: (none registered)
+TEXT: Indeed, Stevalis was in the Stone Forest loading the Ice and Stone Band, upon boats that sailed upstream, against the Syphon. They couldn't resist the opportunity to escape, of course, even though Stevalis told them what they would face. So one night as the Golden Knight's army camped upon the shore of the Syphon the little fleet sailed up and its demented cargo fell upon the army. Carnage was great, and when the Golden Knight led other survivors away King Oranvil met them in fair combat, and prevailed.
+TARGETS: speaks / prophesies
+
+### WOD-GS:01275 | WOD-GS | WOD-GS 1907 (Myth of the Month: Three Documents, One ) | The story of Stevalis
+FIGURES: (none registered)
+TEXT: The king agreed that Stevalis had met two thirds of the requirements. In secret, undiscovered, Stevalis and Ela made love two thirds of the way, with great pleasure. Third came the dogs. They were spirit dogs, the long-hated Narangros, but in the service of this enemy now. The men with the dogs rode upon ponies that were as swift as the Heortlings in the forests. Further, the dogs were both fierce and also great trackers, and many clans were caught even though they were as swift and clever as always. The king took his warband and attacked each pack in turn, killing the hunters one by one. He killed even Kang Rowl, who was guarding the son of the enemy king. He killed the boy too.
+TARGETS: hates / fears
+
+### WOD-GS:01276 | WOD-GS | WOD-GS 1907 (Myth of the Month: Three Documents, One ) | The story of Stevalis
+FIGURES: (none registered)
+TEXT: Stevalis fought alongside the king, and wherever there was a fight, he was there. He hated dogs and knew their ways. After the year-long hunt was over he had bite scars on every limb, his front, back and head.
+TARGETS: hates / fears; hunts
+
+### WOD-GS:01283 | WOD-GS | WOD-GS 23565 (Praxian Spirit Tradition (2000)) | Last Briefing Camp
+FIGURES: STORM BULL, WAKBOTH
+CONTEXT: ere entropy and annihilation are present. It's a hole in the spirit world that can suck the very spirits themselves into it. Storm Bull alone can go into it and survive, and inside it is where Storm Bull is always to be found. He may be elsewhere of course, but he is always there. He can be found moving around in its acid storms, and especially at the Last Briefing Camp. #### Last Briefing Camp
+TEXT: This is within the Eternal Battle, and is a sacred spot of Storm Bull where he gives away anything that is desired by the combatants who are going with him to face Wakboth. It is a place of great and easy gifting, but the consequences are often more dire than the gift was good.
+TARGETS: loves / desires
+
+### WOD-GS:01288 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | The Enerali Peoples at the Dawn
+FIGURES: ARKAT, FLAMAL, NYSALOR
+TEXT: - Theyalan Gods - Western Wizardry - Nysalor the Perfect Light - Arkat and Autarchy ## The Enerali Peoples at the Dawn At the Dawn the four tribes of the Enerali (Korioni, Uton, Fornaoli, and Vustri) live from hunting, horse-herding, and the bounty of Mata and Flamal (mixed hunter-gatherer and neolithic farming). They use digging sticks to till the rich soil around Lakes Ehilmka and Felster. They lack all but the crudest metal-working (except for gold which they hammered into ornate jewelry), but make their tools from stone and bone (they later traded with the Seshnegi for metal goods and finally learned bronze-working from the Theyalans).
+TARGETS: trades / exchanges
+
+### WOD-GS:01289 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | The Utoni
+FIGURES: EHILM, EURMAL, FLAMAL, GALANIN, HUMAKT, NAKALA
+TEXT: The Utoni peoples between the Sodal Marsh and Tarinwood are descended from Uton the Hunter, one of the four sons of Eneral the First Man. The Utoni lived in peace and harmony in the Great Forest until Ehilm was killed by Humakt and dragged into the Underworld by the Death Hounds. At the same time, Nakala and her children, the Krjalk, climbed out of the Underworld and conquered the world. Finally, Nakala's cruel Zaval cut down Flamal bringing the Great Darkness. Chaos entered the world and an army of filth scourged the world and destroyed the Great Forest. The Enerali scattered through the dead lands, following Galanin. However, Eurmal then killed Galanin because he was hungry, but had no fire to cook the meat.
+TARGETS: dwells at
+
+### WOD-GS:01290 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | The Utoni
+FIGURES: EHILM, EURMAL, FLAMAL
+TEXT: The world would have died had Eurmal not brought the last fragments of Ehilm's fire back from the Underworld so that he might cook his meat. Eurmal came to Hrelar Amali to use the body of Flamal to feed the flame. To Eurmal's surprise, the flame lit up high and produced the resurrected Ehilm, who rose from Hrelar Amali ("Sacred Rebirth") with the other gods and spirits in his wake. Light and life returned to the world. The gods drove Eurmal off and revived the world.
+TARGETS: dies
+
+### WOD-GS:01291 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | The Utoni
+FIGURES: EURMAL
+TEXT: Dangkal son of Mirol was one of the Utoni who distinguished between the dead and the living and witnessed the Rebirth at Hrelar Amali. Dangkal was told by the gods that they must repeat Eurmal's deed each year, lest the gods fail to return. Dangkal told his kin amongst the Utoni and later amongst the other Enerali people and became the first priest of Hrelar Amali. Those he taught agreed to live with each other in peace and serve the gods, forming the religious Dangan Confederacy.
+TARGETS: speaks / prophesies
+
+### WOD-GS:01297 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | Dangkae Pantheon
+FIGURES: ALDRYA, EHILM
+TEXT: - Tana: the River Goddess. - Tarin: the Earth Defender, the son of Ehilm and Aldrya. - Torif Vamale: War God. - Uele Oline: the Healing Goddess of the Well and Spring. - Zaval: the Darkness Killer.
+TARGETS: heals
+
+### WOD-GS:01298 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | The Vustri
+FIGURES: EHILM
+TEXT: The Vustri people of the lower Doskior River are descended from Vustr son of Eneral and his wife Doska. In the Gods War, two powerful gods contended for the love of the Green Lady: Light-Giving Ehilm the Sun God and the Storm God Erulat whose storm clouds brought Darkness. These two gods fought a terrible war in the heavens. On earth, the sons of Eneral feuded as well: the middle sons Uton and Fornao fought for Ehilm, but Korion, the oldest son, and Vustr, the youngest son, fought for Erulat.
+TARGETS: hates / fears
+
+### WOD-GS:01299 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | The Vustri
+FIGURES: EHILM
+TEXT: At the Battle of Battles, Ehilm and Erulat contended, accompanied by all their companions and armies. Erulat unleashed his greatest weapon, Death, which killed Ehilm, but not before the Sun God shot him with a poisoned arrow. Ehilm was dragged to the Underworld by his own hounds and Erulat was forced to retire to the Precious Snow Mountain. All the sons of Eneral died in the Battle of Battles.
+TARGETS: dies
+
+### WOD-GS:01300 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | The Vustri
+FIGURES: EHILM, EURMAL, FLAMAL
+TEXT: The Vustri scattered, led by Queen Nusa following her great-grandmother Galana into the wilds of the Great Forest. Since then, the leader of the Vustri has always been a woman descended from Nusa. Because Ehilm and Erulat were gone, the evil forces they kept at bay escaped their prison and conquered the world. Darkness monsters called the Valsi founded a kingdom in Halikiv and together with an army of Slithering Chaos, they ravaged the world. The Trickster Korat killed Flamal and all vegetation died.
+TARGETS: dies
+
+### WOD-GS:01301 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | The Vustri
+FIGURES: EHILM
+TEXT: All would have died and all nearly did, but for the Green Lady. She called Erulat to her and had him make peace with Ehilm. Together the world was resurrected at Hrelar Amali. However, the descendents of Vustr's traitorous brother Uton seized Hrelar Amali and made himself chief priest, continuing the feud between the Enerali peoples. The Vustri refused to join the Dangan Confederacy and allied instead with the various Serpent-Beast peoples and their shamans.
+TARGETS: hates / fears; dies
+
+### WOD-GS:01317 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | Nysalor the Perfect Light
+FIGURES: NYSALOR
+TEXT: Nysalor's proselytizers were accepted at Hrelar Amali but not by the monotheists and humanists of the Seshnegi and Brithini. But when a plague of unknown source broke out in Tanisor and spread into Seshnela and Arolanit, the Riddlers of Nysalor were able to heal the plague and accepted among those people as healers. Soon shrines to Nieby could be found throughout the Dari lands, Seshnela and Arolanit, spreading the Illumination of Nysalor.
+TARGETS: heals
+
+### WOD-GS:01324 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | Arkat and Autarchy
+FIGURES: ARKAT, HUMAKT, MALLIA
+TEXT: - Mallia – the goddess of disease was secretly summoned by the Nysalorean illuminates and then sent against Seshnela and Aralonit. ## Arkat and Autarchy Arkat came from the western land of Brithos. Many Ralians say his father was Humakt, the god of war, but the Brithini claim the hero's father was a barbarian warrior. Whatever the truth, Arkat possessed a powerful weapon before he left the island: the weapon called God-Cleaver, reputed to be the Unbreakable Sword.
+TARGETS: possesses / wields
+
+### WOD-GS:01327 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | Arkat and Autarchy
+FIGURES: ARKAT, GBAJI
+TEXT: The Gbaji cult plagued the powerful kingdom of Seshnela at the time. Arkat raised and organized strong local forces to resist and drive off the cult. In 408 ST, Arkat aided King Blastring to invade the Temple of Nieby in Froawal. Although the king died, so were the priests and most of the worshippers.
+TARGETS: dies
+
+### WOD-GS:01329 | WOD-GS | WOD-GS 23018 (Safelster in the First Age (2013)) | Arkat and Autarchy
+FIGURES: ARKAT
+TEXT: Moving deeper into Ralios, Arkat and his army found that many tribes and non-humans had embraced the cult. Since non-humans were uncommon in Seshnela and Brithos, the invaders called the forces arrayed against them the League of Monsters, using the word krjalki to describe their non-human enemies as a single group. In their ignorance, the Brithini and Seshngei thought that the krjalk were mutated monsters who had long sold themselves into Chaos, In 418 S.T. Arkat led his army deep into Ralios, only to be killed by Palangio the Iron Vrok. Arkat and his companions were dismembered, their essence captured and imprisoned in a place normal human souls could not go.
+TARGETS: trades / exchanges
+
+### WOD-GS:01367 | WOD-GS | WOD-GS 22312 (Sites at the Dawn (2006)) | Cafol
+FIGURES: ERNALDA, ORLANTH
+TEXT: - Agriculture - Heortling - Orlanth, Ernalda - here Stravul settled and his followers gathered after his leader, Joranos the Archer, was killed and his lands cursed. ### Cafol - Large town, temple complex
+TARGETS: curses
+
+### WOD-GS:01373 | WOD-GS | WOD-GS 32844 (Summoning Korgatsu (2001)) | Page Last updated: 2026-08-18 11:52:51
+FIGURES: RATHOR
+TEXT: "We need more help," said Rathor, and sent messengers in every direction to find it. They carried gifts and were always friendly, and made friends among all the First Folk. After a while representatives from the First Folk, Second Folk and Third Folk all came from the six directions to Rathorela as guests. They liked it so much that half of them stayed, and for a long time there was much friendship across the whole land between these peoples. Clans moved all around, and the Folk mixed into other lands, and wives or husbands went from clan to clan in the most ancient way.
+TARGETS: possesses / wields
+
+### WOD-GS:01384 | WOD-GS | WOD-GS 1652 (The Enerali circa 130 ST) | Lake Ehilmka
+FIGURES: EHILM
+CONTEXT: r 3200 members in scattered semi-nomadic camps between Doskior and Irimb rivers - Matrilineal, ruled by hereditary queen - Pastoralism (horse herding), hunter-gathering - Galana, Erulat, Marat ### Hrelar Amali - Temple and sacred spring gathering site - 200 humans, aldryami friends - Sacred horticulture, Temple Keepers - Flamal, Matara, Ehilm, Eladra, many other shrines ### Lake Ehilmka
+TEXT: This very shallow lake is slowly becoming marshland. The Fornaoli and Utoni tribes hunt birds and fish among its marshes. The lake was the first to reflect Ehilm's visage when he returned, proving to the gods and mortals that the Darkness had ended.
+TARGETS: hunts
+
+### WOD-GS:01390 | WOD-GS | WOD-GS 44144 (The Gloranthan Sky (1997)) | Constellations
+FIGURES: ARKAT, DRACONIS STELLA, LORION
+TEXT: - Arkat - Bad One - Draconis Stella - Hunt - Ice Palace - Lorion - Love Stars - Sword Stars - Tree - Whisperers - War Stars Many other constellations are recognized locally, but not across the whole world. Several of the stars around the Red Moon, for instance, are said to be her Heroes' On the star maps you will see the rotation of the constellations with the seasons.
+TARGETS: hunts
+
+### WOD-GS:01405 | WOD-GS | WOD-GS 1830 (The Origins of Writing) | By Greg Stafford and Nils Weinander
+FIGURES: CHAQUANDARATH
+TEXT: When Korudel the Architect uttered his first sound it was Dhan, the Great Word. As it moved through the void other sounds came, and these made creation possible. Dhan then inspired Chaquandarath the Priest and Genderatha the Priestess. To honor Dhan, Genderatha made the first hymns, which are sacred sounds uttered to praise and give prayer. Chaquandarath made the first rituals, which honored Dhan through worship. Dhan then spoke the ritual speech and sang the hymns and the creation of the world was begun. When it was made Dhan gave birth to her son, Yedere, the Great Scribe.
+TARGETS: speaks / prophesies
+
+### WOD-GS:01407 | WOD-GS | WOD-GS 1830 (The Origins of Writing) | By Greg Stafford and Nils Weinander
+FIGURES: ANTIGODS, SEA EAGLE
+TEXT: After Seneb was destroyed in the time of the Demigods almost no mortals remained who could read or understand the Yederjalif. Instead people turned to the pernicious learning of the Taladii, the Cursed Scripture of the Antigods. Yedere then manifested as the sage Kadi who created a new script and wrote the Kadijalif, the Second Sacred Scripture. Kadi instructed the Sea Eagle Dynasty of Memb with the Kadijalif so that they could save the last high priests and priestesses.
+TARGETS: curses
+
+### WOD-GS:01423 | WOD-GS | WOD-GS 1918 (Types of Heroquests (2008)) | Conclusion
+FIGURES: ARKAT, AROKA, ORLANTH
+TEXT: Arkat and Harmast discovered how to consciously perform this Otherworld HeroQuesting at the end of the First Age. ### Example - Rain-bringing quest to kill the drought-dragon Aroka. ## Conclusion The three levels of ceremony, Practice Quest and HeroQuest are not exclusive of each other. In a large multi-year ceremony (Skyburn, Moonburn, Death of Orlanth), Practice Quests and even Full HeroQuests are needed to accomplish some of the phases. The only fully clear-cut boundary is whether or not the Officiants actually disappear to Outsiders when they go to the Other Side.
+TARGETS: dies
+
+### WOD-GS:01426 | WOD-GS | WOD-GS 1945 (What is the Third Age History of the Sun) | The Kitori Empire
+FIGURES: BELINTAR, ONLY OLD ONE
+TEXT: The Kitori supported Ezkankekko against the Stranger and were badly hurt by that defeat. Ezkankekko and his primary supporters were all killed. The mighty Engizi River was diverted towards Esrolia and the Styx Grotto became less Styx and more grotto without the sacred waters roaring through. Darkness magic weakened throughout Kethaela. Now it was the Kitori who were weak. They were too weak to delay or slow the Black Spear clan from passing through their lands. Other waves of settlers paid tribute for safe passage through their lands. Belintar did not punish the Kitori and allowed them to recover. Belinar helped the Kitori when the Volsaxing kings seized Whitewall and the surrounding lands. The Nightcult spread, largely through propitiatory worship. Several sites in cities were consecrated and chiefs in many places sent tribute and gifts. From 1460 to 1560, the Kitori collected their tax and worship from the Troll Woods to the Shadow Plateau.
+TARGETS: punishes / exiles

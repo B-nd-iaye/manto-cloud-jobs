@@ -1,0 +1,300 @@
+[P5-A-B0052-002] S=['CLOUD CATS'] P=is child of O=['YINKIN', 'TARHELERA'] implicit=True ps="she bore a different litter of cloud cats" sug=is child of
+   Q: He stayed with her for three times nine days, and each time she bore a different litter of cloud cats.
+[P5-A-B0052-003] S=['YINKIN'] P=fights O=['SERPENTBEAST BROTHERHOOD'] implicit=False ps="fought them as Tol" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When the Serpentbeast Brotherhood came to take Yinkin away the third and last time, he fought them as Tol
+[P5-A-B0052-004] S=['YINKIN'] P=fights O=['TELMOR'] implicit=True ps="fought ... tooth to tooth and claw to claw" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He fought Telmor tooth to tooth and claw to claw
+[P5-A-B0052-005] S=['YINKIN'] P=wounds O=['MRALOT'] MOD={"using": "CLAWS"} implicit=True ps="sliced" sug=wounds
+   Q: sliced Mralot with his claws despite his great wounds
+[P5-A-B0052-006] S=['YINKIN'] P=is child of O=['FRALAR'] implicit=True ps="his father Fralar" sug=is child of
+   Q: finally hid away when he sensed his father Fralar entering the fray.
+[P5-A-B0052-007] S=['YINKINI'] P=enters Godtime / Otherworld O=[] MOD={"in_on_at": "WHISTLING CAVES"} implicit=True ps="perform the rite to enter Godtime" sug=enters Godtime / Otherworld
+   Q: The goal is to find the Whistling Caves and perform the rite to enter Godtime.
+[P5-A-B0052-008] S=['ORLANTH'] P=strikes O=['YINKINI'] MOD={"using": "WINDS"} implicit=False ps="buffets the Yinkini with his winds" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: There, the worshipper meets young Orlanth, who buffets the Yinkini with his winds and blows him off the side of the mountains.
+[P5-A-B0052-009] S=['YINKINI'] P=fights O=['TELMOR'] implicit=False ps="travel to meet Telmor and fight him" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: At the end of Litter Day, a Yinkini can try to travel to meet Telmor and fight him Tooth to Tooth and Claw to Claw.
+[P5-A-B0052-010] S=['ANA GOR'] P=comes into being O=[] implicit=False ps="was born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Ana Gor was born when the first knife killed the first ancestor.
+[P5-A-B0052-011] S=['FIRST KNIFE'] P=kills O=['FIRST ANCESTOR'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Ana Gor was born when the first knife killed the first ancestor.
+[P5-A-B0052-012] S=['ANA GOR'] P=travels O=[] MOD={"from": "GOD WORLD"} implicit=False ps="stepped forth from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Ana Gor stepped forth from the God World to be the Goddess of Death.
+[P5-A-B0052-013] S=['ERNALDA'] P=reveals O=['ANA GOR'] implicit=True ps="threw back her cloak to show the tribe" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: At assembly, Ernalda engaged the stranger and threw back her cloak to show the tribe that she was Death.
+[P5-A-B0052-014] S=['ANA GOR'] P=is identified as O=['DEATH'] implicit=True ps="she was Death" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: At assembly, Ernalda engaged the stranger and threw back her cloak to show the tribe that she was Death.
+[P5-A-B0052-015] S=['HUMAKT'] P=defeats O=['ANA GOR'] implicit=True ps="engaged her ... he was victorious" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Humakt engaged her to see who was stronger; he was victorious, took control of her power, and changed the nature of her bloodshed forever.
+[P5-A-B0052-016] S=['TY KORA TEK', 'BABEESTER GOR', 'MARAN', 'ESROLA'] P=defeats O=['ANA GOR'] implicit=True ps="conquered her and cast her out" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Each time she came back another deity conquered her and cast her out, including Ty Kora Tek, Babeester Gor, Maran, and Esrola.
+[P5-A-B0052-017] S=['ANA GOR'] P=is member of O=['GREAT COMPROMISE'] implicit=True ps="was part of it" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Despite these defeats she always returned, and when the gods made the Great Compromise they discovered that she was part of it.
+[P5-A-B0052-018] S=['ANA GOR'] P=embodies O=['HUMAN SACRIFICE'] implicit=False ps="is the goddess of" sug=one of: embodies, has domain
+   Q: Ana Gor is the goddess of human sacrifice
+[P5-A-B0052-019] S=['ANA GOR'] P=rules O=['BEAUTIFUL PLACE'] MOD={"in_on_at": "LAND OF THE DEAD"} implicit=True ps="Her home" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Her home, the Beautiful Place, is said to be the most pleasant place in the land of the dead
+[P5-A-B0052-020] S=['SORANA TOR'] P=is identified as O=['ANA GOR'] implicit=False ps="Sorana Tor is Ana Gor" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Sorana Tor is a Dragon Pass subcult of Ana Gor, for at times the goddess possesses her dominant priestess. || Thus, Sorana Tor is Ana Gor
+[P5-A-B0052-021] S=['BALTALBOS'] P=fights O=['SORANA TOR'] implicit=True ps="tried to exorcise her cult" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: King Baltalbos tried to exorcise her cult and replace worship with a new goddess.
+[P5-A-B0052-022] S=['LOKAMAYADON'] P=fights O=['SORANA TOR'] implicit=True ps="tried to wipe her out but failed" sug=invades / raids
+   Q: The madman Lokamayadon tried to wipe her out but failed.
+[P5-A-B0052-023] S=['TWO MONG DRAGON', 'GREEN MONG DRAGONET'] P=fights O=['SORANA TOR'] implicit=True ps="tried ... both were ultimately failures" sug=invades / raids
+   Q: In the Dragon Era, both Two Mong Dragon and, later, Green Mong Dragonet tried, and both were ultimately failures as a result.
+[P5-A-B0052-024] S=['ARIM THE PAUPER'] P=discovers O=['SORANA TOR'] MOD={"in_on_at": "DRAGON PASS"} implicit=True ps="found the goddess waiting for him" sug=discovers
+   Q: Nonetheless, when Arim the Pauper came to Dragon Pass he found the goddess waiting for him.
+[P5-A-B0052-025] S=['HAVAN VOR'] P=descends into O=['DEATH'] MOD={"in_on_at": "DRAGON PASS"} implicit=True ps="was killed, his blood spilled here" sug=one of: descends into, dies
+   Q: because when Havan Vor was killed, his blood spilled here.
+[P5-A-B0052-026] S=['HIGH PRIESTESS OF SORANA TOR'] P=embodies O=['ANA GOR'] MOD={"in_on_at": "SHAKER TEMPLE"} implicit=True ps="embody Ana Gor" sug=one of: embodies, has domain
+   Q: Her high priestess there may learn the secret of the subcult and embody Ana Gor so that she can bear a child to become the sacrificial king.
+[P5-A-B0052-027] S=['ASRELIA'] P=is child of O=['THE EARTH'] implicit=False ps="her mother, the Earth" sug=is child of
+   Q: Asrelia was young during the Green Age, and she roamed so far and wide across the body of her mother, the Earth, that the Heortlings now call that time Asrelia's Age.
+[P5-A-B0052-028] S=['ASRELIA'] P=travels O=[] MOD={"in_on_at": "BODY OF THE EARTH"} implicit=False ps="roamed so far and wide across" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Asrelia was young during the Green Age, and she roamed so far and wide across the body of her mother, the Earth, that the Heortlings now call that time Asrelia's Age.
+[P5-A-B0052-029] S=["ASRELIA'S AGE"] P=is alternative name for O=['GREEN AGE'] implicit=False ps="the Heortlings now call that time" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Asrelia was young during the Green Age, and she roamed so far and wide across the body of her mother, the Earth, that the Heortlings now call that time Asrelia's Age.
+[P5-A-B0052-030] S=['ERNALDA', 'ESROLA', 'MARAN'] P=is child of O=['ASRELIA'] implicit=True ps="bore three great daughters" sug=is child of
+   Q: She bore three great daughters, Ernalda, Esrola, and Maran, to unknown fathers.
+[P5-A-B0052-031] S=['ASRELIA'] P=protects O=['WEALTH OF THE EARTH'] MOD={"in_on_at": "WITHIN THE EARTH"} implicit=True ps="saved as much as she could, hiding it" sug=one of: protects, rescues / frees, aids
+   Q: During the Stagnant Age, she watched as other gods freely took the wealth of the Earth. || She saved as much as she could, hiding it within the earth
+[P5-A-B0052-032] S=['ASRELIA'] P=departs from O=['THE WORLD'] MOD={"to": "TY KORA TEK"} implicit=False ps="departed from the world and took refuge with" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Asrelia departed from the world and took refuge with her sister, Ty Kora Tek.
+[P5-A-B0052-033] S=['ASRELIA'] P=protects O=['DAUGHTERS OF ASRELIA'] implicit=False ps="took them and hid them away with her" sug=one of: protects, rescues / frees, aids
+   Q: When her daughters' protectors and powers could not save them during the Darkness, Asrelia took them and hid them away with her.
+[P5-A-B0052-034] S=['ORLANTH'] P=discovers O=['ERNALDA'] MOD={"in_on_at": "UNDERWORLD"} implicit=False ps="found" sug=discovers
+   Q: After Orlanth found Ernalda in the Underworld
+[P5-A-B0052-035] S=['ASRELIA', 'ERNALDA'] P=resurrects O=['THE WORLD'] MOD={"using": "HOARDED RICHES OF ASRELIA"} implicit=False ps="brought the world back to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Ernalda convinced Asrelia to share her hoarded riches and so together they brought the world back to life.
+[P5-A-B0052-036] S=['TY KORA TEK'] P=is twin of O=['ASRELIA'] implicit=False ps="is the twin sister of" sug=is sibling of (qual=twin)
+   Q: Ty Kora Tek is the twin sister of Asrelia.
+[P5-A-B0052-037] S=['TY KORA TEK'] P=dismembers O=['A DARKNESS GOD'] implicit=True ps="broke apart" sug=dismembers
+   Q: She broke apart a darkness god, then used his parts to make a hidden cave where she could hide.
+[P5-A-B0052-038] S=['DEATH'] P=manifests O=[] MOD={"in_on_at": "THE WORLD", "at_the_instigation_of": ["HUMAKT", "EURMAL", "ORLANTH"]} implicit=False ps="released Death into the world" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: In the Gods War, Humakt, Eurmal, Orlanth, and other gods released Death into the world and sent hordes of terrified souls and spirits wandering about without a place to be.
+[P5-A-B0052-039] S=['TY KORA TEK'] P=protects O=['THOSE STRICKEN BY DEATH'] implicit=True ps="aided and sheltered" sug=one of: protects, rescues / frees, aids
+   Q: Ty Kora Tek aided and sheltered those stricken by the new power.
+[P5-A-B0052-040] S=['TY KORA TEK'] P=protects O=['EARTH TRIBE'] implicit=True ps="especially took care of" sug=one of: protects, rescues / frees, aids
+   Q: She especially took care of the Earth Tribe, and the earth was conquered because she hid so many Goddesses.
+[P5-A-B0052-041] S=['TY KORA TEK'] P=bestows magic / gifts O=['EMPTY CRACKED POT'] IO=['ASRELIA'] implicit=True ps="gave her sister" sug=one of: bestows, heals, imbues, teaches
+   Q: Ty Kora Tek then gave her sister an empty, cracked pot.
+[P5-A-B0052-042] S=['EMPTY CRACKED POT'] P=transforms into O=['FULL BASKET'] implicit=True ps="had become" sug=transforms into
+   Q: When Asrelia got to her own house, she found that the pot had become a full basket, which she emptied into the hollow world to fill it again.
+[P5-A-B0052-043] S=['ASRELIA'] P=embodies O=['ALL THAT IS VALUABLE DEEP INSIDE THE EARTH'] implicit=False ps="is the goddess of" sug=one of: embodies, has domain
+   Q: Asrelia is the goddess of all that is valuable deep inside the earth, dispensing what Ty Kora Tek has taken.
+[P5-A-B0052-044] S=['GRANDMOTHER'] P=is alternative name for O=['WORSHIPPERS OF ASRELIA AND TY KORA TEK'] implicit=False ps="address ... as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Heortlings address worshippers of Asrelia and Ty Kora Tek as "Grandmother."
+[P5-A-B0053-001] S=['ASRELIA'] P=manifests O=['HIDDEN TREASURES', 'UNEXPECTED GIFTS', 'STORED GOODS'] implicit=False ps="is present in" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Asrelia is present in hidden treasures, unexpected gifts, and the goods stored to get a clan through the winter.
+[P5-A-B0053-002] S=['TY KORA TEK'] P=is identified as O=['THE SILENCE OF THE GRAVE'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ty Kora Tek is the Silence of the Grave.
+[P5-A-B0053-003] S=['TY KORA TEK'] P=rules O=['SOULS OF THE DEAD'] MOD={"in_on_at": "CAVERN OF SILENCE"} implicit=False ps="tends" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: It also leads to the Cavern of Silence deep under the earth, where Ty Kora Tek tends the souls of the dead.
+[P5-A-B0053-004] S=['TY KORA TEK'] P=is member of O=['DARKNESS PANTHEON'] implicit=False ps="is often counted as part of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Ty Kora Tek is often counted as part of the Darkness Pantheon as well.
+[P5-A-B0053-005] S=['TY KORA TEK'] P=bestows magic / gifts O=['HEORTLING GHOSTS'] IO=['ISSARIES'] implicit=False ps="releases" sug=one of: bestows, heals, imbues, teaches
+   Q: There they stay until Return Day, when Ty Kora Tek releases the Heortling ghosts to Issaries.
+[P5-A-B0053-006] S=['HUMAKT'] P=kills O=['GHOSTS'] MOD={"using": "SWORD"} implicit=True ps="slays" sug=one of: kills, shatters, dies
+   Q: Humakt simply slays them, opening a rift in the veil between the worlds with his sword and forcing them through.
+[P5-A-B0053-007] S=['ISSARIES'] P=travels O=['HEORTLING GHOST'] MOD={"to": "PROPER AFTERLIFE"} implicit=False ps="can lead" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Issaries the Guide can lead a Heortling ghost to its proper afterlife if it is willing
+[P5-A-B0053-008] S=['ORLANTH', 'ERNALDA'] P=teaches O=['HEORTLINGS'] implicit=True ps="taught us this blessing" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Orlanth and Ernalda taught us this blessing, and make the most pleasant thing into a sacred action of cosmic bliss.
+[P5-A-B0053-009] S=['OLD GODS'] P=fights O=['PREDARK'] implicit=False ps="could not defeat" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Making War went on and on, but the Old Gods could not defeat their Predark foes.
+[P5-A-B0053-010] S=['UMATH'] P=comes into being O=[] MOD={"at_the_instigation_of": ["OLD GODS"]} implicit=True ps="created" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They created Umath, the champion, who conquered the Chaos giant.
+[P5-A-B0053-011] S=['UMATH'] P=defeats O=['CHAOS GIANT'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: They created Umath, the champion, who conquered the Chaos giant.
+[P5-A-B0053-012] S=['UMATH'] P=travels O=[] MOD={"to": "OLD GODS", "purpose_clause": "TO OBTAIN"} implicit=False ps="went to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Umath went to the Old Gods to ask for his reward.
+[P5-A-B0053-013] S=['MAKER'] P=is spouse of O=['GROWER'] implicit=False ps="were matched" sug=is spouse of
+   Q: The Elder Gods were matched, like Maker and Grower.
+[P5-A-B0053-014] S=['ASRELIA'] P=is identified as O=['THE MOTHER OF THE SHELL HORSES'] implicit=False ps="Asrelia, the Mother of the Shell Horses" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Where is she, Asrelia, the Mother of the Shell Horses?
+[P5-A-B0053-015] S=['UMATH'] P=protects O=['ASRELIA'] implicit=True ps="had been made to free her, and he did, and returned her home" sug=rescues / frees
+   Q: Umath had been made to free her, and he did, and returned her home.
+[P5-A-B0053-016] S=['UMATH'] P=travels O=[] MOD={"to": "CITADEL"} implicit=False ps="returned to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: So Umath the Champion returned to the Citadel, where the Old Gods waited.
+[P5-A-B0053-017] S=['OLD GODS'] P=rules O=['ASRELIA'] implicit=True ps="She is ours" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: She is not yours. She is ours, as she was before and still is now.
+[P5-A-B0053-018] S=['OLD GODS'] P=bestows geas O=['UMATH'] implicit=True ps="We forbid it" sug=one of: bestows geas, curses
+   Q: We forbid it. You will not be allowed, and the world both created and uncreated is set against you.
+[P5-A-B0053-019] S=['OLD GODS'] P=binds O=['UMATH', 'ASRELIA'] implicit=True ps="kept them apart" sug=binds
+   Q: The Old Gods kept them apart.
+[P5-A-B0053-020] S=['ASRELIA'] P=manifests O=['SAD WEEPING'] implicit=False ps="a sad weeping from Asrelia" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: First was a sad weeping from Asrelia when she understood that she could never fulfill her desire to be with Umath.
+[P5-A-B0053-021] S=['UMATH'] P=manifests O=['ANGER'] implicit=False ps="thundered anger" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Second, Umath thundered anger, so volatile that it collected swirling and burning in the beam tops and punched a hole right through the dome the way an arrow can pierce armor, neat and clean.
+[P5-A-B0053-022] S=['UMATH'] P=kills O=['HOWLING VOID'] implicit=True ps="had just slain" sug=one of: kills, shatters, dies
+   Q: After all, he had just slain the monster Howling Void, and cut its body up to be the world.
+[P5-A-B0053-023] S=['UMATH'] P=dismembers O=['HOWLING VOID'] implicit=True ps="cut its body up to be the world" sug=dismembers
+   Q: After all, he had just slain the monster Howling Void, and cut its body up to be the world.
+[P5-A-B0053-024] S=['OLD GODS'] P=binds O=['UMATH'] implicit=False ps="locked the gates behind him and kept him out" sug=binds
+   Q: Umath left, and the Old Gods locked the gates behind him and kept him out forever after.
+[P5-A-B0053-025] S=['OLD GODS'] P=binds O=['ASRELIA'] implicit=True ps="put Asrelia away" sug=binds
+   Q: They put Asrelia away in one of their own places, where she remained forever, never to find her true mate and husband.
+[P5-A-B0053-026] S=['HEORTLINGS'] P=claims ancestry O=['UMATH', 'ASRELIA'] implicit=True ps="We are the children of" sug=claims ancestry
+   Q: We are the children of Umath and Asrelia, the first people hurt that way.
+[P5-A-B0053-027] S=['OLD GODS'] P=alters mythic station O=['UMATH', 'ASRELIA'] implicit=False ps="did damage to make them into the powers of violence and separation" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: the damage that the Old Gods did to Umath and Asrelia to make them into the powers of violence and separation.
+[P5-A-B0053-028] S=['ORLANTH'] P=is child of O=['UMATH'] implicit=False ps="was the son of" sug=is child of
+   Q: Orlanth was the son of Umath, and Ernalda was the daughter of Asrelia.
+[P5-A-B0053-029] S=['ERNALDA'] P=is child of O=['ASRELIA'] implicit=False ps="was the daughter of" sug=is child of
+   Q: Orlanth was the son of Umath, and Ernalda was the daughter of Asrelia.
+[P5-A-B0053-030] S=['ORLANTH', 'ERNALDA'] P=teaches O=['HEORTLINGS'] implicit=True ps="showed us how to fix that hurt" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Orlanth and Ernalda saved us. They showed us how to fix that hurt.
+[P5-A-B0053-031] S=['TY KORA TEK'] P=is sibling of O=['ASRELIA'] implicit=False ps="are the sisters" sug=is sibling of
+   Q: First are the sisters, Ty Kora Tek and Asrelia.
+[P5-A-B0053-032] S=['MARAN GOR', 'ERNALDA'] P=is child of O=['ASRELIA'] implicit=False ps="Asrelia's daughters were" sug=is child of
+   Q: Asrelia's daughters were Maran Gor and Ernalda.
+[P5-A-B0053-033] S=['BABEESTER GOR', 'VORIA'] P=is child of O=['ERNALDA'] implicit=False ps="Ernalda's daughters were" sug=is child of
+   Q: Ernalda's daughters were Babeester Gor and Voria.
+[P5-A-B0053-034] S=['BABEESTER GOR'] P=is identified as O=['AVENGING GODDESS', 'GUARDIAN OF THE EARTH FAMILY'] implicit=False ps="(cult title)" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Babeester Gor Avenging Goddess, Guardian of the Earth Family
+[P5-A-B0053-035] S=['BABEESTER GOR'] P=is born from O=['ERNALDA'] implicit=True ps="was born from her mother's dead body" sug=is born from
+   Q: Babeester Gor was born from her mother's dead body.
+[P5-A-B0053-036] S=['BABEESTER GOR'] P=is identified as O=['EARTH AVENGER'] implicit=True ps="her task as the Earth Avenger" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: then set off upon her task as the Earth Avenger.
+[P5-A-B0053-037] S=['BABEESTER GOR'] P=kills O=['TALOKANS'] MOD={"using": "GREAT AXE", "purpose_clause": "TO AVENGE"} implicit=True ps="exterminated" sug=one of: kills, shatters, dies
+   Q: With her great axe she killed everything that had harmed her mother, especially the talokans, whom she exterminated, man, woman, child, and deity, and whose blood she brewed to be her deadly ale.
+[P5-A-B0053-038] S=['BABEESTER GOR'] P=bestows magic / gifts O=['ORLANTH'] MOD={"in_on_at": "UNDERWORLD"} implicit=False ps="once fortified" sug=one of: bestows, heals, imbues, teaches
+   Q: This drink, or perhaps another made from Babeester's own blood, once fortified Orlanth when he was in the Underworld.
+[P5-A-B0053-039] S=['BABEESTER GOR'] P=fights O=['OVODAKA'] implicit=False ps="faced" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Babeester Gor killed all of her foes with her great axe until at last she faced Ovodaka, the Last Guardian, who held the goddesses prisoner.
+[P5-A-B0053-040] S=['OVODAKA'] P=is identified as O=['THE LAST GUARDIAN'] implicit=False ps="Ovodaka, the Last Guardian" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ovodaka, the Last Guardian, who held the goddesses prisoner.
+[P5-A-B0053-041] S=['OVODAKA'] P=binds O=['THE GODDESSES'] implicit=False ps="held the goddesses prisoner" sug=binds
+   Q: Ovodaka, the Last Guardian, who held the goddesses prisoner.
+[P5-A-B0053-042] S=['OVODAKA'] P=kills O=['BABEESTER GOR'] implicit=False ps="let Ovodaka kill her" sug=one of: kills, shatters, dies
+   Q: Babeester Gor let Ovodaka kill her.
+[P5-A-B0054-001] S=['BABEESTER GOR'] P=resurrects O=[] MOD={"using": "HER OWN BLOOD"} implicit=True ps="came back to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: She then came back to life by drinking her own blood, and killed Ovodaka.
+[P5-A-B0054-002] S=['BABEESTER GOR'] P=kills O=['OVODAKA'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: She then came back to life by drinking her own blood, and killed Ovodaka.
+[P5-A-B0054-003] S=['URA'] P=is alternative name for O=['BABEESTER GOR'] implicit=False ps="often now called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Babeester Gor (often now called Ura — the Pleasant One)
+[P5-A-B0054-004] S=['BABEESTER GOR'] P=alters mythic station O=['EARTH GUARDIAN'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="took the role of Earth Guardian" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: took the role of Earth Guardian to prevent anyone else from harming the earth.
+[P5-A-B0054-005] S=['BABEESTER GOR'] P=protects O=['ERNALDA'] implicit=True ps="stood vigilantly over" sug=one of: protects, rescues / frees, aids
+   Q: She stood vigilantly over Ernalda's corpse until the Dawn
+[P5-A-B0054-006] S=['BABEESTER GOR'] P=is identified as O=['GODDESS OF REVENGE AND TERROR'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Babeester Gor is the Goddess of Revenge and Terror, worshipped wherever Ernalda is.
+[P5-A-B0054-007] S=['BABEESTER GOR'] P=manifests O=['WISH OF REVENGE'] implicit=False ps="is present in" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Babeester Gor is present in every wish of revenge upon people who did wrong to women.
+[P5-A-B0054-008] S=['BABEESTER GOR'] P=alters mythic station O=['GOR'] implicit=True ps="taking the title of Gor" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: commemorating the goddess' taking the title of Gor.
+[P5-A-B0054-009] S=['BABEESTER GOR'] P=rules O=['AXE HALL'] MOD={"in_on_at": ["SCREAMING ISLE", "SEA OF BLOOD", "VALLEY OF THE CORPSE", "EARTH REALM"]} implicit=False ps="Babeester Gor's Axe Hall" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Babeester Gor's Axe Hall is on the Screaming Isle in the Sea of Blood that collected at the bottom of the Valley of the Corpse in the Earth Realm.
+[P5-A-B0054-010] S=['BABEESTER GOR'] P=is identified as O=['DOOR GUARD'] implicit=False ps="is always one of the two Door Guards" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Babeester Gor has a shrine in every Heortling Earth goddess temple, for she is always one of the two Door Guards.
+[P5-A-B0054-011] S=['BARNTAR'] P=is child of O=['ORLANTH', 'ERNALDA'] implicit=False ps="is the son of" sug=is child of
+   Q: Barntar the Plowman is the son of Orlanth and Ernalda.
+[P5-A-B0054-012] S=['DAGA'] P=binds O=['BARNTAR'] implicit=True ps="hid him away" sug=binds
+   Q: When Daga hid him away from the people and they went hungry
+[P5-A-B0054-013] S=['ERNALDA'] P=descends into O=['UNDERWORLD'] MOD={"purpose_clause": "TO OBTAIN"} implicit=False ps="went to the Underworld to find him" sug=one of: descends into, dies
+   Q: Ernalda went to the Underworld to find him.
+[P5-A-B0054-014] S=['ERNALDA'] P=reveals O=['PACT'] IO=['ORLANTH'] implicit=True ps="showed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Ernalda showed her husband the pact that honored their son and made him happy.
+[P5-A-B0054-015] S=['EARTH'] P=transforms into O=['ROCK'] MOD={"at_the_instigation_of": ["STONE PEOPLE"]} implicit=False ps="turned the earth to rock" sug=transforms into
+   Q: When the Stone People came and turned the earth to rock
+[P5-A-B0054-016] S=['GRAPE WOMAN'] P=challenges O=['BARNTAR'] implicit=True ps="tempts" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Grape Woman sometimes tempts him, but some god or another always rescues him so that he can return to his fields.
+[P5-A-B0054-017] S=['BARNTAR'] P=is identified as O=['GOD OF FARMERS'] implicit=False ps="is the god of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Barntar is the god of farmers.
+[P5-A-B0054-018] S=['SLAVERY'] P=comes into being O=[] MOD={"at_the_instigation_of": ["VADRUS"]} implicit=False ps="invented" sug=discovers
+   Q: Vadrus grew so desperate that he invented slavery
+[P5-A-B0054-019] S=['VADRUS'] P=bestows magic / gifts O=['SLAVES'] IO=['ICE DEMONS'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="sold" sug=one of: bestows, heals, imbues, teaches
+   Q: and then sold his slaves to the ice demons in return for their help.
+[P5-A-B0054-020] S=['ERNALDA'] P=is identified as O=['OUR GODDESS'] implicit=False ps="our goddess Ernalda" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: That was when balance was lost, for after that our goddess Ernalda had no place to stand where she was not wary of her health.
+[P5-A-B0054-021] S=['BARNTAR'] P=manifests O=['PLOWS', 'STRAIGHT FURROWS', 'SMELL OF NEW-TURNED EARTH'] implicit=False ps="is present in" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Barntar is present in every one of his plows, in straight furrows, and in the smell of new-turned earth.
+[P5-A-B0054-022] S=['BARNTAR'] P=rules O=["BARNTAR'S BIG HOUSE"] MOD={"in_on_at": ["ORLANTH'S STEAD", "STORM REALM"]} implicit=False ps="Barntar's Big House" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Barntar's Big House (half of which is divided into stalls for his oxen) lies in Orlanth's Stead in the Storm Realm.
+[P5-A-B0054-023] S=['MAHOME'] P=is spouse of O=['BARNTAR'] implicit=False ps="Barntar's wife is" sug=is spouse of
+   Q: Barntar's wife is Mahome
+[P5-A-B0054-024] S=['BARNTAR'] P=substitutes O=['ORLANTH'] MOD={"at_the_instigation_of": ["THE LUNAR OCCUPIERS OF DRAGON PASS"]} implicit=False ps="accept Barntar as an alternative to" sug=substitutes
+   Q: The Lunar occupiers of Dragon Pass accept Barntar as an alternative to Orlanth.
+[P5-A-B0054-025] S=['VADRUS', "VADRUS' HOUSEHOLD"] P=fights O=['ERNALDELA'] implicit=False ps="raided" sug=invades / raids
+   Q: One time Vadrus and his household raided Ernaldela.
+[P5-A-B0054-026] S=['VADRUS', "VADRUS' HOUSEHOLD"] P=steals O=['HERDS OF ANIMALS'] MOD={"from": "ERNALDELA"} implicit=True ps="took away" sug=steals
+   Q: They broke many of the buildings and took away herds of animals.
+[P5-A-B0054-027] S=['BARNTAR'] P=is child of O=['ORLANTH'] implicit=False ps="was a brave son of" sug=is child of
+   Q: Great Barntar was living there at the time, and he was a brave son of Orlanth.
+[P5-A-B0054-028] S=['VADRUDI'] P=fights O=['BARNTAR'] implicit=True ps="ganged up on" sug=invades / raids
+   Q: without any warning all of the Vadrudi ganged up on him.
+[P5-A-B0054-029] S=['VADRUDI'] P=kills O=['BARNTAR'] MOD={"to": "LAND OF THE DEAD", "using": "HARD WEAPONS"} implicit=True ps="sent the best of carls to Land of the Dead" sug=one of: kills, shatters, dies
+   Q: With hard weapons and cruel hearts, they sent the best of carls to Land of the Dead. || This time, Barntar was Dead.
+[P5-A-B0054-030] S=['THE WOMEN'] P=establishes cult O=['FIRST FUNERAL CEREMONY'] implicit=True ps="Their actions there made the first funeral ceremony" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: They had cleaned the body, and they had prepared a great pyre. Their actions there made the first funeral ceremony.
+[P5-A-B0054-031] S=['ORLANTH', "ORLANTH'S HOUSEHOLD", 'HEROES OF THE VINGKOTLINGS'] P=travels O=[] MOD={"to": "VADRUS' HALL", "via": ["GREAT ICE"], "purpose_clause": "TO AVENGE"} implicit=True ps="set off across the great ice to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Orlanth was determined to avenge this terrible slight. || they set off across the great ice to Vadrus' filthy hall.
+[P5-A-B0054-032] S=['ELMAL'] P=shatters O=['WALL OF ICE'] implicit=True ps="the wall melted away before him" sug=shatters
+   Q: the vengeance of Elmal the Burner was so great that the wall melted away before him.
+[P5-A-B0054-033] S=['VADRUS'] P=challenges O=['ORLANTH'] implicit=True ps="challenged to a duel" sug=one of: challenges, breaks oath, betrays, fights
+   Q: He challenged Orlanth to a duel, one on one.
+[P5-A-B0054-034] S=["ORLANTH'S HOUSEHOLD"] P=fights O=["VADRUS' THANES"] implicit=False ps="attacked" sug=invades / raids
+   Q: all of Orlanth's household raised their weapons and attacked Vadrus' thanes.
+[P5-A-B0054-035] S=['ORLANTH'] P=defeats O=['VADRUS'] implicit=False ps="thrashed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In the fair fight that followed Orlanth thrashed Vadrus
+[P5-A-B0054-036] S=['ORLANTH'] P=wounds O=['VADRUS'] implicit=True ps="twisted him so that he was never again able to stand upright" sug=wounds
+   Q: with a backwards wrestling throw twisted him so that he was never again able to stand upright or fight properly.
+[P5-A-B0054-037] S=['ORLANTH'] P=bestows magic / gifts O=['HOLDINGS OF VADRUS'] IO=['VALIND'] implicit=False ps="declared that all of the holdings of Vadrus belonged to" sug=one of: bestows, heals, imbues, teaches
+   Q: Orlanth declared that hereafter all of the holdings of Vadrus belonged to Valind, Vadrus' most cowardly son.
+[P5-A-B0054-038] S=['VALIND'] P=is child of O=['VADRUS'] implicit=False ps="Vadrus' most cowardly son" sug=is child of
+   Q: Valind, Vadrus' most cowardly son.
+[P5-A-B0054-039] S=['VALIND'] P=pledges oath with O=['ORLANTH'] implicit=False ps="swore a promise" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Valind accepted this honor from Orlanth, and swore a promise.
+[P5-A-B0054-040] S=['VADRUDI'] P=fights O=['VADRUDI'] implicit=True ps="fought among themselves" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: They then fought among themselves relentlessly, which kept Valind too busy to betray Orlanth.
+[P5-A-B0054-041] S=['WERGILD'] P=comes into being O=[] MOD={"at_the_instigation_of": ["ORLANTH"]} implicit=False ps="he had made that law" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: "Wergild can be paid to halt blood feud," countered Orlanth, for he had made that law.
+[P5-A-B0054-042] S=['ORLANTH'] P=is identified as O=['CHIEFTAIN'] implicit=False ps="was always the chieftain" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Orlanth was always the chieftain, and relied upon all his council for advice.
+[P5-A-B0054-043] S=['CHALANA ARROY'] P=teaches O=['ORLANTH'] implicit=True ps="advised" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: They did as Chalana Arroy advised.
+[P5-A-B0054-044] S=['ORLANTH'] P=sacrifices O=['EFFIGY'] MOD={"using": "SACRED FIRE"} implicit=False ps="burned" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: After a year, Orlanth burned the effigy in a sacred fire.
+[P5-A-B0055-001] S=['BRASTALOS'] P=is identified as O=['THE CALM AIR'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Brastalos is the Calm Air, a bastion of peace within Orlanth's tumultuous family.
+[P5-A-B0055-002] S=['BRASTALOS'] P=is member of O=["ORLANTH'S FAMILY"] implicit=False ps="a bastion of peace within" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Brastalos is the Calm Air, a bastion of peace within Orlanth's tumultuous family.
+[P5-A-B0055-003] S=['BRASTALOS'] P=travels O=[] MOD={"to": ["DRAGON PASS", "HEORTLAND"]} implicit=True ps="comes to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She comes to Dragon Pass and Heortland in Fire Season, bringing fair weather as a respite from the storms.
+[P5-A-B0055-004] S=['BRASTALOS'] P=is child of O=['KOLAT'] implicit=True ps="is said to be a daughter of" sug=is child of
+   Q: Her parentage is uncertain; sometimes she is said to be a daughter of Kolat (and so Orlanth's neice)
+[P5-A-B0055-005] S=['BRASTALOS'] P=is child of O=['UMATH'] implicit=True ps="a daughter of" sug=is child of
+   Q: other times a daughter of Umath (and so Orlanth's sister).
+[P5-A-B0055-006] S=['DONANDAR'] P=is identified as O=['HIGH GOD OF MUSIC'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Donandar is the high god of music.
+[P5-A-B0055-007] S=['DONANDAR'] P=claims ancestry O=['TRANSCENDENT BEINGS'] implicit=True ps="is descended from" sug=claims ancestry
+   Q: He is descended from transcendent beings, and transcendence is a key to his being.
+[P5-A-B0055-008] S=['DONANDAR'] P=is child of O=['RALFORISUS', 'TYLENEA'] implicit=True ps="is the son of" sug=is child of
+   Q: He is the son of two gods from the Gloranthan Court, named Ralforisus and Tylenea.
+[P5-A-B0055-009] S=['DONANDAR'] P=is child of O=['PERFECT MUSIC', 'ILLUSION'] implicit=True ps="his parents are called" sug=is child of
+   Q: Sometimes his parents are called Perfect Music and Illusion
+[P5-A-B0055-010] S=['MUSICAL DEITIES'] P=is born from O=['DONANDAR'] implicit=False ps="left behind a part of himself" sug=is born from
+   Q: Donandar wandered the world and wherever he stopped he performed and left behind a part of himself. || These are the many musical deities, powers, and eternal songs of the cosmos.
+[P5-A-B0055-011] S=['DONANDAR'] P=travels O=[] MOD={"in_on_at": "THE WORLD"} implicit=False ps="wandered the world" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Donandar wandered the world and wherever he stopped he performed and left behind a part of himself.
+[P5-A-B0055-012] S=['DONANDAR'] P=transforms into O=[] implicit=True ps="changed sex" sug=transforms into
+   Q: He changed sex several times to please his partner.
+[P5-A-B0055-013] S=['DISHARMONY', 'DARKNESS'] P=kills O=['DONANDAR'] implicit=True ps="eventually killed him" sug=one of: kills, shatters, dies
+   Q: He was helpless against the disharmony and darkness, which eventually killed him.
+[P5-A-B0055-014] S=["DONANDAR'S CHILDREN"] P=protects O=['DONANDAR'] implicit=True ps="did not let him go even in death, and supported him" sug=one of: protects, rescues / frees, aids
+   Q: His children did not let him go even in death, and supported him so that he became part of the Great Compromise.
+[P5-A-B0055-015] S=['DONANDAR'] P=is member of O=['GREAT COMPROMISE'] implicit=True ps="became part of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: His children did not let him go even in death, and supported him so that he became part of the Great Compromise.
+[P5-A-B0055-016] S=['DONANDAR'] P=embodies O=['WEB OF THE WORLD'] implicit=False ps="forms the harmonious strands of" sug=one of: embodies, has domain
+   Q: Some worshippers say that Donandar himself forms the harmonious strands of the Web of the World.
+[P5-A-B0055-017] S=['GOD LEARNERS'] P=discovers O=['DONANDAR'] implicit=False ps="discovered" sug=discovers
+   Q: The God Learners discovered Donandar
+[P5-A-B0055-018] S=['DONANDAR'] P=is identified as O=['PRINCIPLE OF RHYTHM AND TONE'] MOD={"in_accordance_with": ["GOD LEARNERS"]} implicit=True ps="said he was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: said he was the principle of rhythm and tone that underlies all music.
+[P5-A-B0055-019] S=['DROGARSI', 'SKOVARA'] P=is child of O=['DONANDAR'] implicit=False ps="is Drogarsi's mother and Skovara's father" sug=is child of
+   Q: In the usual Heortling version of the myths, he is Drogarsi's mother and Skovara's father. || In the Donandar versions, however, he is Skovara's mother and Drogarsi's father!
+[P5-A-B0055-020] S=['MOLAMIN', 'HYRAOS'] P=is member of O=['DARA HAPPAN PANTHEON'] implicit=False ps="come from" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Molamin the Choreographer (see below) and Hyraos the Harper come from the Dara Happan Pantheon
+[P5-A-B0055-021] S=['DONANDAR'] P=manifests O=['MUSIC AND RHYTHM', 'MUSICAL INSTRUMENTS'] implicit=False ps="is present in" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: All music and rhythm come from Donandar, manifested through the instruments, voice, and movements of his worshippers. || He is present in all musical instruments.

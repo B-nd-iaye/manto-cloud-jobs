@@ -1,0 +1,136 @@
+### KoS:01064 | KoS | pdf.181 | Source: Ingard the Wordwise, speaker of Colymar
+FIGURES: ARGRATH, RED EMPEROR
+TEXT: **Kangharl "Blackmoor" Kagradusson**, Taraling Clan, 1615‑1625; who sold his tribe to the Lunar Way, and forced his people to swallow the bitter Lunar poison so that he could be king. He was eaten by the Brown Dragon. **Leika "Beti" Orlkensorsdotter**, Taraling Clan, 1625‑1638; who drove off the Red Emperor and his army after the High Queen was killed. She helped Argrath in many ways.
+TARGETS: trades / exchanges
+
+### KoS:01069 | KoS | pdf.183 | Prince Argrath and the Colymar
+FIGURES: ARGRATH, THE RED KING
+TEXT: When Argrath returned home he was welcomed by everyone at the city of Boldhome. Then, early in his reign, he went to the Colymar Tribe, which he claimed as his own. The Colymar Tribe had always supported Argrath. Its queen was nearly as famous in these lands as Prince Argrath was. She was Leika In‑the‑hills, who had been banished by the Red King, but returned and seized the tribe again.
+TARGETS: punishes / exiles
+
+### KoS:01086 | KoS | pdf.185 | The Story of Ortossi and His Sons
+FIGURES: (none registered)
+TEXT: Gustand and Orendal were the sons of Ortossi. Elgane and Rana were their sisters. Gustand came back to the clan one day, years after he had left. He told them that his father needed some metal. They agreed, and he took all the metal from the town with him. He was never seen again. That year, Fedarkos of the Jenstali Clan brought suit against the Karandoli Clan, for the grazing rights to the west Brambleberry Hills, but nothing was done.
+TARGETS: speaks / prophesies
+
+### KoS:01107 | KoS | pdf.191 | The Solar Story
+FIGURES: (none registered)
+TEXT: *I have found these origin stories among the primitives of Krjalkiland. Synopsized, they are:* ## **The Solar Story** **Source:** [Found among the Dara Happan river‑dwellers and Pent Nomads.] Originally the horse was a very different beast, noble and perhaps even draconic. The Dara Happans claim it used to be a hippogriff. But during the Downfall the noble creature was slowly stripped of all its glory until it became just the servant beast which it is today. It was rescued from total ignominy by Hyalor, called Horsebreaker, who was a leader in Peloria, and who is claimed by both the native Dara Happans and the Pent nomads.
+TARGETS: dwells at
+
+### KoS:01111 | KoS | pdf.192 | The Pony
+FIGURES: GALANIN, HYKIM AND MIKYH
+TEXT: "Galanin is the son of Lofak, who is the god of Hoofed Animals, and is the son of Hykim and Mikyh, the dragon ancestors of all beasts." The Galanini were actually a large confederation of pony‑riders who lived in Ralios before it was civilized. They were foes of the Basmoli, or lion‑men, who occupied Seshnela and Tanisor then.
+TARGETS: dwells at
+
+### KoS:01114 | KoS | pdf.192 | The Black Net
+FIGURES: FEATHERED HORSE QUEEN, IRONHOOF
+TEXT: *The land where the spirits dwell, Where they walk like men, but shun the paths of men, Seeking peace, among the silver realm.* There is another tale of Hiia Swordman, an outlaw whose exile brought him to Dragon Pass even earlier, and who met the Pure Horse People in the hills and guided them to Ironhoof. This swordsman was reincarnated in a cult of weaponsmasters in the time of the Feathered Horse Queen. He shunned the bow because he had lost his left hand, and he made himself a breastplate of turtleshell, which was later copied in the metal, bone, and wood cuirasses of the cult.
+TARGETS: dwells at; punishes / exiles
+
+### KoS:01115 | KoS | pdf.192 | The Butcher's Story
+FIGURES: EURMAL
+CONTEXT: as later copied in the metal, bone, and wood cuirasses of the cult. The demigod Ironhoof was pleased to greet worshipers of his uncle, the Great Horse. He purified them of their curse, renamed them the Grazelanders, and granted them all the flat lands north of the Beast Valley. There they settled, hiding amid the Elder Races of the Pass, and grew quietly in strength. ## **The Butcher's Story**
+TEXT: There is one which is told about how to butcher a horse properly. They say that one time people and horses were one and the same. They looked different, and they acted different, and they were all unhappy. Trickster came to them and he saw a chance to use his new knife. He
+TARGETS: speaks / prophesies
+
+### KoS:01116 | KoS | pdf.193 | The Butcher's Story
+FIGURES: EURMAL
+TEXT: <span id="page-192-0"></span>told the horse folk that they could be happy if they ate the right food. Some of them agreed to try it out. Trickster said they would have to be blindfolded to do it right, and some of them still agreed. So Trickster blindfolded them and put the knife into their hands. He then guided their hands to cut up the prey which he had caught.
+TARGETS: speaks / prophesies
+
+### KoS:01118 | KoS | pdf.193 | The Butcher's Story
+FIGURES: (none registered)
+TEXT: The grief‑stricken Cutter was horrified that both parts of his mate still lived, and would have run away except that the knife was too heavy to hold and he could not let go. Both parts then spoke to Cutter, and the human and horse parts both said they no longer felt any pain, and that both were more happy this way.
+TARGETS: speaks / prophesies
+
+### KoS:01136 | KoS | pdf.195 | The Feathered Horse Queens
+FIGURES: FEATHERED HORSE QUEEN
+TEXT: La‑ungariant had always been a pliant goddess, and though subordinate to her husband nonetheless had considerable power within her family. But one day she found her husband beating her children mercilessly, and she begged him to stop. When Esnandrol would not, she was terrified and turned away, and fled to the shadowy realms to hide. There she met her sisters, who had been missing for many years. They shared secrets, both bitter and sweet, and then they conferred her own regal powers upon the queen. When she returned, she was called the Feathered Horse Queen, because she wore the ancient signs of regal office which had been stripped from her goddess in the Gods Age.
+TARGETS: possesses / wields
+
+### KoS:01149 | KoS | pdf.199 | Argrath and the Devil
+FIGURES: ARGRATH, LIGHTBRINGERS, UNHOLY TRIO, WAKBOTH
+CONTEXT: ke the Sun and burned away the polluted lives of the masses of worthless citizenry that dared to oppose them. The Army of the Emperor assembled and they marched to the Fields of Distain to fight. There, they stood as they had stood since before the start of Time, and the nation defied the Devil. Wakboth smeared the people like jelly, and after the Battle of Distain, even the gods were just food.
+TEXT: Then Wakboth took the crown, which was decorated with the living bodies of a thousand high priests and priestesses, each which served a god of some unthinkable vice, corruption, perversion, or mutation. The Unholy Trio were given empires to rule. Then did Argrath call together all of his council, and ask them what he should do. They told him that of old, it was the Lightbringers which saved them from this. But Argrath had already done that, and so that was not a choice.
+TARGETS: speaks / prophesies
+
+### KoS:01153 | KoS | pdf.199 | Argrath and the Devil
+FIGURES: ARGRATH, EURMAL
+TEXT: And then Argrath told them what to do. The gods were as one, and they wrapped the evil invader with the great net, and each of them held it strong and pulled upon it. Argrath was never bound to the old ways, but was still subject to them. This was when his Trickster betrayed him. For in that moment that the great council all pulled upon the net, then they were all caught up by it, wrapped together like a bag of squirrels in a string sack.
+TARGETS: speaks / prophesies
+
+### KoH:00014 | KoH | p.7 | HeroQuest
+FIGURES: (none registered)
+TEXT: HeroQuest rightful place in the sky and the Great Darkness was banished. To keep Chaos from coming to their realm again, the gods swore great oaths and compacts resulting in the Great Compromise, constraining their ability to intercede in the mundane world. Men call this Time. By altering the world, the gods saved it, and History began.
+TARGETS: punishes / exiles
+
+### KoH:00075 | KoH | p.39 | Death was the first thing that set people apart from
+FIGURES: CELESTIAL COURT, GRANDFATHER MORTAL, JAGREKRIAND, OLD GODS, ORLANTH, UMATH
+TEXT: 2. Death was the first thing that set people apart from the gods. Grandfather Life was the first to be killed with Death and afterwards was called Grandfather Mortal. Because of that, all of his descendents have been set apart from the gods, even after death came to the gods as well. Umath was destroyed by the Emperor's bloody lieutenant, the Red God Jagrekriand, which set off the horrible time called The Gods War. In that turbulent era, the parts of the world fought itself; gods grappled, and threw landmarks at each other. The Old Gods of the Celestial Court were destroyed and shattered. Amid the destruction, the mortal peoples adapted to survive or died off. Different peoples had different ways to cope. Umath's youngest and wisest son, Orlanth, was initially one of the many upstart, rebellious deities bent upon conquest of the world. Orlanth's unique contributions at the time were his honor and his kinship to the deities of Air. Where the Bright Emperor sought to control people through fear, force, and hollow laws, Orlanth gathered his people by force of virtue, character, and example.
+TARGETS: dies
+
+### KoH:00085 | KoH | p.42 | Venebain the Lightfore, leader of the
+FIGURES: JAGREKRIAND, LIGHTFORE, MOSTALI, ORLANTH, TADA, UMATH, VALIND, YINKIN, ZZABUR
+TEXT: □ 1. □ 2. □ 3. □ 4. □ 5. □ 6. □ □ 7. 8. □ 9. Venebain the Lightfore, leader of the Fire Tribe, heirs to the Evil Empire. The Dragonewts, the dire dragon people. Mostali and the Stone Tribe, made up of the change-hating dwarves. Chinkis Mor the Elf Warlord, who grew his forests across our plowlands. Ves Venna, the son of Valind who fought his own kin without honor. Jagrekriand the Red God, who broke Umath and hated Orlanth's people. Tada the Green, Lord of Prax. Zzabur the Atheist, who tried to kill Orlanth with sorcery. Narga the Bad Dog, who hated Yinkin and the Vingkotlings.
+TARGETS: hates / fears
+
+### KoH:00087 | KoH | p.43 | Eventually, the Great Darkness descended on
+FIGURES: ORLANTH
+TEXT: 10. The Great Darkness Eventually, the Great Darkness descended on Glorantha. Many gods died, others slept, and even Orlanth abandoned his people to try to save the world. Everything in the universe seemed hostile, and was at least uncaring. You saw many die and many strangers joined the surviving clans. The adoption rites were made at this time, and used extensively so that everyone could survive. Which disaster nearly exterminated your folk? □ □ □ □ □ □
+TARGETS: dies; sleeps / wakes
+
+### KoH:00094 | KoH | p.44 | Even mighty Orlanth and his companions eventually
+FIGURES: ERNALDA, ORLANTH
+TEXT: □ 2. □ 3. 12. The Die Off □ 4. Even mighty Orlanth and his companions eventually abandoned all humans to their fate. Only a few deities, small ones or weak ones, remained. The world died. Even the greatest of the gods were locked into static lifelessness or were out of control as a destructive force. Only a handful of minor or diminished deities struggled on, helping and being helped by their human accomplices. Everyone who survived the Great Darkness did so because of a survival secret they learned. Most were saved by a Living God, who protected them until Orlanth and Ernalda eventually returned.
+TARGETS: dies
+
+### KoH:00099 | KoH | p.45 | The elves, who taught you
+FIGURES: ALDRYAMI, MOSTALI, UZ
+TEXT: 1. □ 2. □ 3. □ 4. □ 5. The elves, who taught you to call them Aldryami. The Mostali, whom you had previously called dwarves. The trolls, who now wanted you to call them Uz. The nomads of Prax, who had always raided our lands, but who shared common deities and hatred of Chaos. The dragonewts, who served the monstrous dragons in their unfathomable and alien ways, but feared Chaos as did you.
+TARGETS: hates / fears
+
+### KoH:00101 | KoH | p.46 | We belonged to one of the tribes that
+FIGURES: KODIG, VINGKOT
+TEXT: Make sure to note down the name of your Ancient Ally on the clan sheet. □ e. □ f. 2. We belonged to one of the tribes that were formed out of the remains of those destroyed during the Gods War. We followed a great hero who came down from the heavens and who provided us with flickering light during the Darkness. a. We joined the Liornvuli, named for Liorn the Young, star husband of Deleen daughter of King Kodig, the eldest son of Vingkot. We lived in the land now called Tarsh. b. We joined the Forosilvuli, named for Forosil Ferocious, star husband of Ornore Korolsdottir. We lived in the land now called Tarsh. c. We joined the Stravuli named for Stravul, the great hero who defended Dragon Pass in the Darkness. We lived in the lands now called Tarsh. d. We joined the Garanvuli, named for Garan, star lover of Serias, who defeated the Chaos Army and saved his lover at Whitewall. We lived in the lands now called Heortland.
+TARGETS: dwells at
+
+### KoH:00108 | KoH | p.47 | Orlanth always encouraged personal ambition. No
+FIGURES: LOKAMAYADON, ORLANTH
+TEXT: 16. Lokamayadon Orlanth always encouraged personal ambition. No one thought there could be too much personal advancement until a priest named Lokamayadon took upon himself the powers of High Storm. He tried to replace Orlanth, peacefully at first and then by killing all who worshipped the God. Many people went along with him because he was powerful, but most Orlanthi resisted, though it cost them greatly. Now everyone hates "Lokomoko," who was revealed as a Chaos god.
+TARGETS: hates / fears
+
+### KoH:00112 | KoH | p.48 | Our honor was terribly offended
+FIGURES: ARKAT, GBAJI, HARMAST BAREFOOT, LIGHTBRINGERS, LOKAMAYADON
+TEXT: 17. Arkat the Liberator Lokamayadon helped create a new god called Gbaji, which brought Chaos back. It would have destroyed the world except that the great hero Harmast Barefoot performed the Lightbringers Quest and brought back the destroyer of Gbaji. Arkat was the destroyer. He was a man who had lived before, a sorcerous demon in the shape of a man, or maybe just a trickster. Arkat helped everyone, then betrayed them. He deserted his army when it fought Dara Happa and he finally even left Harmast in the clutches of his worst foe, so that he could betray the whole human race and become a troll. Everyone hates Arkat, even though he destroyed Gbaji and saved the world. It does not matter what fate your clan suffered at his hands— they suffered, but survived, and that is all anyone needs to remember.
+TARGETS: hates / fears
+
+### KoH:00113 | KoH | p.48 | After the Dragonkill a series of death runes were
+FIGURES: (none registered)
+TEXT: □ □ 1. 2. □ 3. Hostile—we fought against them. Negative—we resisted them, for we would never believe a dragon. Suspicious—we did not go along. HeroQuest Answers: 1. 2. 3. After the Dragonkill a series of death runes were carved in stone and erected as the Cross Line, beyond which lay a land forever cursed. "Beyond that line is dragon, this side is us. None may cross except to make pain, horror, and terrible death." For centuries, no one even went close to it. Anyone who dared to cross northward was never heard from again.
+TARGETS: curses
+
+### KoH:00118 | KoH | p.49 | HeroQuest
+FIGURES: ONLY OLD ONE
+TEXT: 49 HeroQuest war and rebellion against Ezkankekko, rightful ruler since the Dawn of time. He made enemies, found new friends, woke Silver Age heroes, and finally overthrew the rulers and deities of the Shadowlands (1318 ST). Their conflict released cosmic powers, and the Obsidian Castle shattered, covering the verdant plateau with black dust. The usurper killed Ezkankekko, and thereafter called himself the GodKing. This God-King went throughout Kethaela and established his rule. When he came to the kingdom of the Hendrikings in Heortland, he used deceitful magic to overcome the Hendrikings. He destroyed the ancient Hendriking tribe and Heortland became part of his own kingdom. Whoever could not change got their people together and moved. By the time the God-King came to Heortland and started a civil war, you heard that the lands to the north (in forbidden Dragon Pass) were now open to humans. The movement of clans there is called the Resettlement. Your clan was one of these clans. Why did you leave your homeland? □ □
+TARGETS: sleeps / wakes
+
+### KoH:00119 | KoH | p.50 | HeroQuest
+FIGURES: (none registered)
+TEXT: 1. 2. □ 3. □ □ □ 4. 5. 6. We hated the God-King. Some of us hated the God-King, but others liked him, so our clan split to avoid kinstrife. We loved the God-King, and wished to make Dragon Pass part of his rule. We wanted a dangerous new life. We were poor and wanted to be rich. It was a new place to explore.
+TARGETS: loves / desires; hates / fears
+
+### KoH:00125 | KoH | p.53 | HeroQuest
+FIGURES: RED GODDESS
+TEXT: HeroQuest and women in red robes came after his apotheosis, and for the first time people in Sartar learned about the Lunar Goddess. The Red Moon had risen in 1247, a bad omen that surprised and frightened the Heortlings. Everyone became uncomfortable when they learned that the red missionaries worshipped the red thing in the sky, for all the Sartarite prophecies warned that the Red Moon was a foe. Nonetheless, the Red Goddess' missionaries came through Sartar, seeking converts to her way. How did you react when the Lunar missionaries came to your clan? □ □ □
+TARGETS: speaks / prophesies
+
+### KoH:00152 | KoH | p.69 | HeroQuest
+FIGURES: HUMAKT, MOSTAL
+TEXT: 69 HeroQuest t Death - (separation, conflict, endings) Known to be the First Sword, the immortal and cursed weapon which Humakt used to bring death to the world. He is the unyielding fate of all living creatures, both mortal and divine. Death is a frightening but necessary agent of eternal change who can be used in a courageous and noble way to preserve the world. He is now manifested as Humakt, the god of Death. Personality Traits: Relentless, ruthless, unemotional Incompatible with: Life c Stasis - (immobility, unchanging, solidity) The various names for this Rune illustrate the ideas behind it. It is clearly connected with the art of alchemy and the dwarfs. They claim that this is the First Rune, for it provided the foundation from which everything else was created, or else provided the foundation of hard laws that were used to overcome the forces of Chaos. This rune is manifested as Mostal the god of the dwarfs. Personality Traits: Stubborn, inflexible, exacting Incompatible with: Movement s Movement - (mobility, change, conflict)
+TARGETS: curses
+
+### KoH:00157 | KoH | p.71 | HeroQuest b Spirit Rune - (discorporate beings)
+FIGURES: WAKBOTH
+TEXT: ? Chaos Rune - (entropy, evil, corruption) This Rune is descriptive of those who are descended from the forces of entropy. Such creatures are usually bound to some Form, since even Chaos must obey the Laws of Time, but it might be combined with any other Rune, even opposed Powers. Nothing is totally safe from the taint of Chaos. Wakboth the Devil manifests the Chaos Rune. Note: The Chaos Rune is taboo amongst the Orlanthi and, if awakened during the adulthood initiation rites, will almost certain result in you being killed by your own clan.
+TARGETS: sleeps / wakes

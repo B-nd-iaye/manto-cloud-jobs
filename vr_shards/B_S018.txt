@@ -1,0 +1,300 @@
+[P5-B-B0056-003] S=['MALKIONERAN'] P=is identified as O=['GBAJI'] implicit=True ps="believe it was a mask of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Modern Malkioni believe it was a mask of Gbaji the Deceiver.
+[P5-B-B0056-004] S=['ZISTORITES'] P=is member of O=['MALKIONI'] implicit=False ps="were a sect of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Zistorites were a sect of Second Age Malkioni, closely affiliated with the God Learners.
+[P5-B-B0056-005] S=['MACHINE GOD'] P=comes into being O=[] MOD={"at_the_instigation_of": ["ZISTORITES"]} implicit=True ps="created" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They created the Machine God, who was destroyed by Orlanth after an epic ten-year siege of the Clanking City (in the Holy Country south of God Forgot).
+[P5-B-B0056-006] S=['ORLANTH'] P=kills O=['MACHINE GOD'] MOD={"in_on_at": "Clanking City"} implicit=False ps="destroyed" sug=shatters
+   Q: the Machine God, who was destroyed by Orlanth after an epic ten-year siege of the Clanking City (in the Holy Country south of God Forgot).
+[P5-B-B0056-007] S=['DUMAKAS'] P=is member of O=['LANBRIL'] implicit=False ps="is a lay member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Dumakas is a lay member of Lanbril
+[P5-B-B0056-008] S=['DUMAKAS'] P=initiates into cult O=['ORLANTH'] implicit=False ps="an initiate of" sug=initiates into cult
+   Q: Dumakas is a lay member of Lanbril and an initiate of Orlanth.
+[P5-B-B0056-009] S=['VASILOS'] P=is member of O=['LANBRIL'] implicit=False ps="is a lay member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Vasilos is a lay member of Lanbril
+[P5-B-B0056-010] S=['VASILOS'] P=is member of O=['ORLANTH'] implicit=False ps="a lay member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Vasilos is a lay member of Lanbril and a lay member of Orlanth.
+[P5-B-B0056-011] S=['EMPEROR'] P=comes into being O=[] MOD={"at_the_instigation_of": ["OLD GODS"], "purpose_clause": "TO OBTAIN"} implicit=False ps="was created by" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The Emperor was created by the Old Gods to organize creation.
+[P5-B-B0056-012] S=['EMPEROR'] P=initiates into cult O=['THE 294 JUDGES'] implicit=True ps="appointed" sug=initiates into cult
+   Q: he appointed 294 Judges to make sure everything followed his Precepts.
+[P5-B-B0056-013] S=['LARNSTE'] P=teaches O=['GREAT SKY', 'FERTILE EARTH'] implicit=False ps="showed" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Larnste showed the Great Sky and the Fertile Earth how they could change the world
+[P5-B-B0056-014] S=['UMATH'] P=is child of O=['GREAT SKY', 'FERTILE EARTH'] implicit=False ps="make something new – Umath" sug=is child of
+   Q: Larnste showed the Great Sky and the Fertile Earth how they could change the world and make something new – Umath the Everchanging.
+[P5-B-B0056-015] S=['UMATH'] P=is born from O=[] implicit=False ps="was born" sug=is born from
+   Q: Umath was born
+[P5-B-B0056-016] S=['UMATH'] P=travels O=[] MOD={"in_on_at": "SKY"} implicit=True ps="moved across" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: and he moved across the sky.
+[P5-B-B0056-017] S=['EMPEROR'] P=serves O=['THE 294 JUDGES'] implicit=True ps="consulted" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He consulted his 294 Judges
+[P5-B-B0056-018] S=['UMATH'] P=defeats O=['WARRIOR OF THE EMPEROR'] implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Umath defeated the warrior.
+[P5-B-B0056-019] S=['EMPEROR'] P=serves O=['SHARGASH'] implicit=True ps="sent" sug=sends
+   Q: He sent Shargash
+[P5-B-B0056-020] S=['SHARGASH'] P=dismembers O=['UMATH'] implicit=False ps="smashed" sug=dismembers
+   Q: Shargash, who smashed Umath into many parts
+[P5-B-B0056-021] S=['STORM GODS'] P=is identified as O=['UMATH'] implicit=False ps="are" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: smashed Umath into many parts that move instead of a single entity. These are the storm gods.
+[P5-B-B0056-022] S=['ARKAT THE DESTROYER'] P=is alternative name for O=['ARKAT'] implicit=False ps="naming" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: naming that hero "Arkat the Destroyer".
+[P5-B-B0056-023] S=['OROGERIA'] P=rules O=['WILDS'] implicit=False ps="goddess of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: masked as Orogeria, goddess of the wilds.
+[P5-B-B0056-024] S=['YANAFAL TARNILS'] P=is identified as O=['RED-BLACK WOMAN'] implicit=False ps="is found among the gods of the Pit as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Yanafal Tarnils She is found among the gods of the Pit as the Red-Black Woman.
+[P5-B-B0056-025] S=['IRRIPPI ONTOR'] P=is identified as O=['YELLOW GOD'] implicit=False ps="is found among the Eight Sons as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Irrippi Ontor He is found among the Eight Sons as the Yellow God.
+[P5-B-B0056-026] S=['IRRIPPI ONTOR'] P=serves O=['EMPEROR'] MOD={"at_the_command_of": ["EMPEROR"]} implicit=True ps="writes" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He writes each name given by the Emperor to a god or goddess.
+[P5-B-B0057-001] S=['TROLLS'] P=defeats O=['PAVIS'] MOD={"in_on_at": "1237"} implicit=True ps="fell to" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: until the city fell to the trolls in 1237.
+[P5-B-B0057-002] S=['BLACK STATUE'] P=is alternative name for O=['SPLEENSTONE'] implicit=False ps="calls" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: found the Spleenstone (which he calls the "Black Statue")
+[P5-B-B0057-003] S=['ENTELOR MEPHIS'] P=discovers O=['SPLEENSTONE'] implicit=False ps="found" sug=discovers
+   Q: the adventurer-scholar Entelor Mephis found the Spleenstone
+[P5-B-B0057-004] S=['FURNER'] P=is member of O=['YANAFAL TARNILS CULT'] implicit=False ps="member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Furner is an Imperial citizen and member of the Yanafal Tarnils cult.
+[P5-B-B0057-005] S=['PAVIS'] P=bestows magic / gifts O=['MOSTALI'] implicit=True ps="gifted" sug=one of: bestows, heals, imbues, teaches
+   Q: Pavis gifted them with some headstone, bowelstone, and marrow dust.
+[P5-B-B0057-006] S=['FLINTNAIL HARDEYE'] P=is member of O=['MOSTALI'] implicit=False ps="was one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Flintnail Hardeye, who was one of the ancient race of Mostali, the Dwarf-Makers.
+[P5-B-B0057-007] S=['DWARF-MAKERS'] P=is alternative name for O=['MOSTALI'] implicit=False ps="the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Mostali, the Dwarf-Makers.
+[P5-B-B0057-008] S=['SON OF FLINTNAIL'] P=establishes cult O=['FLINTNAIL CULT'] implicit=False ps="began" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: this son began the Flintnail cult when he grew up.
+[P5-B-B0057-009] S=['TEMPLE OF PAVIS'] P=is alternative name for O=["KING'S VILLA"] implicit=False ps="later called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: King's Villa, later called the Temple of Pavis.
+[P5-B-B0057-010] S=['TROLLKIN'] P=fights O=['TROLLKIN'] implicit=False ps="fought a war" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Trollkin once fought a war over the Kidneystones.
+[P5-B-B0057-011] S=['SPLEENSTONE'] P=is alternative name for O=['SPLEEN OF THE FACELESS STATUE'] implicit=False ps="the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Spleen of the Faceless Statue. || The Spleenstone
+[P5-B-B0057-012] S=['TROLLS'] P=defeats O=['PAVIS'] MOD={"in_on_at": "1237"} implicit=True ps="fell to" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: until the city fell to the trolls in 1237.
+[P5-B-B0057-013] S=['PAVIS'] P=has hybrid form O=[] implicit=True ps="Half man and half aldryami" sug=has anomalous form (qual=hybrid)
+   Q: Half man and half aldryami, he grew up in his human father's family.
+[P5-B-B0057-014] S=['PAVIS'] P=travels O=[] MOD={"from": "SHADOWS DANCE", "to": "DRAGON PASS"} implicit=True ps="moved" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: As a man he moved from Shadows Dance to Dragon Pass
+[P5-B-B0057-015] S=['TUTORING DRAGONS'] P=teaches O=['PAVIS'] implicit=True ps="studied under" sug=teaches
+   Q: and studied under the tutoring dragons then present in the empire.
+[P5-B-B0057-016] S=['PAVIS'] P=enchants O=['FACELESS STATUE OF THE THRONE'] MOD={"in_on_at": "SHADOWS DANCE"} implicit=True ps="animating" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: animating the great Faceless Statue of the Throne in Shadows Dance
+[P5-B-B0057-017] S=['PAVIS'] P=defeats O=['WAHA'] MOD={"in_on_at": "PRAX"} implicit=True ps="defeat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: bringing it to Prax to defeat Waha in a wrestling match,
+[P5-B-B0057-018] S=['PAVIS'] P=rules O=['RIVER OF CRADLES'] implicit=True ps="gained sovereignty over" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: he gained sovereignty over the area around the River of Cradles
+[P5-B-B0057-019] S=['PAVIS'] P=teaches O=['ALDRYAMI HEALING'] IO=['PRIESTESSES OF THE PAPS'] implicit=False ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Pavis taught Aldryami Healing to the Priestesses of the Paps
+[P5-B-B0057-020] S=['HARDEYE FLINTNAIL'] P=is member of O=['MOSTALI'] implicit=False ps="named" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: one Mostali named Hardeye Flintnail.
+[P5-B-B0057-021] S=['HARDEYE FLINTNAIL'] P=is identified as O=['DWARF OF DRAGON PASS'] implicit=True ps="may be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: it is thought that Flintnail may be the famous "Dwarf " of Dragon Pass.
+[P5-B-B0057-022] S=['HARDEYE FLINTNAIL'] P=bestows magic / gifts O=['PAVIS'] implicit=True ps="gave many gifts to" sug=one of: bestows, heals, imbues, teaches
+   Q: Flintnail gave many gifts to Pavis
+[P5-B-B0057-023] S=['SHELBARIS THE FAIR'] P=is child of O=['PAVIS'] implicit=False ps="one of Pavis's daughters" sug=is child of
+   Q: Shelbaris the Fair, one of Pavis's daughters.
+[P5-B-B0057-024] S=['SON OF FLINTNAIL AND SHELBARIS'] P=is child of O=['HARDEYE FLINTNAIL', 'SHELBARIS THE FAIR'] implicit=True ps="begat on" sug=is child of
+   Q: the son he begat on Shelbaris the Fair
+[P5-B-B0057-025] S=['SON OF FLINTNAIL AND SHELBARIS'] P=establishes cult O=['FLINTNAIL CULT'] implicit=True ps="began" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: This son began the Flintnail cult
+[P5-B-B0058-001] S=['PAVIS'] P=manifests O=['PAVIS CITY'] MOD={"from": "FACELESS STATUE", "with_the_aid_of": ["FLINTNAIL"]} implicit=False ps="created" sug=conceives
+   Q: With the aid of Flintnail, Pavis created an immense city from the body of the Faceless Statue
+[P5-B-B0058-002] S=['PAVIS'] P=departs from O=[] implicit=True ps="departed" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: then departed and never was seen again.
+[P5-B-B0058-003] S=['DAUGHTERS OF PAVIS'] P=establishes cult O=['CULT OF PAVIS'] implicit=False ps="began" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: His daughters began the cult of Pavis
+[P5-B-B0058-004] S=['DAUGHTERS OF PAVIS'] P=is child of O=['PAVIS'] implicit=False ps="daughters" sug=is child of
+   Q: His daughters began the cult of Pavis
+[P5-B-B0058-005] S=['ARROWSMITH DYNASTY'] P=rules O=['PAVIS CITY'] implicit=True ps="rule of the city passed to" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the rule of the city passed to the Arrowsmith dynasty
+[P5-B-B0058-006] S=['ARROWSMITH DYNASTY'] P=is member of O=['PURE HORSE NOMADS'] implicit=False ps="family of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the Arrowsmith dynasty, a noble family of the Pure Horse nomads.
+[P5-B-B0058-007] S=['PAVIS CITY'] P=fights O=['TROLLS', 'GIANTS OF SHADOWS DANCE'] implicit=True ps="battles with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: After some battles with trolls and the Giants of Shadows Dance
+[P5-B-B0058-008] S=['PAVIS'] P=enters Godtime / Otherworld O=[] MOD={"in_on_at": "REAL CITY", "to": "TEMPLE OF PAVIS"} implicit=False ps="retired from this World into" sug=enters Godtime / Otherworld
+   Q: Eventually, Pavis retired from this World into his temple in the Real City
+[P5-B-B0058-009] S=['PAVIS'] P=protects O=['PAVIS CITY'] implicit=True ps="resides as the city's divine protector" sug=one of: protects, rescues / frees, aids
+   Q: where he still resides as the city's divine protector.
+[P5-B-B0058-010] S=['CHILDREN OF PAVIS'] P=serves O=['CULT OF PAVIS'] implicit=True ps="became the priests of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: His children became the priests of his cult, worshiping their father
+[P5-B-B0058-011] S=["EMPIRE OF THE WYRM'S FRIENDS"] P=shatters O=[] implicit=False ps="was destroyed" sug=shatters
+   Q: the Empire of the Wyrm's Friends was destroyed
+[P5-B-B0058-012] S=['JALDON TOOTHMAKER'] P=fights O=['PAVIS CITY'] implicit=True ps="had ravished" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Jaldon Toothmaker, the hero of Prax barbarians everywhere, had ravished the city.
+[P5-B-B0058-013] S=['GERAK KAG'] P=is member of O=['DARK TROLLS'] MOD={"from": "SHADOWS DANCE"} implicit=False ps="dark troll priest from" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Gerak Kag, dark troll priest from Shadows Dance.
+[P5-B-B0058-014] S=['TROLLS', 'TROLLKIN'] P=fights O=['NOMADS OF THE PLAINS'] implicit=False ps="fought their way through" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The trolls and trollkin fought their way through the nomads of the plains
+[P5-B-B0058-015] S=['BALASTOR'] P=protects O=['PAVIS CITY'] implicit=False ps="final defense of" sug=one of: protects, rescues / frees, aids
+   Q: The last Champion of Pavis, Balastor, died during the final defense of the city
+[P5-B-B0058-016] S=['BALASTOR'] P=serves O=['CULT OF PAVIS'] implicit=True ps="Champion of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The last Champion of Pavis, Balastor
+[P5-B-B0058-017] S=['PURE HORSE PEOPLE'] P=flees to O=[] MOD={"to": "PRAX"} implicit=False ps="abandoned the walls to dwell on" sug=flees to
+   Q: the last of the Pure Horse people abandoned the walls to dwell on the plains of Prax.
+[P5-B-B0058-018] S=['TROLLS'] P=fights O=['HUMANS', 'ELVES', 'DWARFS'] implicit=False ps="constant struggles occurred between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: constant struggles occurred between the trolls and the last remnants of humans, elves, and dwarfs.
+[P5-B-B0058-019] S=['DORASAR'] P=claims ancestry O=['KING SARTAR'] implicit=False ps="grandson of" sug=claims ancestry
+   Q: Dorasar, a grandson of King Sartar
+[P5-B-B0058-020] S=['DORASAR'] P=manifests O=['NEW PAVIS'] implicit=True ps="came to found" sug=founds
+   Q: Dorasar, a grandson of King Sartar, came to found a city outside the old giant-built walls.
+[P5-B-B0058-021] S=['PAVIS', 'DORASAR'] P=pledges oath with O=[] implicit=False ps="negotiated a settlement" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Pavis and Dorasar negotiated a settlement
+[P5-B-B0058-022] S=['ORLANTH'] P=rules O=['AIR'] implicit=False ps="giving ground and buildings to Pavis, and the air to" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: giving ground and buildings to Pavis, and the air to Orlanth
+[P5-B-B0058-023] S=['PAVIS'] P=protects O=['NEW PAVIS'] implicit=False ps="agreed to extend his protection to" sug=one of: protects, rescues / frees, aids
+   Q: Pavis agreed to extend his protection to the new city
+[P5-B-B0058-024] S=['RED GODDESS'] P=marries O=['PAVIS'] implicit=True ps="wants to "marry"" sug=is spouse of (qual=wedding)
+   Q: The Goddess wants to "marry" Pavis to add him to her ever-growing Pantheon
+[P5-B-B0058-025] S=['DAUGHTER OF PAVIS'] P=marries O=['FLINTNAIL'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: Pavis' daughter who married the dwarf.
+[P5-B-B0058-026] S=['DAUGHTER OF PAVIS'] P=is child of O=['PAVIS'] implicit=False ps="daughter" sug=is child of
+   Q: Pavis' daughter who married the dwarf.
+[P5-B-B0058-027] S=['FLINTNAIL'] P=is member of O=['MOSTALI'] implicit=False ps="dwarf" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: One of the Daughters is always of the Flintnail cult, representing Pavis' daughter who married the dwarf.
+[P5-B-B0058-028] S=['PAVIS'] P=serves O=[] MOD={"in_on_at": "REAL CITY"} implicit=False ps="is the home of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Pavis Temple of the Real City (in the Big Rubble) is the home of Lord Pavis.
+[P5-B-B0058-029] S=['PAVIS'] P=rules O=['MAGICAL ENTITIES'] MOD={"in_accordance_with": ["TREATY WITH OTHERWORLDLY POWERS"]} implicit=False ps="has some magical entities under his command" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Pavis has some magical entities under his command as a matter of treaty obligation with Otherworldly powers.
+[P5-B-B0058-030] S=['PAVIS'] P=pledges oath with O=['AIR'] implicit=False ps="Treaty with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Pavis' Treaty with the Air
+[P5-B-B0058-031] S=['PAVIS'] P=pledges oath with O=['DARKNESS'] implicit=False ps="Treaty with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Pavis' Treaty with the Darkness.
+[P5-B-B0058-032] S=['DAUGHTER OF PAVIS'] P=marries O=['MOSTALI'] implicit=True ps=""married"" sug=is spouse of (qual=wedding)
+   Q: representing the daughter who "married" the Mostali.
+[P5-B-B0058-033] S=['DAUGHTER OF PAVIS'] P=is child of O=['PAVIS'] implicit=True ps="daughter" sug=is child of
+   Q: representing the daughter who "married" the Mostali.
+[P5-B-B0058-034] S=['CHAMPION OF PAVIS'] P=serves O=['PAVIS SURVIVORS'] implicit=False ps="is automatically Captain of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Champion of Pavis (or the senior one if there are actually two or more) is automatically Captain of the Pavis Survivors.
+[P5-B-B0058-035] S=['TEMPLE OF ZORAK ZORAN'] P=establishes cult O=['ZORAK ZORAN'] MOD={"in_on_at": "RUBBLE"} implicit=False ps="is rumored to be a temple of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: the traditional house is in the Rubble and is rumored to be a temple of Zorak Zoran at present.
+[P5-B-B0058-036] S=['FLINTNAIL'] P=is member of O=['MOSTALI'] implicit=False ps="was simply one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Before Time. Flintnail was simply one of the Mostali
+[P5-B-B0058-037] S=['FLINTNAIL'] P=is child of O=['MOSTAL'] implicit=True ps="father" sug=is child of
+   Q: while still respectful to his father Mostal
+[P5-B-B0058-038] S=['FLINTNAIL'] P=teaches O=['TRIBES OF MEN'] implicit=False ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: It is said that Flintnail taught many tribes of men how to work stone, and he never denied this.
+[P5-B-B0058-039] S=['FLINTNAIL'] P=travels O=[] MOD={"from": "DWARF KNOLL", "to": "PAVIS CITY"} implicit=True ps="journeyed" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: With many of his kinfolk he journeyed from Dwarf Knoll to Pavis' current location
+[P5-B-B0058-040] S=['FACELESS STATUE'] P=fights O=['NOMADS OF PRAX'] MOD={"at_the_command_of": ["PAVIS"]} implicit=False ps="marched" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: following the Faceless Statue as it marched to Pavis' command against the nomads of Prax.
+[P5-B-B0058-041] S=['FACELESS STATUE'] P=defeats O=['GIANTS'] MOD={"in_on_at": "PARAGUA"} implicit=True ps="defeating" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The statue died after defeating the giants in their city of Paragua
+[P5-B-B0058-042] S=['MOSTALI'] P=transforms into O=['OLD PAVIS'] MOD={"from": "FACELESS STATUE"} implicit=True ps="converting" sug=transforms into
+   Q: the dwarfs honored him by converting his substance into walls and structures of the city of Old Pavis.
+[P5-B-B0058-043] S=['FLINTNAIL'] P=departs from O=[] MOD={"from": "OLD PAVIS"} implicit=False ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Flintnail himself soon left Old Pavis.
+[P5-B-B0058-044] S=['FLINTNAIL'] P=marries O=['SHELBARIS THE FAIR'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: he married Shelbaris the Fair, one of Pavis' daughters
+[P5-B-B0058-045] S=['SHELBARIS THE FAIR'] P=is child of O=['PAVIS'] implicit=False ps="daughters" sug=is child of
+   Q: Shelbaris the Fair, one of Pavis' daughters
+[P5-B-B0058-046] S=['SON OF FLINTNAIL AND SHELBARIS'] P=is child of O=['FLINTNAIL', 'SHELBARIS THE FAIR'] implicit=True ps="made a son" sug=is child of
+   Q: and together they made a son, who grew up to become the first high priest of the cult of Flintnail in Pavis.
+[P5-B-B0058-047] S=['FLINTNAIL'] P=serves O=['MOSTAL'] implicit=True ps="is one of the immortal crafters for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: he is one of the immortal crafters for Mostal
+[P5-B-B0058-048] S=['FLINTNAIL'] P=is child of O=['MOSTAL'] implicit=True ps="creator" sug=is child of
+   Q: laboring for his creator somewhere in the world.
+[P5-B-B0058-049] S=['FLINTNAIL'] P=is identified as O=['DWARF OF DWARF RUN'] MOD={"in_on_at": "DRAGON PASS"} implicit=False ps="believe Flintnail to be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Sartarites believe Flintnail to be the famous Dwarf of Dwarf Run in Dragon Pass.
+[P5-B-B0058-050] S=['SHELBARIS THE FAIR'] P=is child of O=['PAVIS'] implicit=False ps="was the daughter of" sug=is child of
+   Q: Shelbaris the Fair was the daughter of Pavis
+[P5-B-B0058-051] S=['FLINTNAIL'] P=marries O=['SHELBARIS THE FAIR'] implicit=True ps="took to wife" sug=is spouse of (qual=wedding)
+   Q: whom Flintnail took to wife.
+[P5-B-B0058-052] S=['SON OF FLINTNAIL AND SHELBARIS'] P=establishes cult O=['CULT OF FLINTNAIL'] implicit=True ps="stayed to found" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: their son stayed to found the cult.
+[P5-B-B0058-053] S=['FLINTNAIL'] P=fights O=['PAVIS'] MOD={"in_on_at": "DWARF KNOLL"} implicit=True ps="first met" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Here Flintnail first met Pavis
+[P5-B-B0058-054] S=['PAVIS'] P=enchants O=['FACELESS STATUE'] implicit=True ps="awaken" sug=awakens
+   Q: learned of his plan to awaken the Faceless Statue.
+[P5-B-B0058-055] S=['ZORAK ZORAN BERSERKS'] P=fights O=['TROLLKIN WITH BEARDS'] implicit=False ps="attempt to show" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: though Zorak Zoran berserks can usually be counted on to attempt to show those trollkin with beards their place.
+[P5-B-B0059-001] S=['LANBRIL'] P=is child of O=['GRANDFATHER MORTAL'] implicit=False ps="was a son of" sug=is child of
+   Q: Lanbril was a son of Grandfather Mortal.
+[P5-B-B0059-002] S=['LANBRIL'] P=manifests O=[] implicit=True ps="cultivated" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: He cultivated Disorder
+[P5-B-B0059-003] S=['ORLANTH'] P=steals O=['DEATH'] MOD={"from": "HUMAKT", "with_the_aid_of": ["EURMAL"]} implicit=False ps="stealing" sug=steals
+   Q: Some devout cultists go so far as to state that this influence inspired Eurmal to help Orlanth in stealing Death from Humakt.
+[P5-B-B0059-004] S=['LANBRIL'] P=teaches O=['MORTALS'] implicit=False ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: During the Darkness, Lanbril taught mortals to survive by skill and cunning, and by watching out for themselves first.
+[P5-B-B0059-005] S=['EURMAL'] P=steals O=[] implicit=False ps="made the first theft" sug=steals
+   Q: Eurmal the trickster made the first theft
+[P5-B-B0059-006] S=['LANBRIL'] P=is identified as O=['KING OF THIEVES'] implicit=False ps="King of Thieves" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Lanbril, King of Thieves!
+[P5-B-B0059-007] S=['YELMALIO'] P=is child of O=['YELM'] implicit=False ps="the son of" sug=is child of
+   Q: Yelmalio (meaning Little Sun) is the title for the Brightness of One Light, the son of Yelm the Sun.
+[P5-B-B0059-008] S=['YELMALIO'] P=is alternative name for O=['BRIGHTNESS OF ONE LIGHT'] implicit=False ps="is the title for" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yelmalio (meaning Little Sun) is the title for the Brightness of One Light
+[P5-B-B0059-009] S=['YELMALIO'] P=fights O=['AIR GODS'] MOD={"in_on_at": "Gods War"} implicit=False ps="led the fight against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: During the Gods War, Yelmalio led the fight against the Air gods
+[P5-B-B0059-010] S=['ORLANTH'] P=defeats O=['YELMALIO'] MOD={"in_on_at": "Hill of Gold"} implicit=True ps="disarmed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: at the Hill of Gold he was disarmed by Orlanth
+[P5-B-B0059-011] S=['ZORAK ZORAN'] P=steals O=['FIRE POWERS'] MOD={"from": "YELMALIO"} implicit=True ps="stole" sug=steals
+   Q: he was ambushed by Zorak Zoran, who stole his fire powers.
+[P5-B-B0059-012] S=['COLD LIGHT'] P=resurrects O=['YELM'] implicit=True ps="was rekindled" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: it set into motion the passing of fire from torch to torch until it came at last to Yelm. Yelm was rekindled
+[P5-B-B0059-013] S=['YELMALIO'] P=fights O=['GBAJI'] implicit=True ps="to combat" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Three times has the Brightness of One Light returned to the world. First to combat Gbaji
+[P5-B-B0059-014] S=['EVIL MEN'] P=comes into being O=['GBAJI'] MOD={"purpose_clause": "TO MAKE GBAJI"} implicit=False ps="make" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Once evil men stopped the sun to make Gbaji, the Great Liar.
+[P5-B-B0059-015] S=['YELMALIO'] P=protects O=['THE PEOPLE'] implicit=False ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: The Yelmalio shone for centuries and protected the people.
+[P5-B-B0059-016] S=['THE DRAGONS'] P=fights O=['PEOPLE'] implicit=False ps="oppressed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Dragons rose and oppressed people with the Draconic Lie.
+[P5-B-B0059-017] S=['THE DRAGONS'] P=defeats O=[] implicit=False ps="fell" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: from the Sun Dome the cult rekindled the sacred lights and the dragons fell.
+[P5-B-B0059-018] S=['YELMALIO'] P=is alternative name for O=['BRIGHTNESS OF YELM'] implicit=False ps="the Brightness of Yelm" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yelmalio, the Brightness of Yelm
+[P5-B-B0059-019] S=['LIGHTBRINGERS'] P=bestows magic / gifts O=['YELM'] implicit=True ps="gave" sug=aids
+   Q: the Lightbringers for the aid they gave his father
+[P5-B-B0059-020] S=['YELMALIO'] P=is spouse of O=['ERNALDA'] implicit=False ps="claims Ernalda as his wife" sug=is spouse of
+   Q: Yelmalio claims Ernalda as his wife
+[P5-B-B0059-021] S=['YELMALIO'] P=wounds O=[] MOD={"in_on_at": "Hill of Gold"} implicit=True ps="was sorely wounded" sug=wounds
+   Q: for it was there that their god was sorely wounded, lost his weapons, and bled much of his power upon the earth
+[P5-B-B0059-022] S=['YELMALIO'] P=resurrects O=[] implicit=True ps="rose again" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: before he rose again in cold light.
+[P5-B-B0059-023] S=['ORLANTH'] P=steals O=['ERNALDA'] implicit=False ps="was stolen by" sug=steals
+   Q: Ernalda was stolen by Orlanth
+[P5-B-B0059-024] S=['YELMALIO'] P=kills O=['THREE ENEMIES'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: In his rage, the struck three blows of anger and killed three enemies, each friends and allies of the Air gods.
+[P5-B-B0059-025] S=['YELMALIO PRIESTS'] P=re-enacts O=['THREE BLOWS OF ANGER'] implicit=False ps="ritually reenacted" sug=re-enacts
+   Q: The Three Blows of Anger are ritually reenacted when Yelmalio priests are forced to divorce their wives
+[P5-B-B0059-026] S=['ARKAT'] P=fights O=['HEORTLINGS'] implicit=False ps="raised" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: when Arkat raised the Heortlings into their final rebellion
+[P5-B-B0059-027] S=['HEORTLINGS'] P=shatters O=['SUN DOME TEMPLE'] MOD={"with_the_aid_of": ["TROLL ALLIES"]} implicit=False ps="destroyed" sug=shatters
+   Q: vengeful Heortlings and their troll allies destroyed every Sun Dome Temple they encountered.
+[P5-B-B0059-028] S=['MONROGH LANTERN'] P=is child of O=['JAROSIL'] implicit=False ps="was the son of" sug=is child of
+   Q: Monrogh Lantern was the son of Jarosil
+[P5-B-B0059-029] S=['MONROGH LANTERN'] P=travels O=[] MOD={"to": "SUN GOD", "purpose_clause": "TO FIND THE TRUTH"} implicit=False ps="traveled" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Monrogh is the one who traveled to the sun god to find the truth which was needed.
+[P5-B-B0059-030] S=['MONROGH LANTERN'] P=discovers O=['YELMALIO'] implicit=True ps="brought back" sug=discovers
+   Q: when he returned to this world he brought back Yelmalio.
+[P5-B-B0059-031] S=['YELMALIO'] P=is identified as O=['WOUNDED BODY OF THE SUN'] implicit=True ps="was said to be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: This deity was already known among the elves, and was said to be the wounded body of the sun limping across the sky
+[P5-B-B0060-001] S=['ELMAL'] P=serves O=['ORLANTH'] implicit=True ps="trusted thane of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Elmal is the Orlanthi god of the sun, a trusted thane of the Chief God
+[P5-B-B0060-002] S=['ORLANTH', 'LIGHTBRINGERS'] P=travels O=[] MOD={"purpose_clause": "the Lightbringers' Quest"} implicit=False ps="depart upon" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: when Orlanth and his companions depart upon the Lightbringers' Quest.
+[P5-B-B0060-003] S=['ORLANTH'] P=fights O=['ELMAL'] MOD={"in_on_at": "a precarious bridge"} implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The native mythology tells of how Orlanth and Elmal met, fought while standing upon a precarious bridge, and both ended up in the raging waters.
+[P5-B-B0060-004] S=['ORLANTH'] P=protects O=['ELMAL'] implicit=False ps="rescued" sug=rescues / frees
+   Q: Orlanth rescued Elmal;
+[P5-B-B0060-005] S=['ORLANTH', 'ERNALDA'] P=establishes cult O=[] implicit=False ps="created" sug=conceives
+   Q: Orlanth and Ernalda created the Foreigner's Wedding
+[P5-B-B0060-006] S=['ELMAL'] P=marries O=['DAUGHTER OF ORLANTH AND ERNALDA'] implicit=True ps="marry" sug=is spouse of (qual=wedding)
+   Q: so that Elmal could marry their horse‑loving daughter and join the clan.
+[P5-B-B0060-007] S=['YELM'] P=is identified as O=['EMPEROR'] implicit=False ps="was the manifestation of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Theyalans recognized that Yelm, the Dara Happan Great God, was the manifestation of their own Emperor, an enemy of Orlanth.
+[P5-B-B0060-008] S=['YELM'] P=fights O=['ORLANTH'] implicit=False ps="an enemy of" sug=hates
+   Q: Yelm, the Dara Happan Great God, was the manifestation of their own Emperor, an enemy of Orlanth.
+[P5-B-B0060-009] S=['YELM'] P=embodies O=['SUN'] implicit=False ps="was also" sug=one of: embodies, has domain
+   Q: The Orlanthi also realized that Yelm was also the Sun God.
+[P5-B-B0060-010] S=['MONROGH'] P=initiates into cult O=['YELMALIO'] implicit=False ps="first Son of" sug=initiates into cult
+   Q: Monrogh, the first Son of Yelmalio, swore loyalty to Tarkalor when he became king,
+[P5-B-B0060-011] S=['MONROGH'] P=pledges oath with O=['TARKALOR'] implicit=False ps="swore loyalty to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Monrogh, the first Son of Yelmalio, swore loyalty to Tarkalor when he became king,
+[P5-B-B0060-012] S=['ZOLA FEL'] P=claims ancestry O=['OCEAN OF TERROR'] implicit=False ps="descendants of" sug=claims ancestry
+   Q: Zola Fel is one of the descendants of the Ocean of Terror.
+[P5-B-B0060-013] S=['ZOLA FEL'] P=comes into being O=[] implicit=True ps="was born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: He was born during the invasion of the world by the waters during the Godtime
+[P5-B-B0060-014] S=['ZOLA FEL'] P=travels O=[] MOD={"from": "the Rockwoods", "to": "the sea"} implicit=False ps="leapt from the cliff to the valley and flowed back to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Zola Fel received the call on a cliff top in the Rockwoods. He leapt from the cliff to the valley and flowed back to the sea, setting up his present course.
+[P5-B-B0060-015] S=['ZOLA FEL'] P=pledges oath with O=['GIANTS OF THE ROCKWOODS'] implicit=True ps="meet" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: He was first of the sea's children to meet the great giants of the Rockwoods.

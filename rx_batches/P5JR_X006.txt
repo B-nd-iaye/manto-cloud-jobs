@@ -1,0 +1,125 @@
+### WOD-JR:01058 | WOD-JR | WOD-JR 35395 (The Duck People of Sartar) | Select Month September 2026
+FIGURES: LHANKOR MHY, ORLANTH, YELM
+TEXT: Among the many intriguing things about the Ducks is that nobody – not even the Lhankor Mhy cult – is entirely sure of their origins. It is unknown whether they were originally human and became feathered and web-footed, or originally ducks cursed with flightlessness and intelligence. Some claim they once served Yelm but foreswore the Sun God to follow Orlanth and were denied the sky as punishment. Some Ducks claim to have once been the rulers of the world until their own sins and errors forced them into subservience to lesser races (elves, trolls, etc.) and, later, to humans, but this is taken about as seriously as the Baboon claims to the universal Monkey Empire. The Lhankor Mhy cult is unaware of there being any records of Ducks from the First or Second Ages, but scholarly interest in the history of the Ducks is admittedly pretty minimal.
+TARGETS: curses; punishes / exiles
+
+### WOD-JR:01064 | WOD-JR | WOD-JR 35156 (Chaos Tainted) | Select Month September 2026
+FIGURES: ZORAK ZORAN
+TEXT: - Zombies (the Zorak Zoran cult disagrees) - Animated Skeletons (the Zorak Zoran cult disagrees) - Telmori (most people think tainted or cursed by Chaos) - Cave Trolls (most people think just tainted or cursed by Chaos)
+TARGETS: curses
+
+### WOD-JR:01065 | WOD-JR | WOD-JR 35156 (Chaos Tainted) | Select Month September 2026
+FIGURES: EURMAL, NYSALOR, ORLANTH, SEVEN MOTHERS, STORM BULL
+TEXT: - Nysalor (most Pelorians disagree) - Trickster (Orlanthi strongly disagree) And we KNOW Storm Bulls often have false positives (and false negatives), and besides they are kind of crazy. As an aside, the Storm Bull cult is an Enemy of the Seven Mothers and hates it more than Orlanth does (Orlanth is only hostile)
+TARGETS: hates / fears
+
+### WOD-JR:01066 | WOD-JR | WOD-JR 35164 (Sun County Settlers) | Select Month September 2026
+FIGURES: RED GODDESS, SEVEN MOTHERS, YELMALIO
+TEXT: Just as New Pavis attracted settlers and exiles from Dragon Pass fleeing from the Lunar Empire, so did Sun County in Prax. Although Yelmalio is neutral towards the Seven Mothers, the cult is Hostile towards the Red Goddess. In addition, there has been a sporadic flow of Yelmalio cultists from Dragon Pass to Prax ever since Dorasor and Varthanis came to Prax around 1550. Some came because of feuds (especially that early first wave of settlers) but others came seeking adventure or in the service of their god.
+TARGETS: hates / fears
+
+### WOD-JR:01070 | WOD-JR | WOD-JR 35165 (Sartar Telmori) | Select Month September 2026
+FIGURES: STORM BULL
+TEXT: Or in your Glorantha, do people never make deals with what they consider the lesser of two evils or of folk they consider the victims of Chaos rather than the perpetrators of Chaos? Being cursed by Chaos taints you with Chaos, and of course the Storm Bull cultists can sense that taint.
+TARGETS: curses
+
+### WOD-JR:01074 | WOD-JR | WOD-JR 35166 (Sarostip Coldeye) | Select Month September 2026
+FIGURES: HUMAKT, KALLYR STARBROW
+CONTEXT: == url: https://wellofdaliath.chaosium.com/sarostip-coldeye/ published: 2021-06-01 · modified: 2026-05-15 author_id: 4 categories: Facebook tags: 1572 ST; 1624 ST; Hero Plane; Humakt; Jonstown (small city); Malani (Sartar tribe); Sarostip Coldeye; Sartar High Council 1613 ST; Sartar High Council 1625 ST; Taraling (Sartar clan); Temertain (Prince of Sartar -1624); Two Ridge Fort (Sartar hillfort)
+TEXT: This is a snippet from the Sartar Book: Born in 1572, Sarostip Coldeye is a Sword of Humakt and part of the ruling dynasty of the Malani tribe. Sarostip abdicated all clan and tribal offices and severed himself from his kin, so that he might carry out a terrible deed without his kin suffering the consequences. In 1624, on Humakt's high holy day, Sarostip led a band of Humakti from the Malani and other tribes and killed the Lunar puppet ruler of Sartar, Temertain the Philosopher. Sarostip led his killers along a secret path in the Hero Plane to gain entry directly into the Prince's stronghold. After killing Temertain, Sarostip's Humakti cut their way through the Lunar priests, Telmori warriors, and Sartarite bodyguards of Temertain, killing any that would defend the prince. Sarostip was a member of the Sartar High Council in both 1613 and 1625, and now serves on the City Ring in Jonstown. He is widely seen as the leader of the Humakt cult in Sartar. He is often away at Two Ridge Fort and speaks for the Malani Tribe at Jonstown. He is a renowned weapons master and has quested deep into the Underworld on behalf of his god. On one such quest, he gained his ability to kill with his left eye, at the cost of sight in that eye. He has pledged loyalty to Prince Kallyr Starbrow, and has a well-known rivalry with the Taraling clan.
+TARGETS: speaks / prophesies
+
+### WOD-JR:01075 | WOD-JR | WOD-JR 35167 (Telmori Chaos Taint) | Select Month September 2026
+FIGURES: STORM BULL
+TEXT: As for the Telmori being tainted by Chaos – of course being cursed by Chaos taints you with Chaos, and of course the Storm Bull cultists can sense that taint. That may not be just but it is what it is. Storm Bull is neither pragmatic or just.
+TARGETS: curses
+
+### WOD-JR:01082 | WOD-JR | WOD-JR 35169 (What constitutes “Chaos”?) | Select Month September 2026
+FIGURES: BAGOG, CACODEMON, GBAJI, KRARSHT, MAGASTA, MALLIA, MOSTAL, ORLANTH, OURANIA, PAMALT, RED GODDESS, SEVEN MOTHERS, STORM BULL, TELMOR, THANATAR, THED, VIVAMORT
+TEXT: Lines are of course drawn – Orlanth hates the Red Goddess, Bagog, Cacodemon, Gbaji, Krarsht, Mallia, Thanatar, Thed, and Vivamort, and views their cults as enemies. But the Seven Mothers is like Magasta, Mostal, Ourania, Sharagash, and even Pamalt – hostile but not enemies. And the Orlanth cult is actually only Neutral towards Telmor! And even Storm Bull is a little conflicted about Telmor, treating him as hostile rather than an enemy.
+TARGETS: hates / fears
+
+### WOD-JR:01086 | WOD-JR | WOD-JR 35171 (So what are dragons?) | Select Month September 2026
+FIGURES: ANCESTRAL DRAGONS, ARGRATH, COSMIC DRAGON, GOD LEARNERS, ORXILI, THE DRAGONS
+TEXT: Many human philosophers identify Orxili with Chaos – the Primal Void. The Kralori and the Empire of Wyrms Friends held the Cosmic Dragon to be the greatest of all deities, solely responsible for the creation of the world, while the God Learners gave it a masculine bent and paired it with the world-wide goddess Glorantha.The True Dragons are all emanations of the Cosmic Dragon, through the Ancestral Dragons. Each entanglement that their creator committed to, were created from birth of the Ancestral Dragons. This paradoxical creation is typical of draconic explanations. The Grand Ancestral Dragon was sacrificed and dismembered as a result of its willingness to accept the duty of the entanglements which its actions had brought about and resulted in its full integration into the world. By dying, the Dragon re-entered the world to fulfill its duties. To do otherwise, would destroy the basis for draconic existence.This draconic philosophy has been largely ignored by humans, at least in central and western Genertela, during the Third Age and was supplanted as a mystical path by the Lunar Way. But it comes back with a vengeance during the Hero Wars as Argrath and his followers explore the possibilities of the draconic philosophy. According to one popular story, Argrath had the possibility of avoiding the Hero Wars and all its suffering, but was reminded of his duties and re-entered the world to fulfil his duties as an agent of change.The Draconic philosophy represents an interesting alternative to the Lunar Way, and has some curious similarities and some profound differences. One might view the later Hero Wars as a violent attempt to create a synthesis of the two.
+TARGETS: dies; avenges
+
+### WOD-JR:01090 | WOD-JR | WOD-JR 36332 (Quivin Mountains Map WiP Preview II) | Cartography by Matt Ryan
+FIGURES: BELINTAR, CRIMSON BAT, JAR-EEL, RED EMPEROR
+TEXT: The whole place is a murder hole. The Lunars took it largely through magic, rather than siege engineers. The Crimson Bat, Jar-eel and the Red Emperor all were present. I suspect by 1490, people just went along with whatever crazy idea Sartar suggested. By that point, he'd pretty much proven that he was always three steps ahead of everyone else. He was clearly divinely guided. He could resolve every dispute with a Pareto superior result. His wisdom was infallible, his rightness self-evident. He was charming, and even had a sense of humour. He clearly had some history with Belintar, but as to the details, Sartar never spoke of them and the God-King never betrayed his confidences.
+TARGETS: speaks / prophesies
+
+### WOD-JR:01099 | WOD-JR | WOD-JR 36360 (The Red Emperor’s revenues) | Select Month September 2026
+FIGURES: RED EMPEROR, RED GODDESS, YELM
+TEXT: - The West Reaches and the Provincial Kingdoms pay regular tribute to the Red Emperor. - The Red Emperor owns the Red Haired Caravan. He gets at least 2 tons of silk a year. - The Red Emperor is the head of the Red Goddess cult and the Yelm cult. This is probably tied into 1 though.
+TARGETS: possesses / wields
+
+### WOD-JR:01102 | WOD-JR | WOD-JR 36360 (The Red Emperor’s revenues) | Select Month September 2026
+FIGURES: IRRIPPI ONTOR, RED EMPEROR
+TEXT: And more recently (like a century and a half ago), the Red Emperor reclaimed the Heartlands from the Pentan nomads that ruled it for the better part of a century. So in the Fifth Wane, the Red Emperor reclaimed land from the Pentan bands. This land was given to temples or individuals. Of course what the Red Emperor gives, he can take away, and of course the inhabitants of that land need to give the Red Emperor his share. Of course some places were ruled by the Pentans – and these cities and temples have land, markets, and other resources, which of course they acknowledge are derived from the Red Emperor.For tradition and for convenience, the Red Emperor has appointed satraps to rule over most of his domains. All of these satraps are by now descendants of the Red Emperor, although some of the original satraps were allied kings or other rulers. The satraps must pay the Red Emperor regular tribute of coin, worship, food, goods, and soldiers – and legions of Irrippi Ontor scribes are present to make sure all has been paid. Even here, the Red Emperor has estates, temples, and other resources that are personally administered by his household.
+TARGETS: dwells at
+
+### WOD-JR:01105 | WOD-JR | WOD-JR 36363 (The City of the Gods) | Select Month September 2026
+FIGURES: FLAMAL, GATA, HUMAKT, NAKALA, SRAMAK
+TEXT: At the death of Flamal, Gata ordered that a temple be built on the spot. The Hsunchen did this, adding a temple to Gata herself and one to Nakala, who carried off the body of Flamal, as appeasement to her. When the Seshnegi captured the land around the area, the added temples to Humakt and Sramak, their native gods. Later temples to the other Nine were added, as well as to many other of the lesser gods. The priests were allowed to live there, as well as visitants, but there were not allowed to be any regular living quarters built. To guarantee the sanctity of the place, the gods made it possible for the priests to never labor, giving food and other things themselves. They also guaranteed the sacredness of the place by oaths which protected any pilgrims and priests there or on the way, so long as they wore the yellow robes.
+TARGETS: possesses / wields; dies
+
+### WOD-JR:01119 | WOD-JR | WOD-JR 36369 (Near the Dawn of Time) | Select Month September 2026
+FIGURES: ALDRYAMI
+TEXT: The Aldryami were servants of the terrestial gods. They were first made from the spittle of the Great Gods. They knew all the secrets of the land, and were close to nature. They needed no homes, but lived in the forests with the animals. They were handsome and none on land could compete with their beauty.
+TARGETS: dwells at
+
+### WOD-JR:01133 | WOD-JR | WOD-JR 36380 (Vasana & Yanioth’s Apprenticeship) | Yanioth's Apprenticeship
+FIGURES: ERNALDA
+TEXT: When she was 13 years old, Yanioth went through her clan initiation rites. Afterwards, she was given, as is traditional for young women of her Ernaldoring clan, to the Clearwine Earth Temple for two years of training and apprenticehood. She served the priestesses, learned useful crafts, and learned the songs and dances of Ernalda. She received magical lore and learned of the spirits. She lived in the temple with the other young women, and functioned as a student and a servant of the priestesses.
+TARGETS: dwells at
+
+### WOD-JR:01141 | WOD-JR | WOD-JR 36422 (Notes on The City of Wonders) | Select Month September 2026
+FIGURES: BELINTAR, STORM BULL
+TEXT: Greg drew up a schematic of the city some years back. This is conceptual and ideal (as many of his notes often were), but it is entirely possible that Belintar was able to pull of this near perfection. Gods and spirits dwelled in the City of Wonders alongside mortals and powerful magical entities like the Reef Master or the Tide Lord. So you might go to the Golden Anchor for a drink and meet a visiting Triton or a son of the Storm Bull who has come here from Stormwalk Mountain.
+TARGETS: dwells at
+
+### WOD-JR:01154 | WOD-JR | WOD-JR 36427 (Belintar the Patron) | RQG Adventurer's chapter plate
+FIGURES: BELINTAR, THE MASTERS OF LUCK AND DEATH
+TEXT: And of course the RQG book hints at this: RQG Adventurer's chapter plate And this theories of course are common in Sartar. It is probably easier to name which members of the Sartar Dynasty were not steeped in Holy Country esotericism (Salinarg). And given how much of the leadership of newly liberated Sartar were exiled in or otherwise fought in the Holy Country, it is probably safe to say that influence is greater now than ever before.Now this stuff is not particularly Nysalorean or Arkati, but it certainly has echoes and reverbs of some doctrines of the God Learnerism and the Empire of the Wyrms Friends. All meshed nicely together and with Belintar and the Tournament of the Masters of Luck and Death as a great source of data and information.
+TARGETS: punishes / exiles
+
+### WOD-JR:01156 | WOD-JR | WOD-JR 36428 (From the letters of Sorala Tor) | Select Month September 2026
+FIGURES: BELINTAR, HUMAKT, UMATH
+TEXT: Lunar apologists point to Harrek's destruction of the City of Wonders, and the assistance given to him by King Broyan, to deflect from Moondaughter's crimes. But Harrek is like a wolf or bear – he kills those things that are already weakened and sickened. His destruction is like Humakt's or Umath's – he destroys a broken and corrupt world, so that a new one might be built. He ended the fading dream of the City of Wonders, but it was a mercy killing and it woke us up from the delusions that somehow Belintar might return (a delusion spread and encouraged by the Empire!)."
+TARGETS: sleeps / wakes
+
+### WOD-JR:01165 | WOD-JR | WOD-JR 36446 (Story of Thanmor-Ratesk) | Select Month September 2026
+FIGURES: JONAT, NAKALA
+TEXT: When the elders heard this they captured the man, who was hiding in fear at the time. He tried to defend himself, but during the council there appeared the ghost of Jonat. The ghost condemned the youth, saying that none of the tribe could now have freedom after death unless they suceeded in killing great numbers of the enemy. Also Thanmor was outlawed, and the ancestors of him said that they would never help him again until he succeeded in capturing the seven chiefs of the Jonati. If he died before he succeeded, he would be condemned to the darkest pits of Nakala after death. He fled from the council, and hid in the woods. He decided to try to warn the Frontemi who were sure to be attacked, but he was too late in deciding. He was traveling south when he witness the battle where the Frontemi lost utterly. He managed to escape with the leader of their army, however, who was Prince Snodal.
+TARGETS: dies; punishes / exiles
+
+### WOD-JR:01173 | WOD-JR | WOD-JR 36453 (A Brithini Cosmology) | The Creation
+FIGURES: TALAR
+TEXT: The Vadeli possess Wisdom but the use the Ignorance of others to manipulate and cause pain and suffering. And they do not age, and are a mirror reflection to us. They are the Enemy. Of the Seven Basic Denials held by all Brithini, first of course is, "There is one God, the Maker of the Laws; we worship no other." But another prohibits Unauthorized Sex, and another is: "The Talar is Law. Remember that, obey his commands, do what he says and you will not do wrong. Disobey the talars and your immortal life is in jeopardy.
+TARGETS: breaks oath
+
+### WOD-JR:01174 | WOD-JR | WOD-JR 36453 (A Brithini Cosmology) | The Creation
+FIGURES: INVISIBLE GOD
+TEXT: One of many reasons why people in the First Age feared the Brithini: "The mud men are inferior creatures without soul or concepts of true nature. They threaten the existence of our immortality, and thus must be destroyed. Once destroyed they can return to material matter and immaterial energy; raw materials for the Invisible God. The parts can be recreated and, if blessed to be within the realm of the Brithini, immortal."
+TARGETS: hates / fears
+
+### WOD-JR:01176 | WOD-JR | WOD-JR 36453 (A Brithini Cosmology) | The Creation
+FIGURES: INVISIBLE GOD, TALAR
+TEXT: - Deist (worshiping or communicating with gods other than the Invisible God) - Sexual activist (having Unauthorized Sex) - Disobeyer (disobeying a talar or justifying disobeying a talar) - Meddler (doing something outside of your class, so a soldier trying to figure numbers, or a talar learning sorcery).
+TARGETS: breaks oath
+
+### WOD-JR:01178 | WOD-JR | WOD-JR 36447 (A Few Malkioni Thoughts) | Select Month September 2026
+FIGURES: BELINTAR, INVISIBLE GOD
+TEXT: Perhaps the most radical of "Malkioni" is that indigenous to God Forgot, whose god died in the God Time and did not return with the Dawn. They acknowledge the Invisible God, but do not worship the lesser entities, viewing them at best as self-deluded imposters and at worst as hostile. They do acknowledge Belintar as a lesser entity who upholds the Invisible God and offer prayers to the Invisible God on his behalf. In the Second Age, they enthusiastically embraced the Zistorite experiment of the Middle Sea Empire.
+TARGETS: dies
+
+### WOD-JR:01183 | WOD-JR | WOD-JR 36447 (A Few Malkioni Thoughts) | Select Month September 2026
+FIGURES: HRESTOL, SESHNA LIKITA
+TEXT: Malkionism (as opposed to Brithinism) really has its origins with Hrestol, who was born in a Brithini colony. To save his people, he killed the goddess Ifttala, the daughter of Seshna Likita and mother of the Pendali Lion People. Hrestol died, was judged in the Underworld, and made his way back to the world of the living. He was exiled from Seshnela by his own father, and rejected the ancient Laws of Brithos. He made his own way to Wisdom, one suited to men's souls and happiness. He sought Justice, not mere law, and self-sacrifice rather than obedience.
+TARGETS: dies; punishes / exiles
+
+### WOD-JR:01191 | WOD-JR | WOD-JR 36457 (Cult’s book Holy Country Preview) | Select Month September 2026
+FIGURES: BELINTAR
+TEXT: Belintar spoke little of his own origins, claiming that the moment was more important than the past. He proved himself to whoever demanded such proof, and then demanded something in return. He was true to his friends and deadly to his enemies.
+TARGETS: speaks / prophesies

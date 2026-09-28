@@ -1,0 +1,300 @@
+[P5-A-B0105-051] S=['EMPRESS EARTH'] P=is alternative name for O=['GATA'] implicit=False ps="Gata, Empress Earth" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Gata, Empress Earth,
+[P5-A-B0105-052] S=['GATA'] P=is member of O=['CELESTIAL COURT'] implicit=True ps="joined" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Empress Earth joined the Celestial Court and birthed twin daughters Asrelia and Ty Kora Tek, who dwell deep inside the Earth.
+[P5-A-B0105-053] S=['ASRELIA', 'TY KORA TEK'] P=is child of O=['GATA'] implicit=True ps="birthed twin daughters" sug=is child of
+   Q: Empress Earth joined the Celestial Court and birthed twin daughters Asrelia and Ty Kora Tek, who dwell deep inside the Earth.
+[P5-A-B0105-054] S=['ASRELIA'] P=is twin of O=['TY KORA TEK'] implicit=False ps="twin daughters" sug=is sibling of (qual=twin)
+   Q: birthed twin daughters Asrelia and Ty Kora Tek, who dwell deep inside the Earth.
+[P5-A-B0105-055] S=['ERNALDA'] P=is child of O=['ASRELIA'] implicit=False ps="Among Asrelia's daughters was" sug=is child of
+   Q: Among Asrelia's daughters was Ernalda, whose beauty and bounty brought Life to the land.
+[P5-A-B0105-056] S=['ALDRYA'] P=is child of O=['ERNALDA', 'GOD OF VEGETATION'] implicit=True ps="conceived" sug=is child of
+   Q: With the God of Vegetation, she conceived Aldrya the Forest Goddess.
+[P5-A-B0105-057] S=['EIRITHA'] P=is child of O=['ERNALDA', 'FATHER OF BEASTS'] implicit=True ps="conceived" sug=is child of
+   Q: With the Father of Beasts, she conceived Eiritha the Animal Mother.
+[P5-A-B0105-058] S=['ASRELIA'] P=bestows magic / gifts O=['ERNALDA'] implicit=False ps="gave Ernalda rule over the Earth" sug=one of: bestows, heals, imbues, teaches
+   Q: Asrelia gave Ernalda rule over the Earth and all who live from its bounty.
+[P5-A-B0105-059] S=['YELM'] P=is spouse of O=['ERNALDA'] implicit=False ps="took Ernalda as his consort" sug=is spouse of
+   Q: Yelm took Ernalda as his consort but sought to usurp her rule.
+[P5-A-B0105-060] S=['YELM'] P=challenges O=['ERNALDA'] implicit=False ps="sought to usurp her rule" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Yelm took Ernalda as his consort but sought to usurp her rule.
+[P5-A-B0105-061] S=['ORLANTH'] P=kills O=['YELM'] MOD={"with_the_aid_of": ["ERNALDA"]} implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: With her aid, Orlanth vied mightily for her freedom and slew Yelm.
+[P5-A-B0105-062] S=['ERNALDA'] P=marries O=['ORLANTH'] implicit=False ps="took Orlanth as her husband" sug=is spouse of (qual=wedding)
+   Q: Ernalda took Orlanth as her husband and together they ruled the gods.
+[P5-A-B0105-063] S=['ERNALDA', 'ORLANTH'] P=rules O=['THE GODS'] implicit=False ps="together they ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Ernalda took Orlanth as her husband and together they ruled the gods.
+[P5-A-B0105-064] S=['BARNTAR', 'VORIA', 'VORIOF'] P=is child of O=['ERNALDA', 'ORLANTH'] implicit=True ps="had many children together" sug=is child of
+   Q: They had many children together, including Barntar, Voria, Voriof, and many others.
+[P5-A-B0106-001] S=['ORLANTH'] P=protects O=['ERNALDA', "ERNALDA'S CHILDREN"] implicit=False ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: During the Lesser Darkness, Orlanth protected Ernalda and her children,
+[P5-A-B0106-002] S=['BABEESTER GOR'] P=is child of O=['ERNALDA'] implicit=True ps="mothered" sug=is child of
+   Q: Even in sleep, she mothered Babeester Gor, the Guardian Daughter.
+[P5-A-B0106-003] S=['ORLANTH'] P=descends into O=['UNDERWORLD'] implicit=False ps="came to her in the Underworld" sug=one of: descends into, dies
+   Q: When Orlanth came to her in the Underworld on his Lightbringers' Quest,
+[P5-A-B0106-004] S=['GREAT COMPROMISE'] P=comes into being O=[] MOD={"with_the_aid_of": ["ARACHNE SOLARA", "ERNALDA"]} implicit=False ps="helped her weave" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Ernalda aided Arachne Solara and helped her weave the Great Compromise as the midwife of Time.
+[P5-A-B0106-005] S=['ERNALDA'] P=serves O=['ARACHNE SOLARA'] implicit=False ps="aided" sug=aids
+   Q: Ernalda aided Arachne Solara and helped her weave the Great Compromise as the midwife of Time.
+[P5-A-B0106-006] S=['ERNALDA'] P=travels O=[] MOD={"to": "REBIRTH IN TIME"} implicit=True ps="followed Orlanth and Yelm to Rebirth" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Earth Queen followed Orlanth and Yelm to Rebirth in Time with the Dawn.
+[P5-A-B0106-007] S=['VORIA'] P=is child of O=['ERNALDA'] implicit=True ps="her daughter" sug=is child of
+   Q: her daughter Voria went about the world with the promise of life, leaving a trail of flowers behind her,
+[P5-A-B0106-008] S=['VORIA'] P=travels O=[] MOD={"in_on_at": "THE WORLD"} implicit=False ps="went about the world" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: her daughter Voria went about the world with the promise of life, leaving a trail of flowers behind her,
+[P5-A-B0106-009] S=['ORLANTH'] P=fights O=['RED GODDESS'] implicit=False ps="fought her" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Ernalda saw the rise of the Red Goddess and neither acknowledged her nor fought her like Orlanth did.
+[P5-A-B0106-010] S=['ERNALDA'] P=bestows magic / gifts O=['ORLANTH', "ORLANTH'S PEOPLE"] implicit=True ps="continues to provide strength and resources to" sug=one of: bestows, heals, imbues, teaches
+   Q: the Great Goddess continues to provide strength and resources to Orlanth and his people in their fight against the Empire.
+[P5-A-B0106-011] S=['ORLANTH', "ORLANTH'S PEOPLE"] P=fights O=['LUNAR EMPIRE'] implicit=True ps="their fight against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the Great Goddess continues to provide strength and resources to Orlanth and his people in their fight against the Empire.
+[P5-A-B0106-012] S=['ERNALDA'] P=descends into O=['UNDERWORLD'] implicit=False ps="once again leaving for the Underworld" sug=one of: descends into, dies
+   Q: In the late Third Age, priestesses of Ernalda throughout Glorantha have been gripped by visions of the coming Hero Wars, a second Great Darkness, and the Good Goddess once again leaving for the Underworld.
+[P5-A-B0106-013] S=['EARTH QUEEN'] P=is alternative name for O=['ERNALDA'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Earth Rune aspect of Ernalda is called the Earth Queen,
+[P5-A-B0106-014] S=['LIFE-GIVER'] P=is alternative name for O=['ERNALDA'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Life Rune aspect of Ernalda is called Life-Giver,
+[P5-A-B0106-015] S=['BINDER AND WEAVER'] P=is alternative name for O=['ERNALDA'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Harmony Rune aspect of Ernalda is called Binder and Weaver,
+[P5-A-B0106-016] S=['ERNALDA'] P=is identified as O=['EARTH MOTHER'] implicit=False ps="is the Earth Mother" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ernalda is the Earth Mother.
+[P5-A-B0106-017] S=['ASRELIA', 'TY KORA TEK', 'ESROLA', 'MARAN GOR', 'BABEESTER GOR'] P=serves O=['ERNALDA'] implicit=False ps="who serve her" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Ernalda is the head of a pantheon of Earth and agricultural deities, who serve her. || These range from goddesses such as powerful Asrelia, Ty Kora Tek, Esrola, Maran Gor, and Babeester Gor to small household deities who protect the hearth and home.
+[P5-A-B0106-018] S=['ERNALDA'] P=is spouse of O=['KING OF THE GODS'] implicit=False ps="Ernalda's husband is" sug=is spouse of
+   Q: Ernalda's husband is the King of the Gods, but she has taken many other lovers and husbands.
+[P5-A-B0106-019] S=['MOST HEORTLING AND TARSHITE WOMEN'] P=serves O=['ERNALDA'] implicit=True ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Among the Heortlings and Tarshites, most women worship Ernalda.
+[P5-A-B0106-020] S=['ORLANTH WORSHIPERS'] P=protects O=['ERNALDA', "ERNALDA'S WORSHIPERS"] implicit=False ps="are ritually obliged to defend" sug=one of: protects, rescues / frees, aids
+   Q: Orlanth worshipers are ritually obliged to defend Ernalda and her worshipers.
+[P5-A-B0106-021] S=['ORLANTH'] P=serves O=['ERNALDA'] MOD={"in_on_at": "ESROLIA"} implicit=True ps="serve as Ernalda's guards and servants" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Orlanth is one of several husband-deities (including some not commonly associated with her elsewhere) worshiped by men. || These husband-deities serve as Ernalda's guards and servants.
+[P5-A-B0106-022] S=['ERNALDA'] P=is spouse of O=['ORLANTH'] implicit=False ps="is the wife of" sug=is spouse of
+   Q: Ernalda is the wife of Orlanth and the likes and dislikes of her worshipers match those of Orlanth's followers.
+[P5-A-B0106-023] S=['ORLANTH', "ORLANTH'S WORSHIPPERS"] P=protects O=['WORSHIPPERS OF ERNALDA'] implicit=False ps="receive the protection of" sug=one of: protects, rescues / frees, aids
+   Q: All worshippers of Ernalda receive the protection of Orlanth and his worshippers, who are ritually, socially, and morally obligated to defend Ernaldan women.
+[P5-A-B0106-024] S=['ERNALDA'] P=is identified as O=['THE EARTH'] implicit=False ps="is the Earth" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ernalda is the Earth and was the ultimate prize of the Gods War.
+[P5-A-B0106-025] S=['ERNALDA'] P=bestows magic / gifts O=['MANY GODS'] implicit=False ps="blessed" sug=one of: bestows, heals, imbues, teaches
+   Q: Many gods sought to share the Earth, and Ernalda blessed them all.
+[P5-A-B0106-026] S=['A FEW GODS'] P=fights O=['THE EARTH'] implicit=False ps="sought to destroy" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: A few gods sought to destroy the Earth when they could not possess it, and they are the enemies who plague Ernaldan rituals.
+[P5-A-B0106-027] S=['ERNALDA'] P=fights O=['CHAOS'] implicit=False ps="shares Orlanth's hatred of Chaos" sug=hates
+   Q: Ernalda shares Orlanth's hatred of Chaos and his Chaos enemies are hers as well.
+[P5-A-B0106-028] S=['ERNALDA'] P=rules O=['THE EARTH'] MOD={"in_on_at": "EZEL"} implicit=False ps="rules as Queen of the Earth" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: for it is here that Ernalda makes her home (Ezel means "Her home") and rules as Queen of the Earth.
+[P5-A-B0106-029] S=['NANDAN'] P=is member of O=['ERNALDA CULT'] implicit=True ps="the Nandan subcult" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the Nandan subcult provides a means by which men can perform women's roles and participate in womenonly rituals
+[P5-A-B0106-030] S=['ORLANTH'] P=is spouse of O=['ERNALDA'] implicit=False ps="is her husband" sug=is spouse of
+   Q: Wherever Ernalda is found, Orlanth is her husband.
+[P5-A-B0106-031] S=['ARGAN ARGAR', 'FLAMAL', 'GENERT', 'MAGASTA', 'UROX', 'VESKARTHAN', 'YELM'] P=is spouse of O=['ERNALDA'] MOD={"in_on_at": "ESROLIA"} implicit=True ps="is one of many husbands" sug=is spouse of
+   Q: In Esrolia, Orlanth is one of many husbands, along with Argan Argar, Flamal, Genert, Magasta, Urox, Veskarthan, and Yelm.
+[P5-A-B0106-032] S=['YELMALIO'] P=is spouse of O=['ERNALDA'] MOD={"in_on_at": "SUN DOME TEMPLES"} implicit=False ps="is a husband of" sug=is spouse of
+   Q: In the Sun Dome Temples, Yelmalio is a husband of Ernalda.
+[P5-A-B0106-033] S=['PAMALT'] P=is spouse of O=['ERNALDA'] MOD={"in_on_at": "UMATHELA"} implicit=False ps="is a lesser husband of" sug=is spouse of
+   Q: In the distant land of Umathela, Pamalt is a lesser husband of Ernalda as well.
+[P5-A-B0106-034] S=['ERNALDA'] P=descends into O=['UNDERWORLD'] implicit=False ps="sent part of herself into the Underworld" sug=one of: descends into, dies
+   Q: When the Foe of Ernalda came, Ernalda feigned sleep and sent part of herself into the Underworld in the form of a snake.
+[P5-A-B0106-035] S=['ERNALDA'] P=transforms into O=['A SNAKE'] implicit=True ps="in the form of a snake" sug=transforms into
+   Q: sent part of herself into the Underworld in the form of a snake.
+[P5-A-B0106-036] S=['ERNALDA'] P=travels O=[] MOD={"to": "ASRELIA'S CAVE", "via": ["UNDERWORLD"]} implicit=True ps="passed through the Underworld and traveled to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She passed through the Underworld and traveled to Asrelia's Cave.
+[P5-A-B0106-038] S=['ERNALDA'] P=binds O=['THE FEUDING PARTIES'] MOD={"using": "ERNALDA'S LOOM"} implicit=True ps="bound the feuding parties together" sug=binds
+   Q: They took her gifts and, with her loom, she bound the feuding parties together;
+[P5-A-B0106-039] S=['ERNALDA'] P=bestows magic / gifts O=['ANGRY MEN'] implicit=True ps="They took her gifts" sug=one of: bestows, heals, imbues, teaches
+   Q: She brought the men to her house and showed them her blessings and power. || They took her gifts
+[P5-A-B0106-040] S=['ORLANTH'] P=is identified as O=['KING OF THE GODS'] implicit=False ps="is the King of the Gods, Master of Storms, Death Wielder, and Bringer of Light" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Orlanth is the King of the Gods, Master of Storms, Death Wielder, and Bringer of Light.
+[P5-A-B0106-041] S=['ORLANTH'] P=rules O=['THE UNIVERSE'] implicit=True ps="claims overlordship of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He claims, by right of his deeds, overlordship of the universe.
+[P5-A-B0106-042] S=['ORLANTH'] P=is child of O=['UMATH'] implicit=False ps="was the last born of the many sons of" sug=is child of
+   Q: Orlanth was the last born of the many sons of Umath.
+[P5-A-B0106-043] S=['ORLANTH'] P=is child of O=['KERO FIN'] implicit=True ps="His mother was" sug=is child of
+   Q: His mother was a mountain goddess named Kero Fin,
+[P5-A-B0106-044] S=['ORLANTH'] P=challenges O=['YELM'] MOD={"using": ["A COMB", "A RATTLE"]} implicit=True ps="challenged to a dancing contest" sug=one of: challenges, breaks oath, betrays, fights
+   Q: With those he challenged Emperor Yelm to a dancing contest.
+[P5-A-B0106-045] S=['YELM'] P=defeats O=['ORLANTH'] implicit=False ps="the judges ruled in favor of Yelm rather than Orlanth" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In all three cases the judges ruled in favor of Yelm rather than Orlanth.
+[P5-A-B0106-046] S=['ORLANTH'] P=pledges oath with O=['ERNALDA'] MOD={"purpose_clause": "TO AID"} implicit=False ps="swore to free" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: It was during these contests that Orlanth first courted Ernalda whom he swore to free from the clutches of the Bright Emperor.
+[P5-A-B0106-047] S=['THE SILENT AND FAR-SHOOTING ARROW'] P=comes into being O=[] MOD={"at_the_instigation_of": ["YELM"]} implicit=False ps="made" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Yelm made the silent and far-shooting arrow, inspired by the piercing effect of his rays.
+[P5-A-B0106-048] S=['ORLANTH'] P=discovers O=['THE SWORD'] implicit=False ps="got" sug=discovers
+   Q: Orlanth got the sword that was inspired by the slicing of the wind through the world.
+[P5-A-B0106-049] S=['ORLANTH'] P=discovers O=['DEATH'] implicit=False ps="took the new Power, Death" sug=discovers
+   Q: Later the duel grew more serious and Orlanth took the new Power, Death, and used it only once and then to very good effect.
+[P5-A-B0106-050] S=['ORLANTH'] P=strikes O=['YELM'] MOD={"using": "DEATH"} implicit=True ps="struck down" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: He struck down Yelm, the Emperor and removed the single greatest source of Light from the cosmos.
+[P5-A-B0106-051] S=['AIR GODS'] P=defeats O=['THE SEAS'] implicit=False ps="were beaten back down by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The cosmos was so shaken that the seas flooded the land and then were beaten back down by the Air gods.
+[P5-A-B0106-052] S=['ORLANTH'] P=fights O=['DRAGONS', 'WATER GODS', "ORLANTH'S REBELLIOUS KIN"] implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Orlanth fought dragons, Water gods, and his own rebellious kin.
+[P5-A-B0106-053] S=['ORLANTH'] P=fights O=['THE REMAINING FIRE GODS', 'THE FORCES OF DARKNESS'] implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Orlanth fought both the remaining Fire gods and the growing forces of Darkness.
+[P5-A-B0106-054] S=['ORLANTH'] P=defeats O=['YELMALIO'] implicit=False ps="fought and defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Orlanth fought Yelmalio and defeated him,
+[P5-A-B0106-055] S=['ZORAK ZORAN'] P=wounds O=['YELMALIO'] implicit=True ps="ambushed and wounded" sug=wounds
+   Q: Zorak Zoran ambushed the son of the Sun and wounded him even more.
+[P5-A-B0106-056] S=['CHAOS'] P=travels O=[] MOD={"to": "THE WORLD", "via": ["THE TRAIL MADE BY DARKNESS"]} implicit=False ps="crept into the world" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Then it was that Chaos crept into the world upon the trail made by Darkness.
+[P5-A-B0106-057] S=['MONSTERS AND DEMONS'] P=serves O=['THE DEVIL'] implicit=False ps="preparing the way for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Monsters and demons scouted through the cosmos, preparing the way for the Devil.
+[P5-A-B0106-058] S=['FLESH MAN'] P=reveals O=['VISIONS OF THE FUTURE'] IO=['THE GODS'] implicit=False ps="gibbered his visions of the future to" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: there was fear among the gods when Flesh Man gibbered his visions of the future to them.
+[P5-A-B0106-059] S=['ORLANTH'] P=discovers O=["ORLANTH'S MOTHER"] implicit=False ps="found his mother dead" sug=discovers
+   Q: Order slipped, Orlanth found his mother dead, saw his father suffering and chained between the earth and sky,
+[P5-A-B0106-060] S=['ORLANTH'] P=travels O=[] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="undertook the Lightbringers' Quest" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He took what tools and weapons he could, called some friends and met others along the way, and undertook the Lightbringers' Quest to rescue the world.
+[P5-A-B0107-001] S=['ORLANTH'] P=rules O=['AIR GODS'] implicit=False ps="was confirmed as chief of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: For his leadership of the Lightbringers and his acknowledged superiority over Yelm, Orlanth was confirmed as chief of the Air Gods.
+[P5-A-B0107-002] S=['ORLANTH'] P=is identified as O=['KING OF THE GODS'] implicit=True ps="achieved the title of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: He also achieved the title of King of the Gods. || That title is recognized by Lightbringers and some others, but not by all of the deities of the world.
+[P5-A-B0107-003] S=['ORLANTH WORSHIPPERS'] P=teaches O=['THE SECRETS OF THE LIGHTBRINGERS'] IO=['THE LOWLANDS'] MOD={"from": "THE MOUNTAINS", "purpose_clause": "TO AID"} implicit=True ps="brought the secrets of the Lightbringers down from the mountains to civilize" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: his worshippers brought the secrets of the Lightbringers down from the mountains to civilize the lowlands where the broken remnants of Sun-worshippers struggled against the dark.
+[P5-A-B0107-004] S=['ORLANTH WORSHIPPERS'] P=fights O=['YELM WORSHIPPERS'] implicit=False ps="were struggling with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: soon the worshippers of Orlanth in the hills and mountains were struggling with the worshippers of Yelm in the lowlands.
+[P5-A-B0107-005] S=['THE PEOPLES OF THE EMPIRE OF THE WYRMS FRIENDS'] P=departs from O=['THEIR OLD GODS'] implicit=False ps="turned to Dragon Magics and away from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: In the Second Age the Empire of the Wyrms Friends was a center of power for Orlanth worshippers, but the peoples turned to Dragon Magics and away from their old gods.
+[P5-A-B0107-006] S=['THE DRAGONS'] P=kills O=['THOUSANDS OF PEOPLE'] MOD={"in_on_at": "DRAGONKILL WAR"} implicit=False ps="destroyed" sug=one of: kills, shatters, dies
+   Q: In the end the Dragons had no mercy for any humans who fought them and destroyed thousands of people in the Dragonkill War of 1200.
+[P5-A-B0107-007] S=['RED MOON'] P=comes into being O=[] implicit=False ps="was born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: In the Third Age was born a new rival, the Red Moon.
+[P5-A-B0107-008] S=['RED MOON'] P=defeats O=['THE NORTHERN GODS OF LIGHT'] implicit=True ps="fell before her march" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The northern gods of light fell before her march, and then she set herself against Orlanth as well, to struggle for the Middle Air.
+[P5-A-B0107-009] S=['RED MOON'] P=fights O=['ORLANTH'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="set herself against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The northern gods of light fell before her march, and then she set herself against Orlanth as well, to struggle for the Middle Air.
+[P5-A-B0107-010] S=['RED MOON WORSHIPPERS'] P=defeats O=['ORLANTH WORSHIPPERS'] implicit=True ps="have converted and conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Through the years her worshippers have converted and conquered those of the storm god,
+[P5-A-B0107-011] S=['ORLANTH'] P=embodies O=['AIR RUNE', 'MOVEMENT RUNE', 'MASTERY RUNE'] implicit=False ps="is the owner of / strongly associated with" sug=one of: embodies, has domain
+   Q: Orlanth is the owner of the Air Rune and is also strongly associated with the Movement and Mastery Runes.
+[P5-A-B0107-012] S=['ORLANTH THUNDEROUS'] P=is alternative name for O=['ORLANTH'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Air Rune aspect of Orlanth is called Thunderous
+[P5-A-B0107-013] S=['ORLANTH ADVENTUROUS'] P=is alternative name for O=['ORLANTH'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Movement Rune aspect of Orlanth is called Adventurous,
+[P5-A-B0107-014] S=['ORLANTH REX'] P=is alternative name for O=['ORLANTH'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Mastery Rune aspect of the Orlanth is called Orlanth Rex
+[P5-A-B0107-015] S=['ORLANTH'] P=rules O=['LIGHTBRINGERS'] implicit=False ps="is leader of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He is leader of the Seven Lightbringers and their cults tend to defer to the priests and devotees of Orlanth.
+[P5-A-B0107-016] S=['ALYNXES'] P=is child of O=['YINKIN'] implicit=False ps="the children of" sug=is child of
+   Q: Alynxes are sacred to Orlanth, as the children of Orlanth's brother Yinkin.
+[P5-A-B0107-017] S=['YINKIN'] P=is sibling of O=['ORLANTH'] implicit=False ps="Orlanth's brother" sug=is sibling of
+   Q: Alynxes are sacred to Orlanth, as the children of Orlanth's brother Yinkin.
+[P5-A-B0107-018] S=['ERNALDA'] P=is spouse of O=['ORLANTH'] implicit=False ps="is Orlanth's wife and queen" sug=is spouse of
+   Q: Ernalda is Orlanth's wife and queen and together they rule the gods.
+[P5-A-B0107-019] S=['ERNALDA', 'ORLANTH'] P=rules O=['THE GODS'] implicit=False ps="together they rule" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Ernalda is Orlanth's wife and queen and together they rule the gods.
+[P5-A-B0107-020] S=['THE ANCESTORS'] P=is child of O=['ERNALDA', 'ORLANTH'] implicit=True ps="are the parents of" sug=is child of
+   Q: She is queen of the Earth Family, she and Orlanth are the parents of the ancestors.
+[P5-A-B0107-021] S=['ORLANTH'] P=protects O=['ERNALDA'] implicit=True ps="defends" sug=one of: protects, rescues / frees, aids
+   Q: He defends her, and she shares all of the bounty of the earth with him.
+[P5-A-B0107-022] S=['ERNALDA'] P=bestows magic / gifts O=['ORLANTH'] implicit=True ps="shares all of the bounty of the earth with" sug=one of: bestows, heals, imbues, teaches
+   Q: He defends her, and she shares all of the bounty of the earth with him.
+[P5-A-B0107-023] S=['ORLANTH'] P=fights O=['CHAOS'] implicit=False ps="hates" sug=hates
+   Q: Orlanth hates Chaos in all its forms.
+[P5-A-B0107-024] S=['ORLANTH'] P=fights O=['WAKBOTH'] implicit=False ps="is his personal foe" sug=hates
+   Q: Wakboth, the greatest Chaos god, is his personal foe. || No peace exists or can exist between Orlanth and Wakboth.
+[P5-A-B0107-025] S=['ORLANTH'] P=fights O=['DELORADELLA', 'KARJAKAN', 'MAGASTA', "SH'HARKAZEEL", 'YELM', 'ZZABUR'] implicit=True ps="His most important rivals are" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: His most important rivals are Deloradella, Queen of the Darkness Tribe; Karjakan, King of Spirits; Magasta, Lord of the Water Tribe; Sh'harkazeel, the Cosmic Dragon; Yelm, Emperor of the Fire Tribe; and Zzabur, the Arch Sorcerer.
+[P5-A-B0107-026] S=['DELORADELLA'] P=rules O=['DARKNESS TRIBE'] implicit=False ps="Queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Deloradella, Queen of the Darkness Tribe;
+[P5-A-B0107-027] S=['KARJAKAN'] P=rules O=['SPIRITS'] implicit=False ps="King of Spirits" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Karjakan, King of Spirits;
+[P5-A-B0107-028] S=['MAGASTA'] P=rules O=['WATER TRIBE'] implicit=False ps="Lord of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Magasta, Lord of the Water Tribe;
+[P5-A-B0107-029] S=['COSMIC DRAGON'] P=is alternative name for O=["SH'HARKAZEEL"] implicit=False ps="the Cosmic Dragon" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Sh'harkazeel, the Cosmic Dragon;
+[P5-A-B0107-030] S=['YELM'] P=rules O=['FIRE TRIBE'] implicit=False ps="Emperor of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Yelm, Emperor of the Fire Tribe;
+[P5-A-B0107-031] S=['ZZABUR'] P=is identified as O=['THE ARCH SORCERER'] implicit=False ps="the Arch Sorcerer" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: and Zzabur, the Arch Sorcerer.
+[P5-A-B0107-032] S=['RED GODDESS'] P=manifests chaos taint O=[] implicit=True ps="embraces Chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Her very existence violates the Great Compromise since she embraces Chaos.
+[P5-A-B0107-033] S=['ORLANTH'] P=fights O=['RED GODDESS', 'LUNAR EMPIRE'] implicit=False ps="has an abiding hatred for" sug=hates
+   Q: As a result, Orlanth has an abiding hatred for the Red Goddess, the Lunar Empire and all its deities and forces. || This hatred is deep and mutual.
+[P5-A-B0107-034] S=['ORLANTH'] P=manifests O=['VINGA'] implicit=False ps="his manifestation as" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Although Ernalda is the Goddess of Women, Orlanth calls to some women through his manifestation as Vinga the Warrior Woman.
+[P5-A-B0107-035] S=['ERNALDA'] P=is identified as O=['GODDESS OF WOMEN'] implicit=False ps="is the Goddess of Women" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Although Ernalda is the Goddess of Women,
+[P5-A-B0107-036] S=['ORLANTH THUNDEROUS'] P=is identified as O=['WEATHER GOD'] implicit=False ps="is Orlanth's aspect as the weather god" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Orlanth Thunderous is Orlanth's aspect as the weather god.
+[P5-A-B0107-037] S=['ORLANTH THUNDEROUS'] P=is spouse of O=['ERNALDA'] implicit=True ps="is worshiped with Ernalda as his wife" sug=is spouse of
+   Q: He is worshiped with Ernalda as his wife.
+[P5-A-B0107-038] S=['HELER'] P=is identified as O=['GOD OF RAIN'] implicit=False ps="God of Rain" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Heler, God of Rain, is always nearby.
+[P5-A-B0107-039] S=['ORLANTH REX'] P=is identified as O=['KING OF THE GODS'] implicit=False ps="is the King of the Gods" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Orlanth Rex is the King of the Gods, and the god of kings, nobles, and poets.
+[P5-A-B0107-040] S=['LIFEBRINGER'] P=is alternative name for O=['ORLANTH LIGHTBRINGER'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Orlanth Lightbringer, or Lifebringer, is the mystical and Heroquesting aspect of the god.
+[P5-A-B0107-041] S=['ORLANTH'] P=protects O=['THE ORLANTHI PEOPLE'] implicit=False ps="the protector of" sug=one of: protects, rescues / frees, aids
+   Q: Orlanth is the god of hospitality, of gifts, and the protector of the Orlanthi people.
+[P5-A-B0107-042] S=['ORLANTH'] P=comes into being O=[] MOD={"in_on_at": "KERO FIN MOUNTAIN"} implicit=False ps="was born on" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Orlanth was born on Kero Fin Mountain, and that mountain is an important place of pilgrimage for the cult.
+[P5-A-B0107-043] S=['ORLANTH'] P=travels O=[] MOD={"to": "STORMWALK MOUNTAIN"} implicit=False ps="often visited" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Orlanth often visited Stormwalk Mountain, at the south end of the Storm Mountains.
+[P5-A-B0107-045] S=['VINGA'] P=is member of O=['ORLANTH CULT'] implicit=True ps="the Vinga subcult" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: although the Vinga subcult provides a means by which women can perform men's roles and participate in male-only rituals
+[P5-A-B0107-046] S=['ORVANLARNSTE'] P=serves O=['ORLANTH'] implicit=False ps="is a priest and devotee of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Orvanlarnste Storm Voice is a priest and devotee of Orlanth.
+[P5-A-B0107-047] S=['ORVANLARNSTE'] P=travels O=[] MOD={"in_on_at": "SARTAR", "using": "AN OX-DRAWN WAGON"} implicit=True ps="travels" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He travels Sartar in his ox-drawn wagon that serves as a holy place for Orlanth worship wherever it goes.
+[P5-A-B0107-048] S=['THUNDER BROTHER'] P=is alternative name for O=['DEVOTEES OF ORLANTH THUNDERER'] implicit=False ps="are often called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Devotees of the Thunderer aspect of Orlanth are often called "Thunder Brother,"
+[P5-A-B0107-049] S=['WIND LORD'] P=is alternative name for O=['DEVOTEES OF ORLANTH ADVENTUROUS'] implicit=False ps="are often called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: devotees of the Adventurous aspect of Orlanth are often called "Wind Lord."
+[P5-A-B0107-050] S=['ALL WINDS'] P=serves O=['ORLANTH'] implicit=True ps="obey" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: senseless and all winds obey him.
+[P5-A-B0107-051] S=["ORLANTH'S WIFE"] P=binds O=['ORLANTH'] implicit=True ps="tamed his anger with her love" sug=binds
+   Q: His raging storms swept all before him until his wife tamed his anger with her love.
+[P5-A-B0107-052] S=['ORLANTH'] P=teaches O=['VANGANTH'] implicit=False ps="taught Vanganth how to master his Breath" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Orlanth taught Vanganth how to master his Breath and ride his own soul into the Air, along with up to seven companions, at speeds and distances far greater than that of normal flyers.
+[P5-A-B0108-001] S=['ORLANTH'] P=protects O=['HIS KINFOLK'] implicit=False ps="pacified and protected" sug=one of: protects, rescues / frees, aids
+   Q: When his kinfolk disagreed and fought, Orlanth pacified and protected the combatants.
+[P5-A-B0108-002] S=['WIND LORDS'] P=serves O=['ORLANTH ADVENTUROUS'] implicit=False ps="Devotees of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Devotees of Orlanth Adventurous are called Wind Lords, and embody adventure.
+[P5-A-B0108-003] S=['WIND LORDS'] P=challenges O=['PRIESTS OF YELM', 'PRIESTS OF YELMALIO'] implicit=False ps="must challenge them to a contest" sug=one of: challenges, breaks oath, betrays, fights
+   Q: When meeting a priest or holy man of Yelm, Yelmalio, or any related solar deity, the Wind Lord must challenge them to a contest
+[P5-A-B0108-004] S=['ORLANTH', 'CHALANA ARROY', 'LHANKOR MHY', 'ISSARIES', 'EURMAL', 'FLESH MAN', 'GINNA JAR'] P=is member of O=['LIGHTBRINGERS'] implicit=True ps="are" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: They are: Orlanth, Chalana Arroy, Lhankor Mhy, Issaries, Eurmal, Flesh Man, and Ginna Jar.
+[P5-A-B0108-005] S=['FLESH MAN'] P=claims ancestry O=['GRANDFATHER MORTAL'] implicit=False ps="a grandchild of" sug=claims ancestry
+   Q: Flesh Man was a mortal being, a grandchild of Grandfather Mortal, who was first-made Man and who lived on the slopes of the Spike.
+[P5-A-B0108-006] S=['FLESH MAN'] P=discovers O=['DEATH OF GRANDFATHER MORTAL'] implicit=True ps="was the only witness to" sug=discovers
+   Q: Save Humakt and Eurmal, he was the only witness to the death of Grandfather Mortal.
+[P5-A-B0108-007] S=['ARROIN'] P=bestows magic / gifts O=['FLESH MAN'] implicit=True ps="a major healing effort by Arroin did not cure him" sug=one of: bestows, heals, imbues, teaches
+   Q: Even a major healing effort by Arroin did not cure him, though the meeting provided him a valuable ally.
+[P5-A-B0108-008] S=['CHALANA ARROY'] P=discovers O=['FLESH MAN'] implicit=True ps="met" sug=discovers
+   Q: She hoped to await the coming of the disease of the cosmos, but it did not come and she met Flesh Man instead.
+[P5-A-B0108-009] S=['CHALANA ARROY'] P=is identified as O=['HEALING GODDESS'] implicit=False ps="was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Chalana Arroy was a healing goddess
+[P5-A-B0108-010] S=['CHALANA ARROY'] P=travels O=['FLESH MAN'] MOD={"to": "THE GREAT DOOM"} implicit=True ps="chose to follow" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She chose to follow the mortal who said he was heading for the Great Doom, and so set off on the Lightbringers' Quest.
+[P5-A-B0108-011] S=['ORLANTH'] P=kills O=['YELM'] implicit=False ps="was the slayer of" sug=one of: kills, shatters, dies
+   Q: Orlanth, skilled in battle and friend to adventure, was the slayer of the sun. || When Yelm, the Sun God, fell and went to the Underworld, it cast the world into the Lesser Darkness.
+[P5-A-B0108-012] S=['YELM'] P=descends into O=['UNDERWORLD'] implicit=False ps="fell and went to" sug=one of: descends into, dies
+   Q: When Yelm, the Sun God, fell and went to the Underworld, it cast the world into the Lesser Darkness.
+[P5-A-B0108-013] S=['ORLANTH', 'FLESH MAN', 'CHALANA ARROY'] P=travels O=[] implicit=True ps="path crossed that of / all joined together" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: His path crossed that of Flesh Man and Chalana Arroy and they all joined together.
+[P5-A-B0108-014] S=['ISSARIES'] P=discovers O=['LHANKOR MHY'] implicit=True ps="met / became friends" sug=discovers
+   Q: He met Lhankor Mhy, who was the holder of many secrets, and the two became friends.
+[P5-A-B0108-015] S=['LHANKOR MHY'] P=is child of O=['ACOS'] implicit=False ps="son of" sug=is child of
+   Q: Lhankor Mhy, son of the god Acos, was the holder of knowledge.
+[P5-A-B0108-016] S=['LHANKOR MHY'] P=discovers O=['PIECES OF THE SPIKE'] implicit=True ps="began collecting" sug=discovers
+   Q: When the Spike exploded, he began collecting many pieces of the stone, keeping its secrets as his own.
+[P5-A-B0108-017] S=['EURMAL'] P=is identified as O=['TRICKSTER'] implicit=False ps="was the Trickster god" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Eurmal was the Trickster god.
+[P5-A-B0108-018] S=['EURMAL'] P=discovers O=['DEATH'] MOD={"in_on_at": "UNDERWORLD"} implicit=True ps="discovered" sug=discovers
+   Q: It was he who discovered the first sword, Death, hidden deep in the recesses of the Underworld
+[P5-A-B0108-019] S=['ORLANTH'] P=steals O=['DEATH'] MOD={"from": "HUMAKT", "with_the_aid_of": ["EURMAL"]} implicit=True ps="steal" sug=steals
+   Q: He also helped Orlanth steal it from Humakt
+[P5-A-B0108-020] S=['ORLANTH'] P=bestows magic / gifts O=['DEATH'] IO=['ZORAK ZORAN'] MOD={"at_the_instigation_of": ["EURMAL"]} implicit=True ps="lend" sug=bestows
+   Q: then convinced Orlanth to lend it to Zorak Zoran
+[P5-A-B0108-021] S=['EURMAL'] P=manifests O=['DISORDER RUNE'] implicit=True ps="his runes include" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: He spread destruction without hesitation, for his runes include Disorder.
+[P5-A-B0108-022] S=['FLESH MAN'] P=travels O=['EURMAL'] implicit=False ps="chose to follow" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Flesh Man saw this, and chose to follow Trickster
+[P5-A-B0108-023] S=['EURMAL'] P=travels O=[] MOD={"at_the_command_of": ["ORLANTH"]} implicit=False ps="forced Eurmal to lead them" sug=leads
+   Q: but it was Orlanth who forced Eurmal to lead them on their chosen Path.
+[P5-A-B0108-024] S=['LIGHTBRINGERS'] P=discovers O=['GINNA JAR'] MOD={"in_on_at": "EDGE OF THE COSMOS"} implicit=True ps="discovered" sug=discovers
+   Q: There, upon the edge of the cosmos, they discovered the mysterious being called Ginna Jar.
+[P5-A-B0108-025] S=['ORLANTH', 'LIGHTBRINGERS'] P=challenges O=['YELM'] MOD={"in_on_at": "UNDERWORLD"} implicit=False ps="confronting" sug=one of: challenges, breaks oath, betrays, fights
+   Q: The lower row depicts Orlanth and his Lightbringer companions confronting Yelm in the Underworld.
+[P5-A-B0108-026] S=['BABEESTER GOR', 'TY KORA TEK', 'ASRELIA', 'MARAN GOR', 'ESROLA'] P=protects O=['ERNALDA'] implicit=True ps="mourn or defend" sug=one of: protects, rescues / frees, aids
+   Q: Around her five lesser goddesses mourn or defend the dead (or sleeping) Earth Queen. || From left to right the lesser goddesses are: Babeester Gor, Ty Kora Tek, Asrelia, Maran Gor, and Esrola.

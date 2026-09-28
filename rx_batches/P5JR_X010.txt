@@ -1,0 +1,131 @@
+### WOD-JR:01803 | WOD-JR | WOD-JR 31877 (Kallyr’s Short Lightbringers Quest 1625 ) | Select Month September 2026
+FIGURES: KALLYR STARBROW, LIGHTBRINGERS
+TEXT: In Storm Season 1625, Prince Kallyr Starbrow summoned an assembly in Boldhome. Before the assembled citizens of many tribes, she formally made the Lightbringers' Summons. Chaos stalks my world. Broos have bruised me, the Hand has pawed me. I have taken up the impossible path, And seek those who must aid my task. You are not the first of my friends. Others walked with me to Heal. The Devil took them, they died. I failed to save them, Chaos grows.
+TARGETS: dies; heals
+
+### WOD-JR:01815 | WOD-JR | WOD-JR 31880 (Valind within Orlanthi society) | Select Month September 2026
+FIGURES: HIMILE, INORA, LIGHTBRINGERS, MASTAKOS, ODAYLA, ORLANTH, RATHOR, RED GODDESS, STORM BULL, ULERIA, VALIND, XENTHA, XIOLA UMBAR, YGG, ZORAK ZORAN
+TEXT: Valind's cult is Friendly towards the Lightbringers, Mastakos, Odayla, Rathor, Uleria, Xentha, Xiola Umbar, and Zorak Zoran and associated with Orlanth, Inora, Himile, Storm Bull, and Ygg. Everyone else is Neutral or worse.And he really hates the Red Goddess.
+TARGETS: hates / fears
+
+### WOD-JR:01834 | WOD-JR | WOD-JR 31869 (The Far Place) | Select Month September 2026
+FIGURES: ORLANTH, RED GODDESS, STORM BULL
+TEXT: And given that Storm Bull hates the Red Goddess as much as Orlanth does, imagine the consternation caused when a band of 100+ mounted Storm Bull cultists show up on a sacred quest to hunt and destroy Chaos. Can't act against them – Storm Bull is beloved for keeping Chaos out of the Far Place – but can't really allow them to stay. The local population supports them because the Storm Bull cultists really do fight Chaos. And no matter how crude, violent, and bullying the Storm Bull cultists are, everyone in the Far Place knows that broo are far worse.
+TARGETS: hates / fears; hunts
+
+### WOD-JR:01858 | WOD-JR | WOD-JR 31978 (Sheng Seleris, the Shadow of the Lunar E) | Select Month September 2026
+FIGURES: RED EMPEROR, SHENG SELERIS, YELM
+TEXT: Sheng Seleris exploited the weaknesses of the Lunar Cycle, and with the superior mobiity of his nomadic army, he repeatedly forced battle upon the Lunar Army during the Dark or Dying Phase. For over a quarter century, the Lunar Army knew little more than defeat and humiliation. The Red Emperor maintained his claims to be the legitimate ruler of the Lunar Heartlands, but in truth his authority was confined to a few strongholds. The Red Emperor engaged in several magical contests with Sheng Seleris, but appeared to have lost them all. Much of Peloria was overrun, and many cultivated areas returned to grassland. For FOUR GENERATIONS(!), nomadic herds roamed over the Pelorian grasslands. In some areas, city and town life continued, ruled over by Yelm-worshipping horsemen. Other areas paid tribute to whatever nomad chieftain demanded it, and submitted themselves to whatever other demands were made, in exchange for limited autonomy.
+TARGETS: dies
+
+### WOD-JR:01860 | WOD-JR | WOD-JR 31978 (Sheng Seleris, the Shadow of the Lunar E) | Select Month September 2026
+FIGURES: RED EMPEROR, SHENG SELERIS
+TEXT: In 1415, Sheng Seleris killed the Red Emperor in a magical duel. This is the first time the Red Emperor is known to have died. He had ruled for over 150 years but now was gone. For 15 years, there was no emperor.
+TARGETS: dies
+
+### WOD-JR:01862 | WOD-JR | WOD-JR 31978 (Sheng Seleris, the Shadow of the Lunar E) | Select Month September 2026
+FIGURES: RED EMPEROR, RED GODDESS, SHENG SELERIS
+TEXT: Sheng Seleris continued to search for the Red Emperor, and ravaged the land and mythology. He killed those who were formerly neutral in the conflict, and made a growing number of enemies. Even those who had once hated and feared the Red Goddess increasingly viewed her as the lesser threat.
+TARGETS: hates / fears
+
+### WOD-JR:01873 | WOD-JR | WOD-JR 31854 (Notes on the Grazelands I) | Select Month September 2026
+FIGURES: FEATHERED HORSE QUEEN, YELM
+TEXT: Let's keep in mind quick how the Grazeland functions in the present age (rather than how the Yelm cult likes to tell stories about the good old days). There are about 40,000 people living in the Grazelands, divided into three groups: agriculturalists, horse herders, and townsfolk. All land is "owned" by the Feathered Horse Queen who resolves all disputes between the groups, interacts with outsiders, and unites the nation. The groups are in a symbiotic relationships – the agriculturalists provide grain, fruits, vegetables, and "lesser meats", the townsfolk provide crafted goods, and the horse herders provide military protection and animal products from their herds. The horses benefit from this – the horse herders raise them and tend them, the farmers provide them with additional fodder, and the townsfolk trade part of the herds to outsiders in exchange for goods and coin which benefits everyone.
+TARGETS: possesses / wields
+
+### WOD-JR:01917 | WOD-JR | WOD-JR 31479 (Belintar the HeroQuester) | Select Month September 2026
+FIGURES: BELINTAR
+TEXT: Each incarnation, regardless of their mortal identity, always appeared as Belintar in the Hero Plane. The gods recognized him regardless of incarnation and the many pacts and bargains he made were always upheld by the gods. Because of the proximity of the divine realm with the Holy Country, gods often manifested in the Holy Country, visiting their worshipers even outside of the worship ceremonies!
+TARGETS: trades / exchanges
+
+### WOD-JR:01924 | WOD-JR | WOD-JR 31478 (A Short Summary Of Argrath’s Life To 162) | Select Month September 2026
+FIGURES: ARGRATH, GBAJI, STORM BULL, WAHA
+TEXT: So the basic story is that Argrath was exiled to Prax as a youth. He was taken as a slave by the Bison Tribe, but while a slave he found/freed the White Bull spirit. The White Bull is a son of Storm Bull/brother of Waha who the Praxians believe will lead them to fight a final battle against Gbaji or Chaos or whatever.
+TARGETS: punishes / exiles
+
+### WOD-JR:01948 | WOD-JR | WOD-JR 31472 (Yelm & Chaos) | Select Month September 2026
+FIGURES: RED EMPEROR, RED GODDESS, SEVEN MOTHERS
+TEXT: 375 years have passed and the Red Emperor is still a Dara Happan emperor. He has made himself mightier than the Seven Mothers, brought war and destruction to foreign lands, and consolidated HIS power. The Lunar Empire is more powerful than the Dara Happan empire ever was – and that is EXACTLY the problem. The Red Goddess sought to heal the world, to bring illumination to all, but through her inspiration not through conquest.
+TARGETS: heals
+
+### WOD-JR:01980 | WOD-JR | WOD-JR 31440 (The Lunar Religion and Chaos) | Select Month September 2026
+FIGURES: ALDRYAMI, GOD LEARNERS, MOSTALI, NYSALOR
+TEXT: One of the clear distinctions made in the Compromise is that Chaos is not of this world. The deities and powers of the world had touched it, and were still afraid of it, and their continued existence required that they remain apart from Chaos. Chaos became the enemy which must be fought and suppressed. With one enemy recognized by everyone, the squabbling deities found a common theme for unity.That statement is attributed to the God Learners, but could be said by any Dawn Age Orlanthi, trolls, aldryami, mostali, Malkioni, Praxians, and Yelmites. In the late First Age, the Sun stopped in the sky and Nysalor was born. Nysalor taught that Chaos is, in itself, neither evil nor inimical. His followers used this knowledge – called Illumination – to use Chaos to further their goals. As we all know, a terrible war followed, Nysalor was torn into pieces and his cult scattered.
+TARGETS: hates / fears
+
+### WOD-JR:01982 | WOD-JR | WOD-JR 31440 (The Lunar Religion and Chaos) | Select Month September 2026
+FIGURES: GBAJI, OLD GODS
+TEXT: The Lunar Way in no way condones the worship of Chaos entities which follow the ways of Gbaji and fall into moral depravity. The religion and state do not forbid it, either, as required by their philosophy. The rulers are adroit at manipulating the results if people do fall into the way of the Chaos gods. Lunar history contains lessons of generals and priests gone bad and point them out as bad examples.The world hates the Empire because it includes Chaos within its worship. This is a clear and necessary stand for the old gods to have, for their very existence is based upon the fighting of Chaos.
+TARGETS: hates / fears
+
+### WOD-JR:01987 | WOD-JR | WOD-JR 31440 (The Lunar Religion and Chaos) | Plate 3 – The Goddess Meets Arachne Solara
+FIGURES: ARACHNE SOLARA, LIGHTBRINGERS
+TEXT: The Compromise includes Time, which allows the gods and Chaos to co-exist as this account makes clear:The Spider Woman constructed a great and magical web made of many things no longer found in the world, and then she gave the web to all the gods to hold ready between them, to use as a net. When Chaos entered their realm, the gods cast the net upon the Devil and held him tight. While the other deities had distracted the Devil, Arachne Solara leapt upon him with vengeance and a strength of desperation and mystical splendor. She enwrapped the Chaos god in her many legs and struggled mightily, and at last devoured the evil soul.The great beings of the universe then held council and tried to discover what their further course of action might be. The Seven Lightbringers proved that they could lead the way out of the Underworld, but they were not sure what world was left outside. Their Old Way was gone forever, replaced by empty void and Chaos. But they could no longer exist within the confines of the universe.Arachne Solara proved capable of communicating with the Beingless Voice of Eternity.
+TARGETS: avenges
+
+### WOD-JR:02016 | WOD-JR | WOD-JR 47770 (Runegate Sartar Book Preview) | Market Square
+FIGURES: CHALANA ARROY, ELMAL, ERNALDA, EURMAL, ISSARIES, LHANKOR MHY, LIGHTBRINGERS, ORLANTH
+CONTEXT: de of the gate. As a result, the gates are usually covered with garlands of flowers, surrounded by plates containing offerings and burning candles, and festooned with belts of coins. The gate guards are extremely hostile to any who try to steal the gifts to the Goddess of Good Fortune. Periodically the priestesses of Ernalda gather the gifts and dispose of them as they see fit. ## Market Square
+TEXT: This open area serves as a market place for the town. There is a weekly market on Wildday and horses can be bought and sold here. Around the Market Square are temples of recent construction: that of Elmal the Sun, the Meeting Hall, Ernalda the Earth Mother, and the Lightbringers Temple (the temple to Orlanth, Chalana Arroy, Eurmal, Issaries, and Lhankor Mhy). There is a shrine to Issaries in the middle of the square.
+TARGETS: trades / exchanges
+
+### WOD-JR:02018 | WOD-JR | WOD-JR 47770 (Runegate Sartar Book Preview) | Lightbringers Temple
+FIGURES: CHALANA ARROY, ERNALDA, EURMAL, FLESH MAN, ISSARIES, LHANKOR MHY, LIGHTBRINGERS, ORLANTH
+CONTEXT: s everywhere. ## Elmal the Sun Horse Temple Elmal is a local variant of Yelmalio worshiped by some clans in Sartar. The temple to Elmal is the largest building in Runegate. Unlike most Yelmalio temples, the roof beams are carved in the shape of horses, and a golden horse is painted on each side of the shingled roof. The entrance faces the rising sun during Sacred Time. ## Lightbringers Temple
+TEXT: This wooden temple contains shrines to the Seven Lightbringers (Orlanth, Chalana Arroy, Eurmal, Issaries, Lhankor Mhy, Flesh Man and Gina Jar) and to Ernalda. The temple is open to any godtalker or priest, although normally only one priest actually resides within.
+TARGETS: dwells at
+
+### WOD-JR:02057 | WOD-JR | WOD-JR 31421 (The Three Main Types of Magic) | Select Month September 2026
+FIGURES: BURTAE, ORLANTH
+TEXT: Lets think for a minute about the three main types of magic used by mortals in Glorantha and what they might mean. Arguably the oldest is Rune Magic, whereby mortals can wield the power of the gods. In most cosmologies, the gods created mortals to serve or aid them. Mortals were descended from the. gods that created them (as a form of very weak srvuali and burtae) or who mated with their ancestors (think the Vingkotlings, descended from Orlanth and a mortal woman). Rune Magic requires a link between the god and mortal, where the mortal can draw upon the God Time power of the god. Initially this was easy – Orlanth was your great-grandfather and could show you how. But with the Greater Darkness and the coming of Time, that link requires initiation into the secrets of the god. And this initiation requires others to pass on those secrets and initiate new generations. It also requires sacrifice to maintain that link – sacrifice of magic points, food, and other treasures – as well as specialists supported by the rest of the community. Rune cults require community surplus, and thus tends to require settled agrarian or pastoral societies.
+TARGETS: possesses / wields
+
+### WOD-JR:02065 | WOD-JR | WOD-JR 31418 (Notes About Esrolia – Part 2 – The Silve) | Merngala the Great Queen
+FIGURES: ARAM YA-UDRAM, ESROLA, HEORT, LIGHTBRINGERS, MERNGALA, ONLY OLD ONE, THE DEAD
+TEXT: The greatest queen of Esrolia, Queen Merngala was the daughter of Esrola. She wielded awesome Earth powers, gained when her goddess mother retired to the Land of Sleep. Her main residence was a palace on Lake Bakan where her army guarded the bodies of the dead. The site is now simply called the Necropolis. With the Dawn, Merngala invited the Lightbringers back to Nochet.Merngala was a mighty priestess with many husbands and is the model to which all Esrolian queens are compared. Some husbands were rivals for her at times, even murdering each other, as Heort did to Panaxles, or were boon companions, as were Aram ya-Udram and Vathmai Entrulsson. Even the Only Old One was her husband. She had Panaxles and the Strong Man build the great walls around Nochet and invited the Waertagi to set up piers for the dragonships. Merngala had Sestarto decorate the city and temples with countless sculptures inhabited by the gods. She allied with King Heort but did not join his kingdom. Merngala is worshiped as the founder goddess of Nochet.
+TARGETS: dwells at; possesses / wields
+
+### WOD-JR:02066 | WOD-JR | WOD-JR 31418 (Notes About Esrolia – Part 2 – The Silve) | Heort
+FIGURES: HEORT, SECOND SON
+TEXT: Founder of the Heortling people, Heort was born in the Greater Darkness and spent his youth in hiding as the forces of Chaos destroyed the world. When all the world was gone, and every man was alone, Heort went out upon the world. There, at the edge of the world, he met with the Second Son, who told him of his great and terrible battle. The Second Son showed Heort his wounds, and the secret of the Star Heart, and told him the secrets of the I Fought We Won Battle.
+TARGETS: speaks / prophesies
+
+### WOD-JR:02069 | WOD-JR | WOD-JR 31418 (Notes About Esrolia – Part 2 – The Silve) | Heort
+FIGURES: HEORT, LIGHTBRINGERS, ORLANTH
+TEXT: At the Dawn, King Heort reestablished worship of Orlanth and the Lightbringers throughout his lands. When he died, Heort was burned sitting upright upon his throne, atop a colossal bier surrounded by his treasures. A huge wind rose and carried all away in a maelstrom of fire. Afterwards, people everywhere in his land worshiped him.
+TARGETS: possesses / wields; dies
+
+### WOD-JR:02070 | WOD-JR | WOD-JR 31418 (Notes About Esrolia – Part 2 – The Silve) | Vogarth
+FIGURES: MERNGALA, ONLY OLD ONE
+TEXT: Vogarth was the Strong Man. He was huge, powerful, and generally kind, but he was noted for his dull mind as well as his great power; he was the strongest man in the world. He did many great deeds. The Strong Man was always ready to engage in challenges of strength. A huge stone giant once came and threatened the Only Old One, who called for Vogarth's help. He came running and cracked the stone giant with his hammer and saved the Only Old One. He threw a dragonship onto the Palace of Black Glass, and the trolls ate the Waertagi. Another time he challenged Jeri Babo, called the Immovable Person, and pushed him off his chosen place. Another time, he carried the wondrous Living Stone Tree from the Footprint to Queen Merngala's palace. She took him as her husband for a while and had him build the walls around her city.
+TARGETS: possesses / wields
+
+### WOD-JR:02071 | WOD-JR | WOD-JR 31418 (Notes About Esrolia – Part 2 – The Silve) | Tessele the True
+FIGURES: THED
+TEXT: Tessele, a mortal child of Aurelion, was one of the first Twin Priests. When her Soul-Sibling was trapped and sacrificed by the Priests of Thed, her subsequent quest for vengeance made her the first hero of the cult.
+TARGETS: avenges
+
+### WOD-JR:02075 | WOD-JR | WOD-JR 31418 (Notes About Esrolia – Part 2 – The Silve) | Aram ya-Udram
+FIGURES: ARAM YA-UDRAM, ULERIA
+TEXT: At the Dawn, Aram ya-Udram was chosen to represent humanity on the World Council of Friends. Aram ya-Udram lived over two hundred years. When he died in 178 S.T., he was burnt at the Ivory Plinth, finally retiring to the Other Side. Aram ya-Udram had always worn a necklace of diamonds, which he named Uleria's Necklace. At his funeral, the Goddess appeared and proclaimed a contest to win it. The winner of this contest was chosen to speak for humanity on the World Council of Friends, although the custom ended soon after when the council became the High Council of Genertela.
+TARGETS: dies
+
+### WOD-JR:02077 | WOD-JR | WOD-JR 31418 (Notes About Esrolia – Part 2 – The Silve) | Panaxles the Architect
+FIGURES: HEORT, MERNGALA
+TEXT: Panaxles was the great builder of the period. He built the oldest sections of the temple at Ezel; the walls of Nochet; the palace of Queen Merngala; Whitewall; and many other famous buildings. Panaxles became a rival of King Heort over the affections of Queen Merngala and built for her the great sewers that drain the city of Nochet. It is said that King Heort met Panaxles upon the day the sewers were completed and the first waters rushed through it. Panaxles mentioned his contentment with his creation; Heort agreed, yet added, "It is a shame it is so ugly." Thus began one of the most famous feuds of the Silver Age.
+TARGETS: hates / fears
+
+### WOD-JR:02078 | WOD-JR | WOD-JR 31418 (Notes About Esrolia – Part 2 – The Silve) | Sestarto the Artist
+FIGURES: ULERIA
+TEXT: Sestarto the Artist shaped the landscape to create Ageless Beauty. He made the Farfalls, the Needle, and the sculptures that populate Ezel and the temples of Nochet. His sculptures became more and more realistic as he worked. Once, he made a sculpture in human shape. That was Ahrela, the Most Wanted, the Desired. The statue is still worshiped as an incarnation of Uleria, for everyone who sees it is seduced by it.
+TARGETS: loves / desires
+
+### WOD-JR:02079 | WOD-JR | WOD-JR 31418 (Notes About Esrolia – Part 2 – The Silve) | Sestarto the Artist
+FIGURES: HEORT, LHANKOR MHY, MERNGALA
+TEXT: The Silver Age heroes are the great mythical figures of song and story. Everyone has stories about Queen Merngala and her many husbands – some are always mentioned (like Heort), but others appear in just one story. The Silver Age cycles contradict each other in chronology – and there are likely many different Lhankor Mhy attempts to put them in order, but new stories are continually told, and each true. Their deeds are in the God Time, not mundane Time.
+TARGETS: speaks / prophesies
+
+### WOD-JR:02082 | WOD-JR | WOD-JR 31416 (Notes About Esrolia – Part 3 – The Shado) | Select Month September 2026
+FIGURES: ARGAN ARGAR, ESROLA, ONLY OLD ONE
+TEXT: Shadowlands – the Only Old One was the son of Argan Argar and Esrola, born in the Lesser Darkness. Argan Argar, a powerful Darkness deity and one of the commanders of the forces of Darkness on the Surface World, set up a camp atop Esrola, and the goddess went to him to plead mercy. Argan Argar told her to stand proud, for he would rather have her friendship than her fear. He became her lover and protector, and their child was the Only Old One, who was made king of the land.
+TARGETS: speaks / prophesies

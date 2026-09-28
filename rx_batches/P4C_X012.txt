@@ -1,0 +1,147 @@
+### CoRQ-My:00320 | CoRQ-My | pdf.59 | The Dawn Age
+FIGURES: (none registered)
+TEXT: The vast spiritual empire of eastern Genertela clung to the mystic secrets of the universe as being the most important. This was another ancient seat of culture ruled by a long-lived dynasty of emperors said to be dragons. These people say they were untouched by the Great Darkness because their powers kept them as if an island of safety amid the fears of Chaos. The dragons are said to have been their teachers; the dragons of Dragon Pass were either worshipers of—or proof of—the mystical way.
+TARGETS: hates / fears
+
+### CoRQ-My:00326 | CoRQ-My | pdf.60 | The First Council
+FIGURES: GOLD WHEEL DANCERS, LIGHTBRINGERS, ORLANTH, THE DRAGONS, UMATH
+TEXT: - .The Speaking Wheel, the spokesperson for the Gold Wheel Dancers, a strange and short-survived race. The whole of the peoples eventually turned themselves into magical talismans. Their place on the council was taken by a golden image of wheel. - .The Inhuman King, a demigod leader of the dragonewt races. This was considered a mortal race, although blessed with magical power. The words of the Inhuman King were always counted heavily, for they spoke for the True Dragons. - . Orlanth, son of Umath, and leader of the Seven Lightbringers. The single most powerful deity in Dragon Pass, Orlanth was noted for his many wives and children of these times. His seat was held by the king of the Heortlings.
+TARGETS: speaks / prophesies
+
+### CoRQ-My:00329 | CoRQ-My | pdf.60 | Myth: Gold Wheel Dancers
+FIGURES: GOLD WHEEL DANCERS, SECOND COUNCIL
+TEXT: If indeed the spirits of the Gold Wheel Dancers were incarnated into these coins that were exchanged with such reverence, this would explain their eventual disappearance. There remained a place for the Dancers on the Second Council, and there was always a vote counted for them. Perhaps there was a spirit or single individual who survived or appeared for the votes. Whatever the case, that spirit or representative has long since been lost to history.
+TARGETS: trades / exchanges
+
+### CoRQ-My:00330 | CoRQ-My | pdf.60 | Myth: Gold Wheel Dancers
+FIGURES: (none registered)
+TEXT: #### <span id="page-60-0"></span>**The Monomyth** The Unity Council sent Lightbringer missionaries to bring the magic of the Dawn to the surrounding lands, peacefully at first. Wherever the Lightbringer agents went, these agents of civilization woke the gods and spirits of a region with their worship and magic. Although the core of the Unity Council was in Dragon Pass, within its first 50 years, a period called the "Generation and Fusion Period," the nearby lands of Esrolia and Prax had enthusiastically embraced the Lightbringer religion.
+TARGETS: sleeps / wakes
+
+### CoRQ-My:00353 | CoRQ-My | pdf.64 | The Birth of Nysalor
+FIGURES: KYGER LITOR, LIGHTBRINGERS, NYSALOR, ORLANTH, SECOND COUNCIL
+TEXT: Against the those who broke with the Second Council the trolls, dragonewts, and Orlanthi of Dragon Pass—the cult was harsher. The god Nysalor's armies carried war to the gates of the Castle of Lead, but instead of storming that impregnable fortress, the god cursed his foes, and the light of his curse shriveled their children. The descendants of Kyger Litor everywhere afterwards suffered the Trollkin Curse. The dragonewts were conquered and became mercenaries for the rulers in Dorastor. The Lightbringers of Dragon Pass were enslaved, and worship of Orlanth was strangled.
+TARGETS: possesses / wields; curses
+
+### CoRQ-My:00354 | CoRQ-My | pdf.64 | The Birth of Nysalor
+FIGURES: NYSALOR
+TEXT: In the west, Nysalor's proselytizers encountered the monotheists and humanists of the Seshnegi and Brithini cultures, and the new cult was not well-received. But when a plague broke out in Tanisor and spread into Seshnela and Arolanit, the Riddlers of Nysalor were able to heal the plague, and so were often accepted among those peoples.
+TARGETS: heals
+
+### CoRQ-My:00356 | CoRQ-My | pdf.65 | The Birth of Nysalor
+FIGURES: ARKAT, HUMAKT
+TEXT: Arkat came from the western land of Brithos. Some say Arkat's father was Humakt, the God of War, but the Brithini claim the hero's father was a barbarian warrior. Whatever the truth, Arkat possessed a powerful weapon before he left the island: a blade called God-Cleaver, reputed to be the Unbreakable Sword.
+TARGETS: possesses / wields
+
+### CoRQ-My:00362 | CoRQ-My | pdf.65 | The Birth of Nysalor
+FIGURES: ARKAT
+TEXT: Moving into Ralios, Arkat and his army found that many barbarian nations and non-humans had embraced the cult. Since non-humans were uncommon in Seshnela and Brithos, the invaders called the forces arrayed against them the "League of Monsters," using the word Krjalki to describe their nonhuman enemies as a single group. In their ignorance, much of the army thought that the Krjalki were mutated monsters who had long sold themselves to Chaos.
+TARGETS: trades / exchanges
+
+### CoRQ-My:00372 | CoRQ-My | pdf.66 | The Birth of Nysalor
+FIGURES: ARKAT, LAUGHING WARRIOR, LIGHTBRINGERS
+CONTEXT: er struggles in Peloria were painful and difficult, and Arkat lost as many battles as he won. His western allies dwindled, replaced by Orlanthi barbarians and trolls. Arkat noted the troll successes and chose to align himself with them more closely. He first joined the cult of Kyger Litor, taking the name "Kingtroll," then joined Zorak Zoran as well to bring mighty devastation against his foes.
+TEXT: This last act horrified many, especially the Lightbringers, who had brought him to central Genertela and who now saw their quest a failure since they had brought Darkness instead of Light. However, they were still strong in their convictions and set off to discover a new path. They returned with the New Light in the form of Talor the Laughing Warrior. He led them to heal Fronela and Ralios. Talor and his companions stormed Kartolin and entered Dorastor at the same time as Arkat.
+TARGETS: heals
+
+### CoRQ-My:00378 | CoRQ-My | pdf.67 | The Second Age
+FIGURES: NRALAR THE OLD
+TEXT: During this same period, the far west enjoyed the long reign of Nralar the Old. But when he died in 603 ST after 112 years of rule, the major noble houses of Seshnela began a vicious civil war. The results would touch upon all the human world. In 610, a large number left and sailed south to the island of Jrustela, where they established the entity that would eventually be called the Middle Sea Empire.
+TARGETS: dies
+
+### CoRQ-My:00426 | CoRQ-My | pdf.77 | The Tournament of the Masters of Luck and Death
+FIGURES: BELINTAR, ERNALDA, ONLY OLD ONE, ORLANTH
+TEXT: by Ernalda a unique type of wintergrown grapes; they settled Clearwine around 1300. Belintar's war with the Only Old One sent a flood of refugees into Dragon Pass. Most were from Hendrikiland. They worshipped Orlanth and lived in towns, herded and hunted, and fought. When they settled, they often took longabandoned hill forts, as had been their custom in the south.
+TARGETS: dwells at; hunts
+
+### CoRQ-My:00429 | CoRQ-My | pdf.78 | The Tournament of the Masters of Luck and Death
+FIGURES: (none registered)
+TEXT: The second was Sartar, an Orlanthi from Hendrikiland who founded the kingdom that bears his name. He was an unusual person among the tribes that he approached at that time, for he refused to fight, and even when challenged, he was never seen to raise weapon or use magic offensively against another person. This is not to say that others did not kill for him—the people he lived among were worshipers of the sword, which protected them in their hard lives. Sartar built cities and roads, united tribes, and in 1492, he founded the Kingdom of Sartar.
+TARGETS: dwells at
+
+### CoRQ-My:00451 | CoRQ-My | pdf.84 | The Gods in History
+FIGURES: (none registered)
+TEXT: History is that portion of reality that is within the boundaries of Time. It began at the Dawn, where the eastern gates were thrown open and Time began its reign, placing all the gods into their places in the universe. All the five natural elements are subject to sharing their living forces with those of Death, creating alternations in each of the elements in the world. These alternations form regular cycles for all the elements, although the measurement for each is very different. For Darkness, the measure is called Nights, alternating with the measure of the dying and conquering Sun God, Lord of Day. For the Seas, the measure is in the tides. For the Earth, the measure is in the growing, harvesting, and sowing of crops. In the Sky, the changes are measured by the slow cycles of the stars, while in the Air, it is the unstable seasons.
+TARGETS: dies
+
+### CoRQ-My:00481 | CoRQ-My | pdf.89 | The Golden Age
+FIGURES: DAYZATAR, LODRIL, YELM
+TEXT: **The Sun God Yelm ruled the universe from his golden throne. He was advised by his ascetic elder brother, Dayzatar, and aided by his lusty younger brother, Lodril. The peace of this time was called Yelm's Cloak.** **During this time, many cities and nations were founded. There was no need to work, for the earth brought forth its own food. All water was pure and healthful to drink, and anything was willing to offer any aid or assistance.**
+TARGETS: loves / desires; speaks / prophesies
+
+### CoRQ-My:00494 | CoRQ-My | pdf.92 | Murder of Yelm
+FIGURES: ORLANTH, YELM
+TEXT: The upstart godling Orlanth challenged Yelm for the Crown of Rule to a series of contests. The judges ruled in favor of Yelm in every contest except the last: that of weapons. Orlanth struck Yelm down with Death. Yelm is hurled down screaming and weeping to the Gates of Dusk. This ended the Golden Age and plunged the world into the Lesser Darkness. (BB, DC, HN, SC).
+TARGETS: mourns
+
+### CoRQ-My:00508 | CoRQ-My | pdf.94 | The Early Lesser Darkness
+FIGURES: CELESTIAL COURT
+TEXT: **The gods fought when they wished. Huge floods drown much of the earth and extinguish many of the fires on the ground, only to be beat down by the storm gods.** **Unchanged in all this was the Celestial Court. They had held aloof from the petty squabbles changing the face of their world and lent themselves impartially to anyone capable of wielding their powers, even remaining unattached when their powers were used in new ways by exploitive intelligences.**
+TARGETS: possesses / wields
+
+### CoRQ-My:00574 | CoRQ-My | pdf.104 | Pelanda
+FIGURES: PAMALT, THIRD EYE BLUE
+TEXT: The river goddess was tamed by the Dara Happan emperors and returned to her ancient banks. (SC) #### **Pamalt's Mountain** Pamalt is often absent here as he is busy defending his Agimori from the woes of this Age. (GC) #### **Pamalt's Plains** These peaceful lands are inhabited by the Agi people. (GC) #### **Pelanda** Chariot-riding barbarians from the south tried to conquer the lands the Blue People did not rule. They were defeated when the Third Eye Blue People made weapons and armor for a native warlord who founded a short-lived empire. (E, SC)
+TARGETS: dwells at
+
+### CoRQ-My:00585 | CoRQ-My | pdf.105 | The Late Lesser Darkness
+FIGURES: MOSTALI, TALAR
+TEXT: When the Mostali and Vadeli begin to overrun the Original Peoples, Talar organized the empire of Zerendel as a defense. (TB) #### **The Late Lesser Darkness** <span id="page-105-0"></span>**More than Darkness spread across the age, for life followed the light into the lands of the dead. Spirits of plants, animals, and minerals took the path of the dead and were lost to the world. Without light, the Earth soon slept, and the world seemed barren when compared to the Golden Age.**
+TARGETS: sleeps / wakes
+
+### CoRQ-My:00602 | CoRQ-My | pdf.108 | Kingdom of Splendor
+FIGURES: BLACK SUN, SEKEVER, SHAVAYA
+CONTEXT: water is the result of the advance of Valind's Glacier. Many monsters live beneath the waters. (SC, UL) #### **Kero Fin** Orlanth and his household live atop Kero Fin, great and unreachable. One by one, the members of his household die in the growing Gods War, until finally Ernalda departs for the Underworld. Orlanth then departs with the Lightbringers. (HN, DC) #### **Kingdom of Ignorance**
+TEXT: This land was ruled by the evil false emperor Sekever. He conquered the Kingdom of Splendor with an army of trolls and corpses. He was accompanied by the Black Sun, which sent rains of blood against the world. (UL, K) #### **Kingdom of Splendor** The Kingdom of Splendor was ruled by Shavaya until the land was conquered by Sekever and cursed. (K)
+TARGETS: curses
+
+### CoRQ-My:00608 | CoRQ-My | pdf.109 | Salty Sea
+FIGURES: CHORALINTHOR, ESROLA, FARALINTHOR, ORLANTH
+CONTEXT: me, as he protects his Agimori from the growing Darkness. (GC) #### **Raibanth** The city of the Dara Happan emperors, Raibanth is underneath the Glacier, protected by the great stone roof that covers Dara Happa. (SC) #### **Red Elf Marshes** These marshes are inhabited by countless red elves, who are as ferocious as ever and even more hostile towards outsiders. (GC) #### **Ruins of Logic**
+TEXT: These are the ruins of Malkonwal and the Tower of Logic, inhabited by refugees and broken beings that are hunted by the Vadeli. (TB) #### **Salty Sea** When Orlanth defeated the Blue Dragon, the sea god Faralinthor remained behind. At the bottom of the sea, Faralinthor met with Esrola, resting atop the goddess at the base of the Spike. They performed a dance which many in those days knew, and there was formed a fine child who they called Choralinthor. The Storm gods were unhappy at the joy of the lovers and ambushed them from above. Faralinthor was killed and Esrola wept. She filled the seas with her bitter tears. (DC)
+TARGETS: dwells at; mourns; hunts
+
+### CoRQ-My:00620 | CoRQ-My | pdf.112 | Battle of the Red Sword
+FIGURES: CACODEMON, GENERT, TADA, TOLAT, YELM
+TEXT: After destroying Tada, a branch of the Chaos army marched east led by Cacodemon. The Teshnite king used the Red Sword to summon Tolat, and then woke a part of Yelm from his slumber in the Underworld. Together they drove Cacodemon back to the Chaos Wastes of Genert's Garden. (K, GC)
+TARGETS: sleeps / wakes
+
+### CoRQ-My:00640 | CoRQ-My | pdf.114 | Stormfall
+FIGURES: GENERT, RAGNAGLAR, STORM BULL, TADA
+TEXT: #### <span id="page-114-0"></span>**Tadafall** Tada defended Genert's land from enemies but could not appear at the Fields of Plenty to fight in Earthfall. When Chaos came to Tadaland, Ragnaglar the Mad God slew Tada before falling to the iron horns of his own brother the Storm Bull. When Tada was slain, he was dismembered, and his peoples took his armaments to aid them. Tada's followers carried his body to its final resting place beneath the tumulus which bears his name to this day, and themselves went to sleep, waiting for the day their lord would call for them again. (HN, DC)
+TARGETS: possesses / wields
+
+### CoRQ-My:00644 | CoRQ-My | pdf.116 | The Grey Age
+FIGURES: FOUNDCHILD, LOWFIRES, OAKFED
+TEXT: <span id="page-115-0"></span>**Despite the victories of Chaos, resistance held out, meager though it was. Star Captains fell from the sky and saved their tribes. The Lowfires were freed; Oakfed became a weapon to scorch away impurities. Foundchild taught his people to hunt and sustain themselves.**
+TARGETS: hunts
+
+### CoRQ-My:00668 | CoRQ-My | pdf.120 | Storm Bull
+FIGURES: GENERT, RAGNAGLAR, STORM BULL, WAKBOTH
+TEXT: After the Devil slew the great Earth god Genert, Storm Bull flew down off his mountain to fight against Wakboth the Devil and Ragnaglar the Mad God. Storm Bull killed Ragnaglar and then faced the Devil alone. He should have died there, but the Earth gave all her power to the Storm Bull and Cosmos itself came to his aid. From the edge of the world came a hurtling section of the Spike which crushed the Devil, pinning his body beneath the last great piece of the Spike and sending the Devil's soul to the Underworld. (HN, DC)
+TARGETS: dies
+
+### CoRQ-My:00688 | CoRQ-My | pdf.124 | The Earth Deities
+FIGURES: BABEESTER GOR, ERNALDA
+TEXT: ![](_page_123_Picture_12.jpeg) Babeester Gor, the Avenging Daughter: When the Gods War perverted the world, Ernalda brought forth her own grim defender. Babeester Gor was born from Ernalda's corpse, axes in hand, body ritually scarred to carry deadly magic.
+TARGETS: avenges
+
+### CoRQ-My:00699 | CoRQ-My | pdf.128 | Portions of Yelm
+FIGURES: LIGHTFORE, ORLANTH, YELMALIO
+TEXT: ![](_page_127_Picture_3.jpeg) Yelmalio, Lightfore, Light in the Darkness: After the Sun fell and the Sky retreated from the surface world, Yelmalio remained. Yelmalio carried the spark of life throughout the Darkness. He fought fiercely, and in the Great Darkness even aided Orlanth, an old foe who grudgingly settled their feud.
+TARGETS: hates / fears; possesses / wields
+
+### CoRQ-Pr:00025 | CoRQ-Pr | pdf.9 | Orlanthi Pantheon: Goddess of Death
+FIGURES: ANA GOR, BABEESTER GOR, ERNALDA, EURMAL, GRANDFATHER MORTAL, HUMAKT, MARAN GOR
+TEXT: When Eurmal killed Grandfather Mortal, Ana Gor spurted out with the gushing blood of the first murder. Ana Gor took no actions of her own volition but was always the servant of others. Some gods loved using her to slay the world. Others sought to change, break, or even kill her, but she always came back. Ernalda came the closest and once banished her, but when the world of Life became choked with Death, Ernalda released Ana Gor, and the living and the dead were finally separated. She is sometimes associated with such Death Rune cults as Humakt, Babeester Gor, and Maran Gor.
+TARGETS: loves / desires; punishes / exiles
+
+### CoRQ-Pr:00053 | CoRQ-Pr | pdf.13 | Malkioni, Orlanthi, and Troll **Pantheons: Ancient Hero
+FIGURES: ARKAT, GOD LEARNERS
+TEXT: In the Second Age, political and magical enemies destroyed Arkat's empire. His cult was at first discouraged, then outlawed, and eventually became superfluous amidst the growing abuses of the God Learners. Due to this persecution, Arkat's cult went underground for centuries, but its remnants helped spearhead the destruction of the hated God Learners. Since then, it has maintained a widespread but scattered existence, centered around Arkat's Hold.
+TARGETS: hates / fears; punishes / exiles
+
+### CoRQ-Pr:00060 | CoRQ-Pr | pdf.14 | Elf, Orlanthi, and Yelm Pantheons: God of the Healing Arts
+FIGURES: ARROIN, FLESH MAN, HIGH KING ELF
+TEXT: During the Great Darkness, Arroin was protected by every living thing which could help him, and in return, he helped everyone he met. He met the Flesh Man and almost healed him, but the mad fugitive fled. Arroin befriended High King Elf and worked to keep the last forests alive. However, his Life attracted the emptiness of Chaos to him, and each time he tried to heal Chaos his magic powers broke. Arroin was often tended by dryads who died out of love for him whenever he was wounded.
+TARGETS: dies; heals

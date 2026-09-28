@@ -1,0 +1,300 @@
+[P5-B-B0046-043] S=['GOOD RIVER'] P=serves O=['WAHA'] implicit=True ps="did as it was told" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The River did as it was told
+[P5-B-B0046-044] S=['EARTH'] P=binds O=['GOOD RIVER'] implicit=True ps="forced Her upward" sug=binds
+   Q: the earth forced Her upward again.
+[P5-B-B0046-045] S=["DEVIL'S MARSH"] P=comes into being O=[] implicit=False ps="was formed" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The Devil's Marsh was formed where the shameful River raised Her head.
+[P5-B-B0046-046] S=['BARBARIAN TOWN'] P=is alternative name for O=['EXILE TOWN'] implicit=True ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Also called Barbarian Town
+[P5-B-B0046-047] S=['VARGAST REDHANDS'] P=travels O=['EXILE TOWN'] implicit=True ps="was first settled by" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: this was first settled by Vargast Redhands in the First Age.
+[P5-B-B0046-048] S=['POL JONI'] P=travels O=[] MOD={"to": "PRAX"} implicit=True ps="entered" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: when they first entered Prax.
+[P5-B-B0046-049] S=['GAGARTH'] P=rides O=['DESERT WIND'] implicit=True ps="rides" sug=rides
+   Q: Gagarth the Wild Hunter often rides it.
+[P5-B-B0046-050] S=['STORM BULL'] P=protects O=['GENERT WASTES'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="protects" sug=one of: protects, rescues / frees, aids
+   Q: which Storm Bull still protects for his lord, Genert the Land God.
+[P5-B-B0046-051] S=['STORM BULL'] P=serves O=['GENERT'] implicit=False ps="for his lord" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Storm Bull still protects for his lord, Genert the Land God.
+[P5-B-B0046-052] S=['GENERT THE LAND GOD'] P=is alternative name for O=['GENERT'] implicit=False ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Genert the Land God
+[P5-B-B0047-001] S=['WAHA'] P=is child of O=['EIRITHA'] implicit=False ps="son" sug=is child of
+   Q: The Paps are the holy ground of Eiritha and her son, Waha.
+[P5-B-B0047-002] S=['EIRITHA'] P=flees to O=['THE DEVIL'] MOD={"in_on_at": "THE PAPS", "to": "UNDERNEATH THE EARTH"} implicit=True ps="hid Herself from" sug=flees to
+   Q: Here Eiritha hid Herself from the Devil by going underneath the earth.
+[P5-B-B0047-003] S=['IRON MAN'] P=travels O=[] MOD={"to": "PRAX", "with_the_aid_of": ["ORLANTHI ARMY"]} implicit=False ps="marched into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Soon after the Dawn the Iron Man marched into Prax at the head of an Orlanthi army.
+[P5-B-B0047-004] S=['IRON MAN'] P=defeats O=['CHAMPIONS OF THE NOMADS'] MOD={"in_on_at": "TOURNEY ALTAR"} implicit=True ps="defeating" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He proved his worth at Tourney Altar by defeating all the champions (mortal and spirit) of the nomads
+[P5-B-B0047-005] S=['PRAXIANS'] P=travels O=['WORLD COUNCIL OF FRIENDS'] implicit=False ps="sent representatives to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: and the Praxians sent representatives to the World Council of Friends after that.
+[P5-B-B0047-006] S=['HUMAKT CULT'] P=is member of O=[] MOD={"in_on_at": ["TOURNEY ALTAR", "PRAX"]} implicit=False ps="center of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Tourney Altar is the center of the Humakt cult in Prax
+[P5-B-B0047-007] S=['BITURIAN VAROSH'] P=is member of O=['ISSARIES GOLDENTONGUE CULT'] implicit=True ps="merchant from" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Biturian is a wandering merchant from the Issaries Goldentongue cult.
+[P5-B-B0047-008] S=['BITURIAN VAROSH'] P=is member of O=['ISSARIES'] implicit=True ps="priest of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: As a merchant and a priest of Issaries, Biturian had many contacts with the peoples and gods of Prax.
+[P5-B-B0047-009] S=['BITURIAN VAROSH'] P=travels O=[] MOD={"in_on_at": "CHAPARRAL"} implicit=True ps="made his way through" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Biturian made his way through the chaparral during the winter
+[P5-B-B0047-010] S=['ISSARIES CULT'] P=rules O=[] MOD={"in_on_at": "PRAX"} implicit=False ps="dominated" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: First Age trade in Prax came through three points. || The Issaries cult dominated trade.
+[P5-B-B0047-011] S=['FERODA'] P=is alternative name for O=['KITOY'] implicit=False ps="its name changed to" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: though Kitoy was moved, and its name changed to Feroda.
+[P5-B-B0047-012] S=['GONN ORTA'] P=is identified as O=['ELDER GIANTS'] MOD={"in_on_at": "ROCKWOODS"} implicit=False ps="Elder Giant" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: All metal in the area came either from the Elder Giant Gonn Orta of the Rockwoods
+[P5-B-B0047-013] S=['GONN ORTA'] P=bestows magic / gifts O=['METAL'] MOD={"from": "ROCKWOODS"} implicit=False ps="came ... from" sug=one of: bestows, heals, imbues, teaches
+   Q: All metal in the area came either from the Elder Giant Gonn Orta of the Rockwoods
+[P5-B-B0047-014] S=['TARSH'] P=travels O=['NOMADS OF PRAX'] MOD={"purpose_clause": "to hire mercenaries"} implicit=True ps="sent envoys to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In 1376 Tarsh sent envoys to the nomads to hire mercenaries.
+[P5-B-B0047-015] S=['PEOPLES OF PRAX'] P=flees to O=[] MOD={"to": "VULTURE'S COUNTRY"} implicit=True ps="fled eastward into" sug=flees to
+   Q: Many peoples fled eastward into Vulture's Country and beyond.
+[P5-B-B0047-016] S=['TOLKAZZI'] P=is sibling of O=['INGILLI'] implicit=False ps="brother" sug=is sibling of
+   Q: Tolkazzi, Ingilli's brother, spoke loudly and boldly.
+[P5-B-B0047-017] S=['LUNAR ARMY'] P=travels O=[] MOD={"to": "FERODA"} implicit=False ps="prepared an expedition down river to find" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In 1611, the year after the seizure of Pavis, the Lunar army prepared an expedition down river to find the ruins of the ancient coastal city of Feroda.
+[P5-B-B0047-018] S=['INGILLI'] P=serves O=['LUNAR ARMY'] implicit=True ps="aid" sug=aids
+   Q: Ingilli was glad to aid them, for they paid an honest price for honest work in a land where work had been scarce.
+[P5-B-B0047-019] S=['RED GODDESS'] P=establishes cult O=[] implicit=False ps="found a city" sug=founds
+   Q: they declared that only their Red Goddess could found a city, and would have nothing of me.
+[P5-B-B0047-020] S=['TOLKAZZI'] P=establishes cult O=['CORFLU'] implicit=False ps="built" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Tolkazzi built a city on the delta for the Lunars. Corflu was the settlement's name.
+[P5-B-B0047-021] S=['CORFLU (PERSON)'] P=is spouse of O=['TOLKAZZI'] implicit=True ps="wife" sug=is spouse of
+   Q: It was named after the wife of Tolkazzi;
+[P5-B-B0047-022] S=['KORONIUS FALABDUR'] P=is member of O=['ETYRIES'] implicit=False ps="priest" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: In 1613, Tolkazzi sold his merchant rights to Koronius Falabdur, a Lunar Etyries priest.
+[P5-B-B0047-023] S=['TROLL PRIESTESS', 'FOLLOWERS OF THE TROLL PRIESTESS'] P=dedicates relic O=['GORAKIKI'] MOD={"in_on_at": "CORFLU ISLAND"} implicit=True ps="erected an altar to" sug=dedicates relic
+   Q: They erected an altar to Gorakiki dragonfly on Corflu island.
+[P5-B-B0047-024] S=['WOLF PIRATES'] P=travels O=[] MOD={"to": "CORFLU"} implicit=False ps="visited" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In Storm season of 1614, wolf pirates visited Corflu.
+[P5-B-B0047-025] S=['HEIR OF FALABDUR'] P=bestows geas O=['ISSARIES'] implicit=True ps="forced to fulfill the Issaries curse" sug=one of: bestows geas, curses
+   Q: he was forced to fulfill the Issaries curse and marched to his death in Vulture's Country.
+[P5-B-B0047-026] S=['HEIR OF FALABDUR'] P=travels O=[] MOD={"to": "VULTURE'S COUNTRY"} implicit=True ps="marched to his death in" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: marched to his death in Vulture's Country.
+[P5-B-B0047-027] S=['WATCHDOG OF CORFLU'] P=comes into being O=[] MOD={"in_on_at": "CORFLU"} implicit=False ps="assembled and animated" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: In 1618, an incomplete Watchdog of Corflu was assembled and animated.
+[P5-B-B0047-028] S=['DUKE RAUS OF RONE'] P=is member of O=['LUNARS'] implicit=False ps="Lunar noble" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Duke Raus of Rone, an exiled Lunar noble, established the first settlement in the Grantlands in 1615.
+[P5-B-B0047-029] S=['DUKE RAUS OF RONE'] P=establishes cult O=['GRANTLANDS'] implicit=False ps="established the first settlement in" sug=founds
+   Q: Duke Raus of Rone, an exiled Lunar noble, established the first settlement in the Grantlands in 1615.
+[P5-B-B0047-030] S=['RAUS FORT'] P=is alternative name for O=['RONEGARTH'] implicit=False ps="Raus Fort" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He built his fort of Ronegarth (Raus Fort) at the confluence of the River of Cradles and the Vilinar
+[P5-B-B0047-031] S=['DUKE RAUS OF RONE'] P=establishes cult O=['RONEGARTH'] MOD={"in_on_at": ["RIVER OF CRADLES", "VILINAR"]} implicit=True ps="built" sug=crafts
+   Q: He built his fort of Ronegarth (Raus Fort) at the confluence of the River of Cradles and the Vilinar
+[P5-B-B0047-032] S=['DWARF MASONS OF PAVIS'] P=serves O=['DUKE RAUS OF RONE'] implicit=True ps="under the supervision of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Duke's villa was constructed under the supervision of dwarf masons from Pavis.
+[P5-B-B0048-001] S=['REDLAND FARMERS'] P=serves O=['LODRIL', 'ORIA'] implicit=True ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They worship Lodril and a Mother Goddess called Oria
+[P5-B-B0048-002] S=['LUNAR GOVERNOR OF PRAX'] P=claims ancestry O=['HON-EEL'] implicit=False ps="ancestor of" sug=claims ancestry
+   Q: Many revere Hon-Eel, a Lunar Earth Goddess and ancestor of the Lunar || Governor of Prax.
+[P5-B-B0048-003] S=['REDLAND FARMERS'] P=claims ancestry O=['PEOPLES OF ANCIENT DARA HAPPA'] implicit=True ps="descend from" sug=claims ancestry
+   Q: they descend from peoples of ancient Dara Happa
+[P5-B-B0048-004] S=['CHALANA ARROY PRIESTESS'] P=serves O=['CHALANA ARROY'] implicit=False ps="priestess" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: A Chalana Arroy priestess
+[P5-B-B0048-005] S=['DUKE RAUS'] P=claims ancestry O=[] MOD={"from": "KOSTADDI"} implicit=True ps="ancestors were from" sug=claims ancestry
+   Q: his ancestors were from Kostaddi
+[P5-B-B0048-006] S=['RED EMPEROR'] P=travels O=['DUKE RAUS'] MOD={"to": "PRAX"} implicit=True ps="exiled" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He was exiled to Prax by the Red Emperor
+[P5-B-B0048-007] S=['VARNA'] P=is spouse of O=['DUKE RAUS'] implicit=True ps="wife" sug=is spouse of
+   Q: His wife, Varna
+[P5-B-B0048-008] S=['JEZRA'] P=is child of O=['DUKE RAUS'] implicit=True ps="daughter" sug=is child of
+   Q: Raus' only daughter Jezra
+[P5-B-B0048-009] S=['VARNA'] P=descends into O=[] implicit=False ps="died" sug=dies
+   Q: His wife, Varna, died of a broo-born plague in 1615
+[P5-B-B0048-010] S=['JORAZ KYREM'] P=rules O=['PAVIS'] implicit=False ps="Lord of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Joraz Kyrem, Lord of the city of Pavis
+[P5-B-B0048-011] S=['ARINSOR CLEARMIND'] P=serves O=['YELMALIO'] implicit=True ps="devoted to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He was so devoted to Yelmalio
+[P5-B-B0048-012] S=['WATER NAIAD'] P=is child of O=['ZOLA FEL'] implicit=False ps="daughter of" sug=is child of
+   Q: A water naiad, daughter of Zola Fel
+[P5-B-B0048-013] S=['ARINSOR CLEARMIND', 'WATER NAIAD'] P=re-enacts O=['STORY OF YELM AND THE OSLIR RIVER'] implicit=True ps="re-enacted" sug=re-enacts
+   Q: they re-enacted the story of Yelm and the Oslir river
+[P5-B-B0048-014] S=['YELM'] P=descends into O=[] implicit=True ps="fell" sug=one of: descends into, dies
+   Q: the lord of light fell
+[P5-B-B0048-015] S=['OSLIR'] P=resurrects O=['YELM'] implicit=True ps="revived by" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: the lord of light fell but was revived by the river
+[P5-B-B0048-016] S=['ARINSOR CLEARMIND', 'WATER NAIAD'] P=pledges oath with O=[] implicit=True ps="made an alliance" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: and so they made an alliance.
+[P5-B-B0048-017] S=['JORAZ KYREM'] P=serves O=['SUN DOME TEMPLARS'] implicit=True ps="called for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Joraz Kyrem called for them back in 877.
+[P5-B-B0048-018] S=['YELMALIO'] P=bestows geas O=['COUNT SOLANTHOS'] implicit=True ps="compels him to follow" sug=one of: bestows geas, curses
+   Q: the restrictive geas Yelmalio compels him to follow.
+[P5-B-B0048-019] S=['JAXARTE'] P=serves O=['SOR EEL'] implicit=True ps="emissary" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: sending the inexperienced junior bureaucrat as his emissary
+[P5-B-B0048-020] S=['GODS OF CHAOS'] P=shatters O=['SPIKE'] implicit=False ps="destroyed" sug=shatters
+   Q: the gods of Chaos destroyed the Spike
+[P5-B-B0048-021] S=['SEA GODS'] P=descends into O=[] MOD={"to": "TEAR IN THE WORLD"} implicit=False ps="leapt into" sug=one of: descends into, dies
+   Q: sea gods leapt into the tear in the world
+[P5-B-B0048-022] S=['WATERS OF THE WORLD'] P=bestows magic / gifts O=['HOMELAND OCEAN'] implicit=True ps="lend their power" sug=one of: bestows, heals, imbues, teaches
+   Q: to aid him, all the waters of the world flowed towards him to lend their power.
+[P5-B-B0048-023] S=['ZOLA FEL'] P=travels O=[] MOD={"from": "LEAPING PLACE FALLS", "to": "HOMELAND OCEAN"} implicit=True ps="leapt" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He leapt from the cliff to the valley and flowed back to the sea
+[P5-B-B0048-024] S=['GOVORAN'] P=serves O=['ORLANTH'] implicit=True ps="priest of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the last honest priest of Orlanth
+[P5-B-B0048-025] S=['LAST HONEST PRIEST OF ORLANTH'] P=is alternative name for O=['GOVORAN'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Often called "the last honest priest of Orlanth" in Pavis County, Govoran
+[P5-B-B0048-026] S=['MEN-AND-A-HALF'] P=is alternative name for O=['AGIMORI'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Agimori, or Men-and-a-half
+[P5-B-B0048-027] S=['AGIMORI'] P=travels O=['BABA ULODRA'] MOD={"to": "PRAX", "purpose_clause": "TO AID"} implicit=False ps="came to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Agimori, or Men-and-a-half, came to Prax to fight for their god Baba Ulodra.
+[P5-B-B0048-028] S=['AGIMORI'] P=serves O=['BABA ULODRA'] implicit=True ps="god" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: their god Baba Ulodra.
+[P5-B-B0048-029] S=['FATHER AEDAN BIG WEAPON'] P=rules O=['TROOP OF 18 ADULT BABOONS'] implicit=False ps="led by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: This troop of 18 adult baboons is led by Father Aedan Big Weapon
+[P5-B-B0048-030] S=['DURULZ'] P=is alternative name for O=['DUCKS'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ducks (called durulz or were-ducks by the Orlanthi)
+[P5-B-B0048-031] S=['WERE-DUCKS'] P=is alternative name for O=['DUCKS'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ducks (called durulz or were-ducks by the Orlanthi)
+[P5-B-B0049-001] S=['SARTARITES', 'LUNARS'] P=kills O=['DUCKS'] implicit=True ps="slaughtered" sug=one of: kills, shatters, dies
+   Q: Ducks were outlawed throughout the Empire, and entire clans were slaughtered by Sartarite and Lunar alike.
+[P5-B-B0049-002] S=['DUCKS'] P=flees to O=['HOLY COUNTRY', 'PRAX'] implicit=True ps="fled to" sug=flees to
+   Q: Those who could, fled to their kin in the Holy Country, or to desolate regions like Prax.
+[P5-B-B0049-003] S=['DUCKS'] P=flees to O=['BIG RUBBLE'] implicit=True ps="flee into" sug=flees to
+   Q: When the Lunar Empire extended its rule and its anti-duck policies to Prax, the émigré ducks were forced to flee into the Rubble, or to go downriver, dodging Lunar patrols and bounty hunters as they went.
+[P5-B-B0049-004] S=['FISH FOLK'] P=serves O=['FISHERMEN'] implicit=True ps="help" sug=aids
+   Q: some in fact help fishermen in their endeavors in return for various objects unattainable underwater or for other special favors in times of great need.
+[P5-B-B0049-005] S=['IMPALA RIDERS', 'BISON RIDERS'] P=fights O=['LUNARS'] MOD={"in_on_at": "PRAX"} implicit=True ps="opposed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Together with the Bison Riders they opposed the Lunar invasion of Prax, and together with the Bison Riders they were driven into the reaches of Vulture's Country.
+[P5-B-B0049-006] S=['IMPALA RIDERS', 'BISON RIDERS'] P=flees to O=["VULTURE'S COUNTRY"] implicit=True ps="were driven into" sug=flees to
+   Q: together with the Bison Riders they were driven into the reaches of Vulture's Country.
+[P5-B-B0049-007] S=['SABLE RIDERS'] P=fights O=['IMPALA RIDERS'] implicit=False ps="are hunted" sug=hunts
+   Q: As such, the Impala Riders are hunted actively by the Sable Riders and arc rarely found in the river valley itself, as the territory there robs them of their major weapon, mobility.
+[P5-B-B0049-008] S=['DALAMIDES AVETICUS'] P=is member of O=['YANAFAL TARNILS'] implicit=True ps="has reached high rank within the cult of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Dalamides has reached high rank within the cult of Yanafal Tarnils through years of hard service in the Lunar Army.
+[P5-B-B0049-009] S=['HAZPHAR PHARATES'] P=is member of O=['IRRIPPI ONTOR'] implicit=False ps="initiate" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Hazphar Pharates from Camania, and is a Lunar adept and Irrippi Ontor initiate who has awakened his Full Moon Rune through Illumination.
+[P5-B-B0049-010] S=['HAZPHAR PHARATES'] P=manifests O=[] implicit=False ps="has awakened" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Hazphar Pharates from Camania, and is a Lunar adept and Irrippi Ontor initiate who has awakened his Full Moon Rune through Illumination.
+[P5-B-B0049-011] S=['HAZPHAR PHARATES'] P=illuminates O=[] implicit=True ps="became Illuminated" sug=illuminates
+   Q: He was a gifted pupil at the Lunar College of Magic, where he became Illuminated.
+[P5-B-B0049-012] S=['MOROKANTH'] P=is member of O=['PRAXIAN TRIBES'] implicit=True ps="are one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Morokanth are one of the five main tribes of Prax.
+[P5-B-B0049-013] S=['LUNARS'] P=travels O=[] MOD={"to": "PRAX"} implicit=False ps="came" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: They remained neutral when the Lunars came to Prax, and, as a result, are disliked but tolerated by the other four tribes.
+[P5-B-B0049-014] S=['OGRES'] P=comes into being O=[] implicit=True ps="were formed" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They were formed when a race of mortals followed a Chaos demon in the Great Darkness, and that remnant of Wakboth gifted them with great strength and appetite.
+[P5-B-B0049-015] S=['WAKBOTH'] P=bestows magic / gifts O=['OGRES'] implicit=True ps="gifted" sug=one of: bestows, heals, imbues, teaches
+   Q: They were formed when a race of mortals followed a Chaos demon in the Great Darkness, and that remnant of Wakboth gifted them with great strength and appetite.
+[P5-B-B0049-016] S=['OGRES'] P=serves O=['WAKBOTH'] MOD={"purpose_clause": "TO AID"} implicit=False ps="plot to rescue" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Storm Bull cultists claim that the ogres plot to rescue Wakboth from his imprisonment under the Spike and assert that a substantial number of Lunar
+[P5-B-B0049-017] S=['ORGDAKA'] P=enters Godtime / Otherworld O=['SPIRIT WORLD'] implicit=False ps="spends much of his time in" sug=enters Godtime / Otherworld
+   Q: Orgdaka spends much of his time in the Spirit World, bargaining with the many spirits of Prax and questing to return the High Llama Lucky Star to the heavens.
+[P5-B-B0049-018] S=['RAINBOW GIRL'] P=serves O=['ORGDAKA'] implicit=False ps="is a particular ally" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Rainbow Girl (gwh), the great messenger between gods and men, is a particular ally, and Lightning Boy (g.) owes Orgdaka three favors.
+[P5-B-B0049-019] S=['LIGHTNING BOY'] P=serves O=['ORGDAKA'] implicit=False ps="owes" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: and Lightning Boy (g.) owes Orgdaka three favors.
+[P5-B-B0049-020] S=['RAVEN'] P=fights O=['ORGDAKA'] implicit=False ps="pursues" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Raven (B1i) holds an old grudge against Orgdaka and pursues him from time to time.
+[P5-B-B0049-021] S=['TROLLS'] P=rules O=['DRAGON PASS', 'PRAX'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Once troll war gangs ruled Dragon Pass and Prax and they are still feared throughout the region.
+[P5-B-B0049-022] S=['ZORAK ZORAN WORSHIPPERS'] P=resurrects O=['TROLLS'] implicit=True ps="animate" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Zorak Zoran-worshipping magicians often animate the corpses of trolls and their slain to fight alongside them.
+[P5-B-B0049-023] S=['TROLLS'] P=serves O=['ZORAK ZORAN'] implicit=False ps="worship" sug=is worshipped by
+   Q: Trolls worship several powerful and terrible war gods, foremost of them is Zorak Zoran, a God Time enemy of Orlanth, Humakt, and Yelmalio.
+[P5-B-B0049-024] S=['ZORAK ZORAN'] P=fights O=['ORLANTH', 'HUMAKT', 'YELMALIO'] implicit=False ps="enemy of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Trolls worship several powerful and terrible war gods, foremost of them is Zorak Zoran, a God Time enemy of Orlanth, Humakt, and Yelmalio.
+[P5-B-B0049-025] S=['TUSK RIDERS'] P=comes into being O=[] MOD={"in_on_at": "DRAGON PASS"} implicit=False ps="originated" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Tusk riders originated in Dragon Pass and spread west and north throughout Peloria and Ralios during the First and Second Ages.
+[P5-B-B0049-026] S=['TUSK RIDERS'] P=travels O=[] MOD={"to": ["PELORIA", "RALIOS"]} implicit=False ps="spread" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Tusk riders originated in Dragon Pass and spread west and north throughout Peloria and Ralios during the First and Second Ages.
+[P5-B-B0049-027] S=['LUNAR EMPIRE'] P=sacrifices O=[] MOD={"with_the_aid_of": ["TUSK RIDERS"], "purpose_clause": "TO OBTAIN"} implicit=False ps="sacrificed" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: However, when the Lunar Empire sacrificed a militia regiment to secure the tusk riders' aid in conquering Prax, many of the surviving mercenaries discovered the charms of the River of Cradles.
+[P5-B-B0049-028] S=['FOUNDCHILD', 'EIRITHA'] P=serves O=['PAVIS SURVIVORS'] implicit=True ps="supported" sug=aids
+   Q: Some bands maintain a precarious hunting and herding lifestyle (and supported by the Foundchild and Eiritha spirit societies).
+[P5-B-B0049-029] S=['TROLLS'] P=travels O=[] MOD={"in_on_at": "ZOLA FEL"} implicit=False ps="lives" sug=dwells at
+   Q: A major troll population lives just down the Zola Fel river, yet Pavic relationships with the dark men are as good as you will find anywhere.
+[P5-B-B0049-030] S=['YELMALIO HOPLITES'] P=is member of O=['YELMALIO'] implicit=False ps="hoplites" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Troll envoys from the Stronglands saunter the same walkways as Yelmalio hoplites – all under the watchful eyes of the Lunar watch.
+[P5-B-B0049-031] S=['BRIDGE ACROSS THE ZOLA FEL RIVER'] P=comes into being O=[] MOD={"in_on_at": "ZOLA FEL"} implicit=False ps="was built" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The bridge across the Zola Fel River was built in 1587.
+[P5-B-B0049-032] S=['FLINTNAIL STONEMASONS'] P=dedicates relic O=[] implicit=False ps="planned and overseen" sug=dedicates relic
+   Q: Made of wood and stone, it was planned and overseen by Flintnail stonemasons.
+[P5-B-B0049-033] S=['PRAXIAN NOMADS'] P=fights O=['PAVIS'] implicit=True ps="attacked" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: After nomads attacked the city in 1572, they were ordered to make their camps on the far (Northeast) side of the river, swimming across or going upriver to use the Salt Ford crossing, when they needed to enter the city.
+[P5-B-B0050-001] S=['DWARFS'] P=serves O=['DORASAR'] implicit=False ps="built for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The dwarfs built for Dorasar an underground stone drainage sewer to carry away sewage and waste from houses and overflow water from the infrequent rains.
+[P5-B-B0050-002] S=['BLACK FANG BROTHERHOOD'] P=travels O=[] MOD={"in_on_at": "NEW PAVIS", "via": ["GREAT DRAIN"]} implicit=False ps="make use of the subterranean Great Drain to get from one part of New Pavis to another" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: It is rumored that thieves and the Black Fang Brotherhood make use of the subterranean Great Drain to get from one part of New Pavis to another without notice.
+[P5-B-B0050-003] S=['MOON MASKS'] P=serves O=['GIMGIM'] implicit=False ps="uses" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Gimgim uses a small corps of information gatherers and enforcers known as the Moon Masks.
+[P5-B-B0050-004] S=['MOON MASKS'] P=is identified as O=['RED BASTARDS'] implicit=False ps="generally thought to be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Moon Masks are generally thought to be thugs hired from the Red Bastards street gang; the gang occasionally plays along with this by wearing moon masks.
+[P5-B-B0050-005] S=['CAARITH'] P=serves O=['GOLDENTONGUE'] implicit=True ps="followers" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: One of Goldentongues followers in the First Age was Caarith, a woman hero who was the first of the Desert Trackers.
+[P5-B-B0050-006] S=['CAARITH'] P=discovers O=['GROWING GROUND'] MOD={"from": "WASTE", "to": ["GROWING GROUND", "LAND OF SPLENDOR"]} implicit=True ps="found a path" sug=discovers
+   Q: She found a path through the endless Waste to the Growing Ground and beyond, to the distant Land of Splendor.
+[P5-B-B0050-007] S=['INGILLI FAMILY'] P=claims ancestry O=['INGILLI'] implicit=False ps="are the heirs of" sug=claims ancestry
+   Q: The Ingilli family, are the heirs of old Ingilli the Founder, who aided Dorasar.
+[P5-B-B0050-008] S=['INGILLI'] P=serves O=['DORASAR'] implicit=False ps="aided" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: old Ingilli the Founder, who aided Dorasar.
+[P5-B-B0050-009] S=['LUNARS'] P=kills O=['HEIRS OF DORASAR'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: the heirs of Dorasar, who were killed or driven out by the Lunars years ago.
+[P5-B-B0050-010] S=['JARANG BLADESONG'] P=is member of O=['ORLANTH CULT'] implicit=True ps="initiate of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: An outlaw from Adari and an initiate of Orlanth, Jarang is extraordinarily skilled with his deadly iron sword
+[P5-B-B0050-011] S=['GARZEEN'] P=is child of O=['ISSARIES'] implicit=False ps="second son of" sug=is child of
+   Q: Garzeen, or "Middleman", is the name of the second son of Issaries.
+[P5-B-B0050-012] S=['MIDDLEMAN'] P=is alternative name for O=['GARZEEN'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Garzeen, or "Middleman", is the name of the second son of Issaries.
+[P5-B-B0050-013] S=['GARZEEN'] P=teaches O=['PEOPLE'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: he taught them his language (afterwards called Tradetalk) and passed among many different races.
+[P5-B-B0050-014] S=['FENELA'] P=is child of O=['FROALAR'] implicit=False ps="daughter of" sug=is child of
+   Q: Fenela, a daughter of King Froalar in the west.
+[P5-B-B0050-015] S=['GARZEEN'] P=pledges oath with O=['FENELA'] implicit=True ps="made him swear to fulfill a vow" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: She made him swear to fulfill a vow before she'd marry him
+[P5-B-B0050-016] S=['CHAOS'] P=kills O=['GENERT'] implicit=False ps="slain by" sug=one of: kills, shatters, dies
+   Q: that great god slain by Chaos, Genert.
+[P5-B-B0050-017] S=['ZOLA FEL'] P=embodies O=['RIVER'] implicit=False ps="local river god" sug=one of: embodies, has domain
+   Q: Zola Fel, the local river god.
+[P5-B-B0050-018] S=['ORLANTH'] P=is member of O=['LIGHTBRINGERS'] implicit=False ps="include" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Lightbringer gods include Orlanth, Ernalda, and their allies.
+[P5-B-B0050-019] S=['ERNALDA'] P=is member of O=['LIGHTBRINGERS'] implicit=False ps="include" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Lightbringer gods include Orlanth, Ernalda, and their allies.
+[P5-B-B0050-020] S=['ORLANTH'] P=embodies O=['STORM'] implicit=False ps="storm god" sug=one of: embodies, has domain
+   Q: chief of the pantheon, Orlanth the storm god
+[P5-B-B0050-021] S=['DORASAR'] P=serves O=['LIGHTBRINGERS'] implicit=True ps="enjoyed solid support from" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the cults enjoyed solid support from Dorasar and his heirs.
+[P5-B-B0050-022] S=['LANBRIL'] P=embodies O=['THIEVES'] implicit=False ps="God of Thieves" sug=one of: embodies, has domain
+   Q: The God of Thieves, Lanbril
+[P5-B-B0050-023] S=['LANBRIL'] P=steals O=['GODS'] implicit=False ps="robbed" sug=steals
+   Q: In revenge Lanbril secretly robbed and inconvenienced the gods who had spurned him.
+[P5-B-B0050-024] S=['LANBRIL'] P=transforms into O=[] implicit=True ps="master of disguise" sug=transforms into
+   Q: for he is the master of disguise.
+[P5-B-B0050-025] S=['DORASAR'] P=establishes cult O=['AIR TEMPLE'] implicit=False ps="founded" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Air Temple in New Pavis (founded by Dorasar)
+[P5-B-B0050-026] S=['ORLANTHI'] P=defeats O=['DAGA', 'FORCES OF DARKNESS'] MOD={"purpose_clause": "TO OBTAIN"} implicit=False ps="defeat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Each Storm Season, the Orlanthi must magically defeat Daga and the forces of Darkness in order to release the waters that make agriculture possible.
+[P5-B-B0050-027] S=['ORLANTH'] P=protects O=['ROYAL HOUSE OF SARTAR'] implicit=False ps="patron of" sug=one of: protects, rescues / frees, aids
+   Q: Orlanth was the patron of the Royal House of Sartar.
+[P5-B-B0050-028] S=['ORLANTH'] P=protects O=['DORASAR', 'NEW PAVIS'] implicit=False ps="patron god of" sug=one of: protects, rescues / frees, aids
+   Q: Locally, Orlanth was the patron god of Dorasar and New Pavis
+[P5-B-B0050-029] S=['LUNAR EMPIRE'] P=defeats O=['ROYAL HOUSE OF SARTAR'] implicit=True ps="destruction at the hands of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Their destruction at the hands of the Lunar Empire was a great blow to the prestige of the cult.
+[P5-B-B0050-030] S=['WAHA THE BUTCHER'] P=is alternative name for O=['WAHA'] implicit=False ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Waha the Butcher is the Founder of the Praxian way of life.
+[P5-B-B0050-031] S=['PAVIS'] P=defeats O=['WAHA'] implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He was defeated by the hero Pavis in the Second Age
+[P5-B-B0050-032] S=['KASTOK'] P=defeats O=['NOMADS'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Kastok was a great general who defeated the nomads but was executed unjustly.
+[P5-B-B0050-033] S=['KASTOK'] P=embodies O=['CAVALRY'] MOD={"in_on_at": "DARA HAPPA"} implicit=True ps="worshipped through Dara Happa as the cavalry god" sug=one of: embodies, has domain
+   Q: He is worshipped through Dara Happa as the cavalry god.
+[P5-B-B0050-034] S=['YANAFAL TARNILS'] P=teaches O=['DARA HAPPAN ARMY'] implicit=False ps="bringing the Lunar Way to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Yanafal Tarnils was responsible for bringing the Lunar Way to the Dara Happan army.
+[P5-B-B0050-035] S=['OFFICERS'] P=serves O=['POLARIS'] implicit=False ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: (although the officers also worship Polaris).
+[P5-B-B0050-036] S=['SIX WISE FOLK'] P=teaches O=['RED GODDESS'] implicit=False ps="guided her to godhead" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: the Red Goddess, who had her own humble beginnings in a poorhouse tended by the six wise folk who guided her to godhead.
+[P5-B-B0050-037] S=['SEVEN MOTHERS'] P=teaches O=['RED GODDESS'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Just as the original mothers taught the Goddess
+[P5-B-B0050-038] S=['ETYRIES'] P=serves O=['RED GODDESS'] implicit=True ps="went to hear the word of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: daughter of a southern merchant who went to hear the word of the Red Goddess.
+[P5-B-B0050-039] S=['ETYRIES'] P=alters mythic station O=['MERCHANTS'] implicit=False ps="worked her way to become Etyries, goddess of merchants, messengers, and heralds" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: worked her way to become Etyries, goddess of merchants, messengers, and heralds.
+[P5-B-B0051-001] S=['RED GODDESS'] P=comes into being O=[] implicit=True ps="was born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: She was born in the Gods Age
+[P5-B-B0051-002] S=['LIGHTBRINGERS'] P=resurrects O=['WORLD'] implicit=False ps="was renewed" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: the world was renewed by the Seven Lightbringers
+[P5-B-B0051-003] S=['RED GODDESS'] P=resurrects O=[] MOD={"with_the_aid_of": ["SECRET WORSHIPERS"]} implicit=True ps="was reassembled and reborn" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: this goddess was reassembled and reborn after centuries of planning and trying by a band of secret worshipers.
+[P5-B-B0051-004] S=['RED GODDESS'] P=establishes cult O=['LUNAR CULT'] implicit=False ps="founded" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: The Red Goddess founded the Lunar cult
+[P5-B-B0051-005] S=['RED GODDESS'] P=fights O=['ORLANTH', 'AIR GODS'] implicit=True ps="earned the eternal enmity of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She has taken for her domain the Middle Air, and so earned the eternal enmity of Orlanth and other air gods.

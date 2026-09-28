@@ -1,0 +1,300 @@
+[P5-A-B0055-022] S=["DONANDAR'S TROUPE"] P=travels O=[] MOD={"in_on_at": "REALMS OF SEVERAL PANTHEONS"} implicit=False ps="moves throughout" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Donandar's Troupe moves throughout the realms of several pantheons.
+[P5-A-B0055-023] S=['SUBCULT GODS'] P=is sibling of O=['DONANDAR'] implicit=False ps="are Donandar's siblings" sug=is sibling of
+   Q: Worshippers often say that the subcult gods are Donandar's siblings, although each has other genealogies.
+[P5-A-B0055-024] S=['DROGARSI'] P=comes into being O=[] implicit=False ps="was born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Drogarsi was born in the Storm Age.
+[P5-A-B0055-025] S=['CHAOS'] P=defeats O=['DROGARSI'] implicit=False ps="Drogarsi fell to Chaos" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: During the Darkness, Drogarsi fell to Chaos, his sword broken and his trumpet shattered.
+[P5-A-B0055-026] S=['HORDE OF MINDLESS THINGS'] P=swallows / consumes O=['DROGARSI'] implicit=True ps="chewed away parts of him" sug=swallows / consumes
+   Q: him, for a horde of mindless things chewed away parts of him even as she healed the wounds they caused.
+[P5-A-B0055-027] S=['CHALANA ARROY'] P=bestows magic / gifts O=['DROGARSI'] implicit=True ps="healed the wounds" sug=heals
+   Q: him, for a horde of mindless things chewed away parts of him even as she healed the wounds they caused.
+[P5-A-B0055-028] S=['DONANDAR'] P=enchants O=['SWARMING MONSTERS'] implicit=False ps="played so entrancingly" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: Donandar came and played so entrancingly that the swarming monsters stopped eating to join in the dance, and thus he saved Drogarsi's life.
+[P5-A-B0055-029] S=['DONANDAR'] P=protects O=['DROGARSI'] implicit=False ps="saved Drogarsi's life" sug=one of: protects, rescues / frees, aids
+   Q: Donandar came and played so entrancingly that the swarming monsters stopped eating to join in the dance, and thus he saved Drogarsi's life.
+[P5-A-B0055-030] S=['MOLAMIN'] P=comes into being O=[] MOD={"in_on_at": "GRAND IMPERIAL PALACE OF THE SUN"} implicit=False ps="was born" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Molamin was born in the Golden Age, where he entertained the nobles at the Grand Imperial Palace of the Sun.
+[P5-A-B0055-031] S=['YELM'] P=alters mythic station O=['MOLAMIN'] implicit=True ps="made him Choreographer of the Stars and Conductor of the Celestial Choir" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: He danced to the perfect music of Hyraos' harp, and so impressed Yelm that the Emperor made him Choreographer of the Stars and Conductor of the Celestial Choir.
+[P5-A-B0055-032] S=['YELM'] P=is identified as O=['THE EMPEROR'] implicit=False ps="Yelm that the Emperor" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: He danced to the perfect music of Hyraos' harp, and so impressed Yelm that the Emperor made him Choreographer of the Stars and Conductor of the Celestial Choir.
+[P5-A-B0055-033] S=['YELM'] P=descends into O=[] implicit=False ps="died" sug=dies
+   Q: When Yelm died the star dancers fell to earth and the music of the spheres fell silent.
+[P5-A-B0055-034] S=['TROLLS'] P=binds O=['MOLAMIN'] implicit=True ps="caged" sug=binds
+   Q: he could not resist when trolls caged him so that he could not move or speak.
+[P5-A-B0055-035] S=['DONANDAR'] P=bestows magic / gifts O=['HYMNS'] IO=['KYGER LITOR'] implicit=False ps="intervened with a gift of hymns" sug=one of: bestows, heals, imbues, teaches
+   Q: Donandar came and intervened with a gift of hymns to Kyger Litor so flattering that she freed Molamin.
+[P5-A-B0055-036] S=['KYGER LITOR'] P=protects O=['MOLAMIN'] MOD={"at_the_instigation_of": ["DONANDAR"]} implicit=False ps="freed" sug=rescues / frees
+   Q: Donandar came and intervened with a gift of hymns to Kyger Litor so flattering that she freed Molamin.
+[P5-A-B0055-037] S=['MOLAMIN'] P=is identified as O=['DARA HAPPAN GOD'] implicit=False ps="is a Dara Happan god" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Molamin is a Dara Happan god, and as such is a foreigner in Sartar.
+[P5-A-B0055-038] S=['MOLAMIN'] P=is member of O=["DONANDAR'S CULT"] implicit=True ps="Donandar's cult included him" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: However, Donandar's cult included him long before the coming of the Lunars
+[P5-A-B0055-039] S=['SKOVARI'] P=marries O=['SKOVARA'] implicit=False ps="were born and/or married" sug=is spouse of (qual=wedding)
+   Q: Skovari and Skovara were born and/or married in the Green Age, when everyone was equal and love was strong.
+[P5-A-B0055-040] S=['SKOVARA', 'SKOVARI'] P=is identified as O=['THE ENTERTAINERS'] implicit=False ps="the Entertainers" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Skovara and Skovari, the Entertainers
+[P5-A-B0055-041] S=['A TRIBE THAT TURNED TO EVIL'] P=binds O=['SKOVARI', 'SKOVARA'] implicit=True ps="captured" sug=binds
+   Q: During the Darkness, their trust and love failed them, and a tribe that turned to evil captured them.
+[P5-A-B0055-042] S=['DONANDAR'] P=protects O=['SKOVARI', 'SKOVARA'] implicit=True ps="freed" sug=rescues / frees
+   Q: As the cannibals prepared to eat the gods, Donandar arrived and freed them, charming the ogres into giving up their evil ways.
+[P5-A-B0055-043] S=['DONANDAR'] P=enchants O=['OGRES'] implicit=False ps="charming the ogres into giving up their evil ways" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: As the cannibals prepared to eat the gods, Donandar arrived and freed them, charming the ogres into giving up their evil ways.
+[P5-A-B0056-001] S=['ENGIZI'] P=embodies O=['FIRST WATER TO FALL FROM THE SKY'] implicit=False ps="is the god of" sug=one of: embodies, has domain
+   Q: Engizi is the god of the first water to fall from the sky to create a winding current flowing downhill.
+[P5-A-B0056-002] S=['THE RIVER'] P=is alternative name for O=['ENGIZI'] implicit=True ps="he is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He was the first to do this, and so he is called The River.
+[P5-A-B0056-003] S=['ENGIZI'] P=is member of O=['WATER TRIBE'] implicit=False ps="was a warlord of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Engizi was a warlord of the Water Tribe who led the watery invasion of the Sky in the Gods War.
+[P5-A-B0056-004] S=['ENGIZI'] P=fights O=['THE SKY'] implicit=False ps="led the watery invasion of" sug=invades / raids
+   Q: Engizi was a warlord of the Water Tribe who led the watery invasion of the Sky in the Gods War.
+[P5-A-B0056-005] S=['STAR CAPTAINS'] P=kills O=['FOLLOWERS OF ENGIZI'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: His great enemy was the Pole Star, whose Star Captains killed so many of Engizi's followers that the Sky turned blue from their blood.
+[P5-A-B0056-006] S=['POLE STAR'] P=fights O=['ENGIZI'] implicit=False ps="His great enemy was" sug=hates
+   Q: His great enemy was the Pole Star, whose Star Captains killed so many of Engizi's followers that the Sky turned blue from their blood.
+[P5-A-B0056-007] S=['KORANG THE SLAYER'] P=fights O=['EVERYTHING IN DRAGON PASS'] implicit=False ps="tried to kill" sug=invades / raids
+   Q: During the Great Darkness, a poisonous spear-god named Korang the Slayer tried to kill everything in Dragon Pass.
+[P5-A-B0056-008] S=['ENGIZI'] P=fights O=['KORANG THE SLAYER'] implicit=True ps="fought bravely" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Engizi fought bravely, but the Chaos god was too strong.
+[P5-A-B0056-009] S=['KORANG THE SLAYER'] P=manifests chaos taint O=[] implicit=True ps="the Chaos god" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Engizi fought bravely, but the Chaos god was too strong.
+[P5-A-B0056-010] S=['KORANG THE SLAYER'] P=wounds O=['ENGIZI'] implicit=True ps="wounded" sug=wounds
+   Q: Korang wounded Engizi, who would have died if not for the sacrifice of his lover, Hard Earth.
+[P5-A-B0056-011] S=['HARD EARTH'] P=sacrifices O=['HARD EARTH'] IO=['ENGIZI'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="the sacrifice of his lover, Hard Earth" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Korang wounded Engizi, who would have died if not for the sacrifice of his lover, Hard Earth.
+[P5-A-B0056-012] S=['KORANG THE SLAYER'] P=kills O=['ENGIZI'] implicit=True ps="struck him a fatal wound" sug=one of: kills, shatters, dies
+   Q: He tried to flee to his home in the sky, but Korang struck him a fatal wound as Engizi leaped up.
+[P5-A-B0056-013] S=['ENGIZI'] P=kills O=['KORANG THE SLAYER', 'CITY OF SLAVES OF KORANG'] MOD={"using": "BLOOD OF ENGIZI"} implicit=True ps="defeated his foe ... drowned" sug=one of: kills, shatters, dies
+   Q: In death Engizi finally defeated his foe, for from the fatal wound a deluge of blood spurted out and drowned Korang and his city of slaves.
+[P5-A-B0056-014] S=['ENGIZI'] P=comes into being O=[] MOD={"from": "THE OCEANS", "to": "LAND"} implicit=True ps="his birth, when he left the oceans to move onto land" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The first celebrates his birth, when he left the oceans to move onto land.
+[P5-A-B0056-015] S=['WATERS OF ENGIZI'] P=travels O=[] MOD={"from": "RIVER STYX", "to": "UNDERWORLD", "via": ["CELESTIAL RIVER", "SKY FALLS", "THE RIVER", "HOMEWARD OCEAN", "MAGASTA'S POOL"]} implicit=False ps="rise from ... into ... down through ... back into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Engizi's waters rise from the River Styx in the Underworld; into the sky where they are visible as the Celestial River; down through the Sky Falls to be The River in the Inner World; and through the Homeward Ocean and Magasta's Pool back into the Underworld.
+[P5-A-B0056-016] S=['SSORSSHARN'] P=is sibling of O=['ENGIZI'] implicit=False ps="is Engizi's brother" sug=is sibling of
+   Q: especially worshippers of Ssorssharn, great spirit of the Creek, who is Engizi's brother.
+[P5-A-B0056-017] S=['GUSTBRAN'] P=is child of O=['VESTKARTHEN'] implicit=True ps="is the son of" sug=is child of
+   Q: He is the son of Vestkarthen, but was exiled from the Fire Tribe because his desire to make new things was the same as rebellion.
+[P5-A-B0056-018] S=['GUSTBRAN'] P=departs from O=['FIRE TRIBE'] implicit=True ps="was exiled from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: He is the son of Vestkarthen, but was exiled from the Fire Tribe because his desire to make new things was the same as rebellion.
+[P5-A-B0056-019] S=['GUSTBRAN'] P=travels O=[] MOD={"to": "ORLANTH'S STEAD"} implicit=False ps="journeyed to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: So Gustbran journeyed to Orlanth's Stead to join the Storm Tribe.
+[P5-A-B0056-020] S=['ORLANTH'] P=protects O=['GUSTBRAN'] implicit=True ps="agreed to protect" sug=one of: protects, rescues / frees, aids
+   Q: When he promised to make more if given a place to work, Orlanth agreed to protect him.
+[P5-A-B0056-021] S=['GUSTBRAN'] P=serves O=['ORLANTH'] implicit=False ps="has served ... loyally" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Gustbran has served Orlanth loyally ever since.
+[P5-A-B0056-022] S=['GUSTBRAN'] P=is member of O=['STORM TRIBE'] MOD={"at_the_instigation_of": ["ORLANTH"]} implicit=False ps="his acceptance into the Storm Tribe by Orlanth" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: This rite reenacts Gustbran's exile from the Fire Tribe and his acceptance into the Storm Tribe by Orlanth.
+[P5-A-B0056-023] S=['GUSTBRAN'] P=is sibling of O=['MAHOME'] implicit=False ps="his sister" sug=is sibling of
+   Q: Gustbran once hid inside the cloak of his sister Mahome the Hearth Fire, who along with his wife Arnna is one of the Household Goddesses.
+[P5-A-B0056-024] S=['GUSTBRAN'] P=is spouse of O=['ARNNA'] implicit=False ps="his wife" sug=is spouse of
+   Q: Gustbran once hid inside the cloak of his sister Mahome the Hearth Fire, who along with his wife Arnna is one of the Household Goddesses.
+[P5-A-B0056-025] S=['MAHOME', 'ARNNA'] P=is member of O=['HOUSEHOLD GODDESSES'] implicit=False ps="is one of the Household Goddesses" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Gustbran once hid inside the cloak of his sister Mahome the Hearth Fire, who along with his wife Arnna is one of the Household Goddesses.
+[P5-A-B0056-026] S=['KERO FIN'] P=is child of O=['ELDER DEITIES'] implicit=True ps="is the daughter of" sug=is child of
+   Q: She is the daughter of elder deities and the mother of mighty gods.
+[P5-A-B0056-027] S=['KERO FIN'] P=enchants O=['THE SNOW'] implicit=True ps="sang to the snow and made it comfort them" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: When her sons were young, she sang to the snow and made it comfort them instead of chilling their bones.
+[P5-A-B0056-028] S=['SHADOW CATS'] P=serves O=['KERO FIN'] implicit=True ps="attends her" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: A coterie of perfect shadow cats attends her and surrounds her in cloud form.
+[P5-A-B0056-029] S=['KERO FIN'] P=rules O=['INHABITANTS OF DRAGON PASS'] implicit=True ps="acknowledge her sovereignty" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: All of the inhabitants of Dragon Pass, even the dragonewts, acknowledge her sovereignty.
+[P5-A-B0056-030] S=['KEROFINELA'] P=is alternative name for O=['DRAGON PASS'] implicit=False ps="anciently known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She is the source of sovereignty for Dragon Pass, anciently known as Kerofinela.
+[P5-A-B0056-031] S=['KERO FIN'] P=bestows magic / gifts O=['SOVEREIGNTY'] IO=['KING OF DRAGON PASS'] implicit=True ps="is the source of sovereignty" sug=one of: bestows, heals, imbues, teaches
+   Q: She is the source of sovereignty for Dragon Pass, anciently known as Kerofinela. || A man must gain her blessing before he can become King of Dragon Pass.
+[P5-A-B0056-032] S=['ORLANTH', 'YINKIN', 'INORA', 'QUIVIN', 'VELHARA'] P=is child of O=['KERO FIN'] implicit=False ps="is the mother of" sug=is child of
+   Q: Kero Fin is the mother of several gods of the Storm Tribe, including Orlanth, Yinkin, Inora, Quivin, and Velhara.
+[P5-A-B0056-033] S=['THE WORLD'] P=comes into being O=[] MOD={"with_the_aid_of": ["MARAN"]} implicit=False ps="helped make the world" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: In the Green Age, Maran helped make the world.
+[P5-A-B0056-034] S=['MARAN'] P=travels O=[] implicit=True ps="went far and wide raising mountains and hills" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She went far and wide raising mountains and hills, opening crevices and valleys, and splitting the earth with volcanoes and earthquakes.
+[P5-A-B0056-035] S=['QUAKEBEASTS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["MARAN"]} implicit=True ps="Her favorite creations" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Her favorite creations were the huge quakebeasts that shook the earth whenever the lumbered past.
+[P5-A-B0056-036] S=['MARAN'] P=fights O=[] MOD={"using": ["AXE", "CLUB"], "purpose_clause": "TO AVENGE"} implicit=True ps="took up her Axe and Club" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She took up her Axe and Club to avenge her children
+[P5-A-B0056-037] S=['ONE WHO MAKES THE EARTHQUAKES'] P=is alternative name for O=['MARAN GOR'] implicit=False ps="is the One Who Makes the Earthquakes" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Maran Gor is the One Who Makes the Earthquakes.
+[P5-A-B0056-038] S=['WORSHIPPERS OF MARAN'] P=sacrifices O=['BLOOD AND LIFE'] IO=['HUNGRY EARTH'] implicit=True ps="sacrifice blood and life to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Her worshippers regularly sacrifice blood and life to the Hungry Earth.
+[P5-A-B0056-039] S=['MARAN'] P=rules O=['SHIFTING PALACE'] MOD={"in_on_at": "EARTH REALM"} implicit=False ps="Maran's Shifting Palace ... as she desires" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Maran's Shifting Palace is deep within the Earth Realm. || It constantly rumbles and quakes, for it is made of living earth daimones that move to change the size or shape of the house as she desires.
+[P5-A-B0056-040] S=['MARAN'] P=is sibling of O=['ERNALDA'] implicit=False ps="her sister" sug=is sibling of
+   Q: Maran receives worship in conjunction with Ernalda, her sister, and many people consider her an aspect of the Great Goddess.
+[P5-A-B0056-041] S=['MARAN'] P=is identified as O=['GREAT GODDESS'] implicit=False ps="consider her an aspect of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Maran receives worship in conjunction with Ernalda, her sister, and many people consider her an aspect of the Great Goddess.
+[P5-A-B0056-042] S=['MARAN'] P=fights O=['CHAOS', 'VAD-RUDI', 'HSUNCHEN', 'ALDRYAMI'] implicit=False ps="is the enemy of" sug=hates
+   Q: Maran is the enemy of Chaos or anything else that harms her children or the Earth Family, including Vad-rudi, hsunchen, and Aldryami.
+[P5-A-B0056-043] S=['MINLISTER'] P=is member of O=['HOUSEHOLD GODS'] implicit=False ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Minlister is one of the Household Gods, Orlanth's Master Brewer.
+[P5-A-B0056-044] S=['MINLISTER'] P=serves O=['ORLANTH'] implicit=False ps="Orlanth's Master Brewer" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Minlister is one of the Household Gods, Orlanth's Master Brewer.
+[P5-A-B0056-045] S=['ORLANTH'] P=steals O=['KARNI'] MOD={"from": "WATER GODS"} implicit=False ps="took from" sug=steals
+   Q: He uses a huge cauldron named Karni that Orlanth took from the water gods.
+[P5-A-B0056-046] S=['MINLISTER'] P=descends into O=['KARNI'] implicit=True ps="fell into the vat himself" sug=one of: descends into, dies
+   Q: He made many drinks in it, but none was perfect until once Minlister fell into the vat himself.
+[P5-A-B0057-001] S=['MINLISTER'] P=embodies O=['DIVINE MEAD'] implicit=True ps="is both the god who brews the drink and the drink itself" sug=one of: embodies, has domain
+   Q: Minlister is both the god who brews the drink and the drink itself.
+[P5-A-B0057-002] S=['MINLISTER'] P=steals O=['KARNI'] MOD={"from": "WATER GODS"} implicit=False ps="the taking of Karni from" sug=steals
+   Q: commemorate Minlister's birth, the taking of Karni from the water gods, and his acceptance as Orlanth's Master Brewer.
+[P5-A-B0057-003] S=['MINLISTER'] P=serves O=['ORLANTH'] implicit=True ps="acceptance as Orlanth's Master Brewer" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: his acceptance as Orlanth's Master Brewer.
+[P5-A-B0057-004] S=['MINLISTER'] P=transforms into O=['MEAD'] implicit=True ps="first brewed himself into" sug=transforms into
+   Q: His high holy day, Mead Day, falls on the Clay Day of Mobility Week in Storm Season, when he first brewed himself into mead.
+[P5-A-B0057-005] S=['MINLISTER'] P=is child of O=['ESROLA', 'ELMAL'] implicit=False ps="is the son of" sug=is child of
+   Q: Minlister is the son of Esrola by Elmal
+[P5-A-B0057-006] S=['ELMAL'] P=transforms into O=['RARE KING BEE'] implicit=False ps="took the shape of" sug=transforms into
+   Q: Elmal (who took the shape of a rare king bee).
+[P5-A-B0057-007] S=['VINGA'] P=travels O=[] implicit=False ps="took all of the women one day and went to war" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: until Vinga took all of the women one day and went to war.
+[P5-A-B0057-008] S=['NANDAN'] P=substitutes O=['THE WOMEN'] implicit=False ps="stepped in to fill the gap" sug=substitutes
+   Q: until Vinga took all of the women one day and went to war. || so Nandan stepped in to fill the gap.
+[P5-A-B0057-009] S=['NANDAN'] P=is identified as O=['ERNALDA'] implicit=False ps="is an aspect of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Nandan is an aspect of Ernalda
+[P5-A-B0057-010] S=['NANDAN'] P=is member of O=['WEAVER WOMEN'] MOD={"in_on_at": "ERNALDA'S LOOM HOUSE"} implicit=False ps="has his place as one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Nandan has his place in Ernalda's Loom House as one of the Weaver Women.
+[P5-A-B0057-011] S=['NANDAN'] P=is member of O=['EARTH FAMILY'] implicit=False ps="is part of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Nandan is part of the Earth Family.
+[P5-A-B0057-012] S=['NATELNA'] P=is spouse of O=['POVERRI'] implicit=False ps="his wife" sug=is spouse of
+   Q: whose god Poverri and his wife Natelna (a daughter of Ernalda) have a happy marriage.
+[P5-A-B0057-013] S=['NATELNA'] P=is child of O=['ERNALDA'] implicit=False ps="a daughter of" sug=is child of
+   Q: his wife Natelna (a daughter of Ernalda)
+[P5-A-B0057-014] S=['PELASKOS'] P=is member of O=['FOUR PROVIDERS'] MOD={"in_on_at": ["CHORALINTHOR BAY", "ROZGALI SEA"]} implicit=False ps="count as one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Clans that live along the shores of Choralinthor Bay or the Rozgali Sea count Pelaskos, not Poverri, as one of the Four Providers.
+[P5-A-B0057-015] S=['PELASKOS'] P=marries O=['ILLURIAD'] implicit=False ps="marriage to" sug=is spouse of (qual=wedding)
+   Q: worshippers reenact the building of Clever Eyes, the capture of Oskippos, Pelaskos' marriage to Illuriad, and his first catch in his new home.
+[P5-A-B0057-016] S=['PELASKOS'] P=binds O=['OSKIPPOS'] implicit=False ps="the capture of" sug=binds
+   Q: worshippers reenact the building of Clever Eyes, the capture of Oskippos, Pelaskos' marriage to Illuriad
+[P5-A-B0057-017] S=['POVERRI'] P=is twin of O=['PELASKOS'] implicit=False ps="twin" sug=is sibling of (qual=twin)
+   Q: Pelaskos' twin Poverri still visits his brother.
+[P5-A-B0057-018] S=['REDALDA'] P=is child of O=['ORLANTH', 'ERNALDA'] implicit=False ps="is a daughter of" sug=is child of
+   Q: Redalda is a daughter of Orlanth and Ernalda
+[P5-A-B0057-019] S=['HORSE', 'ELMAL'] P=travels O=[] MOD={"to": "ORLANTH'S STEAD"} implicit=False ps="first arrived at his stead with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She was the only one of Orlanth's kin who did not laugh at the horse when it first arrived at his stead with Elmal.
+[P5-A-B0057-020] S=["FOREIGNER'S WEDDING"] P=comes into being O=[] MOD={"at_the_instigation_of": ["ORLANTH", "ERNALDA"], "purpose_clause": "TO AID"} implicit=True ps="created" sug=conceives
+   Q: they created the Foreigner's Wedding so that he could marry into the tribe.
+[P5-A-B0057-021] S=['REDALDA'] P=transforms into O=['HORSE'] implicit=True ps="could even become a horse herself" sug=transforms into
+   Q: she proved that she could even become a horse herself.
+[P5-A-B0057-022] S=['REDALDA'] P=marries O=['ELMAL'] implicit=True ps="their wedding night" sug=is spouse of (qual=wedding)
+   Q: On their wedding night, she and Elmal rode wildly off together
+[P5-A-B0057-023] S=['REDALDA'] P=protects O=['HORSES OF ELMAL'] implicit=True ps="has tended, healed, and loved" sug=one of: protects, rescues / frees, aids
+   Q: she has tended, healed, and loved his horses ever since.
+[P5-A-B0057-024] S=['REDALDA'] P=is member of O=['ERNALDA ALLMOTHER', 'ELMAL'] implicit=False ps="worship as a subcult of" sug=is part of
+   Q: Many clans worship Redalda as a subcult of Ernalda Allmother or Elmal; she is never worshipped as a subcult of Esrola.
+[P5-A-B0057-025] S=['ORLANTH'] P=bestows magic / gifts O=['SHOUTER'] IO=['RIGSDAL'] implicit=False ps="gave him" sug=one of: bestows, heals, imbues, teaches
+   Q: "Stand watch," was the last thing that Orlanth said to Rigsdal before he gave him the great horn Shouter.
+[P5-A-B0057-026] S=['UZ'] P=fights O=['VINGKOTLINGS'] implicit=False ps="tried to sneak up on" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Once, the Uz tried to sneak up on the Vingkotlings, but Rigsdal revealed their creeping forms with his light.
+[P5-A-B0057-027] S=['RIGSDAL'] P=reveals O=['UZ'] MOD={"using": "LIGHT OF RIGSDAL"} implicit=True ps="revealed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Rigsdal revealed their creeping forms with his light.
+[P5-A-B0057-028] S=['WAKBOTH'] P=enchants O=['THE ENTIRE UNIVERSE'] implicit=False ps="made go to sleep" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: Once, Wakboth made the entire universe go to sleep so that he could invade the Vingkotling lands.
+[P5-A-B0057-029] S=['RIGSDAL'] P=fights O=['CHAOS HORDE'] MOD={"using": "JAVELINS OF RIGSDAL"} implicit=True ps="drove off" sug=exiles / banishes
+   Q: He thus saw the Chaos horde approach and drove off the foe with his javelins.
+[P5-A-B0057-030] S=['RIGSDAL'] P=is member of O=['STORM TRIBE'] implicit=False ps="is a noted warrior of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Rigsdal is a noted warrior of the Storm Tribe, and served his chieftains valiantly through the ages.
+[P5-A-B0057-031] S=['RIGSDAL'] P=becomes celestial body O=[] implicit=True ps="was the one light that never moved from its place" sug=becomes celestial body
+   Q: He was the one light that never moved from its place even when all else wandered erratically.
+[P5-A-B0057-032] S=['RIGSDAL'] P=is member of O=['ORLANTH ALLFATHER', 'HUMAKT', 'ELMAL'] implicit=False ps="worship as a subcult of" sug=is part of
+   Q: Many Heortlings worship Rigsdal as a subcult of Orlanth Allfather, Humakt, or Elmal.
+[P5-A-B0057-033] S=['TY KORA TEK'] P=is alternative name for O=['SHROUDED GOOD ELDER GODDESS'] implicit=False ps="is the title, not name, of" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ty Kora Tek is the title, not name, of the Shrouded Good Elder Goddess.
+[P5-A-B0057-034] S=['WRETCHED, AVENGING DAUGHTERS'] P=is child of O=['TY KORA TEK'] implicit=True ps="her daughters" sug=is child of
+   Q: for to do so invites the wrath of her wretched, avenging daughters.
+[P5-A-B0057-035] S=['TY KORA TEK'] P=is sibling of O=['ASRELIA'] implicit=False ps="her sister" sug=is sibling of
+   Q: Ty Kora Tek first made herself known when Asrelia, her sister, went from their common home to begin her own life.
+[P5-A-B0057-036] S=['ASRELIA'] P=departs from O=['COMMON HOME'] implicit=False ps="went from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Asrelia, her sister, went from their common home to begin her own life.
+[P5-A-B0057-037] S=['TY KORA TEK'] P=manifests O=[] MOD={"in_on_at": "JUDGEMENT ROOM"} implicit=False ps="appeared in the doorway of" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Ty Kora Tek appeared in the doorway of the Judgement Room, mourning, and asking Asrelia to return.
+[P5-A-B0057-038] S=['ESROLA', 'MARAN', 'ERNALDA'] P=is child of O=['ASRELIA'] implicit=False ps="had children; the triplet daughters" sug=is child of
+   Q: Asrelia had many children, but most important are the triplet daughters: Esrola the Most, Maran the Great, and Ernalda the Least.
+[P5-A-B0057-039] S=['ESROLA', 'MARAN'] P=is sibling of O=['ERNALDA'] implicit=False ps="the triplet daughters" sug=is sibling of
+   Q: the triplet daughters: Esrola the Most, Maran the Great, and Ernalda the Least.
+[P5-A-B0057-040] S=['ESROLA', 'MARAN', 'ERNALDA'] P=travels O=[] MOD={"to": "EMPEROR'S PALACE"} implicit=True ps="went to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When the daughters of Asrelia went to the Emperor's Palace
+[P5-A-B0058-001] S=['CREATURES OF TY KORA TEK'] P=steals O=['MARAN'] MOD={"at_the_command_of": ["TY KORA TEK"]} implicit=False ps="sent out her creatures to haul away" sug=steals
+   Q: to Ty Kora Tek, who in turn sent out her creatures again to haul Maran away.
+[P5-A-B0058-002] S=['NONTRAYA'] P=fights O=['ERNALDA'] implicit=False ps="enemy; had sworn everlasting vengeance on" sug=hates
+   Q: Ernalda had an enemy named Nontraya, whose love she had spurned, and who had sworn everlasting vengeance on her for it.
+[P5-A-B0058-003] S=['TALOKANS'] P=is born from O=['NONTRAYA'] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="spawned" sug=is born from
+   Q: He spawned the race of talokans to execute his revenge.
+[P5-A-B0058-004] S=['NONTRAYA'] P=travels O=[] MOD={"to": "HOUSE OF ERNALDA", "with_the_aid_of": ["TY KORA TEK"], "purpose_clause": "TO OBTAIN"} implicit=True ps="came to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He got Ty Kora Tek to help, and with her horde came to the house of Ernalda to take her away.
+[P5-A-B0058-005] S=['ERNALDA'] P=descends into O=['UNDERWORLD'] MOD={"with_the_aid_of": ["TY KORA TEK"]} implicit=True ps="bore it across the threshold into" sug=one of: descends into, dies
+   Q: The mourners took the bier to Ty Kora Tek, who received the corpse and bore it across the threshold into the Underworld.
+[P5-A-B0058-006] S=['ERNALDA'] P=serves O=['TY KORA TEK'] implicit=True ps="went to weave the cloth of the dead for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Great Goddess got up from her bower and went to weave the cloth of the dead for Ty Kora Tek.
+[P5-A-B0058-007] S=['HEORTLING WOMEN'] P=re-enacts O=["ERNALDA'S FUNERAL"] implicit=True ps="reenact" sug=re-enacts
+   Q: Heortling women reenact this event every Darkness Season
+[P5-A-B0058-008] S=['ERNALDA'] P=is member of O=['DEITIES OF DEATH'] implicit=True ps="accept her as one of their own" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the deities of death accept her as one of their own, yet she really only sleeps.
+[P5-A-B0058-009] S=['ORLANTH'] P=defeats O=['VADRUS'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Valind inherited his father's powers and holdings when Orlanth defeated Vadrus.
+[P5-A-B0058-010] S=['VALIND'] P=is child of O=['VADRUS'] implicit=False ps="his father" sug=is child of
+   Q: Valind inherited his father's powers and holdings when Orlanth defeated Vadrus.
+[P5-A-B0058-011] S=['VALIND'] P=alters mythic station O=[] implicit=False ps="inherited his father's powers and holdings" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Valind inherited his father's powers and holdings when Orlanth defeated Vadrus.
+[P5-A-B0058-012] S=['VALIND'] P=is sibling of O=['VADRUDI'] implicit=True ps="his brothers" sug=is sibling of
+   Q: He keeps them only by playing his brothers, the Vadrudi, off against each other
+[P5-A-B0058-013] S=['VALIND'] P=is member of O=['THUNDER BROTHERS'] implicit=True ps="is one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He is one of the Thunder Brothers (though rarely welcome as such), and as such some people consider his cult a subcult of Orlanth Thunderous.
+[P5-A-B0058-014] S=['VALIND CULT'] P=is member of O=['ORLANTH THUNDEROUS'] implicit=True ps="consider a subcult of" sug=is part of
+   Q: some people consider his cult a subcult of Orlanth Thunderous.
+[P5-A-B0058-015] S=['ORLANTH'] P=defeats O=['VADRUDI'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: for he surrendered and offered to serve as a thrall when Orlanth conquered the Vadrudi.
+[P5-A-B0058-016] S=['VALIND'] P=serves O=['ORLANTH'] implicit=True ps="surrendered and offered to serve as a thrall" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: for he surrendered and offered to serve as a thrall when Orlanth conquered the Vadrudi.
+[P5-A-B0058-017] S=['VADRUDI'] P=fights O=['SOLAR REALM', 'SEA GODS REALM', 'STORM REALM'] implicit=False ps="raiding" sug=invades / raids
+   Q: After death, they join the Vadrudi in raiding the Solar Realm, Sea Gods Realm, and occasionally even the Storm Realm.
+[P5-A-B0058-018] S=['HIMILE'] P=serves O=['VALIND'] implicit=False ps="often aids" sug=aids
+   Q: The Uz god Himile, Source of Cold, often aids Valind.
+[P5-A-B0058-019] S=['HIMILE'] P=is member of O=['UZ'] implicit=False ps="The Uz god" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Uz god Himile, Source of Cold
+[P5-A-B0058-020] S=['SOURCE OF COLD'] P=is alternative name for O=['HIMILE'] implicit=False ps="epithet" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Uz god Himile, Source of Cold
+[P5-A-B0058-021] S=['KALIKOS'] P=steals O=['MAGIC ICE CRYSTAL'] MOD={"from": "VALIND"} implicit=False ps="stole from" sug=steals
+   Q: Valind's greatest enemy is the Pelorian hero named Kalikos, who stole a magic ice crystal from him in the Gods War.
+[P5-A-B0058-022] S=['KALIKOS'] P=fights O=['VALIND'] implicit=True ps="opposes every year" sug=challenges
+   Q: The hero opposes him every year, keeping him from sallying out in full force and covering all of Glorantha with snow.
+[P5-A-B0058-023] S=['SECOND SON'] P=teaches O=['I FOUGHT WE WON'] IO=['HEORT'] implicit=False ps="learned the secrets of from" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Heort the Founder, who learned the secrets of I Fought We Won from Second Son and united his people.
+[P5-A-B0058-024] S=['VARGAST REDHAND'] P=kills O=['LOKAMAYADON'] MOD={"in_on_at": "BATTLE OF THE VERGE"} implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Vargast Redhand, who killed Lokamayadon at the Battle of the Verge and so freed Orlanth.
+[P5-A-B0058-025] S=['PALANGIO THE IRON VROK'] P=defeats O=['VARGAST REDHAND'] implicit=True ps="fell to" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Though he fell to Palangio the Iron Vrok
+[P5-A-B0058-026] S=['HENDREIK FREEMAN'] P=fights O=['GBAJI EMPIRE'] implicit=False ps="resisted" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Hendreik Freeman, the unconquered raider who resisted the Gbaji Empire.
+[P5-A-B0058-027] S=['HENDREIK FREEMAN'] P=alters mythic station O=['OWENRETH'] implicit=True ps="made High King of the Heortlings" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: made Owenreth High King of the Heortlings
+[P5-A-B0058-028] S=['HENDREIK FREEMAN'] P=establishes cult O=['LARNSTI BROTHERHOOD'] implicit=True ps="started" sug=founds
+   Q: started the Larnsti brotherhood.
+[P5-A-B0058-029] S=['JARANKOL THE SOLARSLAYER'] P=is child of O=['OWENRETH'] implicit=False ps="the son of" sug=is child of
+   Q: Jarankol the Solarslayer, the son of Owenreth the Exile.
+[P5-A-B0058-030] S=['JARANKOL THE SOLARSLAYER'] P=fights O=['DARA HAPPA'] implicit=True ps="led his army to sack" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: led his army to sack Dara Happa instead of following Arkat to death in Dorastor.
+[P5-A-B0058-031] S=['ALAKORING DRAGONBREAKER'] P=fights O=['EWF'] implicit=False ps="forced to release Orlanth" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Alakoring Dragonbreaker, who forced the EWF to release Orlanth from his dragon prison.
+[P5-A-B0058-032] S=['ALAKORING DRAGONBREAKER'] P=kills O=['ELDER STORM DRAGON'] implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: He slew the Elder Storm Dragon, closed the Open Door to the Dragon's Aerie, and brought the secrets of Orlanth Rex to men
+[P5-A-B0058-033] S=['ALAKORING DRAGONBREAKER'] P=reveals O=['ORLANTH REX'] IO=['MEN'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="brought the secrets of to men" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: brought the secrets of Orlanth Rex to men so that the Heortlings would be safe from foolish priests.
+[P5-A-B0058-034] S=['VARANTOL THE MANGLER'] P=fights O=['GOD LEARNERS'] implicit=False ps="opposed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Varantol the Mangler, who opposed the God Learners and united people to destroy these mechanical foes.
+[P5-A-B0058-035] S=['MACHINE DESTROYER'] P=is alternative name for O=['VARANTOL THE MANGLER'] implicit=True ps="is still called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He is still called the Machine Destroyer because of the havoc he wreaked on them.
+[P5-A-B0058-036] S=['GUSTIN HAMMER'] P=serves O=['KING ANDRIN'] implicit=False ps="the loyal thane to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Gustin Hammer, the loyal thane to King Andrin who died for his lord many times fighting against the false god called the Pharaoh.
+[P5-A-B0058-037] S=['GUSTIN HAMMER'] P=fights O=['PHARAOH'] implicit=False ps="fighting against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Gustin Hammer, the loyal thane to King Andrin who died for his lord many times fighting against the false god called the Pharaoh.
+[P5-A-B0058-038] S=['KING ANDRIN'] P=serves O=['PHARAOH'] implicit=True ps="came back as a slave of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: once in disgust when the king came back as a slave of the Pharaoh.
+[P5-A-B0058-039] S=['LARNSTE'] P=teaches O=['SECRETS OF TRANSFORMATION'] IO=['SARTAR'] implicit=False ps="learned the secrets of from" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Sartar the Founder, who learned the secrets of Transformation from Larnste and united his people.
+[P5-A-B0058-040] S=['GEO'] P=is member of O=['COMPANIONS OF KING SARTAR'] implicit=False ps="such as" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Many of King Sartar's companions, such as Geo, receive worship from members of the organizations they founded.
+[P5-A-B0058-041] S=['ALAKORING DRAGONBREAKER'] P=protects O=['HEORTLINGS'] MOD={"from": "DRAGON EMPIRE"} implicit=True ps="liberated from enslavement by" sug=rescues / frees
+   Q: He liberated the Heortlings from enslavement by the Dragon Empire, which is called Youf or EWF
+[P5-A-B0058-042] S=['YOUF', 'EWF'] P=is alternative name for O=['DRAGON EMPIRE'] implicit=False ps="which is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Dragon Empire, which is called Youf or EWF

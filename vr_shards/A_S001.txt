@@ -1,0 +1,300 @@
+[P5-A-B0001-001] S=['FRONELA'] P=is sibling of O=['RALIA'] implicit=True ps="her southern sister" sug=is sibling of
+   Q: This goddess is in the northwest and divided from her southern sister Ralia by mountains.
+[P5-A-B0001-002] S=['IMMORTAL SORCERERS'] P=rules O=['SOG CITY'] implicit=False ps="ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The west of Fronela is home to the ancient Brithini stronghold of Sog City, ruled by immortal sorcerers.
+[P5-A-B0001-003] S=['MERITOCRATIC WIZARDS'] P=rules O=['LOSKALM'] implicit=False ps="ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Beyond it is the Hrestoli kingdom of Loskalm, one of the mightiest kingdoms in Glorantha and ruled by meritocratic wizards.
+[P5-A-B0001-004] S=['PENDALI LION PEOPLE'] P=is child of O=['SESHNA'] implicit=False ps="is the mother of" sug=is child of
+   Q: Seshna is surrounded on three sides by ocean. || She is the mother of the Pendali lion people
+[P5-A-B0001-005] S=['BRITHINI'] P=travels O=[] MOD={"to": "SESHNA"} implicit=True ps="settled" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She is the mother of the Pendali lion people, but was settled by Brithini before the Dawn.
+[P5-A-B0001-006] S=['ORLANTHI'] P=serves O=['ORLANTH', 'ERNALDA'] implicit=False ps="revere" sug=is worshipped by
+   Q: The Orlanthi revere Orlanth the Storm God (after whom they are named), and Ernalda the Earth Goddess.
+[P5-A-B0001-007] S=['ORLANTH'] P=is child of O=['KERO FIN'] implicit=False ps="the mother of" sug=is child of
+   Q: At the center of Dragon Pass is Mount Kero Fin, the mother of Orlanth the Storm King.
+[P5-A-B0001-008] S=['MARAN GOR'] P=protects O=['SHAKER TEMPLE'] implicit=False ps="protected by" sug=one of: protects, rescues / frees, aids
+   Q: Nearby is the Shaker Temple, the great temple of the Earth goddesses protected by dread Maran Gor.
+[P5-A-B0001-009] S=['PURE HORSE PEOPLE', 'FEATHERED HORSE QUEEN'] P=rules O=['GRAZELANDS'] implicit=False ps="ruled over by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Nestled south of Kero Fin are the hills and valleys of the Grazelands, ruled over by the Pure Horse People and their Feathered Horse Queen.
+[P5-A-B0001-010] S=['FEATHERED HORSE QUEEN'] P=protects O=['FARMERS'] implicit=False ps="are under the protection of" sug=one of: protects, rescues / frees, aids
+   Q: The valleys are inhabited by farmers who pay tribute to the Pure Horse People and are under the protection of the Feathered Horse Queen.
+[P5-A-B0001-011] S=['A LUNAR DYNASTY'] P=rules O=['TARSH'] MOD={"in_on_at": "FURTHEST"} implicit=False ps="ruled from the city of Furthest by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: To the west and north of Kero Fin is Tarsh, a powerful kingdom now ruled from the city of Furthest by a Lunar dynasty loyal to the Red Empire.
+[P5-A-B0001-012] S=['DARA HAPPA'] P=comes into being O=[] MOD={"at_the_instigation_of": ["FIRE GODS"]} implicit=False ps="was founded by" sug=founds
+   Q: Dara Happa was founded by the Fire Gods during the Golden Age but barely survived the Gods War.
+[P5-A-B0001-013] S=['DARA HAPPA'] P=fights O=['ORLANTHI'] implicit=True ps="has long contested with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: It recovered in Time and has long contested with the Orlanthi.
+[P5-A-B0001-014] S=['FOREIGN INVADERS'] P=defeats O=['DARA HAPPA'] implicit=False ps="was conquered and oppressed by" sug=conquers
+   Q: After Dara Happa was conquered and oppressed by foreign invaders
+[P5-A-B0001-015] S=['SEVEN DESPERATE INDIVIDUALS'] P=resurrects O=['RED MOON GODDESS'] MOD={"via": ["FORBIDDEN PATHS"]} implicit=False ps="traveled forbidden paths and resurrected" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: seven desperate individuals traveled forbidden paths and resurrected the Red Moon goddess
+[P5-A-B0001-016] S=['RED MOON'] P=manifests chaos taint O=[] implicit=True ps="embraced Chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: This new goddess embraced Chaos and was not subject to the limitations that other gods had agreed to in order to begin Time.
+[P5-A-B0001-017] S=['RED MOON'] P=fights O=['ORLANTH'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="starting a mythico-magical feud with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She sought to reclaim her place in the heavens, starting a mythico-magical feud with Orlanth the Storm God.
+[P5-A-B0001-018] S=['RED EMPEROR'] P=is child of O=['RED MOON'] implicit=True ps="her son" sug=is child of
+   Q: She is the goddess of the Lunar Empire and her son, the ever-reincarnating Red Emperor, rules the empire in her name.
+[P5-A-B0001-019] S=['RED EMPEROR'] P=rules O=['LUNAR EMPIRE'] MOD={"in_accordance_with": ["RED MOON"]} implicit=True ps="rules the empire in her name" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: her son, the ever-reincarnating Red Emperor, rules the empire in her name.
+[P5-A-B0001-020] S=['RED MOON'] P=rules O=['LUNAR EMPIRE'] implicit=True ps="is the goddess of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: She is the goddess of the Lunar Empire
+[P5-A-B0001-021] S=['HOUSE OF SARTAR'] P=fights O=['RED EMPEROR'] implicit=False ps="terrible feud between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: tell the story of this terrible feud between the House of Sartar and the Red Emperor.
+[P5-A-B0001-022] S=['ARGRATH'] P=illuminates O=['FLAME OF SARTAR'] MOD={"in_on_at": "BOLDHOME"} implicit=False ps="has relit" sug=illuminates
+   Q: Even as your ally Argrath has relit the Flame of Sartar in Boldhome
+[P5-A-B0001-023] S=['THE RAZORESS'] P=is alternative name for O=['JAR-EEL'] implicit=False ps="Jar-eel the Razoress" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the moonlit radiance of Jar-eel the Razoress at his side.
+[P5-A-B0001-024] S=['THE DRAGONS'] P=binds O=['THE DRAGONS'] MOD={"in_accordance_with": ["COSMIC COMPROMISE"]} implicit=False ps="had agreed to restrain themselves" sug=binds
+   Q: By the Cosmic Compromise, the Dragons had agreed to restrain themselves and ignore the terrestrial world's events.
+[P5-A-B0001-025] S=['INHUMAN KING'] P=rules O=['DRAGONEWTS'] implicit=False ps="ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The dragonewts, ruled by their Inhuman King, seemed to care nothing for the rest of the world as long as their nest cities were left in peace.
+[P5-A-B0001-026] S=['HUMANS', 'NONHUMANS'] P=is member of O=['UNITY COUNCIL'] implicit=False ps="a union including" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Dragon Pass was home to the Unity Council, a union including humans and nonhumans, men and women, mortals and divinities.
+[P5-A-B0001-027] S=['SECOND COUNCIL'] P=comes into being O=[] implicit=False ps="forced the formation of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Inside dissension and outside enemies forced the formation of the Second Council, a warlike empire, which grew in arrogance and power until they dreamed of bringing back the God Time.
+[P5-A-B0001-028] S=['GBAJI'] P=comes into being O=[] implicit=False ps="the birth of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The experiment ended in the birth of Gbaji the Chaos God, whose reign of terror kept Glorantha at war with itself for 75 years.
+[P5-A-B0001-029] S=['DRAGONEWTS'] P=teaches O=['HUMANS OF DRAGON PASS'] MOD={"at_the_instigation_of": ["HUMANS OF DRAGON PASS"]} implicit=False ps="persuaded the Dragonewts to speak to them of the Dragons" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: After centuries of war and turmoil, the humans of Dragon Pass persuaded the Dragonewts to speak to them of the Dragons.
+[P5-A-B0001-030] S=['EMPIRE OF THE WYRMS FRIENDS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["HUMANS OF DRAGON PASS"]} implicit=True ps="formed" sug=founds
+   Q: They formed the Empire of the Wyrms Friends.
+[P5-A-B0001-031] S=['VEIL OF THE BLUE MOON'] P=is alternative name for O=['ERIAYALAIA'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Eriayalaia, called the Veil of the Blue Moon, met in the Dragon's Eye with the Inhuman King.
+[P5-A-B0001-032] S=['ERIAYALAIA'] P=travels O=[] IO=['INHUMAN KING'] MOD={"in_on_at": "DRAGON'S EYE"} implicit=False ps="met in the Dragon's Eye with" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Eriayalaia, called the Veil of the Blue Moon, met in the Dragon's Eye with the Inhuman King.
+[P5-A-B0001-033] S=['DRAGONEWTS'] P=defeats O=['EMPIRE OF THE WYRMS FRIENDS'] implicit=True ps="rose and crushed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In 1042 ST, Dragonewts rose and crushed the heart of the once-mighty civilization.
+[P5-A-B0001-034] S=['THE HUMAN ALLIES'] P=fights O=['DRAGONEWTS'] implicit=False ps="turned against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Some generations later, the human allies aiding the destruction of the empire turned against the dragonewts.
+[P5-A-B0001-035] S=['THE ASSEMBLED HUMAN ARMIES'] P=fights O=['THE DRAGONS'] MOD={"in_on_at": "DRAGON PASS"} implicit=True ps="met" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the assembled human armies met those who would mourn the loss of dragonewts.
+[P5-A-B0001-036] S=['THE DRAGONS'] P=travels O=[] MOD={"to": "DRAGON PASS", "purpose_clause": "TO PROTECT"} implicit=True ps="assembled in their ancestral home" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The dragons from across all Time and Space assembled in their ancestral home to preserve the purity of their birthplace.
+[P5-A-B0001-037] S=['DRAGONEWTS'] P=rules O=['DRAGON PASS'] implicit=True ps="were initially the dominant race in" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Dragonewts, who had struck fear and awe into the other non-humans as well, and were initially the dominant race in the Pass.
+[P5-A-B0001-038] S=['BROWN ELVES'] P=travels O=[] MOD={"from": "the south"} implicit=False ps="rapid immigration from the south by" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Aldryami, mostly in the Stinking Forest, but also with rapid immigration from the south by Brown Elves.
+[P5-A-B0001-039] S=['EMPIRE OF THE WYRMS FRIENDS'] P=binds O=['BEASTMEN'] implicit=True ps="had been held by" sug=binds
+   Q: Many had been held by the Empire of the Wyrms Friends as zoo specimens, pets, laboratory freaks, and demi-beasts.
+[P5-A-B0001-040] S=['DUCKS'] P=fights O=['UNDEAD OF THE UPLAND MARSHES'] implicit=False ps="were experts at fighting" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the ducks, who were experts at fighting the undead of the Upland Marshes
+[P5-A-B0001-041] S=['WASP RIDERS'] P=fights O=['BEE-RIDERS OF THE HOLY COUNTRY'] implicit=False ps="carried on a long feud with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the Wasp Riders, who carried on a long feud with the bee-riders of the Holy Country
+[P5-A-B0002-001] S=['MOSTALI OF DWARF MINE'] P=bestows magic / gifts O=['MAGICAL OR CURSED WEAPONS AND CHARMS'] IO=['MANKIND'] implicit=False ps="source of magical or cursed weapons and charms for" sug=one of: bestows, heals, imbues, teaches
+   Q: the Mostali of Dwarf Mine, source of magical or cursed weapons and charms for mankind, but full of distrust and hatred for all Aldryami.
+[P5-A-B0002-002] S=['MOSTALI OF DWARF MINE'] P=fights O=['ALDRYAMI'] implicit=False ps="full of distrust and hatred for" sug=hates
+   Q: the Mostali of Dwarf Mine, source of magical or cursed weapons and charms for mankind, but full of distrust and hatred for all Aldryami.
+[P5-A-B0002-003] S=['TROLLS'] P=travels O=[] MOD={"from": "DAGORI INKARTH", "to": "DRAGON PASS"} implicit=True ps="a rapid influx of" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: During this time of peace, there was a rapid influx of other non-humans, especially trolls from Dagori Inkarth.
+[P5-A-B0002-004] S=['KAJAK-AB'] P=rules O=['TROLLS FROM DAGORI INKARTH'] implicit=False ps="led" sug=leads
+   Q: Kajak-Ab the Braineater, a Mistress Race troll who led the trolls from Dagori Inkarth
+[P5-A-B0002-005] S=['KAJAK-AB'] P=is member of O=['MISTRESS RACE'] implicit=False ps="a Mistress Race troll" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Kajak-Ab the Braineater, a Mistress Race troll
+[P5-A-B0002-006] S=['THE BRAINEATER'] P=is alternative name for O=['KAJAK-AB'] implicit=False ps="Kajak-Ab the Braineater" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Kajak-Ab the Braineater
+[P5-A-B0002-007] S=['VAMARGIC EYE-NECKLACE'] P=rules O=['TROLLS FROM THE TROLL WOODS'] implicit=False ps="led" sug=leads
+   Q: her rival Vamargic Eye-necklace, who led the trolls from the Troll Woods in the Holy Country.
+[P5-A-B0002-008] S=['VAMARGIC EYE-NECKLACE'] P=fights O=['KAJAK-AB'] implicit=True ps="her rival; began their fighting" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: her rival Vamargic Eye-necklace || Around 1180, the two Dark Troll swarms began their fighting.
+[P5-A-B0002-009] S=['VAMARGIC EYE-NECKLACE'] P=is member of O=['GREAT TROLLS'] implicit=True ps="was a Great Troll" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: He was unusual, first because he was a Great Troll, who are almost always of low intelligence, and second because his parents were both cave trolls.
+[P5-A-B0002-010] S=['VAMARGIC EYE-NECKLACE'] P=is child of O=['CAVE TROLLS'] implicit=True ps="his parents were both" sug=is child of
+   Q: his parents were both cave trolls.
+[P5-A-B0002-011] S=['VAMARGIC EYE-NECKLACE'] P=serves O=['ZORAK ZORAN'] implicit=True ps="worshiped" sug=is worshipped by
+   Q: He worshiped Zorak Zoran.
+[P5-A-B0002-012] S=['KARASTRAND HALFTROLL'] P=rules O=['GIANT BOAR-TROLLS OF THE IVORY PLINTH'] implicit=True ps="was leader of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Karastrand was leader of the giant boar-trolls of the Ivory Plinth
+[P5-A-B0002-013] S=['GIANT BOAR-TROLLS OF THE IVORY PLINTH'] P=fights O=['ALDRYAMI'] implicit=True ps="incessant war with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: whose incessant war with the Aldryami gave the pleasant woods that unwholesome name.
+[P5-A-B0002-014] S=['BEASTMEN', 'DRAGONEWTS'] P=fights O=['TROLLS'] implicit=True ps="launched a surprise attack with dragonewt allies" sug=invades / raids
+   Q: the small enemy force of Beastmen who assembled and launched a surprise attack with dragonewt allies.
+[P5-A-B0002-015] S=['AN ARMY'] P=travels O=[] MOD={"to": "south", "at_the_command_of": ["GERAK KAG"]} implicit=False ps="marched south" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: An army marched south in 1237, led by Gerak Kag.
+[P5-A-B0002-016] S=['THE INFANTRY ARMY OF TROLLS'] P=fights O=['PRAXIAN MOUNTED TROOPS'] MOD={"in_on_at": "PAIRING STONES"} implicit=False ps="met" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: At the Pairing Stones, the infantry army of trolls met a superior force of Praxian mounted troops, eager to do battle in the daytime.
+[P5-A-B0002-017] S=['HELLMOTHERS'] P=manifests O=['STINKING BLACK CLOUD'] implicit=False ps="released" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: But the Hellmothers released a stinking black cloud
+[P5-A-B0002-018] S=['PEOPLE OF KETHAELA'] P=is member of O=['UNITY COUNCIL', 'EMPIRE OF THE WYRMS FRIENDS'] implicit=False ps="were members of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The people of Kethaela are kin to those of Dragon Pass and were members of the Unity Council and the Empire of the Wyrms Friends.
+[P5-A-B0002-019] S=['ERNALDA'] P=manifests O=[] MOD={"in_on_at": "ESROLIA"} implicit=False ps="lives here in" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The Earth Goddess Ernalda lives here in the land of Esrolia.
+[P5-A-B0002-020] S=['VINGKOTLING KINGS'] P=rules O=['ESROLIA'] implicit=True ps="made their capital there" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The divine line of Vingkotling kings made their capital there, until kinstrife tore them apart
+[P5-A-B0002-021] S=['ESROLIAN GRANDMOTHERS'] P=bestows magic / gifts O=['POWER'] IO=['QUEENS'] implicit=False ps="gave power to" sug=one of: bestows, heals, imbues, teaches
+   Q: the Esrolian Grandmothers gave power to the queens.
+[P5-A-B0002-022] S=['HEORTLAND'] P=is alternative name for O=['HENDRIKILAND'] implicit=False ps="sometimes called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Hendrikiland, an Orlanthi kingdom sometimes called Heortland after the survival hero of the Great Darkness
+[P5-A-B0002-023] S=['ONLY OLD ONE'] P=rules O=['SHADOW PLATEAU'] MOD={"in_on_at": "PALACE OF BLACK GLASS"} implicit=False ps="ruled the Shadow Plateau from" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: All paid tribute to the Darkness demigod called The Only Old One, who ruled the Shadow Plateau from his Palace of Black Glass.
+[P5-A-B0002-024] S=['THE SIX PEOPLES OF KETHAELA'] P=serves O=['ONLY OLD ONE'] implicit=True ps="paid tribute to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: All paid tribute to the Darkness demigod called The Only Old One
+[P5-A-B0002-025] S=['BELINTAR'] P=travels O=[] MOD={"from": "the sea"} implicit=False ps="arrived from the sea" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In 1313, nearly two centuries after the Dragonkill War, a stranger arrived from the sea. || The stranger called himself Belintar, and was human.
+[P5-A-B0002-026] S=['FISHERMEN'] P=fights O=['TROLLS'] MOD={"in_on_at": "CHORALINTHOR BAY"} implicit=False ps="were old enemies of" sug=hates
+   Q: the fishermen who plied their trade upon the calm Choralinthor Bay and who were old enemies of the trolls who ruled the land.
+[P5-A-B0002-027] S=['BELINTAR'] P=manifests O=['SILVER AGE HEROES OF KETHAELA'] implicit=False ps="the summoning of" sug=summons / invokes
+   Q: Belintar possessed great powers, and among other miracles that he performed was the summoning of the Silver Age Heroes of Kethaela.
+[P5-A-B0002-028] S=['BELINTAR'] P=challenges O=['ONLY OLD ONE'] MOD={"with_the_aid_of": ["SILVER AGE HEROES OF KETHAELA"]} implicit=True ps="confronted" sug=one of: challenges, breaks oath, betrays, fights
+   Q: With their aid, Belintar finally confronted the Only Old One, son of Argan Argar who reigned over Kethaela.
+[P5-A-B0002-029] S=['ONLY OLD ONE'] P=is child of O=['ARGAN ARGAR'] implicit=False ps="son of" sug=is child of
+   Q: the Only Old One, son of Argan Argar who reigned over Kethaela.
+[P5-A-B0002-030] S=['ESROLIA'] P=serves O=['BELINTAR'] implicit=False ps="gained the loyalty of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Belintar was accepted by the Grandmothers of Esrolia, and gained the loyalty of that rich land.
+[P5-A-B0002-031] S=['BELINTAR'] P=resurrects O=['HENDRIKI KING'] implicit=True ps="resurrected" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: He even resurrected the Hendriki king, although that was never fully accepted by the Orlanth cult
+[P5-A-B0002-032] S=['HOLY COUNTRY'] P=is alternative name for O=["BELINTAR'S LAND"] MOD={"at_the_instigation_of": ["BELINTAR"]} implicit=False ps="called his land" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Belintar called his land the Holy Country
+[P5-A-B0002-033] S=['GRAZELANDERS'] P=is member of O=['PURE HORSE PEOPLES'] implicit=False ps="are one of the few remaining" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Grazelanders are one of the few remaining Pure Horse Peoples in Glorantha.
+[P5-A-B0002-034] S=['HORSE-RIDING NOMADS IN PENT'] P=serves O=['SUN HORSE'] implicit=False ps="continue to worship" sug=is worshipped by
+   Q: Most of the horse-riding nomads in Pent continue to worship the Sun Horse, but have compromised the Old Way to include the enslavement of the Cow Goddess.
+[P5-A-B0002-035] S=['HORSE-RIDING NOMADS IN PENT'] P=binds O=['COW GODDESS'] implicit=False ps="the enslavement of" sug=binds
+   Q: Most of the horse-riding nomads in Pent continue to worship the Sun Horse, but have compromised the Old Way to include the enslavement of the Cow Goddess.
+[P5-A-B0002-036] S=['PURE HORSE PEOPLE'] P=rules O=['HORSE TRIBES'] implicit=False ps="were the nobility of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Soon the Pure Horse People were the nobility of the horse tribes.
+[P5-A-B0002-037] S=['ONE CLAN OF PURE HORSE PEOPLE'] P=serves O=['EMPIRE OF THE WYRMS FRIENDS'] MOD={"purpose_clause": "TO AID"} implicit=False ps="was hired by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: One clan of Pure Horse People was hired by the Empire of the Wyrms Friends around 740 to aid in the conquest of Prax.
+[P5-A-B0002-038] S=['EMPIRE OF THE WYRMS FRIENDS'] P=defeats O=['ANIMAL NOMADS'] implicit=True ps="overwhelmed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the long-term preparations of the Empire overwhelmed the Animal Nomads
+[P5-A-B0002-039] S=['PAVIS'] P=comes into being O=[] MOD={"in_on_at": "PRAX"} implicit=False ps="was founded" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: About this time Pavis was founded in Prax
+[P5-A-B0002-040] S=['ANIMAL NOMADS'] P=travels O=[] MOD={"to": "WASTES OF GENERTELA"} implicit=False ps="began their migration into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: many Animal Nomads began their migration into the wastes of Genertela.
+[P5-A-B0002-041] S=['HIIA SWORDMAN'] P=is member of O=['HUMAKTI'] implicit=False ps="a Humakti" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: There is another tale of Hiia Swordman, a Humakti who died in order to pass the Crossline and enter Dragon Pass even earlier.
+[P5-A-B0002-042] S=['HIIA SWORDMAN'] P=travels O=[] MOD={"to": "DRAGON PASS", "via": ["CROSSLINE"]} implicit=False ps="died in order to pass the Crossline and enter" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: There is another tale of Hiia Swordman, a Humakti who died in order to pass the Crossline and enter Dragon Pass even earlier.
+[P5-A-B0002-043] S=['HIIA SWORDMAN'] P=travels O=['PURE HORSE PEOPLE'] MOD={"to": "IRONHOOF"} implicit=True ps="guided them to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: It was Hiia who met the Pure Horse People in the hills and guided them to Ironhoof.
+[P5-A-B0002-044] S=['HIIA SWORDMAN'] P=manifests O=[] MOD={"in_on_at": "A CULT OF WEAPONS MASTERS"} implicit=True ps="returned in" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: This swordsman returned in a cult of weapons masters in the time of the Feathered Horse Queen.
+[P5-A-B0002-045] S=['IRONHOOF'] P=claims ancestry O=['GREAT HORSE'] implicit=False ps="his uncle" sug=claims ancestry
+   Q: The demigod Ironhoof was pleased to greet worshipers of his uncle, the Great Horse.
+[P5-A-B0002-046] S=['PURE HORSE PEOPLE'] P=serves O=['GREAT HORSE'] implicit=True ps="worshipers of" sug=is worshipped by
+   Q: The demigod Ironhoof was pleased to greet worshipers of his uncle, the Great Horse.
+[P5-A-B0002-047] S=['IRONHOOF'] P=bestows magic / gifts O=['PURE HORSE PEOPLE'] implicit=True ps="purified them of their curse" sug=one of: bestows, heals, imbues, teaches
+   Q: He purified them of their curse, and granted them all the flat lands north of Beast Valley.
+[P5-A-B0002-048] S=['IRONHOOF'] P=bestows magic / gifts O=['THE FLAT LANDS NORTH OF BEAST VALLEY'] IO=['PURE HORSE PEOPLE'] implicit=True ps="granted them" sug=one of: bestows, heals, imbues, teaches
+   Q: He purified them of their curse, and granted them all the flat lands north of Beast Valley.
+[P5-A-B0002-049] S=['JANNISOR'] P=binds O=['MAD SULTANS'] MOD={"in_on_at": "TORK"} implicit=False ps="had bound" sug=binds
+   Q: Led by the hero Jannisor Moonchaser, who had bound the Mad Sultans within the lands of Tork
+[P5-A-B0002-050] S=['THIS CONFEDERATION'] P=fights O=['RED EMPEROR'] MOD={"to": "GLAMOUR", "at_the_command_of": ["JANNISOR"]} implicit=True ps="rebelled against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: this confederation rebelled against the Red Emperor and marched on Glamour, capital of the Lunar Empire.
+[P5-A-B0002-051] S=['RED GODDESS'] P=illuminates O=['SABLE RIDERS'] implicit=False ps="were Illuminated by" sug=illuminates
+   Q: the Sable Riders were Illuminated by the Red Goddess.
+[P5-A-B0002-052] S=['SABLE RIDERS'] P=departs from O=['JANNISOR'] implicit=True ps="betrayed" sug=betrays
+   Q: They betrayed Jannisor and the rebellion quickly collapsed.
+[P5-A-B0002-053] S=['RED EMPEROR'] P=fights O=['SOUTHERN KINGDOMS'] implicit=False ps="began his conquest of" sug=conquers
+   Q: With the Heartlands reduced to absolute loyalty, then the Red Emperor began his conquest of the southern kingdoms.
+[P5-A-B0002-054] S=['LUNARS'] P=shatters O=['RIST'] MOD={"using": "MOONBURN"} implicit=False ps="unleashed the Moonburn on" sug=shatters
+   Q: In 1296, the Lunars unleashed the Moonburn on the Aldryami forest of Rist, bringing great gouts of crimson fire down from the heavens to splash across Rist, turning even their Great Tree into a cindered stump.
+[P5-A-B0002-055] S=['THE FEW SURVIVING ALDRYAMI'] P=travels O=[] MOD={"from": "RIST", "to": "DORASTOR"} implicit=True ps="marched into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The few surviving Aldryami abandoned the charred corpses of all their immobile vegetable kinfolk and marched into Dorastor.
+[P5-A-B0002-056] S=['HUMANS OF THE SOUTHERN KINGDOMS'] P=defeats O=['LUNAR PROBES'] implicit=False ps="turned back" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The humans of the southern kingdoms turned back Lunar probes with heavy losses on both sides.
+[P5-A-B0002-057] S=['HWARIN DALTHIPPA'] P=is child of O=['RED EMPEROR'] implicit=True ps="one of his daughters" sug=is child of
+   Q: Yet the Son of the Moon was not necessary for the conquest; instead he left it to one of his daughters, Hwarin Dalthippa the Conquering Daughter.
+[P5-A-B0002-058] S=['CONQUERING DAUGHTER'] P=is alternative name for O=['HWARIN DALTHIPPA'] implicit=False ps="Hwarin Dalthippa the Conquering Daughter" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Hwarin Dalthippa the Conquering Daughter.
+[P5-A-B0002-059] S=['HWARIN DALTHIPPA'] P=rules O=['SYLILA'] implicit=False ps="made herself the ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In short order, Hwarin Dalthippa made herself the ruler of Sylila, replacing the Bison dynasty
+[P5-A-B0002-060] S=['HWARIN DALTHIPPA'] P=substitutes O=['BISON DYNASTY'] implicit=False ps="replacing" sug=substitutes
+   Q: In short order, Hwarin Dalthippa made herself the ruler of Sylila, replacing the Bison dynasty
+[P5-A-B0002-061] S=["JILLARO-OF-THE-PRINCE'S GREEN"] P=comes into being O=[] MOD={"at_the_instigation_of": ["HWARIN DALTHIPPA"]} implicit=True ps="founded the city of" sug=founds
+   Q: in 1326 founded the city of Jillaro-of-the-Prince's Green.
+[P5-A-B0002-062] S=['HWARIN DALTHIPPA'] P=claims ancestry O=['RED MOON'] implicit=True ps="the granddaughter of" sug=claims ancestry
+   Q: the caravan of the granddaughter of the Red Moon, the young princess assembled engineers and builders to make a proper road for her to travel upon.
+[P5-A-B0002-063] S=['HWARIN DALTHIPPA'] P=travels O=['BLUE FUR-STONES'] MOD={"to": "HILLTOWN"} implicit=True ps="finally obtained" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: There Hwarin Dalthippa finally obtained her blue fur-stones.
+[P5-A-B0002-064] S=['HWARIN DALTHIPPA'] P=initiates into cult O=['UNRULY HILLFOLK'] IO=['RED GODDESS'] implicit=True ps="combined to convert" sug=initiates into cult
+   Q: Lunar poets claim that the music from the temples, the commerce from the caravans, and the beauty of the Emperor's daughter all combined to convert the unruly hillfolk to the benefits of the Empire and its Red Goddess.
+[P5-A-B0002-065] S=['GRAZELANDERS'] P=serves O=['TARSH ARMY'] implicit=False ps="provided such excellent cavalry support" sug=aids
+   Q: The Tarsh army was almost all infantry at this point, because the Grazelanders provided such excellent cavalry support, even against the horse barbarians of Pent.
+[P5-A-B0002-066] S=['GRAZELANDERS'] P=fights O=["SHAKER'S TEMPLE"] implicit=False ps="rode against" sug=invades / raids
+   Q: The Grazelanders rode against the Shaker's Temple, but were defeated among the groves that surround the holy ground.
+[P5-A-B0002-067] S=['YARANDROS'] P=is child of O=['OVARTIEN'] implicit=False ps="Ovartien's son" sug=is child of
+   Q: Ovartien's son Yarandros was the fourth king (ruled 1395–1440), and took the kingdom after his father retired.
+[P5-A-B0002-068] S=['YARANDROS'] P=rules O=['TARSH'] implicit=True ps="was the fourth king" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Ovartien's son Yarandros was the fourth king (ruled 1395–1440), and took the kingdom after his father retired.
+[P5-A-B0002-069] S=['YARANDROS'] P=steals O=['SACRED STALLION'] MOD={"from": "GRAZELANDERS"} implicit=True ps="stole" sug=steals
+   Q: As part of a heroquest he stole a sacred stallion from the Grazelanders and provoked them to war because he refused to return it.
+[P5-A-B0002-070] S=['YARANDROS'] P=rides O=['GLAD LEAPER'] implicit=False ps="Upon his steed" sug=rides
+   Q: Upon his steed, named Glad Leaper, Yarandros was the equal of any Pure Horse rider.
+[P5-A-B0003-001] S=['YARANDROS'] P=travels O=[] MOD={"to": "PRAX", "purpose_clause": "TO OBTAIN"} implicit=False ps="entered" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: To replace his lost allies, Yarandros entered Prax, presented himself as a conqueror from magical Dragon Pass, and killed several chieftains in single combat to prove it.
+[P5-A-B0003-002] S=['YARANDROS'] P=kills O=['SEVERAL CHIEFTAINS'] MOD={"in_on_at": "PRAX"} implicit=False ps="killed several chieftains in single combat" sug=one of: kills, shatters, dies
+   Q: To replace his lost allies, Yarandros entered Prax, presented himself as a conqueror from magical Dragon Pass, and killed several chieftains in single combat to prove it.
+[P5-A-B0003-003] S=['ANIMAL NOMADS'] P=serves O=['YARANDROS'] implicit=False ps="provided cavalry for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Awed at first, then simply bought, the Animal Nomads provided cavalry for Yarandros' early wars.
+[P5-A-B0003-004] S=['ONE OF THE ANIMAL NOMADS'] P=discovers O=['JALDON GOLDENTOOTH'] implicit=True ps="discovered that Jaldon Goldentooth could be summoned" sug=discovers
+   Q: one of them discovered that Jaldon Goldentooth, the famous Raider Khan, could be summoned to lead bands of them to raid the Pass.
+[P5-A-B0003-005] S=['RAIDER KHAN'] P=is alternative name for O=['JALDON GOLDENTOOTH'] implicit=False ps="the famous Raider Khan" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Jaldon Goldentooth, the famous Raider Khan
+[P5-A-B0003-006] S=['TARSH'] P=defeats O=['AN INVASION'] implicit=False ps="defeated only at the greatest difficulty" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: An invasion was mounted, and defeated only at the greatest difficulty by Tarsh and her allies.
+[P5-A-B0003-007] S=['CHARGE-CRAZY'] P=is alternative name for O=['YARANDROS'] implicit=False ps="is surnamed" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yarandros, who is surnamed the "Charge-crazy" because of his headlong assaults on enemy formations
+[P5-A-B0003-008] S=['TARSH TWINS DYNASTY'] P=comes into being O=[] implicit=False ps="was founded" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: In 1330, the secret altar of the Destructive Earth was discovered in the valley beneath Kero Fin, and the Tarsh Twins dynasty was founded.
+[P5-A-B0003-009] S=['PURE HORSE PEOPLE'] P=fights O=['LUNAR EMPIRE'] implicit=False ps="joined their friends in raiding" sug=invades / raids
+   Q: The Pure Horse People gladly joined their friends in raiding the hated Lunar Empire, and were present at the battle of Falling Hills.
+[P5-A-B0003-010] S=['GRAZELANDERS'] P=departs from O=['TARSH TWINS DYNASTY'] implicit=False ps="severed their friendship with" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: the Grazelanders severed their friendship with the Tarsh Twins dynasty and removed their herds from the lowlands and into the hills.
+[P5-A-B0003-011] S=['FEATHERED HORSE QUEEN'] P=rules O=['GRAZELAND PONY BREEDERS'] implicit=False ps="is the title of the ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Feathered Horse Queen is the title of the ruler of the Grazeland Pony Breeders.
+[P5-A-B0003-012] S=['THE FIRST OF THE QUEENS'] P=defeats O=['HORSE LORDS'] implicit=False ps="whose magic proved stronger than that of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The dynasty was established by the first of the Queens, whose magic proved stronger than that of the horse lords.
+[P5-A-B0003-013] S=['REACHES FARTHEST'] P=is alternative name for O=['ENEERA TOR'] implicit=True ps="Known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Known as "Reaches Farthest."
+[P5-A-B0003-014] S=['ENEERA TOR'] P=is born from O=['EARTH GODDESS'] implicit=True ps="emerged from the womb of" sug=is born from
+   Q: Eneera was born 1430 and emerged from the womb of the Earth Goddess around 1455 as the Feathered Horse Queen.
+[P5-A-B0003-015] S=['ENEERA TOR'] P=defeats O=['KING OF THE GRAZERS'] implicit=True ps="crushed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: For the next fifteen years she fought to assert her authority and in 1470 she crushed the king of the Grazers.
+[P5-A-B0003-016] S=['SUN KING'] P=serves O=['ENEERA TOR'] implicit=True ps="submitted to" sug=submits to
+   Q: The next Sun King submitted to her
+[P5-A-B0003-017] S=['ENEERA TOR'] P=embodies O=['SORANA TOR'] implicit=False ps="proved she was the incarnation of" sug=one of: embodies, has domain
+   Q: In 1495, Eneera Tor proved she was the incarnation of Sorana Tor (and thus the avatar of Kero Fin) when she married Prince Sartar and became the Queen of Dragon Pass.
+[P5-A-B0003-018] S=['ENEERA TOR'] P=embodies O=['KERO FIN'] implicit=False ps="and thus the avatar of" sug=one of: embodies, has domain
+   Q: In 1495, Eneera Tor proved she was the incarnation of Sorana Tor (and thus the avatar of Kero Fin) when she married Prince Sartar and became the Queen of Dragon Pass.
+[P5-A-B0003-019] S=['ENEERA TOR'] P=marries O=['SARTAR'] implicit=False ps="married" sug=is spouse of (qual=wedding)
+   Q: In 1495, Eneera Tor proved she was the incarnation of Sorana Tor (and thus the avatar of Kero Fin) when she married Prince Sartar and became the Queen of Dragon Pass.
+[P5-A-B0003-020] S=['ENEERA TOR'] P=rules O=['DRAGON PASS'] implicit=False ps="became the Queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In 1495, Eneera Tor proved she was the incarnation of Sorana Tor (and thus the avatar of Kero Fin) when she married Prince Sartar and became the Queen of Dragon Pass.
+[P5-A-B0003-021] S=['SARTAR'] P=alters mythic station O=[] implicit=False ps="ascended to godhood" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Sartar ascended to godhood in 1520
+[P5-A-B0003-022] S=['SARONIL'] P=is child of O=['ENEERA TOR'] implicit=False ps="her son" sug=is child of
+   Q: Eneera Tor remained an ally to her son Saronil, who ruled in Boldhome.
+[P5-A-B0003-023] S=['SARONIL'] P=rules O=[] MOD={"in_on_at": "BOLDHOME"} implicit=False ps="ruled in" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: her son Saronil, who ruled in Boldhome.
+[P5-A-B0003-024] S=['SORANA'] P=is sibling of O=['TERASARIN'] implicit=True ps="her half-brother" sug=is sibling of
+   Q: She was close to her half-brother Terasarin
+[P5-A-B0003-025] S=['RED EMPEROR'] P=bestows magic / gifts O=['ARMBANDS OF SARTAR'] IO=['SORANA'] implicit=True ps="received from him" sug=one of: bestows, heals, imbues, teaches
+   Q: she came to terms with the Red Emperor, and received from him the Armbands of Sartar after the fall of Boldhome.
+[P5-A-B0003-026] S=['VIRKALA TOR'] P=is child of O=['SORANA'] implicit=True ps="The daughter of" sug=is child of
+   Q: The daughter of Sorana and an unknown father, she became Feathered Horse Queen upon her mother's death in 1604, taking the title "Riches Without Tears".
+[P5-A-B0003-027] S=['RICHES WITHOUT TEARS'] P=is alternative name for O=['VIRKALA TOR'] implicit=True ps="taking the title" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: taking the title "Riches Without Tears".
+[P5-A-B0003-028] S=['MOIRADES'] P=bestows magic / gifts O=['BRIDE-PRICE'] IO=['VIRKALA TOR'] implicit=True ps="met it and gave even more" sug=one of: bestows, heals, imbues, teaches
+   Q: she issued the Marriage Contest but set her bride-price at an impossible limit, but King Moirades met it and gave even more.
+[P5-A-B0003-029] S=['JAR-EEL'] P=defeats O=['VIRKALA TOR'] implicit=True ps="was challenged by Jar-eel and defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Virkala's beauty and grace was renowned throughout Dragon Pass and the Lunar Provinces, but was challenged by Jar-eel and defeated.
+[P5-A-B0003-030] S=['YORISTINA'] P=is child of O=['ENEERA TOR', 'SARTAR'] implicit=False ps="The daughter of" sug=is child of
+   Q: The daughter of Eneera Tor and Sartar, Yoristina had countless lovers, including allegedly a centaur!
+[P5-A-B0003-031] S=['KEEPS THE CHILDREN'] P=is alternative name for O=['YORISTINA'] implicit=True ps="taking the name" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She became Feathered Horse Queen in 1535, taking the name "Keeps the Children".
+[P5-A-B0003-032] S=['YORISTINA'] P=is sibling of O=['SARONIL'] implicit=True ps="her brother" sug=is sibling of
+   Q: She supported her brother Saronil and her lover Palashee Longaxe but stayed out of their wars with the Lunar Empire.
+[P5-A-B0003-033] S=['SARONIL', 'PALASHEE LONGAXE'] P=fights O=['LUNAR EMPIRE'] implicit=False ps="their wars with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She supported her brother Saronil and her lover Palashee Longaxe but stayed out of their wars with the Lunar Empire.
+[P5-A-B0003-034] S=['MIRINA'] P=is child of O=['SORANA'] implicit=True ps="The daughter of" sug=is child of
+   Q: The daughter of Sorana and an unknown father, she became Feathered Horse Queen in 1610, after the death of her sister.
+[P5-A-B0003-035] S=['SINGLE MATRON WOMAN'] P=is alternative name for O=['MIRINA'] implicit=True ps="took the title" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She took the title "Single Matron Woman," and she never took a lover during her entire reign.
+[P5-A-B0003-036] S=['MIRINA'] P=serves O=['LUNAR EMPIRE'] implicit=True ps="aided" sug=aids
+   Q: She loved war and aided the Lunar Empire in crushing Starbrow's Rebellion, invading Prax, and the conquest of the Holy Country.
+[P5-A-B0003-037] S=['MIRINA', 'LUNAR EMPIRE'] P=defeats O=["STARBROW'S REBELLION"] implicit=True ps="crushing" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: She loved war and aided the Lunar Empire in crushing Starbrow's Rebellion
+[P5-A-B0003-038] S=['VISTERA'] P=fights O=['MIRINA'] implicit=True ps="led a rebellion against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She was killed fighting in Esrolia in 1623, while her sister Vistera led a rebellion against her.
+[P5-A-B0003-039] S=['VISTERA'] P=is sibling of O=['MIRINA'] implicit=True ps="her sister" sug=is sibling of
+   Q: her sister Vistera

@@ -1,0 +1,300 @@
+[P5-B-B0007-009] S=['ALDRYAMI'] P=establishes cult O=['TORCH'] MOD={"in_on_at": "Redwood Forest"} implicit=True ps="worship" sug=is worshipped by
+   Q: The green elves here worship the Torch and keep it healthy.
+[P5-B-B0007-010] S=['GREAT RHINO'] P=descends into O=[] MOD={"in_on_at": "Rhinoceros Rocklands"} implicit=True ps="was killed" sug=one of: descends into, dies
+   Q: This boulder-strewn region is where Great Rhino was killed in the Gods War.
+[P5-B-B0007-011] S=['GOD LEARNERS'] P=steals O=['GIANT CRADLES'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="intercept" sug=steals
+   Q: It is said that in the Second Age the Jrusteli God-Learners would intercept these cradles for the magical knowledge they contained.
+[P5-B-B0007-012] S=['GOD LEARNERS'] P=establishes cult O=['ROBCRADLE'] MOD={"in_on_at": "the River of Cradles"} implicit=True ps="established a settlement" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Eventually, tired of depending on the vagaries of currents and winds in the ocean, the Jrusteli established a settlement far up the River of Cradles, called Robcradle.
+[P5-B-B0007-013] S=['GIANTS'] P=shatters O=['ROBCRADLE'] implicit=True ps="smashed" sug=shatters
+   Q: This drew the wrath of the Giants, and was soon smashed, but its foundations provided the start for the great city of Pavis, which still maintains a precarious existence on the plains.
+[P5-B-B0007-014] S=['GIANTS'] P=transforms into O=['ELEVEN BIG GIANT MOUNTAINS'] implicit=False ps="growing into" sug=transforms into
+   Q: Ancient God Learner writings intimate that this was the end of the great Giant race of the Elder Wilds, and it was from this time that they ceased bearing young and became sedentary, growing into the mountains that are known as the Eleven Big Giant Mountains.
+[P5-B-B0007-015] S=['ARNVISH ARTASH'] P=discovers O=['SEVEN PICTURE WALLS'] implicit=False ps="were discovered by" sug=discovers
+   Q: The Seven Picture Walls were discovered by the Praxian hero Arnvish Artash during the Second Age migrations.
+[P5-B-B0007-016] S=['ARNVISH ARTASH'] P=enters Godtime / Otherworld O=[] MOD={"to": "the Green Age"} implicit=True ps="taken him back to" sug=enters Godtime / Otherworld
+   Q: Their intricate patterning and lifelike scenes were said to have taken him back to the Green Age, where he brought back a missing part of the Wastelands called the Whetstone, which is said to still lie nearby.
+[P5-B-B0007-017] S=['ARNVISH ARTASH'] P=steals O=['WHETSTONE'] MOD={"from": "the Green Age"} implicit=True ps="brought back" sug=steals
+   Q: Their intricate patterning and lifelike scenes were said to have taken him back to the Green Age, where he brought back a missing part of the Wastelands called the Whetstone, which is said to still lie nearby.
+[P5-B-B0007-018] S=['TADA'] P=serves O=['GENERT'] implicit=False ps="served" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Tada was a Hero who served Genert, the ruler of this land in the God Time.
+[P5-B-B0007-019] S=['GENERT'] P=rules O=['PRAX'] implicit=True ps="ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Tada was a Hero who served Genert, the ruler of this land in the God Time.
+[P5-B-B0007-020] S=['TADA'] P=fights O=['CHAOS'] implicit=False ps="became a warrior to fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Tada became a warrior to fight Chaos and threw back many foes before he was slain and torn to bits by Ragnaglar.
+[P5-B-B0007-021] S=['RAGNAGLAR'] P=kills O=['TADA'] implicit=False ps="was slain and torn to bits by" sug=one of: kills, shatters, dies
+   Q: Tada became a warrior to fight Chaos and threw back many foes before he was slain and torn to bits by Ragnaglar.
+[P5-B-B0007-022] S=['TADA'] P=survives as relic O=[] MOD={"in_on_at": "Tada's High Tumulus"} implicit=False ps="are buried under" sug=survives as relic
+   Q: The parts of Tada that were found by his followers are buried under the mountainsized mound called Tada's High Tumulus.
+[P5-B-B0007-023] S=['POLE STAR'] P=fights O=['TIEN', 'THED'] MOD={"in_on_at": "Star Crystal Mountain"} implicit=True ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: This place is where Pole Star fought the Chaos gods Tien and Thed.
+[P5-B-B0007-024] S=['STORM BULL'] P=wounds O=['VRAK KARGH VOZH'] implicit=True ps="gored" sug=wounds
+   Q: This spindly peak was once a Chaos god that Storm Bull gored so hard it turned to stone, leaving Storm Bull's face marked on its side.
+[P5-B-B0007-025] S=['VRAK KARGH VOZH'] P=transforms into O=['VRAK KARGH VOZH MOUNTAIN'] implicit=True ps="turned to stone" sug=transforms into
+   Q: This spindly peak was once a Chaos god that Storm Bull gored so hard it turned to stone, leaving Storm Bull's face marked on its side.
+[P5-B-B0007-026] S=['YELMALIO'] P=establishes cult O=['SUN DOME TEMPLE'] MOD={"in_on_at": "Prax"} implicit=False ps="most important holy place to" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: The goldendomed Sun Dome Temple is the most important holy place to Yelmalio in Prax.
+[P5-B-B0007-027] S=['TADA'] P=rules O=['PRAX'] implicit=True ps="was Khan over" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Praxians say it is the place where the ancient Hero Tada, who was Khan over the land when the giants ruled the world, is buried.
+[P5-B-B0007-028] S=['GIANTS'] P=rules O=['THE WORLD'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Praxians say it is the place where the ancient Hero Tada, who was Khan over the land when the giants ruled the world, is buried.
+[P5-B-B0007-029] S=['TADA'] P=survives as relic O=[] MOD={"in_on_at": "Tada's High Tumulus"} implicit=True ps="is buried" sug=survives as relic
+   Q: The Praxians say it is the place where the ancient Hero Tada, who was Khan over the land when the giants ruled the world, is buried.
+[P5-B-B0007-030] S=['TRIO OF GIANTS'] P=transforms into O=['THREE LITTLE GIANT MOUNTAINS'] MOD={"in_on_at": "between Dagori Inkarth and Balazar"} implicit=True ps="were turned to stone" sug=transforms into
+   Q: This cluster of snow-capped mountains between Dagori Inkarth and Balazar were once a trio of giants that were turned to stone long ago.
+[P5-B-B0007-031] S=['ZOLA FEL'] P=is born from O=['THREE LITTLE GIANT MOUNTAINS'] MOD={"in_on_at": "Prax"} implicit=True ps="give birth to" sug=is born from
+   Q: They give birth to the Zola Fel River which flows into Prax, and it is these giants who used to float their babies down the river to the sea.
+[P5-B-B0007-032] S=['THE TROLLS'] P=steals O=['TORCH'] MOD={"from": "a forgotten god"} implicit=True ps="captured ... as booty" sug=steals
+   Q: This was a tool of a forgotten god, first captured by the trolls as booty.
+[P5-B-B0007-033] S=['HUMAKT'] P=establishes cult O=[] MOD={"in_on_at": "Tourney Altar"} implicit=True ps="center of the Humakt cult" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: This natural stone amphitheatre is the center of the Humakt cult in Prax, and has served as the site of sacred combat since at least the time of Tada.
+[P5-B-B0007-034] S=['DEMON CHILD'] P=is child of O=['CACODEMON', 'A DISEASED BROO'] implicit=False ps="born of" sug=is child of
+   Q: It is ruled by a demon child born of Cacodemon and a diseased broo.
+[P5-B-B0007-035] S=['DEMON CHILD'] P=rules O=['TUNNELED HILLS'] implicit=True ps="is ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: It is ruled by a demon child born of Cacodemon and a diseased broo.
+[P5-B-B0007-036] S=['JAGREKRIAND'] P=strikes O=['UMATH'] implicit=False ps="was struck by" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: The Orlanthi say this is a piece of Umath that fell to earth when the Storm God was struck by Jagrekriand in the Gods War.
+[P5-B-B0007-037] S=['UMATH'] P=transforms into O=["UMATH'S ROCK"] implicit=True ps="fell to earth" sug=transforms into
+   Q: The Orlanthi say this is a piece of Umath that fell to earth when the Storm God was struck by Jagrekriand in the Gods War.
+[P5-B-B0007-038] S=['THUNDERBIRD'] P=embodies O=[] MOD={"in_on_at": "Umath's Rock"} implicit=True ps="home of" sug=one of: embodies, has domain
+   Q: The Praxian nomads believe this is the home of the Thunderbird.
+[P5-B-B0007-039] S=['AN IMMENSE DRAGON'] P=transforms into O=['VAST TEETH HILLS'] implicit=True ps="thought to be the jaw of" sug=transforms into
+   Q: These sharp precipices are thought to be the jaw of an immense dragon, slain in the Gods War.
+[P5-B-B0008-001] S=['GLORIOUS SEVEN'] P=resurrects O=['YELM'] MOD={"to": "SKY DOME"} implicit=False ps="returned to his place" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Before Yelm was returned to his place in the Sky Dome by the efforts of the Glorious Seven
+[P5-B-B0008-002] S=['WAHA'] P=defeats O=['MONSTERS'] MOD={"to": "northward"} implicit=False ps="defeat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Waha led them northward to defeat the monsters plaguing the land.
+[P5-B-B0008-003] S=['ELSTORANA'] P=is child of O=['WAHA'] implicit=False ps="daughter" sug=is child of
+   Q: Elstorana, after whom the area is named, was Waha's long-lived daughter
+[P5-B-B0008-004] S=['DARK EATER'] P=flees to O=[] MOD={"from": "UNDERWORLD"} implicit=False ps="fleeing" sug=flees to
+   Q: it was destroyed and its prisoners released by Dark Eater fleeing from the Underworld.
+[P5-B-B0008-005] S=['CHAVGAZ THE GODGOBBLER'] P=wounds O=['TADA'] implicit=False ps="bitten by" sug=wounds
+   Q: ancient Hero Tada was bitten by a Chaos monster called Chavgaz the Godgobbler
+[P5-B-B0008-006] S=['CANIS CHAOS'] P=is alternative name for O=['CHAVGAZ THE GODGOBBLER'] implicit=False ps="sometimes called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Chaos monster called Chavgaz the Godgobbler, sometimes called Canis Chaos.
+[P5-B-B0008-007] S=['DOLOG'] P=wounds O=['CHAVGAZ THE GODGOBBLER'] implicit=True ps="wounded" sug=wounds
+   Q: Dolog the Giant, went to fight it alone. He could not kill it, though he wounded it many times
+[P5-B-B0008-008] S=['CHAOS WOLVES'] P=is child of O=['CHAVGAZ THE GODGOBBLER'] implicit=True ps="children" sug=is child of
+   Q: Packs of Chaos Wolves, the children of Chavgaz
+[P5-B-B0008-009] S=['COSMIC MOUNTAIN'] P=comes into being O=[] MOD={"from": "THE DEPTHS"} implicit=False ps="pushed upward" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Land began when the Cosmic Mountain pushed upward from the depths.
+[P5-B-B0008-010] S=['EARTH'] P=is child of O=['WATER'] implicit=False ps="child" sug=is child of
+   Q: Earth was good until it failed. Then Water rescued its child.
+[P5-B-B0008-011] S=['CHAOS'] P=defeats O=['THE WORLD'] implicit=False ps="invaded and destroyed" sug=shatters
+   Q: When Chaos invaded and destroyed the world, the center of Earth disappeared.
+[P5-B-B0008-012] S=['MAGASTA'] P=protects O=['THE WORLD'] MOD={"in_on_at": "VOID", "using": "LIFEORIGINATING WATERS"} implicit=False ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: The seas, led by Magasta, saved the world when it filled the Void with lifeoriginating waters.
+[P5-B-B0008-013] S=['JORKAR IRONCLAW'] P=alters mythic station O=["JORKAR'S SEA"] implicit=True ps="made" sug=conceives
+   Q: The area between Slon, Jrustela, and Umathela was made by Jorkar Ironclaw, a rival of Pamalt's in the Storm Age who sought to damage the earth forever.
+[P5-B-B0008-014] S=['JORKAR IRONCLAW'] P=challenges O=['PAMALT'] implicit=False ps="rival of" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Jorkar Ironclaw, a rival of Pamalt's in the Storm Age
+[P5-B-B0008-015] S=['OCEAN OF TERROR'] P=is alternative name for O=['TOGARO OCEAN'] implicit=False ps="Also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Togaro Ocean Also called the Ocean of Terror
+[P5-B-B0008-016] S=['TOGARO OCEAN'] P=travels O=['THE LAND'] implicit=False ps="invade" sug=invades / raids
+   Q: Togaro Ocean Also called the Ocean of Terror because it was the first great body of water to invade the land
+[P5-B-B0008-017] S=['WAERTAG'] P=is child of O=['MALKION', 'LUDOCH MERMAID'] implicit=False ps="born in the God Time as a result of a union between" sug=is child of
+   Q: Waertag, the founder of his race, was born in the God Time as a result of a union between Malkion the Seer and a Ludoch mermaid.
+[P5-B-B0008-018] S=['WAERTAG'] P=establishes cult O=['WAERTAGI'] implicit=True ps="founder of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Waertag, the founder of his race
+[P5-B-B0008-019] S=['WAERTAG', 'FIVE ELDEST CHILDREN OF WAERTAG'] P=kills O=['TRUE DRAGON'] implicit=False ps="slew" sug=one of: kills, shatters, dies
+   Q: Waertag and his five eldest children were the first to make the great dragonships. They summoned an immense True Dragon, which they slew, dissected, and reassembled into Waveshimmer
+[P5-B-B0008-020] S=['WAERTAG', 'FIVE ELDEST CHILDREN OF WAERTAG'] P=transforms into O=['WAVESHIMMER'] implicit=True ps="reassembled into" sug=transforms into
+   Q: They summoned an immense True Dragon, which they slew, dissected, and reassembled into Waveshimmer
+[P5-B-B0008-021] S=['WAERTAGI'] P=pledges oath with O=['BRITHOS'] implicit=False ps="allied with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: The Waertagi have always been allied with Brithos, and they aided each other during the Great Darkness
+[P5-B-B0008-022] S=['WAERTAGI'] P=rules O=[] MOD={"with_the_aid_of": ["TRIOLINI"]} implicit=True ps="preventing any cross-sea passage" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: were aided by the Triolini in preventing any cross-sea passage.
+[P5-B-B0008-023] S=['WAERTAGI'] P=fights O=['FRONELA'] implicit=False ps="launched devastating raids against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Waertagi ships launched devastating raids against Fronela soon after the Dawn
+[P5-B-B0008-024] S=['GOD LEARNERS'] P=is alternative name for O=['JRUSTELI SORCERERS'] implicit=False ps="often called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Jrusteli sorcerers, often called the God Learners
+[P5-B-B0008-025] S=['GOD LEARNERS'] P=manifests O=['TANIAN'] implicit=True ps="summoned" sug=summons / invokes
+   Q: the Jrusteli summoned the god Tanian, who ignited the waters and burned the unburnable.
+[P5-B-B0008-026] S=['TANIAN'] P=kills O=['WAERTAGI', 'TRIOLINI'] implicit=False ps="ignited the waters and burned the unburnable" sug=one of: kills, shatters, dies
+   Q: the god Tanian, who ignited the waters and burned the unburnable. Most of the Waertagi city ships were destroyed to the last inhabitant, along with nearly the whole of the Triolini host.
+[P5-B-B0008-027] S=['WAERTAGI'] P=descends into O=[] MOD={"to": "MAGASTA'S POOL"} implicit=False ps="sailed down" sug=one of: descends into, dies
+   Q: The Closing also drove several Waertagi dragonships ashore, but several more joined together and sailed down Magasta's Pool.
+[P5-B-B0008-028] S=['WAERTAGI CITY SHIPS'] P=is born from O=['GIANT SEA DRAGONS'] implicit=True ps="magically made from" sug=is born from
+   Q: ships which were magically made from the living bodies of giant sea dragons.
+[P5-B-B0008-029] S=['WAERTAGI'] P=manifests O=[] implicit=True ps="natural affinity" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: They have a natural affinity to the sea and other waters.
+[P5-B-B0008-030] S=['WAERTAGI'] P=comes into being O=[] MOD={"from": "DANMALASTAN"} implicit=False ps="originally born in" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Although originally born in Danmalastan, the Waertagi quickly spread across all the seas.
+[P5-B-B0008-031] S=['WOLF PIRATES'] P=defeats O=['HOLY COUNTRY NAVY'] implicit=False ps="badly defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Holy Country navy was seriously weakened in 1616, when it was badly defeated by Wolf Pirates
+[P5-B-B0008-032] S=['BELINTAR'] P=departs from O=[] implicit=False ps="disappeared" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: and the God-King Belintar disappeared.
+[P5-B-B0009-001] S=['CHAOS'] P=shatters O=['THE SPIKE'] implicit=False ps="blasted" sug=shatters
+   Q: the whole region was part of the single huge mountain called the Spike until blasted by Chaos.
+[P5-B-B0009-002] S=['ISLAND OF VIRTUE'] P=is alternative name for O=['BOLOASTAGOS'] implicit=False ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Boloastagos is the Island of Virtue.
+[P5-B-B0009-003] S=['KYLERA'] P=is child of O=['MOTHER EARTH'] implicit=False ps="one of her daughters" sug=is child of
+   Q: Mother Earth condemned Kylera, one of her daughters, for becoming pregnant with Trickster and forbade her to give birth on any earth.
+[P5-B-B0009-004] S=['KYLERA'] P=steals O=['DIRT'] implicit=False ps="stole" sug=steals
+   Q: Kylera stole some dirt and swam away, and the land quickly grew large enough to support a populace who worshiped her son, Eurmal, after he was born.
+[P5-B-B0009-005] S=['EURMAL'] P=is child of O=['KYLERA'] implicit=True ps="her son" sug=is child of
+   Q: the land quickly grew large enough to support a populace who worshiped her son, Eurmal, after he was born.
+[P5-B-B0009-006] S=['ISLAND BEAST'] P=is alternative name for O=['LEVIATHAN'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Leviathan, also called the Island Beast, is a great creature which lives in the oceans of Glorantha.
+[P5-B-B0009-007] S=['HAPPY CONQUERORS'] P=defeats O=['ANTIGODS OF SORTUM'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: After great adventures and challenges, the Happy Conquerors defeated the antigods of Sortum and established a long peace.
+[P5-B-B0009-008] S=['BLACK SUN'] P=is alternative name for O=['SEKEVER'] implicit=False ps="the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: From Sortum, the Four Hands of Evil – the antigods Herespur, Bodastu, Akorgat the Sky Tyrant, and Sekever the Black Sun – conquered the skies and overcame the Golden Archer Prince.
+[P5-B-B0009-009] S=['FOUR HANDS OF EVIL'] P=defeats O=['GOLDEN ARCHER PRINCE'] implicit=False ps="overcame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: From Sortum, the Four Hands of Evil – the antigods Herespur, Bodastu, Akorgat the Sky Tyrant, and Sekever the Black Sun – conquered the skies and overcame the Golden Archer Prince.
+[P5-B-B0009-010] S=['FOUR HANDS OF EVIL'] P=shatters O=['THE SPIKE'] implicit=True ps="shattered" sug=shatters
+   Q: The Four Hands then shattered the Spike and conquered the world.
+[P5-B-B0009-011] S=['AVANAPUR'] P=defeats O=['HERESPUR'] implicit=False ps="was defeated by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Herespur was defeated by an even more powerful antigod, Avanapur the Lord of Nightmares, and the remaining Hands swore obeisance to Avanapur.
+[P5-B-B0009-012] S=['REMAINING HANDS OF EVIL'] P=pledges oath with O=['AVANAPUR'] implicit=True ps="swore obeisance to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: the remaining Hands swore obeisance to Avanapur.
+[P5-B-B0009-013] S=['MASHUNASAN'] P=defeats O=['AVANAPUR'] implicit=False ps="proved ... to be unreal and transitory" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: When Avanapur confronted Mashunasan, the great mystic proved the Lord of Nightmares to be unreal and transitory.
+[P5-B-B0009-014] S=['HENSARAVA'] P=wounds O=['SKY TYRANT'] MOD={"using": "BOLTS OF TRUTH"} implicit=False ps="pierced" sug=wounds
+   Q: At the same time, Hensarava pierced the Sky Tyrant with his bolts of truth and the Star Eater fell to earth and shattered into pieces.
+[P5-B-B0009-015] S=['STAR EATER'] P=is alternative name for O=['SKY TYRANT'] implicit=False ps="the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: At the same time, Hensarava pierced the Sky Tyrant with his bolts of truth and the Star Eater fell to earth and shattered into pieces.
+[P5-B-B0009-016] S=['SONS OF THE BOLT'] P=defeats O=['ANDINS'] MOD={"at_the_instigation_of": ["DARJA DANAD"]} implicit=False ps="drove ... back to their own islands" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Sons of the Bolt, led by Darja Danad, drove the Andins back to their own islands.
+[P5-B-B0009-017] S=['DEMONS'] P=defeats O=['SONS OF THE BOLT'] implicit=True ps="were driven off by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: They then sailed to attack Sortum, the stronghold of the antigods, but were driven off by the demons with great loss.
+[P5-B-B0009-018] S=['HEROES'] P=defeats O=['ANTIGODS'] implicit=True ps="were defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The antigods were defeated.
+[P5-B-B0009-019] S=['GODDESS OF DREAMS'] P=is alternative name for O=['THELLA'] implicit=False ps="the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Thella the Goddess of Dreams created her Net and the keets gave back the wings they had gotten from Thella to spread the Net over the East Isles.
+[P5-B-B0009-020] S=['THELLA'] P=bestows magic / gifts O=['WINGS'] IO=['KEETS'] implicit=False ps="had gotten from" sug=one of: bestows, heals, imbues, teaches
+   Q: the keets gave back the wings they had gotten from Thella to spread the Net over the East Isles.
+[P5-B-B0009-021] S=['NET OF THELLA'] P=binds O=['EAST ISLES'] implicit=True ps="bound" sug=binds
+   Q: The Net bound the islands together, on the sea and in the dream world.
+[P5-B-B0009-022] S=['THELLA'] P=travels O=[] MOD={"to": "DREAMING HIGH GODS"} implicit=False ps="went to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Thella then went to the dreaming High Gods and asked them to create a new Sun.
+[P5-B-B0009-023] S=['THELLA'] P=alters mythic station O=[] implicit=False ps="became the Goddess of Dawn" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The New Sun rose, and Thella became the Goddess of Dawn.
+[P5-B-B0009-024] S=['OLD MAN'] P=sacrifices O=[] implicit=False ps="Sacrifice" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: However, the gloom was lifted, and the waters between the East Isles were cleared to be as of old, after the Old Man's Sacrifice.
+[P5-B-B0009-025] S=['UNDERWORLD GODDESS'] P=is alternative name for O=['GEBKERAN'] implicit=False ps="the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Arandinni worship their ancestors Vith and the Underworld Goddess Gebkeran the Mother of the Antigods.
+[P5-B-B0009-026] S=['ANTIGODS'] P=is child of O=['GEBKERAN'] implicit=False ps="the Mother of" sug=is child of
+   Q: Arandinni worship their ancestors Vith and the Underworld Goddess Gebkeran the Mother of the Antigods.
+[P5-B-B0009-027] S=['ARANDINNI'] P=claims ancestry O=['VITH', 'GEBKERAN'] implicit=False ps="worship their ancestors" sug=claims ancestry
+   Q: Arandinni worship their ancestors Vith and the Underworld Goddess Gebkeran the Mother of the Antigods.
+[P5-B-B0009-028] S=['OORSU SARA'] P=defeats O=['CHUREN'] implicit=False ps="destroyed" sug=shatters
+   Q: Churen warred for a long time with the Parrot People of Forng, then with the Triolini, and then against Oorsu Sara, who destroyed them, leaving only these islands.
+[P5-B-B0009-029] S=['QUEEN VANNAMATCHA THE GOLDEN'] P=rules O=['ORENO'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: They are ruled by Queen Vannamatcha the Golden, who is descended from the Manthi demigods who destroyed the Golden Age queendom of Duravan.
+[P5-B-B0009-030] S=['QUEEN VANNAMATCHA THE GOLDEN'] P=claims ancestry O=['MANTHI'] implicit=False ps="is descended from" sug=claims ancestry
+   Q: They are ruled by Queen Vannamatcha the Golden, who is descended from the Manthi demigods who destroyed the Golden Age queendom of Duravan.
+[P5-B-B0009-031] S=['MANTHI'] P=defeats O=['QUEENDOM OF DURAVAN'] implicit=False ps="destroyed" sug=shatters
+   Q: the Manthi demigods who destroyed the Golden Age queendom of Duravan.
+[P5-B-B0009-032] S=['GODDESS OF BEASTS'] P=is alternative name for O=['PROSENDARA'] implicit=False ps="the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Prosendara, the Goddess of Beasts (of the Above), can be found grazing on a mountainside there.
+[P5-B-B0009-033] S=['GOD LEARNERS'] P=kills O=['EXOTIC CREATURES'] implicit=True ps="were hunted and trapped to extinction by" sug=one of: kills, shatters, dies
+   Q: though some of the more exotic types were hunted and trapped to extinction by the God Learners a few centuries earlier.
+[P5-B-B0009-034] S=['ANTIGODS FROM FOZERANTO'] P=defeats O=['TEZDERE CHAIN'] implicit=True ps="were conquered by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In the First Age, these islands were conquered by the antigods from Fozeranto until they were freed by the demigod Jesolo and his Golden Fleet.
+[P5-B-B0009-035] S=['JESOLO'] P=defeats O=['ANTIGODS FROM FOZERANTO'] MOD={"with_the_aid_of": ["GOLDEN FLEET"]} implicit=True ps="freed" sug=rescues / frees
+   Q: until they were freed by the demigod Jesolo and his Golden Fleet.
+[P5-B-B0010-001] S=['KENMAN IMO'] P=teaches O=['INHABITANTS OF TEZDERE CHAIN'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The inhabitants are famed for their unique style of martial arts first taught by the demigod keet Hero Kenman Imo with its pecking and flying strikes.
+[P5-B-B0010-002] S=['JESOLO'] P=fights O=['ANTIGODS OF FOZERANTO'] MOD={"in_on_at": "VEDI CHAIN"} implicit=False ps="resistance against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Vedi Chain: In the First Age, this archipelago was the center of the demigod Jesolo's resistance against the antigods of Fozeranto.
+[P5-B-B0010-003] S=['HENSARAVA'] P=is identified as O=['GOLDEN ARCHER PRINCE'] implicit=False ps="the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Barangon (small city): This city boasts a great temple to Hensarava the Golden Archer Prince.
+[P5-B-B0010-004] S=['HENSARAVA'] P=wounds O=['SKY TYRANT'] MOD={"using": "arrows"} implicit=True ps="pierced" sug=wounds
+   Q: It is made out of a piece of the Sky Tyrant that fell to earth when the arrows of the Golden Archer pierced him.
+[P5-B-B0010-005] S=['FELETA', 'ZATALUM'] P=dedicates relic O=['COLOSSUS'] MOD={"in_on_at": "TELJEN STRAIT"} implicit=False ps="raised" sug=dedicates relic
+   Q: Colossus: This immense golden statue of Vith in the middle of the Teljen Strait was raised by Feleta and Zatalum in the Golden Age.
+[P5-B-B0010-006] S=['FELETA'] P=fights O=['ZATALUM'] implicit=False ps="quarreled" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When Feleta and Zatalum quarreled, Sarono submerged the land around this statue.
+[P5-B-B0010-007] S=['SARONO'] P=alters mythic station O=['LAND AROUND COLOSSUS'] implicit=True ps="submerged" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: When Feleta and Zatalum quarreled, Sarono submerged the land around this statue.
+[P5-B-B0010-008] S=['HENSARAVA'] P=travels O=[] MOD={"to": "DEMANKUR"} implicit=True ps="landed" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: During the Storm Age, Hensarava the Golden Archer Prince landed here and raised a great, strong palace called the House of Extra Delight.
+[P5-B-B0010-009] S=['HENSARAVA'] P=dedicates relic O=['HOUSE OF EXTRA DELIGHT'] MOD={"in_on_at": "DEMANKUR"} implicit=True ps="raised" sug=dedicates relic
+   Q: During the Storm Age, Hensarava the Golden Archer Prince landed here and raised a great, strong palace called the House of Extra Delight.
+[P5-B-B0010-010] S=['HESSA MEVALA'] P=travels O=[] MOD={"to": "DEMANKUR", "via": ["SAILING OUT AND BACK ROUTE"]} implicit=True ps="sailed" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Hessa Mevala sailed here on the Sailing Out and Back Route, confronted the resident god and converted him to follow her in the Happy Conquests.
+[P5-B-B0010-011] S=['HESSA MEVALA'] P=challenges O=['RESIDENT GOD OF DEMANKUR'] implicit=True ps="confronted" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Hessa Mevala sailed here on the Sailing Out and Back Route, confronted the resident god and converted him to follow her in the Happy Conquests.
+[P5-B-B0010-012] S=['HESSA MEVALA'] P=initiates into cult O=['RESIDENT GOD OF DEMANKUR'] implicit=True ps="converted" sug=initiates into cult
+   Q: Hessa Mevala sailed here on the Sailing Out and Back Route, confronted the resident god and converted him to follow her in the Happy Conquests.
+[P5-B-B0010-013] S=['MON VERLO'] P=serves O=['KABALT'] implicit=False ps="was a devotee of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Mon Verlo was a devotee of Kabalt the Great Bolt, and
+[P5-B-B0010-014] S=['KABALT'] P=is identified as O=['GREAT BOLT'] implicit=False ps="the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Mon Verlo was a devotee of Kabalt the Great Bolt, and
+[P5-B-B0010-015] S=['MONSTERS AND TERRIBLE SPIRITS'] P=rules O=[] MOD={"in_on_at": "HARAGALA"} implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Monsters and terrible spirits ruled the interior of the island, until they were defeated by the keet Hero Jungozaro the Monster Slayer in the Second Age.
+[P5-B-B0010-016] S=['JUNGOZARO'] P=defeats O=['MONSTERS AND TERRIBLE SPIRITS'] MOD={"in_on_at": "HARAGALA"} implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Monsters and terrible spirits ruled the interior of the island, until they were defeated by the keet Hero Jungozaro the Monster Slayer in the Second Age.
+[P5-B-B0010-017] S=['JUNGOZARO'] P=is identified as O=['MONSTER SLAYER'] implicit=False ps="the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Monsters and terrible spirits ruled the interior of the island, until they were defeated by the keet Hero Jungozaro the Monster Slayer in the Second Age.
+[P5-B-B0010-018] S=['MAIRNALI'] P=is identified as O=['MERCIFUL GODDESS'] implicit=False ps="the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The most impressive are the opulent temple to Mairnali the Merciful Goddess and the tranquil shrine to the Three Sages.
+[P5-B-B0010-019] S=['FAGAMALO'] P=discovers O=['SINGING'] implicit=False ps="invented" sug=discovers
+   Q: Fagamalo invented singing and first taught birds how to sing.
+[P5-B-B0010-020] S=['FAGAMALO'] P=teaches O=['BIRDS'] implicit=False ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Fagamalo invented singing and first taught birds how to sing.
+[P5-B-B0010-021] S=['PEOPLE OF MOKATO'] P=serves O=['HOBIMARONG'] implicit=False ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The people of Mokato worship Hobimarong, a god of learning and divination who has never made a mistake.
+[P5-B-B0010-022] S=['GOVMERANEN'] P=rules O=[] MOD={"in_on_at": "MOKATO"} implicit=True ps="palace of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the Golden Age, this was the palace of Govmeranen the Radiant Emperor.
+[P5-B-B0010-023] S=['GOVMERANEN'] P=is identified as O=['RADIANT EMPEROR'] implicit=False ps="the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: In the Golden Age, this was the palace of Govmeranen the Radiant Emperor.
+[P5-B-B0010-024] S=['VELDRU'] P=is identified as O=['AIR GOD OF VITHELA'] implicit=False ps="the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Opi: The Sacred Island of Veldru, the Air God of Vithela, and the home island of the martial arts demigod Hong Malagum who led one of the Happy Conquests that cleared the East Islands of antigods in the Storm Age.
+[P5-B-B0010-025] S=['HONG MALAGUM'] P=defeats O=['ANTIGODS'] MOD={"in_on_at": "EAST ISLANDS"} implicit=False ps="cleared" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Opi: The Sacred Island of Veldru, the Air God of Vithela, and the home island of the martial arts demigod Hong Malagum who led one of the Happy Conquests that cleared the East Islands of antigods in the Storm Age.
+[P5-B-B0010-026] S=['ORLANTH'] P=fights O=['VELDRU'] implicit=False ps="pushed aside" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Veldru is one of the great autonomous storms of Glorantha, for although he is often pushed aside by Orlanth and his winds, he often entirely counters their effects.
+[P5-B-B0010-027] S=['HONG MALAGUM'] P=is child of O=['VELDRU'] implicit=True ps="son" sug=is child of
+   Q: His son, Hong Malagum, was trained by Hensarava in the arts of archery and war.
+[P5-B-B0010-028] S=['HENSARAVA'] P=teaches O=['HONG MALAGUM'] implicit=False ps="trained" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: His son, Hong Malagum, was trained by Hensarava in the arts of archery and war.
+[P5-B-B0010-029] S=['ADLANARI'] P=is child of O=['AVANAPUR'] implicit=False ps="Daughter of" sug=is child of
+   Q: When the antigod Adlanari, Daughter of Avanapur, began conquering the East Isles in the Grey Age, the heroic keet Ferendel, the Son of Karkal, assembled his magnificent armada against her here.
+[P5-B-B0010-030] S=['FERENDEL'] P=is child of O=['KARKAL'] implicit=False ps="Son of" sug=is child of
+   Q: When the antigod Adlanari, Daughter of Avanapur, began conquering the East Isles in the Grey Age, the heroic keet Ferendel, the Son of Karkal, assembled his magnificent armada against her here.
+[P5-B-B0010-031] S=['FERENDEL'] P=fights O=['ADLANARI'] MOD={"in_on_at": "ORANDALIEL"} implicit=True ps="assembled his magnificent armada against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When the antigod Adlanari, Daughter of Avanapur, began conquering the East Isles in the Grey Age, the heroic keet Ferendel, the Son of Karkal, assembled his magnificent armada against her here.
+[P5-B-B0010-032] S=['HUNGRY FLEET OF ADLANARI'] P=defeats O=['FERENDEL'] implicit=True ps="destroyed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: However, the Hungry Fleet of Adlanari destroyed them all.
+[P5-B-B0010-033] S=['MOUNT PENATARAN'] P=is child of O=['KARKAL'] implicit=False ps="divine son of" sug=is child of
+   Q: Its highest point is Mount Penataran, an active volcano and divine son of Karkal the Burning Lord.
+[P5-B-B0010-034] S=['KARKAL'] P=is identified as O=['BURNING LORD'] implicit=False ps="the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Its highest point is Mount Penataran, an active volcano and divine son of Karkal the Burning Lord.
+[P5-B-B0010-035] S=['BLUE MAGIC NIGHT POWER PIRATES'] P=rules O=[] MOD={"in_on_at": "SERFO"} implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the Darkness, this port was ruled by the sorcerous Blue Magic Night Power Pirates, until they were defeated by Hessa Mevala.
+[P5-B-B0010-036] S=['HESSA MEVALA'] P=defeats O=['BLUE MAGIC NIGHT POWER PIRATES'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In the Darkness, this port was ruled by the sorcerous Blue Magic Night Power Pirates, until they were defeated by Hessa Mevala.
+[P5-B-B0010-037] S=['BEZARNGAY'] P=fights O=['KEETS'] implicit=False ps="pursued" sug=hunts
+   Q: In their migration, the keets had to put ashore to nest, even though they were pursued by Bezarngay.
+[P5-B-B0010-038] S=['ERAL'] P=serves O=['BINDA'] implicit=False ps="worshiped" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The keet Hero Eral worshiped Binda, the goddess of the island, and her brother took the form of a sea eagle and conquered Bezarngay.
+[P5-B-B0010-039] S=['BROTHER OF BINDA'] P=is sibling of O=['BINDA'] implicit=False ps="brother" sug=is sibling of
+   Q: The keet Hero Eral worshiped Binda, the goddess of the island, and her brother took the form of a sea eagle and conquered Bezarngay.
+[P5-B-B0010-040] S=['BROTHER OF BINDA'] P=transforms into O=['SEA EAGLE'] implicit=False ps="took the form of" sug=transforms into
+   Q: The keet Hero Eral worshiped Binda, the goddess of the island, and her brother took the form of a sea eagle and conquered Bezarngay.
+[P5-B-B0010-041] S=['BROTHER OF BINDA'] P=defeats O=['BEZARNGAY'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The keet Hero Eral worshiped Binda, the goddess of the island, and her brother took the form of a sea eagle and conquered Bezarngay.
+[P5-B-B0010-042] S=['OJA RADWEN'] P=is identified as O=['COOKING GOD'] implicit=False ps="the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Setoringaragon: The Island of Cooks. The god of this island is Oja Radwen, the cooking god.
+[P5-B-B0010-043] S=['SSHORG'] P=shatters O=['DURAVAN'] implicit=False ps="destroyed" sug=shatters
+   Q: The people of this island worship a friendly sea goddess who spared the island when Sshorg destroyed the rest of Duravan in the Storm Age.
+[P5-B-B0010-044] S=['FRIENDLY SEA GODDESS OF SIANASSA'] P=protects O=['SIANASSA'] implicit=True ps="spared" sug=one of: protects, rescues / frees, aids
+   Q: The people of this island worship a friendly sea goddess who spared the island when Sshorg destroyed the rest of Duravan in the Storm Age.
+[P5-B-B0010-045] S=['JESOLO'] P=is alternative name for O=['LAUGHING JESOLO', 'IMPUDENT JESOLO', 'SAUCY JESOLO'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The demigod Hero Jesolo was a wandering rascal often called Laughing Jesolo, Impudent Jesolo, and Saucy Jesolo when he was young and was notorious for his many lovers.
+[P5-B-B0010-046] S=['DEBADAY'] P=rules O=['FOZERANTO'] implicit=False ps="ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: When Debaday, the antigod ruler of Fozeranto, began conquering the East Isles after the Dawn, Jesolo fought back.
+[P5-B-B0010-047] S=['DEBADAY'] P=fights O=['EAST ISLES'] implicit=False ps="conquering" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When Debaday, the antigod ruler of Fozeranto, began conquering the East Isles after the Dawn, Jesolo fought back.
+[P5-B-B0010-048] S=['JESOLO'] P=fights O=['DEBADAY'] implicit=False ps="fought back" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When Debaday, the antigod ruler of Fozeranto, began conquering the East Isles after the Dawn, Jesolo fought back.
+[P5-B-B0010-049] S=['JESOLO'] P=fights O=['DEBADAY', 'ANTIGODS OF FOZERANTO'] MOD={"purpose_clause": "TO THWART"} implicit=True ps="fight against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Eventually Jesolo raised a huge fleet – called the Golden Fleet because it was so magnificent – to fight against Debaday and his antigods.
+[P5-B-B0010-050] S=['JESOLO'] P=defeats O=['ANTIGODS OF FOZERANTO'] MOD={"using": "GOLDEN FLEET"} implicit=False ps="swept the seas clear of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: With his Golden Fleet, Jesolo swept the seas clear of the antigods, and then invaded Fozeranto itself.
+[P5-B-B0010-051] S=['JESOLO'] P=travels O=[] MOD={"to": "FOZERANTO"} implicit=False ps="invaded" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: With his Golden Fleet, Jesolo swept the seas clear of the antigods, and then invaded Fozeranto itself.
+[P5-B-B0010-052] S=['COMPANIONS OF JESOLO'] P=bestows magic / gifts O=['HRESNSENESO'] implicit=False ps="empowered" sug=one of: bestows, heals, imbues, teaches
+   Q: Jesolo's companions empowered the goddess Hresnseneso, who forced Sshorg to release its power against Fozeranto, which disappeared underwater.

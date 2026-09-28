@@ -1,0 +1,300 @@
+[P5-A-B0024-014] S=['RED GODDESS'] P=protects O=['DARA HAPPAN TRIPOLIS'] MOD={"from": "CARMANIANS"} implicit=True ps="had been liberated from the Carmanians by" sug=rescues / frees
+   Q: The Tripolis of Dara Happa had been liberated from the Carmanians in the Zero Wane by the Red Goddess and was bound to her by treaty and oath
+[P5-A-B0024-015] S=['DARA HAPPAN TRIPOLIS'] P=pledges oath with O=['RED GODDESS'] implicit=True ps="was bound to her by treaty and oath" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: The Tripolis of Dara Happa had been liberated from the Carmanians in the Zero Wane by the Red Goddess and was bound to her by treaty and oath
+[P5-A-B0024-016] S=['DARA HAPPANS'] P=serves O=['VINYARGATHA'] implicit=True ps="were secretly loyal to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: many were secretly loyal to the false emperor Vinyargatha and perversely considered the Red Emperor a usurper.
+[P5-A-B0024-017] S=['VINYARDAVU'] P=rules O=['DARA HAPPAN TRIPOLIS'] MOD={"at_the_instigation_of": ["DARA HAPPAN TRIPOLIS"]} implicit=True ps="raised a new false emperor" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Tripolis raised a new false emperor, Vinyardavu
+[P5-A-B0024-018] S=['JANNISOR'] P=serves O=['DARA HAPPAN TRIPOLIS'] implicit=True ps="was one of the allies; answered a Dara Happan plea" sug=allies with
+   Q: Jannisor the Hero, was one of the allies. || Jannisor answered a Dara Happan plea and raised an army of Laramite and Wilktar tribal warriors and magicians to accompany him.
+[P5-A-B0024-019] S=['SOUTHERN LANDS OF PELORIA'] P=serves O=['JANNISOR'] implicit=False ps="aided" sug=aids
+   Q: Fearful of the Empire since they aided Jannisor, the southern lands of Peloria maintained an uneasy peace.
+[P5-A-B0024-020] S=['RED GODDESS'] P=protects O=['COUNCIL OF QUEENS'] MOD={"purpose_clause": "TO AID"} implicit=False ps="aided" sug=aids
+   Q: Lunar contacts with the peoples of Twice Blessed had been friendly ever since the Red Goddess aided their Council of Queens during the Zero Wane after the fall of Karasal.
+[P5-A-B0024-021] S=['PEOPLES OF TWICE BLESSED'] P=bestows magic / gifts O=['MERCENARIES AND GIFTS'] IO=['LUNAR EMPIRE'] implicit=True ps="sending mercenaries and gifts to their aid" sug=one of: bestows, heals, imbues, teaches
+   Q: In return, the peoples had maintained a helpful attitude toward the Empire, sending mercenaries and gifts to their aid.
+[P5-A-B0024-022] S=['SATRAP OF KARASAL'] P=fights O=['ERIAN SOOR'] implicit=False ps="attempted to throttle" sug=invades / raids
+   Q: the Satrap of Karasal attempted to throttle a visiting Etyries merchant named Erian Soor.
+[P5-A-B0024-023] S=['ERIAN SOOR'] P=serves O=['ETYRIES'] implicit=False ps="an Etyries merchant" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: a visiting Etyries merchant named Erian Soor.
+[P5-A-B0024-024] S=['ERIAN SOOR'] P=kills O=['SATRAP OF KARASAL'] implicit=True ps="managed to kill him first" sug=one of: kills, shatters, dies
+   Q: Erian managed to kill him first through luck
+[P5-A-B0024-025] S=['ARONIUS JARANTHIR'] P=fights O=['ERIAN SOOR'] MOD={"in_on_at": "PORALISTOR RIVER"} implicit=True ps="was met and engaged by" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: At the Poralistor River she was met and engaged by Aronius Jaranthir, a Lunar nobleman commanding a company of heavy cavalry.
+[P5-A-B0024-026] S=['ERIAN SOOR'] P=defeats O=['CAVALRY OF ARONIUS JARANTHIR'] MOD={"using": "MAGIC"} implicit=True ps="thrown to the earth by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: thrown to the earth by her magic
+[P5-A-B0024-027] S=['PARG ILISI'] P=travels O=[] IO=['PEOPLE OF TWICE BLESSED'] MOD={"purpose_clause": "TO PUNISH"} implicit=False ps="was dispatched with picked troops to teach a lesson" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Parg Ilisi, a general noted for his skill in dealing with barbarian tactics, was dispatched with picked troops to teach the people of Twice Blessed a lesson.
+[P5-A-B0024-028] S=['ELDEST ELDER OF THE COUNCIL OF QUEENS'] P=sacrifices O=['ELDEST ELDER OF THE COUNCIL OF QUEENS'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="offered herself as a sacrifice for her people" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: the Eldest Elder of the Council of Queens offered herself as a sacrifice for her people.
+[P5-A-B0024-029] S=['PEOPLE OF TWICE BLESSED'] P=serves O=['LUNAR WAY'] implicit=False ps="agreed among themselves to embrace" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the people of Twice Blessed agreed among themselves to embrace the Lunar Way
+[P5-A-B0024-030] S=['THRICE BLESSED'] P=is alternative name for O=['TWICE BLESSED'] implicit=True ps="changed the name of their lands to" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: changed the name of their lands to Thrice Blessed to mark the magnitude of the gift.
+[P5-A-B0024-031] S=['HWARIN DALTHIPPA'] P=embodies O=['RED GODDESS'] implicit=False ps="an incarnation of" sug=one of: embodies, has domain
+   Q: Hwarin Dalthippa, a female warrior-magician and an incarnation of the Red Goddess
+[P5-A-B0024-032] S=['BINDLE'] P=fights O=['LUNAR EMPIRE'] MOD={"with_the_aid_of": ["SWEET SEA ALLIES", "CHAR-UN"], "purpose_clause": "TO OBTAIN"} implicit=True ps="went to war against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Bindle, aided by other Sweet Sea allies and the Char-un tribes, went to war against the Empire attempting to seize territory in the West Reaches.
+[P5-A-B0024-033] S=['ORLIK BEARFACE'] P=serves O=['BINDLE'] implicit=False ps="a mercenary working for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Orlik Bearface, a mercenary working for Bindle, boldly led a devastating raid into Char-un territory and flailed the Char-un's sacred Great Horse.
+[P5-A-B0024-034] S=['ORLIK BEARFACE'] P=strikes O=['GREAT HORSE'] implicit=False ps="flailed" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Orlik Bearface, a mercenary working for Bindle, boldly led a devastating raid into Char-un territory and flailed the Char-un's sacred Great Horse.
+[P5-A-B0024-035] S=['CHAR-UN'] P=defeats O=['TALST'] implicit=True ps="successfully assaulting" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the horsemen swarmed across the Bindle farmland, sacking the interior and successfully assaulting Talst.
+[P5-A-B0024-036] S=['CHAR-UN'] P=fights O=['PRIN'] implicit=True ps="attacked" sug=invades / raids
+   Q: the barbarians would not be appeased and attacked a second city, Prin.
+[P5-A-B0024-037] S=['ARONIUS JARANTHIR'] P=defeats O=['CHAR-UN'] implicit=True ps="drove off" sug=exiles / banishes
+   Q: He finally drove off the Char-un and began a program of resettlement and rebuilding of the devastated West Reaches.
+[P5-A-B0024-038] S=['ARONIUS JARANTHIR'] P=initiates into cult O=['INHABITANTS OF THE WEST REACHES'] IO=['LUNAR WAY'] implicit=True ps="His efforts finally led to a conversion of" sug=initiates into cult
+   Q: His efforts finally led to a conversion of the inhabitants to the Lunar Way
+[P5-A-B0024-039] S=['OPILI'] P=defeats O=['GARSTING'] implicit=False ps="had already laid waste to" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: This was the southern prong, led by the Opili nation, noted even among the Horse Peoples for their savagery, who had already laid waste to Garsting and cities upon the coast of the Elf Sea.
+[P5-A-B0024-040] S=['OPILI'] P=fights O=['LUNAR ARMY'] MOD={"in_on_at": "QUINTUS' VALE", "with_the_aid_of": ["SHAMANS", "PLAINS SPIRITS"]} implicit=True ps="The Battle of Quintus' Vale was fought between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Battle of Quintus' Vale was fought between the Opili and their allied horse nations, aided by their shamans and plains spirits.
+[P5-A-B0024-041] S=['LUNAR ARMY'] P=defeats O=['HORSE NOMADS'] MOD={"in_on_at": "QUINTUS' VALE", "with_the_aid_of": ["LUNAR COLLEGE OF MAGIC", "NATIVE CULTS"]} implicit=True ps="were defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Lunar army had many barbarian allies and were aided by the powerful Lunar College of Magic and many native cults. || in the end the horse nomads were defeated.
+[P5-A-B0024-042] S=['KINGS OF BALAZAR'] P=fights O=['HORSE NOMADS'] MOD={"in_on_at": "BALAZAR"} implicit=True ps="ambushed" sug=invades / raids
+   Q: They were later ambushed in Balazar by the kings there.
+[P5-A-B0024-043] S=['BARBARIAN INVADERS'] P=defeats O=['ARMY OF SYLILA'] implicit=False ps="destroyed" sug=shatters
+   Q: The army of Sylila, fresh from its victories, marched northward to aid the Empire against the greater barbarian invasion. || It was one of several armies destroyed by the invaders over the next few years.
+[P5-A-B0024-044] S=['SON OF THE MORNING'] P=is alternative name for O=['SHENG SELERIS'] implicit=False ps="Son of the Morning" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Sheng Seleris, Son of the Morning, was a demigod who grew powerful enough to oppose the Goddess, using a combination of his own secret magics.
+[P5-A-B0024-045] S=['SHENG SELERIS'] P=challenges O=['RED GODDESS'] MOD={"using": "SECRET MAGICS"} implicit=True ps="grew powerful enough to oppose" sug=challenges
+   Q: Sheng Seleris, Son of the Morning, was a demigod who grew powerful enough to oppose the Goddess, using a combination of his own secret magics.
+[P5-A-B0024-046] S=['SHENG SELERIS'] P=is identified as O=['DEMIGOD'] implicit=False ps="was a demigod" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Sheng Seleris, Son of the Morning, was a demigod
+[P5-A-B0024-047] S=['GREAT ARMY OF SHENG SELERIS'] P=travels O=[] MOD={"from": "REDLANDS", "to": "JARST", "via": ["ARCOS"]} implicit=False ps="moved from, across, into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the Great Army of Sheng Seleris moved from the Redlands across the river Arcos into Jarst.
+[P5-A-B0024-048] S=['SHENG SELERIS'] P=shatters O=['GATES OF YUTHUPPA'] MOD={"using": "ARCANE ALCHEMY"} implicit=True ps="exploded" sug=shatters
+   Q: Arcane alchemy from Sheng Seleris exploded the mighty gates of the city
+[P5-A-B0025-001] S=['THE SPIRITS OF THE OSLIR RIVER'] P=fights O=['LUNAR RELIEF CONVOY'] MOD={"from": "SYLILA"} implicit=False ps="assaulted" sug=invades / raids
+   Q: the Lunar feud with the spirits of the Oslir River continued to cause the Empire ill when they assaulted a Lunar relief convoy sailing north from Sylila.
+[P5-A-B0025-002] S=['THE SPIRITS OF THE OSLIR RIVER'] P=serves O=['THE NOMAD HORDE'] MOD={"purpose_clause": "TO AID"} implicit=True ps="aided" sug=aids
+   Q: They then aided the nomad horde to cross the great river without trouble.
+[P5-A-B0025-003] S=['LUNAR MAGICIANS'] P=binds O=['THE WATER SPIRITS'] MOD={"in_on_at": "ERINFLARTH RIVER"} implicit=False ps="resealing the Erinflarth River against the passage of the water spirits, thereby trapping" sug=binds
+   Q: Lunar magicians succeeded in resealing the Erinflarth River against the passage of the water spirits, thereby trapping many them within the Empire.
+[P5-A-B0025-004] S=['REFUGEES'] P=flees to O=['SILVER SHADOW'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="fled to" sug=flees to
+   Q: Many fled to the Silver Shadow, to live or die in the shadow of the Red Goddess and rely directly upon the magics of the Emperor and his city.
+[P5-A-B0025-005] S=['SHENG SELERIS'] P=fights O=['RED EMPEROR'] MOD={"in_on_at": "OUTER GLAMOUR"} implicit=True ps="wrestled with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Sheng Seleris wrestled with the Red Emperor at the gates of the city
+[P5-A-B0025-006] S=['RED EMPEROR'] P=defeats O=['SHENG SELERIS'] implicit=True ps="drove the invader away" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: though neither was hurt the Emperor drove the invader away.
+[P5-A-B0025-007] S=['RED-SKINNED PRIESTESSES OF SHENG SELERIS'] P=enchants O=['GOD OF ALKOTH'] implicit=False ps="enchanted" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: In 3/49 (1404), Sheng Seleris personally appeared outside Alkoth and this time the city surrendered after his red-skinned priestesses enchanted the city's god.
+[P5-A-B0025-008] S=['JARL NORRI SPLITEYE'] P=marries O=['A REFUGEE LUNAR PRIESTESS'] implicit=False ps="married" sug=is spouse of (qual=wedding)
+   Q: The latter was ruled by Jarl Norri Spliteye, who married a refugee Lunar priestess.
+[P5-A-B0025-009] S=['JARL NORRI SPLITEYE'] P=rules O=["NORRI'S HILL"] implicit=True ps="was ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The latter was ruled by Jarl Norri Spliteye
+[P5-A-B0025-010] S=['CULT OF THE REACHING MOON GODDESS'] P=protects O=['GLAMOUR', 'THE CRATER'] implicit=True ps="kept those regions well protected" sug=one of: protects, rescues / frees, aids
+   Q: the cult of the Reaching Moon Goddess kept those regions well protected.
+[P5-A-B0025-011] S=['THE REGION ABOUT THE CITY OF JILLARO'] P=protects O=['THE REGION ABOUT THE CITY OF JILLARO'] MOD={"with_the_aid_of": ["CONQUERING DAUGHTER"]} implicit=False ps="preserved themselves" sug=one of: protects, rescues / frees, aids
+   Q: the region about the city of Jillaro preserved themselves from any raids throughout the entire nomad occupation with the aid of the Conquering Daughter.
+[P5-A-B0025-012] S=['ROYAL HOUSE OF THE SABLE PEOPLE'] P=fights O=['THE NOMAD HORDES'] implicit=False ps="led raids against" sug=invades / raids
+   Q: the Sable People remained strong within their fastness of the Hungry Plateau, and their royal house often led raids against the nomad hordes.
+[P5-A-B0025-013] S=['JARANTHIR CULT'] P=rules O=['THE WESTERN REACHES'] implicit=False ps="under the leadership of" sug=leads
+   Q: the hills of the Western Reaches preserved Lunar civilization under the leadership of the Jaranthir cult.
+[P5-A-B0025-014] S=['TEMPLES OF THE REACHING MOON'] P=binds O=['SHENG SELERIS'] MOD={"from": "GLAMOUR"} implicit=False ps="was another trap for" sug=binds
+   Q: The Temples of the Reaching Moon continued to spread from Glamour, and each one built was another trap for the nomad chieftain Sheng Seleris.
+[P5-A-B0025-015] S=['SHENG SELERIS'] P=rules O=['THE NOMADS'] implicit=False ps="the nomad chieftain" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the nomad chieftain Sheng Seleris.
+[P5-A-B0025-016] S=['WITCHES AND SHAMANS AMONG THE NOMADS'] P=teaches O=['TERRIFIED PEASANTS OF PELORIA'] implicit=False ps="spread their beliefs among" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The witches and shamans among the nomads spread their beliefs among the terrified peasants of Peloria so that many foreign spirits inhabited the land.
+[P5-A-B0025-017] S=['SHENG SELERIS'] P=steals O=["THE EMPEROR'S WORSHIP AND SOVEREIGNTY"] MOD={"from": "RED EMPEROR"} implicit=True ps="had stolen" sug=steals
+   Q: Sheng Seleris had stolen a portion of the Emperor's worship and sovereignty.
+[P5-A-B0025-018] S=['SHENG SELERIS'] P=binds O=['THE POWER STOLEN FROM THE EMPEROR'] MOD={"in_on_at": "HEART OF A RUBY-THROATED HUMMINGBIRD"} implicit=True ps="had hidden it in the heart of" sug=binds
+   Q: He had hidden it in the heart of a ruby-throated hummingbird which lived in the Gardens of Karresh.
+[P5-A-B0025-019] S=['KOSTADDI'] P=serves O=['SHENG SELERIS'] implicit=True ps="fell into the worship of" sug=is worshipped by
+   Q: Kostaddi abandoned all Lunar ways and fell into the worship of the nomad overlord.
+[P5-A-B0025-020] S=['YARA ARANIS'] P=challenges O=['SHENG SELERIS'] MOD={"from": "GOOD SHORE"} implicit=True ps="challenged the nomad to battle" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Yara Aranis, the bane of Seleris, crossed from Good Shore and challenged the nomad to battle.
+[P5-A-B0025-021] S=['YARA ARANIS'] P=fights O=['SHENG SELERIS'] implicit=True ps="the bane of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Yara Aranis, the bane of Seleris
+[P5-A-B0025-022] S=['SHENG SELERIS'] P=wounds O=['YARA ARANIS'] implicit=True ps="tossed her to earth, severely wounding" sug=wounds
+   Q: Seleris easily tossed her to earth, severely wounding her back and liver.
+[P5-A-B0025-023] S=['GODS OF PELORIA'] P=alters mythic station O=['SHENG SELERIS'] implicit=False ps="was apotheosized as a Hero by" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: the Red Moon visibly dimmed when Sheng Seleris was apotheosized as a Hero by the gods of Peloria.
+[P5-A-B0025-024] S=['SHENG SELERIS'] P=manifests O=['A NEW STAR'] implicit=True ps="lit a new star in the sky" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: His might and power lit a new star in the sky.
+[P5-A-B0025-025] S=['RED EMPEROR'] P=flees to O=['EXILE'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="fled into exile" sug=flees to
+   Q: The Emperor, seeking a cure for his illness, fled into exile.
+[P5-A-B0025-026] S=['AGENTS OF THE SON OF THE MOON'] P=fights O=['SHENG SELERIS'] implicit=False ps="blocked his way" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Sheng Seleris began a merry hunt for the Emperor, but agents of the Son of the Moon blocked his way at every turn.
+[P5-A-B0025-027] S=['SABLE PEOPLE'] P=fights O=['SHENG SELERIS'] MOD={"purpose_clause": "TO AID"} implicit=True ps="opposed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the Sable People opposed Seleris to gain time for their beloved Emperor
+[P5-A-B0025-028] S=['THE SAVAGE RAIDERS'] P=kills O=['ROYAL HOUSE OF THE SABLE PEOPLE'] implicit=True ps="was slain by" sug=one of: kills, shatters, dies
+   Q: their entire royal house was slain by the savage raiders.
+[P5-A-B0025-029] S=['HIGH PRIESTESS OF THE BLUE MOON'] P=protects O=['NEPHEW OF THE HIGH PRIESTESS OF THE BLUE MOON'] implicit=False ps="defending" sug=one of: protects, rescues / frees, aids
+   Q: The High Priestess of the Blue Moon was attacked for defending her nephew
+[P5-A-B0025-030] S=['RED EMPEROR'] P=sacrifices O=['RED EMPEROR'] implicit=True ps="sacrificing himself" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: the Emperor seized the opportunity to escape by tempting the Mad Sultanate to invade Sheng Seleris' domain in Kostaddi by sacrificing himself.
+[P5-A-B0025-031] S=['MAD SULTANATE'] P=fights O=['SHENG SELERIS'] MOD={"in_on_at": "KOSTADDI", "at_the_instigation_of": ["RED EMPEROR"]} implicit=True ps="invade Sheng Seleris' domain" sug=invades / raids
+   Q: tempting the Mad Sultanate to invade Sheng Seleris' domain in Kostaddi
+[P5-A-B0025-032] S=['SHENG SELERIS'] P=defeats O=['MAD SULTANATE'] implicit=True ps="turned the invading horde from his lands" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: But Sheng used his powers and people cleverly, and turned the invading horde from his lands with minimal losses.
+[P5-A-B0025-033] S=['MAD SULTANATE'] P=travels O=[] MOD={"to": "DORASTOR", "via": ["ERINFLARTH RIVER"]} implicit=False ps="made their way into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He sent them scurrying south, up the Erinflarth River where the Mad Sultanate eventually made their way into dark Dorastor.
+[P5-A-B0025-034] S=['SHENG SELERIS', 'LOYAL BAND OF SHENG SELERIS'] P=travels O=[] MOD={"to": "RED MOON", "via": ["THE CRATER"]} implicit=True ps="scaled the edges of the Crater and from there leapt onto the surface of" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: With his loyal band, he scaled the edges of the Crater and from there leapt onto the surface of the Red Moon itself.
+[P5-A-B0025-035] S=['SHENG SELERIS'] P=defeats O=['DENIZENS AND GUARDIANS OF THE MOON'] MOD={"in_on_at": "THE EMPEROR'S MOON PALACE"} implicit=True ps="won against" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He ransacked the Emperor's Moon Palace during his hunt and won against the multitude of denizens and guardians of the Moon that tried to stop him.
+[P5-A-B0025-036] S=['SHENG SELERIS'] P=flees to O=['THE EARTH'] MOD={"from": "RED MOON"} implicit=True ps="forced to flee back to" sug=flees to
+   Q: he was eventually forced to flee back to the earth or lose all his followers to senseless war on the Moon.
+[P5-A-B0025-037] S=['RED EMPEROR'] P=marries O=['A WEAVING WOMAN'] MOD={"in_on_at": "DOBLIAN"} implicit=True ps="married to" sug=is spouse of (qual=wedding)
+   Q: For eleven years the Emperor was forced to live a life of disguise in the land of Doblian, married to a weaving woman.
+[P5-A-B0025-038] S=['SHENG SELERIS'] P=fights O=["JORD'S EYE"] implicit=False ps="sacked" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In 4/47 (1456) Sheng sacked the dwarf city of Jord's Eye mistakenly believing the Emperor to be hiding there
+[P5-A-B0025-039] S=['SHENG SELERIS'] P=fights O=['MOSTALI'] implicit=True ps="making him deadly enemies of" sug=hates
+   Q: making him deadly enemies of all Mostali.
+[P5-A-B0025-040] S=['LEADERS OF THE NOMADS'] P=serves O=['SHENG SELERIS'] implicit=True ps="their God King" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The leaders of the nomads sent their armies home and went to meet their God King.
+[P5-A-B0025-041] S=['BLUE MOON DAUGHTER'] P=is child of O=['BLUE MOON'] implicit=False ps="the bastard child of" sug=is child of
+   Q: the Emperor began a game of ravenkaaz with the bastard child of the Blue Moon || The Blue Moon Daughter found that she was losing in her game with the Emperor
+[P5-A-B0025-042] S=['RED EMPEROR'] P=challenges O=['BLUE MOON DAUGHTER'] MOD={"in_on_at": "KITOR"} implicit=True ps="began a game of ravenkaaz with" sug=one of: challenges, breaks oath, betrays, fights
+   Q: the Emperor began a game of ravenkaaz with the bastard child of the Blue Moon
+[P5-A-B0025-043] S=['ARONIUS JARANTHIR'] P=serves O=['BLUE MOON DAUGHTER'] MOD={"purpose_clause": "TO AID"} implicit=False ps="enlisted the aid of" sug=aids
+   Q: The Blue Moon Daughter found that she was losing in her game with the Emperor and enlisted the aid of Aronius Jaranthir to finish it for her.
+[P5-A-B0025-044] S=['RED EMPEROR'] P=bestows magic / gifts O=['SPECIAL RIGHTS AND PRIVILEGES'] IO=['ARONIUS JARANTHIR'] implicit=True ps="granted" sug=one of: bestows, heals, imbues, teaches
+   Q: instead he conceded the game and granted this prince of the Citizen Foreigners special rights and privileges for his victory.
+[P5-A-B0025-045] S=['ARONIUS JARANTHIR'] P=rules O=['CITIZEN FOREIGNERS'] implicit=True ps="prince of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: granted this prince of the Citizen Foreigners special rights and privileges
+[P5-A-B0025-046] S=['AN ANCIENT OAK'] P=transforms into O=['A TWISTED TREE'] MOD={"in_on_at": "KITOR"} implicit=True ps="became" sug=transforms into
+   Q: An ancient oak became a twisted tree that seized the souls of the warriors and trapped them in its tortured body.
+[P5-A-B0025-047] S=['A TWISTED TREE'] P=binds O=['SOULS OF THE WARRIORS'] implicit=False ps="seized the souls of the warriors and trapped them" sug=binds
+   Q: a twisted tree that seized the souls of the warriors and trapped them in its tortured body.
+[P5-A-B0025-048] S=['THE RANKS OF THE NOMADS'] P=transforms into O=['LEGION OF STONE'] MOD={"using": "LUNAR MAGIC"} implicit=False ps="were petrified by" sug=transforms into
+   Q: The ranks of the nomads were petrified by Lunar magic. || Called the Legion of Stone, their bodies decorated the walls of the city decades later.
+[P5-A-B0025-049] S=['SOUL OF SHENG SELERIS'] P=descends into O=['A DEEP, DEEP PIT'] implicit=False ps="was tossed into" sug=one of: descends into, dies
+   Q: The soul of Sheng Seleris was tossed into a deep, deep pit where it lay, broken and suffering, forever in the clutches of the mother of Yara Aranis and other demons of hell.
+[P5-A-B0025-050] S=['MOTHER OF YARA ARANIS', 'DEMONS OF HELL'] P=binds O=['SOUL OF SHENG SELERIS'] implicit=True ps="in the clutches of" sug=binds
+   Q: forever in the clutches of the mother of Yara Aranis and other demons of hell.
+[P5-A-B0025-051] S=['MOTHER OF YARA ARANIS'] P=is member of O=['DEMONS OF HELL'] implicit=False ps="and other demons of hell" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the mother of Yara Aranis and other demons of hell.
+[P5-A-B0025-052] S=['RED EMPEROR'] P=is identified as O=['TRUE EMPEROR'] implicit=False ps="acknowledged that the Red Emperor was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: All the acknowledged that the Red Emperor was the True Emperor.
+[P5-A-B0025-053] S=['IMPERIAL TROOPS'] P=kills O=['THE NOMADS'] MOD={"in_on_at": "YUTHUPPA"} implicit=False ps="slaughtered" sug=one of: kills, shatters, dies
+   Q: In 4/54 (1463), imperial troops slaughtered the nomads at Yuthuppa when the nomads attempted a mass withdrawal of their herds and families from central Peloria.
+[P5-A-B0026-001] S=['SHENG SELERIS'] P=wounds O=['RED MOON'] implicit=False ps="still bears scars from this attack" sug=wounds
+   Q: Sheng Seleris leading the attack on the Emperor's Moon Palace on the Red Moon. || The Red Moon still bears scars from this attack.
+[P5-A-B0026-002] S=['RED EMPEROR', 'CULT OF ARONIUS JARANTHIR'] P=defeats O=['THE NOMADS'] implicit=True ps="gave chase and drove them to rout" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Emperor and the cult of Aronius Jaranthir gave chase and drove them to rout.
+[P5-A-B0026-003] S=['RED EMPEROR', 'ALLIES FROM CARMANIA'] P=travels O=[] MOD={"to": "RAIBANTH"} implicit=True ps="marched to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Emperor, accompanied by his allies from Carmania, marched to Raibanth and liberated it from its foes.
+[P5-A-B0026-004] S=['RED EMPEROR', 'ALLIES FROM CARMANIA'] P=protects O=['RAIBANTH'] implicit=True ps="liberated it from its foes" sug=rescues / frees
+   Q: The Emperor, accompanied by his allies from Carmania, marched to Raibanth and liberated it from its foes.
+[P5-A-B0026-005] S=['RED EMPEROR'] P=is identified as O=['SHAH OF CARMANIA'] implicit=True ps="certainly seemed to be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: They acknowledged that he certainly seemed to be Shah of Carmania
+[P5-A-B0026-006] S=['RED EMPEROR'] P=is child of O=['RED GODDESS'] implicit=True ps="acknowledged him to be the Son of" sug=is child of
+   Q: some acknowledged him to be the Son of the Red Goddess.
+[P5-A-B0026-007] S=['RED EMPEROR'] P=challenges O=['THE SCOFFLAWS'] implicit=False ps="invoked the powers of the Ten Tests" sug=one of: challenges, breaks oath, betrays, fights
+   Q: The Red Emperor then invoked the powers of the Ten Tests, and furthermore offered the scofflaws the chance to name one test each.
+[P5-A-B0026-008] S=['SHENG SELERIS'] P=travels O=[] MOD={"via": ["MORTAL AND MAGICAL PLANES"]} implicit=False ps="was pursuing the Emperor through" sug=hunts
+   Q: While Sheng Seleris was pursuing the Emperor through mortal and magical planes
+[P5-A-B0026-009] S=['KING ORIOS LONGARMS'] P=travels O=[] MOD={"to": "MAD SULTANATE OF TORK"} implicit=False ps="cross the cursed borders of" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: King Orios Longarms had the unfortunate fate to cross the cursed borders of the Mad Sultanate of Tork.
+[P5-A-B0026-010] S=['RED EMPEROR'] P=enchants O=['BORDER OF THE MAD SULTANATE'] implicit=True ps="could have disguised" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: It is possible that the Emperor, who was in the region at the time, could have disguised it.
+[P5-A-B0026-011] S=['THE CRAZED VICTORS'] P=defeats O=['ARMY OF ORIOS'] implicit=False ps="was encircled and destroyed" sug=shatters
+   Q: The army of Orios was encircled and destroyed, and the crazed victors then turned and marched across the broken barrier of their imprisonment.
+[P5-A-B0026-012] S=['MAD SULTAN'] P=kills O=['RED EMPEROR', 'FOLLOWERS OF THE RED EMPEROR'] implicit=False ps="caught the Red Emperor unawares, killed him" sug=one of: kills, shatters, dies
+   Q: The Mad Sultan caught the Red Emperor unawares, killed him and his followers, and continued into nomad-held Kostaddi.
+[P5-A-B0026-013] S=['MAD SULTAN'] P=travels O=[] MOD={"to": "KOSTADDI"} implicit=False ps="continued into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Mad Sultan caught the Red Emperor unawares, killed him and his followers, and continued into nomad-held Kostaddi.
+[P5-A-B0026-014] S=['SHENG SELERIS'] P=defeats O=['MAD SULTANATE'] implicit=True ps="turned southward" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: They were eventually turned southward by Sheng Seleris.
+[P5-A-B0026-015] S=['HON-EEL'] P=is identified as O=['THE THIRD INSPIRATION OF MOONSON'] implicit=False ps="who is called" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the biography of Hon-eel the Artess, who is called "The Third Inspiration of Moonson."
+[P5-A-B0026-016] S=['HON-EEL'] P=is identified as O=['THE ARTESS'] implicit=False ps="the Artess" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the biography of Hon-eel the Artess
+[P5-A-B0026-017] S=['HON-EEL'] P=protects O=["THE EMPIRE'S OLD BORDERS"] implicit=True ps="restored" sug=one of: protects, rescues / frees, aids
+   Q: Essentially, she restored the empire's old borders with the subtlety of her Arts, and also worked to expand them.
+[P5-A-B0026-018] S=['HON-EEL'] P=is child of O=['RED EMPEROR'] implicit=False ps="a demigoddess daughter of" sug=is child of
+   Q: This fresco depicts the goddess Hon-eel, a demigoddess daughter of the Red Emperor.
+[P5-A-B0026-019] S=['HON-EEL'] P=claims ancestry O=['RED GODDESS'] implicit=True ps="her grandmother" sug=claims ancestry
+   Q: Above her is the Red Goddess, her grandmother.
+[P5-A-B0026-020] S=['RED EMPEROR'] P=is identified as O=['SUN GOD'] implicit=False ps="who in various incarnations is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: is accompanied by the Red Emperor (who in various incarnations is the Sun God, the son of the Red Moon, the father of Hon-eel, and her lover).
+[P5-A-B0026-021] S=['RED EMPEROR'] P=is child of O=['RED MOON'] implicit=False ps="the son of" sug=is child of
+   Q: is accompanied by the Red Emperor (who in various incarnations is the Sun God, the son of the Red Moon, the father of Hon-eel, and her lover).
+[P5-A-B0026-022] S=['RED EMPEROR'] P=is spouse of O=['HON-EEL'] implicit=False ps="her lover" sug=is spouse of
+   Q: is accompanied by the Red Emperor (who in various incarnations is the Sun God, the son of the Red Moon, the father of Hon-eel, and her lover).
+[P5-A-B0026-023] S=['HORSE QUEEN', 'STORM BARBARIAN'] P=serves O=['HON-EEL'] implicit=True ps="worship" sug=is worshipped by
+   Q: A defeated Horse Queen and storm barbarian worship her.
+[P5-A-B0026-024] S=['HWARIN DALTHIPPA'] P=is identified as O=['CONQUERING DAUGHTER'] implicit=False ps="Hwarin Dalthippa the Conquering Daughter" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: On the second day, the peoples of Sylila, led by Hwarin Dalthippa the Conquering Daughter (she had returned to earth for this special occasion), appeared in full splendor
+[P5-A-B0026-025] S=['HWARIN DALTHIPPA'] P=rules O=['PEOPLES OF SYLILA'] implicit=False ps="led by" sug=leads
+   Q: On the second day, the peoples of Sylila, led by Hwarin Dalthippa the Conquering Daughter (she had returned to earth for this special occasion), appeared in full splendor
+[P5-A-B0026-026] S=['HWARIN DALTHIPPA'] P=travels O=[] MOD={"to": "THE EARTH"} implicit=True ps="had returned to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: (she had returned to earth for this special occasion)
+[P5-A-B0026-027] S=['YARA ARANIS'] P=is identified as O=['REACHING MOON GODDESS'] implicit=False ps="Yara Aranis the Reaching Moon goddess" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: On the third day came Yara Aranis the Reaching Moon goddess, drawn in a huge gilded wagon by a horde of her worshipers.
+[P5-A-B0026-028] S=['YARA ARANIS'] P=rides O=['A HUGE GILDED WAGON'] implicit=False ps="drawn in a huge gilded wagon by" sug=rides
+   Q: On the third day came Yara Aranis the Reaching Moon goddess, drawn in a huge gilded wagon by a horde of her worshipers.
+[P5-A-B0026-029] S=['RED EMPEROR'] P=bestows magic / gifts O=['PRIESTS', 'MONEY', 'TROOPS', 'HON-EEL'] IO=['THE MIGRATION'] MOD={"purpose_clause": "TO THWART"} implicit=True ps="supported the migration with" sug=aids
+   Q: To counteract the threat of the horse nomads, who still loomed in nearby eastern lands, the Emperor supported the migration with priests, money, troops, and Hon-eel.
+[P5-A-B0026-030] S=['HON-EEL', 'FIRST PILGRIM AND SETTLER BANDS'] P=travels O=[] MOD={"to": "ORAYA", "via": ["ARCOS RIVER"]} implicit=False ps="led the first pilgrim and settler bands up" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: In 5/17 (1480), Hon-eel led the first pilgrim and settler bands up the Arcos river to settle the future sultanate of Oraya.
+[P5-A-B0026-031] S=['HON-EEL', 'FIRST PILGRIM AND SETTLER BANDS'] P=enchants O=['THE GROUND OF ORAYA'] implicit=True ps="blessed" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: They blessed the ground and invited the light of the Red Moon to cover them fully.
+[P5-A-B0026-032] S=['HON-EEL'] P=marries O=['THE SUN'] implicit=False ps="her wedding with the sun" sug=is spouse of (qual=wedding)
+   Q: it was agreed that Hon-eel's children were greater, and so surely her wedding with the sun had been with a higher manifestation.
+[P5-A-B0026-033] S=['TWILIGHT', 'NIGHTLIGHT'] P=is child of O=['HON-EEL'] implicit=False ps="Hon-eel's children" sug=is child of
+   Q: Hon-eel's children were greater || The pair have remained important in Orayan worship, and are called Twilight and Nightlight
+[P5-A-B0026-034] S=['TWILIGHT', 'NIGHTLIGHT'] P=is member of O=['TEMPLE SHARED WITH NOONLIGHT'] implicit=True ps="are worshipped with Noonlight in one temple" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The pair have remained important in Orayan worship, and are called Twilight and Nightlight, and are worshipped with Noonlight in one temple.
+[P5-A-B0026-035] S=['TWILIGHT', 'NIGHTLIGHT'] P=rules O=['THE LAND WHICH THEY WERE BORN INTO'] implicit=True ps="claimed" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The children then claimed the land which they were born into, and marked its boundaries with poles and shadows.
+[P5-A-B0026-036] S=['HON-EEL'] P=re-enacts O=['WHOLE DANCE OF SPRING'] IO=['THE CHTHONIC GODDESS'] implicit=True ps="performing" sug=re-enacts
+   Q: She did this by performing the Whole Dance of Spring for the chthonic goddess during the most secret of the earth rituals.
+[P5-A-B0026-037] S=['PRINCE PHORONESTES'] P=is child of O=['HON-EEL'] implicit=True ps="Her son" sug=is child of
+   Q: Her son, Prince Phoronestes, was well guarded by Lunar viceroys and eventually ascended to his throne at age 16.
+[P5-A-B0026-038] S=['PRINCE PHORONESTES'] P=rules O=['TARSH'] implicit=False ps="ascended to his throne" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: though Hon-eel left an infant son on Tarsh's throne || Her son, Prince Phoronestes, was well guarded by Lunar viceroys and eventually ascended to his throne at age 16.
+[P5-A-B0026-039] S=['SCREAMING SHAMANS'] P=manifests O=['DEMONS'] MOD={"in_on_at": "FIRST BLESSED"} implicit=False ps="called demons upon" sug=summons / invokes
+   Q: screaming shamans again called demons upon the hapless farms of First Blessed.
+[P5-A-B0026-040] S=['THE NOMADS'] P=defeats O=['IMPERIAL ARMY OF THE SOUTH'] MOD={"in_on_at": "JARST"} implicit=False ps="was destroyed by" sug=shatters
+   Q: The Imperial Army of the South was east to restore the situation but the army was destroyed by nomads in 5/42 (1505) as it marched through Jarst.
+[P5-A-B0026-041] S=["SYNDIC'S BAN"] P=binds O=['FRONELA'] implicit=False ps="was permanently under its curse of" sug=binds
+   Q: convinced at last that Fronela was permanently under its curse of the Syndic's Ban and was no longer a threat
+[P5-A-B0026-042] S=['RED GODDESS'] P=departs from O=['THE EARTH'] implicit=True ps="had left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: The end of the Wane found the Empire in its most calm and peaceful state since the Goddess had left the earth.
+[P5-A-B0026-043] S=["SYNDIC'S BAN"] P=protects O=['THE BORDERS OF THE EMPIRE'] implicit=True ps="had been secured by" sug=one of: protects, rescues / frees, aids
+   Q: The borders had been secured by the Syndic's ban in the west and by the nomad withdrawal in the east.
+[P5-A-B0026-044] S=['LUNAR WIVES'] P=teaches O=['LUNAR MAGIC'] IO=['WOMEN OF TALASTAR, JARST, AND GARSTING'] implicit=True ps="taught some Lunar magic to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: They accepted luxurious gifts and Lunar wives, who entered the cults of their land and taught some Lunar magic to a few of their women.
+[P5-A-B0026-045] S=['LUNAR WIVES'] P=is member of O=['CULTS OF TALASTAR, JARST, AND GARSTING'] implicit=True ps="entered the cults of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: They accepted luxurious gifts and Lunar wives, who entered the cults of their land
+[P5-A-B0026-046] S=['RED GODDESS'] P=travels O=[] MOD={"to": "THE SKY"} implicit=True ps="rose to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The peace and prosperity which the Goddess had promised when she rose to the sky now lay upon all like a rich, plush cloak.
+[P5-A-B0027-001] S=['EEL-ARIASH'] P=claims ancestry O=['DEMIGODDESS ANCESTOR OF THE EEL-ARIASH'] implicit=False ps="their demigoddess ancestor" sug=claims ancestry
+   Q: the Molari-sor took Oraya Satrapy, replacing the crippled house of the Eel-ariash, who nonetheless kept control of the cult of their demigoddess ancestor.
+[P5-A-B0027-002] S=['EEL-ARIASH'] P=rules O=['CULT OF THE DEMIGODDESS ANCESTOR OF THE EEL-ARIASH'] implicit=False ps="kept control of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Eel-ariash, who nonetheless kept control of the cult of their demigoddess ancestor.
+[P5-A-B0027-003] S=['RED GODDESS'] P=manifests O=['FLOWER POEM'] implicit=False ps="An incarnation of the Red Goddess called" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: An incarnation of the Red Goddess called the "Flower Poem" was summoned at a special ceremony and took a new lover, founding the Taran-il dynasty.
+[P5-A-B0027-004] S=['FLOWER POEM'] P=marries O=['A NEW LOVER'] implicit=False ps="took a new lover" sug=is spouse of (qual=wedding)
+   Q: An incarnation of the Red Goddess called the "Flower Poem" was summoned at a special ceremony and took a new lover, founding the Taran-il dynasty.
+[P5-A-B0027-005] S=['JENET-AROR'] P=kills O=['RED EMPEROR'] implicit=False ps="was assassinated as part of a failed attempt by" sug=one of: kills, shatters, dies
+   Q: Two years later, the Red Emperor himself was assassinated as part of a failed attempt by the Jenet-aror to return to power.
+[P5-A-B0027-006] S=['RED EMPEROR'] P=kills O=['LAST MEMBERS OF THE JENET-AROR'] MOD={"purpose_clause": "TO PUNISH"} implicit=False ps="executed" sug=one of: kills, shatters, dies
+   Q: Upon his return, the Red Emperor executed the last members of the Jenet-aror for treason.
+[P5-A-B0027-007] S=['EEL-ARIASH'] P=kills O=['TWO OF THE THREE CLANS THAT MAKE THE MOON BOATS'] implicit=False ps="exterminating" sug=one of: kills, shatters, dies
+   Q: In 6/26 (1543), the Eel-ariash took over Oronin after exterminating two of the three clans that make the wondrous Moon Boats in a particularly vicious Dart
+[P5-A-B0027-008] S=['TAX DEMONS'] P=fights O=['EEL-ARIASH'] MOD={"at_the_command_of": ["RED EMPEROR"]} implicit=False ps="sent Tax Demons against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Red Emperor sent Tax Demons against them, but Eel-ariash proved immune to them.
+[P5-A-B0027-009] S=['RED EMPEROR'] P=bestows magic / gifts O=['REGALIA OF OFFICE'] IO=['EEL-ARIASH'] implicit=True ps="gave them their regalia of office" sug=one of: bestows, heals, imbues, teaches
+   Q: so the Emperor ultimately gave them their regalia of office, although he begrudged them many honors and blessings.
+[P5-A-B0027-010] S=['HARREK THE BERSERK'] P=kills O=['RED EMPEROR'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: In 7/36 (1607), to everyone's horror, Harrek the Berserk killed the Red Emperor and then fled to the dark forests of Fronela.
+[P5-A-B0027-011] S=['HARREK THE BERSERK'] P=flees to O=['DARK FORESTS OF FRONELA'] implicit=False ps="fled to" sug=flees to
+   Q: In 7/36 (1607), to everyone's horror, Harrek the Berserk killed the Red Emperor and then fled to the dark forests of Fronela.
+[P5-A-B0027-012] S=['HARREK THE BERSERK'] P=is identified as O=['DEMIGOD'] implicit=False ps="the demigod" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: A more recent Dart Competition between the Wyuaoor and Yanoriao-ilart clans unleashed the demigod Harrek the Berserk.
+[P5-A-B0027-013] S=['KING PHORONESTES'] P=is child of O=['HON-EEL'] implicit=True ps="the son of" sug=is child of
+   Q: King Phoronestes of Tarsh, the son of Honeel the Artess, died suspiciously in Furthest.
+[P5-A-B0027-014] S=['PHILIGOS'] P=is child of O=['KING PHORONESTES'] implicit=True ps="His son and heir" sug=is child of
+   Q: His son and heir, Philigos, was a callow youth barely fifteen years old, but recognized as king by the Red Emperor.
+[P5-A-B0027-015] S=['PHILIGOS'] P=rules O=['TARSH'] MOD={"in_accordance_with": ["RED EMPEROR"]} implicit=True ps="recognized as king by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: His son and heir, Philigos, was a callow youth barely fifteen years old, but recognized as king by the Red Emperor.
+[P5-A-B0027-016] S=['FOLLOWERS OF THE EARTHSHAKER'] P=fights O=['PHILIGOS'] implicit=False ps="rose in rebellion against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: followers of the bloodthirsty Earthshaker rose in rebellion against King Philigos, led by a drunken savage called Palashee Longaxe.

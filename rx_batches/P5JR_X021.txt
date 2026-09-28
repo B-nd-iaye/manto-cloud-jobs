@@ -1,0 +1,97 @@
+### WOD-JR:05110 | WOD-JR | WOD-JR 47235 (Opposing Chaos) | Select Month September 2026
+FIGURES: CACODEMON, KRARSHT, VIVAMORT
+TEXT: - Krarsht – goddess of secret corruption, underminer of order from within. Hated by almost everyone. - Vivamort – god of undying death. Hated by almost everyone. - Cacodemon – god of pointless destruction and patron of serial killers. Hated by almost everyone.
+TARGETS: hates / fears
+
+### WOD-JR:05111 | WOD-JR | WOD-JR 47235 (Opposing Chaos) | Select Month September 2026
+FIGURES: THANATAR
+TEXT: - Thanatar – horrific chaos god that wants to steal your knowledge and enslave your mind. Hated by everyone. - Primal Chaos – god of chaos, warper of reality, perverter of order, and incompatible with the gods. Hated by almost everyone.
+TARGETS: hates / fears
+
+### WOD-JR:05117 | WOD-JR | WOD-JR 47560 (Storm Bull Amongst the Praxians) | Select Month September 2026
+FIGURES: LIGHTBRINGERS, ORLANTH, STORM BULL
+TEXT: Among the civilized orlanthi the attitude towards Storm bull is more nuanced especially among the other Lightbringers beyond Orlanth (who has the closest ties to Storm Bull). Orlanth loves his brother but his companions are often more neutral.
+TARGETS: loves / desires
+
+### WOD-JR:05144 | WOD-JR | WOD-JR 47645 (New Pavis after the Liberation I) | Select Month September 2026
+FIGURES: ARGRATH
+TEXT: When Argrath and his alliance of nomads and exiled Sartarites breached the city walls, those Lunar soldiers that did not surrender were killed. Those that surrendered were disarmed and stripped of everything but clothes on their back, and put in fetters but not killed. Those associated with garrison and governor were treated similarly – surrender and be bound, refuse and be killed.
+TARGETS: punishes / exiles
+
+### WOD-JR:05147 | WOD-JR | WOD-JR 47645 (New Pavis after the Liberation I) | Select Month September 2026
+FIGURES: ARGRATH
+TEXT: The first day's march was under escort as Argrath's most loyal nomads marched them beyond the fields and grasslands of Pavis County. At sunset, the escort turned back and the prisoners were on their own. Less than half made it to Dragon Pass, half-dead and babbling about the terrifying mercy of the rebel Argrath. It is thought that a few turned southeast and headed across the Long Dry for the Grantlands. The rest died.
+TARGETS: dies
+
+### WOD-JR:05148 | WOD-JR | WOD-JR 47645 (New Pavis after the Liberation I) | Select Month September 2026
+FIGURES: ARGRATH
+CONTEXT: s under escort as Argrath's most loyal nomads marched them beyond the fields and grasslands of Pavis County. At sunset, the escort turned back and the prisoners were on their own. Less than half made it to Dragon Pass, half-dead and babbling about the terrifying mercy of the rebel Argrath. It is thought that a few turned southeast and headed across the Long Dry for the Grantlands. The rest died.
+TEXT: This set the tone for the following weeks. Any Lunar associated with the garrison or the governor had either fled or was marched out of the city. Taverns and inns that were visibly "Lunar" (signboards in the foreign language, catered to soldiers, had the governor's crest, etc.) were looted and Lunar-owned property was distributed to Argrath's lieutenants and allies. Praxian khans and bandit chieftains took fine homes once owned by Lunar captains, served by those who had once waited on the enemy. Downtown became the district of Praxians and mercenaries.
+TARGETS: possesses / wields
+
+### WOD-JR:05156 | WOD-JR | WOD-JR 47714 (Arkat the Bodhisattva) | Select Month September 2026
+FIGURES: HUMAKT, KYGER LITOR
+TEXT: - On the battlefield he meets the wrathful guru in the form of Humakt. He literally dies and is reborn as Death incarnate. The sword severs every remaining trace of his previous identities. - He descends into the underworld and is adopted by Kyger Litor, living as a mistress race troll in absolute primordial Darkness. This is the retreat into the mother clear-light, the black womb before creation—the rare and fearsome "charnel-ground" stage taken to cosmic scale.
+TARGETS: dies
+
+### WOD-JR:05166 | WOD-JR | WOD-JR 47714 (Arkat the Bodhisattva) | Select Month September 2026
+FIGURES: RED GODDESS
+TEXT: One last thought – the supreme irony is the Red Goddess completed the EXACT SAME mahasiddha cycle. She died, descended, integrated chaos, recognised the ground, and returned as a liberating force. She is not a false siddha in her personal myth — she is one of the most complete figures in Gloranthan God Time.
+TARGETS: dies
+
+### WOD-JR:05172 | WOD-JR | WOD-JR 47730 (Dorasar and Ancient Greek colonies) | Select Month September 2026
+FIGURES: ISSARIES, ORLANTH
+TEXT: In Glorantha, Dorasar served as the oikist equivalent, a member of the Sartar dynasty acknowledged by the colonists because of his status and deeds. He wielded extensive powers: selecting the site, distributing land, organizing religious cults, and laying out the urban plan. Upon his death, power transitioned smoothly to a city council composed of leading kinship groups (e.g., heirs of Dorasar's companions like Garhound, Varthanis, Indagos, and Ingilli), guilds, and temple representatives (especially Pavis, Orlanth, and Issaries cults). No hereditary monarchy was established by his children; instead, the city emphasized collective rule by elites, much like the oligarchic shifts in Greek colonies.
+TARGETS: possesses / wields
+
+### WOD-JR:05179 | WOD-JR | WOD-JR 47733 (Lunar Ideology of Power) | Select Month September 2026
+FIGURES: MOONSON, RED EMPEROR, RED GODDESS, YELM
+TEXT: The Lunar Empire takes this ideology even further. The Red Emperor's authority comes directly from his mother, the Red Goddess, who is the daughter of Yelm. Every Red Emperor is considered eternally the same immortal being, reborn repeatedly into a new body (a new "Mask"). Each incarnation is a distinct individual—often from very different backgrounds, social classes, or even provinces—but the Egi confirm that the candidate truly carries the immortal soul of Moonson. There is no succession, only recognition.
+TARGETS: possesses / wields
+
+### WOD-JR:05200 | WOD-JR | WOD-JR 47783 (New Pavis City Council) | See Also
+FIGURES: ARGRATH
+TEXT: - 1625–?: Brygga Scissortongue (re-appointed by Prince Argrath as civic administrator; keeps informal title and residence) ## See Also > Dorasar, Prince of Pavis I find Brygga fascinating. I assume she was born somewhere around 1570, making her part of that second generation of New Pavis. This makes her quite the political survivor, someone who can remember Dorasar as a child, grew up during the city at its height, had to navigate the Lunar Occupation, got exiled to Garhound for a few years, and returned to navigate Argrath.
+TARGETS: punishes / exiles
+
+### WOD-JR:05209 | WOD-JR | WOD-JR 48277 (Views of Arkat) | Select Month September 2026
+FIGURES: ARKAT
+TEXT: So if we look at these folk we get: Brithini – for them Arkat left them and died. He started from their point but once he renounced the Horali caste restrictions, they renounced him (for their own survival).
+TARGETS: dies
+
+### WOD-JR:05212 | WOD-JR | WOD-JR 48277 (Views of Arkat) | Select Month September 2026
+FIGURES: ARKAT, GBAJI
+TEXT: Trolls – Arkat proved he was actually always a mistress race troll and defeated all those who challenged him. He defeated Gbaji and avenged trolldom for the Curse of Kin. Don't tell me anything bad about Arkat Kingtroll.
+TARGETS: curses; avenges
+
+### WOD-JR:05214 | WOD-JR | WOD-JR 48277 (Views of Arkat) | Select Month September 2026
+FIGURES: ARKAT, GOD LEARNERS
+TEXT: Now Arkat is gone. His presence in the Hero Plane is walled off (presumably by God Learners) and we can't experience him directly despite his apotheosis in 500. When his Dark Empire was destroyed, the God Learners made sure that he could not be directly contacted anymore, and his surviving followers fled underground trying to hold onto and transmit the intellectual knowledge that Arkat had about the Hero Plane, heroquesting, and about his own purpose and role in the cosmos. After nine centuries that stuff got pretty weird. It is called the Stygian Heresy by the Malkioni, because it says all sorts of things that contradict reason and humanism. The Orlanthi of Ralios distrust it because it is Arkat, and Arkat betrayed their secrets to the trolls – but that's treason and oath-breaking not heresy. And the trolls of Guhan are totally fine with it.
+TARGETS: breaks oath
+
+### WOD-JR:05216 | WOD-JR | WOD-JR 48277 (Views of Arkat) | Jeff Richard
+FIGURES: ARKAT, GOD LEARNERS, HARMAST BAREFOOT, HUMAKT, NYSALOR, SECOND COUNCIL, ZORAK ZORAN
+TEXT: A section of the Arkat and Nysalor Seventh Wane Lunar painting from the Temple of Mysteries in Ganbarri. - Display pages tagged Arkat Jeff Richard 500 ST, Arkat, Brithini, Curse of Kin, Dark Empire, Dorastor, God Learners, Harmast Barefoot, Hero Plane, Horali (caste), Hrestoli, Humakt, Malkioni, Mistress Race Trolls, Orlanthi, Second Council, Stygian heresy, Trolls, Zorak Zoran
+TARGETS: curses
+
+### WOD-JR:05239 | WOD-JR | WOD-JR 52306 (Table Tales: Mark Morrison uses Greg’s “) | "Tell me about…"
+FIGURES: EIRITHA
+CONTEXT: layers. Greg liked to make myths together, so he would invite everyone to build a little part of Glorantha with him for that session. "Tell me about Glorantha" is something that Greg Stafford, original creator of the setting, would do when running a game for new players. Greg liked to make myths together, so he would invite everyone to build a little part of Glorantha with him for that session.
+TEXT: He might mention a name – say, the goddess Eiritha, and then would say to the group "I don't much about her, what can you tell me?" To Greg, didn't matter if what they came up with contradicted something that had been written before. What mattered was that everyone at the table got to tell the story rather than just listen to it, and Glorantha was a world you lived in rather than visited.
+TARGETS: dwells at
+
+### WOD-JR:05240 | WOD-JR | WOD-JR 52306 (Table Tales: Mark Morrison uses Greg’s “) | "Tell me about…"
+FIGURES: STORM BULL, YELMALIO
+TEXT: Marcellinus chose Deseros, a bison-riding nomad who hates Chaos and worships the tempestuous god Storm Bull. As a contrast, Scott chose Kilystra, a disciplined Sun Dome templar who worships Yelmalio, son of light.
+TARGETS: hates / fears
+
+### WOD-JR:05246 | WOD-JR | WOD-JR 52306 (Table Tales: Mark Morrison uses Greg’s “) | "Tell me about…"
+FIGURES: EIRITHA
+CONTEXT: layers. Greg liked to make myths together, so he would invite everyone to build a little part of Glorantha with him for that session. "Tell me about Glorantha" is something that Greg Stafford, original creator of the setting, would do when running a game for new players. Greg liked to make myths together, so he would invite everyone to build a little part of Glorantha with him for that session.
+TEXT: He might mention a name – say, the goddess Eiritha, and then would say to the group "I don't much about her, what can you tell me?" To Greg, didn't matter if what they came up with contradicted something that had been written before. What mattered was that everyone at the table got to tell the story rather than just listen to it, and Glorantha was a world you lived in rather than visited.
+TARGETS: dwells at
+
+### WOD-JR:05247 | WOD-JR | WOD-JR 52306 (Table Tales: Mark Morrison uses Greg’s “) | "Tell me about…"
+FIGURES: STORM BULL, YELMALIO
+TEXT: Marcellinus chose Deseros, a bison-riding nomad who hates Chaos and worships the tempestuous god Storm Bull. As a contrast, Scott chose Kilystra, a disciplined Sun Dome templar who worships Yelmalio, son of light.
+TARGETS: hates / fears

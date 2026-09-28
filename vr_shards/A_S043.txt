@@ -1,0 +1,300 @@
+[P5-A-B0134-033] S=['UMATH'] P=wounds O=['MACHINE'] implicit=True ps="damaged" sug=wounds
+   Q: He damaged the Machine by separating
+[P5-A-B0134-034] S=['GROWER'] P=serves O=['MACHINE'] implicit=False ps="designed to grow raw materials for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: This allowed Grower, designed to grow raw materials for the Machine to refine, to mutate and change its purpose without proper authorization.
+[P5-A-B0134-035] S=['GROWER'] P=alters mythic station O=[] implicit=False ps="to mutate and change its purpose" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: This allowed Grower, designed to grow raw materials for the Machine to refine, to mutate and change its purpose without proper authorization.
+[P5-A-B0134-036] S=['OCRON EVERSEER'] P=is member of O=['GOD LEARNERS'] implicit=False ps="was a famous God Learner" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Ocron Everseer was a famous God Learner who named all the known creatures and their habits in a now lost compendium.
+[P5-A-B0134-037] S=['ELVES'] P=fights O=['MACHINE'] MOD={"using": "ENTROPY", "at_the_command_of": ["GROWER"]} implicit=True ps="sent elves armed with entropy to wreck it" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: It decided to replace the Machine and sent elves armed with entropy to wreck it.
+[P5-A-B0134-038] S=['OCTAMONY OF ANCIENT MINERALS'] P=protects O=['MACHINE'] implicit=False ps="promulgated the Doomsday Plan to repair" sug=one of: protects, rescues / frees, aids
+   Q: The Octamony of Ancient Minerals proclaimed Damage Control and promulgated the Doomsday Plan to repair the Machine.
+[P5-A-B0134-039] S=['CRUCIBLE OF IRON'] P=comes into being O=[] MOD={"from": "ENTROPY", "at_the_instigation_of": ["OCTAMONY OF ANCIENT MINERALS"]} implicit=True ps="used it to fashion" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They took the entropy and used it to fashion the Crucible of Iron.
+[P5-A-B0134-040] S=['IRON MOSTALI'] P=is born from O=['CRUCIBLE OF IRON'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="marched out of" sug=is born from
+   Q: Iron Mostali marched out of the Crucible to destroy the enemies of the Machine.
+[P5-A-B0134-041] S=['DWARVES'] P=is born from O=['CLAY JAR'] implicit=True ps="From it clambered" sug=is born from
+   Q: From it clambered many clay Mostali, the Dwarves.
+[P5-A-B0134-042] S=['OCTAMONY OF ANCIENT MINERALS'] P=bestows magic / gifts O=['IRON'] IO=['DWARVES'] implicit=True ps="outfitted many dwarves with" sug=one of: bestows, heals, imbues, teaches
+   Q: The Octamony outfitted many dwarves with Iron and sent them to war.
+[P5-A-B0134-043] S=['DIAMOND DWARVES'] P=rules O=['DWARVES'] implicit=False ps="to be the leaders of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Perfection was sought this time, and the Diamond Dwarves were endowed with diamond skills to be the leaders of the Dwarves.
+[P5-A-B0134-044] S=['CHAOS'] P=shatters O=['ANCIENT MINERALS'] implicit=False ps="shattered" sug=shatters
+   Q: At the height of the procedure, chaos entered among them and shattered the Ancient Minerals into nothingness with a clap of doom.
+[P5-A-B0134-045] S=['DIAMOND DWARVES'] P=establishes cult O=['DECAMONY'] MOD={"in_on_at": "NIDA"} implicit=False ps="formed" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: The Diamond Dwarves at Nida formed the Decamony and assumed responsibility for the Plan.
+[P5-A-B0134-046] S=['SUN'] P=travels O=[] MOD={"from": "DUSTBIN", "at_the_instigation_of": ["DECAMONY"]} implicit=True ps="allowing the retrieval of the Sun from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: they repaired enough of the damage, allowing the retrieval of the Sun from the Dustbin [0 ST].
+[P5-A-B0134-047] S=['MOSTAL'] P=is identified as O=['WORLD MACHINE'] implicit=False ps="The World Machine" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Mostal, The World Machine
+[P5-A-B0134-048] S=['EVIL GODS'] P=shatters O=['MOSTAL'] implicit=False ps="broke" sug=shatters
+   Q: Mostal is gone now because evil gods broke it long ago.
+[P5-A-B0134-049] S=['DWARVES'] P=protects O=['MACHINE'] implicit=False ps="repair" sug=one of: protects, rescues / frees, aids
+   Q: By laboring at their chosen tasks the dwarves reclaim the lost energy and repair the Machine.
+[P5-A-B0134-050] S=['IRON'] P=comes into being O=[] MOD={"at_the_instigation_of": ["ANCIENT MINERALS"]} implicit=False ps="forged" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The Ancient Minerals forged Iron to recapture this lost energy and contain it.
+[P5-A-B0134-051] S=['OCTAMONY OF ANCIENT MINERALS'] P=is born from O=['MACHINE'] MOD={"purpose_clause": "TO AID"} implicit=False ps="created" sug=is born from
+   Q: To assist it in its operation, the Machine created the Octamony of Ancient Minerals.
+[P5-A-B0134-052] S=['OCTAMONY OF ANCIENT MINERALS'] P=transforms into O=['DECAMONY'] MOD={"using": "DIAMOND GOBLET"} implicit=True ps="was used to transform" sug=transforms into
+   Q: the Diamond Goblet was used to transform the Octamony into the Decamony that rules all dwarves.
+[P5-A-B0134-053] S=['DECAMONY'] P=rules O=['DWARVES'] implicit=False ps="rules" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Decamony that rules all dwarves.
+[P5-A-B0134-054] S=['GOOD DWARFS'] P=serves O=['MACHINE'] implicit=False ps="serve" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: All Good Dwarfs serve the Machine through one of these metals.
+[P5-A-B0134-055] S=['DOOMSDAY MACHINE'] P=is alternative name for O=['CRUCIBLE OF IRON'] implicit=True ps="Mortals call it" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Mortals call it the Doomsday Machine.
+[P5-A-B0134-056] S=['IRON'] P=wounds O=['TROLLS', 'ELVES'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="was wrought to burn" sug=wounds
+   Q: To strike against their bitterest enemies Iron was wrought to burn both trolls and elves at the slightest touch.
+[P5-A-B0135-001] S=['MANY DWARVES IN GREATWAY AND GEMBORG'] P=serves O=['EZKANKEKKO'] implicit=False ps="aided" sug=aids
+   Q: Many Dwarves in Greatway and Gemborg aided Ezkankekko, a local troll, against his enemies.
+[P5-A-B0135-002] S=['EZKANKEKKO'] P=is identified as O=['A LOCAL TROLL'] implicit=False ps="a local troll" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ezkankekko, a local troll
+[P5-A-B0135-003] S=['OPENHANDISTS'] P=shatters O=['A COG IN THE MACHINE'] implicit=False ps="broke" sug=shatters
+   Q: The Openhandists, in pursuing the God project, broke a cog in the Machine and halted all time [375 ST].
+[P5-A-B0135-004] S=['GBAJI'] P=comes into being O=[] MOD={"from": "THE GOD PROJECT"} implicit=False ps="created" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The God Project created Gbaji, a chaotic entity.
+[P5-A-B0135-005] S=['ELVES'] P=serves O=['GBAJI'] implicit=False ps="were Gbaji's greatest supporters" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Elves were Gbaji's greatest supporters
+[P5-A-B0135-006] S=['ELVES'] P=kills O=['OPENHANDISTS'] implicit=True ps="started assassinating" sug=one of: kills, shatters, dies
+   Q: they started assassinating the Openhandists when their work was done.
+[P5-A-B0135-007] S=['MANY OPENHANDISTS'] P=fights O=['GBAJI'] MOD={"in_on_at": "DORASTOR", "purpose_clause": "TO THWART"} implicit=False ps="sent their own army to Dorastor to terminate" sug=invades / raids
+   Q: Many Openhandists now could see the error of their ways and sent their own army to Dorastor to terminate Gbaji before further damage was done [450 ST].
+[P5-A-B0135-008] S=['ELVES', 'TROLLS', 'GIANTS'] P=fights O=['THE MACHINE'] implicit=False ps="started warring against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the elves, the trolls and even the giants started warring against the Machine again.
+[P5-A-B0135-009] S=['OCTAMONISTS'] P=protects O=['NORKANANTI'] implicit=False ps="saved from destruction" sug=one of: protects, rescues / frees, aids
+   Q: the return of the Octamonists saved Norkananti from destruction
+[P5-A-B0135-010] S=['GONN ORTA'] P=steals O=['JOLANTI'] MOD={"from": "DECAMONY"} implicit=False ps="stole" sug=steals
+   Q: Gonn Orta stole many Jolanti from the Decamony
+[P5-A-B0135-011] S=['AN ALLIANCE OF TROLLS AND KRALORI'] P=shatters O=['MANY CONCLAVES'] MOD={"in_on_at": "EASTERN MOUNTAINS"} implicit=False ps="destroyed" sug=shatters
+   Q: an alliance of trolls and Kralori destroyed many conclaves in the Eastern Mountains [570 ST].
+[P5-A-B0135-012] S=['MACHINE GOD'] P=comes into being O=[] MOD={"in_on_at": "LEFTARM ARCHIPELAGO", "at_the_instigation_of": ["HUMANS"], "purpose_clause": "TO OBTAIN"} implicit=True ps="made" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: They then sent more looting expeditions against our cities and made a Machine God in the Leftarm archipelago to misappropriate control over the Plan.
+[P5-A-B0135-013] S=['CHARK THE LIBERATOR'] P=teaches O=['EVERY DWARF WAS MADE IN THE IMAGE OF THE MACHINE'] implicit=False ps="said" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Chark the Liberator said every dwarf was made in the image of the Machine [700 ST]
+[P5-A-B0135-014] S=['INDIVIDUALISTS'] P=serves O=['CHARK THE LIBERATOR'] implicit=True ps="his followers" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: his followers called themselves Individualists.
+[P5-A-B0135-015] S=['OPENHANDISTS'] P=rules O=['GREATWAY'] implicit=False ps="seized control of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Openhandists again seized control of Greatway
+[P5-A-B0135-016] S=['NIDAN DECAMONY'] P=defeats O=['BELSKAN'] MOD={"in_on_at": "IRON MOUNTAINS", "with_the_aid_of": ["SLON DECAMONY"]} implicit=False ps="purged it of individualism" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Aided by support from recently contacted Slon Decamony, the Nidan Decamony sent an expeditionary force to Belskan in the Iron Mountains and purged it of individualism [852 ST].
+[P5-A-B0135-017] S=['GREATWAY'] P=pledges oath with O=['THIRD COUNCIL'] implicit=False ps="their alliance with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Numerous expeditions against Greatway failed to break their alliance with the Third Council.
+[P5-A-B0135-018] S=['MANY RACES AND PEOPLES'] P=shatters O=['MACHINE CITY'] MOD={"at_the_instigation_of": ["DECAMONY"]} implicit=False ps="persuaded to destroy" sug=shatters
+   Q: The Decamony resolved to destroy the source of the human's power and persuaded many races and peoples to destroy the Machine City [917 ST].
+[P5-A-B0135-019] S=['RED MOON'] P=becomes celestial body O=[] implicit=False ps="rose" sug=becomes celestial body
+   Q: The Red Moon rose [1247 ST].
+[P5-A-B0135-020] S=['OPENHANDISTS OF GREATWAY'] P=pledges oath with O=['DECAMONY'] implicit=True ps="pledged to further the Plan" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: They sent emissaries to the Decamony repudiating their former disruptive policies and pledged to further the Plan.
+[P5-A-B0135-021] S=['DWARVES OF JRUSTELA'] P=is member of O=['CURUSTUS CONCLAVE'] implicit=False ps="are organized into" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The dwarves of Jrustela are organized into the CURUSTUS CONCLAVE.
+[P5-A-B0135-022] S=['CURUSTUS CONCLAVE'] P=serves O=['DECAMONY OF SLON'] implicit=True ps="are subject to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They are subject to the Decamony of Slon
+[P5-A-B0135-023] S=['ANCIENT MOSTALI OF DWARF RUN'] P=is member of O=['OPENHANDISM', 'INDIVIDUALISM'] MOD={"in_on_at": "DWARF RUN"} implicit=False ps="practicing a brand of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: One of the friendliest ancient Mostali lives at DWARF RUN in Dragon Pass, practicing a brand of Openhandism and Individualism.
+[P5-A-B0135-024] S=['ANCIENT MOSTALI OF DWARF RUN'] P=bestows magic / gifts O=['CANNON CULT'] implicit=True ps="give out gifts or offer rentals" sug=one of: bestows, heals, imbues, teaches
+   Q: He has been known to give out gifts or offer rentals, such as the cannon cult, for unusual prices.
+[P5-A-B0135-025] S=['MOSTAL'] P=is identified as O=['THE FIRST BEING', 'THE MAKER'] implicit=False ps="was the first being, the Maker" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The dwarfs say Mostal was the first being, the Maker whose immutable Laws set everything in perfect and perpetual motion.
+[P5-A-B0135-026] S=["MOSTAL'S ORIGINAL BEINGS"] P=comes into being O=[] MOD={"from": "MOSTAL"} implicit=False ps="Mostal's original beings" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Mostal's original beings were of pure living metals: living gold, vital silver and all the rest of the eight original metals.
+[P5-A-B0135-027] S=['FOREIGN GODS'] P=shatters O=["MOSTAL'S PERFECTION"] MOD={"from": "CHAOS"} implicit=False ps="broke" sug=shatters
+   Q: Foreign gods came out of Chaos and broke Mostal's perfection.
+[P5-A-B0135-028] S=['MORTAL BEINGS'] P=steals O=['IMPORTANT TOOLS'] implicit=False ps="stole" sug=steals
+   Q: Mortal beings came and destroyed resources and chipped away at transformers and stole important tools.
+[P5-A-B0135-029] S=['THE BREAKERS'] P=shatters O=['MOSTAL'] implicit=False ps="smashed" sug=shatters
+   Q: The Breakers came and smashed Mostal, the Creator.
+[P5-A-B0135-030] S=['MOST OF THE ANCIENT METAL MOSTALI'] P=descends into O=['THE EMPTINESS OF CHAOS'] implicit=False ps="died with him, vaporized into" sug=dies
+   Q: Most of the ancient metal Mostali died with him, vaporized into the emptiness of chaos.
+[P5-A-B0135-031] S=['DWARFS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["SURVIVING ANCIENT MOSTALI"]} implicit=True ps="made the new race called" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: A few survived, and they made the new race called dwarfs.
+[P5-A-B0135-032] S=['DWARFS'] P=claims ancestry O=['MOSTALI'] implicit=True ps="their ancestry is true" sug=claims ancestry
+   Q: But their ancestry is true and it bestows immortality upon every one of them who follows their Mostali nature perfectly.
+[P5-A-B0135-033] S=['DWARFS'] P=transforms into O=['PURE METAL'] implicit=True ps="refine themselves until they obtain their pure metal heritage" sug=transforms into
+   Q: can refine themselves in mind, body and spirit until they obtain their pure metal heritage
+[P5-A-B0135-034] S=['LOSKALMI'] P=serves O=['MALKION'] implicit=False ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Loskalmi worship Malkion , the One God
+[P5-A-B0135-035] S=['MALKION'] P=is identified as O=['THE ONE GOD'] implicit=False ps="the One God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Malkion , the One God
+[P5-A-B0135-036] S=['HRESTOL'] P=serves O=['MALKION'] implicit=True ps="his prophet" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: hold Hrestol his prophet as the human Ideal.
+[P5-A-B0135-037] S=['HRESTOL'] P=alters mythic station O=['MALKIONI CASTE SYSTEM'] implicit=False ps="original revelations change into a meritocracy" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The original revelations from Hrestol change the earlier Malkioni caste system into a meritocracy
+[P5-A-B0135-038] S=['SIGLAT'] P=alters mythic station O=['ALL CHILDREN'] MOD={"in_accordance_with": ["HRESTOL"]} implicit=True ps="giving all children the social status of Farmer" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: During the Ban King Siglat finally put this worthy ideal into practice by giving all children the social status of Farmer.
+[P5-A-B0135-039] S=['JANUBE'] P=travels O=[] MOD={"from": "SWEET SEA", "to": "OZUR BAY", "via": ["FRONELA"]} implicit=False ps="winds westward" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Springing from the waters of the Sweet Sea, the River Janube winds westward through Fronela to empty in Ozur Bay.
+[P5-A-B0135-040] S=['SOGZANJIO MALAKUMB'] P=is alternative name for O=['SOG CITY'] implicit=True ps="actual name is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: It's actual name is Sogzanjio Malakumb, but no ones uses that now except the original Waertagi people that founded it before the Dawn.
+[P5-A-B0135-041] S=['SOG CITY'] P=comes into being O=[] MOD={"at_the_instigation_of": ["WAERTAGI"]} implicit=True ps="founded" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: the original Waertagi people that founded it before the Dawn.
+[P5-A-B0135-042] S=['CITY OF GREEN MEN'] P=is alternative name for O=['SOG CITY'] implicit=True ps="is also known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: It is also known as the City of Green Men because of the large number of green-skinned Waertagi that were stranded by the Closing.
+[P5-A-B0135-043] S=['A GUILD OF BRITHINI'] P=rules O=['SOG CITY'] implicit=True ps="rules" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: A guild of Brithini rules the city now.
+[P5-A-B0135-044] S=['HRESTOL'] P=is identified as O=['PROPHET OF THE JOY'] implicit=False ps="favorite prophet and martyr, Prophet of the Joy" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: its favorite prophet and martyr, Hrestol, Prophet of the Joy.
+[P5-A-B0135-045] S=['THE CATHEDRAL OF SAINT HRESTOL'] P=bestows magic / gifts O=['THE JOY OF THE HEART'] IO=['HUMANITY'] implicit=True ps="flow in return" sug=one of: bestows, heals, imbues, teaches
+   Q: Through this holy palace flow all the prayers of thousands of devout worshippers and, in return, the sweet Joy of the Heart that brings comfort to humanity.
+[P5-A-B0135-046] S=['JONAT'] P=fights O=['PERFE'] MOD={"with_the_aid_of": ["GIANTS"]} implicit=False ps="siege; used giants to try to push them over" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The walls of Perfe had withstood Jonat's siege when he used giants to try to push them over.
+[P5-A-B0135-047] S=['ARMY OF WAR'] P=fights O=['PERFE'] implicit=True ps="besieged" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the Army of War besieged the city.
+[P5-A-B0135-048] S=['PERFIANS'] P=kills O=['CATAPULTED WARRIORS OF THE ARMY OF WAR'] implicit=True ps="cut down" sug=one of: kills, shatters, dies
+   Q: When finally cut down by the Perfians, their corpses revealed they had been untroubled by the broken bones and injuries from their violent flights.
+[P5-A-B0135-049] S=['A LARGE FACTION OF THE ARMY OF WAR'] P=travels O=[] MOD={"to": "HENDOROS"} implicit=False ps="hurried to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: a large faction of the Army of War left the siege and hurried to the town of Hendoros to meet Count Defin Anostos.
+[P5-A-B0135-050] S=['KING OF WAR'] P=defeats O=["COUNT DEFIN ANOSTOS' KNIGHTS"] implicit=True ps="the malevolence of his gaze unnerved" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: It was said that the malevolence of his gaze unnerved Count Defin Anostos' knights to such an extent that the battle was over before it began.
+[P5-A-B0135-051] S=['KING OF WAR'] P=defeats O=['PERFE'] implicit=True ps="The city fell; feel the heavy hand of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The city fell several days later, and its citizenry became the first to feel the heavy hand of the King of War.
+[P5-A-B0136-001] S=['GOLDEN TYRANT'] P=rules O=['SOUTHBANK'] implicit=False ps="is still ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Southbank is still ruled by the Golden Tyrant, though most citizens worship the Red Moon instead of the sun.
+[P5-A-B0136-002] S=['CITIZENS OF SOUTHBANK'] P=serves O=['RED MOON'] implicit=False ps="worship" sug=is worshipped by
+   Q: Southbank is still ruled by the Golden Tyrant, though most citizens worship the Red Moon instead of the sun.
+[P5-A-B0136-003] S=['PELORIAN REFUGEES'] P=flees to O=['EASTPOINT'] MOD={"from": "SHENG SELERIS"} implicit=True ps="fleeing Sheng Seleris, to settle in" sug=flees to
+   Q: In 1384 the King of Valmark allowed Pelorian refugees, fleeing Sheng Seleris, to settle in the depopulated city.
+[P5-A-B0136-004] S=['CARMANIANS'] P=rules O=['EASTPOINT'] MOD={"purpose_clause": "TO OBTAIN"} implicit=False ps="seized" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Later, the Carmanians, in a bid to conquer the Arrolians, seized Eastpoint;
+[P5-A-B0136-005] S=['WHITE BEAR EMPIRE'] P=defeats O=['CARMANIANS'] MOD={"in_on_at": "EASTPOINT"} implicit=False ps="tossed out of" sug=exiles / banishes
+   Q: a hundred years later, the Carmanians were tossed out of Eastpoint by the White Bear Empire.
+[P5-A-B0136-006] S=['PEOPLE OF EASTPOINT'] P=serves O=['RED GODDESS'] implicit=False ps="venerate" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The people of Eastpoint still venerate the Red Goddess and still despise the Carmanians.
+[P5-A-B0136-007] S=['ARROLIANS'] P=establishes cult O=['RED MOON'] MOD={"in_on_at": "RIVERJOIN"} implicit=True ps="built a Temple of the Red Moon" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: As a majority, the Arrolians built a Temple of the Red Moon in the city square, much to the consternation of the Orlanthi
+[P5-A-B0136-008] S=['KINGDOM OF WAR'] P=comes into being O=[] implicit=False ps="did not exist" sug=appears
+   Q: In the days before the Ban the Kingdom of War did not exist.
+[P5-A-B0136-009] S=['KING OF WAR'] P=bestows magic / gifts O=['ARMIES OF WAR'] implicit=False ps="through the magics of" sug=one of: bestows, heals, imbues, teaches
+   Q: Somehow—doubtless through the magics of the King of War or his hidden Queen— the Armies of War are well-armed, wellequipped, and well-fed.
+[P5-A-B0136-010] S=['HIDDEN QUEEN'] P=is spouse of O=['KING OF WAR'] implicit=False ps="his hidden Queen" sug=is spouse of
+   Q: the King of War or his hidden Queen
+[P5-A-B0136-011] S=['COMPANIES OF WAR'] P=serves O=['PATRON DEITY, SAINT OR SPIRIT'] implicit=True ps="worships" sug=is worshipped by
+   Q: each company worships its own patron deity, saint or spirit.
+[P5-A-B0136-012] S=['RATHORI TRIBESMEN', 'RENEGADE FRONELAN KNIGHTS', 'JONATING PIKEMEN'] P=is member of O=['COMPANIES OF WAR'] implicit=True ps="rub shoulders with" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Rathori tribesmen rub shoulders with renegade Fronelan knights, mammoth-riding mahouts, stalwart Jonating pikemen, and diminutive skirmishers riding upon impalas.
+[P5-A-B0136-013] S=['LOSKALMI'] P=serves O=['ONE GOD'] implicit=False ps="worship" sug=is worshipped by
+   Q: The Loskalmi worship the One God, and hold Hrestol his prophet as the human ideal.
+[P5-A-B0136-014] S=['HRESTOL'] P=serves O=['ONE GOD'] implicit=True ps="his prophet" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: hold Hrestol his prophet as the human ideal.
+[P5-A-B0136-015] S=['HRESTOLI CHURCH'] P=is alternative name for O=['LOSKALMI CHURCH'] implicit=False ps="is often called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Loskalmi church is often called the Hrestoli church.
+[P5-A-B0136-016] S=['SIGLAT'] P=establishes cult O=["HRESTOL'S JUST SOCIETY"] MOD={"in_accordance_with": ["DOCTRINE OF EQUALITY"]} implicit=True ps="implementation of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: This led to King Siglat's implementation of Hrestol's Just Society, based entirely upon meritocractic ideals.
+[P5-A-B0136-017] S=['IRENSAVEL'] P=is identified as O=['GOD'] implicit=False ps="the ultimate identity of God is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: This doctrine reveals the ultimate identity of God is Irensavel, totally separate from the world.
+[P5-A-B0136-018] S=['GOD LEARNERS'] P=fights O=['DOCTRINE OF THE HIDDEN MOVER'] implicit=True ps="suppressed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Five centuries ago the God Learners suppressed the doctrine, but its truth was more powerful than the God Learners.
+[P5-A-B0136-019] S=['MAKAN'] P=is identified as O=['EVIL DEMIURGE'] implicit=False ps="was unveiled as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the corrupt God Learner's god, Makan, was unveiled as an evil demiurge
+[P5-A-B0136-020] S=['GOD LEARNERS'] P=serves O=['MAKAN'] implicit=False ps="God Learner's god" sug=is worshipped by
+   Q: the corrupt God Learner's god, Makan,
+[P5-A-B0136-021] S=['MAKAN'] P=binds O=['THE IGNORANT'] MOD={"in_on_at": "WORLD OF MATTER"} implicit=False ps="sought to ensnare" sug=binds
+   Q: Makan, was unveiled as an evil demiurge that sought to ensnare the ignorant into the world of matter so that they would never know Solace.
+[P5-A-B0136-022] S=['ROKARI WORSHIPPERS'] P=serves O=['MAKAN'] implicit=False ps="dupes of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Unsurprisingly, Hrestoli adherents characterize the Rokari worshippers as dupes of Makan.
+[P5-A-B0136-023] S=['IRENSAVAL'] P=manifests O=['MALKION'] implicit=False ps="manifested Himself as" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Irensaval manifested Himself as Malkion,
+[P5-A-B0136-024] S=['MALKION'] P=embodies O=['HIDDEN MOVER'] implicit=False ps="was an incarnation of" sug=one of: embodies, has domain
+   Q: Malkion, who was an incarnation of the Hidden Mover that came to the world to teach the truth to humankind.
+[P5-A-B0136-025] S=['MALKION'] P=teaches O=['HUMANKIND'] implicit=False ps="came to the world to teach the truth to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Malkion, who was an incarnation of the Hidden Mover that came to the world to teach the truth to humankind.
+[P5-A-B0136-026] S=['WHITE BEAR'] P=bestows magic / gifts O=['RATHORI'] implicit=False ps="gave some of them the power" sug=one of: bestows, heals, imbues, teaches
+   Q: According to the Rathori, the White Bear once gave some of them the power to stay active during the cold winter months
+[P5-A-B0136-027] S=['HARREK THE BERSERK'] P=kills O=['WHITE BEAR'] implicit=False ps="slew and skinned" sug=one of: kills, shatters, dies
+   Q: but that power was lost when the renegade Harrek the Berserk slew and skinned the white bear spirit.
+[P5-A-B0136-028] S=['ALDRYAMI OF ERIGIA'] P=teaches O=['RATHORI'] implicit=True ps="They learned to make these when they accepted" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: They learned to make these when they accepted the refugee Aldryami of Erigia who would otherwise have perished without a land to live in.
+[P5-A-B0136-029] S=['UNCOLINGS'] P=is member of O=['REINDEER HSUNCHEN'] implicit=True ps="are" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: They are Reindeer Hsunchen who migrate with their herds from the tundra of Porent to their winter grounds on the taiga of Gharkor.
+[P5-A-B0136-030] S=['UNCOLINGS'] P=travels O=[] MOD={"from": "PORENT", "to": "GHARKOR"} implicit=True ps="migrate" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: They are Reindeer Hsunchen who migrate with their herds from the tundra of Porent to their winter grounds on the taiga of Gharkor.
+[P5-A-B0136-031] S=['HARREK THE BERSERK'] P=is identified as O=['GREATEST WARRIOR IN THE WORLD'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Harrek the Berserk is the greatest warrior in the world.
+[P5-A-B0136-032] S=['HARREK THE BERSERK'] P=binds O=['WHITE BEAR'] implicit=True ps="capturing" sug=binds
+   Q: He came from the Bear People in Fronela after capturing their secret god, the White Bear, to be his slave.
+[P5-A-B0136-033] S=['BEAR PEOPLE'] P=serves O=['WHITE BEAR'] implicit=False ps="their secret god" sug=is worshipped by
+   Q: He came from the Bear People in Fronela after capturing their secret god, the White Bear, to be his slave.
+[P5-A-B0136-034] S=['HARREK THE BERSERK'] P=rules O=['YGGITES'] implicit=True ps="fought to leadership among" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He fought to leadership among the Yggites, mustered a fleet and migrated from Ygg's Isles.
+[P5-A-B0136-035] S=['HARREK THE BERSERK'] P=departs from O=["YGG'S ISLES"] implicit=True ps="migrated from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: He fought to leadership among the Yggites, mustered a fleet and migrated from Ygg's Isles.
+[P5-A-B0136-036] S=['HARREK THE BERSERK'] P=travels O=[] MOD={"to": "THREE STEP ISLES"} implicit=True ps="settling at" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He ravaged all western Genertela before settling at Three Step Isles, south of Dragon Pass.
+[P5-A-B0136-037] S=['HARREK THE BERSERK'] P=fights O=['WESTERN GENERTELA'] implicit=True ps="ravaged" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He ravaged all western Genertela before settling at Three Step Isles, south of Dragon Pass.
+[P5-A-B0136-038] S=['HUMAKT', 'UROX'] P=fights O=['LODRIL', 'YELM SAGITTUS'] implicit=False ps="their normal enemies" sug=hates
+   Q: Grim Humakt and howling berserk Urox are common enough together, but here they stand next to their normal enemies, such as the pike unit that worships Lodril and an archery unit worshipping Yelm Sagittus.
+[P5-A-B0136-039] S=['PIKE UNIT'] P=serves O=['LODRIL'] implicit=False ps="worships" sug=is worshipped by
+   Q: the pike unit that worships Lodril
+[P5-A-B0136-040] S=['ARCHERY UNIT'] P=serves O=['YELM SAGITTUS'] implicit=False ps="worshipping" sug=is worshipped by
+   Q: an archery unit worshipping Yelm Sagittus.
+[P5-A-B0136-041] S=["REGIMENT OF SAINT TALOR'S LAUGHING KNIGHTS"] P=serves O=['SAINT TALOR'] MOD={"in_on_at": "PERFE"} implicit=False ps="Saint Talor's laughing knights" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: a regiment of Saint Talor's laughing knights was heard at Perfe.
+[P5-A-B0136-042] S=['LEGION OF GHOULS'] P=swallows / consumes O=['THE DEAD'] implicit=False ps="eating" sug=swallows / consumes
+   Q: The Legion of Ghouls gain magical powers by eating the dead.
+[P5-A-B0136-043] S=['ARMIES OF WAR'] P=sacrifices O=['THEIR DEAD'] IO=['LEGION OF GHOULS'] implicit=False ps="feed their dead to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: The Armies of War have no funerary rites and are said to feed their dead to the Legion of Ghouls.
+[P5-A-B0136-044] S=['THIRD EYE BLUE'] P=rules O=['FRONELA'] implicit=False ps="claim to have formerly ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Third Eye Blue tribe claim to have formerly ruled all of Fronela until jealous Mostali destroyed them in a war.
+[P5-A-B0136-045] S=['MOSTALI'] P=defeats O=['THIRD EYE BLUE'] implicit=False ps="destroyed them in a war" sug=shatters
+   Q: The Third Eye Blue tribe claim to have formerly ruled all of Fronela until jealous Mostali destroyed them in a war.
+[P5-A-B0136-046] S=['YGGITES'] P=swallows / consumes O=['THEIR OWN CHILDREN'] implicit=False ps="were eating" sug=swallows / consumes
+   Q: When Dormal arrived the Yggites were eating their own children to survive.
+[P5-A-B0136-047] S=['DORMAL'] P=travels O=[] MOD={"to": "YGG'S ISLES"} implicit=True ps="arrived" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When Dormal arrived the Yggites were eating their own children to survive.
+[P5-A-B0136-048] S=['YGGITES'] P=fights O=['LOSKALMI'] implicit=False ps="came into conflict with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Yggites quickly took to the seas again and came into conflict with the Loskalmi, who sought to control their raiding and trading.
+[P5-A-B0137-001] S=['THE LOSKALMI'] P=kills O=['THE YGGITE KING'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: killed the Yggite king and built Coldfort on the coast near their islands.
+[P5-A-B0137-002] S=['HARREK THE BERSERK'] P=flees to O=['THE YGGITES'] implicit=True ps="took refuge among" sug=flees to
+   Q: Harrek the Berserk took refuge among them once
+[P5-A-B0137-003] S=['HARREK THE BERSERK'] P=travels O=[] MOD={"to": ["SESHNELA", "THE THREE STEPS ISLES", "JRUSTELA"]} implicit=True ps="led many away in a migration south" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: then led many away in a migration south to settle the lands of Seshnela, the Three Steps Isles, and Jrustela.
+[P5-A-B0137-004] S=['YGGITES'] P=serves O=['YGG'] implicit=False ps="worship" sug=is worshipped by
+   Q: Yggites worship Ygg, a storm god who rules winter and the north wind.
+[P5-A-B0137-005] S=['YGG'] P=rules O=['WINTER', 'THE NORTH WIND'] implicit=False ps="rules" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Ygg, a storm god who rules winter and the north wind.
+[P5-A-B0137-006] S=['GOD LEARNERS'] P=establishes cult O=['ORLANTH'] IO=['YGGITES'] implicit=True ps="foisted on them" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: they actively disdain Orlanth, a storm deity foisted on them by the God Learners.
+[P5-A-B0137-007] S=['WINTERWOOD'] P=is identified as O=['THE LAST FOREST'] implicit=True ps="was the Last Forest" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: All elves know it was the Last Forest during the great winter when only the green elves still stood awake.
+[P5-A-B0137-008] S=['WOOD MEN', 'ELVES', 'FETHLONI'] P=is alternative name for O=['ALDRYAMI'] implicit=False ps="Also known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Also known as: Wood men (Pelorian), Elves (Malkioni), Fethloni (Kralori).
+[P5-A-B0137-009] S=['ELVES'] P=has hybrid form O=[] implicit=True ps="Essentially mobile plants" sug=has anomalous form (qual=hybrid)
+   Q: Essentially mobile plants, they are significantly different from other humanoids and beasts; some even have leaves for hair.
+[P5-A-B0137-010] S=['ALDRYA'] P=rules O=['ALL REGIONS WHERE TREES DOMINATE'] implicit=False ps="rules" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Aldrya rules all regions where trees dominate, whether pine forests, deciduous woodlands, or tropical jungle.
+[P5-A-B0137-011] S=['ELVES', 'DRYADS'] P=is child of O=['ALDRYA'] implicit=True ps="is the mother of" sug=is child of
+   Q: She is the mother of the elves and dryads, who are her servants in the forest.
+[P5-A-B0137-012] S=['ELVES', 'DRYADS'] P=serves O=['ALDRYA'] implicit=True ps="are her servants" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: She is the mother of the elves and dryads, who are her servants in the forest.
+[P5-A-B0137-013] S=['ALDRYA'] P=rules O=['GLORANTHA'] implicit=False ps="blanketed" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Aldrya once blanketed all Glorantha in the Green Age
+[P5-A-B0137-014] S=['ALDRYA'] P=is identified as O=['GROWER'] implicit=False ps="is the Grower of the Forest" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Aldrya is the Grower of the Forest
+[P5-A-B0137-015] S=['GREEN ELVES'] P=protects O=['THE FORESTS'] implicit=True ps="defending" sug=one of: protects, rescues / frees, aids
+   Q: They have the heavy responsibility of defending the forests in the winter.
+[P5-A-B0137-016] S=['THE SIX GREAT TREES'] P=is born from O=['THE FIRST TREE'] implicit=False ps="grown from the seed of" sug=is born from
+   Q: Elves claim their forest is blessed by one of the six Great Trees grown from the seed of the First Tree.
+[P5-A-B0137-017] S=['ONE OF THE SIX GREAT TREES'] P=bestows magic / gifts O=['BALLID FOREST'] implicit=True ps="is blessed by" sug=one of: bestows, heals, imbues, teaches
+   Q: Elves claim their forest is blessed by one of the six Great Trees grown from the seed of the First Tree.
+[P5-A-B0137-018] S=['ERON'] P=embodies O=['THE WATERS THAT NURTURE PLANTS'] implicit=False ps="is the waters" sug=one of: embodies, has domain
+   Q: ERON is the waters that nurture plants and heal wounds
+[P5-A-B0137-019] S=['ALDRYAMI'] P=serves O=['ERON'] implicit=True ps="invoke" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Aldryami invoke him whenever they desire these things.
+[P5-A-B0137-020] S=['ALL THE PLANTS OF THE WORLD'] P=is child of O=['FALAMAL', 'THE EARTH GODDESSES'] implicit=False ps="begat" sug=is child of
+   Q: FALAMAL is the seed father that begat all the plants of the world upon the earth goddesses.
+[P5-A-B0137-021] S=['ALDRYAMI'] P=protects O=['FALAMAL'] implicit=True ps="is protected by" sug=one of: protects, rescues / frees, aids
+   Q: He is the weakest of all gods yet is protected by all the Aldryami for he is the most precious.
+[P5-A-B0137-022] S=['VRONKAL', "VRONKAL'S BAND OF FOLLOWERS"] P=protects O=['THE LIFELESS WOODS'] implicit=False ps="defended" sug=one of: protects, rescues / frees, aids
+   Q: VRONKAL and his small band of followers defended the lifeless woods during the Great Darkness.
+[P5-A-B0137-023] S=['ALDRYA', "ALDRYA'S CHILDREN"] P=rules O=['THE WHOLE WORLD'] implicit=False ps="covered" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the Green Age, Aldrya and her children covered the whole world.
+[P5-A-B0137-024] S=['OTHER GODS'] P=fights O=['ALDRYA'] implicit=True ps="razed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: many of her forests have been razed and she is still bitter about her loss at the hands of other gods.
+[P5-A-B0137-025] S=['MOSTALI', 'UZ'] P=fights O=['ALDRYA'] implicit=True ps="Primary among her foes" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Primary among her foes are the other Elder races, especially the Mostali and Uz, who caused harm in the God's Age.
+[P5-A-B0137-026] S=['A SPECIAL PEST'] P=swallows / consumes O=['THE HOUSE OF ERRINORU'] implicit=False ps="devoured" sug=swallows / consumes
+   Q: But a special pest devoured the house of Errinoru and now each of the many forests are separate.
+[P5-A-B0137-027] S=['GREEN ELVES', 'BROWN ELVES'] P=travels O=[] MOD={"to": "ISLE OF GRIGDOM", "at_the_instigation_of": ["ARKANS WARWOOD"]} implicit=True ps="were settled here by" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: home to the green and brown elves who were settled here by the elf hero, Arkans Warwood.

@@ -1,0 +1,116 @@
+### WOD-JR:00008 | WOD-JR | WOD-JR 3332 (Heortling Mythology goes to the printers) | Submitted by Jeff on Tue, 11/05/2010 – 17:32
+FIGURES: HEORT, LIGHTBRINGERS
+CONTEXT: tling Mythology (preview); Moon Design Blog Submitted by Jeff on Tue, 11/05/2010 – 17:32 The revised edition of the Book of Heortling Mythology has just gone to the printer and we expect it to be available for general sale over our website by the end of the month. However, for those of you going to Eternal Convention at Bacharach, you can get your hands on a copy for just €30 (and no postage).
+TEXT: This volume of the Stafford Library is a compilation of every Orlanthi myth, god, and hero published or unpublished known by Greg Stafford at the time of printing. The Book of Heortling Mythology contains myths from the entirety of the Orlanthi God Time: from the Creation of Glorantha to the Lightbringers Quest and and the Death of Heort. It also provides dozens of short tales about various Orlanthi gods and heroes, maps of the various God Ages, a complete list of all canonical Orlanthi gods, demons, and heroes, and much much more. The revised edition includes all-new maps of the Storm Realm, the Storm Age, the Great Flood, and the Great Darkness, an expanded index and more! If you already bought a PDF of Heortling Mythology, Moon Design will send you a free PDF of the revised edition once the book is generally available.
+TARGETS: dies; trades / exchanges
+
+### WOD-JR:00010 | WOD-JR | WOD-JR 1788 (Malkioni Q&A) | Q: What are Malkioni "saints" then?
+FIGURES: ROKARI, XEMELA
+TEXT: A: Saints are individuals who "know the Truth" or "has experienced Essential Reality". They are teachers and guides, not direct sources of magic (although by studying the deeds or sayings of a saint, you can learn to understand how Glorantha functions and thereby do magic). Most saints are associated with a particular school(s) of Malkionism; frex, the several schools that study the healing arts typically venerate Saint Xemela as their teacher. The Hrestoli revere their teachers and venerate them, but gain no magic from that act. The Brithini and (to a lesser extent) Rokari do not revere these teachers.
+TARGETS: heals
+
+### WOD-JR:00028 | WOD-JR | WOD-JR 3335 (Historical Atlas of Genertela, Part II) | Submitted by Jeff on Tue, 31/05/2011 – 22:12
+FIGURES: SHANASSEE
+TEXT: The biggest change is the destruction of the Tallgreen Woods in the Green Wars soon after the Dawn. With its Shanassee Tree destroyed, the Tallgreen rapidly died. By 250 ST it is gone, making North Pent even less hospitable.
+TARGETS: dies
+
+### WOD-JR:00029 | WOD-JR | WOD-JR 3335 (Historical Atlas of Genertela, Part II) | Submitted by Jeff on Tue, 31/05/2011 – 22:12
+FIGURES: ALDRYAMI, ORLANTH
+TEXT: In the West are two new political entities: the Silver Empire of Seshnela and the Dari Alliance of Ralios. The Dari have been in contact with the Council and are heavily influenced by the Theyalan missionaries (and have adopted several often conflicting cults of Orlanth), but fight any attempts to integrate the Dari into the Council (especially by the aldryami and trolls). To the north of the Dari, Lake Nralar has disappeared (destroyed by Nida) and Lake Ehilmka, always shallow, has become marshland inhabited by fishermen and bandits.
+TARGETS: dwells at
+
+### WOD-JR:00035 | WOD-JR | WOD-JR 3337 (Historical Atlas Glorantha, Part IV (201) | Submitted by Jeff on Sun, 26/06/2011 – 13:44
+FIGURES: DRAGON EMPEROR, RED EMPEROR, SHENG SELERIS
+TEXT: Afterwards, his Celestial Subordinates conquer Teshnos, Ignorance, and Prax as Sheng Seleris searches for a new weapon against the New Dragon Emperor. In 1375 ST, Sheng Seleris invades the Lunar Empire. That story is told in the Redline History and in the Lunar Timeline, but in short by 1450 ST, the Red Emperor is killed (for the second and last time) and the New Dragon Emperor is defeated, in large part thanks to help from Sheng Seleris' Dara Happan minions.In 1452 ST, Sheng Seleris attempts to conquer Vormain with an armada of ships loaded with Praxian warriors. The invasion is defeated by a divine wind summoned by the Vormaini.
+TARGETS: speaks / prophesies
+
+### WOD-JR:00092 | WOD-JR | WOD-JR 3372 (Xeotam Dialogues) | The Xeotam Dialogues
+FIGURES: EURMAL, FLAMAL, TILNTA
+TEXT: But the Elementals would be inert masses, Aamor learned, except for the Powers. The Powers were the gods who controlled the different activities of the world. There were Tilnta, Goddess of Love and Fertility; Vamalm, God of War; Mesor, God of Vengeance; Gether, God of Death; and many others. The Powers had particular significance in that the more they were exercised, the more powerful they grew. Thus until the god Eurmal slew the god Flamal, there was no death in the world. In the great slaughter that followed during the War of the Gods, Gether gained power until his domain included all the beings in the world, gods and mortals alike.
+TARGETS: avenges
+
+### WOD-JR:00093 | WOD-JR | WOD-JR 3372 (Xeotam Dialogues) | "But Flamal lives still, as all the legends tell."
+FIGURES: EHILM, EURMAL, FLAMAL
+TEXT: "By weapons of great power. Take for example Flamal, who was the first being in the world to die. He was a god, yet he fell and died under the hand of Eurmal." "But Flamal lives still, as all the legends tell." "True. Each year his body is reborn after his soul struggles to the surface world from the Underworld. Likewise does Ehilm become reborn each morning after his physical body dies at dusk."
+TARGETS: dies
+
+### WOD-JR:00103 | WOD-JR | WOD-JR 3343 (Quick Summary of Gloranthan Cultures: Pa) | Submitted by Jeff on Tue, 17/04/2012 – 06:15
+FIGURES: ERNALDA, ORLANTH
+TEXT: Representatives: Male High Llama Rider warrior, female Sable Rider clan leader. Orlanthi culture. Bronze Age/early Iron Age mixed agrarian-pastoralists. The Orlanthi are a heroic bronze age culture, organized by clan and tribe into (usually) short-lived kingdoms. They tattoo themselves with magical markings to symbolize their gods, their tribe, their status, etc. In general, most Orlanthi cultures can be compared to a mish-mash of Late Bronze Age, early Iron Age historical cultures. Combine heroic Mycenaean Greeks with Hallstatt Celts and pre-Roman Italians, and add some Hittite influences and some bits from the Rigveda, and add some flying, thunder and lightning wielding, warrior-magicians and you won't be far off. They worship a pantheon of gods headed by Orlanth the Storm King and Ernalda the Earth Queen.
+TARGETS: possesses / wields
+
+### WOD-JR:00104 | WOD-JR | WOD-JR 3343 (Quick Summary of Gloranthan Cultures: Pa) | Submitted by Jeff on Tue, 17/04/2012 – 06:15
+FIGURES: LODRIL, ORIA, YELM
+TEXT: Representatives: Male Vesmonstran warrior, female Talastaring priestess. Pelorian culture. Late Bronze Age/early Iron Age civilized agriculturalists belonging to ancient-city states united by a divine emperor. The ancient enemy of the Orlanthi (who nonetheless have centuries of cultural interaction with the Pelorians and vice versa), the Pelorians are ruled by a patriarchical nobility that claims descent from the Sun God and rigidly obsess about their spiritual and physical purity. The lower classes are lusty, laboring, creative, and utterly cowed by their rulers. Give Greek hoplites to the ancient Babylonians and Assyrians and you won't be far off. They worship a pantheon of gods headed by Yelm the Sun Emperor (whom only nobles can worship – the lower classes worship Lodril the Earth God and Oria the Fertility Mother).
+TARGETS: loves / desires
+
+### WOD-JR:00109 | WOD-JR | WOD-JR 3347 (Malkioni Sorcery) | Submitted by Jeff on Wed, 16/05/2012 – 01:35
+FIGURES: INVISIBLE GOD, MALKION
+TEXT: The Malkioni venerate the Invisible God who created the Runes, worshiped as gods by the barbarians. The Runes in turn, created lesser versions of themselves, often in combination with other Runes. One of these lesser creations, Malkion the Founder, revealed the laws of the Invisible God to men. This abstract Invisible God gives little if any direct magic to its worshippers, but knowledge of the divine laws give Wizards the power to define and manipulate the rest of the world, and turn it into raw materials for their cosmic alembic. Malkion himself died in the Gods War, killed by rebellious gods. Malkioni wizards now shape the universe without consent from gods who elsewhere are believed to rule everything.
+TARGETS: dies
+
+### WOD-JR:00130 | WOD-JR | WOD-JR 3340 (Late Golden Age) | Twin Mountains
+FIGURES: LARNSTE, MOSTAL
+CONTEXT: d writing tools, several pictorial scripts, and experimented with every media. ## Thinobutu Soli made men and women out of red earth, brown sand, gray earth, and black mud. Each man and woman made love to the others, and they became the ancestors of the Sixteen Families of Thinobutu. ## Togaro Invading Ocean of the southeast. Togaro was first water to wash upon the land. ## Top of the World
+TEXT: This mountain was raised by Mostal and Larnste to keep warring peoples apart. ## Twin Mountains The ancestors of the later Shanshan mountain ranges raised themselves here. There was a tall Dark Mountain to the north, and a Light Mountain to the south. Each is inhabited by a powerful dragon who danced atop its respective peak.
+TARGETS: dwells at
+
+### WOD-JR:00137 | WOD-JR | WOD-JR 3344 (Loskalm Art Direction) | Figures
+FIGURES: INVISIBLE GOD, SIGLAT
+TEXT: Fig 7. Another defeated barbarian. Same as figure 4, but about to be killed by the Female Guardian. And here is the finished picture: Submitted by Jeff on Thu, 21/06/2012 – 01:06. I asked someone at the Temple of the Invisible God at Northpoint, and he said the frieze depicts King Siglat binding the barbarians into their savage lands. I saw no reason to doubt him, as Prince Snodal is always depicted with his cloak and traveler's hat. My guide told me that the snake woman was one of the Hykimi Snake Masters, feared magicians that aided the White Bear Empire in its conquests. I found it insulting that the Loskalmi chose to depict the barbarian witch as the generous Seshna Likta; my guide said no insult was intended, but I did not believe him. Jeff Editor-in-Chief, Moon Design Publications
+TARGETS: hates / fears; speaks / prophesies
+
+### WOD-JR:00150 | WOD-JR | WOD-JR 183 (Snippet of Seshnelan History) | Select Month September 2026
+FIGURES: EHILM, FROALAR, HRESTOL, TALAR, WORLATH, XEMELA, ZZABUR
+TEXT: Today's random bit of history from the Guide: The history of Seshnela begins in the land of Brithos during the Great Darkness. To forestall civil war between himself and his brother, Talar Froalar sailed across the Neliomi Sea with a band of settlers to found the colony of Frowal. Although the land was thinly populated by bands of lion-worshiping Pendali, the settlement survived thanks to the self-sacrifice of Queen Xemela and through the worship of various local gods, including Seshna, Worlath, Ehilm, and others. The remaining sorcerers of Seshnela joined with Zzabur's immortal sorcerers to complete the long and complicated ritual that ended the Ice Age and released the Sun from Vit's grip. When the Sun rose, the Malkioni found themselves surrounded by vengeful Pendali, the lion people who had hated them in the Darkness, and hated them now. The Malkioni were outnumbered, but they had walled cities and horses. Prince Hrestol broke the stalemate, but at a price not truly realized for centuries. He and his companions cast off the restraints of caste and they taught each other their secrets. Then Hrestol went into the heart of the land and crippled the goddess of the Pendali. He would not have succeeded if he had obeyed the taboos of his Talar caste, and his deeds awakened the ambitions of the Malkioni. Hrestol himself traveled to the Malkioni colonies in Akem and then to Brithos itself.
+TARGETS: hates / fears; sleeps / wakes
+
+### WOD-JR:00158 | WOD-JR | WOD-JR 1712 (History of Dragon Pass in the Second Age) | Post-Gbaji
+FIGURES: ARKAT
+TEXT: Jevamakt Purefire was a fanatic about wiping out the Arkati. "He never rested two days under one roof when he learned of a place that Arkat was worshipped, until he burnt it to the ground; and he never slept but preached forever when he was among people who thought fondly of Arkat; and whose alynx stood on its back feet whenever Arkat was near, and never failed at it."
+TARGETS: sleeps / wakes
+
+### WOD-JR:00159 | WOD-JR | WOD-JR 1712 (History of Dragon Pass in the Second Age) | Elsewhere
+FIGURES: EURMAL
+TEXT: ###### c.565? Rostand the Speaker (KoS pg. 92) Rostand was a victim of Eurmal. The trickster split his tongue, his heart and his brain and therefore he was able to understand and speak the draconic tongue. Soon he learned some magic from a dragon. He told his friends, and since no one was harmed and everyone learned some magic it slowly became more popular and widespread. This is the earliest example of course, the founding story behind the Waltz and Hunting Bands.
+TARGETS: speaks / prophesies
+
+### WOD-JR:00160 | WOD-JR | WOD-JR 1712 (History of Dragon Pass in the Second Age) | Elsewhere
+FIGURES: ARKAT
+TEXT: ###### 573. "…a bad year to travel in the area." (GB pg. 22) A note of social unrest, though Arkat worship was all gone. ###### 575. Waltzing and Hunting Bands formed. These are the kernel of draconic consciousness. The term "waltz and hunt" is from the cult and is just the first of many verbal assaults upon members and how they think. Participants had to go away into the countryside for a month, and returned either skeptical or, more likely, a member of the cult, speaking rudimentary dragon words and thinking dragon thoughts.
+TARGETS: hunts
+
+### WOD-JR:00169 | WOD-JR | WOD-JR 1712 (History of Dragon Pass in the Second Age) | A Note
+FIGURES: THE DRAGONS
+TEXT: Different disciples established different lineages. Their interpretations and desires were different from their teacher, and lineages were quite different after some time had passed. Neither Burin nor Jagaran became True Dragons like Obduran had.
+TARGETS: loves / desires
+
+### WOD-JR:00174 | WOD-JR | WOD-JR 1712 (History of Dragon Pass in the Second Age) | Elsewhere
+FIGURES: GOD LEARNERS, THE DRAGONS
+TEXT: ###### 907. Two-year Winter. (GB, pg. 23) In Dragon Pass the snow and ice stands for two full years. Stories say it was done by the Good Still Dragons, or that the Old Day Traditionalists struck back against the dragons, or that God Learners at last got their revenge. Maybe they worked together. The results were difficult for the Third Council to overcome, and it undoubtedly disrupted their original plan.
+TARGETS: avenges
+
+### WOD-JR:00197 | WOD-JR | WOD-JR 1713 (History of Malkioni Thought – Brithini a) | Book of Hrestol
+FIGURES: HRESTOL
+TEXT: Sample Spells: Boil water, Freeze water, Speak to Water, Create Small Wave, Create Big Wave, Create Huge Wave, Swamp Ship, Float, Sink, Tap Water, Create Current, and Command Water Being. ## First Age ### Book of Hrestol Following the death of Hrestol in 33 S.T., his companions, followers, and witnesses, wrote accounts of his life, deeds, sayings and death. The various Hrestoli communities each had their own collection of documents, including letters, memoirs, mystical writings, and collections of teachings. These collections were commonly called The Book of Hrestol. No two communities had the exact same collection. For example, the Hrestoli community in Woswal composed Against the Demons and insisted upon that book being part of the canon of Hrestoli writings. The Akemite community founded by Tomaris held the mystical writings called City of Virtue as part of their canon. All communities held a group of texts called "The Teachings" and contain teachings from Hrestol, consist of individual passages, dialogues, and stories intermixed with secret rites, incantations, and esoteric knowledge.
+TARGETS: dies
+
+### WOD-JR:00200 | WOD-JR | WOD-JR 1713 (History of Malkioni Thought – Brithini a) | Hrestol
+FIGURES: HRESTOL, TALAR, ZZABUR
+TEXT: Hrestol was a complex character whose life was a wide open exploration of various spiritual options. He began as a Talar, became the first Man of All by learning and practicing (parts of) the jobs and insider secrets for all the castes of the old Zzabur-dominated Malkioni. He abandoned all that, taking the Renunciate's Way when he was a hermit, then a judge in the Vadeli Isles. He survived a visit to Brithos where his Renunciation was sufficient that he was not recognized, and went to Akem and among the commoners of Fronela. Out of duty to the commoners and his own virtues, Hrestol picked up the Four Tools, became the One Man, integrating the formerly conflicting ways of life. He united the many Fronelan colonies under Akem and led them to victory and security. But despite a wife, family, following and kingdom, he gave them all up again and again became a Renunciate. One day, meditating alone in a field, he was captured (without resistance) by Brithini troops and murdered after torture and crucified upon a Sorcerous Death Rune. Upon the death of his body, Hrestol's essence reunited with the One and transcended Glorantha. Hrestol is widely worshipped as an Ascended Soul.
+TARGETS: dies
+
+### WOD-JR:00203 | WOD-JR | WOD-JR 1713 (History of Malkioni Thought – Brithini a) | Early Hrestoli Communities
+FIGURES: HRESTOL
+TEXT: Hrestol's followers founded communities of men and women from all castes who studied and practiced Hrestol's revelations. Most were students, but those who had achieved Joy could dedicate themselves to demonstrating the way of Hrestol, by teaching and by deeds. These adepts or "Men of All" were not ascetic recluses – they farmed, fought, blessed and cursed, and served as judges. These communities were organized as military brotherhoods or "Orders". Each Hrestoli order had a priestly leader called a "Watcher" who served as their spiritual and administrative leader, and to whom the Men of All owed obedience. The Men of All were the elite inner core of the Hrestoli movement. Most people subscribing to Hrestol's teachings belonged to the outer ring of less committed or less self-sacrificing faithful. The members of the outer ring were more or less free to participate in non-Hrestoli cults as well as study Hrestolism.
+TARGETS: curses
+
+### WOD-JR:00205 | WOD-JR | WOD-JR 1713 (History of Malkioni Thought – Brithini a) | Xemelan School (l)(All)
+FIGURES: FROALAR, HRESTOL, XEMELA
+TEXT: Among the schools of magic derived from the Book of Hrestol include: ##### Xemelan School (l)(All) Technically pre-Hrestoli, the Xemelan school was founded by the mother of Hrestol, Queen Xemela, who was broadly worshipped as an Ascended Soul throughout Seshnela and Akem. Xemela gave her life during the Darkness to save her husband Froalar and Hrestol. Her followers study the arts of healing and swear to never hurt another being through action or inaction, and to heal whatever the personal cost. Failure to do so results in expulsion from the school.
+TARGETS: heals
+
+### WOD-JR:00206 | WOD-JR | WOD-JR 1713 (History of Malkioni Thought – Brithini a) | Furlandan School [image: Spirit rune](Hrestoli, Abiding Book)
+FIGURES: BASMOL
+TEXT: Sample spells: Take Injury onto self, Take Pain onto Self, Take Illness onto self, Heal with Sleep, Banish disease spirit, Cure fever, Cure infection, Stay awake, and Bring merciful sleep. ##### Furlandan School [image: Spirit rune](Hrestoli, Abiding Book) Founded at Woswal, the Furlandan school studies malevolent incorporeal entities from the Otherworld. When these entities enter the natural world, they seek bodies made of gross matter and often serve evil magicians in order to gain bodies. The Furlandan school teaches that the higher soul of those who have experienced Joy cannot be affected by such spirits. The wizards of the Furlandan School proved very useful in the wars against the Basmol worshipping barbarians of Seshnela. Against Demons is the specialty grimoire of the Furlandan School.
+TARGETS: heals; punishes / exiles; sleeps / wakes

@@ -1,0 +1,300 @@
+[P5-A-B0075-014] S=['DENDARA'] P=descends into O=['HELL'] implicit=False ps="follow Yelm even to Hell" sug=one of: descends into, dies
+   Q: Yelm took Dendara as his queen, whose virtue and love drove her to follow Yelm even to Hell.
+[P5-A-B0075-015] S=['YELM'] P=travels O=[] MOD={"to": "THE SURFACE"} implicit=False ps="led all life back to the surface" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: After the Compromise, Yelm led all life back to the surface again. This event is universally acclaimed as the Dawning, the beginning of Time.
+[P5-A-B0075-016] S=['YELM-WORSHIPING HORSE NOMADS'] P=rules O=['CENTRAL PELORIA'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the Dawn Ages, Yelm-worshiping horse nomads ruled central Peloria.
+[P5-A-B0075-017] S=['ORLANTH-WORSHIPERS FROM THE SOUTH'] P=fights O=['YELM-WORSHIPING HORSE NOMADS'] implicit=True ps="warred upon and eventually driven out" sug=exiles / banishes
+   Q: They were warred upon and eventually driven out by Orlanthworshipers from the south.
+[P5-A-B0075-018] S=['PELORIANS'] P=fights O=['ORLANTHI'] implicit=False ps="eventually threw out" sug=exiles / banishes
+   Q: The Pelorians remained faithful to Yelm, though not to the nomads, and eventually threw out the Orlanthi.
+[P5-A-B0075-019] S=['BROKEN COUNCIL'] P=binds O=['THE SUN'] implicit=False ps="halted the sun in its path" sug=binds
+   Q: The most important event of the First Age was the Sunstop, when mighty rituals of the Broken Council actually halted the sun in its path.
+[P5-A-B0075-020] S=['TROLL AND BARBARIAN WARRIORS'] P=shatters O=["GBAJI'S BRIGHT EMPIRE"] implicit=False ps="smashed and ruined" sug=shatters
+   Q: This began Gbaji's Bright Empire, which, despite early promise, was finally smashed and ruined by troll and barbarian warriors.
+[P5-A-B0075-021] S=["EMPIRE OF THE WYRM'S FRIENDS"] P=defeats O=['PELORIANS'] implicit=True ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: After decades of war, the Empire conquered the Pelorians.
+[P5-A-B0075-022] S=['INVINCIBLE GOLDEN HORDE'] P=shatters O=["EMPIRE OF THE WYRM'S FRIENDS"] implicit=True ps="shattered its last vestiges" sug=shatters
+   Q: When the Empire finally crumbled, the Invincible Golden Horde, formed from Pelorian manpower, shattered its last vestiges.
+[P5-A-B0075-023] S=['DRAGONS'] P=defeats O=['INVINCIBLE GOLDEN HORDE'] implicit=True ps="destroyed" sug=shatters
+   Q: The Horde was itself destroyed by dragons when they overreached their bounds and attempted to wipe out the dragonewts
+[P5-A-B0075-024] S=['INVINCIBLE GOLDEN HORDE'] P=fights O=['DRAGONEWTS'] implicit=True ps="attempted to wipe out" sug=invades / raids
+   Q: The Horde was itself destroyed by dragons when they overreached their bounds and attempted to wipe out the dragonewts
+[P5-A-B0075-025] S=['PRIESTS TAUGHT BY THE GOD-LEARNERS'] P=defeats O=['DRAGON KINGS'] MOD={"in_on_at": "KRALORELA"} implicit=False ps="rebelled and defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Priests taught by the God-Learners rebelled in Kralorela and defeated the Dragon Kings in magical conflict.
+[P5-A-B0075-026] S=['DRAGON KINGS'] P=flees to O=['KINGDOM OF IGNORANCE'] implicit=False ps="fled to" sug=flees to
+   Q: The Dragon Kings fled to the Kingdom of Ignorance, where they overthrew the Troll Queendom there
+[P5-A-B0075-027] S=['DRAGON KINGS'] P=defeats O=['TROLL QUEENDOM'] MOD={"in_on_at": "KINGDOM OF IGNORANCE"} implicit=False ps="overthrew" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Dragon Kings fled to the Kingdom of Ignorance, where they overthrew the Troll Queendom there
+[P5-A-B0075-028] S=['DRAGON KINGS'] P=rules O=['KRALORELA'] implicit=True ps="once again ruled supreme" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the Dragon Kings returned in triumph, greeted by the weary populace, and once again ruled supreme
+[P5-A-B0075-029] S=['ERRINORU ELF EMPIRE'] P=serves O=['YELM', 'PAMALT', 'ALDRYA'] MOD={"in_on_at": "PAMALTELA"} implicit=False ps="worshiped" sug=is worshipped by
+   Q: In Pamaltela, the Errinoru Elf Empire worshiped Yelm, Pamalt, and Aldrya.
+[P5-A-B0075-030] S=['LUNAR EMPIRE'] P=fights O=['YELM-WORSHIPING HORSEMEN OF PENT', 'DARA HAPPAN SUN EMPIRE'] implicit=False ps="their enemies included" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In the Third Age, when the Lunar Empire arose, at different times their enemies included both the Yelm-worshiping horsemen of Pent and the Dara Happan Sun Empire.
+[P5-A-B0075-031] S=['MANY KINGLY DYNASTIES'] P=claims ancestry O=['YELM'] implicit=False ps="trace their legitimacy to" sug=claims ancestry
+   Q: Many kingly dynasties trace their legitimacy to Yelm himself.
+[P5-A-B0075-032] S=['ERISSA'] P=is child of O=['YELM'] implicit=False ps="is Yelm's daughter" sug=is child of
+   Q: Erissa is Yelm's daughter.
+[P5-A-B0075-033] S=['ERISSA'] P=travels O=[] MOD={"to": "EARTH", "purpose_clause": "TO AID"} implicit=True ps="came to earth to salve its wounds" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She came to earth to salve its wounds and provide Yelm's gentle balm.
+[P5-A-B0075-034] S=['HASTATUS'] P=is child of O=['YELM'] implicit=False ps="is Yelm's son" sug=is child of
+   Q: Hastatus is Yelm's son born to exemplify the spear in war.
+[P5-A-B0075-035] S=['ANGELIC BEINGS', 'SPIRITUAL MESSENGERS'] P=serves O=['YELM'] implicit=False ps="is served by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Yelm is served by a wide variety of angelic beings, spiritual messengers, and similar entities beyond the scope of this book.
+[P5-A-B0075-036] S=['YELM'] P=is spouse of O=['ALDRYA'] implicit=False ps="is even considered to be Aldrya's husband" sug=is spouse of
+   Q: In certain elf forest kingdoms, Yelm is even considered to be Aldrya's husband
+[P5-A-B0075-037] S=['CHALANA ARROY'] P=serves O=['YELM'] implicit=True ps="her liege lord" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Chalana Arroy grants her liege lord the spell of Restore Health.
+[P5-A-B0075-038] S=['DENDARA'] P=is spouse of O=['YELM'] implicit=False ps="Yelm's faithful spouse" sug=is spouse of
+   Q: Dendara, Yelm's faithful spouse, provides her lord and master with Heal Body.
+[P5-A-B0075-039] S=['GOLDEN BOW'] P=is child of O=['THE SUN'] implicit=False ps="a son of the sun" sug=is child of
+   Q: Golden Bow, a son of the sun, wandered Earth during the Great Darkness and taught the arts of war to mankind.
+[P5-A-B0075-040] S=['GOLDEN BOW'] P=teaches O=['MANKIND'] MOD={"in_on_at": "EARTH"} implicit=False ps="wandered Earth and taught the arts of war to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Golden Bow, a son of the sun, wandered Earth during the Great Darkness and taught the arts of war to mankind.
+[P5-A-B0075-041] S=['HYALOR HORSEBREAKER'] P=claims ancestry O=['YELM'] implicit=True ps="was a descendant of one of Yelm's sons" sug=claims ancestry
+   Q: This famous rider was a descendant of one of Yelm's sons.
+[P5-A-B0075-042] S=['LODRIL'] P=is sibling of O=['YELM'] implicit=False ps="Yelm's volcanic brother" sug=is sibling of
+   Q: Lodril, Yelm's volcanic brother, serves him vigorously, if unreliably.
+[P5-A-B0075-043] S=['LODRIL'] P=serves O=['YELM'] implicit=False ps="serves him vigorously, if unreliably" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Lodril, Yelm's volcanic brother, serves him vigorously, if unreliably.
+[P5-A-B0075-044] S=['MOLANNI'] P=is child of O=['A STORM GOD'] implicit=False ps="was a daughter of" sug=is child of
+   Q: Molanni was a daughter of a storm god, and is the goddess of still, quiet air.
+[P5-A-B0075-045] S=['MOLANNI'] P=serves O=['YELM'] implicit=True ps="calmly joined Yelm's dominion" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Unlike her brothers, she calmly joined Yelm's dominion.
+[P5-A-B0075-046] S=['YELM THE ARCHER'] P=is alternative name for O=['YELM'] implicit=False ps="is one of the more widely worshiped aspects of this god" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yelm the Archer is one of the more widely worshiped aspects of this god
+[P5-A-B0075-047] S=['SAGGITUS'] P=is child of O=['YELM'] implicit=True ps="His son" sug=is child of
+   Q: His son overseeing this is named Saggitus.
+[P5-A-B0075-048] S=['OSLIR'] P=is spouse of O=['YELM'] implicit=True ps="is a special paramour of" sug=is spouse of
+   Q: She is a special paramour of Yelm's
+[P5-A-B0075-049] S=['OSLIR'] P=bestows magic / gifts O=['THE INHABITANTS OF THE TRIPOLIS'] implicit=True ps="provides with the irrigation water" sug=one of: bestows, heals, imbues, teaches
+   Q: provides the inhabitants of the Tripolis with the irrigation water they need to grow their crops.
+[P5-A-B0075-050] S=['OURANIA'] P=is child of O=['DAYZATAR'] implicit=False ps="is the virgin daughter of" sug=is child of
+   Q: Ourania is the virgin daughter of Dayzatar and is the Queen of Heaven.
+[P5-A-B0075-051] S=['QUEEN OF HEAVEN'] P=is alternative name for O=['OURANIA'] implicit=False ps="is the Queen of Heaven" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ourania is the virgin daughter of Dayzatar and is the Queen of Heaven.
+[P5-A-B0075-052] S=['YELMALIO'] P=is child of O=['YELM'] implicit=False ps="is one of Yelm's important sons" sug=is child of
+   Q: Yelmalio is one of Yelm's important sons
+[P5-A-B0076-001] S=['GALANINI CLAN CHIEFTAINS'] P=is member of O=['YELM'] implicit=True ps="are Yelm initiates" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: All clan chieftains and many tribespeople are Yelm initiates.
+[P5-A-B0076-002] S=['GALANINI'] P=serves O=['HYALOR', 'HIPPOI'] implicit=True ps="worship" sug=is worshipped by
+   Q: These folk also worship Hyalor and Hippoi, goddess of horses
+[P5-A-B0076-003] S=['HIPPOI'] P=is identified as O=['GODDESS OF HORSES'] implicit=False ps="goddess of horses" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Hippoi, goddess of horses
+[P5-A-B0076-004] S=['GALANINI CHIEFTAINS'] P=transforms into O=['HORSES'] implicit=True ps="transform themselves into" sug=transforms into
+   Q: some of the chieftains are superstitiously believed to be able to transform themselves into horses.
+[P5-A-B0076-005] S=['GALANINI'] P=claims ancestry O=['HORSES'] implicit=True ps="believe themselves to be kin to" sug=claims ancestry
+   Q: The Galanini believe themselves to be kin to their mounts.
+[P5-A-B0076-006] S=['PAMALTELAN ELF RULING DYNASTIES'] P=is member of O=['YELM'] implicit=True ps="are composed of Yelm initiates" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: some ruling dynasties are composed of Yelm initiates who also worship Aldrya.
+[P5-A-B0076-007] S=['ALDRYA'] P=is spouse of O=['YELM'] implicit=False ps="is Yelm's main wife" sug=is spouse of
+   Q: Aldrya is Yelm's main wife here.
+[P5-A-B0076-008] S=['YELM'] P=rules O=['PELORIA'] implicit=True ps="has always been the ruling god" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Yelm has always been the ruling god here
+[P5-A-B0076-009] S=['LUNAR KINGS AND GOVERNORS'] P=serves O=['YELM'] implicit=False ps="worship" sug=is worshipped by
+   Q: Lunar kings and governors often worship Yelm.
+[P5-A-B0076-010] S=['OSLIR'] P=is spouse of O=['YELM'] implicit=False ps="a paramour of" sug=is spouse of
+   Q: the Oslir river, a paramour of Yelm's.
+[P5-A-B0076-011] S=['PELORA'] P=is identified as O=['THE GRAIN GODDESS'] implicit=False ps="(the Grain Goddess)" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Pelora (the Grain Goddess)
+[P5-A-B0076-012] S=['PENT NOMADS'] P=serves O=['YELM'] implicit=True ps="worship" sug=is worshipped by
+   Q: Many of the horse-riding, cattle-herding nomads worship him.
+[P5-A-B0076-013] S=['PENT NOMADS'] P=serves O=['EIRITHA'] implicit=True ps="worship" sug=is worshipped by
+   Q: Those unlucky enough to have a non-Yelmite father worship Eiritha instead.
+[P5-A-B0076-014] S=['CALYZ', 'ZITRO ARGON', 'FURALOR', 'LODRIL', 'YELM'] P=is member of O=['THE SACRED FIVE'] implicit=False ps="the Sacred Five:" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the Sacred Five: Calyz, Zitro Argon, Furalor, Lodril and Yelm.
+[P5-A-B0076-015] S=["YELM'S PRIEST-LORDS"] P=rules O=['TESHNOS'] implicit=True ps="do the work of governing" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Yelm's priest-lords do the work of governing the nation.
+[P5-A-B0076-016] S=['KETIL'] P=kills O=['ERIC'] implicit=False ps="had slain" sug=one of: kills, shatters, dies
+   Q: Ketil had slain Eric in single combat during a battle
+[P5-A-B0076-017] S=['KETIL'] P=flees to O=['ORLANTHI TEMPLE AT OXHEAD'] implicit=True ps="fled to" sug=flees to
+   Q: the kingslayer fled to the Orlanthi temple at Oxhead, and there served for many years
+[P5-A-B0076-018] S=['ORLANTH REX'] P=challenges O=['HAKON THE SWIMMER'] implicit=True ps="found against" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Hahlgrim held his honor, and Orlanth Rex found against the king for a large sum, which was paid.
+[P5-A-B0076-019] S=['HAHLGRIM'] P=flees to O=['SKANTHI HILLMEN'] implicit=False ps="took his immediate family into exile with" sug=flees to
+   Q: Hahlgrim took his immediate family into exile with the neighboring Skanthi hillmen.
+[P5-A-B0076-020] S=['HAHLGRIM'] P=kills O=['HAKON THE SWIMMER'] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: so Hahlgrim returned, slew Hakon and burned the now-confiscated home of his childhood.
+[P5-A-B0076-021] S=['HAHLGRIM'] P=is member of O=['ORLANTH'] MOD={"in_on_at": "OXHEAD ORLANTH TEMPLE"} implicit=True ps="became a Rune lord at" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: he became a Rune lord at the Oxhead Orlanth temple.
+[P5-A-B0076-022] S=['BOLTHOR BRIGHTEYES'] P=serves O=['LUNAR EMPIRE'] implicit=True ps="acted as little more than a Lunar caretaker" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Bolthor Brighteyes, who acted as little more than a Lunar caretaker for many years.
+[P5-A-B0076-023] S=['THE FORCES OF CHAOS'] P=travels O=[] MOD={"from": "DORASTOR"} implicit=False ps="encroachment by" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Bolthor's neglect led to increasing encroachment by the forces of chaos from the ruined land of Dorastor.
+[P5-A-B0076-024] S=['HAHLGRIM'] P=kills O=['HAKON THE SWIMMER'] implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: After Eric came Hakon the Swimmer, who was slain by Hahlgrim.
+[P5-A-B0076-025] S=['KETIL'] P=kills O=['ERIC'] MOD={"in_on_at": "1611 ST"} implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: The first is Eric*, whom Ketil killed in 1611 ST.
+[P5-A-B0076-026] S=['ODDI THE KEEN'] P=serves O=['STORM BULL'] implicit=False ps="priest of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The last of the four was Oddi the Keen, priest of Storm Bull and brother to Hahlgrim.
+[P5-A-B0076-027] S=['ODDI THE KEEN'] P=is sibling of O=['HAHLGRIM'] implicit=False ps="brother to" sug=is sibling of
+   Q: Oddi the Keen, priest of Storm Bull and brother to Hahlgrim.
+[P5-A-B0076-028] S=['ODDI THE KEEN'] P=rules O=['BILINI'] implicit=True ps="The last of the four [kings of the Bilini]" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The last of the four was Oddi the Keen
+[P5-A-B0076-029] S=['ERIC'] P=is child of O=['NORALL OF OAKSTEAD'] implicit=False ps="was a son of" sug=is child of
+   Q: Eric was a son of Norall of Oakstead
+[P5-A-B0076-030] S=['NORALL OF OAKSTEAD'] P=is child of O=['KILLER GARRIL'] implicit=True ps="was son of" sug=is child of
+   Q: Norall was son of Killer Garril
+[P5-A-B0076-031] S=['KILLER GARRIL'] P=kills O=["GARRIL'S LUNAR-CONVERT KINSMEN"] implicit=True ps="had slain" sug=one of: kills, shatters, dies
+   Q: Killer Garril, who had slain all his kinsmen who had dared join the Lunar religion.
+[P5-A-B0076-032] S=['KILLER GARRIL'] P=serves O=['HRODAR GRIZZLEBEAK'] implicit=True ps="had held his lands on the favor of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Garril had held his lands on the favor of King Hrodar Grizzlebeak.
+[P5-A-B0076-033] S=['PAULIS LONGVALE'] P=is member of O=['IRRIPPI ONTOR'] implicit=True ps="was an Initiate of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: At that time Paulis was an Initiate of Irrippi Ontor
+[P5-A-B0076-034] S=['PAULIS LONGVALE'] P=travels O=[] MOD={"to": "HAHLGRIM", "at_the_command_of": ["PAULIS' FATHER"]} implicit=True ps="sent his son to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Paulis' father sent his son to Hahlgrim for a summer's seasoning on the frontier
+[P5-A-B0076-035] S=['PAULIS LONGVALE'] P=claims ancestry O=['HAHLGRIM'] implicit=False ps="cousin of" sug=claims ancestry
+   Q: the reminiscences of Paulis Longvale, cousin of Chief Hahlgrim of the Bilini and companion to Hahlgrim and Ketil Ericsbane.
+[P5-A-B0076-036] S=['KETIL ERICSBANE'] P=is alternative name for O=['KETIL'] implicit=False ps="Ketil Ericsbane" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Ketil Ericsbane
+[P5-A-B0076-037] S=['DISTAN'] P=serves O=['ARKAT'] implicit=False ps="general for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Ironbreaker, the sword first wielded by Distan, general for the legendary Arkat the Destroyer.
+[P5-A-B0076-038] S=['IRONBREAKER'] P=survives as relic O=[] MOD={"from": "DISTAN"} implicit=False ps="the sword first wielded by" sug=survives as relic
+   Q: Ironbreaker, the sword first wielded by Distan
+[P5-A-B0076-039] S=['BOLTHOR HAIRYBREEKS'] P=is alternative name for O=['BOLTHOR BRIGHTEYES'] implicit=True ps="was one of his appellations" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Bolthor Hairybreeks was one of his appellations
+[P5-A-B0076-040] S=['BOLTHOR BRIGHTEYES'] P=is member of O=['ORLANTH'] implicit=True ps="as an Orlanthi layman" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: as an Orlanthi layman he exchanged the tedious alliterative poetry with Hahlgrim
+[P5-A-B0076-041] S=['BOLTHOR BRIGHTEYES'] P=re-enacts O=['LIGHTBRINGERS'] implicit=True ps="made the Lightbringers' summons" sug=re-enacts
+   Q: the King made the Lightbringers' summons
+[P5-A-B0076-042] S=['PRIMAL CHAOS'] P=manifests O=[] MOD={"via": ["THE CRACKS IN THE UNIVERSE"]} implicit=True ps="first entered the world through" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: It first entered the world through the cracks in the universe caused by the Gods' War.
+[P5-A-B0076-043] S=['ALL LATER CHAOS THINGS'] P=is born from O=['PRIMAL CHAOS'] implicit=True ps="is the source and mother of" sug=is born from
+   Q: It is the source and mother of all later chaos things.
+[P5-A-B0076-044] S=['SKANTHI'] P=fights O=['CREATURES OF CHAOS'] implicit=False ps="fight well against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: I know that you have allies among the Skanthi, who fight well against creatures of chaos.
+[P5-A-B0076-045] S=['BOLTHOR BRIGHTEYES'] P=bestows magic / gifts O=['HAHLGRIM'] implicit=True ps="have returned your lands to you" sug=one of: bestows, heals, imbues, teaches
+   Q: "I have returned your lands to you, kingslayer," Bolthor said at last
+[P5-A-B0076-046] S=['STORM BULL'] P=manifests chaos taint O=[] implicit=False ps="can be made impure" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: the very essence of the Storm Bull can be made impure and sicken the great Bull's worshippers.
+[P5-A-B0076-047] S=['BOLTHOR BRIGHTEYES'] P=bestows magic / gifts O=['IRONBREAKER'] IO=['HAHLGRIM'] MOD={"purpose_clause": "TO AID"} implicit=True ps="offer you this" sug=one of: bestows, heals, imbues, teaches
+   Q: "As a final gift, to aid your battle, I offer you this." The King rose, and unbuckled Ironbreaker
+[P5-A-B0076-048] S=['HAHLGRIM'] P=pledges oath with O=['BOLTHOR BRIGHTEYES'] implicit=True ps="swore him fealty and honor" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Hahlgrim laid Ironbreaker across the King's lap, and swore him fealty and honor, and the alliance was made.
+[P5-A-B0077-001] S=['MALLIA'] P=comes into being O=[] MOD={"in_on_at": "THE WASTE AND DESTRUCTION OF THE GODS WAR", "from": "DARKNESS"} implicit=False ps="grew from" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Before Time Mallia grew from the Darkness, in the waste and destruction of the Gods War.
+[P5-A-B0077-002] S=['MALLIA'] P=embodies O=['A CORRUPTION OF DEATH'] implicit=True ps="became a corruption of Death itself" sug=one of: embodies, has domain
+   Q: She became a corruption of Death itself, tainted and degraded from the swift brightness which Humakt and Orlanth used
+[P5-A-B0077-003] S=['MALLIA'] P=is spouse of O=['RAGNAGLAR'] implicit=True ps="became mistress to" sug=is spouse of
+   Q: During the Darkness she became mistress to Ragnaglar and friend to Thed.
+[P5-A-B0077-004] S=['BROOS'] P=is child of O=['RAGNAGLAR'] implicit=False ps="The children of" sug=is child of
+   Q: The children of Ragnaglar, the Broos, gave Mallia worship
+[P5-A-B0077-005] S=['BROOS'] P=serves O=['MALLIA'] implicit=False ps="gave Mallia worship" sug=is worshipped by
+   Q: The children of Ragnaglar, the Broos, gave Mallia worship
+[P5-A-B0077-006] S=['MALLIA'] P=bestows magic / gifts O=['SPECIAL MAGICS', 'SPIRIT ALLIES'] IO=['BROOS'] MOD={"purpose_clause": "TO AID"} implicit=True ps="aided them and provided" sug=one of: bestows, heals, imbues, teaches
+   Q: she in turn aided them and provided special magics and spirit allies so that they could further the spread of her diseased dominion.
+[P5-A-B0077-007] S=['OTHER CHAOS CREATURES'] P=serves O=['MALLIA'] implicit=True ps="came to worship" sug=is worshipped by
+   Q: From love, respect, and fear, other chaos creatures came to worship her.
+[P5-A-B0077-008] S=['MEN', 'ELVES', 'TROLLS', 'DWARVES'] P=serves O=['MALLIA'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="praying to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Men, elves, trolls, and dwarves came to her also, rarely from love, but all praying to Mallia not to infect their tribes.
+[P5-A-B0077-009] S=['MALLIA'] P=fights O=['THE LAWFUL GODS'] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="to avenge" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: to avenge her lover's death and her friend's dispersal against the lawful gods by diminishing and confounding their mundane works with sickness and death
+[P5-A-B0077-010] S=["MALLIA'S FAITHFUL"] P=descends into O=['HELL'] implicit=False ps="all they can hope for is a safe eternity in" sug=one of: descends into, dies
+   Q: Mallia's faithful know there will be no reincarnation for their spirits, and that all they can hope for is a safe eternity in Hell.
+[P5-A-B0077-011] S=['MALLIA'] P=embodies O=['DEATH RUNE', 'DARKNESS RUNE'] implicit=True ps="is associated with the Runes of" sug=one of: embodies, has domain
+   Q: Mallia is associated with the Runes of Death and Darkness, her foundations and heritage.
+[P5-A-B0077-012] S=['MALLIA'] P=embodies O=['CHAOS RUNE'] implicit=True ps="is associated with" sug=one of: embodies, has domain
+   Q: Where she is worshipped by broos she also is associated with the Chaos Rune.
+[P5-A-B0077-013] S=['BROOS'] P=serves O=['MALLIA'] implicit=True ps="dedicate themselves to her worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the entire race of broos dedicate themselves to her worship.
+[P5-A-B0077-014] S=['MOST BEINGS'] P=sacrifices O=['POWER'] IO=['MALLIA'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="sacrificing their Power" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Most beings, though, make propitiatory worship of the Mother of Disease, sacrificing their Power so that she will not appear.
+[P5-A-B0077-015] S=['MALLIA'] P=is identified as O=['THE NECESSARY BANE OF THE MORTAL RACES'] MOD={"in_accordance_with": ["GREAT COMPROMISE"]} implicit=False ps="is the necessary bane of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Under the terms of the Great Compromise, Mallia is the necessary bane of the mortal races, and at last will lead them to the halls of Hell even if they avoid every other fate.
+[P5-A-B0077-016] S=['MALLIA'] P=is identified as O=['KEEPER OF THE CART'] implicit=True ps="is the Keeper of the Cart" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: In popular terms she is the Keeper of the Cart which carries souls to the Sundering Stream.
+[P5-A-B0077-017] S=['MALLIA'] P=is identified as O=['JANITOR OF THE GODS'] implicit=False ps="is also the janitor of the gods" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Mallia is also the janitor of the gods, providing the corruption which turns flesh and bone back to dust.
+[P5-A-B0077-018] S=['MALLIA'] P=challenges O=['GREAT COMPROMISE'] implicit=True ps="schemes for the dispersal of" sug=one of: challenges, breaks oath, betrays, fights
+   Q: dispersal of the Compromise and the end of Time.
+[P5-A-B0077-019] S=['MALLIA'] P=embodies O=['LAW', 'CHAOS'] implicit=True ps="may be so entwined with" sug=one of: embodies, has domain
+   Q: She may be so entwined with law and with chaos that the ultimate victory of either side will spell her own annihilation.
+[P5-A-B0077-020] S=['MALLIANTS'] P=is alternative name for O=['DEVOTED MALLIA WORSHIPPERS'] implicit=False ps="(Malliants)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Devoted Mallia worshippers (Malliants)
+[P5-A-B0077-021] S=['MALLIANTS'] P=challenges O=['CHALANA ARROY DEVOTEES', 'HEALERS OF ARROIN'] implicit=False ps="hates" sug=hates
+   Q: The Malliant hates all devotees of the Chalana Arroy cult and all Healers of Arroin for their devotion to abolishing disease.
+[P5-A-B0077-022] S=['ODDI THE KEEN'] P=is sibling of O=['HAHLGRIM'] implicit=False ps="Hahlgrim's brother" sug=is sibling of
+   Q: Ketil departed, taking with him Oddi the Keen, Hahlgrim's brother.
+[P5-A-B0077-023] S=["HAHLGRIM'S PEOPLE"] P=serves O=['HEALING MOTHER'] implicit=True ps="know the power of the Healing Mother and uphold her" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the people do not tolerate the slow death, for we know the power of the Healing Mother and uphold her.
+[P5-A-B0077-024] S=['BILINI PEASANTS'] P=sacrifices O=[] IO=['MALLIA'] implicit=True ps="your sacrifices to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: You must foreswear your sacrifices to Mallia.
+[P5-A-B0077-025] S=['RALZAKARK'] P=rules O=['BROOS'] implicit=False ps="their king" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Your prayers and offerings strengthen the broos, and Ralzakark their king fattens his folk on your power!
+[P5-A-B0077-026] S=['RALZAKARK'] P=rules O=['DORASTOR'] implicit=True ps="King of the Broos, of fearful Dorastor" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Not a few in the crowd made signs to ward off that King of the Broos, of fearful Dorastor.
+[P5-A-B0077-027] S=['BURPEY BOLTHOR'] P=is alternative name for O=['BOLTHOR BRIGHTEYES'] implicit=True ps="our own king, Burpey Bolthor" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: This is more than our own king, Burpey Bolthor, ever would swear.
+[P5-A-B0077-028] S=['HAHLGRIM'] P=travels O=[] MOD={"to": "THE WILDS", "purpose_clause": "TO PROTECT"} implicit=False ps="left soon thereafter, to seek a shaman" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Hahlgrim left soon thereafter, to seek a shaman in the wilds who could protect the farmers permanently.
+[P5-A-B0077-029] S=['HAHLGRIM'] P=bestows magic / gifts O=['GOLD'] IO=['BILINI PEASANTS'] implicit=True ps="the gifts of our lord to" sug=one of: bestows, heals, imbues, teaches
+   Q: even Ketil could not understand at first the gifts of our lord to these humbled people.
+[P5-A-B0077-030] S=['BROOS'] P=is child of O=['THED'] implicit=False ps="Thed's children" sug=is child of
+   Q: Mallia finds much worship from Thed's children, the broos, and they are among her most accomplished Disease Masters.
+[P5-A-B0077-031] S=['BROOS'] P=serves O=['MALLIA'] implicit=False ps="Mallia finds much worship from" sug=is worshipped by
+   Q: Mallia finds much worship from Thed's children, the broos, and they are among her most accomplished Disease Masters.
+[P5-A-B0077-032] S=['GBAJI'] P=is identified as O=['GREAT PSYCHIC LIBERATOR'] MOD={"in_on_at": "KRALORELA"} implicit=True ps="is known as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: [There] Gbaji is known as a great psychic liberator, since Illumination frees the person from entanglements with the worldly.
+[P5-A-B0077-033] S=['KRALORI'] P=serves O=['GBAJI'] implicit=True ps="wholeheartedly embrace" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the people often wholeheartedly embrace that god yet stoutly resist all the other chaos creatures and temptations.
+[P5-A-B0077-034] S=['KRALORI'] P=serves O=['DRAGONS'] implicit=False ps="are very loyal to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Kralori are very loyal to dragons.
+[P5-A-B0077-035] S=['DRAGONS'] P=protects O=['KRALORI'] MOD={"in_on_at": "KRALORELA", "purpose_clause": "TO AID"} implicit=True ps="rise to aid" sug=one of: protects, rescues / frees, aids
+   Q: But in Kralorela, dragons have been known to rise to aid the people, a unique situation which raises only more questions.
+[P5-A-B0077-036] S=['CHAOS'] P=is identified as O=['MOTHER AND FATHER OF THE WORLD'] implicit=True ps="is called" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: it is called "Mother and Father of the World" in a Ulerian song
+[P5-A-B0077-037] S=['SINGERS OF THE EARTH SONG'] P=is born from O=['CHAOS'] implicit=True ps="from whence we spring and are molded" sug=is born from
+   Q: there is nothing so wondrous or so blessed as chaos, from whence we spring and are molded.
+[P5-A-B0077-038] S=['THE DEVIL'] P=travels O=[] MOD={"to": "SURFACE WORLD"} implicit=False ps="led his forces into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When the Devil led his forces into the surface World, many other creatures also escaped to there.
+[P5-A-B0077-039] S=['BAGOG'] P=flees to O=['SURFACE WORLD'] implicit=True ps="escaped to" sug=flees to
+   Q: many other creatures also escaped to there. || One such was Bagog
+[P5-A-B0077-040] S=['BAGOG'] P=is child of O=['DARKNESS'] implicit=False ps="daughter of" sug=is child of
+   Q: Bagog, a slow-witted scorpion daughter of the Darkness.
+[P5-A-B0077-041] S=['BAGOG'] P=swallows / consumes O=['ALL WHO OPPOSED BAGOG'] MOD={"in_on_at": "SURFACE WORLD"} implicit=False ps="fighting and eating" sug=swallows / consumes
+   Q: Bagog scuttled about the surface world, comfortably enjoying the carnage of the Gods War, fighting and eating all who opposed her.
+[P5-A-B0077-042] S=['SCORPION KINDS'] P=is born from O=['BAGOG'] implicit=True ps="hatched into smaller versions of herself" sug=is born from
+   Q: Soon they hatched into smaller versions of herself
+[P5-A-B0077-043] S=['SCORPION KINDS'] P=has hybrid form O=[] implicit=True ps="had been changed by what Bagog had eaten" sug=has anomalous form (qual=hybrid)
+   Q: they had been changed by what Bagog had eaten. There were scorpion baboons, scorpion elves, and many other types.
+[P5-A-B0077-044] S=['BAGOG'] P=rules O=['SCORPION KINDS'] implicit=False ps="centered about the might of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Soon the scorpion kinds formed a rough social order, centered about the might of Bagog.
+[P5-A-B0077-045] S=['SCORPION KINDS'] P=swallows / consumes O=['SCORPION KINDS', 'FOES OF THE SCORPION KINDS'] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="ate" sug=swallows / consumes
+   Q: They ate each other, as well as their foes, hoping to soon acquire the knowledge of all the species.
+[P5-A-B0077-046] S=['SCORPION MEN HEROES'] P=serves O=['CHAOS'] implicit=False ps="the worship of" sug=is worshipped by
+   Q: Occasional scorpion men heroes have gained much of their abilities through the worship of chaos.
+[P5-A-B0077-047] S=['THE CREATURES OF BAGOG'] P=swallows / consumes O=['THEIR DEAD'] MOD={"purpose_clause": "TO OBTAIN"} implicit=False ps="feast upon" sug=swallows / consumes
+   Q: The creatures of Bagog feast upon their dead if at all possible, for they believe that their key to perfection may be hidden in the essence of the dead
+[P5-A-B0078-001] S=['BAGOG'] P=embodies O=['BEAST RUNE', 'DARKNESS RUNE', 'CHAOS RUNE', 'MAN RUNE'] implicit=True ps="is associated with the Runes of" sug=one of: embodies, has domain
+   Q: Bagog is associated with the Runes of Beast, Darkness, Chaos, and Man.
+[P5-A-B0078-002] S=['SCORPION RACES'] P=is member of O=['BAGOG'] implicit=False ps="is a member of Bagog upon hatching" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Each member of any of the scorpion races is a member of Bagog upon hatching.
+[P5-A-B0078-003] S=['HAHLGRIM'] P=rides O=['LIGHTNING'] implicit=False ps="mounted on" sug=rides
+   Q: Hahlgrim led the party, mounted on Lightning a part-gelding of high intelligence.
+[P5-A-B0078-004] S=['ODDI THE KEEN'] P=serves O=['STORM BULL'] implicit=False ps="a priest of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Oddi the Keen (a priest of Storm Bull and Hahlgrim's brother)
+[P5-A-B0078-005] S=['HAHLGRIM'] P=bestows magic / gifts O=['HOLY CLEARWINE'] IO=["HAHLGRIM'S PARTY"] implicit=True ps="a gift from Hahlgrim of" sug=one of: bestows, heals, imbues, teaches
+   Q: We had holy bread, salted meat, and a gift from Hahlgrim of holy Clearwine, which could open the mind and season the muscles of the soft.
+[P5-A-B0078-006] S=['ODDI THE KEEN'] P=discovers O=['SEVERAL FARMERS AND ONE MERCHANT'] implicit=True ps="were found to be active worshippers of chaos by" sug=discovers
+   Q: Several farmers and one merchant were found to be active worshippers of chaos by Oddi's skills alone.
+[P5-A-B0078-007] S=['LIGHTNING'] P=strikes O=['DEMON'] implicit=True ps="smashed" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: The noble steed smashed one of the demons to the ground with a blow of his powerful hooves.
+[P5-A-B0078-008] S=['DEMON'] P=wounds O=['LIGHTNING'] implicit=True ps="slash a great wound in" sug=wounds
+   Q: we saw one of the fiends use his claws to slash a great wound in Lightning's haunch.
+[P5-A-B0078-009] S=['CHAOS CREATURES'] P=fights O=['HORSES'] implicit=False ps="struck at" sug=invades / raids
+   Q: After midnight the chaos creatures struck at the horses.
+[P5-A-B0078-010] S=['ODDI THE KEEN'] P=strikes O=['DEMON'] implicit=True ps="stunning" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Oddi, half-armored, his face horrible with battle frenzy, reached them first, stunning the demon who had attacked Lightning.
+[P5-A-B0078-011] S=['PAULIS LONGVALE'] P=wounds O=['DEMON'] implicit=True ps="swung with all my might into" sug=wounds
+   Q: I dodged behind the demon and swung with all my might into the fur behind the thing's knee
+[P5-A-B0078-012] S=['ODDI THE KEEN'] P=kills O=['DEMON'] implicit=True ps="lopped off the demon's head" sug=one of: kills, shatters, dies
+   Q: I heard the brutal thud of Oddi's sword as he lopped off the demon's head with one swing
+[P5-A-B0078-013] S=['BROOS'] P=bestows magic / gifts O=['DISEASE CONTROL SPELLS'] IO=['SCORPION MEN'] implicit=False ps="provide" sug=one of: bestows, heals, imbues, teaches
+   Q: The broos provide valuable disease control spells, and the scorpion men provide warriors unmatched in broo society.
+[P5-A-B0078-014] S=['BROO'] P=transforms into O=['SCORPION BROO'] MOD={"via": ["RITUAL OF REBIRTH"]} implicit=False ps="undergoes the Ritual Of Rebirth, creating" sug=transforms into
+   Q: Melding of the two occurs whenever a broo undergoes the Ritual Of Rebirth, creating a scorpion broo
+[P5-A-B0078-015] S=['BAGOG WORSHIPPER'] P=transforms into O=['BROO'] implicit=False ps="transforms into" sug=transforms into
+   Q: when the Bagog worshipper accepts chaotic features and transforms into a broo.
+[P5-A-B0078-016] S=['SCORPION MAN'] P=has monstrous form O=[] implicit=True ps="had a long sharp bone in place of its left arm" sug=has anomalous form (qual=monstrous)
+   Q: One had a long sharp bone in place of its left arm, and a huge claw like a crab in place of its right.

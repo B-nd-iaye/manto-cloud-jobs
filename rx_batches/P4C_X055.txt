@@ -1,0 +1,107 @@
+### SL10:00067 | SL10 | page n/a | Out of Her House
+FIGURES: ASRELIA, ELMAL, ERNALDA, ORLANTH, VESKARTHAN, VORIA
+TEXT: "Oh, daughter," said the old lady, unexpectedly. Everyone paid attention. She was alive again! "You are awake now!" said the Old Lady. "Start a fire again, will you, and wake up the rest." Because Grandmother said to do this, Ernalda tried. She made the effort to do the impossible. However, as she prepared Ernalda realized she was awake now! She chanted the words, breathed upon the remains of the ashes, and a tiny flame burst out. Voria woke up then and put some kindling on the flame, and then Orlanth woke up and he put on fuel. Veskarthan woke then, and took over the duties of the fire while everyone else began to thaw. Elmal woke up, he woke his daughter, she opened the door, and he went out. The sun rose in the east. Asrelia's sister was there too, and she sorted out all the dead things and put them aside so Elmal would not be harming them.
+TARGETS: sleeps / wakes
+
+### SL10:00068 | SL10 | page n/a | Out of Her House
+FIGURES: ASRELIA, ESROLA
+TEXT: Ezel, Her House, was the first place to wake up after the Dawn, and people gathered there first. Many had been hiding nearby, and Roitina's family received them to Ezel and instructed them on how to pray and perform sacrifices. The divine flocks and herds woke up here, and Asrelia's Garden was here, and Esrola's Field. Thus, the people had plenty of food and help, and Ezel was no longer a grass hut, but a spread of sacred ground surrounded by settlements.
+TARGETS: sleeps / wakes
+
+### SL10:00070 | SL10 | page n/a | Kena Hill and the Landscape
+FIGURES: ERNALDA, ESROLA
+CONTEXT: e had plenty of food and help, and Ezel was no longer a grass hut, but a spread of sacred ground surrounded by settlements. It is the preeminent sacred ground, for life began here, ended here, and started again. The Mistress of the Universe speaks here. The force of Life is so great here that the most powerful warlords known, including Palangio33 and Lord Dorvis34 have been unable to affect it.
+TEXT: This place has been a thriving city since the Dawn. Sometimes people call it the Great Temple of Ernalda, the Field of Esrola and so on. To worshippers, this is simply Her Home. # Kena Hill and the Landscape One day, when the daughters were out playing, Esrola got tired and lay down for a while. Kena ["headrest," or pillow"] is the hill where she laid her head. "Grainland" [Esrolia] is where she napped. When she woke she said, "I dreamed that this was the land of grains." Where she had lain was ever blessed with an abundance of grain.
+TARGETS: sleeps / wakes
+
+### SL10:00073 | SL10 | page n/a | The First Grandmothers
+FIGURES: ASRELIA, ERNALDA, GBAJI, ORLANTH
+TEXT: <sup>32</sup> This is the blanket that Orlanth brought to Ernalda. <sup>33</sup> Conqueror of this land in the Dawn Age, during the Gbaji Wars. He was immensely powerful, and swore he would take from this place the Bed of Asrelia, a mat where the Creatrix slept. He wanted it for his meditation mat. He never got it, but instead went home empty handed. He said, "A
+TARGETS: sleeps / wakes
+
+### SL10:00098 | SL10 | page n/a | Imarja
+FIGURES: IMARJA
+TEXT: Imarja was a great grey goose that flew through the void. She grew weary and wished to rest, so she thought to <sup>50</sup> There is an implication that this was due to the curse, which others deny. It is just as likely that this was brought about by the wars of the Storm Age, or some other large-scale disaster.
+TARGETS: curses
+
+### SL10:00106 | SL10 | page n/a | The Births of Orendara
+FIGURES: (none registered)
+TEXT: When she was named Orendar rose and went to where some people were discussing what to do. They were arguing, and several of the men were already brandishing weapons at each other. Orendara went among the women and spoke to them, and then them to the center of the assembly circle.
+TARGETS: speaks / prophesies
+
+### SL10:00122 | SL10 | page n/a | The Second War
+FIGURES: ERNALDA, ORLANTH
+TEXT: "I have come to destroy your city," said Orlanth. The goddess Ernalda, who is a wise speaker among the council, knew what to do with this wild god. She boldly went and spoke to him, and though many of his henchmen tried to handle her and her entourage, Ernalda protected them and many of the gods were hurt.
+TARGETS: speaks / prophesies
+
+### SL10:00162 | SL10 | page n/a | The Battle of Nochet
+FIGURES: (none registered)
+TEXT: The Diligent Workers70 worked day and night to feed their honorable mother. Dear Mother fed Kimantor and the rest of the family. They lived in safety and, although often hungry, did not die of hunger. And when they ate goose meat, they knew they were in the presence of the Protectress.<sup>71</sup>
+TARGETS: dwells at
+
+### SL10:00239 | SL10 | page n/a | The Destruction of the God Learners in Nochet
+FIGURES: (none registered)
+CONTEXT: lmal is the rightful holder of the Sun Power. The Grandmothers have often backed the Elmal warriors to maintain their claim against foreign interlopers. # When the Bad Handers destroyed the Redweave Family This story commemorates when the Esrolian Grandmothers hired violent and dangerous men to destroy another Grandmother … and got away with it. # The Destruction of the God Learners in Nochet
+TEXT: There lived in the great city of Nochet a school of philosophers; magicians who were more clever than wise. They directed the Grandmothers when they were present, generally by communicating only through the Queens. This proved their undoing, of course, since the Queens were not the true rulers no matter what the philosophers said, demanded or thought.
+TARGETS: dwells at
+
+### SL10:00303 | SL10 | page n/a | The Secrets of the Darkness
+FIGURES: ONLY OLD ONE
+TEXT: Ezkankekko greatly favored the Kitori and allowed them to reside with him in the Palace of Black Glass. Ezkankekko made the Kitori his envoys to the peoples of Kethala and Kerofinela and gave them the privilege of collecting the Shadow Tribute – tribute owed to Ezkankekko from every tribe, settlement and group in Kethaela and Kerofinela for their survival in the Great Darkness. The tribute was not onerous and was fixed by ancient tradition. Failure to pay the Shadow Tribute meant swift and deadly retribution from the Kitori – and because failure to pay was oathbreaking, the guardians and tribal gods would not protect the community.
+TARGETS: breaks oath
+
+### SL10:00305 | SL10 | page n/a | The Secrets of the Darkness
+FIGURES: ONLY OLD ONE
+TEXT: The Kitori were the most visible representative of Ezkankekko's authority, and they were commonly called the "Shadowlords". They wore distinctive garb so that all knew their status: black fur-lined cloak and hood, leaden mask, and ebon spear; and they were often accompanied by trolls or even more frightening darkness entities. Feared and respected as sorcerers and magicians, many viewed the Kitori as the rulers of Kethaela.
+TARGETS: hates / fears; possesses / wields
+
+### SL11:00005 | SL11 | page n/a | Ernalda's Life
+FIGURES: ASRELIA, ERNALDA, ESROLA, FLAMAL, GATA, MARAN GOR, TY KORA TEK, YELM
+TEXT: Once the seas covered all. But the world grew and Ga, Earth, emerged from the depths. Mountain peaks, plains, ridges, and hollows rose above the waves. Gata was born. Empress Earth joined the Cosmic Court. Earth birthed twin daughters, Asrelia and Ty Kora Tek, who came out from the deepest earth. Asrelia's daughters were Marangor and Ernalda, whose beauty and bounty brought life to the land. Asrelia ruled the Earth Tribe and was the first Goddess to live outside the Great Mountain. She had many children but only a few are important to us here. From all the goddesses came Life. In that prehistoric Green Age, Flamal's spores and seeds spread everywhere and everything was good. No drought or famine visited the land. Everyone lived in peace and plenty for all their lives that went on forever. It was the Golden Age. Yelm the Emperor brought Order to the universe. When he extended his Cosmic Rule to include the Earth Tribe, Asrelia retired. The Queen divided up her earthly goods between her most important daughters. Maran Gor received The Great, Esrola received The Most and Ernalda received The Least. With the Great, Maran Gor became the goddess of the earth's greatest manifestations such as landslides, earthquakes, volcanoes, disease, autumn, and disease. Those tools that bring death are also sacred to her, particularly Axes. With the Most, Esrola became the goddess of the earth's bounty. Children, food, sexual desire, and blood are her domain and she is known by many names to many peoples. Baskets carry her bounty and are sacred to her.
+TARGETS: dwells at
+
+### SL11:00007 | SL11 | page n/a | Ernalda's Life
+FIGURES: ENINTA, ERNALDA, ESRA, MAHOME
+TEXT: The Emperor decreed that this was to be so and so Ernalda brought two of her own handmaidens Esra and Eninta with her. One brought her basket and the other the sacred birthing cloths. Kestra brought food for the long journey. At the Celestial Palace, Ernalda set aside a place for her Loom, and soon was weaving splendid raiment for the court. Other young goddesses joined her retinue: Berlintha, who made clothing from Ernalda's cloth; Mahome, who tended the hearth fire, took service with Ernalda, leaving her Fire Tribe. Istena, who tends the kitchen, served those guests who visited the Loom and its goddess. Arnna, who came from the Earth Tribe later, guarded her treasure. Jesta, who could heal small hurts, assisted Ernalda in her work. Beseta and Besanga, sturdy mares, carried burdens for the others. Throughout the rest of the Golden Age, she sheltered in the Celestial Palace and wove cloth for the Imperial Court on her loom. But even in those days, the world was troubled though the Imperial Court would deny it. Indeed, they could not, by their nature see it.
+TARGETS: possesses / wields; heals
+
+### SL11:00008 | SL11 | page n/a | Ernalda's Life
+FIGURES: ERNALDA, ORLANTH, UMATH
+TEXT: But Umath had already made his great Camp and war worried at the borders of the Empire. Vermin had been seen in the kitchens of the Palace and creatures stalked the Perfect Garden. Ernalda was no longer safe. She needed a new protector. One day, Orlanth came to the court. Ernalda spied the handsome young god and saw his potential. She persuaded him to challenge the Emperor. Orlanth was inspired by the beautiful goddess and vied mightily for her freedom. The tale of Orlanth's struggle is best told elsewhere but at her behest he performed three impossible deeds and then a fourth and finally slew The Emperor, and freed Ernalda from her slavery. Now without Light, Ernalda had no protector so she allowed the brash storm god to woo her. These tales form much of the basis of Heortling myth and teach men and women how to behave to each other. In the end, Orlanth swore to protect her and her children and she agreed to become his wife. In this way, the Earth tamed the unruly Storm. The Emperor had been slain but the Fire Tribe was still powerful. Ernalda was concerned.
+TARGETS: speaks / prophesies
+
+### SL11:00010 | SL11 | page n/a | Ernalda's Life
+FIGURES: BARNTAR, ELMAL, ERNALDA, ORLANTH, VADRUS, VINGKOT, VORIOF
+TEXT: Many joined the new Storm Tribe then but others such as Vadrus and his Hurt Everyone Clan were stubborn. Everything would have gone for naught at the feast. Gods boasted and tempers rose, but then warriors from the Night Tribe came. They had been warned of the nascent Storm Tribe and were determined to eat them before they grew strong. The rivals banded together against the Night Tribe and drove off the hungry attackers. Afterwards, everyone saw that any one clan would have been destroyed but together they were able to survive. The last troublemakers settled down and acclaimed Orlanth their king. Orlanth then made the Storm Ring to advise and govern the new tribe. Later, Orlanth asked her how the Night Tribe knew of the great moot but the beautiful goddess only smiled and gave Orlanth something else to think of. With the birth of their first son, Barntar, Ernalda was able to teach Orlanth the meaning of peace, which he learned and appreciated, and the Storm Tribe prospered. Other children followed. With her family growing, so too did Ernalda's powers. During the ensuing Storm Age, she and Orlanth ruled the Storm Tribe together. Their many children include Vingkot the King, Barntar the Farmer, and Voriof the Shepherd. But it was a time of trouble and when Orlanth was unable to protect her, Ernalda found others who would fight for the privilege of doing so. Those who protected her children won her favor, as always. Ernalda's protectors were often successful. Orlanth defeated the ravaging dragon for her. Elmal destroyed the Iron Plants that were poisoning her children.
+TARGETS: speaks / prophesies
+
+### SL11:00013 | SL11 | page n/a | Ernalda's Life
+FIGURES: BARNTAR, ERNALDA, ESRA, MARAN GOR, TY KORA TEK, URALDA
+CONTEXT: are the Betrayer." But she proved her bounty to them and they gave her the Abdorl seed. Burrowing into the earth, it led Ernalda deep into the realm of the Bleak Earth. There she confronted Maran Gor, her sister who had taken Barntar as a thrall. Spake the Barren Goddess: "Your son helps me. Bad times are coming. This son's murder by his uncle is only the first of many terrible things to happen.
+TEXT: He breaks earth with me now, to plant the seeds to defeat Three Unholy Foes." Ernalda looked at her son, seeing how he hated using his powers for Death and said, "Without Barntar, there would be no one to fight our enemies for all the Storm and Earth Tribes would have starved." Then Maran Gor relented, for Ernalda's love was stronger than her hate. Ernalda traveled deeper into the Underworld until she came to great caverns filled with the moaning dead. There she met her aunt, Ty Kora Tek, Keeper of the Dead. During the start of Kinstrife, Uralda and Esra had gone to her, seeking protection. Ernalda asked her aunt to release her daughters but Ty Kora Tek refused. "Whoever comes into my realm now may not leave. I cannot set a precedent and allow anyone to leave if they have a good reason. Bad times are coming and soon my halls will be bursting with the slain." Ernalda pointed out that Uralda and Esra were still full of life and were bringing vitality and sound to the Caverns of the Silence. "If both of them spend all their time here, soon the cavern will become its opposite and the dead will become confused."
+TARGETS: hates / fears
+
+### SL11:00015 | SL11 | page n/a | Ernalda's Life
+FIGURES: ARACHNE SOLARA, BABEESTER GOR, ERNALDA, ORLANTH, UMATH, VORIA
+TEXT: Ernalda was thoughtful for a long time after this, having learned the terrible secret of Kinstrife. In the age of Terror, after Chaos had come, and the Storm Tribe driven from Umath's Camp, Ernalda was forced into sleep along with the powers of the Earth. Without her blessings and protection, many starved, joining those who had gone before in death. Even in sleep her powers were great and she bore the Earth Avenger, Babeester Gor, who defended the sleeping goddesses until Dawn. Ernalda was one of many who aided Arachne Solara and with her powers, assisted with the birth of Time. Thus, she is considered the Midwife of Time. She followed the Sun god out of the Underworld and witnessed his rebirth at Dawn, accompanied by her husband Orlanth. Before the gods went a young goddess who was new. The innocent goddess went forth into the world, whispering the promise of life and hope. She was Voria, the Spring Maiden and flowers are left wherever she passes.
+TARGETS: avenges
+
+### SL11:00016 | SL11 | page n/a | Ernalda's Life
+FIGURES: DEHORE, GENERT, HUMAKT, KERO FIN, KOLAT, LODRIL, MAGASTA, ORLANTH, STORM BULL, UMATH, VADRUS
+TEXT: Orlanth's Life Orlanth is the last child of Umath, born in a cold high cave to the mountain goddess Kero Fin. Orlanth was defiant and aggressive, like his father and his brothers, and constantly moving and fighting. Their uncles, who were afraid of the new gods, performed their initiations. The uncles could not kill them (for Death had not yet been discovered), but they could try to destroy the powers of the young gods before they came to maturity. These uncles were Lodril of the Fire tribe, Genert of the Earth tribe, Kalt the renewing god, Magasta of the Sea tribe, Dehore of the Darkness tribe and some others who we no longer remember, for they were killed during the great Darkness. Kolat was not tested, because he was already full grown. He's not even in this story. Urox was tested by Beasts. He killed or drove away all the hunter beasts, and released all the other creatures into the world. Vadrus was tested by Water, but he churned the seas so violently that Magasta was forced to let him go. Humakt was tested by Combat, but he defeated all his enemies and made a pile of their skulls and a shrine of their weapons.
+TARGETS: hates / fears
+
+### SL11:00017 | SL11 | page n/a | Ernalda's Life
+FIGURES: ORLANTH, YINKIN
+TEXT: Orlanth was tested by Strangers, but he made friends with them and together they escaped from their prison. Only the Other failed his test, of Sex, even though his brothers tried to help him. He became obsessed with procreation. He's been outlawed since then. No one remembers his name. The gods returned to the feasting hall and surprised their uncles, who thought that they would be diminished by their ordeals. The uncles greeted them as Gods and equals, and a huge feast was held the young gods had found their powers and Orlanth's powers of friendship, wits and will, would serve well when all his other powers deserted him. Orlanth had a half brother, (on his mother's side), Yinkin. One day they were playing in a cave high up on a mountainside. Yinkin boasted that his claws let him hold onto anything, and to prove it he clambered around the cavern – on the walls, even on the ceiling. Orlanth decided to make it more difficult and exhaled carefully, varying the winds that came forth. Yinkin smirked, and just ran around faster, leaping from outcrop to floor to wall to ledge to ceiling.
+TARGETS: punishes / exiles
+
+### SL11:00021 | SL11 | page n/a | Ernalda's Life
+FIGURES: ERNALDA, GOLD GRYPHON, GRANDFATHER MORTAL, ORLANTH
+TEXT: Orlanth went to the Emperor's palace and demanded an unprecedented Fourth Contest. When asked why, he replied that he had a New Thing that the Emperor had never seen. Bound by the Emperor's commands, Gold Gryphon was compelled to allow the young god to attempt the impossible. At that moment, deep in the perfect Celestial Palace, a mirror broke. Orlanth was admitted into the Emperor's presence and challenged him to the Test of Prowess. The Emperor took some of his light beams and made a bow and arrow. He shot one arrow to the North, one to the South, one to the East and a fourth to the West. "As far as my arrows travel, so lies my Dominion over the World," said the Emperor. Orlanth drew out his sword and struck at the Emperor. To the discomfiture of the Emperor and the horror of the court, he died the true Death and did not spring back to life. The Emperor's spirit fled, howling, along the path that Grandfather Mortal had already taken. That is the path to the Land of the Dead. In the confusion of the Emperor's death, Orlanth sought out Ernalda.
+TARGETS: dies
+
+### SL11:00022 | SL11 | page n/a | Ernalda's Life
+FIGURES: COSMIC DRAGON, ERNALDA, HUMAKT, ORLANTH
+TEXT: "Two impossible things have I done: I have challenged the Emperor for a fourth time, and have killed him forever." The second impossible thing horrified Ernalda, but she nonetheless left with Orlanth to be his wife. Orlanth returned Death to his brother, but Humakt would accept neither his thanks nor his apologies. "You have shamed me by this theft of my power, and thus have shown that you are not fit to be my Brother. In fact, none of the Storm tribe can equal my honesty or purpose, and so I shall sever my ties irrevocably and completely." With that, Humakt used Death to sever his family ties, and set off into the world alone. Orlanth remonstrated with him, but Humakt just walked alone. Orlanth was sad to lose his brother, but offered him a seat on his Ring even though he was now a Stranger. But then, almost everyone on the ring was a stranger. Humakt accepted that, and became the Champion of Orlanth's people. With the Sun slain, the Golden Age was over and the Age of the Storm Gods had come. Orlanth and his brothers and sons fought each other, except when fighting against a foreign foe. They often fought against the other tribes of gods. Sometimes the Storm Gods were defeated, and sometimes they fought among themselves, but for the most part they fought and conquered the other tribes. When Sh'hakarzeel threatened to devour the gods, Orlanth was the only god who would fight the Cosmic Dragon. Orlanth leapt into the sky and struck down the Mover of Heavens. Orlanth took the Dragon Power as its own. With his left hand, he took the head of the First Dragon and carried it in the heavens before him.
+TARGETS: possesses / wields

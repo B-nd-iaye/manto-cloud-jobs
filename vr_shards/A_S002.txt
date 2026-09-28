@@ -1,0 +1,300 @@
+[P5-A-B0003-040] S=['VERALA TOR'] P=is child of O=['YORISTINA'] implicit=True ps="daughter of" sug=is child of
+   Q: daughter of Yoristina and an unknown father, she became Feathered Horse Queen in 1568, taking the name "Mother of Lands".
+[P5-A-B0003-041] S=['MOTHER OF LANDS'] P=is alternative name for O=['VERALA TOR'] implicit=True ps="taking the name" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: taking the name "Mother of Lands".
+[P5-A-B0003-042] S=['VERALA TOR'] P=marries O=['TARKALOR'] implicit=False ps="took Prince Tarkalor as her husband" sug=is spouse of (qual=wedding)
+   Q: until she finally took Prince Tarkalor as her husband in 1575 when she became Verala Tor, the Queen of Dragon Pass.
+[P5-A-B0003-043] S=['VERALA TOR'] P=rules O=['DRAGON PASS'] implicit=False ps="became the Queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: when she became Verala Tor, the Queen of Dragon Pass.
+[P5-A-B0003-044] S=['VISTERA'] P=is child of O=['SORANA'] implicit=True ps="The daughter of" sug=is child of
+   Q: The daughter of Sorana and an unknown father, she became Feathered Horse Queen in 1623, after leading a rebellion against her sister.
+[P5-A-B0003-045] S=['WITH BITTER HEART'] P=is alternative name for O=['VISTERA'] implicit=True ps="took the title" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She took the title "With Bitter Heart" and ruthlessly avenged the deaths of her grandmother, mother, and sisters.
+[P5-A-B0003-046] S=['VISTERA'] P=kills O=['PRO-LUNAR CHIEFS AND PRIESTESSES'] implicit=True ps="had murdered" sug=one of: kills, shatters, dies
+   Q: She had pro-Lunar chiefs and priestesses murdered
+[P5-A-B0003-047] S=['VISTERA'] P=pledges oath with O=[] implicit=True ps="made a terrible pact" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: made a terrible pact to awaken the Dragons.
+[P5-A-B0003-048] S=['SORANA'] P=is child of O=['VERALA TOR'] implicit=True ps="The daughter of" sug=is child of
+   Q: The daughter of Verala and an unknown father, Sorana became Feathered Horse Queen upon her mother's death in 1582, taking the name "Splendid Among the Proud."
+[P5-A-B0003-049] S=['SPLENDID AMONG THE PROUD'] P=is alternative name for O=['SORANA'] implicit=True ps="taking the name" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: taking the name "Splendid Among the Proud."
+[P5-A-B0003-050] S=['INKARNE'] P=is child of O=['VIRKALA TOR', 'MOIRADES'] implicit=True ps="The daughter of" sug=is child of
+   Q: The daughter of Virkala and Moirades, Inkarne became Feathered Horse Queen upon the death of her aunt in 1625.
+[P5-A-B0003-051] S=['REACHES ALL'] P=is alternative name for O=['INKARNE'] implicit=True ps="has taken the title" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She has taken the title "Reaches All".
+[P5-A-B0003-052] S=['PUPPETEER TROUPE'] P=reveals O=['SECRETS OF THE DIVINE'] implicit=False ps="use oration, dance, music, and song to reveal" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: The Puppeteer Troupe use oration, dance, music, and song to reveal secrets of the divine to their audience.
+[P5-A-B0003-053] S=['TYLENEA'] P=establishes cult O=['PUPPETEER TROUPE'] implicit=True ps="founded" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Stories claim Tylenea founded the Troupe
+[P5-A-B0003-054] S=['PUPPETEER TROUPE'] P=serves O=['COSMIC COURT'] MOD={"in_on_at": "THE SPIKE"} implicit=True ps="entertained" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: they once entertained the Cosmic Court atop the Spike with their arts and mastery of Illusion.
+[P5-A-B0003-055] S=['DONANDAR'] P=rules O=['PUPPETEER TROUPE'] implicit=True ps="led" sug=leads
+   Q: In the Lesser Darkness Donandar, the god of dance and music, led them.
+[P5-A-B0003-056] S=['PUPPETEER TROUPE'] P=serves O=['DONANDAR', 'TYLENEA'] implicit=True ps="performances are worship rituals for" sug=is worshipped by
+   Q: Their performances are worship rituals for Donandar and Tylenea.
+[P5-A-B0003-057] S=['HON-EEL'] P=is identified as O=['THIRD INSPIRATION OF MOONSON'] implicit=False ps="was the Third Inspiration of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Hon-eel was the Third Inspiration of Moonson
+[P5-A-B0003-058] S=['HON-EEL'] P=is identified as O=['JAR-EEL'] implicit=False ps="can therefore be considered an earlier incarnation of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Hon-eel was the Third Inspiration of Moonson, and can therefore be considered an earlier incarnation of the demigoddess we know as Jar-eel the Razoress.
+[P5-A-B0003-059] S=['HON-EEL'] P=manifests O=[] MOD={"in_on_at": "EARTH TEMPLE", "to": "TARSH"} implicit=False ps="entered Tarsh miraculously, for she appeared" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: In 1490 ST, Hon-eel entered Tarsh miraculously, for she appeared at the climax of the Inner Rituals of the Earth Temple during the Calling Ceremony.
+[P5-A-B0003-060] S=['MOON'] P=is child of O=['GODDESS OF THE EARTH'] implicit=False ps="had adopted the Moon as a daughter" sug=is child of
+   Q: the High Priestess decreed that the Goddess of the Earth had adopted (many say was forced to adopt) the Moon as a daughter
+[P5-A-B0003-061] S=['EARTH TEMPLE'] P=initiates into cult O=['HON-EEL'] implicit=True ps="was initiated into the outer mysteries" sug=initiates into cult
+   Q: Hon-eel was initiated into the outer mysteries, the ceremony of Spring
+[P5-A-B0003-062] S=['HON-EEL'] P=fights O=['FREE TARSH'] implicit=False ps="began the destruction of" sug=shatters
+   Q: Hon-eel began the destruction of free Tarsh.
+[P5-A-B0003-063] S=['PYJEEMSAB'] P=marries O=['HON-EEL'] implicit=True ps="the pair were married" sug=is spouse of (qual=wedding)
+   Q: Wealth and peace disappeared when the King Pyjeemsab of Tarsh received permission from the Earth priestesses to marry the fascinating Lunar demigoddess. || In 1490, after a season of preparation and a weeklong ritual attended by many imperial dignitaries, the pair were married.
+[P5-A-B0003-064] S=['PYJEEMSAB'] P=rules O=['TARSH'] implicit=False ps="King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the King Pyjeemsab of Tarsh
+[P5-A-B0003-065] S=['HON-EEL'] P=is child of O=['RED EMPEROR'] implicit=False ps="her father" sug=is child of
+   Q: Hon-eel claimed the regency in the name of her unborn son, and this claim was supported by her father the Red Emperor and his armies.
+[P5-A-B0003-066] S=['HON-EEL'] P=rules O=['TARSH'] implicit=True ps="claimed the regency" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Hon-eel claimed the regency in the name of her unborn son, and this claim was supported by her father the Red Emperor and his armies.
+[P5-A-B0003-067] S=['RED EMPEROR'] P=protects O=['HON-EEL'] implicit=True ps="was supported by" sug=aids
+   Q: this claim was supported by her father the Red Emperor and his armies.
+[P5-A-B0003-068] S=['MANY TARSHITES'] P=fights O=['HON-EEL'] implicit=True ps="rebelled outright" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Many Tarshites rebelled outright.
+[P5-A-B0003-069] S=['ALLIES FROM THE NEW KINGDOM OF SARTAR'] P=protects O=['FREE TARSH'] implicit=False ps="aided by" sug=aids
+   Q: Although aided by allies from the new kingdom of Sartar, free Tarsh was doomed
+[P5-A-B0003-070] S=['PHORONESTES'] P=establishes cult O=['TEMPLE OF THE GODDESS OF THE REACHING MOON'] implicit=False ps="oversaw the dedication of new ground for" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: in 1496 the five-year old child king Phoronestes oversaw the dedication of new ground for a Temple of the Goddess of the Reaching Moon.
+[P5-A-B0003-071] S=['PHORONESTES'] P=rules O=['TARSH'] MOD={"in_on_at": "FURTHEST"} implicit=False ps="During the reign of King Phoronestes; had his palace there" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: During the reign of King Phoronestes, many Lunar colonies were founded in Tarsh, the most important being the city of Furthest. || Phoronestes had his palace there and it quickly became the capital of Lunar culture and administration.
+[P5-A-B0003-072] S=['FURTHEST'] P=comes into being O=[] MOD={"in_on_at": "TARSH"} implicit=False ps="were founded" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: During the reign of King Phoronestes, many Lunar colonies were founded in Tarsh, the most important being the city of Furthest.
+[P5-A-B0003-073] S=['EARTH GODDESS'] P=discovers O=['HON-EEL'] implicit=True ps="discovered her betrayal" sug=discovers
+   Q: The Earth Goddess discovered her betrayal, and enabled some portions of Old Tarsh to remain free and outside of the Glowline, allied with the new rising power of Sartar.
+[P5-A-B0003-074] S=['EARTH GODDESS'] P=protects O=['SOME PORTIONS OF OLD TARSH'] implicit=False ps="enabled to remain free and outside of the Glowline" sug=one of: protects, rescues / frees, aids
+   Q: The Earth Goddess discovered her betrayal, and enabled some portions of Old Tarsh to remain free and outside of the Glowline, allied with the new rising power of Sartar.
+[P5-A-B0003-075] S=['SARTAR'] P=rules O=['ALDA-CHUR'] implicit=False ps="changed from Tarsh to Sartar rule" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Thus, the city of Alda-Chur changed from Tarsh to Sartar rule.
+[P5-A-B0003-076] S=['BUSH CHILDREN'] P=flees to O=['SARTAR'] implicit=False ps="took refuge with" sug=flees to
+   Q: The Bush Children, and many others, were driven from their homes and took refuge with Sartar.
+[P5-A-B0003-077] S=['SISTER-QUEENS OF THE SHAKER PRIESTESSES'] P=rules O=['TARSH EXILES'] MOD={"in_on_at": "KERO FIN"} implicit=False ps="led by" sug=leads
+   Q: The staunchest foes of the Lunars called themselves the Tarsh Exiles and fortified themselves on the slopes of Kero Fin, led by the undefeated sister-queens of the Shaker Priestesses, now purged of Lunars.
+[P5-A-B0003-078] S=['TARSH EXILES'] P=fights O=['LUNARS'] implicit=False ps="The staunchest foes of" sug=hates
+   Q: The staunchest foes of the Lunars called themselves the Tarsh Exiles
+[P5-A-B0004-001] S=['MOIRADES'] P=rules O=['DRAGON PASS', 'TARSH'] implicit=True ps="was King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Crowned in 1579, he was King of Dragon Pass and the fifteenth king of Tarsh.
+[P5-A-B0004-002] S=['MOIRADES'] P=defeats O=['TARSH EXILES', 'SARTARITE ALLIES'] MOD={"in_on_at": "GRIZZLY PEAK"} implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He defeated the Tarsh Exiles and their Sartarite allies at the Battle of Grizzly Peak.
+[P5-A-B0004-003] S=['MOIRADES'] P=defeats O=['SARTAR'] implicit=True ps="conquered" sug=conquers
+   Q: He conquered Sartar.
+[P5-A-B0004-004] S=['MOIRADES'] P=alters mythic station O=[] implicit=True ps="achieved Illumination" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: He achieved Illumination and used Lunar magic to deeply explore personal transformation.
+[P5-A-B0004-005] S=['MOIRADES'] P=is spouse of O=['HARSTA ORINDORI', 'FEATHERED HORSE QUEEN'] implicit=True ps="had two wives" sug=is spouse of
+   Q: He had two wives. With the first, Harsta Orindori, he was the father of Pharandros; with the second, the Feathered Horse Queen, he had a daughter.
+[P5-A-B0004-006] S=['A DAUGHTER'] P=is child of O=['MOIRADES', 'FEATHERED HORSE QUEEN'] implicit=True ps="he had a daughter" sug=is child of
+   Q: with the second, the Feathered Horse Queen, he had a daughter.
+[P5-A-B0004-007] S=['A SON'] P=is child of O=['MOIRADES', 'JAR-EEL'] implicit=True ps="sired a son with" sug=is child of
+   Q: Finally, he sired a son with Jar-eel at the moment of his spiritual liberation in 1610.
+[P5-A-B0004-008] S=['PHARANDROS'] P=is child of O=['MOIRADES', 'HARSTA ORINDORI'] implicit=False ps="son of" sug=is child of
+   Q: Pharandros,son of Moirades and Harsta Orindori, is the current king.
+[P5-A-B0004-009] S=['PHARANDROS'] P=rules O=['TARSH'] implicit=True ps="is the sixteenth king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He is the sixteenth king of Tarsh.
+[P5-A-B0004-010] S=['PHARANDROS'] P=rules O=['SARTAR'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He ruled Sartar, and conquered Prax and the Holy Country, but lost all three when the Dragon rose.
+[P5-A-B0004-011] S=['PHARANDROS'] P=defeats O=['PRAX', 'HOLY COUNTRY'] implicit=True ps="conquered" sug=conquers
+   Q: He ruled Sartar, and conquered Prax and the Holy Country, but lost all three when the Dragon rose.
+[P5-A-B0004-012] S=['LUNAR EMPIRE'] P=fights O=['TARSH'] implicit=False ps="invaded" sug=invades / raids
+   Q: In 1555, the Lunar Empire invaded Tarsh to reinstall the Hon-eel Dynasty as rulers of that kingdom.
+[P5-A-B0004-013] S=['PALASHEE'] P=defeats O=['LUNAR ARMY'] MOD={"in_on_at": "KARNGE FARM", "with_the_aid_of": ["JAROLAR", "PRAXIAN ALLIES"]} implicit=False ps="routed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: With the aid of Prince Jarolar of Sartar and his Praxian allies, King Palashee routed the Lunar Army at the Battle of Karnge Farm.
+[P5-A-B0004-014] S=['PHARGENTES'] P=is sibling of O=['PHILIGOS'] implicit=True ps="the younger brother of" sug=is sibling of
+   Q: Then, in the dead of night, the younger brother of the slain Lunar king launched a surprise raid. || King Palashee met General Phargentes in battle
+[P5-A-B0004-015] S=['PALASHEE'] P=fights O=['PHARGENTES'] MOD={"in_on_at": "AXEFIELD"} implicit=False ps="met in battle and they fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: King Palashee met General Phargentes in battle and they fought so fiercely that the grass at Axefield is still red today.
+[P5-A-B0004-016] S=['HIGH QUEEN', 'THE GREAT', 'MOTHER OF QUEENS'] P=is alternative name for O=['BRUVALA'] implicit=False ps="Called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Called the High Queen, the Great, or the Mother of Queens, Bruvala was the greatest queen of Esrolia since the Second Age.
+[P5-A-B0004-017] S=['BRUVALA'] P=rules O=['ESROLIA'] implicit=False ps="was the greatest queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Called the High Queen, the Great, or the Mother of Queens, Bruvala was the greatest queen of Esrolia since the Second Age.
+[P5-A-B0004-018] S=['BRUVALA'] P=is member of O=['HOUSE NORINEL'] implicit=True ps="was born to" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: She was born in 1441 to House Norinel.
+[P5-A-B0004-019] S=['EVERY SUBSEQUENT ESROLIAN QUEEN'] P=claims ancestry O=['BRUVALA'] implicit=False ps="can trace her ancestry to" sug=claims ancestry
+   Q: Every subsequent Esrolian queen can trace her ancestry to Bruvala.
+[P5-A-B0004-020] S=['BRUVALAINA'] P=is child of O=['BRUVALA'] implicit=False ps="Daughter of" sug=is child of
+   Q: Bruvalaina (1510–1522).Born 1485 into House Norinel. Daughter of Bruvala
+[P5-A-B0004-021] S=['BRUVA'] P=is child of O=['BRUVALA'] implicit=False ps="Daughter of" sug=is child of
+   Q: Bruva (1522–1525). Born 1500 to House Norinel. Daughter of Bruvala, she was acclaimed queen after her half-sister abdicated.
+[P5-A-B0004-022] S=['BRUVA'] P=challenges O=['BRUVALA'] implicit=True ps="trying to seize power from" sug=one of: challenges, breaks oath, betrays, fights
+   Q: She was murdered after trying to seize power from her mother.
+[P5-A-B0004-023] S=['HENDIRA'] P=claims ancestry O=['NORINA'] implicit=False ps="Granddaughter of" sug=claims ancestry
+   Q: Hendira (1610–1622).Born 1580 to House Norinel. Granddaughter of Norina and daughter-in-law of Valinalda.
+[P5-A-B0004-024] S=['LUNAR TEMPLE'] P=comes into being O=[] MOD={"in_on_at": "NOCHET", "at_the_instigation_of": ["HENDIRA"]} implicit=True ps="was built" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: At her behest, a Lunar Temple was built in our great city and foreign troops marched upon the sacred stones of our streets.
+[P5-A-B0004-025] S=['BRENGALA'] P=is child of O=['BRUVALA'] implicit=True ps="Youngest daughter of" sug=is child of
+   Q: Youngest daughter of Bruvala, she was eventually given actual power by her mother.
+[P5-A-B0004-026] S=['BELINTAR'] P=fights O=['DORAGRESTOL THE LISPER'] MOD={"with_the_aid_of": ["BRENGALA"]} implicit=True ps="aided Belintar against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She aided Belintar against Doragrestol the Lisper.
+[P5-A-B0004-027] S=['NORINA'] P=is child of O=['BRENGALA'] implicit=False ps="Daughter of" sug=is child of
+   Q: Daughter of Brengala, Norina ruled well but was killed by Sartarite assassins seeking to avenge the death of their prince.
+[P5-A-B0004-028] S=['SARTARITE ASSASSINS'] P=kills O=['NORINA'] MOD={"purpose_clause": "TO AVENGE"} implicit=False ps="was killed by" sug=one of: kills, shatters, dies
+   Q: Daughter of Brengala, Norina ruled well but was killed by Sartarite assassins seeking to avenge the death of their prince.
+[P5-A-B0004-029] S=['IMARJIRA'] P=claims ancestry O=['BRUVALA'] implicit=False ps="great-granddaughter of" sug=claims ancestry
+   Q: Born 1521 to House Delaeos (great-granddaughter of Bruvala through Bruvala's son, Imarjira's grandfather).
+[P5-A-B0004-030] S=['IMARJIRA'] P=fights O=['BRENGALA'] implicit=True ps="much conflict with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: She had a difficult reign, with much conflict with Brengala, the Reverend Grandmother.
+[P5-A-B0004-031] S=['THE SAGE'] P=is alternative name for O=['VALINYR'] implicit=True ps="Called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Called the Sage.
+[P5-A-B0004-032] S=['VALINYR'] P=claims ancestry O=['BRUVALA'] implicit=True ps="great-granddaughter of" sug=claims ancestry
+   Q: Born 1540 to House Delainaeo (great-granddaughter of Bruvala and niece of Brengala).
+[P5-A-B0004-033] S=['DORMAL'] P=is child of O=['VALINA'] implicit=False ps="mother of" sug=is child of
+   Q: her cousin Valina (the lover of Belintar and mother of Dormal)
+[P5-A-B0004-034] S=['SAMASTINA'] P=is child of O=['MARILAINA'] implicit=True ps="Daughter of" sug=is child of
+   Q: Daughter of Marilaina (and great-granddaughter of Imarjira—also the niece of Hendira).
+[P5-A-B0004-035] S=['SAMASTINA'] P=rules O=['NOCHET'] MOD={"in_accordance_with": ["ERNALDA"]} implicit=True ps="was chosen to ascend to the rule of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: By the blessings of Ernalda she was chosen to ascend to the rule of our city, to heal the wounds inflicted by her aunt.
+[P5-A-B0004-036] S=['LUNARS'] P=defeats O=['BOLDHOME'] implicit=True ps="took" sug=captures
+   Q: took Boldhome and the Flame of Sartar was quenched, battered, and cursed.
+[P5-A-B0004-037] S=['LUNAR ARMY'] P=rules O=['SARTAR'] implicit=True ps="occupied" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Lunar army occupied the capital and cities, and began their occupation.
+[P5-A-B0004-038] S=['BELINTAR'] P=protects O=['KETHAELA'] MOD={"using": "MAGIC"} implicit=True ps="magic defended his land" sug=one of: protects, rescues / frees, aids
+   Q: But the God-King Belintar's magic defended his land, and the Lunar Army was defeated at the Building Wall Battle.
+[P5-A-B0004-039] S=['GOD-KING'] P=is alternative name for O=['BELINTAR'] implicit=False ps="the God-King Belintar" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: But the God-King Belintar's magic defended his land
+[P5-A-B0004-040] S=['A SON'] P=is child of O=['JAR-EEL', 'MOIRADES'] implicit=False ps="gave birth to a son from that union" sug=is child of
+   Q: Moirades died during sexual intercourse during a religious ceremony with Jar-eel the Razoress in 1610. || Jar-eel later gave birth to a son from that union.
+[P5-A-B0004-041] S=['PHARANDROS'] P=is child of O=['MOIRADES'] implicit=False ps="eldest son" sug=is child of
+   Q: Moirades eldest son, Pharandros, became king
+[P5-A-B0004-042] S=['NOMADS'] P=fights O=['LUNAR ARMY'] MOD={"in_on_at": "MOONBROTH"} implicit=True ps="gathered forces to resist" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Valiant nomads gathered forces to resist the Chaos foe, but were decisively defeated and slaughtered at the First Battle of Moonbroth.
+[P5-A-B0004-043] S=['LUNAR ARMY'] P=fights O=['PAVIS'] implicit=False ps="marched against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Lunar army marched against Pavis. The city resisted for a single day, then opened its gates to the besiegers.
+[P5-A-B0004-044] S=['CORFLU'] P=comes into being O=[] MOD={"at_the_instigation_of": ["LUNAR EMPIRE"]} implicit=True ps="had built" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Within a few years, the Empire had built the port city of Corflu on the coast
+[P5-A-B0004-045] S=['FAZZUR'] P=is child of O=['VOSTOR BLACKTOOTH'] implicit=False ps="His father was" sug=is child of
+   Q: His father was Vostor Blacktooth, a loyal companion of King Phargentes and a member of the king's household. || Fazzur's sister Harsta was the first wife of Moirades
+[P5-A-B0004-046] S=['VOSTOR BLACKTOOTH'] P=serves O=['PHARGENTES'] implicit=False ps="a loyal companion of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: His father was Vostor Blacktooth, a loyal companion of King Phargentes and a member of the king's household.
+[P5-A-B0004-047] S=['HARSTA'] P=is sibling of O=['FAZZUR'] implicit=False ps="Fazzur's sister" sug=is sibling of
+   Q: Fazzur's sister Harsta was the first wife of Moirades, making Fazzur the uncle of King Pharandros.
+[P5-A-B0004-048] S=['HARSTA'] P=is spouse of O=['MOIRADES'] implicit=False ps="was the first wife of" sug=is spouse of
+   Q: Fazzur's sister Harsta was the first wife of Moirades, making Fazzur the uncle of King Pharandros.
+[P5-A-B0004-049] S=['FAZZUR'] P=is spouse of O=['HARAMA OF BAGNOT'] implicit=False ps="was married to" sug=is spouse of
+   Q: Fazzur was married to Harama of Bagnot, who was descended from the kings of Old Tarsh.
+[P5-A-B0004-050] S=['HARAMA OF BAGNOT'] P=claims ancestry O=['KINGS OF OLD TARSH'] implicit=False ps="was descended from" sug=claims ancestry
+   Q: Fazzur was married to Harama of Bagnot, who was descended from the kings of Old Tarsh.
+[P5-A-B0004-051] S=['ONJUR', 'ANNSTAD'] P=is child of O=['FAZZUR', 'HARAMA OF BAGNOT'] implicit=True ps="had two sons" sug=is child of
+   Q: They had two sons, Onjur and Annstad.
+[P5-A-B0004-052] S=['FAZZUR'] P=fights O=['ALDA-CHUR', 'SARTAR'] implicit=False ps="led many raids against" sug=invades / raids
+   Q: Fazzur led many raids against Alda-Chur and Sartar
+[P5-A-B0004-053] S=['FAZZUR'] P=defeats O=['HEORTLAND'] implicit=False ps="led the successful invasion of" sug=invades / raids
+   Q: Fazzur led the successful invasion of Heortland during the invasion of the Holy Country in 1605
+[P5-A-B0004-054] S=['FAZZUR', 'SOR-EEL'] P=defeats O=['PRAX'] implicit=False ps="led the conquest of" sug=conquers
+   Q: With his old friend Sor-eel of the noble Eel-ariash family, Fazzur led the conquest of Prax
+[P5-A-B0004-055] S=['SOR-EEL'] P=is member of O=['EEL-ARIASH FAMILY'] implicit=False ps="of the noble Eel-ariash family" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Sor-eel of the noble Eel-ariash family
+[P5-A-B0004-056] S=['FAZZUR'] P=defeats O=["STARBROW'S REBELLION"] implicit=True ps="achieved a quick and complete victory" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: During Starbrow's Rebellion, the Dara Happan governor proved himself incompetent. || He received it and achieved a quick and complete victory.
+[P5-A-B0004-057] S=['RED EMPEROR'] P=bestows magic / gifts O=['COMMAND OF THE PROVINCIAL ARMY'] IO=['FAZZUR'] implicit=False ps="gave Fazzur command of" sug=one of: bestows, heals, imbues, teaches
+   Q: The Red Emperor gave Fazzur command of the Provincial Army and appointed him Governor-General of Dragon Pass.
+[P5-A-B0004-058] S=['FAZZUR'] P=rules O=['DRAGON PASS'] MOD={"at_the_command_of": ["RED EMPEROR"]} implicit=False ps="appointed him Governor-General of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Red Emperor gave Fazzur command of the Provincial Army and appointed him Governor-General of Dragon Pass.
+[P5-A-B0004-059] S=['TEMERTAIN'] P=is member of O=['SARTAR DYNASTY'] implicit=False ps="a surviving member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Fazzur found a surviving member of the Sartar Dynasty to place on the throne of Boldhome, a scholar named Temertain who lived in the Knowledge Temple in Nochet.
+[P5-A-B0004-060] S=['FAZZUR'] P=discovers O=['TEMERTAIN'] implicit=False ps="found" sug=discovers
+   Q: Fazzur found a surviving member of the Sartar Dynasty to place on the throne of Boldhome, a scholar named Temertain who lived in the Knowledge Temple in Nochet.
+[P5-A-B0004-061] S=['TEMERTAIN'] P=is child of O=['JOTISAN'] implicit=False ps="was the sixth son of" sug=is child of
+   Q: Temertain was the sixth son of Jotisan of Karse
+[P5-A-B0004-062] S=['JOTISAN'] P=is child of O=['MARKALOR'] implicit=False ps="son Markalor" sug=is child of
+   Q: Jotisan of Karse, son Markalor of Nochet, who was son of Eonistaran the Sage
+[P5-A-B0004-063] S=['MARKALOR'] P=is child of O=['EONISTARAN'] implicit=False ps="was son of" sug=is child of
+   Q: Markalor of Nochet, who was son of Eonistaran the Sage, a bastard son of King Sartar who had been an advisor to Prince Saronil.
+[P5-A-B0004-064] S=['EONISTARAN'] P=is child of O=['SARTAR'] implicit=False ps="a bastard son of" sug=is child of
+   Q: Eonistaran the Sage, a bastard son of King Sartar who had been an advisor to Prince Saronil.
+[P5-A-B0004-065] S=['EONISTARAN'] P=serves O=['SARONIL'] implicit=False ps="had been an advisor to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Eonistaran the Sage, a bastard son of King Sartar who had been an advisor to Prince Saronil.
+[P5-A-B0004-066] S=['THE SAGE'] P=is alternative name for O=['EONISTARAN'] implicit=False ps="Eonistaran the Sage" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Eonistaran the Sage
+[P5-A-B0004-067] S=['FAZZUR'] P=serves O=['TEMERTAIN'] implicit=False ps="was the prince's main advisor" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Fazzur was the prince's main advisor, and the real ruler of Sartar, as Temertain was unfit for leadership.
+[P5-A-B0004-068] S=['FAZZUR'] P=rules O=['SARTAR'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: After a short time Estal ruled Temertain, but Fazzur ruled Sartar.
+[P5-A-B0004-069] S=['ESTAL DONGE'] P=rules O=['TEMERTAIN'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: After a short time Estal ruled Temertain, but Fazzur ruled Sartar.
+[P5-A-B0004-070] S=['ESTAL DONGE'] P=serves O=['RED EMPEROR'] implicit=False ps="sent a spy" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Red Emperor sent a spy, Estal Donge, to keep the prince occupied, and she and Fazzur were soon rivals.
+[P5-A-B0004-071] S=['ESTAL DONGE'] P=fights O=['FAZZUR'] implicit=True ps="were soon rivals" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: she and Fazzur were soon rivals.
+[P5-A-B0004-072] S=['QUEEN OF ESROLIA'] P=serves O=['ERNALDA'] MOD={"in_on_at": "NOCHET"} implicit=True ps="is high priestess of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Queen of Esrolia, who is high priestess of Ernalda for the city.
+[P5-A-B0004-073] S=['DITALI TRIBE'] P=fights O=['HOLY COUNTRY'] MOD={"at_the_instigation_of": ["LUNAR AGITATORS"]} implicit=False ps="to raid and plunder" sug=invades / raids
+   Q: Lunar agitators persuaded and bribed the Ditali tribe to raid and plunder the Holy Country
+[P5-A-B0004-074] S=['A HUGE FLEET OF WOLF PIRATES'] P=fights O=['THE WHOLE SOUTH COAST'] MOD={"from": "THREE STEP ISLANDS"} implicit=False ps="raided" sug=invades / raids
+   Q: Further troubles came with a huge fleet of Wolf Pirates who took residence on the Three Step Islands and raided the whole south coast.
+[P5-A-B0004-075] S=['BELINTAR'] P=manifests O=[] MOD={"via": ["TOURNAMENT OF THE MASTERS OF LUCK AND DEATH"]} implicit=False ps="the GodKing returned" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: In 1614, Belintar's mortal body expired and a Tournament of the Masters of Luck and Death was held to find a new incarnation. || The tournament was a success; the GodKing returned
+[P5-A-B0004-076] S=['A WOLF PIRATE FLEET'] P=defeats O=['A KETHAELAN FLEET'] MOD={"in_on_at": "CHORALINTHOR BAY"} implicit=False ps="crushing" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: A Wolf Pirate fleet laid waste to the islands, crushing a Kethaelan fleet right in Choralinthor Bay
+[P5-A-B0004-077] S=['AN ARMY OF DITALI AND OTHER BARBARIANS'] P=defeats O=['ARMIES OF ESROLIA AND CALADRALAND'] MOD={"in_on_at": "LION KING'S FEAST", "at_the_command_of": ["GREYMANE"]} implicit=False ps="destroyed" sug=shatters
+   Q: An army of Ditali and other barbarians from the west, led by the warlord Greymane, destroyed the armies of Esrolia and Caladraland at the Battle of the Lion King's Feast.
+[P5-A-B0004-078] S=['JAR-EEL'] P=travels O=[] MOD={"at_the_command_of": ["RED EMPEROR"]} implicit=False ps="sent" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Red Emperor chose this moment to strike and sent Jar-eel the Razoress to defeat Belintar.
+[P5-A-B0004-079] S=['JAR-EEL'] P=is child of O=['RED EMPEROR'] implicit=False ps="is the daughter of" sug=is child of
+   Q: Jar-eel is the daughter and Fourth Inspiration of the Red Emperor.
+[P5-A-B0004-080] S=['JAR-EEL'] P=is identified as O=['FOURTH INSPIRATION OF THE RED EMPEROR'] implicit=False ps="is the Fourth Inspiration of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Jar-eel is the daughter and Fourth Inspiration of the Red Emperor.
+[P5-A-B0004-081] S=['JAR-EEL', 'HON-EEL'] P=embodies O=['RED GODDESS'] implicit=True ps="is the living incarnation of" sug=one of: embodies, has domain
+   Q: She is the living incarnation of the Red Goddess in the material world, just as her ancestress Hon-eel the Artess was.
+[P5-A-B0004-082] S=['JAR-EEL'] P=claims ancestry O=['HON-EEL'] implicit=True ps="her ancestress" sug=claims ancestry
+   Q: She is the living incarnation of the Red Goddess in the material world, just as her ancestress Hon-eel the Artess was.
+[P5-A-B0004-083] S=['JAR-EEL'] P=rules O=['MOONSWORD CULT'] implicit=True ps="leads" sug=leads
+   Q: She leads the mystic warrior discipline known as the Moonsword cult, and is worshiped by them in turn.
+[P5-A-B0004-084] S=['MOONSWORD CULT'] P=serves O=['JAR-EEL'] implicit=True ps="is worshiped by them" sug=is worshipped by
+   Q: She leads the mystic warrior discipline known as the Moonsword cult, and is worshiped by them in turn.
+[P5-A-B0004-085] S=['BELINTAR'] P=descends into O=['UNDERWORLD'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="traveled the paths of" sug=one of: descends into, dies
+   Q: While Belintar traveled the paths of the Underworld, seeking to defend the Holy Country against barbarians and Wolf Pirates
+[P5-A-B0004-086] S=['JAR-EEL'] P=dismembers O=['BELINTAR'] MOD={"in_on_at": "UNDERWORLD"} implicit=True ps="was ambushed by Jar-eel and dismembered" sug=dismembers
+   Q: he was ambushed by Jar-eel and dismembered.
+[P5-A-B0005-001] S=['FAZZUR'] P=defeats O=['KING BROYAN'] implicit=False ps="was defeated in battle" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Fazzur led the army southward. || King Broyan was defeated in battle and retreated into the sacred stronghold of Whitewall.
+[P5-A-B0005-002] S=['KING BROYAN'] P=flees to O=[] MOD={"to": "WHITEWALL"} implicit=False ps="retreated into" sug=flees to
+   Q: King Broyan was defeated in battle and retreated into the sacred stronghold of Whitewall.
+[P5-A-B0005-003] S=['FAZZUR'] P=fights O=['KING BROYAN'] MOD={"in_on_at": "WHITEWALL"} implicit=True ps="besieged" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Fazzur besieged him there
+[P5-A-B0005-004] S=['FAZZUR'] P=defeats O=['NORTHERN HEORTLAND'] implicit=False ps="fell to" sug=conquers
+   Q: northern Heortland quickly fell to Fazzur.
+[P5-A-B0005-005] S=['KING RIKARD'] P=rules O=['NEW MALKONWAL'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: where ruled King Rikard, an adventurer from the far West who made himself king after Belintar was dismembered.
+[P5-A-B0005-006] S=['RED EMPEROR'] P=bestows magic / gifts O=['CRIMSON BAT'] IO=['JORKANDROS BLINDER'] MOD={"purpose_clause": "to assault the city"} implicit=True ps="assigned" sug=one of: bestows, heals, imbues, teaches
+   Q: The Red Emperor assigned the demonic Crimson Bat and its cult to Jorkandros with orders to assault the city.
+[P5-A-B0005-007] S=['CRIMSON BAT'] P=fights O=['WHITEWALL'] implicit=True ps="attacked" sug=invades / raids
+   Q: The Chaos monster attacked but was repelled by Orlanthi magic.
+[P5-A-B0005-008] S=['CRIMSON BAT'] P=travels O=[] MOD={"to": "A LUNAR HELL", "via": ["THE SEA"]} implicit=False ps="flew out to sea, and then returned to its home in" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Crimson Bat flew out to sea, and then returned to its home in a Lunar Hell.
+[P5-A-B0005-009] S=['TATIUS THE BRIGHT'] P=is member of O=['ASSIDAY FAMILY'] implicit=True ps="leader of" sug=leads
+   Q: leader of the imperial Assiday family
+[P5-A-B0005-010] S=['RED EARTH QUEEN'] P=is alternative name for O=['HENDIRA'] implicit=False ps="Hendira the Red Earth Queen" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: negotiating with Hendira the Red Earth Queen
+[P5-A-B0005-011] S=['GIANT CRADLE'] P=travels O=[] MOD={"in_on_at": "PRAX", "via": ["RIVER OF CRADLES"]} implicit=False ps="made its way down" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: a giant cradle, carrying the last baby of the Old Giants and numerous treasures from the Gods Age, made its way down the River of Cradles in Prax.
+[P5-A-B0005-012] S=['BABY GIANTESS'] P=is member of O=['OLD GIANTS'] implicit=True ps="the last baby of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: carrying the last baby of the Old Giants
+[P5-A-B0005-013] S=['SOR-EEL'] P=rules O=['PRAX'] implicit=False ps="the Lunar governor of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Sor-eel, the Lunar governor of Prax, was determined to seize and plunder the cradle
+[P5-A-B0005-014] S=['ARGRATH'] P=protects O=['GIANT CRADLE'] implicit=True ps="defended" sug=one of: protects, rescues / frees, aids
+   Q: it was defended by Argrath White Bull, an Orlanthi hero who knew many magical secrets
+[P5-A-B0005-015] S=['WHITE BULL'] P=is alternative name for O=['ARGRATH'] implicit=False ps="Argrath White Bull" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Argrath White Bull, an Orlanthi hero
+[P5-A-B0005-016] S=['BABY GIANTESS', 'ARGRATH'] P=travels O=[] MOD={"to": "THE SEA"} implicit=True ps="made its way to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The baby giantess and its defenders made its way to the sea.
+[P5-A-B0005-017] S=['HENDIRA'] P=rules O=['NOCHET'] MOD={"with_the_aid_of": ["FAZZUR"]} implicit=True ps="gained ascendancy in" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: With this small assistance she soon gained ascendancy in the great city of Nochet.
+[P5-A-B0005-018] S=['PRIESTESSES OF THE RED GODDESS'] P=establishes cult O=['GREAT LUNAR TEMPLE'] MOD={"in_on_at": "NOCHET"} implicit=True ps="laid down the foundations of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Priestesses of the Red Goddess laid down the foundations of a great Lunar temple.
+[P5-A-B0005-019] S=['ORLANTH'] P=resurrects O=[] MOD={"in_on_at": "WHITEWALL"} implicit=True ps="had come back to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: It held the first temple to the god, where he had come back to life after the Great Darkness.
+[P5-A-B0005-020] S=['WHITEWALL'] P=establishes cult O=['ORLANTH'] implicit=True ps="held the first temple to" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: It held the first temple to the god
+[P5-A-B0005-021] S=['TATIUS THE BRIGHT'] P=defeats O=['WHITEWALL'] implicit=True ps="will triumphed" sug=conquers
+   Q: In the end, Tatius' will triumphed. || Whitewall fell.
+[P5-A-B0005-022] S=['THE LUNAR PRIESTS'] P=kills O=['THE GODS'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: The Lunar priests then killed the gods.
+[P5-A-B0005-023] S=['RED GODDESS'] P=protects O=['TARSH'] implicit=False ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: All of Dragon Pass, Kethaela, and Prax froze, except those parts of Tarsh protected by the Red Goddess.
+[P5-A-B0005-024] S=['CHAOS'] P=travels O=[] MOD={"via": ["COSMIC COMPROMISE"]} implicit=False ps="came in through" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Cosmic Compromise had been weakened, and Chaos came in through its fraying web.
+[P5-A-B0005-025] S=['KING BROYAN'] P=travels O=[] MOD={"to": "BULLFLOOD"} implicit=False ps="appeared at" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: King Broyan, who was believed to have died at Whitewall, appeared at the city of Bullflood with a household of heroic companions.

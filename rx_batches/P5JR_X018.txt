@@ -1,0 +1,142 @@
+### WOD-JR:04142 | WOD-JR | WOD-JR 41530 (Lunar generals circa 1610) | Select Month September 2026
+FIGURES: SECOND SON
+TEXT: Vostor had four sons and one daughter by two wives. They were all loyal and brave. The brothers all became Lunar soldiers who fought often for their king. The eldest son, Farrad, died at age 28 in the Battle of Grizzley Peak (1582) which smashed the Sartar army. The second son, Goslem, died at age 23 in the Battle of Bagnot (also 1582), when he acted rashly and attacked too soon. The third son was Wassail. He was quick to rise in the priesthood and helped Moirades arrange the difficult magic which helped kill Sartar prince Terasarin in 1600. Fazzur was the youngest son, born in 1564. He was a gifted child and a talented soldier, receiving his commission early. Vostor's last child, a daughter, was born in 1568 and was named Harsta. She was a proud and haughty noblewoman, and wed the son of King Phargentes – Moirades.
+TARGETS: dies
+
+### WOD-JR:04143 | WOD-JR | WOD-JR 41530 (Lunar generals circa 1610) | Select Month September 2026
+FIGURES: CRIMSON BAT
+TEXT: Fazzur was an avid scholar while young, so avid that his father feared at first that he would prove to be no soldier. Instead, his scholastic energies aided him in his rapid rise through the military. His kinship by marriage to King Moirades no doubt helped as well. He was eager to use ancient military tricks and tactics in battle. Fazzur was only 18, a mere lieutenant, at Grizzly Peak where his brother died so famously. He led many raids against Sartar and Alda-chur, and commanded a brigade during the invasion of Sartar in 1602. He was present when Runegate fell to the Crimson Bat during that year, and he led the assault upon Boldhome when the Sartar capital was conquered.
+TARGETS: hates / fears; dies
+
+### WOD-JR:04166 | WOD-JR | WOD-JR 41589 (Notes on New Pavis and the Big Rubble) | A Pavis Panorama from Pavis: Threshold to Danger (1983)
+FIGURES: ARGRATH, YELMALIO
+TEXT: To the south of Pavis County is the the Yelmalion enclave of Sun County. It is a much older settlement, with about 19,000 inhabitants in total. Yelmalio and the Grain Goddess are the main cults there and the Yelmalio cult is able to maintain a prickly independence and autonomy from New Pavis and the Animal Nomads, and both the Lunar Empire and later Argrath (although it avoids being an enemy of any of these). However, the presence of New Pavis has been a huge boon for Sun County, and for several generations, the Yelmalio cult was led by a Sartarite family descended from one of Dorastor's boon companions. The presence and power of Sun County explains why Suntown is a semi-autonomous enclave of the Yelmalio cult inside of New Pavis.
+TARGETS: dwells at
+
+### WOD-JR:04178 | WOD-JR | WOD-JR 41592 (Notes on the Big Rubble) | Troll Stronglands
+FIGURES: KYGER LITOR, ROBBER
+TEXT: The Loricek clan numbers around 300 trolls and trollkin. They are noted for a preponderance of Zorak Zorani worship amongst clan members, though many remain pure Kyger Litor. This clan is mainly located in the ruins at the southern part of the Troll Stronglands and in Riverside. Warriors from this clan and nearby subservient clans are responsible for guarding the Troll Bridge and the underground passages leading into troll country from the south and west.They are a robber clan. They tyrannize all the nearby small clans and force them to send troops to support the Loricek war parties. The Loricek clan owns 30 great trolls; more than any other clan.
+TARGETS: possesses / wields
+
+### WOD-JR:04190 | WOD-JR | WOD-JR 41743 (The Troll Occupation of Pavis (1237-1539) | David Scott
+FIGURES: ALDRYAMI, FLINTNAIL, GERAK KAG
+TEXT: Remember Pavis himself no longer dwells permanently in the Real City, although he comes back to his temple every holy day. But his temple Outside the Walls is now the center of his cult. David Scott Aldryami, Dwarfs, Flintnail, Gerak Kag, Pavis (Big Rubble), Pavis (cult), Population demographics, Real City (Big Rubble), Trolls
+TARGETS: dwells at
+
+### WOD-JR:04222 | WOD-JR | WOD-JR 41834 (Notes on Shargash II) | Select Month September 2026
+FIGURES: ANNILLA, SHARGASH, TOLAT
+TEXT: However, the identification with Shargash and Tolat was easily confirmed and nobody doubts the confirmation. Tolat and Annilla are often associated with each other, and this connection is of interest to the Lunars. Again, the enmity between the Shargash cult and the trolls makes working with the Blue Moon troll impractical. There are some Lunar scholars that think the Blue Moon worshiping humans of Pamaltela might be more useful, as they worship both Annila and Shargash!
+TARGETS: hates / fears
+
+### WOD-JR:04223 | WOD-JR | WOD-JR 41834 (Notes on Shargash II) | Select Month September 2026
+FIGURES: GAGARTH, ORLANTH, SHARGASH, STORM BULL
+TEXT: The Orlanthi have little use for Shargash, likely because of the surfeit of Death and Disorder gods already in their pantheon – Gagarth and Storm Bull are enough for any pantheon! The Orlanthi claim that Orlanth defeated Shargash in the Gods War – avenging his father's destruction – and cast him down into the Underworld.
+TARGETS: avenges
+
+### WOD-JR:04237 | WOD-JR | WOD-JR 41866 (After the Spike) | Select Month September 2026
+FIGURES: HORNED MAN
+CONTEXT: From atop the Spike, Pole Star sent his Star Captains down to aid mortals. But the Spike was destroyed, leaving a void, a "central opening" in the cosmos, to quote Mircea Eliade. And a chasm was created between the gods and mortals. For mortals, that central opening served only for transmission of offerings and worship – from there sacrifices would ascend (or descend) to the realm of the gods.
+TEXT: It was Horned Man who showed the path. He shows shamans how they can ascend and descend the Spike, even though it is gone. Through that shamans can directly interact with the spirits and gods. Some shamans used this to technique to contact their ancestral gods and enabled mortals to directly communicate with that god and wield its magic, through a lesser form of shamanic initiation that created a link between mortals and that deity. Other mortals found ways to straddle the mortal and divine realms – these Heroes were self-made shamans of a sort and also showed others how to communicate with the gods.
+TARGETS: possesses / wields
+
+### WOD-JR:04256 | WOD-JR | WOD-JR 41874 (An Ancient Dawn Age document from Britho) | Select Month September 2026
+FIGURES: FROALAR, GBAJI, HRESTOL, MALKION, SERPENT KINGS, TALAR
+TEXT: The following is an ancient Dawn Age document from Brithos. It predates the Gbaji Wars, and likely dates to the time of the Serpent Kings. It is some of Greg's oldest writings. It happened that in Seshnela after the Dawning, Talar Froalar married the Goddess of that land and became king. Through new laws from Malkion, the son of Froalar had destroyed the old castes and created a new one called "Engroni". The son of Froalar was exiled for this though, and he returned to Brithos. His name was Talar Hrestol, and he married the daughter of Talar Antalos of Horalwal, whose name was Lorina. He forsook his heretical beliefs and again entered the caste of the crown wearers, serving Talar Antalos.
+TARGETS: punishes / exiles
+
+### WOD-JR:04257 | WOD-JR | WOD-JR 41874 (An Ancient Dawn Age document from Britho) | Select Month September 2026
+FIGURES: HRESTOL
+CONTEXT: w laws from Malkion, the son of Froalar had destroyed the old castes and created a new one called "Engroni". The son of Froalar was exiled for this though, and he returned to Brithos. His name was Talar Hrestol, and he married the daughter of Talar Antalos of Horalwal, whose name was Lorina. He forsook his heretical beliefs and again entered the caste of the crown wearers, serving Talar Antalos.
+TEXT: It happened that later Hrestol's loyal companion, whose name was Engrion Faralz, came to visit him in Brithos. Now Faralz was originally of the caste of warriors, but refused to put aside his heresy while in Brithos. For this he incurred the wrath of King Gresat, who ordered him outlawed and killed, but Faralz fled into hiding.
+TARGETS: punishes / exiles
+
+### WOD-JR:04258 | WOD-JR | WOD-JR 41874 (An Ancient Dawn Age document from Britho) | Select Month September 2026
+FIGURES: MALKION
+TEXT: King Gresat was to be married to the daughter of Antalos named Nenbra. But during the sacred ceremonies, Faralz appeared and slew the king before Malkion's shrine. Faralz then took Nenbra, and carried her to the woods.
+TARGETS: possesses / wields
+
+### WOD-JR:04259 | WOD-JR | WOD-JR 41874 (An Ancient Dawn Age document from Britho) | Select Month September 2026
+FIGURES: HRESTOL, TALAR
+TEXT: After this Talar Alos became king of the Malkioni. He sent Hrestol to lead the army seeking Hrestol and the foreigner did so with reluctance. Meanwhile, he secretly prepared an escape for him and his friend. When Faralz was finally caught, he was suddenly freed by an attack of the Vadeli. Hrestol fled, returning to the king to confess his loss. But there he was accused of breaking the sacred laws again by drawing his sword while fighting the Vadeli. Alos outlawed Hrestol then, who fled with his family by ship, finally landing in the Vadeli Isles.
+TARGETS: punishes / exiles
+
+### WOD-JR:04260 | WOD-JR | WOD-JR 41874 (An Ancient Dawn Age document from Britho) | Select Month September 2026
+FIGURES: ALDRYAMI
+CONTEXT: Vadeli. Alos outlawed Hrestol then, who fled with his family by ship, finally landing in the Vadeli Isles. Then a Vadeli army descended on the capital of the Malkioni. After a frightful siege, the enemy entered the city and slew people everywhere. In the battle, King Alos was killed trying to flee. The Vadeli took over the government for a time still, although the Horali fought valiantly still.
+TEXT: Then it was that Engrioni Faralz again returned, this time leading an army of Aldryami from Dontri's Forest. In battle, Faralz slew the Vadeli king, but rather than punish them any more, he left them to go in peace to their homes, swearing never again to molest the Malkioni. Elrtof was then made king of the Malkioni. Faralz returned to his home in Seshnela with his wife and family.
+TARGETS: punishes / exiles
+
+### WOD-JR:04265 | WOD-JR | WOD-JR 41900 (Original Horse People) | Select Month September 2026
+FIGURES: BUSERIAN, LIGHTFORE, OURANIA
+TEXT: In the east were the Starlight Ancestors. They rode about the grasslands in spoke-wheeled chariots. They too followed Lightfore, and their shamans reached up to talk to the stars – especially Polestar and Ourania – and even contacted the Knowing God, whom they called Buserian. The Starlight Ancestors migrated north and west, and established themselves as the rulers of northern and central Peloria. Their tribes ruled over the farmers, and cities grew again in Dara Happa. The HirenMaDar Tribe acclaimed their leader Emperor in Raibanth, but others challenged them.
+TARGETS: speaks / prophesies
+
+### WOD-JR:04274 | WOD-JR | WOD-JR 41924 (RuneQuest has Dragons) | Select Month September 2026
+FIGURES: HELER, LIGHTBRINGERS, LORION, ORLANTH, STELLA DRACONIS, THE DRAGONS, YELM
+TEXT: However, others built an empire from this. The Wyrms Friends spoke to the dragons and the dragons spoke back. They were Lightbringers, but they also saw the draconic connections to Orlanth, to Yelm, to Heler-Lorion, to Stella Draconis, and more. These myths were doors to draconic consciousness and to the Great Project.
+TARGETS: speaks / prophesies
+
+### WOD-JR:04281 | WOD-JR | WOD-JR 41921 (Kallyr Starbrow and the Dragonrise) | Select Month September 2026
+FIGURES: ARGRATH, KALLYR STARBROW, THE DRAGONS
+TEXT: Dragonrise star maps by Eric Vanel from the Guide to Glorantha, page 735 Orlaront in all this is an understated figure. Orlaront was born to the Jerending Clan of the Sambari Tribe in 1582, cursed and left-handed. He was protected by strange guardian spirits. Orlaront learned to speak with the dragonewts and other draconic entities. He participated in the Dragonrise in 1625, and was afterwards exiled to Prax by Kallyr Starbrow and became a companion of Argrath Whitebull. He taught Argrath how to speak with dragons.
+TARGETS: curses; punishes / exiles
+
+### WOD-JR:04283 | WOD-JR | WOD-JR 41936 (Notes on The Invisible God II) | Select Month September 2026
+FIGURES: INVISIBLE GOD, ORLANTH
+TEXT: Nothing. That's right – being an initiate of the Invisible God gets you no spells. It isn't even a prerequisite for learning sorcery. So why do it? I mean unlike Orlanth, I can't wield the power of the Invisible God. I don't see him in religious ceremonies. He's invisible after all. So again, why worship him.
+TARGETS: possesses / wields
+
+### WOD-JR:04286 | WOD-JR | WOD-JR 41936 (Notes on The Invisible God II) | Select Month September 2026
+FIGURES: ARKAT, INVISIBLE GOD, ORLANTH
+TEXT: That later approach, of approaching the Invisible God through devotion to a personal god, is commonly associated with Arkat. Malkionism often wrestles with its own definition, in a way that most other cults do not. At the end of the day, if I am able to wield Orlanth's magic then I am an Orlanthi. Simple as that. But the Invisible God is invisible, which means we mortals need to define things.
+TARGETS: possesses / wields
+
+### WOD-JR:04323 | WOD-JR | WOD-JR 42135 (The Syncretism of Elmal and Yelmalio) | Select Month September 2026
+FIGURES: ELMAL, HIGH KING ELF, LIGHTFORE
+TEXT: If you start from the position that these are "two divinities" you are always going to run into problems. So start with this proposition – "two names". At the Dawn, the Orlanthi worshiped the Sun using the rites that had been preserved through the Grey Age – the rights of the last Light in the Darkness, who was also known as Lightfore in the Grey Age. The Sun was a solar disc carried by the god "Elmal" and the subject of these rites. They may have been taught many of these rites by their High King Elf allies on the Unity Council.
+TARGETS: possesses / wields
+
+### WOD-JR:04331 | WOD-JR | WOD-JR 42136 (Rune Masters) | Select Month September 2026
+FIGURES: GAGARTH, MARAN GOR, ORLANTH
+TEXT: Gagarth is much weaker than Maran Gor or Orlanth or the other cults. He's actually manifest in the world as the Wild Hunt, and doesn't need to have magical specialists act as him. Heck, he doesn't really care how you act – and you can be too twisted up to make a connection to other deities and you can still sacrifice to him and gain power from him. So he has Rune Priests but no Rune Lords.
+TARGETS: hunts
+
+### WOD-JR:04343 | WOD-JR | WOD-JR 42158 (Understanding Gloranthan Cosmology) | Page Last updated: 2024-03-05 11:09:35
+FIGURES: MOSTALI, YELM
+TEXT: Alternatively, a Yelmalion take is that Yelm is blissfully ignorant of the threat of Chaos, having died before it entered the cosmos. Why there are nine metals if a five-element system (not six, not four) is an established universal fact? Because of the octamony of course! Seven primordial metals, and then mostali created an eight.
+TARGETS: dies
+
+### WOD-JR:04350 | WOD-JR | WOD-JR 42158 (Understanding Gloranthan Cosmology) | Page Last updated: 2024-03-05 11:09:35
+FIGURES: ARGRATH, EURMAL
+TEXT: What about: "And then Argrath told them what to do. The gods were as one, and they wrapped the evil invader with the great net, and each of them held it strong and pulled upon it. "Argrath was never bound to the old ways, but was still subject to them. This was when his Trickster betrayed him. For in that moment that the great council all pulled upon the net, then they were all caught up by it, wrapped together like a bag of squirrels in a string sack.
+TARGETS: speaks / prophesies
+
+### WOD-JR:04351 | WOD-JR | WOD-JR 42158 (Understanding Gloranthan Cosmology) | Page Last updated: 2024-03-05 11:09:35
+FIGURES: ARGRATH, RED GODDESS
+TEXT: But within this story the ritual of the net fails and the gods are devoured by Chaos, which constitutes a Red Goddess victory. After all that certainly ends the old broken world. The point remains. If Argrath and the Devil is accurate then this result likely reflects a synthesis of both the Orlanthi and Lunar myth-goals. And constitutes a result desired by the Red Goddess.
+TARGETS: loves / desires
+
+### WOD-JR:04378 | WOD-JR | WOD-JR 42229 (The Moral Evil of Glorantha) | Select Month September 2026
+FIGURES: BAGOG, SESEINE, VIVAMORT, WAKBOTH
+TEXT: That's why EVERYONE fears and hates the Devil. Many joined with Wakboth rather than be annihilated by him – but even that tainted and warped them. Vivamort, Bagog, Seseine, etc. are all examples of this.
+TARGETS: hates / fears
+
+### WOD-JR:04379 | WOD-JR | WOD-JR 42229 (The Moral Evil of Glorantha) | Select Month September 2026
+FIGURES: STORM BULL, WAKBOTH
+TEXT: Now remember there is no cult of Wakboth. You can't contact him as he is dead (killed by Storm Bull) and buried beneath that Block of Truestone. Now I tend to subscribe to the belief that Wakboth was part of the reconstituted mundane world and the source of moral evil in mundane life. But as long as he is imprisoned beneath the Block, that's all he can do. Which is why the Storm Bull cult gathers around the Block, hates all theft of Truestone, and may even be why the Lunar Empire used the Pavis Road for troop movements, rather than the easier to supply caravan alley.
+TARGETS: hates / fears
+
+### WOD-JR:04390 | WOD-JR | WOD-JR 42282 (The Dara Happan Emperor) | Select Month September 2026
+FIGURES: RED EMPEROR, YELM
+TEXT: The next year (1250), Yelmgatha died, and the Red Emperor became the sole Dara Happan emperor. That's some 375 years ago. Glamour has long been the sole political and religious center of what has become known as the Lunar Empire. I'm not sure when it became clear that Raibanth ceased to have real power in the empire, but I suspect it was obvious after the Tripolis Revolt. Raibanth is now significant largely as the center of the Yelm cult (and associated Sky deities) and as an important market and river port for Glamour. Raibanth still has a significant population – at 40k inhabitants (although that is a fraction of its former population), it is one of the largest cities in the world – but Glamour has far surpassed it with 100k.
+TARGETS: dwells at; dies
+
+### WOD-JR:04393 | WOD-JR | WOD-JR 42285 (Magic from Demigods) | Select Month September 2026
+FIGURES: ONLY OLD ONE, RED GODDESS
+TEXT: If that demigod is no longer active in the mundane world (e.g., Red Goddess, the Only Old One, etc.) then it becomes possible to establish a path to their eternal self and wield some fraction of their magic through cult.
+TARGETS: possesses / wields
+
+### WOD-JR:04395 | WOD-JR | WOD-JR 42285 (Magic from Demigods) | Androgeus
+FIGURES: IRONHOOF, RED EMPEROR, RED GODDESS
+TEXT: Is Ironhoof included in this list of demigods? Yes. Is the Red Emperor a subcult of the Red Goddess? No. Again the most basic explanation is – if you are operating with free will within Time, others can't wield some part of you. You are still within Time, and not eternal. You can show others your path and they can try to follow it and perhaps gain some of the same power you did (or maybe not), but they can't just gain a divine link to you and wield your power that way. That needs to wait until you are no longer subject to Time.
+TARGETS: possesses / wields

@@ -1,0 +1,115 @@
+### WOD-JR:00843 | WOD-JR | WOD-JR 35282 (Honor and War) | Select Month September 2026
+FIGURES: HUMAKT, ORLANTH, YELMALIO
+CONTEXT: June 2010 May 2010 March 2010 December 2009 November 2009 October 2009 September 2009 August 2009 March 1997 ===== [WOD-JR 35282] Honor and War ===== url: https://wellofdaliath.chaosium.com/honor-and-war/ published: 2021-01-27 · modified: 2023-01-05 author_id: 4 categories: Facebook tags: Duck Hunt 1613 ST; Honor; Humakt; Polaris; Storm Bull; Yanafal Tarnils; Yelm; Yelmalio; Zorak Zoran
+TEXT: This section helps explain some of the peculiarities of Orlanth warfare: Some of the most important Orlanthi war gods demand that Death be wielded with honor and the Humakt cult upholds the code of honor in combat and war. This code is strictly adhered to by Humakt, but also generally followed by other honorable war gods such as Orlanth and Yelmalio.
+TARGETS: possesses / wields
+
+### WOD-JR:00847 | WOD-JR | WOD-JR 35282 (Honor and War) | Select Month September 2026
+FIGURES: LIGHTBRINGERS, ORLANTH, STORM BULL
+TEXT: Storm Bull is welcomed in Orlanthi society because of his aid against Chaos. But if he doesn't have Chaos to fight, he often wears out his welcome (of course Orlanth himself tolerates Storm Bull's shenanigans – but the rest of the Lightbringers get sick of him pretty quickly).
+TARGETS: possesses / wields
+
+### WOD-JR:00848 | WOD-JR | WOD-JR 35282 (Honor and War) | Select Month September 2026
+FIGURES: CHALANA ARROY, LIGHTBRINGERS, ORLANTH
+TEXT: One of my PCs were relieving a siege, and blundered into the enemy camp, a hospital. For broos. They slaughtered them all. A hospital? Was Chalana Arroy present there? If so, did they kill Chalana Arroy cultists? Chalana Arroy is not inflexibly hostile towards broo – we know of broo initiates of the Merciful Goddess. Although Orlanth HATES Chaos, he really really hates people who kill fellow Lightbringers. Especially the pacifist followers of the Merciful One.
+TARGETS: hates / fears
+
+### WOD-JR:00853 | WOD-JR | WOD-JR 35282 (Honor and War) | Primal Chaos? Pocharngo? Humakt is like "whatever."
+FIGURES: COLYMAR, KALLYR STARBROW, LIGHTBRINGERS
+TEXT: As an aside, a huge issue of honour and vengeance that will disrupt Kallyr's short reign (on top of the failed Lightbringers Quest) is the Duck Demand for Vengeance. The Ducks bring a claim to Prince Kallyr demanding compensation for the Duck Hunt. After all, the kin of all those dead Ducks are entitled to life price. Claims are made against the Balmyr, Cinsina, Colymar, Dinacoli, Locaem, and Malani for their participation in killing hundreds of ducks. And those life prices add up.
+TARGETS: hunts; avenges
+
+### WOD-JR:00854 | WOD-JR | WOD-JR 35282 (Honor and War) | Primal Chaos? Pocharngo? Humakt is like "whatever."
+FIGURES: COLYMAR, KALLYR STARBROW
+TEXT: In early 1626, the Ducks brought a claim to Prince Kallyr demanding compensation for the Duck Hunt. Claims were made against the Balmyr, Cinsina, Colymar, Dinacoli, Locaem, and Malani for their participation in killing hundreds of ducks. Many refused or at least refuted the claims, and Boldhome was filled with dissension. Kallyr was said to have welcomed the news that the Lunar Army was seen marching again, as battle was preferable to the squawking of endless legal claims.
+TARGETS: hunts
+
+### WOD-JR:00864 | WOD-JR | WOD-JR 35279 (The Sun Dome Temple in Sartar) | A History of the Sun Dome Temple in Dragon Pass
+FIGURES: MONROGH LANTERN, TARKALOR TROLLKILLER, YELMALIO
+TEXT: Tarkalor solved both problems. He allied with the Yelmalio cult and together they defeated the trolls of the Troll Woods. When Tarkalor became Prince of Sartar, he granted possession of the Sun Temple to Monrogh Lantern and built them the grand Sun Dome Temple using Sartarite stonemasons. Tarkalor paid for a gold dome and other signs of his support. After Tarkalor died in 1582, the Yelmalio cult was independent (their loyalty was to Tarkalor personally) but remained friendly with Terarsarin and Salinarg, although I doubt they got huge endowments from the increasingly beleaguered princes.
+TARGETS: dies
+
+### WOD-JR:00868 | WOD-JR | WOD-JR 35279 (The Sun Dome Temple in Sartar) | A History of the Sun Dome Temple in Dragon Pass
+FIGURES: YELM
+TEXT: The Yelm cultists were a faction that reached its peak probably around 1565. I think their numbers ceased to grow after Monrogh's movement was embraced by the rest of the Elmali, and eventually they mostly died out.
+TARGETS: dies
+
+### WOD-JR:00870 | WOD-JR | WOD-JR 35280 (The Duck Hunt Lawsuits) | Select Month September 2026
+FIGURES: COLYMAR, KALLYR STARBROW
+TEXT: In early 1626, the Ducks brought a claim to Prince Kallyr demanding compensation for the Duck Hunt. Claims were made against the Balmyr, Cinsina, Colymar, Dinacoli, Locaem, and Malani for their participation in the murder of hundreds of ducks. Many refused or at least refuted the claims, and Boldhome was filled with dissension. Kallyr was said to have welcomed the news that the Lunar Army was seen marching again, as battle was preferable to the squawking of endless legal claims.
+TARGETS: hunts
+
+### WOD-JR:00872 | WOD-JR | WOD-JR 35536 (The Pol-Joni Tribe) | Select Month September 2026
+FIGURES: ORLANTH, WAHA
+TEXT: The Pol-Joni live on the Plains of Prax. Unlike the other Praxian tribes, the Pol-Joni are horse-riding, cattle-herding nomads who worship Orlanth and the storm gods rather than Waha. They mainly herd domestic cattle and a smattering of Praxian beasts taken from raids or trade. As a result, they are hated by their fellow Praxians and called the Cattle Bastards. However, even the Praxians respect the Pol-Joni for their martial prowess.
+TARGETS: hates / fears
+
+### WOD-JR:00879 | WOD-JR | WOD-JR 36228 (Hero Wars Campaign Overview) | Twilight of the Gods (1644-1655)
+FIGURES: ARGRATH, LIGHTBRINGERS
+TEXT: The Lunar Empire strikes back with a vengeance, using Chaos and weapons taken from strange realms. Sartar is defeated, and a desperate Argrath performs a mad Lightbringers Quest that changes the world. Nightmares awaken, sheets of ice cover much of the world, and mutual enemies recognize each themselves as mirrors of each other. The phase ends with the destruction of the Red Moon and the rise of the White Moon.
+TARGETS: avenges
+
+### WOD-JR:00880 | WOD-JR | WOD-JR 36230 (Changing History in the Hero Wars) | Select Month September 2026
+FIGURES: HUMAKT, THE DEAD
+TEXT: The approach is the same as in a game like Pendragon (where Arthur, Lancelot, Merlin, etc. are NPCs). Here's the advice the forthcoming RQ Campaign book has: We encourage you to include well-known Gloranthan characters and events in your campaign. Their presence adds to the players' experience and lends authority and authenticity. However, their inclusion always threatens the worst. For instance, what if Gunda the Guilty is facing the adventurers in battle and happens to roll a 00, while the adventurer rolls a critical success. What should you do? Here are some suggestions:You can fudge: "Well, a blow like that would have killed any normal mortal twice over, but not the mighty Gunda!"You can invoke a deus ex machina: "Gunda reels, but a spectral armed woman rides down from the sky. Everyone make a Cult Lore lore – it is one of Humakt's choosers of the dead! She kneels over Gunda to tell her that it is not yet time to join Death, and kisses her gently on the lips. Gunda wakes, slightly dazed.
+TARGETS: sleeps / wakes
+
+### WOD-JR:00889 | WOD-JR | WOD-JR 36234 (Notes on Belintar II) | THE MASTERS OF LUCK AND DEATH
+FIGURES: BELINTAR, THE MASTERS OF LUCK AND DEATH
+TEXT: Belintar is a living god in the material world. He has a divine self that has existed since 1318, and is recognized by all the gods of the Holy Country. He also has a mortal self, that lives, ages, and dies. The Tournament of the Masters of Luck and Death is held to select the new incarnation of Belintar. This is a magical contest, that sometimes has military dimensions, sometimes has gods and monsters participate and more. The winner of this contest IS Belintar but also themself. He or she gains access to Belintar's soul, and adds their experiences, personality, and knowledge. This is not possession – more like an incredibly powerful Allied Spirit or Fetch. Upon death they become Belintar in the God World, each incarnation adding to the god.
+TARGETS: dies
+
+### WOD-JR:00893 | WOD-JR | WOD-JR 36234 (Notes on Belintar II) | See Also
+FIGURES: BELINTAR, CHORALINTHOR, ERNALDA, LIGHTBRINGERS, ORLANTH, TARKALOR TROLLKILLER
+TEXT: But after 1616, war, disorder, and invasion came to the Holy Country. The unity is gone, and things won't go back to how they were. The Golden Age is over and the Lesser Darkness is upon us. So if you imagine how this system would have worked in its prime – let's say around 1550, when Tarkalor was here.Belintar resides in the City of Wonders. This is a marvellous magical place, where the gods themselves wander freely. Beings no longer present or even possible in the mundane world can be found here. Even with the Closing, there are guests from far off lands, Teshnite and Seshnegi nobles, Lunars and others. Belintar speaks with the gods and spirits, and works to keep the divine world and the material world in harmony.It is important to think of Belintar as a priest or a living god, rather than as an administrator or politician. Belintar doesn't have politics. He does what is necessary to keep the mundane world in harmony with the divine – while also keeping the divine world from tearing apart the mundane world. He says something – well, you just follow it. Belintar just *knows* things – secrets, mysteries, impossible stuff. And he is friendly with all the gods of the Holy Country – Orlanth, Ernalda, Caladra&Aurelion, Choralinthor, the Lightbringers, you name it (yes he has a few enemies too, but they are important to be enemies of).
+TARGETS: dwells at; speaks / prophesies
+
+### WOD-JR:00907 | WOD-JR | WOD-JR 35532 (Cults of Glorantha Art Preview – Raveena) | Select Month September 2026
+FIGURES: BALAZAR, COLYMAR, KALLYR STARBROW
+TEXT: Our mercenary here has been a bandit/rebel for pretty much her entire life. She might have been young, gorgeous, and wholesome back when she was a young woman who flocked to Starbrow's Rebellion in 1613, but since then, she has become hard, cynical, and ruthless. She started as a Colymar woman from Apple Lane – Raveena Dronlon's Daughter of the Varmandi Clan (her father was Dronlan Swordsharp – the Thane of Apple Lane. But she flocked to Starbrow's banner in 1613, joined a mercenary company and was exiled when the rebellion failed. She fled to Balazar and joined the mercenary company of Pay Surney but was traded by Pay Surney to another Rune Lord for two horses and a broadsword. Raveena eventually returned to Dragon Pass where she became a bandit attacking caravans along Trader's Valley. In 1622 she was one of those who fought for King Broyan in the Auroch Hills and spent the next three years leading a band of bandits/rebels in South Sartar and Hendrikiland. When Starbrow became Prince, Raveena continued as a bandit.
+TARGETS: punishes / exiles
+
+### WOD-JR:00908 | WOD-JR | WOD-JR 35532 (Cults of Glorantha Art Preview – Raveena) | Select Month September 2026
+FIGURES: ARGRATH, ORLANTH, VINGA
+TEXT: Now it is 1627, and Raveena has accepted the amnesty of the new Prince Argrath, and has entered his service as one of the mercenaries in the Thieves Band. She is in her mid-30s and has seen and experienced a lot – mostly all bad. She's a senior initiate of the Orlanth Adventurous (Vinga-subcult), but lacks the Honor to become a Wind Lord. She has plenty of spirit magic focii (tattoos, bone jewelry, piercings, etc), and wears a green stone (a spell resisting crystal) around her neck (a gift from a long-gone lover). She's got a lot of scars, and is even missing an eye. She likes to keep the socket uncovered, as she finds it intimidates plenty of people.
+TARGETS: possesses / wields
+
+### WOD-JR:00913 | WOD-JR | WOD-JR 36140 (The Sartar Army) | Select Month September 2026
+FIGURES: ARGRATH
+TEXT: Argrath began assembling his army soon after he was driven from his home on Starfire Ridge when he took refuge among the nomads of Prax. Most tribes there had strict laws and customs restricting any foreigner from holding a position of authority or power, but there were several secret societies whose membership crossed all social or political boundaries. Incredibly, Argrath worked his way to supremacy among three of them. These units, the Twin Spears, Sword-brothers, and Bullocks, formed the kernel of his Free Army. After he received the gift of the Dragon's Teeth, Argrath returned to Dragon Pass.The native Sartar tribal militia and the first initial units of the Sartar Free Army and the Sartar Magical Union, reinforced by Praxian nomads and some Holy Country volunteers, carried the weight of the early fighting. Argrath's successes and personal achievements led his people to become a unified and armed state at the pinnacle of their rush to power. During this time many local peoples were allied to him as well, like the Grazelanders and the Tarsh Exiles.
+TARGETS: possesses / wields
+
+### WOD-JR:00914 | WOD-JR | WOD-JR 36140 (The Sartar Army) | Select Month September 2026
+FIGURES: ARGRATH, ETHILRIST
+TEXT: As the lengthy war began to wear even upon the magically supported morale of the native populace, Prince Argrath was able to almost release them from their military responsibilities to him, letting them return to their homes and lands. Naturally, they continued to muster to the defense of their lands, but the brunt of the fighting even then was carried by the volunteers. The Sartar Free Army and Magical Union grew in importance. Militia units on campaign were paid as if mercenaries.The voluntary recruits for Prince Argrath's army were remarkable even in their own time. Sir Ethilrist, who had seen many unique sights during his centuries of mercenary existence, observed, "The charisma and personal power of the Sartar Prince are incredible, excelling even my own during the flush of my youthful career."These volunteers can be divided into two types. First, those who joined the permanent standing units assigned to the Sartar Prince's command, such as the Antlercase or Eaglebrown. The other type are whole armies or units which came to Dragon Pass from all across the world. These include Gold-Gotti, Tosti Rune-friend, and so on.
+TARGETS: possesses / wields
+
+### WOD-JR:00920 | WOD-JR | WOD-JR 36140 (The Sartar Army) | SARTAR FREE ARMY
+FIGURES: ARGRATH
+TEXT: Though Sartar had little in the way of arms manufacture, they traded wisely for bronze and good weapons. Their constant warfare also gained considerable booty from the better-equipped Lunar Army, so that many among them wore bronze breast-plates and greave. Also the constant fighting had brough about the evolution of some units which were regularly outfitted and trained. The success of Argrath's army partially lay in its ability to imitate Lunar strengths, although these traditions were molded by the barbaric local flavor. Some of the regiments of his home army gained an independent status, so that the Twin Ridge warriors, once a band of tribesmen under a local chieftain, was later an all-volunteer unit of men from all across the world.
+TARGETS: possesses / wields
+
+### WOD-JR:00927 | WOD-JR | WOD-JR 36286 (Art Preview: Deezola) | Runic Associations
+FIGURES: DANFIVE XARON, DEEZOLA, SEVEN MOTHERS
+TEXT: The Runes of Deezola are Moon, Earth, and Fertility. She is associated with the Dying Moon. The Seven Mothers need several gods to hold their Life Magic, which is one of the three main Runes of the collective cult. Death, Moon, and Life, after all. Harmony isn't Deezola's responsibility – that is Danfive Xaron!
+TARGETS: dies
+
+### WOD-JR:00928 | WOD-JR | WOD-JR 36292 (Panaxles the Architect) | Select Month September 2026
+FIGURES: HEORT, MERNGALA, ONLY OLD ONE
+TEXT: Panaxles was descended from the Stone-souled builders and was thus related to the dwarfs. His mothers were the Tilntae so prevalent and important in the early ages of the world. Panaxles lived atop the slopes of the Spike before the Great Darkness. When the Spike was destroyed by Chaos, Panaxles managed to land in the place known as the Broken Arms. He was captured by trolls, and made for them the Shadow Plateau to protect the Palace of Black Glass as a fortress against Chaos. The Only Old One set Panaxles free and he wandered throughout Kethaela during the Silver Age. Panaxles was the great builder of the period. He built the oldest sections of the temple at Ezel; the walls of Nochet; the palace of Queen Merngala; Whitewall; and many other famous buildings. Panaxles became a rival of King Heort over the affections of Queen Merngala, and built for her the great sewers that drain the city of Nochet. It is said that King Heort met Panaxles upon the day the sewers were completed and the first waters rushed through it. Panaxles mentioned his contentment with his creation; Heort agreed, yet added, "It is a shame it is so ugly." Thus, began one of the most famous feuds of the Silver Age.
+TARGETS: hates / fears
+
+### WOD-JR:00929 | WOD-JR | WOD-JR 36293 (Notes on Merngala the Great Queen) | Select Month September 2026
+FIGURES: ARAM YA-UDRAM, ESROLA, HEORT, LIGHTBRINGERS, MERNGALA, ONLY OLD ONE, THE DEAD
+TEXT: Greatest queen of Esrolia, Queen Merngala was the daughter of Esrola. She wielded awesome Earth powers, gained when her goddess mother retired to the Land of Sleep. Her main residence was a palace on Lake Bakan where her army guarded the bodies of the dead. The site is now simply called Necropolis. With the Dawn, Merngala invited the Lightbringers back to Nochet. Merngala was a mighty priestess with many husbands and is the model all Esrolian queens are compared to. Some husbands were rivals for her at times, even murdering each other as Heort did to Panaxles, or were boon companions, as were Aram ya-Udram and Vathmai Entrulsson. Even the Only Old One was her husband. She had Panaxles and the Strong Man build the great walls around Nochet and invited the Waetagi to set up piers for the dragonships. Merngala had Sestarto decorate the city and temples with countless sculptures inhabited by the gods. She allied with King Heort but did not join his kingdom. Merngala is worshiped as the founder goddess of Nochet.
+TARGETS: dwells at; possesses / wields
+
+### WOD-JR:00930 | WOD-JR | WOD-JR 36294 (The Esrolian Monomyth) | Mythos
+FIGURES: ASRELIA, CELESTIAL COURT, ESROLA, GATA, TY KORA TEK
+TEXT: Some of you might find this interesting – it is a common version of the myth cycle told in the Holy Country. You might consider this the Esrolian version of the monomyth. ## Mythos In the earliest remembered stories this land was simply part of the Earth at the base of the Spike, where dwelt the Celestial Court and the Elder Gods. When the Gata warmed with life, it was Esrola who occupied this rich and fertile soil. Gata gave birth here to twin daughters, Asrelia and Ty Kora Tek, who dwelt deep within the Earth. Gata gave the sacred and beloved Earth to Asrelia, and Ty Kora Tek went even deeper down until she came to the Underworld.
+TARGETS: dwells at; speaks / prophesies
+
+### WOD-JR:00935 | WOD-JR | WOD-JR 36294 (The Esrolian Monomyth) | Mythos
+FIGURES: ARGAN ARGAR, BABEESTER GOR, CHALANA ARROY, ERNALDA, ESROLA, ISSARIES, LHANKOR MHY, LIGHTBRINGERS, ONLY OLD ONE, ORLANTH, VINGKOT
+TEXT: Orlanth appointed his son Vingkot to rule the peoples of Ernaldela. The barbaric splendor of the Vingkotlings defined the era known as the Lesser Darkness. The Vingkotlings fought many wars and founded many kingdoms. The royal line of the Vingkotlings, called the Kodigvari, settled at what is now Nochet. They invited many deities to live there, and built fine homes for Chalana Arroy, Issaries, and Lhankor Mhy, and many other deities. When the Great Darkness came and the world became untenable, Ernalda went to sleep within the Earth. Even in sleep, Ernalda mothered Babeester Gor, the terrible guardian of the Earth. Orlanth sought to fix the harm he had caused by starting the Gods War and departed on his Lightbringers Quest. The Vingkotlings tore themselves apart in a series of feuds that culminated in the Last Royal Betrayal, where the royal house of the Vingkotlings were all slain by Chaos. After the Last Royal Betrayal, the widows seized power for their own protection and founded the Queendom of Esrolia. When Darkness overpowered the world, the legions of Night came to surround the Spike. Argan Argar himself set up camp atop Esrola and the goddess went to him to plead mercy. Argan Argar told her to stand proud, for he would rather have her friendship than her fear. He became her lover, and their child was the Only Old One, who was made king of the land.
+TARGETS: hates / fears; speaks / prophesies

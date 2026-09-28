@@ -1,0 +1,300 @@
+[P5-B-B0033-063] S=['BROYAN OF WHITEWALL'] P=is conflated with O=['VINGKOT'] implicit=True ps="viewed as" sug=one of: is identified as, is worshipped by, is part of
+   Q: widely viewed as King Vingkot returned
+[P5-B-B0033-064] S=['SARTAR HIGH COUNCIL'] P=is identified as O=['RING OF SARTAR'] implicit=False ps="is the successor to" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Sartar High Council, is the successor to the Ring that once helped the Princes of Sartar to govern.
+[P5-B-B0033-065] S=['PRINCES OF SARTAR'] P=rules O=['KINGDOM OF SARTAR'] implicit=True ps="govern" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Sartar High Council, is the successor to the Ring that once helped the Princes of Sartar to govern.
+[P5-B-B0033-066] S=['KALLYR STARBROW'] P=is child of O=['LORICON'] implicit=False ps="daughter of" sug=is child of
+   Q: Kallyr Starbrow is the daughter of Loricon
+[P5-B-B0033-067] S=['LORICON'] P=is child of O=['RASTORON'] implicit=False ps="son of" sug=is child of
+   Q: Loricon, son of Rastoron
+[P5-B-B0033-068] S=['RASTORON'] P=is child of O=['JAROLAR'] implicit=False ps="son of" sug=is child of
+   Q: Rastoron, son of Jarolar, Prince of Sartar
+[P5-B-B0033-069] S=['JAROLAR'] P=rules O=['KINGDOM OF SARTAR'] implicit=True ps="Prince of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Jarolar, Prince of Sartar
+[P5-B-B0033-070] S=['KALLYR STARBROW'] P=is child of O=['ENERIN IRONEYE'] implicit=False ps="daughter of" sug=is child of
+   Q: Kallyr Starbrow is the daughter of Loricon, son of Rastoron, son of Jarolar, Prince of Sartar; and of Enerin Ironeye
+[P5-B-B0033-071] S=['KALLYR STARBROW'] P=rules O=['KHELDON TRIBE'] implicit=False ps="queen of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Kallyr is the queen of the Kheldon tribe.
+[P5-B-B0033-072] S=['KALLYR STARBROW'] P=bestows magic / gifts O=[] MOD={"in_on_at": "Sky World", "purpose_clause": "TO OBTAIN"} implicit=True ps="obtained" sug=one of: bestows, heals, imbues, teaches
+   Q: She obtained the Sky Rune when she went to the Sky World to become Rigsdal's lover
+[P5-B-B0033-073] S=['KALLYR STARBROW'] P=is spouse of O=['RIGSDAL'] implicit=True ps="lover" sug=is spouse of
+   Q: to become Rigsdal's lover
+[P5-B-B0033-074] S=['LUNAR SORCERERS'] P=binds O=['KALLYR STARBROW'] MOD={"in_on_at": "Larnste's Table"} implicit=True ps="captured by" sug=binds
+   Q: She was captured by Lunar sorcery at Larnste's Table, but she escaped.
+[P5-B-B0033-075] S=['KALLYR STARBROW'] P=survives as relic O=['REGALIA OF THE SARTAR HIGH COUNCIL'] implicit=True ps="wears" sug=survives as relic
+   Q: She wears the regalia of the Sartar High Council.
+[P5-B-B0033-076] S=['AGGAR SETTLERS'] P=serves O=['BARNTAR'] implicit=True ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: many worship Barntar, and even Orlanth, as well as the Seven Mothers.
+[P5-B-B0033-077] S=['AGGAR SETTLERS'] P=serves O=['ORLANTH'] implicit=True ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: many worship Barntar, and even Orlanth, as well as the Seven Mothers.
+[P5-B-B0033-078] S=['AGGAR SETTLERS'] P=serves O=['SEVEN MOTHERS'] implicit=True ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: many worship Barntar, and even Orlanth, as well as the Seven Mothers.
+[P5-B-B0033-079] S=['AGGAR SETTLERS'] P=marries O=['MABODER WOMEN'] implicit=True ps="taken wives from among" sug=is spouse of (qual=wedding)
+   Q: Many have taken wives from among the surviving Maboder women, married into the Cinsina, Aranwyth, and Torkani and married off their daughters in return.
+[P5-B-B0034-001] S=['TELMOR', 'PACK OF TELMOR'] P=swallows / consumes O=['SUN'] implicit=False ps="ate" sug=swallows / consumes
+   Q: When Telmor and his pack ate the Sun, the Long Winter began.
+[P5-B-B0034-002] S=['LIGHTBRINGERS', 'KRALORELANS', 'SESHNEGI'] P=defeats O=['HSUNCHEN GROUPS'] implicit=False ps="overwhelmed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Neighboring Dawn Age cultures such as the Lightbringers, Kralorelans and the Seshnegi overwhelmed most Hsunchen groups.
+[P5-B-B0034-003] S=['FRONELAN TELMORI'] P=pledges oath with O=['BRIGHT EMPIRE'] implicit=False ps="allied with" sug=allies with
+   Q: The Fronelan Telmori tribes allied with the Bright Empire in the First Age.
+[P5-B-B0034-004] S=['NYSALOR'] P=rules O=['BRIGHT EMPIRE'] implicit=False ps="guided" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The god Nysalor, who guided the Bright Empire, blessed his allies by enabling them to take wolf form without magical aid.
+[P5-B-B0034-005] S=['NYSALOR'] P=bestows magic / gifts O=['FRONELAN TELMORI'] implicit=False ps="blessed" sug=one of: bestows, heals, imbues, teaches
+   Q: The Fronelan Telmori tribes allied with the Bright Empire in the First Age. || The god Nysalor, who guided the Bright Empire, blessed his allies by enabling them to take wolf form without magical aid.
+[P5-B-B0034-006] S=['ARKAT'] P=fights O=['NYSALOR'] implicit=False ps="enemy" sug=hates
+   Q: In 470, Nysalor's enemy, a Westerner called Arkat, crushed and scattered the Telmori.
+[P5-B-B0034-007] S=['ARKAT'] P=defeats O=['TELMORI'] implicit=False ps="crushed and scattered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In 470, Nysalor's enemy, a Westerner called Arkat, crushed and scattered the Telmori.
+[P5-B-B0034-008] S=['TALOR THE LAUGHING WARRIOR'] P=defeats O=['TELMORI'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In 470, Nysalor's enemy, a Westerner called Arkat, crushed and scattered the Telmori. || Those who fled to Fronela were later defeated and cursed by Talor the Laughing Warrior forcing them to take wolf form once a week, every Wildday.
+[P5-B-B0034-009] S=['TALOR THE LAUGHING WARRIOR'] P=enchants O=['TELMORI'] implicit=False ps="cursed" sug=curses
+   Q: In 470, Nysalor's enemy, a Westerner called Arkat, crushed and scattered the Telmori. || Those who fled to Fronela were later defeated and cursed by Talor the Laughing Warrior forcing them to take wolf form once a week, every Wildday.
+[P5-B-B0034-010] S=['TALOR THE LAUGHING WARRIOR'] P=reveals O=['BLESSING OF NYSALOR'] implicit=True ps="revealed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Talor revealed that Nysalor's blessing carried the taint of Chaos.
+[P5-B-B0034-011] S=['BLESSING OF NYSALOR'] P=manifests chaos taint O=[] implicit=False ps="carried the taint of Chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Talor revealed that Nysalor's blessing carried the taint of Chaos.
+[P5-B-B0034-012] S=['TELMORI'] P=flees to O=[] MOD={"from": "RALIOS", "to": "DRAGON PASS"} implicit=False ps="fled east dispersing from Ralios to Dragon Pass" sug=flees to
+   Q: Reviled and feared the Telmori fled east dispersing from Ralios to Dragon Pass.
+[P5-B-B0034-013] S=['HSUNCHEN'] P=claims ancestry O=['ANIMAL ANCESTOR'] implicit=False ps="descend from" sug=claims ancestry
+   Q: Hsunchen people descend from an animal ancestor and are kin to beasts.
+[P5-B-B0034-014] S=['KORGATSU'] P=is alternative name for O=['COSMIC DRAGON'] implicit=False ps="is the most popular Hsunchen name of" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Korgatsu is the most popular Hsunchen name of the Cosmic Dragon (sometimes said to be a serpent) that was torn apart, and whose parts made the universe and its inhabitants.
+[P5-B-B0034-015] S=['DEATH'] P=comes into being O=[] MOD={"to": "WORLD"} implicit=False ps="came into the world" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: When Death came into the world the faithful and moral among the people found Korgatsu again in the Spirit World.
+[P5-B-B0034-016] S=['HSUNCHEN'] P=discovers O=['KORGATSU'] MOD={"in_on_at": "SPIRIT WORLD"} implicit=True ps="found" sug=discovers
+   Q: When Death came into the world the faithful and moral among the people found Korgatsu again in the Spirit World.
+[P5-B-B0034-017] S=['HYKIM AND MIKYH'] P=establishes cult O=['ANIMAL TRIBES'] implicit=False ps="founders" sug=founds
+   Q: Hykim and Mikyh are the founders of the Animal Tribes.
+[P5-B-B0034-018] S=['MOTHER OF MAMMALS'] P=is child of O=['HYKIM AND MIKYH'] implicit=False ps="children" sug=is child of
+   Q: Hykim and Mikyh are the founders of the Animal Tribes. || They had many children, the last of whom was the Mother of Mammals.
+[P5-B-B0034-019] S=['FRALAR'] P=is child of O=['MOTHER OF MAMMALS'] implicit=False ps="children" sug=is child of
+   Q: They had many children, the last of whom was the Mother of Mammals. || She had many children, including Fralar, the god of carnivores.
+[P5-B-B0034-020] S=['FRALAR'] P=rules O=['CARNIVORES'] implicit=False ps="god of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: She had many children, including Fralar, the god of carnivores.
+[P5-B-B0034-021] S=['TELMOR'] P=is child of O=['FRALAR'] implicit=False ps="child" sug=is child of
+   Q: Fralar's greatest child was Telmor, Father of Wolves.
+[P5-B-B0034-022] S=['WOLVES'] P=is child of O=['TELMOR'] implicit=False ps="Father of" sug=is child of
+   Q: Fralar's greatest child was Telmor, Father of Wolves.
+[P5-B-B0034-023] S=['TELMOR', 'PACK OF TELMOR'] P=swallows / consumes O=['SUN'] implicit=False ps="ate" sug=swallows / consumes
+   Q: In the Gods War, Telmor and his pack ate the Sun, and began the Long Winter.
+[P5-B-B0034-024] S=['TELMORI'] P=claims ancestry O=['TELMOR'] implicit=False ps="ancestor of" sug=claims ancestry
+   Q: As such Telmor is not just the ancestor of the Telmori but a death god.
+[P5-B-B0034-025] S=['TELMOR'] P=embodies O=['DEATH'] implicit=False ps="death god" sug=one of: embodies, has domain
+   Q: As such Telmor is not just the ancestor of the Telmori but a death god.
+[P5-B-B0034-026] S=['HELKOS BROTHERS'] P=is child of O=['KOSTAJOR WOLF-CHAMPION'] implicit=True ps="sons" sug=is child of
+   Q: Kostajor WolfChampion had five sons, the Helkos Brothers — who were notorious both for their savagery in battle and their loyalty to the House of Sartar.
+[P5-B-B0034-027] S=['HELKOS BROTHERS'] P=claims ancestry O=['SARTAR'] implicit=False ps="descendants of" sug=claims ancestry
+   Q: Kostajor WolfChampion had five sons, the Helkos Brothers — who were notorious both for their savagery in battle and their loyalty to the House of Sartar. || All were descendants of Sartar.
+[P5-B-B0034-028] S=['KOSTAJOR WOLF-CHAMPION'] P=establishes cult O=['TELMORI ROYAL GUARD'] MOD={"purpose_clause": "TO PROTECT THE ROYAL HOUSE OF SARTAR"} implicit=True ps="founded" sug=founds
+   Q: Kostajor WolfChampion had five sons, the Helkos Brothers — who were notorious both for their savagery in battle and their loyalty to the House of Sartar. || They were the backbone of the Telmori Royal Guard, which was founded by their father to protect the Royal House of Sartar.
+[P5-B-B0034-029] S=['TELMORI ROYAL GUARD'] P=protects O=['HOUSE OF SARTAR'] implicit=False ps="protect" sug=one of: protects, rescues / frees, aids
+   Q: They were the backbone of the Telmori Royal Guard, which was founded by their father to protect the Royal House of Sartar.
+[P5-B-B0034-030] S=['HELKOS BROTHERS'] P=protects O=['KOSTAJOR WOLF-CHAMPION', 'TERASARIN'] implicit=True ps="gave their lives so that their father might escape from that slaughter with the heir to the throne, Terasarin" sug=one of: protects, rescues / frees, aids
+   Q: They gave their lives so that their father might escape from that slaughter with the heir to the throne, Terasarin.
+[P5-B-B0034-031] S=['HELKOS BROTHERS'] P=marries O=['DAUGHTERS OF TERASARIN'] implicit=False ps="married" sug=is spouse of (qual=wedding)
+   Q: Prince Terasarin kept close council with those who had saved him as a boy. || To the disgust of many in the Jonstown Confederation, he married the remaining three Helkos Brothers to his daughters.
+[P5-B-B0034-032] S=['HELKOS BROTHERS'] P=defeats O=['MABODER'] implicit=False ps="destruction" sug=shatters
+   Q: When the Maboder defied Sartar's treaties with the Telmori, the Helkos Brothers were the leaders of the destruction of that tribe.
+[P5-B-B0034-033] S=['JOMES HOSTRALOS'] P=binds O=['HELKOS BROTHERS'] implicit=True ps="captured" sug=binds
+   Q: Jomes Hostralos captured two of them, and executed one of them to prove his word.
+[P5-B-B0034-034] S=['JOMES HOSTRALOS'] P=kills O=['HELKOS BROTHERS'] implicit=True ps="executed" sug=one of: kills, shatters, dies
+   Q: Jomes Hostralos captured two of them, and executed one of them to prove his word.
+[P5-B-B0034-035] S=['JOGAR SOG'] P=is child of O=['MINANCO SOG'] implicit=False ps="son of" sug=is child of
+   Q: Jogar Sog is the son of Minanco Sog, who some called White Snout.
+[P5-B-B0034-036] S=['WHITE SNOUT'] P=is alternative name for O=['MINANCO SOG'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Jogar Sog is the son of Minanco Sog, who some called White Snout.
+[P5-B-B0034-037] S=['JOGAR SOG'] P=is child of O=['VORENA THE RATTLE'] implicit=False ps="mother" sug=is child of
+   Q: Jogar Sog is the son of Minanco Sog, who some called White Snout. || His mother was Vorena the Rattle, the daughter of Kostajor Wolf-Champion.
+[P5-B-B0034-038] S=['VORENA THE RATTLE'] P=is child of O=['KOSTAJOR WOLF-CHAMPION'] implicit=False ps="daughter of" sug=is child of
+   Q: His mother was Vorena the Rattle, the daughter of Kostajor Wolf-Champion.
+[P5-B-B0034-039] S=['VORENA THE RATTLE'] P=is sibling of O=['HELKOS BROTHERS'] implicit=False ps="siblings" sug=is sibling of
+   Q: His mother was Vorena the Rattle, the daughter of Kostajor Wolf-Champion. || Her siblings are the Helkos Brothers.
+[P5-B-B0034-040] S=['IVARTHA THE SKINNER'] P=establishes cult O=['WOLF STAND'] MOD={"in_on_at": "TORKAN'S VALE"} implicit=True ps="began" sug=founds
+   Q: the settlement Ivartha the Skinner began in Torkan's Vale during her exile.
+[P5-B-B0034-041] S=['TELMORI'] P=defeats O=['WOLF STAND'] implicit=False ps="battled to destroy" sug=shatters
+   Q: Jogar proved his abilities as a warrior when the Telmori battled to destroy Wolf Stand, the settlement Ivartha the Skinner began in Torkan's Vale during her exile.
+[P5-B-B0034-042] S=['JOMES HOSTRALOS'] P=blinds O=['JOGAR SOG'] MOD={"in_on_at": "WOLF HUNT"} implicit=True ps="blinded" sug=wounds (qual=blinding)
+   Q: On the Wolf Hunt, Jomes Hostralos blinded him in one-eye.
+[P5-B-B0034-043] S=['MINANCO SOG'] P=teaches O=['JOGAR SOG'] implicit=True ps="instruct" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: his father, a Telmor shaman, began to instruct him in shamanic practice, taking him on Other Side journeys.
+[P5-B-B0034-044] S=['MINANCO SOG', 'JOGAR SOG'] P=enters Godtime / Otherworld O=[] MOD={"to": "OTHER SIDE"} implicit=True ps="taking him on Other Side journeys" sug=enters Godtime / Otherworld
+   Q: his father, a Telmor shaman, began to instruct him in shamanic practice, taking him on Other Side journeys.
+[P5-B-B0034-045] S=['JOGAR SOG'] P=initiates into cult O=[] MOD={"in_on_at": "KILLING PINE"} implicit=True ps="re-born an Ituvanu shaman" sug=initiates into cult
+   Q: Jogar was re-born an Ituvanu shaman when he found his shadow self on the Killing Pine.
+[P5-B-B0034-046] S=['JOGAR SOG'] P=binds O=['OWL SPIRIT', 'CROW SPIRIT'] implicit=True ps="bound to his service" sug=binds
+   Q: Among the first spirits that Jogar bound to his service were the Owl and Crow spirits that had once fought the Corvid War.
+[P5-B-B0034-047] S=['OWL SPIRIT', 'CROW SPIRIT'] P=fights O=[] MOD={"in_on_at": "CORVID WAR"} implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Among the first spirits that Jogar bound to his service were the Owl and Crow spirits that had once fought the Corvid War.
+[P5-B-B0034-048] S=['ORLANTH'] P=pledges oath with O=['EMPEROR'] implicit=True ps="made his bid for friendship" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Orlanth made his bid for friendship.
+[P5-B-B0034-049] S=['ORLANTH'] P=resurrects O=['DEAD GODS'] MOD={"using": "Song of Truth"} implicit=True ps="freed" sug=rescues / frees
+   Q: Orlanth began with the Song of Truth. || This freed all those dead who still cared for him.
+[P5-B-B0034-050] S=['DEAD GODS'] P=bestows magic / gifts O=['ORLANTH'] implicit=True ps="armed" sug=one of: bestows, heals, imbues, teaches
+   Q: This freed all those dead who still cared for him. || They armed him in ragged splendor for the tasks to come.
+[P5-B-B0034-051] S=['GUARDIANS OF THE LOCKED GATE'] P=binds O=['DEAD GODS'] MOD={"in_on_at": "LOCKED GATE"} implicit=False ps="kept certain dead gods imprisoned" sug=binds
+   Q: The Locked Gate and its guardians had kept certain dead gods imprisoned.
+[P5-B-B0034-052] S=['ORLANTH'] P=fights O=['GUARDIANS OF THE LOCKED GATE'] implicit=True ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Orlanth fought these Keepers and soon they had joined their captives in the Hall of the Dead.
+[P5-B-B0034-053] S=['ORLANTH'] P=kills O=['GUARDIANS OF THE LOCKED GATE'] MOD={"to": "HALL OF THE DEAD"} implicit=True ps="joined their captives in the Hall of the Dead" sug=one of: kills, shatters, dies
+   Q: Orlanth fought these Keepers and soon they had joined their captives in the Hall of the Dead.
+[P5-B-B0034-054] S=['ORLANTH'] P=wounds O=[] implicit=False ps="suffered" sug=wounds
+   Q: Orlanth suffered the Requirement for Proof, a searing burning shower of the acidic hatred of all Orlanth's foes present. || The three baths were Fire, Hatred, and Truth.
+[P5-B-B0034-055] S=['PEOPLE OF ORLANTH'] P=protects O=['ORLANTH'] implicit=True ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: Only the faith and love of those he had left behind saved him.
+[P5-B-B0034-056] S=['SURVIVORS OF THE SILVER AGE'] P=sacrifices O=['ORLANTH'] MOD={"in_on_at": "MIDDLE WORLD", "purpose_clause": "TO STRENGTHEN HIM"} implicit=True ps="sacrificed to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: In the Middle World, the thousands who survived in the Silver Age had a dream that night, and awoke from nightmare and sacrificed to Orlanth to strengthen him.
+[P5-B-B0034-057] S=['EMPEROR'] P=alters mythic station O=['ORLANTH'] implicit=False ps="agreed that Orlanth was High King among the gods" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The Emperor made his statement of recognition then, and agreed that Orlanth and his kin had the right to a place in the universe and that Orlanth was High King among the gods.
+[P5-B-B0034-058] S=['ORLANTH'] P=rules O=['GODS'] implicit=False ps="High King among the gods" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: agreed that Orlanth and his kin had the right to a place in the universe and that Orlanth was High King among the gods.
+[P5-B-B0034-059] S=['ORLANTH'] P=serves O=['EMPEROR', 'GODS'] implicit=False ps="made obeisance then before the other gods. He acknowledged the power and might of the Emperor" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Orlanth made obeisance then before the other gods. || He acknowledged the power and might of the Emperor and his way of life as long as it did not interfere with his own.
+[P5-B-B0034-060] S=['EMPEROR'] P=pledges oath with O=['ORLANTH'] implicit=False ps="accept" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Orlanth then surprised everyone and made a formal bid for friendship. || However his family, advisors, and subjects all begged with the Emperor to accept and finally he did.
+[P5-B-B0034-061] S=['ORLANTH'] P=serves O=['EMPEROR'] implicit=False ps="offering self-judgment to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: With the enemy clan chieftain, the Red Cow heroquester speaks the ritual words of Orlanth offering self-judgment to the Emperor.
+[P5-B-B0034-062] S=['GOCHBADUN'] P=is child of O=['STORM BULL'] implicit=False ps="son of" sug=is child of
+   Q: Gochbadun was a son of Urox, and one of the great aurochs, bursting with vigor and health.
+[P5-B-B0034-063] S=['BERGILMER'] P=rules O=['GOCHBADUN'] implicit=False ps="had" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Bergilmer the giant chieftain had Gochbadun in his herd.
+[P5-B-B0034-064] S=["BERGILMER'S CLAN"] P=rules O=[] MOD={"in_on_at": "QUIVIN MOUNTAINS"} implicit=False ps="occupied" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Bergilmer's clan occupied the lands north of the Quivin Mountains at that time, and few dared to try to settle those lands.
+[P5-B-B0034-065] S=['ULANIN'] P=pledges oath with O=[] MOD={"purpose_clause": "TO OBTAIN GOCHBADUN AND DRIVE OUT BERGILMER'S CLAN"} implicit=False ps="swore" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: When Ulanin heard of the great bull, he swore that he would add Gochbadun to his own herds and drive Bergilmer's clan out of the lands north of the Quivin Mountains.
+[P5-B-B0034-066] S=['ULANIN'] P=travels O=[] MOD={"with_the_aid_of": ["WAR HOST OF ULANIN"], "purpose_clause": "TO OBTAIN THE GIANT'S TREASURE"} implicit=True ps="rode out" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He rode out with his war host, with their glittering spears and mail coats to take the giant's treasure.
+[P5-B-B0034-067] S=['BRANDIG BLUE-HELM', 'JORAM THE SWORD'] P=is child of O=['ULANIN'] implicit=True ps="sons" sug=is child of
+   Q: Many fine men rode with him, including his sons Brandig Blue-Helm and Joram the Sword, along with Harkala Never-Blink.
+[P5-B-B0034-068] S=['WAR HOST OF ULANIN'] P=travels O=[] MOD={"via": ["WILD MOUNTAIN", "KORGRADUS", "HAREVA"]} implicit=True ps="went" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: This was the route of the war host: they went east of the Wild Mountain, past Korgradus and Hareva.
+[P5-B-B0034-069] S=['WAR HOST OF ULANIN'] P=fights O=['RAIDERS IN THE HILLS'] implicit=True ps="fight off" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Ulanin's host had to fight off the raiders in the hills, and the king was shocked that his enemies had
+[P5-B-B0035-001] S=['ULANIN'] P=is child of O=['VINGKOT'] implicit=False ps="son-in-law" sug=is child of
+   Q: Ulanin the Rider, Vingkot's son-in-law
+[P5-B-B0035-002] S=['RED COW CLAN'] P=claims ancestry O=['ULANIN'] implicit=False ps="ancestor" sug=claims ancestry
+   Q: Ulanin the Rider, Vingkot's son-in-law, and an ancestor of the Red Cow clan
+[P5-B-B0035-003] S=['ULANIN'] P=steals O=['AUROCHS'] MOD={"from": "BERGILMER"} implicit=False ps="stole" sug=steals
+   Q: Ulanin the Rider, Vingkot's son-in-law, and an ancestor of the Red Cow clan, stole aurochs from the herd of the giant Bergilmer.
+[P5-B-B0035-004] S=['STOCKADE OF BERGILMER'] P=transforms into O=['RED COW FORT'] implicit=False ps="became" sug=transforms into
+   Q: The giant chieftain Bergilmer's stockade became Red Cow Fort.
+[P5-B-B0035-005] S=['HOST OF ULANIN'] P=fights O=['GIANTS OF BERGILMER'] implicit=False ps="met" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Ulanin's host met Bergilmer's giants there
+[P5-B-B0035-006] S=['ULANIN'] P=kills O=['TWO-HEADED DOGS'] MOD={"using": "GOLDWIND"} implicit=True ps="speared" sug=one of: kills, shatters, dies
+   Q: Ulanin speared them from his horse Goldwind.
+[P5-B-B0035-007] S=['ULANIN'] P=rides O=['GOLDWIND'] implicit=False ps="his horse" sug=rides
+   Q: Ulanin speared them from his horse Goldwind.
+[P5-B-B0035-008] S=['BERGILMER'] P=flees to O=[] MOD={"to": "RED COW FORT"} implicit=True ps="withdrew" sug=flees to
+   Q: Bergilmer the Cowardly withdrew his remaining giants inside the fort.
+[P5-B-B0035-009] S=['ULANIN'] P=shatters O=["WALLS OF BERGILMER'S FORT"] implicit=True ps="breached" sug=shatters
+   Q: Ulanin breached the walls
+[P5-B-B0035-011] S=['BERGILMER'] P=travels O=[] MOD={"purpose_clause": "looking for his missing bull"} implicit=False ps="returned" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Bergilmer returned looking for his missing bull.
+[P5-B-B0035-012] S=['JARENST BEAR-CLUB'] P=fights O=['WARBAND OF HARGART'] MOD={"in_on_at": "DANGERFORD"} implicit=False ps="held off" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Jarenst Bear-club held off Hargart's warband for three days and nights at Dangerford that time.
+[P5-B-B0035-013] S=['FOUL-OF-THE-WOODS'] P=travels O=['ARMY OF BROOS'] MOD={"to": "RED COW FORT"} implicit=True ps="led" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Foul-of-the-Woods led an army of broos here.
+[P5-B-B0035-014] S=['ARGRATH ARKELSSON'] P=marries O=['ORSTA TRADES-WITH-TROLLS'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: He married Orsta Trades-With-Trolls
+[P5-B-B0035-015] S=['ORSTA TRADES-WITH-TROLLS'] P=marries O=['GRINGLE HARVEST-KING'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: Orsta married his cousin Gringle Harvest-King
+[P5-B-B0035-016] S=['CRIMSON BAT'] P=travels O=[] MOD={"from": "ALDA-CHUR", "to": "DANGERFORD"} implicit=True ps="approached" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When the Bat approached Dangerford from Alda-Chur
+[P5-B-B0035-018] S=['DOLUTHA CLANFOLK'] P=initiates into cult O=['CULT OF THE CRIMSON BAT'] implicit=False ps="joining the cult of" sug=initiates into cult
+   Q: Some Dolutha clanfolk decided to avoid becoming Bat Food by joining the cult of the Crimson Bat as lay members.
+[P5-B-B0035-019] S=['BROFIN'] P=kills O=['GARRALOR'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: When Brofin killed King Garralor, he cursed us all.
+[P5-B-B0035-020] S=['MOTHER ERNALDA'] P=is alternative name for O=['ERNALDA'] implicit=False ps="mother Ernalda" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Help us mother Ernalda
+[P5-B-B0035-021] S=['EATER OF SKIN'] P=is alternative name for O=['CRIMSON BAT'] implicit=True ps="Eater of Skin" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: and now the Eater of Skin tries us.
+[P5-B-B0035-022] S=['HALLARAX'] P=sacrifices O=['CRIMSON BAT'] implicit=True ps="taken to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: He has been taken to the Crimson Bat for sacrifice.
+[P5-B-B0035-023] S=['ORLANTH'] P=protects O=['ERNALDA'] implicit=False ps="free" sug=rescues / frees
+   Q: For her he had all the romance of Orlanth the Outlaw come to free Ernalda.
+[P5-B-B0035-024] S=['ORLANTH THE OUTLAW'] P=is alternative name for O=['ORLANTH'] implicit=False ps="Orlanth the Outlaw" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: For her he had all the romance of Orlanth the Outlaw come to free Ernalda.
+[P5-B-B0036-001] S=['CACODEMON'] P=is member of O=['ARMY OF THE DEVIL'] implicit=False ps="is a remnant of the army of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Cacodemon is a remnant of the army of the Devil.
+[P5-B-B0036-002] S=['OGRES'] P=serves O=['CACODEMON'] MOD={"in_on_at": "GENERTELA"} implicit=True ps="began to follow" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: During the Great Darkness, some people began to follow Cacodemon and participated in his rituals, eating man flesh.
+[P5-B-B0036-003] S=['OGRES'] P=rules O=[] MOD={"in_on_at": "GENERTELA"} implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: These were the first of the ogre race, and with other Chaos races, ruled a wide area of Genertela in the Darkness.
+[P5-B-B0036-004] S=['TROLLS'] P=defeats O=['OGRES'] MOD={"in_on_at": "PRAX", "with_the_aid_of": ["WAHA"]} implicit=False ps="suppressed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Trolls, aided by Waha in Prax and other heroes elsewhere, suppressed the ogres
+[P5-B-B0036-005] S=['TROLLS'] P=defeats O=['CACODEMON'] MOD={"in_on_at": "PRAX", "with_the_aid_of": ["WAHA"]} implicit=False ps="drove off" sug=exiles / banishes
+   Q: Trolls, aided by Waha in Prax and other heroes elsewhere, suppressed the ogres and drove Cacodemon off.
+[P5-B-B0036-006] S=['ORLANTH'] P=descends into O=['UNDERWORLD'] implicit=False ps="was fettered in" sug=one of: descends into, dies
+   Q: When Whitewall fell, the god Orlanth was fettered in the Underworld.
+[P5-B-B0036-007] S=['LUNAR EMPIRE'] P=binds O=['ORLANTH'] MOD={"in_on_at": "UNDERWORLD", "at_the_command_of": ["TATIUS THE BRIGHT"]} implicit=False ps="fettered" sug=binds
+   Q: Working under the direction of Tatius the Bright, the Lunar Empire has completed a major ritual triggering huge magical effects. || When Whitewall fell, the god Orlanth was fettered in the Underworld.
+[P5-B-B0036-008] S=['ERNALDA'] P=alters mythic station O=[] MOD={"in_on_at": "WINDSTOP"} implicit=False ps="goes to sleep" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Within the area of the Windstop, the Earth Goddess Ernalda goes to sleep and does not awaken.
+[P5-B-B0036-009] S=['ORLANTH', 'ERNALDA'] P=is alternative name for O=['REBEL GODS'] implicit=True ps="the 'Rebel Gods.'" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Red Emperor declares an Extra Full Moon Year throughout the Heartland of the Empire to celebrate the defeat of the 'Rebel Gods.'
+[P5-B-B0036-010] S=['ORLANTH'] P=travels O=[] implicit=False ps="was questing" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Ancestors might state they experienced something similar during the Great Darkness, when Orlanth was questing and Ernalda was asleep.
+[P5-B-B0036-011] S=['ERNALDA'] P=alters mythic station O=[] implicit=False ps="was asleep" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: The Ancestors might state they experienced something similar during the Great Darkness, when Orlanth was questing and Ernalda was asleep.
+[P5-B-B0036-012] S=['HEORT'] P=re-enacts O=['I FOUGHT WE WON'] implicit=True ps="performed" sug=re-enacts
+   Q: It ended when Heort performed 'I Fought, We Won.'
+[P5-B-B0036-013] S=['THE SUN'] P=comes into being O=[] implicit=False ps="rose" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Then the Sun rose.
+[P5-B-B0036-014] S=['ORLANTH'] P=defeats O=[] implicit=False ps="had been defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Seven Mothers missionaries say that it was always the Goddess' intent that Ernalda should return, once Orlanth had been defeated, and she should seek a new husband now.
+[P5-B-B0036-015] S=['ERNALDA'] P=marries O=[] implicit=False ps="should seek a new husband" sug=is spouse of (qual=wedding)
+   Q: The Seven Mothers missionaries say that it was always the Goddess' intent that Ernalda should return, once Orlanth had been defeated, and she should seek a new husband now.
+[P5-B-B0036-016] S=['ORLANTH'] P=fights O=['RED GODDESS'] MOD={"in_on_at": "CASTLE BLUE"} implicit=False ps="battle between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Two disappeared at the Sunstop and the other was torn out during the battle between Orlanth and the Red Goddess at Castle Blue.
+[P5-B-B0036-017] S=['ORLANTH'] P=steals O=['CAULDRON OF VER'] MOD={"from": "SEA GODS"} implicit=False ps="took" sug=steals
+   Q: I believe this cauldron is in fact the Cauldron of Ver, a treasure of the Vingkotlings: Orlanth took it from the Sea Gods and it gave the life renewing powers of water.
+[P5-B-B0036-018] S=['CAULDRON OF PIECES'] P=is identified as O=['CAULDRON OF VER'] implicit=True ps="is in fact" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: I believe this cauldron is in fact the Cauldron of Ver, a treasure of the Vingkotlings: Orlanth took it from the Sea Gods and it gave the life renewing powers of water.
+[P5-B-B0036-019] S=['HELER'] P=teaches O=['SSHORGA'] implicit=False ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The Red Cow have knowledge of Heler's secret of the Golden Tear, which he taught to Sshorga.
+[P5-B-B0036-020] S=['HELER'] P=is child of O=['GREAT WATERS'] implicit=False ps="his mother, the Great Waters" sug=is child of
+   Q: Heler found a quiet place in the Middle Air and he prayed to his mother, the Great Waters, and the powers behind those.
+[P5-B-B0036-021] S=['HELER'] P=bestows magic / gifts O=['HUMANKIND'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: He was called to give his sacrifice, and he gave to humankind the ability to weep the golden tear.
+[P5-B-B0036-022] S=['HELER'] P=initiates into cult O=['SSHORGA'] implicit=True ps="initiated" sug=initiates into cult
+   Q: He initiated the Blue Dragon, Sshorga, into the secrets of the Young God.
+[P5-B-B0036-023] S=['SSHORGA'] P=is identified as O=['BLUE DRAGON'] implicit=False ps="the Blue Dragon, Sshorga" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: He initiated the Blue Dragon, Sshorga, into the secrets of the Young God.
+[P5-B-B0036-024] S=['QUEEN OF HEAVEN'] P=challenges O=['ORLANTH'] MOD={"via": ["PUR"]} implicit=True ps="tested his resolve by sending" sug=one of: challenges, breaks oath, betrays, fights
+   Q: First, the Queen of Heaven tested his resolve by sending Pur to seduce him.
+[P5-B-B0036-025] S=['ORLANTH'] P=departs from O=['PUR'] implicit=True ps="spurned" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: When he was finished, he spurned her and continued his upward spiral.
+[P5-B-B0036-026] S=['GENERAL OF HEAVEN'] P=challenges O=['ORLANTH'] MOD={"via": ["DERGI"]} implicit=False ps="tested Orlanth's strength by sending" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Next, the General of Heaven tested Orlanth's strength by sending Dergi against him, but Orlanth defeated him easily.
+[P5-B-B0036-027] S=['ORLANTH'] P=defeats O=['DERGI'] implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Next, the General of Heaven tested Orlanth's strength by sending Dergi against him, but Orlanth defeated him easily.
+[P5-B-B0036-028] S=['ARTIA'] P=is identified as O=['NIGHTDAUGHTER'] implicit=False ps="Artia the Bat tried to cover him, but Orlanth knew the Nightdaughter of old" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: While Orlanth was fighting, Artia the Bat tried to cover him, but Orlanth knew the Nightdaughter of old and could not be blinded as Yelm was.
+[P5-B-B0036-029] S=['ARTIA'] P=blinds O=['YELM'] implicit=False ps="blinded" sug=wounds (qual=blinding)
+   Q: While Orlanth was fighting, Artia the Bat tried to cover him, but Orlanth knew the Nightdaughter of old and could not be blinded as Yelm was.
+[P5-B-B0036-030] S=['ORLANTH'] P=defeats O=['ARTIA'] implicit=True ps="swept away" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He swept away the Bat with little effort.
+[P5-B-B0036-031] S=['JAGREKRIAND'] P=fights O=['ORLANTH'] implicit=True ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: After the first three failed, Jagrekriand himself came forward, released at last to fight the Liberator.
+[P5-B-B0036-032] S=['JAGREKRIAND'] P=shatters O=['MASTAKOS'] implicit=True ps="broke the wheels from" sug=shatters
+   Q: He fought with fire and mace against spear and lightning, and even broke the wheels from Mastakos' chariot.
+[P5-B-B0036-033] S=['ORLANTH'] P=defeats O=['JAGREKRIAND'] implicit=False ps="sent Jagrekriand screaming from the sky" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: But, he could not overcome Orlanth, who sent Jagrekriand screaming from the sky in payment for what the Red God had done to Umath, Orlanth's father.
+[P5-B-B0036-034] S=['JAGREKRIAND'] P=is identified as O=['RED GOD'] implicit=False ps="the Red God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: who sent Jagrekriand screaming from the sky in payment for what the Red God had done to Umath, Orlanth's father.
+[P5-B-B0036-035] S=['ORLANTH'] P=is child of O=['UMATH'] implicit=False ps="Umath, Orlanth's father" sug=is child of
+   Q: in payment for what the Red God had done to Umath, Orlanth's father.
+[P5-B-B0036-036] S=["SH'HARKAZEEL"] P=binds O=['ORLANTH'] implicit=False ps="wrapped itself around" sug=binds
+   Q: In desperation, they released Sh'harkazeel the Sky Dragon against Orlanth. || It wrapped itself around Orlanth from his left foot to his chin, encircling his body seven times and lifted its great head to stare Orlanth in the face.
+[P5-B-B0036-037] S=['ORLANTH'] P=kills O=["SH'HARKAZEEL"] implicit=True ps="chopped off its head" sug=one of: kills, shatters, dies
+   Q: He expanded his great strength and freed himself from the monster, then with a single blow chopped off its head.
+[P5-B-B0036-038] S=['ORLANTH'] P=travels O=[] MOD={"to": "UPPER SKY"} implicit=True ps="reached" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: At last, he reached the Upper Sky, and demanded that he be allowed to enter the sacred Inner Heavens.
+[P5-B-B0036-039] S=['SILONIA'] P=is identified as O=['MISTRESS OF DANCE'] implicit=False ps="The Mistress of Dance spoke for her lord ... Silonia retreated in shock" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Mistress of Dance spoke for her lord and answered that Orlanth could pass, but that he must join her lord's dance first. || So violent were his movements that Silonia retreated in shock, and Orlanth approached the Pole Star Gate.
+[P5-B-B0036-040] S=['SILONIA'] P=flees to O=[] implicit=False ps="retreated in shock" sug=flees to
+   Q: So violent were his movements that Silonia retreated in shock, and Orlanth approached the Pole Star Gate.
+[P5-B-B0036-041] S=['RIGSDAL'] P=is identified as O=['POLE STAR'] implicit=False ps="Pole Star ... Rigsdal" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: "No," said the Pole Star, "we would never do that dance," || Rigsdal swore allegiance to Orlanth, and revealed all of his powers and secrets to the Great God.
+[P5-B-B0036-042] S=['RIGSDAL'] P=pledges oath with O=['ORLANTH'] implicit=False ps="swore allegiance to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Rigsdal swore allegiance to Orlanth, and revealed all of his powers and secrets to the Great God.

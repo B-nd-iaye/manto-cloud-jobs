@@ -1,0 +1,300 @@
+[P5-B-B0025-060] S=['ARKAT'] P=defeats O=['NYSALOR'] implicit=True ps="exterminated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: and his teachings were widespread before being exterminated by Arkat the Destroyer,
+[P5-B-B0025-061] S=['NYSALOR'] P=bestows magic / gifts O=['WORLD'] implicit=True ps="brought" sug=one of: bestows, heals, imbues, teaches
+   Q: whose secrets and knowledge he brought to the world
+[P5-B-B0026-001] S=['NATHA'] P=is identified as O=['THE BALANCER'] implicit=False ps="the Balancer" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Natha the Balancer.
+[P5-B-B0026-002] S=['NATHA'] P=sacrifices O=['THE RED KING'] MOD={"in_on_at": "the Gods War"} implicit=False ps="sacrificing" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Here from a vase is Natha sacrificing the Red King,one of her best-known and most important acts during the Gods War.
+[P5-B-B0026-003] S=['OSKHOLOVETH'] P=is member of O=['NEW GODS'] implicit=False ps="is" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Oskholoveth is the least adventurous of the New Gods
+[P5-B-B0026-004] S=['OSKHOLOVETH'] P=enters Godtime / Otherworld O=[] MOD={"with_the_aid_of": ["RED EMPEROR"], "at_the_instigation_of": ["RED EMPEROR"], "purpose_clause": "to undertake his immortality heroquest"} implicit=True ps="undertake his immortality heroquest" sug=enters Godtime / Otherworld
+   Q: Oskholoveth was encouraged and then aided by the emperor to undertake his immortality heroquest.
+[P5-B-B0026-005] S=['RED GODDESS'] P=resurrects O=[] implicit=True ps="returned to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: The dogs, cats, donkeys, cows, goats, and other animals of Torang joined into wondrous song on the terrible, chill night She returned to life.
+[P5-B-B0026-006] S=['OSKHRASCOTA'] P=travels O=[] MOD={"to": "TEELO ESTARA"} implicit=True ps="found her way to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: she found her way to Teelo Estara
+[P5-B-B0026-007] S=['OSKHRASCOTA'] P=serves O=['TEELO ESTARA'] implicit=True ps="be the servant of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: asked to be allowed to be the servant of her servants, the animals.
+[P5-B-B0026-008] S=['RED GODDESS'] P=teaches O=['OSKHRASCOTA'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Oskrascota studied everything the Goddess taught
+[P5-B-B0026-009] S=['CARMANIANS'] P=kills O=['OSKHRASCOTA'] MOD={"in_on_at": "the Battle of Reparture"} implicit=True ps="were killed by" sug=one of: kills, shatters, dies
+   Q: she was among those who were killed by the Carmanians at the Battle of Reparture.
+[P5-B-B0026-010] S=['ANIMAL SPIRITS'] P=serves O=['OSKHRASCOTA'] MOD={"in_on_at": "the Underworld"} implicit=True ps="came to aid" sug=aids
+   Q: In the Underworld the spirits, souls, and essences of those creatures she had helped during her life came to aid her
+[P5-B-B0026-011] S=['OSKHRASCOTA'] P=resurrects O=[] implicit=True ps="rose from the field alive" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: their living kin sang to help bring Oskrascota back to life. Thus, she not only rose from the field alive but Enlightened as well.
+[P5-B-B0026-012] S=['OSKHRASCOTA'] P=illuminates O=[] implicit=True ps="Enlightened" sug=illuminates
+   Q: Thus, she not only rose from the field alive but Enlightened as well.
+[P5-B-B0026-013] S=['NYSALOR'] P=is identified as O=['THE KNOWER BEYOND KNOWING'] implicit=True ps="the Knower beyond Knowing" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the great god, the Knower beyond Knowing
+[P5-B-B0026-014] S=['THE WESTERN WORLD'] P=dismembers O=['NYSALOR'] implicit=True ps="dismantled" sug=dismembers
+   Q: they had taken the great god, the Knower beyond Knowing, and dismantled him into bits and components
+[P5-B-B0026-015] S=['RED GODDESS'] P=discovers O=['NYSALOR'] implicit=True ps="found" sug=discovers
+   Q: The Red Goddess was the one who went and found the pieces
+[P5-B-B0026-016] S=['RED GODDESS'] P=resurrects O=['NYSALOR'] implicit=True ps="brought the fifths and quarters back together again" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: brought the fifths and quarters back together again. And when Nysalor was whole again
+[P5-B-B0026-017] S=['GBAJI'] P=defeats O=['ANCIENT CADRE'] implicit=True ps="destroying" sug=shatters
+   Q: destroying the ancient cadre that held Nysalor to themselves.
+[P5-B-B0026-018] S=['GBAJI'] P=is identified as O=['THE LIBERATOR'] implicit=False ps="the Liberator" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Gbaji, the Liberator
+[P5-B-B0026-019] S=['GBAJI'] P=is identified as O=['THE EVIL ONE'] implicit=False ps="the Evil One" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Gbaji, the Evil One
+[P5-B-B0026-020] S=['OTARSHKANAR'] P=is member of O=['LOKARNOS'] implicit=False ps="was a follower of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Otarshkanar was a follower of Lokarnos
+[P5-B-B0026-021] S=['OTARSHKANAR'] P=initiates into cult O=['ETYRIES'] implicit=True ps="joined the Lunar cult of" sug=initiates into cult
+   Q: he soon joined the Lunar cult of Etyries.
+[P5-B-B0026-022] S=['OTARSHKANAR'] P=enters Godtime / Otherworld O=[] MOD={"to": "HERO PLANES"} implicit=True ps="trip to" sug=enters Godtime / Otherworld
+   Q: On a trip to the Hero Planes he saw Dragonewt wyvern riders
+[P5-B-B0026-023] S=['OTARSHKANAR'] P=fights O=['DEMPORALDATH'] implicit=False ps="battle between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: An epic battle between Otarshkanar and the Wyvern-Dragon Demporaldath
+[P5-B-B0026-024] S=['DEMPORALDATH'] P=has hybrid form O=['WYVERN-DRAGON'] implicit=False ps="Wyvern-Dragon" sug=has anomalous form (qual=hybrid)
+   Q: the Wyvern-Dragon Demporaldath
+[P5-B-B0026-025] S=['OTARSHKANAR'] P=rides O=['WYVERNS'] implicit=True ps="ride" sug=rides
+   Q: resulted in his acquisition of the ability to both tame and ride wyverns.
+[P5-B-B0026-026] S=['TAKENEGI VENERABILIS'] P=enchants O=['GOLDEN PROXY'] implicit=False ps="created" sug=conceives
+   Q: The first was the Golden Proxy, which Takenegi Venerabilis created by detaching one hand, which he later regrew, and attaching it to a statue of himself made of gold, then enlivening it with part of his essence.
+[P5-B-B0026-027] S=['TAKENEGI VENERABILIS'] P=dismembers O=['TAKENEGI VENERABILIS'] implicit=True ps="detaching" sug=dismembers
+   Q: detaching one hand, which he later regrew
+[P5-B-B0026-028] S=['TAKENEGI IGNIFER'] P=shatters O=['PROXIES'] implicit=True ps="destroyed" sug=shatters
+   Q: Takenegi Ignifer subsequently led a pogrom that destroyed most of these former selves.
+[P5-B-B0026-029] S=['RED EMPEROR'] P=is identified as O=['TAKENEGI VENERABILIS'] implicit=True ps="Takenegi Venerabilis" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The emperor in his wisdom once created a set of standins to help him perform his duties. The first was the Golden Proxy, which Takenegi Venerabilis created
+[P5-B-B0026-030] S=['RED GODDESS'] P=discovers O=['UNION OF OPPOSITES'] implicit=False ps="discovered" sug=discovers
+   Q: Sedenya, caught in the vice of grief and hope, discovered the union of opposites.
+[P5-B-B0026-031] S=['UNION OF OPPOSITES'] P=reveals O=['ILLUMINATION'] MOD={"in_on_at": "the darkness"} implicit=False ps="revealed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: In the darkness, the Union of Opposites revealed Illumination
+[P5-B-B0026-032] S=['RED GODDESS'] P=is identified as O=['RASHORANA'] implicit=True ps="became known as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: and so became known as Rashorana.
+[P5-B-B0026-033] S=['RASHORANA'] P=illuminates O=['ILLUMINATION'] implicit=False ps="brings" sug=illuminates
+   Q: Rashorana brings Illumination and liberation.
+[P5-B-B0026-034] S=['RED EMPEROR'] P=embodies O=['RED GODDESS'] implicit=True ps="is the perfect masculine manifestation of" sug=one of: embodies, has domain
+   Q: He is the perfect masculine manifestation of Sedenya's powers.
+[P5-B-B0026-035] S=['EGI'] P=resurrects O=['RED EMPEROR'] implicit=True ps="reconstructed" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: he has been reconstructed by the Egi and sent back to the world.
+[P5-B-B0026-036] S=['SHENG SELERIS'] P=defeats O=['EGI'] implicit=False ps="destroyed or changed by" sug=shatters
+   Q: many of the original Egi were destroyed or changed by Sheng Seleris.
+[P5-B-B0026-037] S=['RED EMPEROR'] P=challenges O=['ELEVEN TESTS'] implicit=True ps="prove himself with" sug=one of: challenges, breaks oath, betrays, fights
+   Q: The mask Magnificus, as he was later titled, was not immediately recognized by imperial authorities, however, so had to prove himself with the Eleven Tests.
+[P5-B-B0026-038] S=['RED EMPEROR'] P=establishes cult O=['TAKENEGI INCARNATE'] implicit=True ps="established" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: The Artifex mask established the denomination of Takenegi Incarnate
+[P5-B-B0026-039] S=['SENTHERA'] P=serves O=['RED EMPEROR'] implicit=True ps="serving" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Senthera was a notorious courtesan who worked her way up from being the concubine of a minor member of the Jenetaror lineage to serving the emperor.
+[P5-B-B0026-040] S=['SENTHERA'] P=steals O=['HON-EEL'] implicit=True ps="took much of her magic" sug=steals
+   Q: succeeded in her Self Journey to the court of HonEel, from whom she took much of her magic.
+[P5-B-B0026-041] S=['SENTHERA'] P=establishes cult O=['TEMPLES OF DESIRE'] implicit=True ps="establish" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: returned to establish her Temples of Desire.
+[P5-B-B0026-042] S=['SENTHERA'] P=claims ancestry O=['SENTHERA-MANA'] MOD={"in_on_at": "Silver Shadow"} implicit=False ps="established" sug=claims ancestry
+   Q: She established a line of nobles in Silver Shadow, the Senthera-mana.
+[P5-B-B0026-043] S=['TEELO NORRI'] P=is identified as O=['RED GODDESS'] implicit=True ps="latest physical incarnation of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Teelo Norri was a thirteen-year-old orphan from the streets of Torang. Yet within her was the sleeping Goddess, for she was simply the latest physical incarnation of the Goddess
+[P5-B-B0026-044] S=['SEVEN MOTHERS'] P=resurrects O=['TEELO ESTARA'] MOD={"in_on_at": "1220"} implicit=False ps="woke" sug=awakens
+   Q: In 1220, the others of the Seven Mothers performed the Awakening Rites and woke Teelo Estara, the nascent Goddess, within the body of Teelo Norri.
+[P5-B-B0026-045] S=['TEELO ESTARA'] P=is identified as O=['RED GODDESS'] implicit=True ps="the nascent Goddess" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Teelo Estara, the nascent Goddess
+[P5-B-B0026-046] S=['TEELO NORRI'] P=establishes cult O=['POOR HOUSES'] MOD={"in_on_at": "the empire"} implicit=True ps="established" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: established the first of many poor houses in the empire.
+[P5-B-B0026-047] S=['TEELO NORRI'] P=enters Godtime / Otherworld O=[] MOD={"to": "THE MOON"} implicit=True ps="established a place on" sug=enters Godtime / Otherworld
+   Q: she undertook the Full Seven Rites and established a place on the Moon
+[P5-B-B0026-048] S=['TEELO NORRI'] P=is identified as O=['SPRING OF ETERNAL YOUTH'] implicit=True ps="is called" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: She is now the ceremonial Cup Bearer of the Goddess and is called the Spring of Eternal Youth.
+[P5-B-B0026-049] S=['ULURDA'] P=comes into being O=[] MOD={"in_on_at": "Darscarpan, the Resting Place"} implicit=False ps="woke at" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Ulurda woke at Darscarpan, the Resting Place
+[P5-B-B0026-050] S=['ULURDA'] P=is identified as O=['THE GROWING BLUE MOON'] implicit=False ps="The Growing Blue Moon" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ulurda The Growing Blue Moon
+[P5-B-B0026-051] S=['ULURDA'] P=re-enacts O=['BIRTH DANCE'] implicit=True ps="did" sug=re-enacts
+   Q: did the Birth Dance.
+[P5-B-B0026-052] S=['ULURDA'] P=is spouse of O=['ULURDUM'] implicit=True ps="husband" sug=is spouse of
+   Q: Her husband Ulurdum joined her there
+[P5-B-B0026-053] S=['ULURDA', 'ULURDUM'] P=becomes celestial body O=['BLUE PLANETOIDS'] MOD={"in_on_at": "the sky"} implicit=True ps="were a pair of blue planetoids" sug=becomes celestial body
+   Q: In the sky, she and her husband were a pair of blue planetoids.
+[P5-B-B0026-054] S=['ULURDA'] P=bestows magic / gifts O=['STARS'] implicit=True ps="brought" sug=one of: bestows, heals, imbues, teaches
+   Q: Her Arrows of Life brought stars to light, and her Arrows of Fire brought cooking and warmth to many peoples.
+[P5-B-B0027-001] S=['ULURDA'] P=departs from O=['SKY'] implicit=True ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: left the sky,
+[P5-B-B0027-002] S=['ULURDA'] P=is identified as O=['SERRI MINA'] implicit=True ps="as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: was born among humanity, to live among people as Serri Mina, the Waiting Avatar.
+[P5-B-B0027-003] S=['ULURDA'] P=is identified as O=['TEELO NORRI'] implicit=True ps="incarnation was as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Her last incarnation was as Teelo Norri, when the plan for her discovery and resurrection at last succeeded.
+[P5-B-B0027-004] S=['FOREST PEOPLE OF ARIR'] P=claims ancestry O=['ULURDA'] implicit=True ps="descendants" sug=claims ancestry
+   Q: She is especially loved by her descendants, the tattooed forest people of Arir.
+[P5-B-B0027-005] S=['UNDRENDUM'] P=is child of O=['TAKENEGI', 'DIOVENA'] implicit=True ps="son born to ... fathered upon" sug=is child of
+   Q: The first son born to the original Takenegi was fathered upon Diovena, a Rinliddi warrior-princess of Ganbarri.
+[P5-B-B0027-006] S=['UNDRENDUM'] P=defeats O=['BLACK-EYED HIGHWAYMEN'] MOD={"in_on_at": "TORANG ROAD"} implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He was brave and defeated the Black-Eyed Highwaymen on the Torang road;
+[P5-B-B0027-007] S=['UNDREDUM'] P=discovers O=['BIRD OF THE MOON HEROQUEST'] implicit=False ps="rediscovered" sug=discovers
+   Q: Undredum rediscovered the Bird of the Moon heroquest
+[P5-B-B0027-008] S=['ULURDA'] P=is identified as O=['BLUE VIXEN'] implicit=False ps="was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: "Ulurda was the Blue Vixen," she said,
+[P5-B-B0027-009] S=['BLUE VIXEN'] P=is identified as O=['BLUE MOUSE'] implicit=False ps="had also been" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: And Teelo Imara proved that the Blue Vixen had also been the Blue Mouse,
+[P5-B-B0027-010] S=['TEELO IMARA'] P=is identified as O=['ULURDA'] implicit=False ps="had been" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Then Teelo Imara proved that She had been Ulurda.
+[P5-B-B0027-011] S=['TEELO IMARA'] P=bestows magic / gifts O=[] IO=['BUSERIAN'] implicit=True ps="had given" sug=one of: bestows, heals, imbues, teaches
+   Q: revealing a secret to them that She had given only to Buserian himself
+[P5-B-B0027-012] S=['RED GODDESS'] P=is identified as O=['ULURDA'] implicit=False ps="as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Red Goddess established though her Travel and Journey experience that She was the first planetary body to rise into the sky after the Kazkurtum, as the goddess Ulurda.
+[P5-B-B0027-013] S=['RED GODDESS'] P=becomes celestial body O=[] MOD={"in_on_at": "SKY"} implicit=True ps="rise into" sug=becomes celestial body
+   Q: She was the first planetary body to rise into the sky after the Kazkurtum, as the goddess Ulurda.
+[P5-B-B0027-014] S=['YELMGATHA'] P=reveals O=['GLORIOUS REASCENT OF YELM'] implicit=False ps="revealed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: The Glorious ReAscent of Yelm as their source, which had just been revealed by the Emperor Yelmgatha.
+[P5-B-B0027-015] S=['RED GODDESS'] P=reveals O=[] IO=['YELMGATHA'] implicit=True ps="shown" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Indeed, it was the Goddess who had shown Yelmgatha where to find it.
+[P5-B-B0027-016] S=['ULURDA'] P=is spouse of O=['ULURDUM'] implicit=False ps="wife or mate of" sug=is spouse of
+   Q: Ulurda was the wife or mate of Ulurdum (Star 48)
+[P5-B-B0027-017] S=['ULURDUM'] P=is identified as O=['BLUE FOX'] implicit=False ps="was also" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: and that Ulurdum was also the Blue Fox.
+[P5-B-B0027-018] S=['ULURDUM'] P=is identified as O=['BLUE SAKKAR'] implicit=True ps="was also" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: And She proved that he was also the Blue Sakkar and the Blue Cougar too.
+[P5-B-B0027-019] S=['ULURDUM'] P=is identified as O=['BLUE COUGAR'] implicit=True ps="was also" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: And She proved that he was also the Blue Sakkar and the Blue Cougar too.
+[P5-B-B0027-020] S=['URANGAR'] P=serves O=['TEELO ESTARA'] implicit=False ps="served as a bodyguard to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Urangar, a native of Rinliddi, served as a bodyguard to Teelo Estara.
+[P5-B-B0027-021] S=['URANGAR'] P=enters Godtime / Otherworld O=[] MOD={"to": "OTHERWORLD", "purpose_clause": "TO OBTAIN"} implicit=True ps="traveled to" sug=enters Godtime / Otherworld
+   Q: traveled to the Otherworld to get the power to do that.
+[P5-B-B0027-022] S=['SHENG SELERIS'] P=fights O=[] MOD={"in_on_at": "MOON"} implicit=False ps="invaded" sug=invades / raids
+   Q: When Sheng Seleris invaded the Moon,
+[P5-B-B0027-023] S=['URANGAR'] P=protects O=['TEELO ESTARA'] MOD={"from": "SHENG SELERIS"} implicit=True ps="kept him out of" sug=one of: protects, rescues / frees, aids
+   Q: it was Urangar who kept him out of Her palace,
+[P5-B-B0027-024] S=['URANAFUS'] P=enters Godtime / Otherworld O=[] MOD={"to": "GODS WAR"} implicit=True ps="traveled to" sug=enters Godtime / Otherworld
+   Q: He even traveled to the Gods War to find subjects for his work,
+[P5-B-B0027-025] S=['URANAFUS'] P=serves O=['SEDENYA'] implicit=True ps="dedicated his soul to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He dedicated his soul to Sedenya,
+[P5-B-B0027-026] S=['STATUES OF URANAFUS'] P=resurrects O=['URANAFUS'] implicit=True ps="called ... back to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: and with the mourners they called Uranafus back to life.
+[P5-B-B0027-027] S=['URANAFUS'] P=travels O=[] MOD={"to": "MOON"} implicit=True ps="traveled on to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: and then traveled on to the Moon, where he still works.
+[P5-B-B0027-028] S=['TEELO ESTARA'] P=illuminates O=['VALARE'] implicit=False ps="opened ... Seventh Soul" sug=illuminates
+   Q: Teelo Estara opened Valare's Seventh Soul,
+[P5-B-B0027-029] S=['DENDARA'] P=is spouse of O=['YELM'] implicit=False ps="Wife of" sug=is spouse of
+   Q: Dendara the Good Goddess, Wife of Yelm,
+[P5-B-B0027-030] S=['RED GODDESS'] P=is conflated with O=['DENDARA'] MOD={"at_the_instigation_of": ["VALARE"]} implicit=True ps="same goddess" sug=one of: is identified as, is worshipped by, is part of
+   Q: Valare began to preach that they were the same goddess.
+[P5-B-B0027-031] S=['SEDENYA'] P=becomes celestial body O=[] MOD={"to": "HEAVENS"} implicit=False ps="ascended to" sug=becomes celestial body
+   Q: when Sedenya ascended to the heavens.
+[P5-B-B0027-032] S=['VALARE'] P=enters Godtime / Otherworld O=[] MOD={"via": ["GREAT DANCE"]} implicit=False ps="healed in" sug=enters Godtime / Otherworld
+   Q: A Darsen priestess pitied Valare and took her to be healed in the Great Dance, a rite that takes place in the Green Age.
+[P5-B-B0027-033] S=['VALARE'] P=discovers O=['ADDI'] implicit=True ps="returned ... with" sug=discovers
+   Q: and she returned from this experience with an artifact, the Talking Stick called Addi.
+[P5-B-B0027-034] S=['SEDENYA'] P=is alternative name for O=['DEDADDI'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: she included Sedenya, whom she called Dedaddi ("Staff Holder");
+[P5-B-B0027-035] S=['VALARE'] P=travels O=[] MOD={"to": "HAGU"} implicit=False ps="traveled to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Valare traveled to Hagu
+[P5-B-B0027-036] S=['VALARE'] P=illuminates O=[] implicit=True ps="saw the truth of" sug=illuminates
+   Q: and she saw the truth of illumination.
+[P5-B-B0027-037] S=['SEDENYA'] P=is member of O=['DARSEN COUNCIL'] implicit=False ps="was among" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: proved to all present that Sedenya was among the original Darsen Council.
+[P5-B-B0027-038] S=['VALARE'] P=bestows magic / gifts O=['ADDI'] IO=['WOMEN OF DARSEN'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: She gave the women her Talking Stick,
+[P5-B-B0027-039] S=['TAKENEGI'] P=alters mythic station O=['VALARE'] MOD={"in_on_at": "GLAMOUR"} implicit=True ps="immortalized" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: She was immortalized in Glamour under the guidance of Takenegi on Rashoday/8 in 1/27.
+[P5-B-B0027-040] S=['VALARE'] P=is alternative name for O=['JOURNEYER'] implicit=True ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She is called the Journeyer or the Chronoporter.
+[P5-B-B0027-041] S=['VALARE'] P=is alternative name for O=['CHRONOPORTER'] implicit=True ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She is called the Journeyer or the Chronoporter.
+[P5-B-B0027-042] S=['YANAFAL TARNILS'] P=is child of O=['LANTAFAR TARNILS'] implicit=False ps="son of" sug=is child of
+   Q: Yanafal Tarnils was the second son of Lantafar Tarnils,
+[P5-B-B0027-043] S=['YANAFAL TARNILS'] P=serves O=["HUM'AKT"] implicit=True ps="followed" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: He followed the Carmanian saint of war, Hum'akt,
+[P5-B-B0027-044] S=['YANAFAL TARNILS'] P=is alternative name for O=['THE RAM'] MOD={"at_the_instigation_of": ["PENTANS"]} implicit=True ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Pentans called him "The Ram" for his aggression in battle.
+[P5-B-B0027-045] S=['PADISHAH BISODAKAR'] P=kills O=['FAMILY OF YANAFAL TARNILS'] implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: The Shah became jealous and suspicious of his successes and in a bloody purge slew all his family.
+[P5-B-B0028-001] S=['YANAFAL TARNILS'] P=serves O=['DEEZOLA'] implicit=True ps="took service with" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: he took service with Queen Deezola in 1216.
+[P5-B-B0028-002] S=['DEEZOLA'] P=rules O=['TORANG'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: She ruled Torang, a minor city-state that had been provoked to rise against Carmanian oppression.
+[P5-B-B0028-004] S=['YANAFAL TARNILS'] P=defeats O=['CARMANIA'] implicit=True ps="soundly defeating" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He led his rag-tag army well, soundly defeating several punitive expeditions from the empire.
+[P5-B-B0028-005] S=['RED GODDESS'] P=manifests O=[] implicit=False ps="awakening of Sedenya's powers" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The result was the awakening of Sedenya's powers in the being called Teelo Estara.
+[P5-B-B0028-006] S=['YANAFAL TARNILS'] P=serves O=['TEELO ESTARA'] implicit=False ps="was one of Teelo Estara's constant supporters" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Yanafal Tarnils was one of Teelo Estara's constant supporters, and he led her armies to many victories.
+[P5-B-B0028-007] S=['YANAFAL TARNILS'] P=protects O=['TEELO ESTARA'] implicit=True ps="guarded" sug=one of: protects, rescues / frees, aids
+   Q: He guarded her, offered his advice, and received her instructions.
+[P5-B-B0028-008] S=['YANAFAL TARNILS'] P=fights O=['CARMANIA'] implicit=True ps="delayed them, harmed them, and frightened them" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Yanafal delayed them, harmed them, and frightened them but did not stop them.
+[P5-B-B0028-009] S=['VERITHURUSA'] P=travels O=[] implicit=True ps="stepped out of her perfect home" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The pure white goddess stepped out of her perfect home to follow her curiosity when a god of change passed by her window.
+[P5-B-B0028-010] S=['VERITHURUSA'] P=descends into O=[] MOD={"in_on_at": "beneath the earth"} implicit=True ps="disappeared beneath the earth" sug=one of: descends into, dies
+   Q: With Him Below, a powerful god to whom she was forcefully attracted, she disappeared beneath the earth for a period.
+[P5-B-B0028-011] S=['VERITHURUSA'] P=blinds O=['YELM'] implicit=True ps="blinded" sug=wounds (qual=blinding)
+   Q: she left behind the flapping wings of grief, which eventually blinded Yelm and led to his death.
+[P5-B-B0028-012] S=['HOMURA'] P=is child of O=['VERITHURUSA', 'ASYREX'] implicit=True ps="bore" sug=is child of
+   Q: With Asyrex, she bore a child, Homura, the Gem, and other leaders of the ancient Mernitans.
+[P5-B-B0028-013] S=['VERITHURUSA'] P=embodies O=[] implicit=False ps="is the power of" sug=one of: embodies, has domain
+   Q: Verithurusa is the power of growth, of childhood and its innocent and necessarily naïve desire to experience the world.
+[P5-B-B0028-014] S=['ETYRIES'] P=teaches O=['YANAFAL TARNILS'] implicit=True ps="told him where to go" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Etyries told him where to go, and he went.
+[P5-B-B0028-015] S=['YANAFAL TARNILS'] P=resurrects O=['RED GODDESS'] implicit=True ps="brought Her back" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: He brought Her back in time to save the battle and win that war.
+[P5-B-B0028-016] S=['YANAFAL TARNILS'] P=discovers O=[] implicit=False ps="discovered" sug=discovers
+   Q: In the questing, Yanafal had also discovered the way to his own immortality.
+[P5-B-B0028-017] S=['YANAFAL TARNILS'] P=fights O=["SAINT HUM'AKT"] implicit=False ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He fought against his former god, the Saint Hum'akt, and though struck dead, Yanafal Tarnils leapt back to life and slew the vessel of that Saint, who did not return.
+[P5-B-B0028-018] S=['YANAFAL TARNILS'] P=resurrects O=[] implicit=False ps="leapt back to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: and though struck dead, Yanafal Tarnils leapt back to life and slew the vessel of that Saint, who did not return.
+[P5-B-B0028-019] S=['YANAFAL TARNILS'] P=kills O=["SAINT HUM'AKT"] implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: and though struck dead, Yanafal Tarnils leapt back to life and slew the vessel of that Saint, who did not return.
+[P5-B-B0028-020] S=['YANAFAL TARNILS'] P=is member of O=['LUNAR PANTHEON'] implicit=False ps="is now the war god of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Yanafal Tarnils is now the war god of the Lunar pantheon.
+[P5-B-B0028-021] S=['YANAFAL TARNILS'] P=is alternative name for O=['YANAFAL VESTARA'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: He is called Yanafal Vestara.
+[P5-B-B0028-022] S=['VESTARA'] P=establishes cult O=[] MOD={"purpose_clause": "To protect her lover"} implicit=False ps="established this aspect of the denomination" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: To protect her lover, Vestara of Torang was moved toward ceremonial combat but not blood and guts, and she established this aspect of the denomination.
+[P5-B-B0028-023] S=['RED EMPEROR'] P=establishes cult O=['YARA ARANIS'] MOD={"in_on_at": "a fortress at Good Shore"} implicit=True ps="installed" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: He then installed Yara Aranis in a fortress at Good Shore with soldiers and priestesses, where she was served by priests and priestesses garbed in scarlet.
+[P5-B-B0028-024] S=['YARA ARANIS'] P=defeats O=['NOMADS'] implicit=True ps="destroyed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The nomads came to destroy the traitorous entity, but her demonic power served her well, their horses threw the warriors to the ground, and she destroyed them all.
+[P5-B-B0028-025] S=['YARA ARANIS'] P=kills O=[] implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: Wherever she went, she slew the nomads' horses and enslaved the nomads' spirits.
+[P5-B-B0028-026] S=['YARA ARANIS'] P=binds O=[] implicit=True ps="enslaved" sug=binds
+   Q: Wherever she went, she slew the nomads' horses and enslaved the nomads' spirits.
+[P5-B-B0028-027] S=['YARA ARANIS'] P=enchants O=['RED GODDESS'] MOD={"in_on_at": "a web surrounding her temples"} implicit=False ps="wove" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: In 3/54 (1409) Yara Aranis wove the Red Goddess' ever-flowing energies into a web surrounding her temples.
+[P5-B-B0028-028] S=['YARA ARANIS'] P=is alternative name for O=['GREAT DEFENDER', 'HORSE EATER', 'SIX ARMS'] implicit=False ps="known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yara Aranis is the Goddess of the Reaching Moon, known as the Great Defender, Horse Eater, and Six Arms.
+[P5-B-B0028-029] S=['SHENG SELERIS'] P=fights O=['GLAMOUR'] implicit=False ps="laid siege to" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In 3/34 (1389) Sheng Seleris had swept over the empire and even laid siege to Glamour.
+[P5-B-B0028-030] S=['RED EMPEROR'] P=fights O=['SHENG SELERIS'] implicit=True ps="coaxed him into single combat" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The emperor coaxed him into single combat and allowed himself to be killed and sent to the worst Hell of his foe.
+[P5-B-B0028-031] S=['SHENG SELERIS'] P=kills O=['RED EMPEROR'] implicit=True ps="allowed himself to be killed" sug=one of: kills, shatters, dies
+   Q: The emperor coaxed him into single combat and allowed himself to be killed and sent to the worst Hell of his foe.
+[P5-B-B0028-032] S=['RED EMPEROR'] P=descends into O=[] MOD={"to": "the worst Hell of his foe"} implicit=True ps="sent to" sug=one of: descends into, dies
+   Q: allowed himself to be killed and sent to the worst Hell of his foe.
+[P5-B-B0028-033] S=['RED EMPEROR'] P=marries O=['GODDESS OF THE TORMENTED DEATH'] implicit=True ps="courted and seduced" sug=is spouse of (qual=wedding)
+   Q: once there he courted and seduced the spiderlike spiritual Goddess of the Tormented Death.
+[P5-B-B0028-034] S=['YARA ARANIS'] P=is child of O=['RED EMPEROR', 'GODDESS OF THE TORMENTED DEATH'] implicit=True ps="The child of that unholy union was" sug=is child of
+   Q: The child of that unholy union was Yara Aranis.
+[P5-B-B0028-035] S=['YOUNG ELEMENTALS'] P=manifests O=[] implicit=True ps="assembled" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: On the birth of Teelo Estara, five elemental beings assembled, presaging the remaking of the world that was to come.
+[P5-B-B0028-036] S=['JAKALEEL'] P=discovers O=[] MOD={"in_on_at": "the Underworld"} implicit=False ps="found" sug=discovers
+   Q: The fifth was new, a being that had been previously known only to Jakaleel, who had found it in the Underworld.
+[P5-B-B0028-037] S=['CHAOS'] P=shatters O=['ETERNAL MOUNTAIN'] implicit=False ps="was destroyed by" sug=shatters
+   Q: Lunar philosophers say that when the Eternal Mountain was destroyed by chaos, creation began anew within the void just as it had occurred originally, beginning with Darkness.
+[P5-B-B0028-038] S=['YOUNG ELEMENTALS'] P=is alternative name for O=['DAMOSEL DARKNESS', 'SQUIRE SEA', 'LADY LAND', 'LIEGE LIGHT', 'MISTRESS MOON'] implicit=True ps="are sometimes named" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: They are sometimes named Damosel Darkness, Squire Sea, Lady Land, Liege Light, and Mistress Moon.
+[P5-B-B0028-039] S=['YOUNG ELEMENTALS'] P=serves O=['RED GODDESS'] implicit=True ps="used these elementals as their servants" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: When the cults of the Goddess were empowered, they used these elementals as their servants.
+[P5-B-B0028-040] S=['RED GODDESS'] P=is alternative name for O=['ZAYTENERA'] implicit=False ps="was called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: In her childhood, before she left her original home, Sedenya was called Zaytenera, Perfect Wisdom and Divine Intellect.
+[P5-B-B0028-041] S=['RED GODDESS'] P=departs from O=[] MOD={"from": "her original home"} implicit=False ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: In her childhood, before she left her original home, Sedenya was called Zaytenera, Perfect Wisdom and Divine Intellect.
+[P5-B-B0028-042] S=['ZAYTENERA'] P=is alternative name for O=['MOON OF CALM', 'MOON OF PEACE', 'MOON OF BEAUTY'] implicit=True ps="is sometimes called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: There is no successful method to worship this form of the Goddess, which is sometimes called the Moon of Calm, the Moon of Peace, or the Moon of Beauty.
+[P5-B-B0028-043] S=['IRIPPI ONTOR'] P=serves O=['ZAYTENERA'] MOD={"purpose_clause": "to obtain her knowledge"} implicit=True ps="is sought by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: This form of the Moon is sought by the worshippers of Irippi Ontor, who wish to obtain her knowledge.
+[P5-B-B0028-044] S=['LOKAMAYADON'] P=kills O=['ORLANTH'] implicit=False ps="attempt to kill" sug=one of: kills, shatters, dies
+   Q: The First Age ended with Lokamayadon's attempt to kill Orlanth and the war between Arkat and Gbaji;
+[P5-B-B0028-045] S=['ARKAT'] P=fights O=['GBAJI'] implicit=False ps="war between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The First Age ended with Lokamayadon's attempt to kill Orlanth and the war between Arkat and Gbaji;
+[P5-B-B0028-046] S=['NATURAL FORCES'] P=kills O=['GOD LEARNERS'] implicit=False ps="drowning" sug=one of: kills, shatters, dies
+   Q: the Second Age ended with outraged natural forces drowning the God Learners, and the collapse of the Empire of the Wyrms Friends.
+[P5-B-B0029-001] S=['THE FOUR OLD BLOODLINES'] P=claims ancestry O=["KARGANAR'S SONS"] implicit=True ps="trace their descent from" sug=claims ancestry
+   Q: The four 'old' bloodlines are from the former the Drutorae clan and trace their descent from Karganar's Sons or their followers.
+[P5-B-B0029-002] S=['TORMAKTING'] P=claims ancestry O=['TORMAKT STOUT-HEARTED'] implicit=False ps="descendants of" sug=claims ancestry
+   Q: Largest of the bloodlines is the Tormakting, the descendants of Tormakt Stout-Hearted, second chieftain of the clan
+[P5-B-B0029-003] S=['SAROSTIPING'] P=claims ancestry O=['SAROSTIP BREAKER-OF-MEN'] implicit=False ps="descend from" sug=claims ancestry
+   Q: The Sarostiping descend from Sarostip Breaker-Of-Men
+[P5-B-B0029-004] S=['BOLTHORING'] P=claims ancestry O=['BOLTHOR HAIRY-BREEKS'] implicit=False ps="descend from" sug=claims ancestry
+   Q: The Bolthoring descend from Bolthor Hairy-Breeks

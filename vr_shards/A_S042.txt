@@ -1,0 +1,300 @@
+[P5-A-B0131-039] S=['LUATHA'] P=travels O=[] MOD={"from": "THE LAND OF THE SETTING SUN", "to": "SESHNELA"} implicit=False ps="came to; debarked" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: a single ship came to Seshnela. || The Luatha, purple-skinned demigods from the Land of the Setting Sun, debarked
+[P5-A-B0131-040] S=['LUATHA'] P=defeats O=['THE KINGDOM OF SESHNELA'] MOD={"using": "A RITE"} implicit=False ps="performed a rite that destroyed" sug=shatters
+   Q: The Luatha, purple-skinned demigods from the Land of the Setting Sun, debarked and performed a rite that destroyed the magnificent Kingdom of Seshnela in a day and night.
+[P5-A-B0131-041] S=['LUATHA'] P=is identified as O=['PURPLE-SKINNED DEMIGODS'] implicit=False ps="purple-skinned demigods" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Luatha, purple-skinned demigods from the Land of the Setting Sun
+[P5-A-B0131-042] S=['ALDRYAMI'] P=travels O=[] MOD={"at_the_instigation_of": ["LUATHA"]} implicit=False ps="brought in" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Afterwards the Luatha brought in Aldryami who quickly covered it all with woods and wild beasts.
+[P5-A-B0131-043] S=['LUATHA'] P=protects O=['THE EARTH GODDESS'] MOD={"from": "GOD LEARNERS", "purpose_clause": "TO PROTECT"} implicit=False ps="to save" sug=one of: protects, rescues / frees, aids
+   Q: The elves once said that the Luatha to save the earth goddess from the abuses of the God Learners.
+[P5-A-B0131-044] S=['THE LAND GODDESS'] P=departs from O=['HUMANKIND'] implicit=False ps="withdrew her favor from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: ever since the land goddess withdrew her favor from humankind.
+[P5-A-B0131-045] S=['DORMAL'] P=travels O=[] MOD={"to": "THE QUINPOLIC LEAGUE"} implicit=True ps="landed" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Saint Dormal the Opener landed here and the nobles and commoners alike seized the opportunities offered.
+[P5-A-B0131-046] S=['DORMAL'] P=is identified as O=['THE OPENER'] implicit=False ps="the Opener" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Saint Dormal the Opener
+[P5-A-B0131-047] S=['THE PEOPLE OF THE QUINPOLIC LEAGUE'] P=is member of O=['ROKARI'] implicit=True ps="are pious" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Although the people of the League are pious Rokari, they resist Ecclesiarch Theoblanc's oversight.
+[P5-A-B0131-048] S=['SAINT ONOKOS'] P=teaches O=['THE SPELLS TO SANCTIFY COIN OR GOODS'] IO=['THE COASTAL PEOPLE'] implicit=True ps="teaching them the spells" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: giving thanks to Saint Onokos for teaching them the spells to sanctify coin or goods from foreign places
+[P5-A-B0131-049] S=['THE INHABITANTS OF PITHDAROS'] P=travels O=[] MOD={"from": "PAMALTELA", "to": "PITHDAROS"} implicit=False ps="landed here" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Pithdaros is inhabited by dark-skinned inhabitants from far Pamaltela who landed here in the Imperial Age.
+[P5-A-B0131-050] S=['THE INHABITANTS OF PITHDAROS'] P=fights O=['GBAJI'] implicit=True ps="had come to against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: They had come to against Gbaji the Bad God.
+[P5-A-B0131-051] S=['GBAJI'] P=is identified as O=['THE BAD GOD'] implicit=False ps="Gbaji the Bad God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: They had come to against Gbaji the Bad God.
+[P5-A-B0131-052] S=['THE INHABITANTS OF PITHDAROS'] P=is member of O=['MALKIONI'] implicit=True ps="are good" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: They are good Malkioni, but are notorious for never being on time.
+[P5-A-B0132-001] S=['MALKION'] P=teaches O=['ANCIENT LAWS'] implicit=False ps="laid down" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Malkion the Prophet laid down ancient Laws which are still followed
+[P5-A-B0132-002] S=['INVISIBLE GOD'] P=is identified as O=['THE CREATOR'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Invisible God is the Creator and His Laws shaped the Ultimate, Nature and Society
+[P5-A-B0132-003] S=['INVISIBLE GOD'] P=bestows magic / gifts O=['RATIONALITY AND LOGIC'] IO=['HUMANS'] MOD={"purpose_clause": "to oversee the universe"} implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: Rationality and logic are the powers which God gave humans to oversee the universe
+[P5-A-B0132-004] S=['DANMALASTAN'] P=is alternative name for O=['THE LAND OF LOGIC'] implicit=False ps="was DANMALASTAN, the Land of Logic" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: This was DANMALASTAN, the Land of Logic, the original home of the Malkioni of Genertela.
+[P5-A-B0132-005] S=['VADELI'] P=shatters O=['THE ENTIRE WESTERN CONTINENT'] MOD={"using": "EVIL MAGICS"} implicit=False ps="was shattered by" sug=shatters
+   Q: At its climax the entire western continent was shattered by the Vadeli evil magics.
+[P5-A-B0132-006] S=['ZZABUR'] P=is identified as O=['THE SORCERER SUPREME'] implicit=False ps="Zzabur, the Sorcerer Supreme" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: it was the home of Zzabur, the Sorcerer Supreme.
+[P5-A-B0132-007] S=['WAERTAGI'] P=protects O=['ISLE OF BRITHOS'] implicit=True ps="was protected by" sug=one of: protects, rescues / frees, aids
+   Q: Through the Dawn Age it was protected by the Waertagi, who were staunch allies.
+[P5-A-B0132-008] S=['ISLE OF BRITHOS'] P=teaches O=['GOD LEARNERS'] implicit=True ps="taught their knowledge to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: In the Imperial Age it was a member of the Middle Sea Alliance and taught their knowledge to many of the God Learners but did not become God Learners themselves.
+[P5-A-B0132-009] S=['ISLE OF BRITHOS'] P=is member of O=['MIDDLE SEA ALLIANCE'] implicit=True ps="was a member of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: In the Imperial Age it was a member of the Middle Sea Alliance
+[P5-A-B0132-010] S=['ZZABUR'] P=manifests O=['THE CLOSING'] implicit=False ps="unleashed" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: At the end of the Imperial Age Zzabur unleashed the Closing, perhaps to destroy the God Learners or the Waertagi and perhaps to protect his people.
+[P5-A-B0132-011] S=['DORMAL'] P=reveals O=['THE OCEANS'] implicit=False ps="opened" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: A generation ago the great sailor Dormal opened the Oceans.
+[P5-A-B0132-012] S=['CREATION'] P=comes into being O=[] MOD={"at_the_instigation_of": ["INVISIBLE GOD"]} implicit=True ps="initiated" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: God initiated the First Action which was Creation
+[P5-A-B0132-013] S=['MALKION'] P=is identified as O=['THE MIND OF GOD'] implicit=False ps="The Mind of God, called Malkion the Prophet" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Mind of God, called Malkion the Prophet, walked among men
+[P5-A-B0132-014] S=['VADEL', 'HIS PEOPLE'] P=travels O=[] MOD={"in_on_at": "THE UNLAWFUL REALMS"} implicit=False ps="explored" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Vadel and his people explored the Unlawful Realms and brought Death upon us.
+[P5-A-B0132-015] S=['VADEL', 'HIS PEOPLE'] P=reveals O=['DEATH'] IO=['THE TRUE PEOPLE'] implicit=True ps="brought Death upon" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Vadel and his people explored the Unlawful Realms and brought Death upon us.
+[P5-A-B0132-016] S=['VALIND'] P=fights O=['THE TRUE PEOPLE'] MOD={"using": "THE GREAT ICE", "purpose_clause": "to grind our cities into pulp"} implicit=True ps="sent the Great Ice against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Valind sent the Great Ice against us to grind our cities into pulp.
+[P5-A-B0132-017] S=['MALKION'] P=protects O=['THE TRUE PEOPLE'] implicit=False ps="tried to save" sug=one of: protects, rescues / frees, aids
+   Q: Old Malkion tried to save the True People by re-establishing contact with God
+[P5-A-B0132-018] S=['ZZABUR'] P=departs from O=['MALKION'] implicit=False ps="betrayed" sug=betrays
+   Q: But Zzabur, infected by the Great Error, succumbed to Pride and betrayed Malkion in his hour of need.
+[P5-A-B0132-019] S=['MALKION', 'HIS SUPPORTERS'] P=descends into O=['NOTHINGNESS'] implicit=False ps="were blasted into nothingness" sug=dies
+   Q: Malkion and his supporters were blasted into nothingness
+[P5-A-B0132-020] S=['MALKION'] P=sacrifices O=['MALKION'] implicit=False ps="selfless sacrifice" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Malkion's selfless sacrifice integrated his essence into the cosmos and redeemed it.
+[P5-A-B0132-021] S=['MALKION'] P=reveals O=['SOLACE'] IO=['HUMANS'] implicit=False ps="made known to" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Malkion made Solace, the place of Eternal Truth, known to humans.
+[P5-A-B0132-022] S=['ZZABUR'] P=enchants O=['THE SUN'] MOD={"using": "GREAT SPELL", "purpose_clause": "to make the Sun reappear"} implicit=False ps="cast his Great Spell to make the Sun reappear" sug=one of: crafts, summons / invokes, tricks, seduces, curses, imbues
+   Q: Even Zzabur was moved enough to cast his Great Spell to make the Sun reappear after being unseen for so many centuries [0 ST].
+[P5-A-B0132-023] S=['INVISIBLE GOD'] P=reveals O=['THE SECRETS OF JOY'] IO=['HRESTOL'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="revealed to" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: To confound him, the Invisible God revealed to Hrestol the secrets of Joy that made the simplest souls see through Zzabur's hollow sophistries [1 ST].
+[P5-A-B0132-024] S=['HRESTOL'] P=establishes cult O=['THE FIRST KNIGHTS'] implicit=False ps="make the first knights" sug=conceives
+   Q: Hrestol did many great things such as make the first knights
+[P5-A-B0132-025] S=['ZZABUR'] P=kills O=['HRESTOL'] implicit=True ps="had him martyred" sug=one of: kills, shatters, dies
+   Q: before Zzabur had him martyred out of sheer spite [33 ST].
+[P5-A-B0132-026] S=['MALKIONI WIZARDS'] P=binds O=['EHILM'] MOD={"in_on_at": "THE SKY", "purpose_clause": "to prove to the pagans the power of the Invisible God"} implicit=True ps="stopped" sug=binds
+   Q: our wizards stopped Ehilm in the Sky to prove to the pagans the power of the Invisible God
+[P5-A-B0132-027] S=['GBAJI'] P=comes into being O=[] MOD={"at_the_instigation_of": ["THE FALSE GODS"], "purpose_clause": "to spread evil lies to destroy our faith in God"} implicit=False ps="made a new god" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The False Gods then made a new god, Gbaji, to spread evil lies to destroy our faith in God [375 ST].
+[P5-A-B0132-028] S=['ARKAT'] P=reveals O=['THE LIES OF GBAJI'] implicit=True ps="was the first to reveal" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: Arkat was the first to reveal these lies [400 ST]
+[P5-A-B0132-029] S=['ARKAT'] P=alters mythic station O=[] implicit=True ps="fell into error and damned himself" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: before he fell into error and damned himself [427 ST].
+[P5-A-B0132-030] S=['GERLANT', 'TALOR'] P=defeats O=['GBAJI'] implicit=False ps="cleansed the world of Gbaji's presence" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Only his former comrades, Gerlant and Talor, persevered and finally cleansed the world of Gbaji's presence [450 ST].
+[P5-A-B0132-031] S=['THE ABIDING BOOK'] P=comes into being O=[] implicit=False ps="wrote itself" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The crisis was resolved when the Abiding Book wrote itself before a group of witnesses [646 ST].
+[P5-A-B0132-032] S=['THE ABIDING BOOK'] P=is born from O=['INVISIBLE GOD'] implicit=True ps="had been written by" sug=is born from
+   Q: Scholars and philosophers proved it had been written by the Invisible God
+[P5-A-B0132-033] S=['SCHOLARS AND PHILOSOPHERS'] P=establishes cult O=['ABSOLUTE MONOTHEISM'] implicit=True ps="founded a new religion of" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: They founded a new religion of absolute Monotheism and vowed to spread their faith to the whole world.
+[P5-A-B0132-034] S=['MANY WIZARDS'] P=establishes cult O=['GOD LEARNERS'] implicit=True ps="founded a movement" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: They founded a movement which is called the God Learners
+[P5-A-B0132-035] S=['GOD LEARNERS'] P=defeats O=['WAERTAGI'] MOD={"using": "BURNING WATER"} implicit=True ps="destroyed" sug=shatters
+   Q: the God Learners destroyed them by making the water burn [718 ST].
+[P5-A-B0132-036] S=['GOD LEARNERS'] P=protects O=['STYGIAN EMPIRE'] MOD={"from": "ARKAT"} implicit=True ps="freed from Arkat's lies" sug=rescues / frees
+   Q: even freed the Stygian Empire from Arkat's lies [740 ST].
+[P5-A-B0132-037] S=['THE MISSIONARIES'] P=transforms into O=['EVIL DRAGONS'] implicit=False ps="mutated themselves to be" sug=transforms into
+   Q: the missionaries apostatized afterwards, mutated themselves to be evil dragons
+[P5-A-B0132-038] S=['SVAGARD'] P=rules O=['MIDDLE SEA EMPIRE'] implicit=False ps="made an Empire; united into" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: King Svagard made an Empire. || He united the Jrusteli, the Loskalmi, the Umathelans and his own Seshnegi into the Middle Sea Empire [789 ST].
+[P5-A-B0132-039] S=['INVISIBLE GOD'] P=alters mythic station O=['GOD LEARNERS'] MOD={"purpose_clause": "TO PUNISH"} implicit=True ps="gave over to their enemies" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: To punish the heretics God then gave the God Learners over to their enemies.
+[P5-A-B0132-040] S=['WAERTAGI'] P=fights O=['GOD LEARNERS'] implicit=True ps="ravaged their coasts" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Waertagi reappeared and ravaged their coasts.
+[P5-A-B0132-041] S=['ZZABUR'] P=manifests O=['THE CLOSING'] implicit=False ps="cast" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Zzabur cast the Closing, a magical spell that wiped the sea clear of all ships [929 ST]
+[P5-A-B0132-042] S=['THE FALSE GODS'] P=fights O=['JRUSTELA'] implicit=False ps="drowned" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The False Gods drowned much of Jrustela [940 ST]
+[P5-A-B0132-043] S=['LUATHA'] P=defeats O=['SESHNELA'] implicit=False ps="destroyed" sug=shatters
+   Q: finally the Luatha destroyed Seshnela [1049 ST].
+[P5-A-B0132-044] S=['INVISIBLE GOD'] P=reveals O=['THE CORRUPTION OF THE GOD LEARNERS'] IO=['ROKAR'] MOD={"in_on_at": "TANISOR"} implicit=True ps="appeared to and showed him" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: At last God appeared to Rokar, a cleric in the land of Tanisor, and showed him the corruption that had plagued the God Learners.
+[P5-A-B0132-045] S=['ROKAR'] P=teaches O=[] implicit=False ps="spread his word" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Rokar spread his word but was martyred for his teachings [1349 ST].
+[P5-A-B0132-046] S=['BAILIFES THE HAMMER'] P=rules O=['SESHNELA'] implicit=False ps="was crowned King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: in Tanisor Bailifes the Hammer was crowned King of Seshnela [1412 ST]
+[P5-A-B0132-047] S=['VIKARD OF THE TOURNEYS'] P=claims ancestry O=['ULIANUS THE GREAT'] implicit=False ps="his great-grandson" sug=claims ancestry
+   Q: King Ulianus the Great even spread them into Safelster [c. 1455 ST], although his great-grandson, Vikard of the Tourneys squandered his inheritance [1511 ST].
+[P5-A-B0132-048] S=['SNODAL'] P=travels O=[] MOD={"to": "THE LAND OF THE ALTINAE"} implicit=False ps="came to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Prince Snodal of Loskalm, in the wars against Black Hralf, came to the land of the Altinae [1443 ST].
+[P5-A-B0132-049] S=['SNODAL'] P=discovers O=['MAP OF THE FUTURE'] MOD={"in_on_at": "THE LAND OF THE ALTINAE"} implicit=True ps="discovered" sug=discovers
+   Q: There he discovered a map of the Future detailing Zzabur's revenge on Loskalm.
+[P5-A-B0132-050] S=['SNODAL'] P=kills O=['BLACK HRALF'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: After he killed Black Hralf
+[P5-A-B0132-051] S=['SNODAL'] P=fights O=['GOD OF SILVER FEET'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="formed a magical conspiracy to kill" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Snodal formed a magical conspiracy to kill the God of Silver Feet so that Zzabur's plot was foiled.
+[P5-A-B0132-052] S=['DORMAL'] P=is member of O=['MALKIONI'] implicit=False ps="a pious Malkioni of Esrolia" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Dormal the Sailor, a pious Malkioni of Esrolia, took it upon himself to defeat the Closing.
+[P5-A-B0132-053] S=['THE OPENING'] P=comes into being O=[] MOD={"at_the_instigation_of": ["DORMAL"]} implicit=True ps="created a spell called" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: He created a spell called the Opening that allowed boats to sail upon the open seas for the first time in four centuries [1580 ST].
+[P5-A-B0132-054] S=['DORMAL'] P=travels O=[] MOD={"to": ["NOLOS", "LOSKALM"]} implicit=True ps="sailed to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He sailed to Nolos [1581 ST] and Loskalm [1582 ST] and taught people of the Opening there.
+[P5-A-B0132-055] S=['DORMAL'] P=teaches O=['THE OPENING'] MOD={"in_on_at": ["NOLOS", "LOSKALM"]} implicit=True ps="taught people of" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He sailed to Nolos [1581 ST] and Loskalm [1582 ST] and taught people of the Opening there.
+[P5-A-B0132-056] S=['INVISIBLE GOD'] P=is identified as O=['THE CREATOR OF THE WORLD'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Invisible God is Infinite and Perfect, the Creator of the world, a transcendent and ultimate power.
+[P5-A-B0132-057] S=['THE WORLD OF HUMANS'] P=comes into being O=[] MOD={"at_the_instigation_of": ["INVISIBLE GOD"]} implicit=True ps="was created by" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The world of humans was created by God
+[P5-A-B0132-058] S=['INVISIBLE GOD'] P=bestows magic / gifts O=['THE HUMAN MIND'] IO=['PEOPLE'] MOD={"purpose_clause": "to give them access to Him"} implicit=True ps="is God's gift to people" sug=one of: bestows, heals, imbues, teaches
+   Q: Malkion the Great Prophet taught that the human mind is God's gift to people to give them access to Him.
+[P5-A-B0132-059] S=['MALKION'] P=teaches O=['THE FIRST PHILOSOPHY'] implicit=False ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Malkion taught the first Philosophy.
+[P5-A-B0133-001] S=['MAKER'] P=bestows magic / gifts O=['WILL'] IO=['HUMANS'] implicit=False ps="have a unique gift from" sug=one of: bestows, heals, imbues, teaches
+   Q: Humans have a unique gift from their Maker which is Will.
+[P5-A-B0133-002] S=['FAITHFUL MALKIONI COMMONER'] P=travels O=[] MOD={"to": "HEAVEN"} implicit=False ps="dies he goes to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When a faithful Malkioni commoner dies he goes to Heaven, the perfect paradise of the Invisible God.
+[P5-A-B0133-003] S=['SOLACE'] P=is alternative name for O=['HEAVEN'] implicit=False ps="is called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Philosophers and wise people know Heaven is called Solace.
+[P5-A-B0133-004] S=['MALKION'] P=teaches O=['EARLIEST HUMANS'] implicit=False ps="taught them how to venerate the Invisible God" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Malkionism is based on the teachings of Malkion, a great being who existed among the earliest humans and taught them how to venerate the Invisible God.
+[P5-A-B0133-005] S=['MALKION'] P=sacrifices O=['MALKION'] implicit=False ps="opened the way to Solace with his self-sacrifice" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Malkion guided them through many troubles, and opened the way to Solace with his self-sacrifice.
+[P5-A-B0133-006] S=['ABIDING BOOK'] P=comes into being O=[] implicit=False ps="created itself" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The last time everyone spoke to God with one voice was when the Abiding Book created itself.
+[P5-A-B0133-007] S=['SELETIR'] P=binds O=['GATE OF BANIR'] MOD={"using": "SPELLS AND PRAYERS"} implicit=False ps="closed it with spells and prayers" sug=binds
+   Q: In the God War the Gate of Banir was practically an open hole into the demon realm called Sorang until Saint Seletir closed it with spells and prayers.
+[P5-A-B0133-008] S=['ORDER OF SELETIR'] P=binds O=['GATE OF BANIR'] implicit=True ps="has always forced it closed again" sug=binds
+   Q: It has leaked since that time, though the Order of Seletir has always forced it closed again.
+[P5-A-B0133-009] S=['MALKION'] P=comes into being O=[] MOD={"at_the_instigation_of": ["GOD"]} implicit=False ps="created by God" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Malkion was the First Prophet, a superhuman being created by God to bless and oversee the world, and who is still active in the lives of humanity.
+[P5-A-B0133-010] S=['MALKION'] P=is identified as O=['FIRST PROPHET'] implicit=False ps="was the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Malkion was the First Prophet
+[P5-A-B0133-011] S=['MALKION'] P=bestows magic / gifts O=['HRESTOL'] implicit=False ps="touched" sug=one of: bestows, heals, imbues, teaches
+   Q: Malkion touched Saint Hrestol to know and teach about Joy
+[P5-A-B0133-012] S=['MALKION'] P=is identified as O=['FIRST PROPHET'] implicit=False ps="was the" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Rokari Church believes that Malkion was the First Prophet and a very extraordinary man.
+[P5-A-B0133-013] S=['MALKION'] P=teaches O=['HUMANITY'] implicit=True ps="His teachings unified humanity" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: His teachings unified humanity in the earliest times but were fragmented afterwards.
+[P5-A-B0133-014] S=['ROKAR'] P=alters mythic station O=['HRESTOL'] implicit=False ps="denied the prophet status of / demoted" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Saint Rokar denied the prophet status of Hrestol, whom he demoted to being just an adept who made some clever but flawed spells.
+[P5-A-B0133-015] S=['ROKAR'] P=teaches O=["ROKAR'S PEOPLE"] implicit=False ps="proved to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Rokar proved to his people that Malkion taught that Heaven was only Solace
+[P5-A-B0133-016] S=['SACRED ONES'] P=is alternative name for O=['SAINTS'] implicit=False ps="Saints, the Sacred Ones" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: These people are Saints, the Sacred Ones.
+[P5-A-B0133-017] S=['SAINTS'] P=serves O=['INVISIBLE GOD'] implicit=True ps="have helped the cause of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Numerous individuals have helped the cause of the Invisible God in the world.
+[P5-A-B0133-018] S=['GERLANT'] P=defeats O=['GBAJI'] implicit=False ps="destroyed" sug=shatters
+   Q: Gerlant the Flame King is the famous warrior king who destroyed Gbaji.
+[P5-A-B0133-019] S=['THE FLAME KING'] P=is alternative name for O=['GERLANT'] implicit=False ps="Gerlant the Flame King" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Gerlant the Flame King
+[P5-A-B0133-020] S=['GERLANT'] P=departs from O=['ARKAT'] implicit=False ps="chose his people over his friend" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: when Arkat betrayed Malkioni principles, Gerlant chose his people over his friend
+[P5-A-B0133-021] S=['LAUGHING WARRIOR'] P=is alternative name for O=['TALOR'] implicit=False ps="is the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Saint Talor is the Laughing Warrior
+[P5-A-B0133-022] S=['TALOR'] P=defeats O=['THE DECEIVER'] MOD={"in_on_at": "FRONELA"} implicit=False ps="cleared Fronela of" sug=exiles / banishes
+   Q: Saint Talor is the Laughing Warrior who cleared Fronela of the Deceiver
+[P5-A-B0133-023] S=['ARKAT', 'GERLANT'] P=defeats O=['THE DECEIVER'] MOD={"in_on_at": "THE SOUTH"} implicit=True ps="had cleansed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: just as Arkat and Gerlant had cleansed the South.
+[P5-A-B0133-024] S=['TALOR'] P=protects O=['FRONELA'] MOD={"with_the_aid_of": ["JOY"]} implicit=True ps="was able to save" sug=one of: protects, rescues / frees, aids
+   Q: It was through this grace alone that he was able to save Fronela and preserved that which he loved.
+[P5-A-B0133-025] S=['ONOKOS'] P=teaches O=['MEN'] implicit=False ps="showed men how to protect themselves" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Saint Onokos showed men how to protect themselves against foreign corruption.
+[P5-A-B0133-026] S=['HRESTOL'] P=is child of O=['XEMELA'] implicit=False ps="Hrestol's mother" sug=is child of
+   Q: Saint Xemela, Hrestol's mother,
+[P5-A-B0133-027] S=['XEMELA'] P=sacrifices O=['XEMELA'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="sacrificed her life and soul" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: sacrificed her life and soul to save her people from the terrible Black Swelling.
+[P5-A-B0133-028] S=['HRESTOL'] P=bestows magic / gifts O=['XEMELA'] implicit=True ps="redeemed her soul" sug=one of: bestows, heals, imbues, teaches
+   Q: Hrestol redeemed her soul to allow her to attain Joy
+[P5-A-B0133-029] S=['XEMELA'] P=alters mythic station O=[] implicit=True ps="obtained Sainthood" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: which she returned to Humankind and obtained Sainthood.
+[P5-A-B0133-030] S=['XEMELA'] P=bestows magic / gifts O=['JOY'] IO=['HUMANKIND'] implicit=True ps="returned to Humankind" sug=one of: bestows, heals, imbues, teaches
+   Q: which she returned to Humankind
+[P5-A-B0133-031] S=['WAERTAGI'] P=is child of O=['WAERTAG'] implicit=False ps="was the father of" sug=is child of
+   Q: Saint Waertag was the father of the sea-going Waertagi that dominated the Oceans in the Dawn Age.
+[P5-A-B0133-032] S=['ARKAT'] P=establishes cult O=['STYGIANISM'] implicit=False ps="began a religion" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Stygianism. Arkat the Great began a religion that combined Malkioni veneration with sacrifices made to false gods
+[P5-A-B0133-033] S=['STYGIAN EMPIRE'] P=is alternative name for O=['AUTARCHY'] implicit=False ps="known to its foes as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: A thousand years ago Safelster was the center of the Autarchy, known to its foes as the Stygian Empire.
+[P5-A-B0133-034] S=['SESHNEGI'] P=defeats O=['AUTARCHY'] MOD={"with_the_aid_of": ["GOD LEARNERS"]} implicit=False ps="destroyed" sug=shatters
+   Q: The Seshnegi destroyed the Autarchy with the help of the God Learners
+[P5-A-B0133-035] S=['TALOR'] P=bestows geas O=['HSUNCHEN WOLF-PEOPLE'] implicit=False ps="cursed" sug=curses
+   Q: The Telmori are the largest remnant of the once-proud hsunchen wolf-people who were cursed twelve centuries ago by Talor the Laughing Warrior.
+[P5-A-B0133-036] S=['LAUGHING WARRIOR'] P=is alternative name for O=['TALOR'] implicit=False ps="Talor the Laughing Warrior" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Talor the Laughing Warrior
+[P5-A-B0133-037] S=['TELMORI'] P=transforms into O=['WOLVES'] MOD={"at_the_instigation_of": ["TALOR"]} implicit=True ps="turns them into wolves" sug=transforms into
+   Q: His curse still turns them into wolves for one day out of every seven.
+[P5-A-B0133-038] S=['ARKAT'] P=shatters O=['KARIA'] implicit=False ps="scoured" sug=shatters
+   Q: Karia was scoured by Arkat and since has remain unpeopled.
+[P5-A-B0133-039] S=['HIGH PRIESTESS OF LOW DELIGHT'] P=is alternative name for O=['ERENGAZOR'] implicit=False ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Led by Erengazor, an archon also called the High Priestess of Low Delight
+[P5-A-B0133-040] S=['ERENGAZOR'] P=rules O=['PROVEN APPEARANCE OF ARKAT MOVEMENT'] implicit=False ps="Led by" sug=leads
+   Q: The Proven Appearance of Arkat movement started in Tortun. || Led by Erengazor
+[P5-A-B0133-041] S=['REINARD DE FAUCILLE'] P=rules O=['ZORAKARKAT'] implicit=False ps="became Grandmaster of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Reinard de Faucille, Archon of Naskorion, became Grandmaster of Zorakarkat.
+[P5-A-B0133-042] S=['GBAJI'] P=steals O=['FIFTY FISHES'] implicit=False ps="stealing" sug=steals
+   Q: Gbaji ruined this friendship by stealing the Fifty Fishes and forcing the Helbyans to hunt and farm instead.
+[P5-A-B0133-043] S=['SANDRYA TRIBE'] P=serves O=['LION'] implicit=True ps="Lion worshippers" sug=is worshipped by
+   Q: They are hsunchen Lion worshippers
+[P5-A-B0133-044] S=['SANDRYA TRIBE'] P=serves O=['ARCHON OF ESTALI'] implicit=True ps="hiring themselves as mercenaries for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: hiring themselves as mercenaries for the Archon of Estali.
+[P5-A-B0133-045] S=['TANISOR'] P=kills O=['COUNT OF THE DANGIM MARCH'] implicit=False ps="slew its count" sug=one of: kills, shatters, dies
+   Q: When Tanisor conquered the Dangim March and slew its count the League collapsed immediately.
+[P5-A-B0134-001] S=['GALANIN'] P=comes into being O=[] MOD={"in_on_at": "GALIN"} implicit=False ps="Galin was the birthplace of" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Galin was the birthplace of the Horse God, Galanin, whose people ruled Safelster during the Dawn Age.
+[P5-A-B0134-002] S=['GALANIN'] P=is identified as O=['HORSE GOD'] implicit=False ps="the Horse God," sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Horse God, Galanin
+[P5-A-B0134-003] S=['PEOPLE OF GALANIN'] P=rules O=['SAFELSTER'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Galanin, whose people ruled Safelster during the Dawn Age.
+[P5-A-B0134-004] S=['ARGIN TERROR'] P=serves O=['ARKAT'] implicit=False ps="a devotee of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: It is the seat of Argin Terror, a devotee of Arkat the Krjalki
+[P5-A-B0134-005] S=['JANUS DE CHEVALIER'] P=marries O=['COUNTESS OF GALIN'] implicit=False ps="wooed and won the hand of" sug=is spouse of (qual=wedding)
+   Q: Janus de Chevalier, King of the Tournament, recently wooed and won the hand of the widowed Countess of Galin.
+[P5-A-B0134-006] S=['BORISTI'] P=manifests O=['CHAOTIC MONSTROSITIES'] implicit=False ps="manifest it outside their bodies, creating" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The Boristi do not turn the Tapped chaos into energy for their spells, but manifest it outside their bodies, creating chaotic monstrosities.
+[P5-A-B0134-007] S=['BORISTI'] P=binds O=['CHAOTIC MONSTROSITIES'] implicit=True ps="are able to control" sug=binds
+   Q: By virtue of their shriving, they are able to control these obscene blasphemies and make them do their bidding.
+[P5-A-B0134-008] S=['AUTARCHY', 'GOD LEARNERS'] P=fights O=['BORISTI'] implicit=True ps="persecuted" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: many, including both the ancient Autarchy and their foes, the God Learners, persecuted them root and branch down through the centuries.
+[P5-A-B0134-009] S=['THE NONHERETIC'] P=is alternative name for O=['ARCHBISHOP SURANTYR'] implicit=False ps="got his name" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Archbishop Surantyr is a churchman who got his name, the Nonheretic, from his recent activities of defining and organizing a new church.
+[P5-A-B0134-010] S=['ARCHBISHOP SURANTYR'] P=defeats O=['RULERS OF VALANTIA'] implicit=True ps="overthrew" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He rallied local leaders of Otkorion, gained other support and overthrew the rulers of Valantia who supported the terrible Galvosti heretics.
+[P5-A-B0134-011] S=['ARCHBISHOP SURANTYR'] P=fights O=['GALVOSTI'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="learned magic to protect people from" sug=challenges
+   Q: As head of the Archbishopric of Otkorion he learned magic to protect people from the vile Galvosti heresy.
+[P5-A-B0134-012] S=['FAITH OF THE BARBARIANS'] P=is conflated with O=['INVISIBLE GOD'] MOD={"at_the_instigation_of": ["HENOTHEIST CHURCH"]} implicit=False ps="integrated the faith of the barbarians into" sug=one of: is identified as, is worshipped by, is part of
+   Q: The state church is now the Henotheist Church, which has successfully integrated the faith of the barbarians into that of the Invisible God.
+[P5-A-B0134-013] S=['ARKAT'] P=serves O=['KING OF SESHNELA'] implicit=False ps="serving" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Arkat was first a noble fighter, serving the King of Seshnela and setting that land free of chaos.
+[P5-A-B0134-014] S=['ARKAT'] P=protects O=['SESHNELA'] implicit=False ps="setting that land free of chaos" sug=one of: protects, rescues / frees, aids
+   Q: Arkat was first a noble fighter, serving the King of Seshnela and setting that land free of chaos.
+[P5-A-B0134-015] S=['ORDER OF SAINT ARKAT THE LIBERATOR'] P=serves O=['ARKAT'] MOD={"in_on_at": "AZILOS"} implicit=False ps="is venerated by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: In this form he is venerated by the Order of Saint Arkat the Liberator in Azilos.
+[P5-A-B0134-016] S=['ARKAT'] P=descends into O=['DEATH'] implicit=True ps="was martyred and chopped into three parts" sug=one of: descends into, dies
+   Q: Arkat was martyred and chopped into three parts, then these portions were nailed onto the three parts of a Y-shaped scaffold that was stuck into the ground.
+[P5-A-B0134-017] S=['ARKAT'] P=resurrects O=[] MOD={"with_the_aid_of": ["HARMAST BAREFOOT"]} implicit=True ps="returned to life" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Despite this, he returned to life with the aid of Harmast Barefoot and overcame all his foes.
+[P5-A-B0134-018] S=['ARKAT'] P=defeats O=['FOES OF ARKAT'] implicit=True ps="overcame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: he returned to life with the aid of Harmast Barefoot and overcame all his foes.
+[P5-A-B0134-019] S=['WORLD OF LOSERS MOVEMENT'] P=serves O=['ARKAT'] implicit=True ps="is venerated by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: This gruesome form is venerated by the World of Losers Movement.
+[P5-A-B0134-020] S=['ARKAT'] P=transforms into O=['UZ'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="became an uz" sug=transforms into
+   Q: Arkat became an uz to fight against his chaos foe, and finally destroyed the evil foe.
+[P5-A-B0134-021] S=['ARKAT'] P=defeats O=['CHAOS FOE OF ARKAT'] implicit=False ps="destroyed" sug=shatters
+   Q: Arkat became an uz to fight against his chaos foe, and finally destroyed the evil foe.
+[P5-A-B0134-022] S=['ARKAT LITOR'] P=is alternative name for O=['ARKAT'] implicit=False ps="As Arkat Litor" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: As Arkat Litor, the Great Troll Demigod, uz in Guhan sacrifice to him.
+[P5-A-B0134-023] S=['UZ'] P=sacrifices O=[] IO=['ARKAT LITOR'] MOD={"in_on_at": "GUHAN"} implicit=False ps="sacrifice to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: As Arkat Litor, the Great Troll Demigod, uz in Guhan sacrifice to him.
+[P5-A-B0134-024] S=['ARKAT'] P=rules O=['PEOPLES OF RALIOS'] implicit=False ps="benevolently oversaw" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: After he retired from the wars Arkat benevolently oversaw the many peoples of Ralios, keeping them in peace and plenty for his entire life.
+[P5-A-B0134-025] S=['RULING HOUSES OF THE RALIOS CITY-STATES'] P=claims ancestry O=['ARKAT'] implicit=False ps="is venerated as the ancestor of" sug=claims ancestry
+   Q: In such form Great Arkat is venerated as the ancestor of several ruling houses among the Ralios city-states, including Tortun, Azilos and Syran.
+[P5-A-B0134-026] S=['ARKAT GBAJI', 'ARKAT THE DECEIVER'] P=is alternative name for O=['ARKAT'] MOD={"in_on_at": "THE WEST"} implicit=False ps="demonizing him as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: In the West this has taken the form of demonizing him as Arkat Gbaji, or Arkat the Deceiver.
+[P5-A-B0134-027] S=['GUILD OF CHAOS MONKS'] P=serves O=['ARKAT'] implicit=False ps="venerates" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Guild of Chaos Monks venerates Arkat the Son of the Devil, acquiring vile sorcerous spells from him.
+[P5-A-B0134-028] S=['ARKAT'] P=bestows magic / gifts O=['SORCEROUS SPELLS'] IO=['GUILD OF CHAOS MONKS'] implicit=False ps="acquiring vile sorcerous spells from" sug=one of: bestows, heals, imbues, teaches
+   Q: The Guild of Chaos Monks venerates Arkat the Son of the Devil, acquiring vile sorcerous spells from him.
+[P5-A-B0134-029] S=['ARKAT'] P=is child of O=['THE DEVIL'] implicit=False ps="the Son of" sug=is child of
+   Q: Arkat the Son of the Devil
+[P5-A-B0134-030] S=['BABADI', 'DWARVES', 'UNDERGROUND MEN'] P=is alternative name for O=['MOSTALI'] implicit=False ps="Also known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Mostali, the dwarves || Also known as: Babadi (Kralori ), Dwarves (Malkioni ), and Underground Men (Pelorian)
+[P5-A-B0134-031] S=['EIGHT ANCIENT MINERALS', 'MOSTALI'] P=is born from O=['MACHINE'] MOD={"in_accordance_with": ["PLAN"]} implicit=False ps="made" sug=is born from
+   Q: The Machine fulfilled the Plan and made the eight ancient minerals and the Mostali to maintain itself.
+[P5-A-B0134-032] S=['UMATH'] P=is identified as O=['FLAW'] implicit=False ps="the flaw was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: But a component became flawed, and the flaw was Umath.

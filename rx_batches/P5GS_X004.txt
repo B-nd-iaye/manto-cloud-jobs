@@ -1,0 +1,135 @@
+### WOD-GS:00428 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Hurfor and the Starlight Tribe
+FIGURES: KARGZANT
+TEXT: But then one of their clans, called the Brighteyes, came under the warmth of the Gold Wheel. [Gold Wheel. A nickname for their god, who is Kargzant.] They found that to be very pleasing, and their leader plucked a Kanar flower [Kanar flower. A sign of peace.] and bore it to Hurfor. For a share of the warmth, they promised to aid Hurfor and his Ancestor Tribe. The Brighteyes returned to their camp, and after they were in their tents they packed their goods. After everyone was asleep, they set fire to everything and fled. The Kalrius did not know how to put out a fire, and it spread madly until everything that was flammable was burnt. The fire was so huge that it melted all the ice. The ice flowed to become the Lake of Death. [Lake of Death. A mythical place, being the watery connection between the world of Life and Unstevos, the Land of Death. But modernly this is also associated to be the Elf Sea.] The water covered all of Unstevos, and then overflowed its banks. Hurfor and the people followed the fleeing water, until they came to a place where it was dry, where they set up camp.
+TARGETS: sleeps / wakes
+
+### WOD-GS:00429 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Hurfor and the Starlight Tribe
+FIGURES: KARGZANT
+TEXT: The people called their new land Andarkon, and they called themselves the Starlight Tribe. Hurfor was their leader. Andarkon was a good place to live. They worshiped the god Kargzant, because he was brave and the brightest god in the sky. He hovered over them the elders, shining and giving blessings to all. When the people were attacked without warning by Peng and Fung, the Monster Twins, Kargzant then drove off with his light alone. The folk recognized his strength, and they fell down and worshipped Kargzant. When Kargzant spoke he divided the people into three types, the herds into three types, and the generations into three types. Afterwards it was the task of the priests to keep away the demons, and of the people to keep the goats healthy.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00430 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Kuranits and the Kuranits Tribe
+FIGURES: KARGZANT
+TEXT: The peaceful land of Andarkon became too crowded for the people to live in. Kargzant told the people that some would have to move to survive. He told them that "As the Ancient Tribe traveled here to become the Starlight Tribe, so must you travel again too to become the four tribes."
+TARGETS: speaks / prophesies
+
+### WOD-GS:00434 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Kuranits and the Kuranits Tribe
+FIGURES: (none registered)
+TEXT: The next great dilemma was the Vakkos. Kuranits hated the Sky Hunger. It was a huge metal bird which ate people. It swept down upon the people as they travelled along the river. Kuranits went and found the tall tree which held its nest. He climbed it and hid there until it returned, whereupon Kuranits slew the monster bird with a thrust from below. Afterwards Kuranits always decorated his clothing with its bright feathers. So covered, he could not be harmed by enemy weapons.
+TARGETS: hates / fears
+
+### WOD-GS:00437 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Targos and the Targos Tribe
+FIGURES: KARGZANT
+TEXT: The West Tribe selected Targos, a son of Kargzant, to be their chief. They followed the great river until they passed the Ventes Stone. After more travel they came to a wide land which was inhabited only by the Eferventes, [Eferventes. Literally, "Beyond the Ventes (rock)."] a reindeer-herding folk. These inferior folks were enslaved by Targos, and his people settled in good pastures. The land was named Targosland after him [later renamed Esvuthil], and they were called the Targos Tribe.
+TARGETS: dwells at
+
+### WOD-GS:00438 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Targos and the Targos Tribe
+FIGURES: (none registered)
+TEXT: At first the lands of the Targos Tribe were fertile, but while they were living here the worst thing occurred. The Evil Lord came into the sky, and blotted out all which was bright. He seized all women and threatened to destroy them unless the men did as he said. He took away [nearly] all the horses. The Dweller Beneath took away all the food animals. The Evil God ordered people to eat each other rather than starve. Some men called the Efertargos [Efertargos. Literally "Beyond Targos."] took to hunting down the Eferventes, who were half beasts and thus half edible.
+TARGETS: dwells at
+
+### WOD-GS:00439 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Hestus, son of Hurfor
+FIGURES: (none registered)
+TEXT: Hestus, the son of Hurfor, was the one who broke the many terrible curses upon the land and people. He cut himself with fierce determination, and planted magic rocks in the wounds. He called an ancient demon forth, who taught him to paint himself to detect detection and injury. He prayed to his gods, and then crept into the enemy lair. There he freed the Reindeer Woman, and when he emerged there were many herds stampeding about the plains. The people caught a few, but still went hungry. Then Hestus son of Herfor searched the sky world until he found the Dog Star. He prayed to it, and led the people in worship, until they got help from Dog. Dog could not kill the beasts, but he frightened them into the spears of the men. The men slew the deer, and shared the food with Dog. This way Hestus provided for his people.
+TARGETS: curses
+
+### WOD-GS:00440 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Hestus, son of Hurfor
+FIGURES: (none registered)
+TEXT: Almost all horses had been killed or died. There was little food for them anywhere. Hestus had one which he kept as a memento and link with his ancestors. He always treated it as a creature of honor and virtue. He said if it were a person, it would be his queen.
+TARGETS: dies
+
+### WOD-GS:00441 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Hestus, son of Hurfor
+FIGURES: (none registered)
+TEXT: One day the Dweller Beneath invited Hestus to a banquet, as all were invited eventually. Before he went Hestus prepared himself with a sacred rite. Hestus sacrificed his beloved horse to the god, spiking the meat with red pepper and dirt from Zurin. He threw them into the cauldron of the Evil God. The cooking vat broke when virtue entered it, and with it broke his power. Hurfor destroyed his foe and returned. After that the tribe called themselves the Hurfor.
+TARGETS: dwells at
+
+### WOD-GS:00442 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Lenshis and the Lenshis Tribe
+FIGURES: KARGZANT
+TEXT: The Hurfor tribe grew strong and conquered all the lands around them. They owned all the deer and people there. At last they were too crowded and recalled the methods of their ancestors. They prayed to Kargzant for instruction. They divided the people into groups.
+TARGETS: possesses / wields
+
+### WOD-GS:00443 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Lenshis and the Lenshis Tribe
+FIGURES: (none registered)
+TEXT: One tribe followed a chief named Lenshis. Lenshis could make fire start by staring at something. They went west and after passing the Urus Stone [Urus Stone. A very tall [75 yards above the ground] standing stone [now fallen.]] went on for many days. At last they entered Veturus Amari. The region was littered with vast abandoned ruins where the gods used to live. A beautiful river wound through the region, and there were many painted standing stones where ghosts and spirits could be awakened.
+TARGETS: sleeps / wakes
+
+### WOD-GS:00449 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Urstenum
+FIGURES: KARGZANT
+TEXT: Urstenum was a grandson of Lenshis. His father was Kardanum. He protected his people from all outside aggressors. He had many troubles with raiders from the east. The people were called the Kitargos ("not-Targos.") The Kitargos claimed that they could take any women to marry. When the eastern Lenshis complained that their sisters and daughters were being taken away King Urstenum was concerned. he went in person to the Kitargos king to confer. Instead of talk and a shared conflagration of baaves, Urstenum was attacked. However, the king had powerful guardians who warned him in time. His own men killed the ambushers instead. Then Urstenum gathered his warriors and attacked the Kitargos. They fought back, and because they had sold their souls to a demon they slew many. But Kargzant is stronger than demons, and proved it that day. The dog-heads were slain, and their skins are still displayed as trophies by the victors.
+TARGETS: speaks / prophesies; trades / exchanges
+
+### WOD-GS:00454 | WOD-GS | WOD-GS 22957 (Library of Londarios: Danmalastan (1999)) | Page Last updated: 2020-07-08 14:06:35
+FIGURES: EHILM, GOD LEARNERS, MALKION, TALAR, WORLATH, ZZABUR
+TEXT: DANMALASTAN is the name for the collective territory inhabited by the people created by Malkion. LAND OF LOGIC is the common name that was given to it by God Learners. The original inhabitants were the Rune Beings of the Third Action. They served the Creator to continue to make Danmalastan according to the cosmic laws. These original and archetypal beings included Talar, Zzabur, and others that remained true to Malkion, as well as those which later went wrong, such as Worlath and Ehilm. In earliest Danmalastan they had not yet erred.
+TARGETS: dwells at
+
+### WOD-GS:00455 | WOD-GS | WOD-GS 22957 (Library of Londarios: Danmalastan (1999)) | Page Last updated: 2020-07-08 14:06:35
+FIGURES: MALKION, TALAR, ZZABUR
+TEXT: Talar was given command of one segment of the world, around Malkion's own dwelling. Zzabur chose to live there, closer to his creator. As required by Law, the region was triangular in shape. One border was the long shoreline which lay upon the limitless sea. Opposite that was a large mountain that was called the Malkion's Pointer. "It is the area we know call the West. The long shore was the western edge of the earth lozenge, and the Pointer is the Spike."
+TARGETS: dwells at
+
+### WOD-GS:00459 | WOD-GS | WOD-GS 22957 (Library of Londarios: Danmalastan (1999)) | Waertag: The Pier
+FIGURES: WAERTAG
+TEXT: Waertag and his people loved the sea. He and his first family made The Pier, which jutted far out past the ends of the earth to reach into the endless sea. Waertag made the first boat and paddled up and down the coast with his children. Waertag also made the second boat, called the family boat. He made the third boat, which was called the far going, and the fourth boat, the War Boat, later on.
+TARGETS: loves / desires
+
+### WOD-GS:00465 | WOD-GS | WOD-GS 22957 (Library of Londarios: Danmalastan (1999)) | Kadenit: Concrete Reality
+FIGURES: (none registered)
+TEXT: The Kadeniti loved to build and make things. They had grandiose ideas. Kadenit started by splitting a rock to sharpen a stick, then making other tools with his people. Once the made a house. No house had ever been made before, and for a long time different people experimented by living in it for a while. They'd talk about it afterwards. They decided to make several houses, and a work shed too.
+TARGETS: loves / desires
+
+### WOD-GS:00466 | WOD-GS | WOD-GS 22957 (Library of Londarios: Danmalastan (1999)) | Kadenit: Concrete Reality
+FIGURES: (none registered)
+CONTEXT: The Kadeniti loved to build and make things. They had grandiose ideas. Kadenit started by splitting a rock to sharpen a stick, then making other tools with his people. Once the made a house. No house had ever been made before, and for a long time different people experimented by living in it for a while. They'd talk about it afterwards. They decided to make several houses, and a work shed too.
+TEXT: They went a way off, and they made their buildings. This was the first village. People came and lived in for a while, making new tools. They went another way off, and they made even more buildings, of larger types. This was the first town. It had a market place where people, even form the other tribes, came to visit and share their tribal information with others.
+TARGETS: dwells at
+
+### WOD-GS:00469 | WOD-GS | WOD-GS 22957 (Library of Londarios: Danmalastan (1999)) | Viymorn: Exploring the World
+FIGURES: MALKION
+TEXT: Viymorn loved exploring. He was observant and curious, and his children had the magic of exploration. His people were fast, and went quickly over the whole of Danmalastan before the other tribes had gone far outside the places where Malkion had made them. The Viymorn then helped the earliest tribes to explore their own lands. They were called the Scouts.
+TARGETS: loves / desires
+
+### WOD-GS:00482 | WOD-GS | WOD-GS 22958 (Library of Londarios: Deneskerva the Gre) | The Sister's Army
+FIGURES: GREAT SISTER, SHENG SELERIS
+TEXT: Nonetheless, the Great Sister wields vast power, and many events which seem strange are thought to be her doing. She was, they say, the flower where the Emperor hid from Sheng Seleris. Also, some say it was she who struck down Emperor Vinyargatha, after he had won his battle, his magical challenge, and his personal duel. It seems certain that she was the "demon horse" that distracted the Carmanian general Mardan in his march, and allowed the lunar garrison to reinforce Doblian.
+TARGETS: possesses / wields
+
+### WOD-GS:00484 | WOD-GS | WOD-GS 22958 (Library of Londarios: Deneskerva the Gre) | Great Sister and Merinita
+FIGURES: CERULLIA, LESILLA, VERITHURUSA
+TEXT: Before, when she was called Verithurusa, Lesilla had founded the land of Mernita, and thousands of her descendants lived in it. Mother Lesilla sat overhead, worshipped by her descendants add simultaneously appearing among them as Queen Cerullia. When the Great Flood destroyed the world, Lesilla drew her land upward, higher than the rushing waters.
+TARGETS: dwells at
+
+### WOD-GS:00485 | WOD-GS | WOD-GS 22958 (Library of Londarios: Deneskerva the Gre) | Great Sister and Merinita
+FIGURES: LESILLA, NATHA, RED GODDESS
+TEXT: Deneskerva was a daughter of Lesilla, who was loved by Lesilla above all others. Lesilla showed Deneskerva the invisible light of Sedenya the Turner that permeates the material world. When Deneskerva's own twin brother demanded that the people of Mernita reject Sedenya, Deneskerva was given her mother's mirror and taken to the God Caves in the care of Natha. Because of this, Deneskerva did not die but remained hidden until Our Goddess revealed her again.
+TARGETS: loves / desires
+
+### WOD-GS:00498 | WOD-GS | WOD-GS 1892 (Library of Londarios: Stellar FAQ (Dec 1) | Contents
+FIGURES: ARTIA, SHARGASH
+TEXT: The Southpath planets are Underworld beings in the sky rther than Sky beings who go to the Underworld. In Dara Happa, Shargash is the greatest war god of the Empire, whereas Artia is a little-known and greatly-feared demon of the underworld who haunts the sky. The only relation between them in Dara Happan mythology is that Artia was defeated by Shargash, and bound into her place in the sky. However, in Orlanthi mythology all three of these planets are enemy gods who were bound into the sky as punishment. All three continuously try to break free of their bonds, which is why the Southpath planets appear to move so erratically.
+TARGETS: hates / fears; punishes / exiles
+
+### WOD-GS:00501 | WOD-GS | WOD-GS 1892 (Library of Londarios: Stellar FAQ (Dec 1) | Contents
+FIGURES: (none registered)
+TEXT: When it was visible, this jumper was a green star-like body. If the star seers of Yuthuppa spoke of such things to outsiders, they would acknowledge that it is now red. ## 7. Why are there so many Blue Moon Goddesses?
+TARGETS: speaks / prophesies
+
+### WOD-GS:00503 | WOD-GS | WOD-GS 1892 (Library of Londarios: Stellar FAQ (Dec 1) | Contents
+FIGURES: CERULLIA, GERRA, LESILLA, RASHORANA, RED GODDESS, ULURDA, VERITHURUSA
+TEXT: - Lesilla. Goddess of the Descending Blue Moon, Great Ancestress, and incarnation of Sedenya. Before, when she was called Verithurusa, Lesilla had founded the land of Mernita, and thousands of her descendants lived in it. Mother Lesilla sat overhead, worshipped by her descendants, and simultaneously appearing among them as Queen Cerullia. But peaceful Mernita was invaded and Lesilla was traitorously shot down by her own son Lukarius, who mortally wounded her with her own bow. Thus Lesilla was slain and she crashed to the earth upon her own city of Mernita. The ruins are the Blue Moon Plateau. She was afterwards called Gerra, the Sorrow, and Rashorana, the Spark, and rose again as Ulurda.
+TARGETS: dwells at
+
+### WOD-GS:00504 | WOD-GS | WOD-GS 1892 (Library of Londarios: Stellar FAQ (Dec 1) | Contents
+FIGURES: OROGERIA, RASHORANA, RED GODDESS, TEELO NORRI, ULURDA
+TEXT: - Ulurda. Hunting goddess, goddess of the Ascending Blue Moon, and an incarnation of Sedenya. Ulurda, when she had been Rashorana, remembered the secret of life and death. In vixen shape she taught her starving people to hunt with bows and to trap so they survived the darkness. Her home was a moving blue star which disappeared when Ulurda incarnated as the first Teelo Norri during the Dawn Age. Ulurda is worshipped in the Lunar Empire by women who seek independence, huntresses, and anyone troubled by restless desire, or a desire to understand sacrifice. They call her Blue Orogeria.
+TARGETS: hunts
+
+### WOD-GS:00512 | WOD-GS | WOD-GS 1892 (Library of Londarios: Stellar FAQ (Dec 1) | Contents
+FIGURES: KALLYR STARBROW, ORLANTH
+TEXT: Seven questors entered the "little sky" of the ceremony, one for each star in Orlanth's Ring, and so when they emerged they caused the constellation of Orlanth's Ring to emerge in the celestial realm as well, even though it was a day early. This severly fractured the Lunar ritual which had no way to anticipate the appearance of Disruptor, whose presence should have been impossible. The Lunars were completely surprised and effectively defenseless against the magics that Kallyr and her companions carried into their ritual.
+TARGETS: possesses / wields
+
+### WOD-GS:00525 | WOD-GS | WOD-GS 22941 (Library of Londarios: The Abiding Book () | Full Version
+FIGURES: INVISIBLE GOD, MALKION, ZZABUR
+TEXT: I believe in the One God, Invisible, Creator of the Universe. He separated Matter from Energy and Nature from Divinity. He made the Kingdom for the Chosen People and lived among them called Malkion. Malkion suffered, failed, was murdered by Zzabur, rotted. Through separation He opened Solace and released the resurrection of the world. Malkion protected the Secret Keepers to the Witnesses of the Abiding Book. He revealed the Tests of Faith, the Mastery of Will, Solace through Obedience, and the Paternal Keepers. He promises that through my repentance and His Grace I shall rise above this mortal world to perfect life in the paradise of the Invisible God. Amen.
+TARGETS: dwells at

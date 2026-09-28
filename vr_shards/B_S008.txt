@@ -1,0 +1,300 @@
+[P5-B-B0023-039] S=['FERESHOR'] P=re-enacts O=['SELF JOURNEY'] implicit=False ps="underwent" sug=re-enacts
+   Q: Fereshor underwent his Self Journey after the defeat of Jannisor.
+[P5-B-B0023-040] S=['FERESHOR'] P=fights O=['STORM DAIMONES', 'HORSE SPIRITS'] MOD={"in_on_at": "UNDERWORLD"} implicit=True ps="tested in both the Underworld and against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: His courage and faith were tested in both the Underworld and against hordes of Storm daimones and Horse spirits.
+[P5-B-B0023-041] S=['FJORDAUR'] P=serves O=['RATAKAR'] implicit=False ps="was a follower of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Fjordaur was a follower of Ratakar, the Pelandan Murder God, son of JagaNatha.
+[P5-B-B0023-042] S=['RATAKAR'] P=is child of O=['JAGANATHA'] implicit=False ps="son of" sug=is child of
+   Q: Ratakar, the Pelandan Murder God, son of JagaNatha.
+[P5-B-B0023-043] S=['GANESETARUS'] P=steals O=['DEATH DART'] MOD={"from": "RATAKAR"} implicit=True ps="stolen" sug=steals
+   Q: after Ganesetarus had stolen his Death Dart.
+[P5-B-B0023-044] S=['FJORDAUR'] P=serves O=['BISODAKAR', 'YANISTAR'] MOD={"purpose_clause": "in their battles against Teelo Estara"} implicit=True ps="served" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: served the Carmanian Shahs Bisodakar and Yanistar in their battles against Teelo Estara.
+[P5-B-B0023-045] S=['FJORDAUR'] P=fights O=['TEELO ESTARA'] implicit=True ps="battles against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: battles against Teelo Estara.
+[P5-B-B0023-046] S=['TEELO ESTARA'] P=travels O=[] MOD={"to": "RAIBANTH"} implicit=False ps="entered" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When Teelo Estara entered Raibanth
+[P5-B-B0023-047] S=['FJORDAUR'] P=fights O=['RED GODDESS'] implicit=True ps="laid his massive hands upon" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: laid his massive hands upon her neck.
+[P5-B-B0023-048] S=['RATAKAR'] P=is child of O=['RED GODDESS'] implicit=False ps="was a son of" sug=is child of
+   Q: realized that Ratakar was a son of Sedenya
+[P5-B-B0023-049] S=['JAGANATHA'] P=is identified as O=['RED GODDESS'] implicit=False ps="was a son of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: he saw his god's mother, JagaNatha, staring back at him and then realized that Ratakar was a son of Sedenya
+[P5-B-B0023-050] S=['FJORDAUR'] P=initiates into cult O=['LUNAR WAY'] implicit=True ps="joined" sug=initiates into cult
+   Q: He joined the Lunar Way, and he set about serving his new Goddess with a fervor.
+[P5-B-B0023-051] S=['FJORDAUR'] P=re-enacts O=['SELF VOYAGE'] implicit=True ps="undertook" sug=re-enacts
+   Q: undertook the Self Voyage, and was sent back to fulfill it
+[P5-B-B0023-052] S=['FJORDAUR'] P=substitutes O=['RATAKAR'] implicit=True ps="replaced" sug=substitutes
+   Q: He effectively destroyed that cult and replaced its god with himself.
+[P5-B-B0023-053] S=['FJORDAUR'] P=kills O=['BARSEMUS'] implicit=False ps="throttling" sug=one of: kills, shatters, dies
+   Q: Fjordaur left the world and ascended to the Moon after throttling Barsemus, the False Heirophant, during the Blood King's War.
+[P5-B-B0023-054] S=['FJORDAUR'] P=travels O=[] MOD={"to": "MOON"} implicit=False ps="ascended to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Fjordaur left the world and ascended to the Moon
+[P5-B-B0023-055] S=['GORTANIA'] P=serves O=['GREAT SISTER'] implicit=True ps="was Great Sister's charioteer" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: She was Great Sister's charioteer in the Second Wane
+[P5-B-B0023-056] S=['GORTANIA'] P=defeats O=['SUN'] MOD={"purpose_clause": "To achieve immortality"} implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: To achieve immortality, she defeated the chariot of the Sun in a race.
+[P5-B-B0023-057] S=['GORTANIA'] P=is alternative name for O=['THE LUCKY'] implicit=True ps="gained the nickname" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: gained the nickname, "the Lucky."
+[P5-B-B0024-001] S=['RUFELZA'] P=travels O=[] MOD={"to": "heavens"} implicit=False ps="ascended" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: After Rufelza ascended to the heavens,
+[P5-B-B0024-002] S=['SHENG SELERIS'] P=fights O=['TAKENEGI'] implicit=False ps="was beset by" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: When Takenegi was beset by his Other, the demon Sheng Seleris,
+[P5-B-B0024-003] S=['SHENG SELERIS'] P=defeats O=['TAKENEGI'] implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Takenegi allowed himself to be defeated
+[P5-B-B0024-004] S=['TAKENEGI'] P=descends into O=[] MOD={"to": "Pentan Hell"} implicit=True ps="cast into" sug=one of: descends into, dies
+   Q: and cast into the Pentan Hell,
+[P5-B-B0024-005] S=['TAKENEGI'] P=marries O=['WORST DEMON OF THE PENTAN PANTHEON'] implicit=True ps="seduced" sug=is spouse of (qual=wedding)
+   Q: where he seduced the worst demon of their pantheon.
+[P5-B-B0024-006] S=['YARA ARANIS'] P=is child of O=['TAKENEGI', 'WORST DEMON OF THE PENTAN PANTHEON'] implicit=True ps="was their child" sug=is child of
+   Q: Yara Aranis was their child,
+[P5-B-B0024-007] S=['TAKENEGI'] P=marries O=['MORTAL WOMAN IN DOBLIAN'] MOD={"in_on_at": "Doblian"} implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: He married and lived humbly with a mortal woman in Doblian,
+[P5-B-B0024-008] S=['TAKENEGI'] P=fights O=['SHENG SELERIS'] implicit=True ps="continued his struggle against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: he left her and continued his struggle against Sheng Seleris.
+[P5-B-B0024-009] S=['HONEEL'] P=travels O=['TAKENEGI'] implicit=True ps="sought him out" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: HonEel sought him out,
+[P5-B-B0024-010] S=['HONEEL'] P=alters mythic station O=[] MOD={"via": ["Self Voyage"]} implicit=True ps="obtained true immortality" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: before she obtained true immortality through her Self Voyage,
+[P5-B-B0024-011] S=['JAREEL THE RAZORESS'] P=is child of O=['JURESTINA'] implicit=True ps="is the daughter of" sug=is child of
+   Q: She is the daughter of Jurestina,
+[P5-B-B0024-012] S=['JURESTINA'] P=claims ancestry O=['HONEEL'] implicit=True ps="of the lineage established by" sug=claims ancestry
+   Q: a noble of the lineage established by HonEel.
+[P5-B-B0024-013] S=['NYMPH OF GLAMOUR'] P=protects O=['GLAMOUR'] implicit=False ps="functions as the guardian for" sug=one of: protects, rescues / frees, aids
+   Q: The "Nymph of Glamour" functions as the guardian for the city
+[P5-B-B0024-014] S=['RED EMPEROR'] P=re-enacts O=['HIGH INITIATES'] MOD={"via": ["Dance of Returns"]} implicit=False ps="led" sug=re-enacts
+   Q: the Red Emperor first led the High Initiates in the Dance of Returns
+[P5-B-B0024-015] S=['GLAMOUR'] P=is identified as O=['FIRST INSPIRATION OF MOONSON'] implicit=False ps="is" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The city of Glamour is the First Inspiration of Moonson
+[P5-B-B0024-016] S=['CARMANIANS'] P=kills O=['FAMILY OF GREVLAR'] implicit=True ps="was slaughtered by" sug=one of: kills, shatters, dies
+   Q: his family was slaughtered by raiding Carmanians.
+[P5-B-B0024-017] S=['ARDATH THE ARCHER'] P=wounds O=['GREVLAR'] implicit=False ps="shot so swiftly that Grevlar had four arrows in him" sug=wounds
+   Q: Ardath the Archer, who shot so swiftly that Grevlar had four arrows in him
+[P5-B-B0024-018] S=['GREVLAR'] P=kills O=['ARDATH THE ARCHER'] implicit=True ps="cut off his foe's head" sug=one of: kills, shatters, dies
+   Q: before he cut off his foe's head.
+[P5-B-B0024-019] S=['GREVLAR'] P=defeats O=['TEURNEIK THICK-AS-A-BULL'] implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: He defeated Teurneik Thick-as-a-Bull,
+[P5-B-B0024-020] S=['GREVLAR'] P=defeats O=['OOZING MOTH', 'BINR THE SCORPIONMAN'] implicit=True ps="fell before his weapons" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Oozing Moth, Binr the Scorpionman, and all else fell before his weapons.
+[P5-B-B0024-021] S=['GREVLAR'] P=enters Godtime / Otherworld O=[] MOD={"to": "Sky World", "at_the_command_of": ["LUNAR EMPIRE"]} implicit=True ps="sent him to" sug=enters Godtime / Otherworld
+   Q: The empire sent him to the Sky World as their champion in the Celestial Games
+[P5-B-B0024-022] S=['ETYRIES'] P=enters Godtime / Otherworld O=[] MOD={"to": "Otherworlds"} implicit=False ps="traveled deep into" sug=enters Godtime / Otherworld
+   Q: Etyries traveled deep into the Otherworlds,
+[P5-B-B0024-023] S=['HECHKOTH'] P=re-enacts O=['ETYRIES'] MOD={"to": "Otherworlds"} implicit=True ps="followed her example in venturing into" sug=re-enacts
+   Q: Hechkoth followed her example in venturing into the Otherworlds
+[P5-B-B0024-024] S=['HECHKOTH'] P=enters Godtime / Otherworld O=[] MOD={"to": ["OTHERWORLDS", "UNDERWORLD"], "via": ["Self Journey"]} implicit=False ps="took him to" sug=enters Godtime / Otherworld
+   Q: Hechkoth's Self Journey took him to all three Otherworlds plus the Underworld.
+[P5-B-B0024-025] S=['HECHKOTH'] P=travels O=[] MOD={"via": ["Pass of Copper"]} implicit=True ps="negotiated his way past" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He negotiated his way past the Three-armed Statue at the Pass of Copper
+[P5-B-B0024-026] S=['HECHKOTH'] P=defeats O=['WIND HOUNDS OF SERAF'] implicit=True ps="outran" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: and outran the Wind Hounds of Seraf.
+[P5-B-B0024-027] S=['WHALESERPENT OF THE DEEP'] P=fights O=['HECHKOTH'] implicit=True ps="was almost killed by" sug=invades / raids
+   Q: He was almost killed by the Whaleserpent of the Deep,
+[P5-B-B0024-028] S=['BLUE SPRITES OF GLANDRETH'] P=protects O=['HECHKOTH'] implicit=True ps="allowed him to evade that danger" sug=one of: protects, rescues / frees, aids
+   Q: his friendship with the Blue Sprites of Glandreth allowed him to evade that danger.
+[P5-B-B0024-029] S=['HONEEL'] P=is born from O=[] MOD={"in_on_at": "Doblian"} implicit=False ps="was born in" sug=is born from
+   Q: HonEel was born in Doblian during the Seleric years.
+[P5-B-B0024-030] S=['HONEEL'] P=defeats O=['NOMADS'] MOD={"from": "Doblian"} implicit=True ps="orchestrated the liberation of her homeland from" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: She orchestrated the liberation of her homeland from the nomads
+[P5-B-B0024-031] S=['HONEEL'] P=is child of O=['MOONSON'] implicit=True ps="was his daughter" sug=is child of
+   Q: She proved that she was his daughter
+[P5-B-B0024-032] S=['HONEEL'] P=transforms into O=['SYLILAN TELMORI'] implicit=True ps="turned the Sylilan Telmori into full wolves" sug=transforms into
+   Q: She turned the Sylilan Telmori into full wolves, incapable of turning into humans.
+[P5-B-B0024-033] S=['HONEEL'] P=travels O=[] MOD={"to": "Sky"} implicit=True ps="went to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She went to the Sky
+[P5-B-B0024-034] S=['HONEEL'] P=discovers O=['MAIZE'] implicit=True ps="discovered" sug=discovers
+   Q: and discovered maize,
+[P5-B-B0024-035] S=['HONEEL'] P=defeats O=['TARSH'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Triumphant HonEel conquered the enemy kingdom of Tarsh,
+[P5-B-B0024-036] S=['HONEEL'] P=marries O=['KING OF TARSH'] implicit=True ps="seduced" sug=is spouse of (qual=wedding)
+   Q: seduced the king of Tarsh,
+[P5-B-B0024-037] S=['CHILD OF HONEEL AND THE KING OF TARSH'] P=is child of O=['HONEEL', 'KING OF TARSH'] implicit=True ps="bore a child by" sug=is child of
+   Q: and bore a child by him.
+[P5-B-B0024-038] S=['HONEEL'] P=alters mythic station O=[] MOD={"in_on_at": "Nights of Horror"} implicit=True ps="is now a goddess" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Her mortal body died at the Nights of Horror with most of the nobles and heroes of the empire, but her soul lived on and is now a goddess.
+[P5-B-B0024-039] S=['HONEEL'] P=defeats O=['HORSE BARBARIANS'] MOD={"from": "Doblian"} implicit=True ps="freed Doblian from" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: She freed Doblian from the horse barbarians
+[P5-B-B0024-040] S=['HONEEL'] P=marries O=['SUN'] MOD={"in_on_at": "Oraya"} implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: While conquering Oraya, she married the Sun
+[P5-B-B0024-041] S=['TWINS OF HONEEL AND THE SUN'] P=is child of O=['HONEEL', 'SUN'] implicit=True ps="bore him twins" sug=is child of
+   Q: and bore him twins.
+[P5-B-B0024-042] S=['HONEEL'] P=marries O=['KING OF TARSH'] MOD={"in_on_at": "Tarsh"} implicit=False ps="seduced" sug=is spouse of (qual=wedding)
+   Q: In Tarsh, HonEel seduced the king
+[P5-B-B0024-043] S=['HEIR OF HONEEL AND THE KING OF TARSH'] P=is child of O=['HONEEL', 'KING OF TARSH'] implicit=True ps="left him an heir" sug=is child of
+   Q: and left him an heir.
+[P5-B-B0024-044] S=['HONEEL'] P=marries O=['TAKENEGI'] implicit=True ps="seduced" sug=is spouse of (qual=wedding)
+   Q: She even seduced her father, Takenegi,
+[P5-B-B0024-045] S=['HONEEL'] P=is child of O=['TAKENEGI'] implicit=True ps="her father" sug=is child of
+   Q: She even seduced her father, Takenegi,
+[P5-B-B0024-046] S=['HONEEL'] P=establishes cult O=['BASHAEEL DYNASTY'] implicit=True ps="established" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: and established the BashaEel dynasty,
+[P5-B-B0024-047] S=['HWARIN DALTHIPPA'] P=is child of O=['RED EMPEROR', 'DAVANATHA'] implicit=True ps="is a daughter of" sug=is child of
+   Q: Hwarin Dalthippa is a daughter of the emperor and Davanatha,
+[P5-B-B0024-048] S=['DAVANATHA'] P=serves O=['NATHA TEMPLE'] MOD={"in_on_at": "Anmoli"} implicit=False ps="a former serving woman of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Davanatha, a former serving woman of the Natha Temple in Anmoli.
+[P5-B-B0024-049] S=['MOONBURN'] P=kills O=['RIST'] implicit=True ps="stripped it of life" sug=one of: kills, shatters, dies
+   Q: after the Moonburn stripped it of life
+[P5-B-B0024-050] S=['HWARIN DALTHIPPA'] P=protects O=['EARTH SPIRITS OF RIST'] implicit=True ps="placated" sug=one of: protects, rescues / frees, aids
+   Q: and placated the earth spirits there.
+[P5-B-B0024-051] S=['HWARIN DALTHIPPA'] P=marries O=['INGKOT AXE-AND-A-HALF'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: She married Ingkot Axe-and-a-Half,
+[P5-B-B0024-052] S=['CLANS OF INGKOT AXE-AND-A-HALF'] P=initiates into cult O=['LUNAR WAY'] implicit=True ps="embraced" sug=initiates into cult
+   Q: His clans embraced the Lunar Way,
+[P5-B-B0024-053] S=['HWARIN DALTHIPPA', 'INGKOT AXE-AND-A-HALF'] P=defeats O=['SYLILA'] implicit=True ps="subdued" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: and together they subdued all of Sylila
+[P5-B-B0024-054] S=['HWARIN DALTHIPPA', 'INGKOT AXE-AND-A-HALF'] P=defeats O=['DARA-NI', 'VANCH'] implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: and defeated invasions from Dara-ni and Vanch.
+[P5-B-B0024-055] S=['HWARIN DALTHIPPA'] P=defeats O=['GWYTHAR'] implicit=True ps="enslaved" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: All were crushed, and Gwythar was enslaved as a guardian for the bridge.
+[P5-B-B0024-056] S=['HWARIN DALTHIPPA'] P=defeats O=['FORTY BARBARIAN CHIEFS'] MOD={"in_on_at": "Filichet"} implicit=True ps="meekly surrendered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: She finally stopped only at Filichet, where forty barbarian chiefs meekly surrendered.
+[P5-B-B0024-057] S=['CONQUERING DAUGHTER'] P=is alternative name for O=['HWARIN DALTHIPPA'] implicit=True ps="brought her the title of" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Those campaigns brought her the title of Conquering Daughter.
+[P5-B-B0024-058] S=['HWARIN DALTHIPPA'] P=rules O=[] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: She ruled wisely and generously,
+[P5-B-B0024-059] S=['NO PRINT'] P=kills O=['HWARIN DALTHIPPA'] MOD={"in_on_at": "1358 ST"} implicit=False ps="was slain by" sug=one of: kills, shatters, dies
+   Q: In 3/3 (1358 ST) Hwarin was slain by the assassin known only as No Print,
+[P5-B-B0024-060] S=['IRIN'] P=initiates into cult O=['LUNAR WAY'] implicit=True ps="joined" sug=initiates into cult
+   Q: He joined the Lunar Way to expand his knowledge
+[P5-B-B0024-061] S=['IRIN'] P=fights O=['HORDES OF THE MAD SULTAN'] implicit=True ps="skirmished regularly with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He skirmished regularly with the fetid hordes of the Mad Sultan.
+[P5-B-B0024-062] S=['MAD SULTAN'] P=travels O=[] MOD={"to": "Dorastor"} implicit=False ps="went to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Mad Sultan went to Dorastor
+[P5-B-B0024-063] S=['IRIN'] P=alters mythic station O=[] implicit=False ps="undertook the immortality rites" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Irin undertook the immortality rites.
+[P5-B-B0024-064] S=['IRIN'] P=defeats O=['BEI'] MOD={"in_on_at": "Other Side"} implicit=True ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: On the Other Side, he conquered Bei, the Son of the Devil,
+[P5-B-B0024-065] S=['BEI'] P=is child of O=['DEVIL'] implicit=False ps="the Son of" sug=is child of
+   Q: Bei, the Son of the Devil,
+[P5-B-B0024-066] S=['SEVEN MOTHERS'] P=re-enacts O=[] implicit=False ps="enacted" sug=re-enacts
+   Q: In the ritual enacted by the Seven Mothers,
+[P5-B-B0024-067] S=['BROWN MAN'] P=is alternative name for O=['IRIPPI ONTOR'] implicit=False ps="was called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Irippi Ontor was called the "Brown Man,"
+[P5-B-B0024-068] S=['IRIPPI ONTOR'] P=serves O=['BUSERIAN'] implicit=False ps="was a star priest of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: When Irippi Ontor was young he was a star priest of Buserian
+[P5-B-B0024-069] S=['IRIPPI ONTOR'] P=serves O=['SATRAP LANTAFAR'] implicit=True ps="support of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: for his support of the ousted Satrap Lantafar.
+[P5-B-B0024-070] S=['IRIPPI ONTOR'] P=flees to O=[] MOD={"to": "Velthil"} implicit=True ps="fled to" sug=flees to
+   Q: he fled to the lands of Velthil.
+[P5-B-B0024-071] S=['IRIPPI ONTOR'] P=establishes cult O=['SEVEN MOTHERS'] implicit=True ps="formed" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: he formed the Seven Mothers.
+[P5-B-B0024-072] S=['IRIPPI ONTOR'] P=teaches O=['FOLLOWERS OF IRIPPI ONTOR'] implicit=True ps="taught" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: He taught his secrets to his closest followers
+[P5-B-B0024-073] S=['HAMMER OF THE SKY'] P=kills O=['IRIPPI ONTOR'] implicit=True ps="fell to" sug=one of: kills, shatters, dies
+   Q: he fell to the Hammer of the Sky,
+[P5-B-B0024-074] S=['FIRST ARROW OF LIGHT'] P=is alternative name for O=['IRIPPI ONTOR'] implicit=False ps="is" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Irippi Ontor is the First Arrow of Light,
+[P5-B-B0025-001] S=['JAKALEEL'] P=is member of O=['SEVEN MOTHERS'] implicit=False ps="joined in" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Jakaleel was a powerful underworld shaman long before she joined in the conspiracy of the Seven Mothers.
+[P5-B-B0025-002] S=['JAKALEEL'] P=is member of O=['BEFORE DARK TRADITION'] implicit=True ps="was one of the leaders in" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: She was one of the leaders in the ancient Before Dark Tradition.
+[P5-B-B0025-003] S=['JAKALEEL'] P=departs from O=['TEELO ESTARA'] MOD={"in_on_at": "during the Bold Rebel period"} implicit=True ps="departed from" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: She even departed from her for a while during the Bold Rebel period.
+[P5-B-B0025-004] S=['JAKALEEL'] P=discovers O=['LUNAR POWERS'] implicit=False ps="discovered" sug=discovers
+   Q: During that absence, Jakaleel discovered the truth of the Lunar powers that were strong within her original tradition.
+[P5-B-B0025-005] S=['OTHERS IN HER TRADITION'] P=challenges O=['JAKALEEL'] implicit=True ps="was challenged by" sug=one of: challenges, breaks oath, betrays, fights
+   Q: She was challenged by others in her Tradition who hated or feared the Moon,
+[P5-B-B0025-006] S=['JAKALEEL'] P=defeats O=['OTHERS IN HER TRADITION'] MOD={"using": "PROOF OF THE MOON"} implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: and in a great conflict Jakaleel defeated them with her Proof of the Moon.
+[P5-B-B0025-007] S=['JAKALEEL'] P=alters mythic station O=[] implicit=False ps="became" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Thus, Jakaleel became the first and most powerful shaman of the Moon powers and an immortal.
+[P5-B-B0025-008] S=['JAKALEEL'] P=is member of O=['FROM DARK TRADITION'] implicit=False ps="calls hers" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: As a discernable, though integral, part of the old Before Dark Tradition, Jakaleel calls hers the From Dark Tradition.
+[P5-B-B0025-009] S=['TETESE'] P=is member of O=['DIKORIA'] implicit=False ps="wizard of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The precision of the spirits of Jakaleel impressed Tetese, a wizard of Dikoria.
+[P5-B-B0025-010] S=['TETESE'] P=travels O=[] MOD={"to": "THE MOON"} implicit=True ps="traveled" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: She traveled to the Moon and recorded her findings and events as spells,
+[P5-B-B0025-011] S=['TETESE'] P=protects O=['THE COURT'] MOD={"in_on_at": "in the Pandarri Incident", "from": "DEMONS"} implicit=False ps="rescued" sug=one of: protects, rescues / frees, aids
+   Q: after Tetese rescued the court from demons in the Pandarri Incident,
+[P5-B-B0025-012] S=['TETESE'] P=establishes cult O=['SPINDLE HAG SCHOOL'] implicit=False ps="established" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: after Tetese rescued the court from demons in the Pandarri Incident, she was given grants and established the Spindle Hag School,
+[P5-B-B0025-013] S=['SPINDLE HAG SCHOOL'] P=serves O=['JAKALEEL'] MOD={"using": "SORCEROUS METHODS"} implicit=False ps="reveres" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: established the Spindle Hag School, an organization that reveres Jakaleel using sorcerous methods.
+[P5-B-B0025-014] S=['JIKARVEZ'] P=manifests O=['CHAOS GROWTH'] implicit=False ps="is a manifestation of" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Every chaos growth is a manifestation of Jikarvez.
+[P5-B-B0025-015] S=['KANA POOR'] P=is born from O=[] MOD={"in_on_at": "Palbar"} implicit=False ps="was born in" sug=is born from
+   Q: Kana Poor the Chronomancer was born in Palbar to poor parents at the very moment that Teelo Estara was born in 1220.
+[P5-B-B0025-016] S=['TEELO ESTARA'] P=is born from O=[] MOD={"in_on_at": "1220"} implicit=False ps="was born in" sug=is born from
+   Q: at the very moment that Teelo Estara was born in 1220.
+[P5-B-B0025-017] S=['ETYRIES'] P=discovers O=['KANA POOR'] implicit=True ps="found" sug=discovers
+   Q: Etyries found him and brought him to Torang.
+[P5-B-B0025-018] S=['ETYRIES'] P=travels O=['KANA POOR'] MOD={"to": "TORANG"} implicit=True ps="brought" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Etyries found him and brought him to Torang.
+[P5-B-B0025-019] S=['COMPANIONS OF THE GODDESS'] P=travels O=['KANA POOR'] MOD={"to": "TEELO ESTARA"} implicit=True ps="brought" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: They brought him to her, and she said, "Care for and trust this boy."
+[P5-B-B0025-020] S=['IRIPPI ONTOR'] P=protects O=['KANA POOR'] implicit=True ps="took into his household" sug=one of: protects, rescues / frees, aids
+   Q: Irippi Ontor took him into his household,
+[P5-B-B0025-021] S=['KANA POOR'] P=discovers O=['DEADLY MAGICAL WEAPONS OF THE LUNAR MAGICAL ELITE'] implicit=True ps="discovered" sug=discovers
+   Q: and he discovered some of their most deadly magical weapons.
+[P5-B-B0025-022] S=['KANA POOR'] P=defeats O=['MINIONS OF CARMANIA'] MOD={"using": "TRUTH"} implicit=True ps="drove back" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The painful brilliance of this searing energy drove back the minions of Carmania with its Truth.
+[P5-B-B0025-023] S=['RED MOON'] P=comes into being O=[] implicit=False ps="created" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Kana Poor spent years preparing for the great ceremony that created the Red Moon.
+[P5-B-B0025-024] S=['KANA POOR'] P=serves O=['RED EMPEROR'] MOD={"purpose_clause": "in placing Glamour"} implicit=True ps="aided" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: and aided the emperor in placing Glamour.
+[P5-B-B0025-025] S=['RED GODDESS'] P=manifests O=[] MOD={"via": ["KANA POOR"]} implicit=True ps="spoke through" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: The Goddess spoke through him,
+[P5-B-B0025-026] S=['KANA POOR'] P=establishes cult O=['NEW WAY'] MOD={"at_the_command_of": ["RED EMPEROR"]} implicit=True ps="ordered him to form" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: and ordered him to form a new Way devoted to the study of Lunar time and history.
+[P5-B-B0025-027] S=['RED GODDESS'] P=manifests chaos taint O=[] implicit=False ps="is touched with chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Sedenya herself is touched with chaos,
+[P5-B-B0025-028] S=['AGGATARALTARA'] P=is alternative name for O=['GOOD CHAOS'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Aggataraltara, called "Good Chaos" by worshippers
+[P5-B-B0025-029] S=['CRIMSON BAT'] P=manifests O=['BLASKARTH'] implicit=False ps="physical manifestation of" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: the Crimson Bat (physical manifestation of Blaskarth, see page 54)
+[P5-B-B0025-030] S=['CRIMSON BAT'] P=manifests chaos taint O=[] implicit=False ps="is actively chaotic" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: the Crimson Bat (physical manifestation of Blaskarth, see page 54) is actively chaotic,
+[P5-B-B0025-031] S=['SUN EMPEROR'] P=challenges O=['LESILLA'] implicit=True ps="tried every method known, with challenges" sug=one of: challenges, breaks oath, betrays, fights
+   Q: To court her, the Sun Emperor tried every method known, with challenges of friendship, skill, and finally power.
+[P5-B-B0025-032] S=['SUN EMPEROR'] P=wounds O=['LESILLA'] MOD={"using": "ARROWS"} implicit=True ps="shot" sug=wounds
+   Q: and he shot her in the face with one of her own arrows.
+[P5-B-B0025-033] S=['LESILLA'] P=descends into O=[] MOD={"to": "EARTH"} implicit=True ps="fell to" sug=one of: descends into, dies
+   Q: The Great Goddess fell to earth upon her own city,
+[P5-B-B0025-034] S=['LESILLA'] P=is spouse of O=['SUN EMPEROR'] implicit=True ps="was one of several of the wives of" sug=is spouse of
+   Q: Lesilla, the Queen of People, was one of several of the wives of the emperor,
+[P5-B-B0025-035] S=['EMPEROR'] P=is child of O=['LESILLA'] implicit=True ps="her son" sug=is child of
+   Q: and her son was a great emperor.
+[P5-B-B0025-037] S=['RED GODDESS'] P=descends into O=[] MOD={"to": "WORLD"} implicit=True ps="descent into" sug=one of: descends into, dies
+   Q: She had cast off in Her descent into the world.
+[P5-B-B0025-038] S=['TEELO IMARA'] P=is identified as O=['RUFELZA'] implicit=False ps="rose as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: When Teelo Imara rose as Rufelza,
+[P5-B-B0025-039] S=['MAKABAEUS'] P=illuminates O=[] implicit=True ps="obtained Illumination" sug=illuminates
+   Q: he obtained Illumination
+[P5-B-B0025-040] S=['MAKABAEUS'] P=travels O=[] MOD={"to": "THE MOON"} implicit=False ps="journeyed to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Makabaeus journeyed to the Moon,
+[P5-B-B0025-041] S=['MAKABAEUS'] P=serves O=['FOLLOWERS OF MAKABAEUS'] implicit=True ps="serves" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: and serves as a guide to his followers.
+[P5-B-B0025-042] S=['TEELO ESTARA'] P=travels O=[] MOD={"to": "TOWER OF BLEAK DESPAIR"} implicit=True ps="arrived at" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Teelo Estara arrived at the Tower
+[P5-B-B0025-043] S=['ORDER OF THE TOWER'] P=fights O=['TEELO ESTARA'] implicit=True ps="tried to fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Order retreated to their sanctuary and tried to fight,
+[P5-B-B0025-044] S=['TEELO ESTARA'] P=defeats O=['MAKABAEUS'] implicit=True ps="surrendered, groveling in abject defeat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Makabaeus surrendered, groveling in abject defeat.
+[P5-B-B0025-045] S=['TEELO ESTARA'] P=alters mythic station O=['MAKABAEUS'] implicit=True ps="made Makabaeus a slave" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: She made Makabaeus a slave
+[P5-B-B0025-046] S=['TEELO ESTARA'] P=travels O=['MAKABAEUS'] implicit=True ps="took" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: and took him with her as she performed miracles and other godly acts with the power he had so liberally drawn from.
+[P5-B-B0025-048] S=['MERASEDENYA'] P=enters Godtime / Otherworld O=[] MOD={"to": "DREAM WORLD"} implicit=True ps="began her Self Journey into" sug=enters Godtime / Otherworld
+   Q: began her Self Journey into the world of dreams.
+[P5-B-B0025-049] S=['MERASEDENYA'] P=discovers O=['SECRETS OF SEDENYA'] implicit=True ps="studied" sug=discovers
+   Q: she studied Sedenya's secrets
+[P5-B-B0025-050] S=['DREAM BEINGS'] P=serves O=['MERASEDENYA'] implicit=True ps="was assisted by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Her quest was assisted by dream beings which sought to be more well known,
+[P5-B-B0025-051] S=['MERASEDENYA'] P=embodies O=['DREAMS'] implicit=True ps="is the goddess who brings" sug=one of: embodies, has domain
+   Q: Now she is the goddess who brings dreams.
+[P5-B-B0025-052] S=['NATHA'] P=is identified as O=['SEDENYA'] implicit=False ps="is the goddess form of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Natha is the goddess form of Sedenya.
+[P5-B-B0025-053] S=['NATHA'] P=sacrifices O=['THE RED KING'] implicit=False ps="sacrificing" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Natha appeared and freed men by sacrificing the Red King.
+[P5-B-B0025-054] S=['NATHA'] P=alters mythic station O=['MEN'] implicit=False ps="freed" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Natha appeared and freed men by sacrificing the Red King.
+[P5-B-B0025-055] S=['RATAKAR'] P=is child of O=['NATHA'] implicit=True ps="birthed" sug=is child of
+   Q: so she came and birthed Ratakar,
+[P5-B-B0025-056] S=['NATHA'] P=alters mythic station O=[] MOD={"in_on_at": "Mount Jernotius"} implicit=True ps="took a throne among the gods" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: and she took a throne among the gods on Mount Jernotius.
+[P5-B-B0025-057] S=['NATHA'] P=protects O=["ANAXIAL'S GREAT ARK"] MOD={"purpose_clause": "from sinking"} implicit=True ps="kept" sug=one of: protects, rescues / frees, aids
+   Q: as when she kept Anaxial's great ark from sinking
+[P5-B-B0025-058] S=['NATHA'] P=binds O=['JENA FENA'] MOD={"in_on_at": "during the Darkness", "using": "FIVE CENTURY RING"} implicit=True ps="threw" sug=binds
+   Q: and when she threw the Five Century Ring around the Jena Fena during the Darkness.
+[P5-B-B0025-059] S=['NYSALOR'] P=is identified as O=['SEDENYA'] implicit=False ps="is the best-known early incarnation of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Nysalor is the best-known early incarnation of Sedenya in Gloranthan history.

@@ -1,0 +1,300 @@
+[P5-A-B0022-003] S=['BLUE MOON'] P=survives as relic O=['BLUE MOON PLATEAU'] implicit=False ps="is the single largest piece of her body" sug=survives as relic
+   Q: The Blue Moon Plateau is the single largest piece of her body that struck the Surface World.
+[P5-A-B0022-004] S=['BLUE MOON'] P=rules O=['TIDES OF GLORANTHA'] implicit=False ps="controlling" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Part of the Blue Moon remained in the sky, rising and falling in its own unpredictable pattern and controlling the tides of Glorantha.
+[P5-A-B0022-005] S=['BLUE MOON TROLLS', 'VELDANG', 'ZARANISTANGI'] P=serves O=['BLUE MOON'] implicit=False ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Three secretive cults worship the Blue Moon: the Blue Moon trolls of Peloria; the Veldang of Pamaltela; and the Zaranistangi Loper People.
+[P5-A-B0022-006] S=['ARTMAL'] P=is child of O=['BLUE MOON', 'LORIAN'] implicit=False ps="is the son of" sug=is child of
+   Q: Artmal is the son of the Blue Moon and Lorian the Skyriver Titan.
+[P5-A-B0022-007] S=['LORIAN'] P=is identified as O=['SKYRIVER TITAN'] implicit=False ps="the Skyriver Titan" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Lorian the Skyriver Titan.
+[P5-A-B0022-008] S=['ARTMAL'] P=travels O=[] MOD={"to": "PAMALTELA"} implicit=True ps="came to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: He came to Pamaltela during the Golden Age, and founded the fabulous Artmali Empire.
+[P5-A-B0022-009] S=['ARTMAL'] P=rules O=['ARTMALI EMPIRE'] implicit=True ps="founded" sug=founds
+   Q: He came to Pamaltela during the Golden Age, and founded the fabulous Artmali Empire.
+[P5-A-B0022-010] S=['ARTMAL'] P=fights O=['UMATH'] MOD={"purpose_clause": "TO AID"} implicit=False ps="aided his uncle Tolat against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Artmal aided his uncle Tolat against Umath the Primal Storm
+[P5-A-B0022-011] S=['UMATH'] P=is identified as O=['PRIMAL STORM'] implicit=False ps="the Primal Storm" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Umath the Primal Storm
+[P5-A-B0022-012] S=['ARTMAL'] P=bestows magic / gifts O=['RED SWORD OF TOLAT'] IO=['HEIRS OF ARTMAL'] implicit=False ps="later gave to his heirs" sug=one of: bestows, heals, imbues, teaches
+   Q: received the Red Sword of Tolat, which Artmal later gave to his heirs.
+[P5-A-B0022-013] S=['ARTMAL'] P=descends into O=['TOMB'] implicit=False ps="closed himself into" sug=one of: descends into, dies
+   Q: Artmal closed himself into a tomb, and from there he gave prophecies and advice until he was ignored by his descendants who broke all his old treaties.
+[P5-A-B0022-014] S=['ORLANTH'] P=dismembers O=['ARTMAL'] implicit=False ps="destroyed Artmal and scattered his parts" sug=dismembers
+   Q: Orlanth later destroyed Artmal and scattered his parts.
+[P5-A-B0022-015] S=['VELDANG'] P=claims ancestry O=['ARTMAL'] implicit=False ps="descendants are now called" sug=claims ancestry
+   Q: Artmal's blue-skinned descendants are now called the Veldang
+[P5-A-B0022-016] S=['DEEZOLA'] P=serves O=['LOCAL EARTH GODDESS'] implicit=True ps="a priestess of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: a priestess of the local Earth Goddess.
+[P5-A-B0022-017] S=['DEEZOLA'] P=alters mythic station O=['NEW GOD'] implicit=True ps="became a New God" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: She became a New God and is the Keeper of Vows, the Avenger of Wrongs, and the Unshakeable One.
+[P5-A-B0022-018] S=['KEEPER OF VOWS', 'AVENGER OF WRONGS', 'UNSHAKEABLE ONE'] P=is alternative name for O=['DEEZOLA'] implicit=True ps="is the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She became a New God and is the Keeper of Vows, the Avenger of Wrongs, and the Unshakeable One.
+[P5-A-B0022-019] S=['DEEZOLA'] P=embodies O=['CRESCENT GO MOON'] implicit=True ps="is now associated with" sug=one of: embodies, has domain
+   Q: She is now associated with the Crescent Go Moon.
+[P5-A-B0022-020] S=['RASHORANA'] P=teaches O=['ILLUMINATION'] implicit=True ps="was the first to develop and teach" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Some say that a goddess called Rashorana, who was either the last of the gods born, or the first of the Chaos creations, was the first to develop and teach this philosophy.
+[P5-A-B0022-021] S=['RASHORANA'] P=comes into being O=[] implicit=False ps="was either the last of the gods born, or the first of the Chaos creations" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: a goddess called Rashorana, who was either the last of the gods born, or the first of the Chaos creations
+[P5-A-B0022-022] S=['GOD OF ENTROPY'] P=kills O=['RASHORANA'] implicit=True ps="is said to have been killed by" sug=one of: kills, shatters, dies
+   Q: She is said to have been killed by the god of entropy during the Great Darkness.
+[P5-A-B0022-023] S=['OSENTALKA'] P=comes into being O=[] MOD={"at_the_instigation_of": ["MORTAL RACES"]} implicit=False ps="successfully built a new god" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Near the end of the First Age, the mortal races successfully built a new god, Osentalka, "The Perfect One," later called Nysalor, "The Bright One."
+[P5-A-B0022-024] S=['NYSALOR'] P=is alternative name for O=['OSENTALKA'] implicit=False ps="later called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Osentalka, "The Perfect One," later called Nysalor, "The Bright One."
+[P5-A-B0022-025] S=['THE PERFECT ONE'] P=is alternative name for O=['OSENTALKA'] implicit=False ps=""The Perfect One"" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Osentalka, "The Perfect One,"
+[P5-A-B0022-026] S=['THE BRIGHT ONE'] P=is alternative name for O=['NYSALOR'] implicit=False ps=""The Bright One"" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: later called Nysalor, "The Bright One."
+[P5-A-B0022-027] S=['GBAJI'] P=is alternative name for O=['NYSALOR'] implicit=False ps="came to be called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: In western Genertela and Dragon Pass, the divine being came to be called Gbaji, a vulgar word meaning "The Deceiver" or "Damned Liar."
+[P5-A-B0022-028] S=['RIDDLERS'] P=serves O=['NYSALOR'] implicit=True ps="his disciples, commonly known as Riddlers" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The new god and his disciples, commonly known as Riddlers, spread their version of this philosophy across much of Genertela
+[P5-A-B0022-029] S=['NYSALOR', 'RIDDLERS'] P=teaches O=['ILLUMINATION'] implicit=True ps="spread their version of this philosophy" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: The new god and his disciples, commonly known as Riddlers, spread their version of this philosophy across much of Genertela
+[P5-A-B0022-030] S=['ARKAT'] P=defeats O=['NYSALOR'] implicit=False ps="fought a great war against; his final victory" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Arkat the Liberator fought a great war against Nysalor and his followers, spending three generations in the task, and in the end leaving a trail of cinders across the continent before his final victory.
+[P5-A-B0022-031] S=['ARKAT'] P=is identified as O=['THE LIBERATOR'] implicit=False ps="the Liberator" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Arkat the Liberator
+[P5-A-B0022-032] S=['JANUBE'] P=is alternative name for O=['GREAT RIVER'] implicit=False ps="(the Janube)" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: set off to follow the Great River (the Janube) inland
+[P5-A-B0022-033] S=['ARMY OF SYRANTHIR'] P=fights O=['BALORIS BARBARIANS'] MOD={"at_the_command_of": ["SWEET SEA MERCHANTS"]} implicit=True ps="finding employ to combat" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: eventually finding employ by the Sweet Sea merchants to combat the savage Baloris barbarians.
+[P5-A-B0022-034] S=['SYRANTHIR'] P=travels O=[] MOD={"to": "SHARDASH", "via": ["ORONIN RIVER"], "with_the_aid_of": ["PEOPLE OF LAKE ORONIN"]} implicit=False ps="guided him down the Oronin River to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Around 729, Syranthir met the people of Lake Oronin, who guided him down the Oronin River to the place where Shardash, later the Carmanian capital, was established.
+[P5-A-B0022-035] S=['CARMANIANS'] P=rules O=['PAUPER FARMERS'] implicit=False ps="established a feudal society upon" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Carmanians established a feudal society upon the "pauper farmers" who they encountered, and pressed conquests into the rich river valleys.
+[P5-A-B0022-036] S=['DEEZOLA'] P=is member of O=['SEVEN MOTHERS'] implicit=False ps="The Seven Mothers were" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Seven Mothers were: Queen Deezola, "The Binder Within."
+[P5-A-B0022-037] S=['THE BINDER WITHIN'] P=is alternative name for O=['DEEZOLA'] implicit=False ps=""The Binder Within."" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Queen Deezola, "The Binder Within."
+[P5-A-B0022-038] S=['DEEZOLA'] P=rules O=['LANDS ON THE ARCOS RIVER'] implicit=True ps="Formerly the ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the ruler of lands on the Arcos River, she became the Keeper of Vows, the Avenger of Wrongs, and the Unshakeable One.
+[P5-A-B0022-039] S=['KEEPER OF VOWS', 'AVENGER OF WRONGS', 'UNSHAKEABLE ONE'] P=is alternative name for O=['DEEZOLA'] implicit=True ps="she became the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the ruler of lands on the Arcos River, she became the Keeper of Vows, the Avenger of Wrongs, and the Unshakeable One.
+[P5-A-B0022-040] S=['THE SPINDLE HAG'] P=is alternative name for O=['JAKALEEL THE WITCH'] implicit=False ps=""The Spindle Hag."" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Jakaleel the Witch, "The Spindle Hag."
+[P5-A-B0022-041] S=['JAKALEEL THE WITCH'] P=is member of O=['SEVEN MOTHERS'] implicit=True ps="The Seven Mothers were" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Jakaleel the Witch, "The Spindle Hag."
+[P5-A-B0022-042] S=['MISTRESS OF BLACK MAGIC', 'KEEPER OF SECRETS', 'SOURCE OF MASTERY'] P=is alternative name for O=['JAKALEEL THE WITCH'] implicit=True ps="she became the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: shaman-priestess from the mountains of Jord, she became the Mistress of Black Magic, Keeper of Secrets, and Source of Mastery.
+[P5-A-B0022-043] S=['YOUNG LIFE'] P=is alternative name for O=['TEELO NORRI'] implicit=False ps=""Young Life."" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Teelo Norri, "Young Life."
+[P5-A-B0022-044] S=['TEELO NORRI'] P=serves O=['RED GODDESS'] implicit=True ps="became the Cupbearer for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: She became the Cupbearer for the Goddess, and Spring of Eternal Youth.
+[P5-A-B0022-045] S=['SPRING OF ETERNAL YOUTH'] P=is alternative name for O=['TEELO NORRI'] implicit=True ps="became the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: She became the Cupbearer for the Goddess, and Spring of Eternal Youth.
+[P5-A-B0022-046] S=['THE BROWN MAN'] P=is alternative name for O=['IRRIPPI ONTOR'] implicit=False ps=""The Brown Man."" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Irrippi Ontor, "The Brown Man."
+[P5-A-B0022-047] S=['IRRIPPI ONTOR'] P=departs from O=['CULT OF BUSERIAN', 'CULT OF LHANKOR MHY'] implicit=True ps="outlawed from the cults of" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: lawed from the cults of Buserian and Lhankor Mhy, he became the Master of Secrets.
+[P5-A-B0022-048] S=['MASTER OF SECRETS'] P=is alternative name for O=['IRRIPPI ONTOR'] implicit=True ps="he became the" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: lawed from the cults of Buserian and Lhankor Mhy, he became the Master of Secrets.
+[P5-A-B0022-049] S=['RAM AND WARRIOR'] P=is alternative name for O=['YANAFAL TARNILS'] implicit=False ps=""Ram and Warrior."" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Yanafal Tarnils, "Ram and Warrior."
+[P5-A-B0022-050] S=['YANAFAL TARNILS'] P=alters mythic station O=['GOD OF WAR'] implicit=True ps="became the God of War" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: nobleman from Yuthuppa, he became the God of War.
+[P5-A-B0022-051] S=['BRIDGE FOR THE SEEKER'] P=is alternative name for O=['DANFIVE XARON'] implicit=False ps=""Bridge for the Seeker."" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Danfive Xaron, "Bridge for the Seeker."
+[P5-A-B0022-052] S=['MAHEDRES REDBEARD'] P=serves O=['CARMANIAN SHAHS'] implicit=False ps="had served four generations of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Carmanian sorcerer Mahedres Redbeard, who had served four generations of Carmanian shahs
+[P5-A-B0022-053] S=['RED GODDESS'] P=enters Godtime / Otherworld O=['SEVEN TEETH AND TWO JAWS'] implicit=True ps="was gone, trapped in" sug=enters Godtime / Otherworld
+   Q: declared that the Goddess was gone, trapped in the Seven Teeth and Two Jaws, and that her lands were ready for reconquest.
+[P5-A-B0022-054] S=['YANAFAL TARNILS'] P=is member of O=['SEVEN MOTHERS'] implicit=True ps="one of the Goddess's Mothers" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Yanafal Tarnils, one of the Goddess's Mothers, had gone to try to rescue her
+[P5-A-B0022-055] S=['YANAFAL TARNILS'] P=travels O=[] IO=['RED GODDESS'] MOD={"purpose_clause": "TO AID"} implicit=True ps="had gone to try to rescue" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Yanafal Tarnils, one of the Goddess's Mothers, had gone to try to rescue her
+[P5-A-B0022-056] S=['CARMANIAN ARMY'] P=fights O=['TORANG'] implicit=False ps="marched to the walls of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In 0/12 (1232) the Carmanian army marched to the walls of Torang, besieging seven forts or cities along the way
+[P5-A-B0022-057] S=['CHAR-UN'] P=fights O=['CARMANIAN NOBILITY'] implicit=False ps="charged at" sug=invades / raids
+   Q: The halfcrazed Char-un gladly charged at the Carmanian nobility, who impetuously met them with charge and countercharge.
+[P5-A-B0022-058] S=['LUNAR FORCES'] P=discovers O=['RED GODDESS'] implicit=True ps="a dangerous attempt to find" sug=discovers
+   Q: There followed a Lunar ritual which lasted two full days, and was a dangerous attempt to find the Goddess wherever she lay.
+[P5-A-B0022-059] S=['CARMANIAN CATAPHRACTS'] P=kills O=['SEVEN MOTHERS'] implicit=True ps="slain" sug=one of: kills, shatters, dies
+   Q: the Carmanian cataphracts had reached the sacred Lunar band and even slain two of the Mothers before the search was completed and the Red Goddess appeared.
+[P5-A-B0022-060] S=['RED GODDESS'] P=manifests O=[] implicit=False ps="appeared" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: the search was completed and the Red Goddess appeared.
+[P5-A-B0022-061] S=['RED GODDESS'] P=fights O=['CARMANIANS'] implicit=False ps="led her armies to attack" sug=invades / raids
+   Q: In 1235, the Red Goddess led her armies to attack the Carmanians.
+[P5-A-B0022-062] S=['RED GODDESS'] P=rides O=['CRIMSON BAT'] implicit=True ps="came riding atop" sug=rides
+   Q: She came riding atop the demon known as the Crimson Bat.
+[P5-A-B0022-063] S=['CRIMSON BAT'] P=has monstrous form O=['CREATURE FROM CHAOS'] implicit=True ps="was a creature from Chaos itself" sug=has anomalous form (qual=monstrous)
+   Q: This was a creature from Chaos itself, with unearthly powers and abilities even when constrained to the Middle World.
+[P5-A-B0022-064] S=['RED GODDESS'] P=kills O=['CARMANIANS'] implicit=True ps="spreading appalling death" sug=one of: kills, shatters, dies
+   Q: The Goddess rode among them, spreading appalling death wherever she went, and driving many mad who were unable to defend themselves against the mind-warping properties of this Chaos influence.
+[P5-A-B0022-065] S=['RED GODDESS'] P=poisons with chaos O=['CARMANIANS'] MOD={"using": "CRIMSON BAT"} implicit=True ps="driving many mad" sug=corrupts
+   Q: The Goddess rode among them, spreading appalling death wherever she went, and driving many mad who were unable to defend themselves against the mind-warping properties of this Chaos influence.
+[P5-A-B0022-066] S=['SURVIVORS OF THE FIGHT'] P=transforms into O=['MAD SULTANATE'] implicit=False ps="roamed the countryside for generations as" sug=transforms into
+   Q: The sad survivors of this fight wandered madly off in a group, and roamed the countryside for generations as a dangerous band of crazed and semi-chaotic marauders known as the Mad Sultanate.
+[P5-A-B0022-067] S=['NEUTRAL NATIONS AND PEOPLES', 'CARMANIANS'] P=fights O=['LUNAR QUEENDOM'] implicit=False ps="joined the Carmanians in their fight against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Nations and peoples who had previously stayed neutral in the war quickly joined the Carmanians in their fight against the Lunar Queendom.
+[P5-A-B0022-068] S=['RED GODDESS'] P=binds O=['CRIMSON BAT'] implicit=True ps="her subsequent control of" sug=binds
+   Q: Those friends of the Goddess who viewed the victory and her subsequent control of the demon were further convinced of the truth and strength of the magic present before them.
+[P5-A-B0022-069] S=['FIRST BATTLE OF CHAOS'] P=is alternative name for O=['BATTLE OF CHAOS'] implicit=False ps="later amended to be" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Afterwards this battle was called the Battle of Chaos, though this was later amended to be the First Battle of Chaos.
+[P5-A-B0022-070] S=['RED GODDESS'] P=rules O=['FIRST BLESSED'] implicit=False ps="was established as the center of the Red Goddess' power" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: First Blessed was established as the center of the Red Goddess' power
+[P5-A-B0022-071] S=['RED GODDESS'] P=teaches O=['LUNAR TROOPS AND MAGICIANS'] implicit=True ps="Under the tutelage of" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Under the tutelage of the Goddess the troops and magicians could learn many new magics and tactics for battle
+[P5-A-B0022-072] S=['RAIBA'] P=rules O=['RAIBANTH'] implicit=False ps="city-deity of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Raiba, city-deity of Raibanth and one of the deities of the Dara Happan Tripolis
+[P5-A-B0022-073] S=['RAIBA'] P=is member of O=['DARA HAPPAN TRIPOLIS'] implicit=False ps="one of the deities of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Raiba, city-deity of Raibanth and one of the deities of the Dara Happan Tripolis
+[P5-A-B0022-074] S=['CARMANIANS'] P=defeats O=['DARA HAPPAN TRIPOLIS'] implicit=False ps="had been defeated and occupied by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the Dara Happan Tripolis, which had been defeated and occupied by the Carmanians for a hundred years.
+[P5-A-B0022-075] S=['KORLOV OGOLTHOR'] P=is sibling of O=['SHAH OF CARMANIA'] implicit=False ps="brother to" sug=is sibling of
+   Q: the Carmanians withdrew from their attempt to rescue High Satrap Korlov Ogolthor, brother to the Shah of Carmania
+[P5-A-B0022-076] S=['RED GODDESS'] P=protects O=['SLAVES OF VONLATH'] implicit=False ps="freed" sug=rescues / frees
+   Q: That same year, the Red Goddess freed the slaves of Vonlath in the First Manumission.
+[P5-A-B0023-001] S=['LUNAR PROPHETS'] P=teaches O=['MESSAGE OF THE RED GODDESS'] MOD={"in_on_at": "DARA HAPPA"} implicit=True ps="instructing them on" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Many Lunar prophets wandered across Dara Happa, teaching to others what they had seen, and instructing them on the Goddess' message.
+[P5-A-B0023-002] S=['IRRIPPI ONTOR', 'YANAFAL TARNILS'] P=serves O=['RED GODDESS'] implicit=False ps="her chief advisors" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Red Goddess and her chief advisors, Irrippi Ontor and Yanafal Tarnils, summon the First Arrow of Light.
+[P5-A-B0023-003] S=['FIRST ARROW OF LIGHT'] P=manifests O=[] MOD={"at_the_instigation_of": ["RED GODDESS", "IRRIPPI ONTOR", "YANAFAL TARNILS"]} implicit=False ps="summon" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: the Red Goddess and her chief advisors, Irrippi Ontor and Yanafal Tarnils, summon the First Arrow of Light.
+[P5-A-B0023-004] S=['YOUNG ELEMENTALS'] P=fights O=['WILL OF HUMAKT'] implicit=False ps="made a determined attack against" sug=invades / raids
+   Q: Young Elementals made a determined attack against || the Will of Humakt, the Carmanian War God.
+[P5-A-B0023-005] S=['WILL OF HUMAKT'] P=is identified as O=['CARMANIAN WAR GOD'] implicit=False ps="the Carmanian War God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Will of Humakt, the Carmanian War God.
+[P5-A-B0023-006] S=['HUMAKT'] P=fights O=['SERVANTS OF CHAOS'] implicit=True ps="summoned the deepest of his dark powers to combat" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: summoned the deepest of his dark powers to combat || the servants of Chaos
+[P5-A-B0023-007] S=['SEVERED DEAD OF THE TRUE WARRIOR'] P=fights O=['YOUNG ELEMENTALS'] MOD={"to": "EDGE OF THE WORLD"} implicit=False ps="chased" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the severed dead of the True || Warrior chased the four Young Elementals to the edge || of the world.
+[P5-A-B0023-008] S=['CACODEMON'] P=fights O=['CARMANIAN PRIESTS'] MOD={"at_the_command_of": ["RED GODDESS"]} implicit=False ps="was sent by the Red Goddess against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Carmanian outposts, the monstrous Cacodemon was sent || by the Red Goddess against the Carmanian priests.
+[P5-A-B0023-009] S=['DEITY FROM SSAR ON GROR'] P=is born from O=['DARKNESS'] implicit=False ps="was born of" sug=is born from
+   Q: deity from Ssar On Gror, who was born of Darkness and || had the shape of a giant scorpion.
+[P5-A-B0023-010] S=['DEITY FROM SSAR ON GROR'] P=has monstrous form O=['GIANT SCORPION'] implicit=False ps="had the shape of" sug=has anomalous form (qual=monstrous)
+   Q: deity from Ssar On Gror, who was born of Darkness and || had the shape of a giant scorpion.
+[P5-A-B0023-011] S=['LUNAR PRIESTS'] P=reveals O=['NEW LIGHT OF THE GODDESS'] implicit=False ps="exposed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: the Lunar priests had again tricked the Carmanians by revealing a yet-unexposed side of themselves, and exposed the inner New Light of the Goddess
+[P5-A-B0023-012] S=['DARK-VISAGED DEITIES OF THE CARMANIANS'] P=fights O=['LUNAR FORCES'] implicit=False ps="hurled themselves upon" sug=invades / raids
+   Q: the Dark-visaged deities of the Carmanians hurled themselves upon the Lunar forces.
+[P5-A-B0023-013] S=['IRRIPPI ONTOR'] P=reveals O=['FIRST ARROW'] implicit=False ps="revealed" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: This was Irrippi Ontor, Master of Secrets, who revealed the First Arrow.
+[P5-A-B0023-014] S=['MASTER OF SECRETS'] P=is alternative name for O=['IRRIPPI ONTOR'] implicit=False ps="Master of Secrets" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: This was Irrippi Ontor, Master of Secrets, who revealed the First Arrow.
+[P5-A-B0023-015] S=['HAMMER OF THE SKY'] P=strikes O=['IRRIPPI ONTOR'] implicit=False ps="was knocked down by" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Irrippi Ontor was knocked down by the Hammer of the Sky
+[P5-A-B0023-016] S=['LUNAR PRIESTS'] P=binds O=['CARMANIAN CATAPHRACTS'] implicit=False ps="cast great binding magics upon" sug=binds
+   Q: the Lunar Priests cast great binding magics upon the Carmanian cataphracts, and succeeded in stopping all but the Elite, who were then engaged by the Full Moon Corps in close combat.
+[P5-A-B0023-017] S=['FULL MOON CORPS'] P=fights O=['ELITE CARMANIAN CATAPHRACTS'] implicit=False ps="engaged in close combat" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the Lunar Priests cast great binding magics upon the Carmanian cataphracts, and succeeded in stopping all but the Elite, who were then engaged by the Full Moon Corps in close combat.
+[P5-A-B0023-018] S=['YANAFAL TARNILS'] P=is identified as O=['SECOND ARROW'] implicit=False ps="The Second Arrow was" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Second Arrow was Yanafal Tarnils, War God for the Empire and Wielder of Fury, who fell first upon the King of the Carmanian gods.
+[P5-A-B0023-019] S=['WAR GOD FOR THE EMPIRE', 'WIELDER OF FURY'] P=is alternative name for O=['YANAFAL TARNILS'] implicit=False ps="War God for the Empire and Wielder of Fury" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Second Arrow was Yanafal Tarnils, War God for the Empire and Wielder of Fury, who fell first upon the King of the Carmanian gods.
+[P5-A-B0023-020] S=['YANAFAL TARNILS'] P=wounds O=['KARMANOS'] implicit=True ps="fell first upon; was wounded in the assault" sug=wounds
+   Q: who fell first upon the King of the Carmanian gods. || King Karmanos was wounded in the assault
+[P5-A-B0023-021] S=['KARMANOS'] P=rules O=['CARMANIAN GODS'] implicit=False ps="the King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: King Karmanos was wounded in the assault || the King of the Carmanian gods.
+[P5-A-B0023-022] S=['SONS OF KARMANOS'] P=fights O=['YANAFAL TARNILS'] implicit=True ps="engaged" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: brushed off Yanafal on to several of his sons, who engaged the Lunar War God and were slain.
+[P5-A-B0023-023] S=['SONS OF KARMANOS'] P=is child of O=['KARMANOS'] implicit=True ps="his sons" sug=is child of
+   Q: brushed off Yanafal on to several of his sons
+[P5-A-B0023-024] S=['HUMAKT'] P=fights O=['YANAFAL TARNILS'] implicit=False ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: At last Humakt fought Yanafal, but they fought each other to a standstill, even though Yanafal was aided by his devoted warriors and Humakt was not.
+[P5-A-B0023-025] S=['KANA POOR'] P=defeats O=['MINIONS OF CARMANIA'] MOD={"using": "LIGHT OF THE WORLD"} implicit=False ps="drive back" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: This was controlled by Kana Poor, Scribe of Time and Wielder of Age, who used the immense and all-pervasive light of the world to drive back the minions of Carmania with his Truth.
+[P5-A-B0023-026] S=['SCRIBE OF TIME', 'WIELDER OF AGE'] P=is alternative name for O=['KANA POOR'] implicit=False ps="Scribe of Time and Wielder of Age" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Kana Poor, Scribe of Time and Wielder of Age
+[P5-A-B0023-027] S=['ALTINAE DEMIGOD'] P=sacrifices O=['ALTINAE DEMIGOD', 'FOLLOWERS OF THE ALTINAE DEMIGOD'] MOD={"purpose_clause": "TO PROTECT"} implicit=False ps="sacrificed himself and his followers for the escape of" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: the surprise appearance of an Altinae demigod for the Carmanian side temporarily held the attackers as he sacrificed himself and his followers for the escape of a good portion of the men
+[P5-A-B0023-028] S=['RED GODDESS'] P=illuminates O=['CARMANIAN DEITIES'] implicit=True ps="her own secret Lunar light exposed in brilliance to" sug=illuminates
+   Q: The Fourth Arrow was delivered by the Goddess herself, and was her own secret Lunar light exposed in brilliance to the few remaining Carmanian deities.
+[P5-A-B0023-029] S=['RED GODDESS'] P=defeats O=['CARMANIAN DEITIES'] implicit=True ps="withered before the glare of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Their secret powers withered before the glare of the Goddess, and the remaining enemy deities fled or died.
+[P5-A-B0023-030] S=['LUNAR ARMY'] P=defeats O=['SHARDASH'] implicit=True ps="a complete sack and burning of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Goddess allowed her army to celebrate the victory with a complete sack and burning of the city of Shardash, which has remained in ruin ever since then.
+[P5-A-B0023-031] S=['RED GODDESS'] P=defeats O=['CULT OF VALARE ADDI'] implicit=False ps="put an end to" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Valare Addi fell into error and had hundreds of followers before the Red Goddess herself put an end to her cult in 0/23 (1243).
+[P5-A-B0023-032] S=['INHABITANTS OF CASTLE BLUE'] P=is identified as O=['VETH ETHDISI'] implicit=True ps="were an immortal race called" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The inhabitants of this castle were an immortal race called the Veth Ethdisi
+[P5-A-B0023-033] S=['CASTLE BLUE'] P=protects O=['PEOPLE ALONG THE SHORES OF THE LAKE'] implicit=True ps="had always defended them from external aggression" sug=one of: protects, rescues / frees, aids
+   Q: Castle Blue considered those people among their own followers, and had always defended them from external aggression.
+[P5-A-B0023-034] S=['RED GODDESS'] P=establishes cult O=['CULT OF THE RED GODDESS'] implicit=True ps="establishing an empire and a cult" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: It was as if the Goddess had proved her right to exist in the mortal world, establishing an empire and a cult, and also in the divine world, by returning from her Godquest.
+[P5-A-B0023-035] S=['OLD GODS'] P=fights O=['RED GODDESS'] MOD={"in_on_at": "LAKE ORONIN"} implicit=True ps="entered themselves and their followers into a two-year fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The gods, often with some reluctance, entered themselves and their followers into a two-year fight about Lake Oronin
+[P5-A-B0023-036] S=['HARASH DARBEEST'] P=is spouse of O=['PRINCESS FROM CASTLE BLUE'] implicit=False ps="married to" sug=is spouse of
+   Q: Harash Darbeest was the name of a human lord married to a princess from Castle Blue.
+[P5-A-B0023-037] S=['SONS OF DARBEEST'] P=pledges oath with O=[] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="took powerful oaths to avenge" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Harash was slain in the Battle of Four Arrows of Light, and his sons took powerful oaths to avenge the death.
+[P5-A-B0023-038] S=['SONS OF DARBEEST'] P=is child of O=['HARASH DARBEEST'] implicit=True ps="his sons" sug=is child of
+   Q: Harash was slain in the Battle of Four Arrows of Light, and his sons took powerful oaths to avenge the death.
+[P5-A-B0023-039] S=['SONS OF DARBEEST'] P=kills O=['TARNDARL SUNEYE'] MOD={"purpose_clause": "TO AVENGE"} implicit=False ps="ambushed and killed" sug=one of: kills, shatters, dies
+   Q: The Sons of Darbeest ambushed Tarndarl Suneye, who had released the magic that slew Harash, and killed him and all his company.
+[P5-A-B0023-040] S=['TARNDARL SUNEYE'] P=kills O=['HARASH DARBEEST'] MOD={"using": "MAGIC"} implicit=True ps="had released the magic that slew" sug=one of: kills, shatters, dies
+   Q: Tarndarl Suneye, who had released the magic that slew Harash
+[P5-A-B0023-041] S=['ARMY OF THE DEAD'] P=travels O=[] MOD={"from": "CASTLE BLUE"} implicit=False ps="sailed from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: When an army of the dead sailed from Castle Blue and burnt Meglardinth, the barrier between the worlds vanished
+[P5-A-B0023-042] S=['ARMY OF THE DEAD'] P=defeats O=['MEGLARDINTH'] implicit=False ps="burnt" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: When an army of the dead sailed from Castle Blue and burnt Meglardinth, the barrier between the worlds vanished
+[P5-A-B0023-043] S=['DOSKALOS THE SWORD IN THE EYE'] P=is alternative name for O=['SCARLET WARLORD'] implicit=False ps="also known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: her Scarlet Warlord (also known as Doskalos the Sword in the Eye)
+[P5-A-B0023-044] S=['RED GODDESS'] P=fights O=['OLD GODS'] MOD={"with_the_aid_of": ["SCARLET WARLORD", "CRIMSON BAT", "DENESKERVA"]} implicit=True ps="mustered a wide array of powers to confront" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Goddess mustered a wide array of powers led by her Scarlet Warlord (also known as Doskalos the Sword in the Eye) to confront the Old Gods, including the Crimson Bat and her daughter Deneskerva.
+[P5-A-B0023-045] S=['DENESKERVA'] P=is child of O=['RED GODDESS'] implicit=True ps="her daughter" sug=is child of
+   Q: including the Crimson Bat and her daughter Deneskerva.
+[P5-A-B0023-046] S=['ORLANTH'] P=challenges O=['RED GODDESS'] implicit=True ps="claimed the Goddess was evil" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Orlanth claimed the Goddess was evil
+[P5-A-B0023-047] S=['BLUE MEN'] P=serves O=['YARGAN'] implicit=False ps="worshipping" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: even the blue men worshipping YarGan came up from underneath the Sweet Sea to fight.
+[P5-A-B0023-048] S=['RED EMPEROR'] P=manifests O=[] implicit=False ps="appeared for the first time" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: A year into the fight, the Red Emperor appeared for the first time and for the rest of the battle was always seen at the side of his mother, the Red Goddess, along with his sister Deneskerva.
+[P5-A-B0023-049] S=['RED EMPEROR'] P=is child of O=['RED GODDESS'] implicit=False ps="his mother" sug=is child of
+   Q: the Red Emperor appeared for the first time and for the rest of the battle was always seen at the side of his mother, the Red Goddess
+[P5-A-B0023-050] S=['DENESKERVA'] P=is sibling of O=['RED EMPEROR'] implicit=True ps="his sister" sug=is sibling of
+   Q: his mother, the Red Goddess, along with his sister Deneskerva.
+[P5-A-B0023-051] S=['MOONSON'] P=strikes O=['ANCIENT HEROES', 'LIVING GODS'] implicit=False ps="struck down" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Moonson was a Hero of combat and rule, and struck down ancient heroes and living gods as easily as mortal men.
+[P5-A-B0023-052] S=['OLD GODS'] P=pledges oath with O=['RED GODDESS'] implicit=False ps="swore acceptance of" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: the Old Gods abased themselves before the Red Goddess and swore acceptance of her.
+[P5-A-B0023-053] S=['OLD GODS'] P=serves O=['RED GODDESS'] implicit=True ps="swore allegiance" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Some swore allegiance as well.
+[P5-A-B0023-054] S=['SURVIVING MEMBERS OF THE OLD RACE'] P=protects O=['MAIMED IMMORTALS'] implicit=True ps="nurse" sug=one of: protects, rescues / frees, aids
+   Q: Inside, it is said, they nurse the maimed and weakened casualties from among the immortals who also survived the War of Castle Blue
+[P5-A-B0023-055] S=['HIDDEN GREENS', 'KARTOLIN', 'CITY OF ROSE-COLORED GLASS'] P=is member of O=['HIDDEN CASTLES'] implicit=True ps="Other examples include" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Other examples include the Hidden Greens of otherwise deserted Prax, ghostly and deadly Kartolin of Ralios, the City of Rose-Colored Glass in the East, and several islands.
+[P5-A-B0023-056] S=['HUMANS', 'TROLLS', 'ALDRYAMI', 'MOSTALI'] P=sacrifices O=[] IO=['INHABITANTS OF THE HIDDEN CASTLES'] implicit=True ps="occasionally offered sacrifices" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: whether the friends, who occasionally offered sacrifices as well, were human, troll, Aldryami or Mostali.
+[P5-A-B0023-057] S=['VINYARGATHA'] P=claims ancestry O=['YELMGATHA'] implicit=False ps="claimed to be a "distant" son of" sug=claims ancestry
+   Q: The most notable was a Dara Happan nobleman named Vinyargatha who claimed to be a "distant" son of Yelmgatha.
+[P5-A-B0023-058] S=['VINYARGATHA'] P=challenges O=['RED EMPEROR'] implicit=False ps="sought to usurp the Red Emperor's throne" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Outlaws and rebels sought to usurp the Red Emperor's throne. || The most notable was a Dara Happan nobleman named Vinyargatha
+[P5-A-B0023-059] S=['FOLLOWERS OF THE RED GODDESS'] P=alters mythic station O=['DEMIGODS'] implicit=False ps="became demigods" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Several followers of the Red Goddess became demigods and were active during the First Wane.
+[P5-A-B0023-060] S=['DEEZOLA'] P=travels O=[] IO=['RED GODDESS'] MOD={"from": "MIDDLE WORLD", "to": "RED MOON"} implicit=False ps="had left to join" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: not all the Seven Mothers had yet left the Middle World to live on the Red Moon || even Queen Deezola had left to join the Red Goddess.
+[P5-A-B0023-061] S=['NEW GODS'] P=teaches O=['TEACHINGS OF THE RED GODDESS'] implicit=False ps="carried forth" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: These New Gods carried forth the teachings of the Red Goddess and filled roles in the growing Lunar pantheon.
+[P5-A-B0023-062] S=['DENESKERVA', 'SISTERHOOD OF NEW CONSCIOUSNESS'] P=teaches O=['ILLUMINATION'] implicit=False ps="brought Illumination and the truth about Nysalor to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Deneskerva and her Sisterhood of New Consciousness brought Illumination and the truth about Nysalor to those who would listen.
+[P5-A-B0023-063] S=['DENESKERVA', 'SISTERHOOD OF NEW CONSCIOUSNESS'] P=establishes cult O=['TEMPLE OF THE SISTERHOOD OF NEW CONSCIOUSNESS'] MOD={"in_on_at": "GLAMOUR"} implicit=True ps="built their first temple" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: They built their first delicate, lattice-like temple in Glamour in 1/35 (1282).
+[P5-A-B0024-001] S=['ETYRIES'] P=is child of O=['SOUTHERN MERCHANT'] implicit=False ps="originally the daughter of" sug=is child of
+   Q: Etyries, originally the daughter of a southern merchant who was illuminated at the feet of the Red Goddess, became a New God
+[P5-A-B0024-002] S=['RED GODDESS'] P=illuminates O=['ETYRIES'] implicit=False ps="was illuminated at the feet of" sug=illuminates
+   Q: Etyries, originally the daughter of a southern merchant who was illuminated at the feet of the Red Goddess, became a New God
+[P5-A-B0024-003] S=['ETYRIES'] P=alters mythic station O=['NEW GOD'] implicit=True ps="became a New God" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: became a New God when she traveled among many peoples and places, and used the mysteries of the Lunar Way to communicate with them.
+[P5-A-B0024-004] S=['VALARE ADDI'] P=travels O=[] MOD={"to": "HAGU"} implicit=False ps="traveled to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Valare Addi traveled to Hagu and both resurrected and redeemed herself.
+[P5-A-B0024-005] S=['VALARE ADDI'] P=resurrects O=['VALARE ADDI'] implicit=False ps="resurrected and redeemed herself" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: Valare Addi traveled to Hagu and both resurrected and redeemed herself.
+[P5-A-B0024-006] S=['VALARE ADDI'] P=alters mythic station O=['NEW GOD'] MOD={"to": "MOON"} implicit=True ps="was finally brought to the Moon as a New God" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: eventually went to Glamour where she was taken to the presence of the Red Emperor, and was finally brought to the Moon as a New God.
+[P5-A-B0024-007] S=['RED GODDESS'] P=travels O=[] MOD={"to": "SKY"} implicit=True ps="the ascent of the Goddess into the sky" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: the West Reaches of the new Lunar Empire erupted into war following the ascent of the Goddess into the sky.
+[P5-A-B0024-008] S=['HEIRS TO CARMANIA'] P=fights O=['LUNAR EMPIRE'] implicit=True ps="launched a furious war" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Heirs to Carmania, true and false, launched a furious war in the misguided hope that the Empire would be weaker without their Goddess present.
+[P5-A-B0024-009] S=['RED EMPEROR'] P=defeats O=['HEIRS TO CARMANIA'] implicit=True ps="led his army to meet the invaders and gained the first of many victories" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The Red Emperor led his army to meet the invaders and gained the first of many victories.
+[P5-A-B0024-010] S=['VAKTHAN'] P=is child of O=['RED EMPEROR'] implicit=True ps="one of his sons" sug=is child of
+   Q: He left Vakthan, one of his sons, in charge of securing peace upon the West Reaches
+[P5-A-B0024-011] S=['VAKTHAN'] P=rules O=['WEST REACHES'] MOD={"at_the_command_of": ["RED EMPEROR"]} implicit=True ps="in charge of securing peace upon" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: He left Vakthan, one of his sons, in charge of securing peace upon the West Reaches
+[P5-A-B0024-012] S=['VAKTHAN-ILART CLAN'] P=rules O=['ORONIN SATRAPY'] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Vakthan-ilart clan ruled the Oronin Satrapy at the time
+[P5-A-B0024-013] S=['JOKER PRINCE OF WORIAN'] P=kills O=['JOKER PRINCE OF WORIAN'] implicit=False ps="beheaded himself" sug=one of: kills, shatters, dies
+   Q: the Joker Prince of Worian threw his children into the raging Assail river and beheaded himself atop his fortress.

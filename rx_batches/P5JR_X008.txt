@@ -1,0 +1,121 @@
+### WOD-JR:01341 | WOD-JR | WOD-JR 32743 (A few notes on Arkat) | Select Month September 2026
+FIGURES: ARKAT, GBAJI, HARMAST BAREFOOT
+TEXT: However, what is known of Arkat is mainly consistent and contradictory romances and adventure stories. In Dragon Pass, we all know the story of how Arkat wielded the Unbreakable Sword, how he met Harmast Barefoot in the Underworld and they became fast friends and allies, how he fought against the broos of Snakepipe Hollow, how he hunted down the Riddlers and their Chaos friends, how he cursed the Telmori, how he caught the ogres and strung them up for their crimes, how he could not love the queen of Esrolia, how he betrayed mortals (and Harmast) to become a troll, and his great fight with Gbaji in Dorastor.
+TARGETS: possesses / wields; curses; hunts
+
+### WOD-JR:01345 | WOD-JR | WOD-JR 32742 (A few more Arkat Cult notes) | Select Month September 2026
+FIGURES: ARKAT, GOD LEARNERS
+TEXT: The God Learners destroyed Arkat's Dark Empire in 740, and his empire, and his cult, fell to conquerers who carried off his secrets, prizes, and wonders. At this point stop. The cult founded by Arkat, with its secrets, its knowledge of exploratory Heroquesting, its rigorous entrance requirements and strict rules and iron discipline – that's gone. The God Learners destroyed it, looted it, and wore its carcass as a hat.
+TARGETS: possesses / wields
+
+### WOD-JR:01361 | WOD-JR | WOD-JR 32724 (The Holy Country after 1616) | Select Month September 2026
+FIGURES: BELINTAR, THE MASTERS OF LUCK AND DEATH
+TEXT: When Belintar died and did not return in 1616, the Holy Country quickly fell apart as a unified kingdom. As not one but two Tournaments of the Masters of Luck and Death failed to produce a successor, the local rulers of the Sixths quickly spun off and charted their own course, although they remained in contact with each other.
+TARGETS: dies
+
+### WOD-JR:01368 | WOD-JR | WOD-JR 32580 (A Brithini Story) | Select Month September 2026
+FIGURES: INVISIBLE GOD, MALKION
+TEXT: The Destroyer inhabited half of 1, and brought it to death. Malkion took our race in his hand, for we alone were loyal to the 1. When was born again he taught his secrets to us, and we are the Chosen People. When all else devolved into more, we maintained our contact with the 1. We are the chosen of the Invisible God. We are good, all else is defiled.2 is the Destroyer. All that is touched by his power is dead or dying, and will eventually die and be gone. That will leave the 1 again.
+TARGETS: dwells at; dies
+
+### WOD-JR:01373 | WOD-JR | WOD-JR 32715 (Masters of Luck and Death II) | Select Month September 2026
+FIGURES: BELINTAR, JAR-EEL
+CONTEXT: can be thought of as a gigantic temple to the Gods of Glorantha, where we mortals can exist in close proximity to the divine (and likely a reformation of the Proximate Holy Realm of the Second Age). The energies gathered and released by the Tournament holds this proximate realm in suspension – Belintar draws upon its potential to work wonders. Think of it a little like a magical nuclear reactor.
+TEXT: This magic energy is too great for any mortal to wield indefinite, and again the Tournament is an answer. When the mortal form of Belintar expires, the Tournament creates a new Belintar, who again wields the magical potential of the Holy Country. The Tournament draws participants from all over the lozenge (no doubt resulting in plenty a lost weekend and weird memories), but the locals have channels that make it easiest for them to participate. Belintar expired in 1616 because of the magical strain holding things together with the double whammy of invasions by the Western Barbarians and the Wolf Pirate – think of this like the Sea People and Ramses III. Jar-eel had prepared for this and entered the Secret Paths and killed any hapless contestants that came across her at the Gate. Anytime the Tournament is begun, She is now there, a roaming hunter-killer who prevents the game from being complete. The Tournament cannot be completed. Each time it has been attempted, the magical energies were summoned and released, and could not be held in suspension.
+TARGETS: possesses / wields
+
+### WOD-JR:01376 | WOD-JR | WOD-JR 32715 (Masters of Luck and Death II) | See also
+FIGURES: BELINTAR, THE MASTERS OF LUCK AND DEATH
+TEXT: That's not to say there aren't governments in the Sixths, but those are most built on local traditions. As you can see, the Tournament of the Masters of Luck and Death is far more important than "just" a means of producing the new Belintar when the old Belintar's mortal body has died. It is one of the Thelemic batteries powering the Third Age (another floats over the Crater, but that is for a different chat).
+TARGETS: dies
+
+### WOD-JR:01390 | WOD-JR | WOD-JR 32712 (Orlanth in Sartar) | Orlanth by Agathe Pitié
+FIGURES: ORLANTH
+TEXT: Most Orlanth cultists are perfectly willing to accept that their god broke AND fixed the world. They aren't moderns who need to have their gods be perfect in order to worship them.Orlanth is a Storm God. Anyone who has ever lived in a part of the world with big storms – floods, hailstorms, tornadoes, gales that tear off roofs, etc. – know that storm is destructive and often indiscriminate. That's part of the reason you know they are divine and you worship them.
+TARGETS: dwells at
+
+### WOD-JR:01395 | WOD-JR | WOD-JR 32712 (Orlanth in Sartar) | Orlanth by Agathe Pitié
+FIGURES: ERNALDA, ORLANTH, VINGA, YINKIN
+TEXT: Orlanthi religion celebrates sexuality as the cup of life. Ernalda is the goddess of women and of sex, and has many lovers and husbands among the gods, although Orlanth is mightiest among them. Orlanth and his half-brother Yinkin had many amatory adventures with countless goddesses and several gods. The fertilizing rain that makes agriculture possible is thought of as the corporeal love of Orlanth and Ernalda. Orlanth even has a female incarnation, Vinga, who is worshiped by women who wield Orlanth's magic.
+TARGETS: possesses / wields
+
+### WOD-JR:01414 | WOD-JR | WOD-JR 32516 (The Other Lightbringers in Sartar) | Select Month September 2026
+FIGURES: CHALANA ARROY, ERNALDA, EURMAL, ISSARIES, LHANKOR MHY, LIGHTBRINGERS, ORLANTH
+TEXT: The other Lightbringers (Chalana Arroy, Eurmal, Issaries, and Lhankor Mhy) have large and well-developed cults in Sartar. These cults are primarily centered on the cities – few tribes, let alone clans, can support the number of specialists needed to maintain a temple to the God of Scribes or the Goddess of Healing, but all of Sartar's cities have shrines or temples to each of the Lightbringers (although the Eurmal shrine is usually within the Orlanth temple). The Sartar Dynasty serve as patrons of the Lightbringer cults, even during the Lunar Occupation. Sartar built temples to Chalana Arroy, Issaries, and Lhankor Mhy in his cities, gave them gifts and endowments, and his heirs maintained and expanded upon these. His dynasty strongly supported trade, knowledge, and healing – and those cults received much largess. For example, the libraries of Boldhome and Jonstown are among the most important in the Third Age, and the dynasty was renowned for its learning and literacy. Royal scribes serve the prince and the city rulers. Issaries and Chalana Arroy have been similarly supported, and even Eurmal's cult has received (admittedly more limited) patronage – Clown Tower in Boldhome is a rare public temple to Eurmal. These cults tend to have a broader perspective than the clan and tribal-based Orlanth and Ernalda cults, and members largely stay neutral in tribal conflicts. During the Lunar Occupation, they were largely untroubled by the Provincial Government and they continued as they had before, albeit with less support and patronage.
+TARGETS: heals
+
+### WOD-JR:01428 | WOD-JR | WOD-JR 32555 (Other Names of Lodril) | Veskarthan
+FIGURES: ARGAN ARGAR, CALADRA AND AURELION, LODRIL, ONLY OLD ONE, VESKARTHAN
+TEXT: Veskarthan the Deep is the God of the Vent, a great volcano in Caladraland. He is a great and lusty fighter, known for his ability to consume great quantities of anything. He was defeated by Argan Argar and forced to build the Palace of Black Glass for the Only Old One. His cult acknowledges him as a local name for Lodril. He is the father of Caladra and Aurelion.
+TARGETS: loves / desires
+
+### WOD-JR:01438 | WOD-JR | WOD-JR 32556 (Notes on Saird) | Select Month September 2026
+FIGURES: ELMAL, ONLY OLD ONE, YELMALIO
+TEXT: When you tell the story from this perspective, the Praxian Sun Dome Temple is just a weird footnote ("did you know that Yelmalio made it all the way to Prax in the Second Age, and there is a weird little colony of them still there! Wow!"), and the whole Elmal-Yelmalio thing becomes another footnote ("did you know that the rebellious Hendriking tribe had a weird little Yelmalio variant that was tolerated by the trolls and the Only Old One, but it died out in the 1550s when they embraced the larger Yelmalio cult?").
+TARGETS: dies
+
+### WOD-JR:01442 | WOD-JR | WOD-JR 32556 (Notes on Saird) | Holay Political map
+FIGURES: BROKEN COUNCIL, GBAJI, NYSALOR, THE DRAGONS, YELM, YELMALIO
+TEXT: But didn't Yelmalio throw in with Nysalor/Gbaji? And is Yelm down with Chaos? Yelmalio supported the Broken Council. He also hates trolls and is none too fond of dragons. To tell the truth, he might hate trolls EVEN MORE than he hates Chaos.
+TARGETS: hates / fears
+
+### WOD-JR:01446 | WOD-JR | WOD-JR 32559 (Pockets of Boldhome II) | Select Month September 2026
+FIGURES: LIGHTBRINGERS
+TEXT: Each gallery has its collection of rooms that are used for worship. They are carved with images of the gods, many engaged in copulation to display the Life-Creative power of the Lightbringers and the Earth Goddesses. These rooms are called the gallery Temples, but typically function as shrines to whatever are the predominant gods of the inhabitants of the gallery.
+TARGETS: dwells at
+
+### WOD-JR:01447 | WOD-JR | WOD-JR 32559 (Pockets of Boldhome II) | Select Month September 2026
+FIGURES: MOSTALI, ORLANTH
+TEXT: At the very rear of each gallery is a sacred Air shrine, where all the Mostali chimneys and tunnels gather. This chamber appears as vents that runs from the lowest terrace to the open air. Air rushes in and out of these vents, assisted by air elementals and spirits. There are shrines to the Breather Within where the inhabitants call upon the powers of Air to keep the Pocket habitable. During the Lunar Occupation, these served as a hidden Temple to Orlanth Victorious, where the god was worship despite the Lunar ban.
+TARGETS: dwells at
+
+### WOD-JR:01456 | WOD-JR | WOD-JR 32565 (Vinga art preview) | Vinga by Katrin Dirim
+FIGURES: ARGRATH, SHENG SELERIS
+TEXT: And the little jot about how YA loses two arms fighting Sheng Seleris in the Argrath Saga is a nod to the art screwup. This bit: At last dusk arrived, and the six armed goddess of Saird was freed. Like a wolf spider leaping upon a fly, she was upon the king of the nomads. Even though he was stripped of his guardians Sheng Seleris was no weakling, and now the goddess is known as the goddess of six arms and four hands. But she bit and broke him to death, and by dawn had dragged his soul to eternal punishment once again.
+TARGETS: punishes / exiles
+
+### WOD-JR:01460 | WOD-JR | WOD-JR 32498 (Sartarite Military) | Select Month September 2026
+FIGURES: ARGRATH, KALLYR STARBROW
+TEXT: Prior to the Lunar Occupation, the Sartarite army was primarily foot militia led by mounted noblemen called thanes. The army was augmented by warrior societies, mercenaries, and various allied troops (such as Grazelanders, Pol-Joni, and Sun Dome Templars). Sartar's military after the Liberation was a motley conglomeration of causes, defying neat and easy categorization and organization. During Prince Kallyr's short reign, the Sartarite military consisted of her friends and companions, her personal followers, her tribe (the Kheldon), and whatever city and tribal militia would follow her to battle. During the Interregnum (1626-1627), central authority in Sartar disintegrated, and the Sartarite army was reduced to feuding tribal mobs. Upon his acclamation as Prince in 1627, Argrath concentrated upon strengthening his internal position, and above all, his army. Building on his own personal cavalry forces he raised in Prax, he made his army the greatest source of wealth, honor, and power in the principality, and quickly transformed the Sartarite army to become a uniquely flexible and effective force.
+TARGETS: hates / fears
+
+### WOD-JR:01466 | WOD-JR | WOD-JR 32512 (The Geography of Dragon Pass and Sartar) | General Description
+FIGURES: THE DEAD
+TEXT: Much of this area is a karst landscape covered by a dissected plateau of limestone and sandstone, created when the oceans covered the land in the Lesser Darkness. During the Gods War, the original limestone and sandstone rocks were folded into troughs by igneous intrusions of granite and quartz. Rampaging storm gods wore this down to rolling hills, buttes, and mesas, exposed the granite cores, and left a rugged and strikingly beautiful landscape. Creeks and rivers have carved out twisting but fertile valleys. The Starfire Ridges in western Sartar are the first in a series of ridges between the Upland Marsh and Prax. A seismically active area, the Starfire Ridges are a mass of tuff and sandstone, and a geothermal area called the Cinder Pits with steaming sulfur vents. West of the Starfire Ridges are the grasslands that surround the Upland Marsh, a vast bog of murky islands, rocky outcroppings, and groves of cypress and blackthorn trees standing out of the dead plant material and black water. The bog is ringed with a narrow fence of hardwood trees.
+TARGETS: possesses / wields
+
+### WOD-JR:01477 | WOD-JR | WOD-JR 32342 (The Lunars and Chaos) | Select Month September 2026
+FIGURES: GBAJI, NEW GODS, RED GODDESS, SEVEN MOTHERS
+TEXT: The Seven Mothers are NOT tainted by Chaos, but they helped bring her into existence. They aid the Red Goddess by wielding powers she lacks, and being able to interact with powers that reject her.Most Lunars believed that the Red Goddess shall free the world from bondage and liberate the minds and souls of all. This is her promise and much of the appeal of the Lunar Religion even in places like Sartar.Most Orlanthi believed the Red Goddess is one of the Lords of Terror, Gbaji reborn, and the harbinger of a new Gods War. This is why she is hated and feared and even rival gods are willing to cooperate against her.
+TARGETS: hates / fears; possesses / wields
+
+### WOD-JR:01483 | WOD-JR | WOD-JR 32343 (Notes on Glamour) | Select Month September 2026
+FIGURES: BROKEN COUNCIL, RED EMPEROR
+TEXT: But like any empire, expansion is not inevitable or inexorable. The Broken Council, the EWF, and the Middle Sea Empire all collapsed in a generation or two after reaching dizzying heights. Was it inevitable that the Lunar Empire would come into a death lock with the Orlanthi of Dragon Pass? Many historians think not – and until the Sixth Wane, many would assume that a renewed threat from the Pentan tribes would have been the greater concern for the Red Emperor. But after the Nights of Horror that threat was ended. There simply were no Pentans left – or at least too few to worry about. For the next century, the Lunar Empire was able to put the traditional Pelorian fear of nomadic nations aside and went adventuring. Unfortunately, those adventures started awakening more dangerous adversaries right about the time that the Pentans had recovered their numbers and their fears had finally dissipated. (See that use of the past tense?)
+TARGETS: hates / fears
+
+### WOD-JR:01494 | WOD-JR | WOD-JR 32337 (God Time Paradox of the Red Goddess Cult) | Select Month September 2026
+FIGURES: ERNALDA, LIGHTBRINGERS, MARAN GOR, ORLANTH, YELMALIO
+TEXT: Some food for thought – Almost all of the Lunar temples outside of the Lunar Heartlands are unusual in that they do not have a ready connection with the history or mythological landscape of the area. When Dragon Pass was resettled, the settlers knew that Orlanth, Ernalda, the Lightbringers, Yelmalio, etc. all "resided there". In many cases, temples were built on the old temples from before Dragonkill. Boldhome was built in a valley sacred to the Orlanth cult since First Age. Clearwine Earth Temple had been an active place of Earth worship since the Second Age at least, and the Shaker Temple has been the home of Maran Gor since before the Dawn. The physical structures might be new, but the place has been connected to the god since forever.
+TARGETS: dwells at
+
+### WOD-JR:01495 | WOD-JR | WOD-JR 32337 (God Time Paradox of the Red Goddess Cult) | Select Month September 2026
+FIGURES: LIGHTBRINGERS, RED GODDESS, SEVEN MOTHERS
+TEXT: Not so with the Lunar temples in Dragon Pass. The Red Goddess lived in Time and her myth-creating deeds were all in the Lunar Heartlands. The Seven Mothers get temples first, and they conceptually relate to the Seven Lightbringers – but they were mortals in Time. Their temples are places where the Red Moon (visible in the sky) can be contacted, not necessarily where the Seven did anything in Time or mythology. This is tied to the whole God Time paradox of the Red Goddess cult. Go to the God Time and you aren't going to see the Red Moon – it isn't there! But you can go to the Red Moon in the Hero Plane through secret paths Lunar heroquesters have discovered/made. And even stranger, sometimes the Red Goddess herself is encountered in the Hero Plane – even though she didn't exist then!
+TARGETS: dwells at
+
+### WOD-JR:01499 | WOD-JR | WOD-JR 32337 (God Time Paradox of the Red Goddess Cult) | Chapter plate for The Redline history of the
+FIGURES: CRIMSON BAT, RED GODDESS
+TEXT: The Malkioni, Orlanthi, Doraddi, Trolls, and the Praxians all have the same basic objection to this – it is a deliberate embrace of Chaos into the world. Horrors like the Crimson Bat or the Moonburn cannot be justified with mystical mumbo-jumbo about "world healing." All of these religions conclude that the Red Goddess used Chaos to achieve Goddesshood and that her presence between Time and the God Time threatens the cosmos.
+TARGETS: heals
+
+### WOD-JR:01507 | WOD-JR | WOD-JR 32329 (Erenava Chan) | Select Month September 2026
+FIGURES: KALLYR STARBROW, KANGHARL
+CONTEXT: n, she fled with her mother and father to Whitewall, and then to Esrolia where she linked up with her older sister (a Babeester Gor cultist) and dedicated herself to the Goddess in Esrolia. After giving birth to her first daughter, she became an Earth Priestess in Nochet until she and her sister returned to Clearwine in late 1624. Her grandmother proclaimed her the new High Priestess soon after.
+TEXT: Her brother Kangharl died in the Dragonrise and she supported her cousin Leika to become tribal leader shortly after. But Erenava Chan may well be the most influential and powerful member of the tribe. She blames Kallyr Starbrow for her parent's exile (and later death), and for her brother's failures as a king, and only grudgingly supports her as Prince.
+TARGETS: dies
+
+### WOD-JR:01516 | WOD-JR | WOD-JR 32321 (Justice in Dara Happa and the Lunar Hear) | Select Month September 2026
+FIGURES: HON-EEL, HWARIN DALTHIPPA, JAR-EEL, RED EMPEROR, RED GODDESS
+TEXT: 2. Vengeance against those who have wronged. The wheel of vengeance will eventually crush all those who have wronged others. One must suffer, that is part of existence, but in the end, justice requires that those who suffered unfairly must be avenged. This is derived most strongly from the Red Goddess, although there are clearly Carmanian and Spolite antecedents to this. This is usually entrusted to the Red Emperor and his family – Hwarin Dalthippa brought down the barbarians of Saird and Imther who broke the gates of Glamour, Hon-eel brought down the Pentans, Jar-eel took vengeance against the White Moonies and their blasphemies, and later avenged those wronged by the Pentan invasion, etc.
+TARGETS: avenges

@@ -1,0 +1,300 @@
+[P5-B-B0001-001] S=['HERJAN'] P=kills O=['FROALAR'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Herjan then pursued it into its lair and killed it, not knowing until its dying breath that it was Froalar, the ancient protective power of the kingdom.
+[P5-B-B0001-002] S=['FROALAR'] P=has monstrous form O=[] implicit=False ps="gigantic serpent" sug=has anomalous form (qual=monstrous)
+   Q: drove off a gigantic serpent that haunted the land. Herjan then pursued it into its lair and killed it, not knowing until its dying breath that it was Froalar
+[P5-B-B0001-003] S=['HERJAN'] P=fights O=['LUATHA'] implicit=True ps="fighting" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Herjan tried to die fighting them.
+[P5-B-B0001-004] S=['FROALAR'] P=travels O=[] MOD={"from": "BRITHOS", "to": "FROWAL", "via": ["NELIOMI SEA"]} implicit=True ps="sailed across" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Talar Froalar sailed across the Neliomi Sea with a band of settlers to found the colony of Frowal.
+[P5-B-B0001-005] S=['FROALAR'] P=is member of O=['TALAR'] implicit=False ps="Talar" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Talar Froalar sailed across the Neliomi Sea with a band of settlers to found the colony of Frowal.
+[P5-B-B0001-006] S=['XEMELA'] P=sacrifices O=[] implicit=False ps="self-sacrifice" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: the settlement survived thanks to the self-sacrifice of Queen Xemela
+[P5-B-B0001-007] S=['YLREAM'] P=is child of O=['FROALAR', 'SESHNA LIKITA'] implicit=False ps="son of" sug=is child of
+   Q: The son of Talar Froalar and the Land Goddess Seshna Likita, King Ylream
+[P5-B-B0001-008] S=['YLREAM'] P=is sibling of O=['HRESTOL'] implicit=False ps="younger half-brother of" sug=is sibling of
+   Q: The younger half-brother of Prince Hrestol, King Ylream
+[P5-B-B0001-009] S=['YLREAM'] P=has hybrid form O=[] implicit=True ps="instead of legs, he has great limbs like snake tails" sug=has anomalous form (qual=hybrid)
+   Q: instead of legs, he has great limbs like snake tails.
+[P5-B-B0001-010] S=['YLREAM'] P=serves O=['SESHNA LIKITA'] implicit=True ps="worshiping" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: King Ylream is worshiping his mother
+[P5-B-B0001-011] S=['YLREAM'] P=rules O=['SESHNELA'] implicit=False ps="reigned" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: King Ylream reigned only three years as the Sacred Lord of Seshnela
+[P5-B-B0001-012] S=['YLREAM'] P=descends into O=[] MOD={"to": "EARTH"} implicit=True ps="disappeared into" sug=one of: descends into, dies
+   Q: he disappeared into the earth in the Year 27 before the astonished eyes of his court.
+[P5-B-B0001-013] S=['HRESTOL'] P=initiates into cult O=['YADMOV', 'FARAALZ'] implicit=False ps="initiated" sug=initiates into cult
+   Q: Among the King's Companions are Yadmov, Talar of Neleoswal, and Faraalz, Talar of Vensket. Both were among the original Men-of-All initiated by Prince Hrestol
+[P5-B-B0001-014] S=['TERONA'] P=is spouse of O=['YLREAM'] implicit=True ps="wife" sug=is spouse of
+   Q: They include the King's wife Terona, daughter of Talar Antalos of Brithos
+[P5-B-B0001-015] S=['TERONA'] P=is child of O=['ANTALOS'] implicit=False ps="daughter of" sug=is child of
+   Q: Terona, daughter of Talar Antalos of Brithos
+[P5-B-B0001-016] S=['NEBROLA'] P=is sibling of O=['YLREAM'] implicit=True ps="sister" sug=is sibling of
+   Q: his sister Nebrola, daughter of King Froalar and Seshna Likita
+[P5-B-B0001-017] S=['NEBROLA'] P=is child of O=['FROALAR', 'SESHNA LIKITA'] implicit=False ps="daughter of" sug=is child of
+   Q: Nebrola, daughter of King Froalar and Seshna Likita
+[P5-B-B0001-018] S=['NEBROLA'] P=serves O=['SESHNA LIKITA'] implicit=False ps="High Priestess of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Nebrola, daughter of King Froalar and Seshna Likita and High Priestess of Seshna.
+[P5-B-B0001-019] S=['SERPENT KINGS'] P=rules O=[] implicit=False ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The Serpent Kings ruled in a time when the difference between man and beast was not as great as it is now.
+[P5-B-B0001-020] S=['HRESTOL'] P=wounds O=['GODDESS OF THE PENDALI'] implicit=False ps="crippled" sug=wounds
+   Q: Then Hrestol went into the heart of the land and crippled the goddess of the Pendali.
+[P5-B-B0001-021] S=['HRESTOL'] P=is member of O=['TALAR'] implicit=True ps="Talar caste" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: taboos of his Talar caste
+[P5-B-B0001-022] S=['HRESTOL'] P=travels O=[] MOD={"to": ["AKEM", "BRITHOS"]} implicit=False ps="traveled to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Hrestol himself traveled to the Malkioni colonies in Akem and then to Brithos itself.
+[P5-B-B0001-023] S=['HRESTOL'] P=is child of O=['FROALAR'] implicit=False ps="father" sug=is child of
+   Q: Froalar, Hrestol's father
+[P5-B-B0001-024] S=['FROALAR'] P=marries O=['SESHNA LIKITA'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: He courted and married Seshna Likita, the goddess of the land.
+[P5-B-B0001-025] S=['SERPENT KINGS'] P=is child of O=['FROALAR'] implicit=False ps="fathered" sug=is child of
+   Q: Froalar fathered a race of sacred kings bearing serpentine tails instead of legs known as the Serpent King Dynasty.
+[P5-B-B0001-026] S=['SERPENT KINGS'] P=defeats O=['PENDALI'] MOD={"with_the_aid_of": ["SESHNA LIKITA"]} implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: With the aid of Seshna Likita, the Serpent Kings defeated the Pendali, who fled to Tanisor.
+[P5-B-B0001-027] S=['PENDALI'] P=flees to O=[] MOD={"to": "TANISOR"} implicit=False ps="fled to" sug=flees to
+   Q: the Pendali, who fled to Tanisor.
+[P5-B-B0001-028] S=['GWALORING'] P=establishes cult O=['NYSALOR'] implicit=True ps="had shrines to the new god set up" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: King Gwaloring of Seshnela had shrines to the new god set up in all his cities.
+[P5-B-B0001-029] S=['RULERS OF TANISOR'] P=pledges oath with O=['CHAOS'] implicit=False ps="make pacts with" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: the rulers of Tanisor were arrogant and fearful enough to want to maintain their present consciousness forever and the foreigners showed them how to make pacts with Chaos to do so.
+[P5-B-B0001-030] S=['KINGDOM OF TANISOR'] P=defeats O=['BRITHINI ARMY'] implicit=False ps="was defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Around 400, a Brithini army liberated Arolanit from the foreigners, but was defeated when they attacked the Kingdom of Tanisor.
+[P5-B-B0001-031] S=['ARKAT'] P=is member of O=['BRITHINI'] implicit=False ps="Brithini soldiers" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: One of the Brithini soldiers, named Arkat, went to Seshnela
+[P5-B-B0001-032] S=['ARKAT'] P=travels O=[] MOD={"to": "SESHNELA"} implicit=False ps="went to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: One of the Brithini soldiers, named Arkat, went to Seshnela
+[P5-B-B0001-033] S=['NYSALOR'] P=is identified as O=['GBAJI'] MOD={"at_the_instigation_of": ["ARKAT"]} implicit=False ps="recognized as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: the Nysalor cult whom Arkat recognized as Gbaji the Deceiver.
+[P5-B-B0001-034] S=['ARKAT'] P=initiates into cult O=['HRESTOLI'] implicit=False ps="became a Hrestoli Man-of-All" sug=initiates into cult
+   Q: Arkat became a Hrestoli Man-of-All
+[P5-B-B0001-035] S=['ARKAT'] P=fights O=['NYSALOR'] implicit=False ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: fight the Nysalor cult whom Arkat recognized as Gbaji the Deceiver.
+[P5-B-B0001-036] S=['ARKAT'] P=fights O=['VAMPIRE KINGS OF TANISOR'] implicit=False ps="destroy" sug=shatters
+   Q: Arkat was appointed Sacred Warlord by the Malkioni wizards to destroy the Vampire Kings of Tanisor.
+[P5-B-B0001-037] S=['ARKAT'] P=serves O=['INVISIBLE GOD'] implicit=False ps="worshiping" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Arkat quit worshiping the Invisible God
+[P5-B-B0001-038] S=['ARKAT'] P=serves O=['ORLANTH'] implicit=True ps="joined" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: joined the barbarian Orlanth cult.
+[P5-B-B0001-039] S=['ARKAT'] P=travels O=[] MOD={"to": "DORASTOR"} implicit=True ps="followed" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: followed him all the way to Dorastor.
+[P5-B-B0001-040] S=['GERLANT FLAMESWORD'] P=is child of O=['ARKAT'] implicit=False ps="son of" sug=is child of
+   Q: Gerlant Flamesword, said by many to be the son of Arkat
+[P5-B-B0001-041] S=['GERLANT FLAMESWORD'] P=rules O=['SESHNELA'] implicit=True ps="became king" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Gerlant became king when the Seshnegi royal house died out and founded a new dynasty called the Flame Kings.
+[P5-B-B0001-042] S=['LUATHA'] P=shatters O=['OLD SESHNELA'] implicit=False ps="destroyed" sug=shatters
+   Q: until Old Seshnela was destroyed by the Luatha.
+[P5-B-B0001-043] S=['NELEOS'] P=sacrifices O=['FAN OF THE SHALLOWS', 'OLD OCEAN'] implicit=True ps="instituted regular sacrifice to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: Neleos instituted regular sacrifice to her, her river brother, and her father the Old Ocean.
+[P5-B-B0001-044] S=['DAMOL'] P=is child of O=['AERLIT'] implicit=False ps="son of" sug=is child of
+   Q: the demigod Damol, the Lord of the West and son of the air god Aerlit
+[P5-B-B0001-045] S=['DAMOL'] P=serves O=['THAMOR'] implicit=True ps="served" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: who was tamed by King Thamor and served him loyally.
+[P5-B-B0001-046] S=['THAMOR'] P=is member of O=['SERPENT KINGS'] implicit=False ps="the Serpent King" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Sacred Lord Thamor the Serpent King
+[P5-B-B0001-047] S=['DAMOL'] P=defeats O=['ROLFASLAND'] implicit=True ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: conquered in 36 by the demigod Damol, the Lord of the West and son of the air god Aerlit.
+[P5-B-B0001-048] S=['SERPENT KINGS'] P=defeats O=['PENDALI'] implicit=True ps="driven out" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: were finally driven out by the Serpent Kings and their sorcerers in 112.
+[P5-B-B0001-049] S=['HRESTOL'] P=travels O=[] MOD={"to": "TEMPLE"} implicit=True ps="entered" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: First entered by Prince Hrestol, it gained in importance after the marriage of King Froalar and the Goddess in the year 3.
+[P5-B-B0001-050] S=['FROALAR'] P=marries O=['SESHNA LIKITA'] implicit=True ps="marriage" sug=is spouse of (qual=wedding)
+   Q: after the marriage of King Froalar and the Goddess in the year 3.
+[P5-B-B0001-051] S=['YLREAM'] P=sacrifices O=['SESHNA LIKITA'] implicit=True ps="swore to give a quarter of the kingdom's revenues to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: swore to give a quarter of the kingdom's revenues to the Goddess.
+[P5-B-B0001-052] S=['SESHNEGI'] P=defeats O=['PENDALI'] implicit=False ps="expelled" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: They resisted the Seshnegi until the Pendali were expelled in 108
+[P5-B-B0002-001] S=['THE JRUSTELI'] P=defeats O=['BARBARIANS'] MOD={"from": "TANISOR"} implicit=False ps="driving out" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The land was rescued by the Jrusteli, bearing the new words of Malkion in the Abiding Book and driving out the barbarians from Tanisor.
+[P5-B-B0002-002] S=['INVISIBLE GOD'] P=bestows magic / gifts O=['SESHNELA'] implicit=False ps="blessings of" sug=one of: bestows, heals, imbues, teaches
+   Q: it was Seshnela that received the blessings of the Invisible God
+[P5-B-B0002-003] S=['ARKAT'] P=kills O=['VAMPIRE KINGS'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: everyone remembered the Vampire Kings that Arkat killed.
+[P5-B-B0002-004] S=['WIZARDS'] P=discovers O=['LOST KINGSHIP RITES'] implicit=False ps="discovered" sug=discovers
+   Q: wizards discovered the lost kingship rites
+[P5-B-B0002-005] S=['AAMOR'] P=is child of O=['DANDOMAL'] implicit=False ps="son of" sug=is child of
+   Q: Aamor: The son of Dandomal, the rebellious count of Dangim
+[P5-B-B0002-006] S=['DAGRAM'] P=kills O=['FAMILY OF AAMOR'] MOD={"at_the_command_of": ["GUILMARN THE FAT"]} implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: When the rest of his family was killed by his usurping uncle Dagram at King Guilmarn's behest
+[P5-B-B0002-007] S=['AAMOR'] P=flees to O=['FORNOAR'] implicit=False ps="escape to" sug=flees to
+   Q: Aamor managed to escape to Fornoar
+[P5-B-B0002-008] S=['MULARIK IRONEYE'] P=claims ancestry O=['ARKAT'] implicit=False ps="claims to be a lineal descendant of" sug=claims ancestry
+   Q: Mularik Ironeye: This Arkati warrior-wizard from Dangk claims to be a lineal descendant of Arkat Chaosbane.
+[P5-B-B0002-009] S=['MULARIK IRONEYE'] P=flees to O=['CASTLE COAST'] implicit=True ps="fled to" sug=flees to
+   Q: He fled to the Castle Coast when Tanisor conquered Dangim
+[P5-B-B0002-010] S=['TANISOR'] P=defeats O=['DANGIM'] implicit=False ps="conquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: when Tanisor conquered Dangim
+[P5-B-B0002-011] S=['MULARIK IRONEYE'] P=is member of O=['WOLF PIRATES'] implicit=False ps="joined" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Mularik and his company have joined the Wolf Pirates
+[P5-B-B0002-012] S=['WOLF PIRATES'] P=serves O=['HARREK THE BERSERK'] implicit=False ps="accompany" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Wolf Pirates that accompany Harrek the Berserk.
+[P5-B-B0002-013] S=['HALWAL'] P=is member of O=['ORDER OF SPIRITUAL PURITY'] implicit=False ps="spiritual advisor to" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Halwal was an outstanding wizard, legalist, and spiritual advisor to the extremist Order of Spiritual Purity.
+[P5-B-B0002-014] S=['HALWAL'] P=departs from O=['SESHNELA'] implicit=False ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Halwal left Seshnela and waged a 70 year war against the remaining God Learner wizards.
+[P5-B-B0002-015] S=['HALWAL'] P=fights O=['GOD LEARNER WIZARDS'] implicit=True ps="waged a 70 year war against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: waged a 70 year war against the remaining God Learner wizards.
+[P5-B-B0002-016] S=['HALWAL'] P=bestows magic / gifts O=['KING OF LOSKALM'] MOD={"with_the_aid_of": ["LOSKALMI REBELS"]} implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: He enlisted the aid of the Loskalmi rebels and gave the new King of Loskalm his regalia.
+[P5-B-B0002-017] S=['YOMILI'] P=defeats O=['HALWAL'] implicit=True ps="thwarted" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: sought to find the True Arkat, but was thwarted by Yomili.
+[P5-B-B0002-018] S=['SAVALA'] P=is spouse of O=['GUILMARN THE FAT'] implicit=True ps="favorite wife" sug=is spouse of
+   Q: Savala, Queen of Seshnela: The king's favorite wife
+[P5-B-B0002-019] S=['TALAR MALASKAN PHILLIPPE'] P=rules O=['AROLANIT'] implicit=False ps="ruler of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Talar Malaskan Phillippe: The current ruler of Arolanit
+[P5-B-B0002-020] S=['TALAR MALASKAN PHILLIPPE'] P=claims ancestry O=['MALKION'] implicit=True ps="great-grandson of" sug=claims ancestry
+   Q: the four-times removed great-grandson of Malkion the Prophet.
+[P5-B-B0002-021] S=['TALAR MALASKAN PHILLIPPE'] P=fights O=['GRACHAMAGACAN'] implicit=True ps="tore the helmet off" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He led part of the Fourth Brithos Army of Law, and tore the helmet off Grachamagacan the Iron Vampire, King of Tanisor, when Arkat slew it.
+[P5-B-B0002-022] S=['ARKAT'] P=kills O=['GRACHAMAGACAN'] implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: when Arkat slew it.
+[P5-B-B0002-023] S=['THEOBLANC'] P=is member of O=['ROKARI SCHOOL'] implicit=False ps="ranking wizard of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Theoblanc, the Watcher Supreme: The ranking wizard of the Rokari School of Malkionism
+[P5-B-B0002-024] S=['ARMY OF SESHNELA'] P=fights O=['ARMY OF RALIOS'] MOD={"in_on_at": "BASMOL", "at_the_command_of": ["YOMILI"]} implicit=False ps="inflicted terrible slaughter upon each other" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In 1026, the armies of Seshnela and Ralios, led respectively by the powerful wizards Yomili and Halwal, met outside the city of Basmol and inflicted terrible slaughter upon each other.
+[P5-B-B0002-025] S=['HALWAL', 'YOMILI'] P=fights O=[] implicit=False ps="met personally, casting great spells of destruction" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Finally, Halwal and Yomili met personally, casting great spells of destruction
+[P5-B-B0002-026] S=['HALWAL', 'YOMILI'] P=shatters O=['BASMOL'] implicit=True ps="destroying" sug=shatters
+   Q: destroying Basmol and killing thousands of innocents.
+[P5-B-B0002-027] S=['TROLLS', 'VESMONSTRAN BARBARIANS'] P=shatters O=['BAUSTIN'] implicit=False ps="destroyed by" sug=shatters
+   Q: Baustin: Ruin of an ancient city in Fornoar that was destroyed by an alliance of trolls and Vesmonstran barbarians in the early Third Age.
+[P5-B-B0002-028] S=['LUATHA'] P=shatters O=['OLD SESHNELA'] implicit=True ps="shattered" sug=shatters
+   Q: when the Luatha shattered the land.
+[P5-B-B0002-029] S=['BAILIFES THE HAMMER'] P=defeats O=['POLITICAL OPPONENTS OF BAILIFES'] MOD={"in_on_at": "ASGOLAN FIELDS"} implicit=False ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: When Bailifes the Hammer defeated his political opponents in 1414 at the Second Battle of Asgolan Fields
+[P5-B-B0002-030] S=['ISARNOS'] P=defeats O=['WOLF PEOPLE'] implicit=True ps="overcame" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: the First Age Hrestoli prince who overcame the Wolf People
+[P5-B-B0002-031] S=['WOLF PEOPLE'] P=serves O=['ISARNOS'] implicit=True ps="serve" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: and tamed them to serve him.
+[P5-B-B0002-032] S=['KRALJIID'] P=rules O=['RULERS OF KANIWAL'] implicit=True ps="slaves to" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the First Age, the rulers of this city were slaves to the Underworld God Kraljiid.
+[P5-B-B0002-033] S=['KING TORPHING'] P=defeats O=['KRALJIID'] implicit=True ps="liberated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: They were liberated by King Torphing, who cast down his bloody altars
+[P5-B-B0002-034] S=['KRALJIID'] P=rules O=['KANIWAL'] implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: and ruled the city until finally defeated by Arkat.
+[P5-B-B0002-035] S=['ARKAT'] P=defeats O=['KRALJIID'] implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: until finally defeated by Arkat.
+[P5-B-B0002-036] S=['PRINCE HADALIN', 'GOD LEARNER WIZARDS'] P=defeats O=['ARMY OF TANISOR'] MOD={"in_on_at": "MOUNT AERLIT"} implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In 705, Prince Hadalin and his God Learner wizards defeated the army of Tanisor here
+[P5-B-B0002-037] S=['PRINCE HADALIN', 'GOD LEARNER WIZARDS'] P=rules O=['AIR GODS'] implicit=True ps="commanded" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: when they commanded the air gods to turn against their barbarian priests.
+[P5-B-B0002-038] S=['KING URFENTHOS'] P=defeats O=['MOUNT AERLIT'] implicit=True ps="fell to" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: until it fell to King Urfenthos, and its treasures carried away to Segurane.
+[P5-B-B0002-039] S=['NELEOS'] P=discovers O=['NELEOSWAL'] implicit=True ps="found by" sug=discovers
+   Q: found by Neleos before the Great Darkness.
+[P5-B-B0002-040] S=['DUKE OF NOLOS'] P=protects O=['BARBARIAN QUARTER'] implicit=True ps="under the protection of" sug=one of: protects, rescues / frees, aids
+   Q: The Barbarian Quarter is notorious for its brothels, sorcerers, and demonic temples, all under the protection of the Duke.
+[P5-B-B0002-041] S=['KING OF SESHNELA'] P=rules O=['NOYELLE'] implicit=False ps="subject to" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Noyelle: Western county of Tanisor subject to the King of Seshnela.
+[P5-B-B0002-042] S=['HENDENVELDS'] P=rules O=['NOYELLE'] implicit=True ps="ruled by" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: It is ruled by the Hendenvelds, a Great House loyal to the Balifids.
+[P5-B-B0003-001] S=['SESHNA LIKITA'] P=rules O=['OLD SESHNELA'] implicit=True ps="goddess of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: ruins of the lost underground temple of Seshna Likita, the goddess of this land.
+[P5-B-B0003-002] S=['ARKAT'] P=defeats O=['TANEWAL'] implicit=True ps="thrown down" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Site of the old capital thrown down by Arkat the Liberator
+[P5-B-B0003-003] S=['VAMPIRE KING OF TANISOR'] P=rules O=['TANISOR'] MOD={"in_on_at": "TANEWAL"} implicit=True ps="ruled" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: from whence once ruled the Vampire King of Tanisor.
+[P5-B-B0003-004] S=['RED RUINS'] P=is alternative name for O=['TANEWAL'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Although its ancient name was Tanewal, it has been called the Red Ruins since the Gbaji Wars
+[P5-B-B0003-005] S=['TIERRE OF CASKALL'] P=is identified as O=['SPEAKER TO BEAST MEN'] implicit=False ps="called" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: This castle was settled by Tierre of Caskall, called Speaker to Beast Men
+[P5-B-B0003-006] S=['ARKAT'] P=rules O=['DARK EMPIRE'] MOD={"in_on_at": "RINDLAND"} implicit=True ps="center of Arkat's Dark Empire" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: In the First Age, this area was part of Fornoar and was inhabited by the Enerali people. It was later the center of Arkat's Dark Empire.
+[P5-B-B0003-007] S=['ROKARI WIZARDS'] P=binds O=['ENERALI HEROES', 'CHTHONIC GODS'] MOD={"to": "SESHNELA", "purpose_clause": "TO PROTECT"} implicit=True ps="compel" sug=binds
+   Q: Elaborate rituals devised by the Rokari wizards compel the inhabitants of these tombs to defend Seshnela.
+[P5-B-B0003-008] S=['XEMELA'] P=teaches O=['WIZARDS'] implicit=False ps="ancient teachings of" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: wizards, who practice the ancient teachings of Xemela.
+[P5-B-B0003-009] S=['METSYLA'] P=challenges O=['SSHORG'] implicit=False ps="offended" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Emperor Metsyla offended the Blue Dragon Sshorg
+[P5-B-B0003-010] S=['ZARANISTANGI'] P=is alternative name for O=['LOPER PEOPLE'] implicit=False ps="or" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Zaranistangi or Loper People.
+[P5-B-B0003-011] S=['KING DENGBALU'] P=is member of O=['ZARANISTANGI'] implicit=False ps="leader" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: the Zaranistangi or Loper People. Their leader, King Dengbalu
+[P5-B-B0003-012] S=['KING DENGBALU'] P=sacrifices O=[] IO=['TOLAT'] implicit=False ps="began sacrifices to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: King Dengbalu, began sacrifices to Tolat, the God of Love and War
+[P5-B-B0003-013] S=['TOLAT'] P=is identified as O=['GOD OF LOVE AND WAR'] implicit=False ps="the God of Love and War" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Tolat, the God of Love and War
+[P5-B-B0003-014] S=['KING DENGBALU'] P=defeats O=['SSHORG'] MOD={"using": "RED SWORD OF TOLAT"} implicit=False ps="wielded ... to defeat" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: King Dengbalu || wielded the Red Sword of Tolat to defeat Sshorg.
+[P5-B-B0003-015] S=['KING TURVENOST'] P=challenges O=['TOLAT'] implicit=False ps="demanded the worship ... be ended" sug=one of: challenges, breaks oath, betrays, fights
+   Q: King Turvenost, under the influence of foolish mystics, demanded the worship of Tolat be ended throughout Sechkaul.
+[P5-B-B0003-016] S=['SSHORG'] P=kills O=['KING TURVENOST'] implicit=True ps="drowned" sug=one of: kills, shatters, dies
+   Q: Sshorg drowned Turvenost and his lands.
+[P5-B-B0003-017] S=['CHAL'] P=is identified as O=['CHAL THE SEER'] implicit=False ps="the Seer" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Chal the Seer
+[P5-B-B0003-018] S=['HISGORANSTOR OF GACH'] P=is member of O=['TESHNITES'] implicit=False ps="leader" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Teshnites, who resettled it. However, their leader, the Hero Hisgoranstor of Gach
+[P5-B-B0003-019] S=['ANTIGODS OF MELIB'] P=challenges O=['CHAL'] implicit=False ps="refused to accept the teachings of" sug=one of: challenges, breaks oath, betrays, fights
+   Q: antigods of Melib when they refused to accept the teachings of Chal.
+[P5-B-B0003-020] S=['KING BRADOSZARAN'] P=is member of O=['ZARANISTANGI'] implicit=False ps="his ... people" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: King Bradoszaran led his Zaranistangi people to conquer Slontos.
+[P5-B-B0003-021] S=['KING BRADOSZARAN'] P=defeats O=['SLONTOS'] MOD={"with_the_aid_of": ["ZARANISTANGI"]} implicit=False ps="led ... to conquer" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: King Bradoszaran led his Zaranistangi people to conquer Slontos.
+[P5-B-B0003-022] S=['GOD LEARNERS'] P=kills O=['ZARANISTANGI'] MOD={"using": "SORCERY"} implicit=True ps="destroyed by ... sorcery" sug=one of: kills, shatters, dies
+   Q: some claim they were destroyed by God Learner sorcery.
+[P5-B-B0003-023] S=['ORDANAL'] P=travels O=['RED SWORD OF TOLAT'] MOD={"from": "JRUSTELA", "to": "MELIB"} implicit=False ps="brought ... back to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Ordanal, a man from Jrustela, brought the Red Sword of Tolat back to Melib
+[P5-B-B0003-024] S=['KING DENGBALU'] P=dedicates relic O=['RED SWORD OF TOLAT'] MOD={"in_on_at": "TEMPLE OF TOLAT"} implicit=True ps="placed" sug=dedicates relic
+   Q: placed it in the most ancient temple of the Red God, where King Dengbalu had first placed it in the God Time.
+[P5-B-B0003-025] S=['RED GOD'] P=is alternative name for O=['TOLAT'] implicit=False ps="Red God" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the Red Sword of Tolat || temple of the Red God
+[P5-B-B0003-026] S=['SORAVATOOR'] P=is child of O=['HEAVEN'] implicit=False ps="Son of" sug=is child of
+   Q: Soravatoor, Son of Heaven
+[P5-B-B0003-027] S=['SORAVATOOR'] P=establishes cult O=['TESHNOS WAY OF LIFE'] implicit=False ps="established" sug=one of: establishes cult, receives cult at, is worshipped at, founds, crafts
+   Q: Soravatoor, Son of Heaven, established the Teshnos way of life which had endured since the Dawn.
+[P5-B-B0003-028] S=['RED SWORD OF TOLAT'] P=protects O=['TESHNOS'] implicit=True ps="protected" sug=one of: protects, rescues / frees, aids
+   Q: Red Sword that had protected Teshnos in the
+[P5-B-B0003-029] S=['SELENTEEN OF ALAMPISH'] P=travels O=['RED SWORD OF TOLAT'] MOD={"to": "WASTELANDS", "purpose_clause": "TO OBTAIN"} implicit=True ps="led an expedition into" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: hero Selenteen of Alampish led an expedition into the Wastelands in 1250, seeking the lost Red Sword.
+[P5-B-B0003-030] S=['HARSTAR'] P=serves O=['CALYZ'] implicit=False ps="priest of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: a priest of Calyz, Harstar
+[P5-B-B0003-031] S=['HARSTAR'] P=defeats O=['MELIB'] MOD={"in_accordance_with": ["HISGORANSTOR OF GACH"]} implicit=True ps="reconquered" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: he went to Melib and, in 1589, reconquered it in the name of Hisgoranstor of Gach.
+[P5-B-B0003-032] S=['ZARANISTANGI'] P=is alternative name for O=['LOPER PEOPLE'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The Zaranistangi are a blue-skinned race, often called the Loper People
+[P5-B-B0003-033] S=['ZARANISTANGI'] P=serves O=['ANNILLA'] implicit=True ps="worshiped" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They worshiped Annilla the Blue Moon
+[P5-B-B0003-034] S=['ANNILLA'] P=becomes celestial body O=['BLUE MOON'] implicit=False ps="the Blue Moon" sug=becomes celestial body
+   Q: Annilla the Blue Moon
+[P5-B-B0003-035] S=['ZARANISTANGI'] P=serves O=['EMILLA'] implicit=True ps="worshiped" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They worshiped || Emilla the Blue Goddess of Movement and Secrecy
+[P5-B-B0003-036] S=['ZARANISTANGI'] P=serves O=['TOLAT'] implicit=True ps="worshiped" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: They worshiped || Tolat the Red Planet.
+[P5-B-B0003-037] S=['TOLAT'] P=becomes celestial body O=['RED PLANET'] implicit=False ps="the Red Planet" sug=becomes celestial body
+   Q: Tolat the Red Planet.
+[P5-B-B0003-038] S=['ZARANISTANGI'] P=comes into being O=[] MOD={"in_on_at": "PAMALTELA"} implicit=False ps="originated in" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: The Zaranistangi originated in Pamaltela
+[P5-B-B0003-039] S=['KING ZEMENDARN'] P=protects O=['DURPOS'] implicit=False ps="saved" sug=one of: protects, rescues / frees, aids
+   Q: When King Zemendarn of the Zaranistangi saved Durpos' life
+[P5-B-B0003-040] S=['KING ZEMENDARN'] P=is member of O=['ZARANISTANGI'] implicit=False ps="of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: King Zemendarn of the Zaranistangi
+[P5-B-B0003-041] S=['DURPOS'] P=bestows magic / gifts O=['RED SWORD OF VICTORY'] IO=['ZARANISTANGI'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: the grateful emperor gave the Zaranistangi the Red Sword of Victory.
+[P5-B-B0003-042] S=['ZARANISTANGI'] P=travels O=[] MOD={"to": "SECHKAUL"} implicit=False ps="traveled north to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Before the Darkness, the Zaranistangi traveled north to Sechkaul
+[P5-B-B0003-043] S=['SESHNEGI'] P=steals O=['RED SWORD OF TOLAT'] MOD={"from": "ZARANISTANGI"} implicit=True ps="taking" sug=steals
+   Q: The Seshnegi || taking the Red Sword from them around 760.
+[P5-B-B0003-044] S=['SESHNEGI'] P=kills O=['KING BRADOSZARAN'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: Seshnelans || although the king was killed.
+[P5-B-B0003-045] S=['TOLAT'] P=is alternative name for O=['SHARGASH'] implicit=False ps="is a name for" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Tolat is a name for the red planet called Shargash by the Pelorians.
+[P5-B-B0003-046] S=['TOLAT'] P=fights O=['BREDJEG'] implicit=False ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: In the God Time, Tolat fought against Bredjeg
+[P5-B-B0003-047] S=['ARTMAL'] P=serves O=['TOLAT'] MOD={"purpose_clause": "TO AID"} implicit=False ps="was aided by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Tolat fought against Bredjeg and was aided by his sister's son, Artmal
+[P5-B-B0003-048] S=['TOLAT'] P=bestows magic / gifts O=['RED SWORD OF TOLAT'] IO=['ARTMAL'] implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: Tolat gave his nephew his Red Sword
+[P5-B-B0003-049] S=['RED SWORD OF TOLAT'] P=is alternative name for O=['CUTTING EDGE OF THE EAST'] implicit=True ps="also called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: his Red Sword (also called the Cutting Edge of the East).
+[P5-B-B0003-050] S=['KING ZEMENDARN'] P=discovers O=['RED SWORD OF TOLAT'] implicit=True ps="acquired" sug=discovers
+   Q: acquired by King Zemendarn of the Zaranistangi Loper People.
+[P5-B-B0003-051] S=['ZARANISTANGI'] P=travels O=['RED SWORD OF TOLAT'] implicit=True ps="brought ... with them when they came northwards" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: The Zaranistangi brought the Red Sword with them when they came northwards.
+[P5-B-B0003-052] S=['SSHORG'] P=fights O=['ZARANISTANGI'] MOD={"in_on_at": "SECHKAUL"} implicit=False ps="attacked" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Sshorg attacked the Zaranistangi people where they lived, in the land of Sechkaul.
+[P5-B-B0003-053] S=['SSHORG'] P=is identified as O=['SEA GOD'] implicit=False ps="The Sea God" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Sshorg || The Sea God
+[P5-B-B0003-054] S=['KING DENGBALU'] P=sacrifices O=[] IO=['TOLAT'] MOD={"purpose_clause": "TO AID"} implicit=False ps="sacrificed for help to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: King Dengbalu of the Zaranistangi sacrificed for help to Tolat
+[P5-B-B0003-055] S=['KING DENGBALU'] P=dedicates relic O=['RED SWORD OF TOLAT'] implicit=True ps="stuck ... into the ground" sug=dedicates relic
+   Q: Dengbalu stuck the god's sword into the ground
+[P5-B-B0003-056] S=['TOLAT'] P=manifests O=['RED SWORD OF TOLAT'] implicit=True ps="pulled the sword up" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Tolat reached down and pulled the sword up.

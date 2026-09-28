@@ -1,0 +1,141 @@
+### WOD-GS:00999 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Dark Trolls in History
+FIGURES: GBAJI, KYGER LITOR
+TEXT: Gbaji, while still a mewling babe, gave his powers to the Two Curses of the council. One was directed against the dragonewts, but failed when its energies were devoured by dragons. The other was directed against Kyger Litor and the dark trolls, and succeeded.
+TARGETS: curses
+
+### WOD-GS:01000 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Dark Trolls in History
+FIGURES: BROKEN COUNCIL
+TEXT: The Troll's Curse is in their children, for the proud race began giving birth to runts and weaklings. Fewer and fewer whole and healthy trolls were born, replaced instead by the deformed creatures called trollkin. A great effort at countering the curse resulted in the appearance of trollkin litters rather than single births, but did not heal the horrible wound. Warriors slain could not be replaced, and the powerful army was over half trollkin when it was defeated in battle by the Broken Council around 420. Dagori Inkarth, deep in Shadows Dance, was invaded by the council, but the citadel of the Castle of Lead was never sacked.
+TARGETS: heals; curses
+
+### WOD-GS:01001 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Dark Trolls in History
+FIGURES: ARKAT, GBAJI
+TEXT: Afterwards the trolls were a hidden and outlaw race. The humans and dragonewts of the pass accepted shameful compromise, and served under the lords who worshipped chaos. The god Gbaji was more active in the West, where his cult spread quickly at first, until its evil was revealed. But even then it took generations to cleanse a region. Nations worshipped the god, and it was a major task to annihilate the cult. This was accomplished by Arkat Humaktsson.
+TARGETS: punishes / exiles
+
+### WOD-GS:01005 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Dark Trolls in History
+FIGURES: ARKAT, GBAJI
+TEXT: Garazaf Hyloric was a Mistress Race heroine after her healing of Arkat that day, and the Goddess of Solace Deep Within stood guard over those who slew the foes of chaos. The Inhuman King, pragmatic as usual, joined the trolls first, but other leaders also changed sides after their enlightment and experience of the Gbaji cult's evil.
+TARGETS: heals
+
+### WOD-GS:01011 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Dark Trolls in History
+FIGURES: (none registered)
+TEXT: During the madness of the Third Council the trolls were at the front fighting against Chaos. They braved the worst of the dragon powers and skills wielded by the Empire of the Wyrms Friends. The survivors among the trolls gloried in the final plunder of the decadent Third Council as did other peoples.
+TARGETS: possesses / wields
+
+### WOD-GS:01012 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Dark Trolls in History
+FIGURES: (none registered)
+TEXT: When humans turned against their alien allies and began invading Dragon Pass the trolls remained aloof, save for their ever-present trollkin mercenaries, bought only by the dragonewts. Trolls from the Holy Country marched with the Pharaoh's contingent which aided the dragonewts, and healers saved the wings of a large clutch of dream dragons who were wounded and hiding in Shadows Dance. Thus, when the region was cleansed of humans and cursed to their entry the dark trolls were excluded, and could enter the lands once held by men.
+TARGETS: curses; trades / exchanges
+
+### WOD-GS:01018 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | The Inhuman Occupation
+FIGURES: (none registered)
+TEXT: Around 1180 outright war broke out between the troll nations, much to the misery of the other inhabitants of the pass. After the dragonewts assassinated Karastrand both troll nations temporarily allied. By 1220 the pass was divided into trolls versus the rest. They met in battle a few years later, and the numerous trolls took the day. There followed a legendary feast upon the corpses which was the source of many troll eating songs. It was also a tragedy, because a relief army came upon the drunken, reveling trolls the next day and slaughtered them. The victors raised a huge funeral pyre over the mass of corpses, laying them upon the altars of a nearby ruin. Even since then the ruins have smoked, and no one can use their altars unless they intend to call upon the dead from that battle.
+TARGETS: dwells at
+
+### WOD-GS:01026 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Famous Dark Trolls of the Hero Wars
+FIGURES: ZORAK ZORAN
+TEXT: Xarjarg Vash was from Shadows Dance, and was a Death Lord of Zorak Zoran. He made serious gestures of friendship to humans before Lunar perfidy turned him against all not of his kind. He always hated elves, who called him Tree Chopper. He was noted as a poet among his kind as well.
+TARGETS: hates / fears
+
+### WOD-GS:01027 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Famous Dark Trolls of the Hero Wars
+FIGURES: KYGER LITOR
+TEXT: Jarkanita Ab was High Priestess of Kyger Litor, whom she claimed as a direct ancestor, being of the Mistress Race. She led secret researches to break the curse which made trollkin, and also led a colony into Dragon Pass. She rarely showed herself, preferring to leave most matters to her commanders.
+TARGETS: curses
+
+### WOD-GS:01028 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Famous Dark Trolls of the Hero Wars
+FIGURES: (none registered)
+TEXT: Bina Binag was from the Blue Moon Plateau, and introduced many to that cult. But she herself left the main paths of the Lunar Way after her trip to the Castle of Lead, where she conjured and took for a lover the Dehori spirit Lord Lurker in Shadows. Before she died her lover took her to his home in the underworld.
+TARGETS: dies
+
+### WOD-GS:01029 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Famous Dark Trolls of the Hero Wars
+FIGURES: (none registered)
+TEXT: Pikat Yaraboom was called Lord of the Hand of Death. He was a son of Bina Binag and the Lord Lurker in Shadows. He had a power (small at first, though he trained it quickly) to stun, maim, kill, or rob whoever he laid his left hand on. He was also a terribly powerful shaman, called Hell Lord by his enemies, for he could summon even his father's servants upon command. He had animal familiars from beyond the world of known man. He hated all elves, dwarves, cults of light and their worshippers, priests, and canines, bestial or lycanthropic. He did have an odd affection for dragonewts and red-headed women.
+TARGETS: hates / fears
+
+### WOD-GS:01031 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Famous Dark Trolls of the Hero Wars
+FIGURES: KYGER LITOR
+TEXT: Geras Shag was a near-hero at the start of the Hero Wars period, and originally came from Pavis. He was a leader of the Kyger Litor cult, and especially revered his ancestor, the hero who had first conquered the ancient city. He carried a leaden axe, and could summon his ancestor at will. His intentions were to rule all of the Big Rubble, then move onward if he could. He hated all humans, and had bound a spirit inside a giant scorpion. All feared him.
+TARGETS: hates / fears; possesses / wields
+
+### WOD-GS:01033 | WOD-GS | WOD-GS 23075 (Myth of the Month: History of the Race o) | Notes on Troll Breeding Patterns
+FIGURES: (none registered)
+TEXT: The very few and rare members of the troll Mistress Race bred true with whatever type of troll they mated, sometimes including spirits. But these survivors from primeval times were rare, and rarely bred. It must be noted that the Mistress Race never bred with trollkin, whom they considered cursed and unclean.
+TARGETS: curses
+
+### WOD-GS:01049 | WOD-GS | WOD-GS 1720 (Myth of the Month: How Orlanth Met Ernal) | Page Last updated: 2026-08-25 12:20:19
+FIGURES: ERNALDA, ORLANTH
+TEXT: Everyone said it was a defeat for Orlanth, and even his stupid brothers laughed at him for wasting the time. Orlanth wanted to see her eyes again. Then Orlanth came to the Palace for the magic contest, and revealed that he held the secret of Becoming. When Ernalda saw that she made sure that she placed herself close to where Orlanth would exit. He saw her there, but would have strolled past so she spoke first, and so they met.
+TARGETS: speaks / prophesies
+
+### WOD-GS:01059 | WOD-GS | WOD-GS 1720 (Myth of the Month: How Orlanth Met Ernal) | Page Last updated: 2026-08-25 12:20:19
+FIGURES: EURMAL, ORLANTH
+TEXT: Because everybody always was ready to strike and curse Eurmal these days, this was perhaps the greatest possible offer. That way Orlanth fooled Eurmal. He tricked the trickster, so Eurmal too gave something great.
+TARGETS: curses
+
+### WOD-GS:01067 | WOD-GS | WOD-GS 1720 (Myth of the Month: How Orlanth Met Ernal) | "I shall."
+FIGURES: ERNALDA, MAHOME
+TEXT: Ernalda had already prepared her escape. Kesta had laid aside food, Berlintha had packed clothing, Mahome had made clay tubes to bear fire, and Istena had filled many skins with water and wine. Arnna has a small treasure box, Jera the healing kit.
+TARGETS: heals
+
+### WOD-GS:01069 | WOD-GS | WOD-GS 1720 (Myth of the Month: How Orlanth Met Ernal) | "This, above all else," she said, "must go too."
+FIGURES: ORLANTH
+TEXT: The former servants all gathered around it and began grunting in rhythm, and heaved. And again. And again. There were plenty of strong men among them, but they couldn't get the loom up. Orlanth could hear the approach now of the Emperor's avengers.
+TARGETS: avenges
+
+### WOD-GS:01073 | WOD-GS | WOD-GS 1720 (Myth of the Month: How Orlanth Met Ernal) | "This, above all else," she said, "must go too."
+FIGURES: ERNALDA, ORLANTH
+CONTEXT: hat we call the two grip, that's used in flirting. They looked eye to eye. Then Orlanth spun back as he drew his weapons, facing the great horde of angry demigods who wanted to avenge their lord. Orlanth drove away the gods, proving there is a great different between their desires and abilities. Orlanth had Death in his hand, and soon there were corpses at his feet and panic fleeing before him.
+TEXT: He went out of the Palace through the front door, followed closely by Ernalda, her servants, and the growing crowd of others who sought to join themselves to Orlanth. Orlanth took her home, to where her sisters lived, and prepared to leave. He took her hands in the two grip, and said goodby. She did not let go of his hands when he sought to, but held lightly as if with a question, so he too held on a moment more. That is called the four grip. She spoke.
+TARGETS: speaks / prophesies
+
+### WOD-GS:01081 | WOD-GS | WOD-GS 1718 (Myth of the Month: How the Islands Came ) | Page Last updated: 2022-09-16 13:13:59
+FIGURES: (none registered)
+CONTEXT: ere low beings, worthy only of being killed. People across the wide land turned against each other. People went to Mashunasan and begged him to make peace again. That was on such-and-such a date, and at the same exact moment Avanapdur looked surpriwed, and then sent for all his chiefs and kings and priests to come to him. Only the rightous, who still worshipped Vith and his family, stayed away.
+TEXT: He told them he had been summoned to see Mashunasa, and that he needed to have their proven support before he went. Some saw that he was afraid and departed from the company then and there. But most of the others made a great pledge.
+TARGETS: speaks / prophesies
+
+### WOD-GS:01082 | WOD-GS | WOD-GS 1718 (Myth of the Month: How the Islands Came ) | Page Last updated: 2022-09-16 13:13:59
+FIGURES: AVANAPDUR, MASHUNASAN
+TEXT: Avanapdur went to see Mashunasan. He was accompanied by his greatest followrs, as well as a horde of people who were all expectant of some great event. Avanapdur bowed and approahced the Great Mystic humbly, for he truely and deeply feared the Liberation Bolt. Mashunasan asked one question.
+TARGETS: hates / fears
+
+### WOD-GS:01083 | WOD-GS | WOD-GS 1718 (Myth of the Month: How the Islands Came ) | "Who are you?"
+FIGURES: AVANAPDUR, MASHUNASAN
+TEXT: "I am what these people told me I was," said Avanapdur. "You are Queen of the Iradgenderi," said Mashunasan, "Oren Parond, would you please dismiss this thing from here?" "Oh No," shouted the people and priests though, "You can't do this to us. We refuse it, and we will prove our power with these tools and the backing of our god. We command it." Indeed, that wasn't too different from many war cries in the East Isles.
+TARGETS: speaks / prophesies
+
+### WOD-GS:01085 | WOD-GS | WOD-GS 29812 (Myth of the Month: Hrelar Amali (2011)) | Page Last updated: 2022-09-16 13:13:59
+FIGURES: EHILM, ERNALDA, FLAMAL, MAGASTA, ORLANTH, XENTHA, ZORAK ZORAN
+TEXT: posted Sat, 12/11/2011 The City of the Gods (Hrelar Amali) is located on the Crimson Plains between Ralios and Seshnela. It is the sport where Flamal, beloved of Ernalda, fell at the hands of Zorak Zoran during the great War. For this reason, it is one of the most sacred spots in all Genertela. At Flamal's death, the Enerali people built a temple to him, and added a temple to Ernalda herself and one to Xentha, who carried off Flamal's body, as appeasement. After Ehilm was resurrected at Hrelar Amali, a temple was built for him and the Theyalans and Seshnegi added temples to Orlanth and Magasta. Later temples to all the greater deities were added, as well as many to lesser gods.
+TARGETS: possesses / wields
+
+### WOD-GS:01086 | WOD-GS | WOD-GS 29812 (Myth of the Month: Hrelar Amali (2011)) | Page Last updated: 2022-09-16 13:13:59
+FIGURES: (none registered)
+TEXT: To guarantee the place's sanctity, the priests never worked, and were given food and other necessities by the gods themselves. The place's sacred quality was also maintained by oaths which protected any pilgrims and priests while there, or on the way, so long as they wore the yellow robes. There is always a mouthpiece for the temple, who acts for any god who is in charge at the time. He is called chief of the Court, and was created by the rulers of the Spike itself from their blood.
+TARGETS: possesses / wields
+
+### WOD-GS:01094 | WOD-GS | WOD-GS 33191 (Myth of the Month: Lightnight (2010)) | Page Last updated: 2022-09-16 13:13:59
+FIGURES: (none registered)
+TEXT: "Lightnight," I said. That was today. This crazy guy hated today. But he loved pooka! He was no amateur. He spat on it right, did the finger, puffed deep and chanted–I saw it, his lips moved–and drew in old zeezu, yes, and held on to that corrosive intoxicant so he could not speak. And the he had to, or at least, did.
+TARGETS: loves / desires; hates / fears
+
+### WOD-GS:01097 | WOD-GS | WOD-GS 33191 (Myth of the Month: Lightnight (2010)) | Page Last updated: 2022-09-16 13:13:59
+FIGURES: (none registered)
+TEXT: Well, there as a whole bunch of them there, all silent though and marching past. They were glowing, I know. I looked. They had no shadow. They were all like Maggy, though, wearing that…skin… I never did it. I heard about it. I saw a guy was smushed by the bison guard so his guts and… well, I saw the Holy Flensers take off his skin before the rest was taken away so I know what a man's skin looks like. And all those glowing saints marching along there wore them and I swear on her treasure they were dressed like the demons on Khordavu day. I saw the sky. When it went light, the stars were there and they were dark, except the moon. It was white, pure white, and whiter than light for the time of three and a half steps. I don't remember what went after, but that was the night they call Brightnight now. Everyone loves how the cleansing spirit washed through the empire and took away the foul dynasties with music and nymphs dancing in the street, ooh oooh ooooh, wonderful talking Eggy.
+TARGETS: loves / desires; possesses / wields
+
+### WOD-GS:01100 | WOD-GS | WOD-GS 22996 (Myth of the Month: Malkioni Otherworld () | Brithini Life Disciplines, "Living the Law."
+FIGURES: MALKION, ZZABUR
+TEXT: Core documents: Blue Book of Zzabur. These documents require attuned magical senses that humans can acquire only through labor and study. No complete copy exists in the world today. Danmalastan was the Perfect World of the Malkioni that was gradually encroached by false worlds. Malkion lived at that time, and although many chronicles were written, few exist now. Because Malkionism as it was practiced increasingly separated the origins of magic as the Otherworld, the ordinary world became less and less imbued with that magic. It was unable to resist more powerful magic, and most of Danmalastan, its peoples and its former saintly inhabitants were destroyed.
+TARGETS: dwells at
+
+### WOD-GS:01101 | WOD-GS | WOD-GS 22996 (Myth of the Month: Malkioni Otherworld () | Hrestol the Prophet, "God is a Personal God."
+FIGURES: HRESTOL, MALKION
+TEXT: God and Malkion the Sacrifice, ascended masters and human intercessors, "primitive rites." Core documents: various books, localized variants of earlier Danmalastan magics. ### Joy (Hrestolism) Hrestol the Prophet, "God is a Personal God." Core document: "Book of Hrestol." The resonance of God As Man created a new approach to sorcery, or applied magic, starting at this time. After this, too the Otherworld has the increasingly defined Logic Plane with which humans act. It could be said that it is inhabited by beings, and such reality has been judged many times to be both good and bad. Modern Hrestolism (Fronela) considers it good, Rokarism says bad.
+TARGETS: dwells at
+
+### WOD-GS:01106 | WOD-GS | WOD-GS 23000 (Myth of the Month: Morden Defends the Ca) | The Arming Poem
+FIGURES: ORLANTH
+TEXT: Vargast prepared to defend the camp. But he, the chief, could not stand at the fore, so Vargast designated his trusted and experienced tribesman. When Morden told Vargast of the coming Orgovaltes men, the chief quickly designated Morden to be the chief defender. He was qualified, mainly because he was so experienced in heroforming his ancestor. When Vargast designated him as Champion, Morden also was blessed with a great potency of power that gave him extraordinary magical preparation, and also risked every person in the clan to get exactly his wounds, if he failed. He would, with the help of the priests, get the clan's Orlanth blessing and make himself so powerful that the enemy would be compelled to concentrate upon him.
+TARGETS: speaks / prophesies

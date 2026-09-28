@@ -1,0 +1,300 @@
+[P5-B-B0031-020] S=['IVARTHA THE SKINNER', 'KING KATHELRANDA'] P=fights O=['TELMORI'] MOD={"in_on_at": "Torkan's Vale"} implicit=True ps="fought alongside" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: she had fought alongside King Kathelranda when he tried to settle Torkan's Vale
+[P5-B-B0031-021] S=['JOMES HOSTRALOS'] P=defeats O=['TELMORI'] MOD={"purpose_clause": "TO AVENGE"} implicit=True ps="took vengeance ... upon" sug=avenges
+   Q: Jomes when he took vengeance for the Maboder upon the Telmori
+[P5-B-B0031-022] S=['IVARTHA THE SKINNER'] P=initiates into cult O=['VINGA'] implicit=True ps="worshipped" sug=initiates into cult
+   Q: and worshipped Vinga not Orlanth.
+[P5-B-B0031-023] S=['IVARTHA THE SKINNER'] P=initiates into cult O=['VINGA'] implicit=True ps="initiation to" sug=initiates into cult
+   Q: in the year of her initiation to Vinga.
+[P5-B-B0031-024] S=['KING KATHELRANDA'] P=rules O=['MABODER TRIBE'] implicit=True ps="King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: King Kathelranda of the Maboder
+[P5-B-B0031-025] S=['IVARTHA THE SKINNER'] P=serves O=['KING KATHELRANDA'] implicit=True ps="served" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: the Maboder, whose king she served.
+[P5-B-B0031-026] S=['TELMORI'] P=defeats O=['MABODER TRIBE'] implicit=True ps="overran" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: when the Telmori overran the Maboder
+[P5-B-B0031-027] S=['IVARTHA THE SKINNER'] P=pledges oath with O=['JOMES HOSTRALOS'] implicit=True ps="is a friend to" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: She is a friend to Jomes Hostralos
+[P5-B-B0031-028] S=['KALLAI HAIRY-BREEKS'] P=kills O=['MALANI TRIBESMAN'] implicit=True ps="killing" sug=one of: kills, shatters, dies
+   Q: killing a Malani tribesman in a blood feud.
+[P5-B-B0031-029] S=['IVARTHA THE SKINNER'] P=is spouse of O=['KALLAI HAIRY-BREEKS'] implicit=True ps="lover" sug=is spouse of
+   Q: Ivartha the Skinner, his lover
+[P5-B-B0031-030] S=['KALLAI HAIRY-BREEKS'] P=initiates into cult O=['ORLANTH'] implicit=True ps="Wind Lord of" sug=initiates into cult
+   Q: A Wind Lord of Orlanth, Kallai wanders incessantly
+[P5-B-B0031-031] S=['DERIK POL-JONI'] P=kills O=['ARMY OF JALDON GOLDENTOOTH'] MOD={"in_on_at": "Waha's Trail"} implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: Derik Pol-Joni ambushed and killed the Praxian hero's army along Waha's Trail.
+[P5-B-B0031-032] S=['JAROLAR'] P=is child of O=['SARONIL'] implicit=True ps="son" sug=is child of
+   Q: his son Jarolar
+[P5-B-B0031-033] S=['SARONIL'] P=bestows magic / gifts O=['KEEP OF SAROTAR'] implicit=False ps="built" sug=crafts
+   Q: Saronil built the Keep of Sarotar, a broch
+[P5-B-B0031-034] S=['JAROLAR'] P=bestows magic / gifts O=['WALLS OF THE KEEP OF SAROTAR'] implicit=True ps="built" sug=crafts
+   Q: his son Jarolar built the walls.
+[P5-B-B0031-035] S=['LORTHING CLAN'] P=is member of O=['CULBREA TRIBE'] implicit=True ps="clan of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: The Lorthing clan of the Culbrea holds the fort.
+[P5-B-B0031-036] S=['ORLANTH'] P=enters Godtime / Otherworld O=["LIGHTBRINGERS' QUEST"] MOD={"in_on_at": "Hill of Orlanth Victorious"} implicit=True ps="began" sug=enters Godtime / Otherworld
+   Q: is where Orlanth began the Lightbringers' Quest.
+[P5-B-B0031-037] S=['LARNSTE'] P=is sibling of O=['ORLANTH'] implicit=True ps="uncle" sug=is sibling of
+   Q: did not want anything to happen to his uncle, Larnste.
+[P5-B-B0031-038] S=['LANT ULFAR'] P=has monstrous form O=['GIANT'] MOD={"in_on_at": "Quivin Mountains"} implicit=False ps="giant" sug=has anomalous form (qual=monstrous)
+   Q: Lant Ulfar the giant lived in the Quivin Mountains during the Gods Age.
+[P5-B-B0031-039] S=['LANT ULFAR'] P=binds O=['LARNSTE'] MOD={"purpose_clause": "TO THWART"} implicit=True ps="set a trap" sug=binds
+   Q: so the giant decided one day to stop Larnste. || He set a trap on the top of a nearby hill
+[P5-B-B0031-040] S=['ORLANTH'] P=dismembers O=['LANT ULFAR'] implicit=True ps="severed" sug=dismembers
+   Q: Orlanth dealt him such a blow that the giant's arm was severed
+[P5-B-B0031-041] S=['ORLANTH'] P=shatters O=['LANT ULFAR'] implicit=True ps="shattered into pieces" sug=shatters
+   Q: and with a second blow he was shattered into pieces.
+[P5-B-B0031-042] S=['ORLANTH'] P=kills O=['LANT ULFAR'] implicit=True ps="hit him so hard" sug=one of: kills, shatters, dies
+   Q: Orlanth hit him so hard that the giant's head flew to the table he had set for Larnste, and his heart flew farther, coming to rest on Two Ridge Top.
+[P5-B-B0031-043] S=['LARNSTE'] P=swallows / consumes O=['MEAL'] implicit=False ps="enjoy his meal" sug=swallows / consumes
+   Q: And so Larnste was able to enjoy his meal.
+[P5-B-B0031-044] S=['HUMAKT'] P=strikes O=['EARTH'] MOD={"using": "his sword"} implicit=False ps="struck" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: In the Gods Age, Humakt struck his sword into the earth
+[P5-B-B0031-045] S=['HUMAKT'] P=travels O=["HUMAKT'S HILL"] MOD={"in_on_at": "this hill"} implicit=True ps="sat" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: and sat on this hill.
+[P5-B-B0031-046] S=['CINSINA TRIBE', 'TORKANI TRIBE'] P=serves O=['HUMAKT'] MOD={"in_on_at": "the shrine here"} implicit=True ps="worship of" sug=is worshipped by
+   Q: The Cinsina and the Torkani use the shrine here for the worship of Humakt.
+[P5-B-B0031-047] S=['OLD MARTEN'] P=is sibling of O=['FERFAL'] implicit=False ps="brother of" sug=is sibling of
+   Q: Old Marten was a brother of Ferfal.
+[P5-B-B0031-048] S=['OLD MARTEN'] P=protects O=['DOLUTHA CLAN'] implicit=True ps="watch over" sug=one of: protects, rescues / frees, aids
+   Q: After his death, Marten returned to the clan to watch over them.
+[P5-B-B0031-049] S=['ELMAL'] P=bestows geas O=['DOLUTHA CHIEFTAIN'] implicit=True ps="cursed" sug=curses
+   Q: does not speak to the chieftain, who he sees Elmal has cursed,
+[P5-B-B0031-050] S=['ORLANTH'] P=rules O=['VINGKOTLINGS'] IO=['ELMAL'] implicit=False ps="left Elmal in charge of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Orlanth left Elmal in charge of the Vingkotlings
+[P5-B-B0031-051] S=['ORLANTH'] P=descends into O=['UNDERWORLD'] MOD={"in_on_at": "Underworld"} implicit=True ps="descended into" sug=one of: descends into, dies
+   Q: and descended into the Underworld to reconcile with the Emperor.
+[P5-B-B0031-052] S=['ORLANTH'] P=kills O=['YELM THE EMPEROR'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: he created when he killed the Emperor.
+[P5-B-B0031-053] S=['ELMAL'] P=fights O=['EATER OF SKIN', 'AUTHOR OF SORES', 'MAKER OF BAD GROWTH'] implicit=True ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He had to fight Eater of Skin, Author of Sores, and Maker of Bad Growth.
+[P5-B-B0031-054] S=['ELMAL'] P=defeats O=['EATER OF SKIN', 'AUTHOR OF SORES', 'MAKER OF BAD GROWTH'] implicit=True ps="beat the monsters off" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Although he beat the monsters off
+[P5-B-B0031-055] S=['TELLER OF LIES'] P=manifests O=['ELMAL'] implicit=False ps="appeared to" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Teller of Lies appeared to Elmal in different guises
+[P5-B-B0031-056] S=['TELLER OF LIES'] P=swallows / consumes O=['SOUL OF ELMAL'] implicit=True ps="devoured" sug=swallows / consumes
+   Q: when Teller of Lies devoured the stallion,
+[P5-B-B0031-057] S=['ELMAL'] P=shatters O=['TELLER OF LIES'] implicit=True ps="destroying" sug=shatters
+   Q: revealing Teller of Lies to be an empty god and destroying him.
+[P5-B-B0032-001] S=['TWISTED MORGANETH'] P=is spouse of O=['IVAR QUICKSTEP'] implicit=True ps="wife" sug=is spouse of
+   Q: His own wife Twisted Morganeth
+[P5-B-B0032-002] S=['IVAR QUICKSTEP'] P=serves O=['ELMAL'] implicit=True ps="following" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: her Elmal following husband
+[P5-B-B0032-003] S=['IVAR QUICKSTEP', 'TWISTED MORGANETH', 'GUDNY GOLD-LAMB'] P=sacrifices O=['GOOD ARNAL'] IO=['ORLANTH'] implicit=True ps="staked him out for" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: They kidnapped him, took him out into the woods, and staked him out for Orlanth to pass judgment.
+[P5-B-B0032-004] S=['GOOD ARNAL'] P=transforms into O=['GHOUL'] implicit=False ps="became" sug=transforms into
+   Q: Good Arnal did not die that day; instead, he became a ghoul, and thane to evil King Brangbane.
+[P5-B-B0032-005] S=['GOOD ARNAL'] P=serves O=['KING BRANGBANE'] implicit=False ps="thane to" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Good Arnal did not die that day; instead, he became a ghoul, and thane to evil King Brangbane.
+[P5-B-B0032-006] S=['HELER'] P=defeats O=['ELMAL'] implicit=False ps="triumph of" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: when the Red Cow tried to prove the triumph of Heler over Elmal.
+[P5-B-B0032-007] S=['TWISTED MORGANETH'] P=marries O=['IVAR CLUBFOOT'] implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: She was as shocked as anyone when Ivar Clubfoot won the contest. Nevertheless, the gods favored him and healed his foot, so she gladly married into the Dolutha.
+[P5-B-B0032-008] S=['SARTARITE REBELS'] P=fights O=['ILLARO BROKEN-BACK'] MOD={"in_on_at": "Ghost Gors near Alda-Chur"} implicit=True ps="ambushed" sug=invades / raids
+   Q: Illaro was a promising young Lunar general who Sartarite rebels ambushed in the Ghost Gors near Alda-Chur and left for dead.
+[P5-B-B0032-009] S=['DEEZOLA HEALERS'] P=serves O=['DEEZOLA'] implicit=False ps="Deezola healers" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: The Deezola healers did their best, but Illaro would never walk again, or have the face that inspired men.
+[P5-B-B0032-010] S=['KULKAND BLACKHANDS'] P=steals O=['WHITE FOAL'] MOD={"from": "Brofin's herds"} implicit=False ps="stole" sug=steals
+   Q: In 1608, Kulkand Blackhands of the Fox stole the prized white foal from Brofin's herds.
+[P5-B-B0032-011] S=['ROSSERIAN THE QUICK'] P=steals O=['WHITE FOAL'] implicit=True ps="stole back" sug=steals
+   Q: Rosserian the Quick, a Dolutha thane, stole back the foal,
+[P5-B-B0032-012] S=['ROSSERIAN THE QUICK'] P=kills O=['SON OF KULKAND'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: Rosserian the Quick, a Dolutha thane, stole back the foal, but in doing so killed Kulkand's son.
+[P5-B-B0032-014] S=['BROFIN THE BEARDLESS'] P=challenges O=['KULKAND BLACKHANDS'] MOD={"in_on_at": "Isle Dangerous", "purpose_clause": "to put the matter to rest"} implicit=True ps="challenged" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Brofin challenged Kulkand to a duel on Isle Dangerous to put the matter to rest.
+[P5-B-B0032-015] S=['BROFIN THE BEARDLESS'] P=defeats O=['KULKAND BLACKHANDS'] implicit=True ps="won the day" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: The chieftain won the day, and regained the foal.
+[P5-B-B0032-016] S=['TROLLS'] P=kills O=['COMPANIONS OF ORLNISKIS'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: the trolls killed many of his companions.
+[P5-B-B0032-017] S=['ORLNISKIS TWIST-FOOT'] P=descends into O=[] MOD={"in_on_at": "Caroman Pass"} implicit=True ps="died" sug=dies
+   Q: and died alongside the Red Cow chieftain Orkarl Belly-Laugh at Caroman Pass
+[P5-B-B0032-018] S=['ORLNISKIS TWIST-FOOT'] P=kills O=['EMERALD SWORD MAN'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: He killed his first Emerald Sword man at 17 when he insulted him for being lame;
+[P5-B-B0032-019] S=['ORLNISKIS TWIST-FOOT'] P=marries O=['ERINSULVA FINEHAIR'] MOD={"purpose_clause": "to make \"peace across the Creek.\""} implicit=True ps="marry" sug=is spouse of (qual=wedding)
+   Q: Orlniskis agreed to marry the Emerald Sword woman Erinsulva FineHair to make "peace across the Creek."
+[P5-B-B0032-020] S=['IVAR CLUBFOOT'] P=is child of O=['ORLNISKIS TWIST-FOOT', 'ERINSULVA FINEHAIR'] implicit=True ps="child" sug=is child of
+   Q: When their child Ivar Clubfoot was born, Erinsulva left him,
+[P5-B-B0032-021] S=['ORLNISKIS TWIST-FOOT'] P=serves O=['KING PHARGENTES'] implicit=True ps="in the service of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: In exile, Orlniskis was a mercenary in the service of King Phargentes the Kingslayer of Tarsh.
+[P5-B-B0032-022] S=['ORLNISKIS TWIST-FOOT'] P=claims ancestry O=['SUN'] implicit=True ps="son of" sug=claims ancestry
+   Q: A son of the Sun, Orlniskis hated trolls
+[P5-B-B0032-023] S=['ORLNISKIS TWIST-FOOT'] P=fights O=['TROLLS'] MOD={"to": "Dagori Inkarth"} implicit=True ps="led raids into" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Orlniskis hated trolls and often led raids into Dagori Inkarth.
+[P5-B-B0032-024] S=['GOOD ARNAL'] P=serves O=['ORLANTH'] implicit=True ps="Orlanthi" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Good Arnal was an Orlanthi chieftain, who hid his worship behind that of Barntar.
+[P5-B-B0032-025] S=['GOOD ARNAL'] P=serves O=['BARNTAR'] implicit=True ps="worship" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: who hid his worship behind that of Barntar.
+[P5-B-B0032-026] S=['GOOD ARNAL'] P=fights O=['EMERALD SWORD CLAN'] implicit=True ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Emerald Sword clan was always raiding and Arnal had to fight the Three Widows feud.
+[P5-B-B0032-027] S=['GOOD ARNAL'] P=pledges oath with O=['LUNAR EMPIRE'] implicit=True ps="make peace with" sug=makes peace with
+   Q: It was Arnal who led the clan to make peace with the Empire
+[P5-B-B0032-028] S=['IVAR QUICKSTEP'] P=is child of O=['ORLNISKIS TWIST-FOOT'] implicit=True ps="son" sug=is child of
+   Q: relying on Ivar, Orlniskis' son,
+[P5-B-B0032-029] S=['TWISTED MORGANETH'] P=is spouse of O=['IVAR QUICKSTEP'] implicit=True ps="wife" sug=is spouse of
+   Q: and Ivar's Red Cow wife, Morganeth, for counsel.
+[P5-B-B0032-030] S=['IVAR QUICKSTEP', 'TWISTED MORGANETH', 'GUDNY GOLD-LAMB'] P=sacrifices O=['GOOD ARNAL'] IO=['ORLANTH'] implicit=True ps="staked him out for" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: after Ivar Quickstep, Twisted Morganeth and Gudny GoldLamb usurped his chieftaincy and staked him out for Orlanth's judgment.
+[P5-B-B0032-031] S=['IVAR CLUBFOOT'] P=defeats O=[] implicit=False ps="won" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In 1597, Ivar Clubfoot won the Red Cow's Summer Queen rites.
+[P5-B-B0032-032] S=['HELER'] P=bestows magic / gifts O=['IVAR CLUBFOOT'] implicit=True ps="healed" sug=heals
+   Q: His deformed foot was healed by Heler's and whispered in his ear.
+[P5-B-B0032-033] S=['BROFIN THE BEARDLESS'] P=fights O=['HOUSEHOLD OF GARRALOR'] MOD={"in_on_at": "Dangerford"} implicit=True ps="ambushed" sug=invades / raids
+   Q: Brofin ambushed the king's household when they entered Dangerford.
+[P5-B-B0032-034] S=['BROFIN THE BEARDLESS'] P=travels O=[] MOD={"to": "Holy Country"} implicit=True ps="went" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Brofin and his companions went south to the Holy Country after that
+[P5-B-B0032-035] S=['FAZZUR WIDEREAD'] P=defeats O=['KALLYR STARBROW'] implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: When General Fazzur defeated Kallyr Starbrow,
+[P5-B-B0032-036] S=['LUNAR DEMONS'] P=descends into O=['HOFSTARING TREELEAPER'] MOD={"to": "Hell"} implicit=False ps="dragged" sug=one of: descends into, dies
+   Q: when Lunar demons dragged Hofstaring Treeleaper into Hell.
+[P5-B-B0032-037] S=['RANULF TURN-TAIL'] P=flees to O=[] implicit=False ps="fleeing" sug=flees to
+   Q: the Culbrea king, Ranulf Turn-Tail, earned his nickname by fleeing
+[P5-B-B0032-038] S=['HOFSTARING TREELEAPER'] P=serves O=['ORLANTH'] implicit=True ps="Beloved by" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Beloved by the Storm God, King Hofstaring
+[P5-B-B0032-039] S=['HOFSTARING TREELEAPER'] P=defeats O=['LUNAR ARMY'] MOD={"in_on_at": "Hill of Orlanth Victorious", "using": "the great flood"} implicit=True ps="destroyed" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: King Hofstaring summoned the great flood that destroyed the Lunar Army before the Hill of Orlanth Victorious.
+[P5-B-B0032-040] S=['HOFSTARING TREELEAPER'] P=descends into O=[] MOD={"in_on_at": "Lunar Hell"} implicit=True ps="suffers in" sug=one of: descends into, dies
+   Q: It is a source of great shame for the Culbrea that Hofstaring's soul suffers in a Lunar Hell
+[P5-B-B0032-041] S=['TWO-PINE CLAN'] P=protects O=['LORTHING CLAN'] implicit=True ps="helped" sug=aids
+   Q: The Lorthing gave the Two-Pine gold when they helped them win their lands.
+[P5-B-B0032-042] S=['TWO-PINE CLAN'] P=fights O=['LORTHING CLAN'] implicit=True ps="bloody feud" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: A bloody feud developed which almost destroyed the Lorthing until they agreed to pay an annual tribute to the Two-Pine.
+[P5-B-B0032-043] S=['TWO-PINE CLAN'] P=fights O=['WOLFMEN'] implicit=True ps="raided" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Since the Lorthing took Jarolar Keep, the Two-Pine have not raided the wolfmen.
+[P5-B-B0032-044] S=['HOFSTARING TREELEAPER'] P=fights O=['HON-EEL DYNASTY'] MOD={"to": "Tarsh", "with_the_aid_of": ["OLD TARSHITES"]} implicit=False ps="fight" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Hofstaring Treeleaper led the tribe into Tarsh to fight alongside the Old Tarshites against the Hon-eel dynasty.
+[P5-B-B0032-045] S=['KOSCHEI SURE-HANDED'] P=descends into O=[] MOD={"in_on_at": "Battle of Grizzly Peak"} implicit=True ps="fell" sug=dies
+   Q: Koschei fell, along with many of the tribe at the Battle of Grizzly Peak.
+[P5-B-B0032-046] S=['FINDAR LONGSWORD'] P=fights O=['HILL OF ORLANTH VICTORIOUS'] MOD={"in_on_at": "Battle of Hofstaring's Flood"} implicit=False ps="in defense of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Findar Longsword joined his king, Hofstaring Treeleaper, in defense of the Hill of Orlanth Victorious at the Battle of Hofstaring's Flood.
+[P5-B-B0032-047] S=['LUNAR EMPIRE'] P=defeats O=['SARTARITE REBELS'] implicit=True ps="surrendered to" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: when the rebels surrendered to the Lunar Empire.
+[P5-B-B0032-048] S=['HOFSTARING TREELEAPER'] P=descends into O=[] MOD={"to": "Lunar Hell"} implicit=True ps="was dragged into" sug=one of: descends into, dies
+   Q: When King Hofstaring was dragged into a Lunar Hell,
+[P5-B-B0032-049] S=['FINDAR LONGSWORD'] P=fights O=['LUNAR EMPIRE'] implicit=True ps="campaign against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: he continued to lead the clan's warband in a campaign against the Empire, raiding their supply lines.
+[P5-B-B0032-050] S=['LUNAR EMPIRE'] P=kills O=['TWO-PINE CLAN'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: their troops killed many Two-Pine clanfolk that day.
+[P5-B-B0032-051] S=['FINDAR LONGSWORD'] P=flees to O=[] MOD={"to": "Jonstown"} implicit=False ps="fled" sug=flees to
+   Q: Findar Longsword fled into hiding and is rumored to be in hiding somewhere around Jonstown,
+[P5-B-B0033-001] S=['KORLMHYOR THE SWIFT'] P=fights O=['LUNAR EMPIRE'] implicit=True ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: As a young man, Korlmhyor fought against the Lunar Empire's invasion of Sartar.
+[P5-B-B0033-002] S=['KORLMHYOR THE SWIFT'] P=initiates into cult O=['SEVEN MOTHERS'] implicit=True ps="convert to" sug=initiates into cult
+   Q: was amongst the first in the clan to convert to the Seven Mothers on 'White Shirt Day'
+[P5-B-B0033-003] S=['KORLMHYOR THE SWIFT'] P=serves O=['LUNAR EMPIRE'] MOD={"via": ["EMERALD SWORD CLAN"]} implicit=True ps="as mercenaries for" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Korlmhyor has led the Emerald Sword as mercenaries for the Empire
+[P5-B-B0033-004] S=['KORLMHYOR THE SWIFT'] P=fights O=["STARBROW'S REBELLION"] implicit=True ps="fought against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: he fought against Starbrow's Rebellion.
+[P5-B-B0033-005] S=['KORLMHYOR THE SWIFT'] P=fights O=['CINSINA TRIBE', 'TORKANI TRIBE'] implicit=True ps="raiding" sug=invades / raids
+   Q: he began raiding the Cinsina and Torkani.
+[P5-B-B0033-006] S=['ERINORTH THE RIDER'] P=teaches O=['ELMALI OF THE EMERALD SWORD'] IO=['YELMALIO'] implicit=False ps="conversion of" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Erinorth the Rider's conversion of many Elmali in the Emerald Sword to Yelmalio
+[P5-B-B0033-007] S=['ORLNISKIS TWIST-FOOT'] P=kills O=['YELMALION INITIATES OF THE EMERALD SWORD'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: when he killed the Yelmalion initiates who were amongst the Emerald Sword emissaries visiting his chieftain's hall.
+[P5-B-B0033-008] S=['ORLNISKIS TWIST-FOOT'] P=challenges O=['YELMALION INITIATES OF THE EMERALD SWORD'] implicit=True ps="challenged" sug=one of: challenges, breaks oath, betrays, fights
+   Q: Orlniskis took his spear and shield and challenged the Yelmalions to prove their god's might in a duel.
+[P5-B-B0033-009] S=['ORLNISKIS TWIST-FOOT'] P=kills O=['SEVEN YELMALION INITIATES'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: Orlniskis killed all seven in that fight
+[P5-B-B0033-010] S=['EMERALD SWORD CLAN'] P=fights O=['DOLUTHA CLAN'] implicit=True ps="fought a feud" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: the Emerald Sword and the Dolutha fought a feud to settle the matter.
+[P5-B-B0033-011] S=['ERINSULVA FINE-HAIR'] P=marries O=['ORLNISKIS TWIST-FOOT'] MOD={"purpose_clause": "to bring peace"} implicit=True ps="married" sug=is spouse of (qual=wedding)
+   Q: Erinsulva Fine-Hair of the Emerald Sword married Orlniskis to bring peace.
+[P5-B-B0033-012] S=['ERINSULVA FINE-HAIR'] P=is member of O=['EMERALD SWORD CLAN'] implicit=True ps="of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Erinsulva Fine-Hair of the Emerald Sword
+[P5-B-B0033-013] S=['ERINORTH THE RIDER'] P=is member of O=['EMERALD SWORD CLAN'] implicit=False ps="thane of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Erinorth the Rider was an Elmali thane of the Emerald Sword clan.
+[P5-B-B0033-014] S=['ERINORTH THE RIDER'] P=serves O=['ELMAL'] implicit=True ps="Elmali" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Erinorth the Rider was an Elmali thane of the Emerald Sword clan.
+[P5-B-B0033-015] S=['MONROGH LANTERN'] P=reveals O=['MANY SUNS'] implicit=False ps="had his vision of" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: After Monrogh Lantern had his vision of the Many Suns
+[P5-B-B0033-016] S=['ERINORTH THE RIDER'] P=initiates into cult O=['YELMALIO'] implicit=True ps="converted to" sug=initiates into cult
+   Q: Erinorth was amongst those who converted to Yelmalio
+[P5-B-B0033-017] S=['ERINORTH THE RIDER'] P=rules O=['EMERALD SWORD CLAN'] implicit=True ps="chieftain" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: the people made him their chieftain.
+[P5-B-B0033-018] S=['ERINORTH THE RIDER'] P=fights O=['TORKANI TRIBE'] implicit=True ps="fight against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Erinorth was happy to join the Dinacoli fight against the Torkani, who were allies of the trolls, Yelmalio's great enemy.
+[P5-B-B0033-019] S=['ERINORTH THE RIDER'] P=kills O=['XERENA'] implicit=True ps="burnt" sug=one of: kills, shatters, dies
+   Q: He was amongst those who burnt the Torkani queen Xerena.
+[P5-B-B0033-020] S=['ORLNISKIS TWIST-FOOT'] P=defeats O=['ERINORTH THE RIDER'] implicit=True ps="drove him out" sug=exiles / banishes
+   Q: When he tried to convert the Elmal worshipping Dolutha south of the Creek a young Dolutha thane Orlniskis Twist-Foot ignored the laws of hospitality and drove him out.
+[P5-B-B0033-021] S=['EMERALD SWORD CLAN'] P=fights O=['DOLUTHA CLAN'] implicit=True ps="fought" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The Emerald Sword and the Dolutha fought the Bitter Harvest feud for that.
+[P5-B-B0033-022] S=['ORLNISKIS TWIST-FOOT'] P=kills O=['ERINORTH THE RIDER'] MOD={"in_on_at": "Isle Dangerous"} implicit=True ps="died on Orlniskis' spear" sug=one of: kills, shatters, dies
+   Q: Erninorth died on Orlniskis' spear during a duel on Isle Dangerous
+[P5-B-B0033-023] S=['IVAR CLUBFOOT'] P=is child of O=['ERINSULVA FINE-HAIR', 'ORLNISKIS TWIST-FOOT'] implicit=True ps="child" sug=is child of
+   Q: When their child Ivar Clubfoot was born, Erinsulva left Orlniskis Twist-Foot
+[P5-B-B0033-024] S=['ERINSULVA FINE-HAIR'] P=departs from O=['ORLNISKIS TWIST-FOOT'] implicit=True ps="left" sug=one of: departs from, betrays, exiles / banishes, flees to
+   Q: Erinsulva left Orlniskis Twist-Foot
+[P5-B-B0033-025] S=['RASTNIK THE RED', 'TARVIK THE SWARTHY'] P=kills O=['LONDRATH THE UNKEMPT'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: When Rastnik the Red and Tarvik the Swarthy killed Orlniskis' uncle, Londrath the Unkempt
+[P5-B-B0033-026] S=['LONDRATH THE UNKEMPT'] P=is sibling of O=['ORLNISKIS TWIST-FOOT'] implicit=True ps="uncle" sug=is sibling of
+   Q: Orlniskis' uncle, Londrath the Unkempt
+[P5-B-B0033-027] S=['ORLNISKIS TWIST-FOOT'] P=kills O=['ERINORTH THE RIDER'] implicit=True ps="pierced the visor of Erinorth's helm" sug=one of: kills, shatters, dies
+   Q: Orlniskis silenced Erinorth's cheering followers, who had been certain of their lord's victory, with one blow from a spear, thrown at a run, which pierced the visor of Erinorth's helm.
+[P5-B-B0033-028] S=['ASHARL THE UNWASHED'] P=fights O=['DOLUTHA CLAN'] implicit=True ps="fight the Barnwulf Boys' Feud against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Asharl the Unwashed had to fight the Barnwulf Boys' Feud against the Dolutha
+[P5-B-B0033-029] S=['EMERALD SWORD HORSE-THIEVES'] P=kills O=["BARNWULF SMOOTH-TONGUED'S TWO SONS"] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: when Emerald Sword horse-thieves killed Barnwulf Smooth-Tongued's two sons
+[P5-B-B0033-030] S=["BARNWULF SMOOTH-TONGUED'S TWO SONS"] P=is child of O=['BARNWULF SMOOTH-TONGUED'] implicit=False ps="sons" sug=is child of
+   Q: Barnwulf Smooth-Tongued's two sons
+[P5-B-B0033-031] S=['HAHLGRIM WOOD-NOSE'] P=pledges oath with O=['SEVEN MOTHERS MISSIONARIES'] implicit=False ps="won promises of Lunar goodwill if the clan withheld their warband from" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: Hahlgrim Wood-Nose had won promises of Lunar goodwill if the clan withheld their warband from the Seven Mothers missionaries.
+[P5-B-B0033-032] S=['BROKAR SURE-HANDED'] P=fights O=['RED COW CLAN'] implicit=True ps="fought the Ferry Feud against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Brokar Sure-Handed fought the Ferry Feud against the Red Cow
+[P5-B-B0033-033] S=['VENHARL TANGLE-HAIR'] P=kills O=['KOSCHEI BRAGGART'] implicit=False ps="killed" sug=one of: kills, shatters, dies
+   Q: when Venharl Tangle-Hair killed Koschei Braggart.
+[P5-B-B0033-034] S=['DOLUTHA CLAN'] P=rules O=['ORLNISKIS TWIST-FOOT'] implicit=True ps="appointed" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: when the Dolutha appointed Orlniskis Twist-Foot chieftain
+[P5-B-B0033-035] S=['BROKAR SURE-HANDED'] P=fights O=['DOLUTHA CLAN'] implicit=True ps="encouraged cattle raids against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He encouraged cattle raids against the Dolutha.
+[P5-B-B0033-036] S=['SEVEN MOTHERS MISSIONARIES'] P=bestows magic / gifts O=['EMERALD SWORD CLAN'] implicit=True ps="rewarded" sug=one of: bestows, heals, imbues, teaches
+   Q: the Seven Mothers missionaries who had sought the clan's inaction rewarded the clan with Lunar favor.
+[P5-B-B0033-037] S=['HAHLGRIM WOOD-NOSE'] P=fights O=['ERLENDING CLAN'] MOD={"with_the_aid_of": ["LUNAR EMPIRE"]} implicit=True ps="plunder" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Hahlgrim led the clan to plunder Erlending steads with the backing of his new Lunar friends.
+[P5-B-B0033-038] S=['HAHLGRIM WOOD-NOSE'] P=fights O=['TELMORI'] MOD={"with_the_aid_of": ["DUKE JOMES"]} implicit=True ps="in search of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: led the clan in search of their old enemies, the Telmori, in support of Duke Jomes.
+[P5-B-B0033-039] S=['TELMORI'] P=kills O=['HAHLGRIM WOOD-NOSE'] implicit=True ps="ambushed" sug=one of: kills, shatters, dies
+   Q: when a pack of the Telmori ambushed him, along with many thanes of the Emerald Sword.
+[P5-B-B0033-040] S=['DURUVAN THE FAT'] P=rules O=['EMERALD SWORD CLAN'] implicit=True ps="chieftain" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Duruvan the Bold, the present chieftain was elected after Hahlgrim Wood-Nose fell in the Great Hunt.
+[P5-B-B0033-041] S=['DURUVAN THE BOLD'] P=is alternative name for O=['DURUVAN THE FAT'] implicit=True ps="Duruvan the Bold" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Duruvan the Bold
+[P5-B-B0033-042] S=['DURUVAN THE FAT'] P=serves O=['LUNAR EMPIRE'] implicit=True ps="led his clan into the arms of" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: Duruvan led his clan into the arms of the Empire's missionaries
+[P5-B-B0033-043] S=['KANGHARL BLACK-BROW'] P=fights O=['EMERALD SWORD CLAN'] implicit=True ps="raid" sug=invades / raids
+   Q: the Emerald Sword. Torath Silk-Breeches, an Emerald Sword man died during the raid.
+[P5-B-B0033-044] S=['TORATH SILK-BREECHES'] P=is member of O=['EMERALD SWORD CLAN'] implicit=True ps="man" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Torath Silk-Breeches, an Emerald Sword man
+[P5-B-B0033-045] S=['DURUVAN THE FAT'] P=fights O=['RED COW CLAN'] MOD={"at_the_instigation_of": ["ROSTAKUS TWICE-OUTLAWED"]} implicit=True ps="declare a blood feud with" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He convinced an unhappy Duruvan the Fat to declare a blood feud with the Red Cow.
+[P5-B-B0033-046] S=['ROSTAKUS TWICE-OUTLAWED'] P=kills O=['JORDARN THE CLASH'] implicit=True ps="killed" sug=one of: kills, shatters, dies
+   Q: Rostakus tried to settle the matter in a duel with the old Red Cow clan champion Jordarn the Clash and killed him.
+[P5-B-B0033-047] S=['EMERALD SWORD CLAN', 'RED COW CLAN'] P=fights O=[] implicit=True ps="fighting" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The two clans are still fighting the Silk-Breeches feud.
+[P5-B-B0033-048] S=['NANDAR-NAN'] P=is child of O=['VELHARA'] implicit=False ps="beast child of" sug=is child of
+   Q: Nandar-Nan, the savage Great Blue Boar was a famous beast child of Velhara.
+[P5-B-B0033-049] S=['NANDAR-NAN'] P=has monstrous form O=[] implicit=False ps="savage Great Blue Boar" sug=has anomalous form (qual=monstrous)
+   Q: Nandar-Nan, the savage Great Blue Boar
+[P5-B-B0033-050] S=['ODAYLA'] P=fights O=['NANDAR-NAN'] implicit=False ps="catch" sug=hunts
+   Q: Nandar-Nan was the goal of many a hunt, but no one, not even Odayla, could catch him.
+[P5-B-B0033-051] S=['IZEN SWIFTRUNNER'] P=defeats O=['NANDAR-NAN'] implicit=True ps="caught" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: One day Izen Swiftrunner finally caught him.
+[P5-B-B0033-052] S=['IZEN SWIFTRUNNER'] P=kills O=['NANDAR-NAN'] MOD={"in_on_at": "Donalf Flats"} implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: slew Nandur-Nan, and buried his body on the Donalf Flats.
+[P5-B-B0033-053] S=['DUNORL BRANDGORSSON'] P=bestows magic / gifts O=['REGALIA OF SARTAR'] IO=['KALLAI ROCKBUSTER'] MOD={"purpose_clause": "TO PROTECT"} implicit=True ps="gave" sug=one of: bestows, heals, imbues, teaches
+   Q: He gave them to his chieftain, Kallai Rockbuster of the Colymar, to forge a new Ring.
+[P5-B-B0033-054] S=['HOFSTARING TREELEAPER', 'MINARYTH PURPLE'] P=re-enacts O=[] MOD={"purpose_clause": "TO OBTAIN"} implicit=True ps="heroquested" sug=re-enacts
+   Q: Hostfaring Treeleaper of the Culbrea and Minaryth Purple heroquested to replace the lost parts
+[P5-B-B0033-055] S=['KALLYR STARBROW'] P=discovers O=['REGALIA OF SARTAR'] MOD={"with_the_aid_of": ["MINARYTH PURPLE"]} implicit=True ps="re-gathered" sug=discovers
+   Q: With Minaryth's help, Kallyr Starbrow re-gathered the parts
+[P5-B-B0033-056] S=['ORSTALOR SPEARLORD', 'ORNGERIN THUNDERCAPE'] P=is member of O=['SARTAR HIGH COUNCIL'] implicit=True ps="are on" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Of the rebel leaders of this supplement, Orstalor Spearlord and Orngerin Thundercape are on the Ring.
+[P5-B-B0033-057] S=['ORLANTH'] P=bestows magic / gifts O=['SWORD AND HELM OF VINGKOT'] IO=['BROYAN OF WHITEWALL'] implicit=False ps="was given" sug=one of: bestows, heals, imbues, teaches
+   Q: Broyan of Whitewall has fulfilled ancient prophecies and was given the sacred Sword and Helm of Vingkot by Great Orlanth himself.
+[P5-B-B0033-058] S=['KODIGVARI BLOODLINE'] P=claims ancestry O=['ORLANTH'] implicit=False ps="descended directly from" sug=claims ancestry
+   Q: the Kodigvari bloodline — a line of kings descended directly from Orlanth
+[P5-B-B0033-059] S=['BROYAN OF WHITEWALL'] P=defeats O=['SIX GUARDIANS OF BELINTAR'] implicit=True ps="defeated" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: In 1617 Broyan defeated the six guardians appointed by Belintar
+[P5-B-B0033-060] S=['BELINTAR'] P=serves O=['SIX GUARDIANS OF BELINTAR'] implicit=False ps="appointed by" sug=appoints
+   Q: the six guardians appointed by Belintar
+[P5-B-B0033-061] S=['BROYAN OF WHITEWALL'] P=resurrects O=['KINGDOM OF THE HENDRIKINGS'] MOD={"in_on_at": "Whitewall"} implicit=True ps="resurrected" sug=one of: resurrects, awakens, brings back, rescues / frees
+   Q: resurrected the Kingdom of the Hendrikings at the sacred fortress of Whitewall.
+[P5-B-B0033-062] S=['BROYAN OF WHITEWALL'] P=rules O=['HENDRIKINGS TRIBE'] implicit=True ps="High King of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: As High King of the Hendrikings, Broyan is now leader of all free Orlanthi

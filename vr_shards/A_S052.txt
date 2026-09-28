@@ -1,0 +1,242 @@
+[P5-A-B0157-044] S=['KALIKOS'] P=is identified as O=['KEY DEITY OF THE NORTH'] implicit=False ps="is the key deity of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Kalikos is the key deity of then north
+[P5-A-B0157-045] S=['ERINDAMUS'] P=is identified as O=['SOUTHERN GOD'] implicit=False ps="is the southern god" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: while Erindamus is the southern god.
+[P5-A-B0157-046] S=['POLARIS', 'ARRAZ', 'OURANIA'] P=is member of O=['CITY'] implicit=True ps="reside" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Here reside the three brightest stars of the sky—Polaris, Arraz and Ourania.
+[P5-A-B0157-047] S=['POLARIS'] P=is born from O=['DAYZATAR'] MOD={"purpose_clause": "to be the center of the heavens"} implicit=False ps="thought Polaris into existence" sug=is born from
+   Q: Dayzatar thought Polaris into existence to be the center of the heavens about which the other stars revolve.
+[P5-A-B0157-048] S=['ARRAZ'] P=rules O=['SKY PEOPLE'] implicit=False ps="is the king of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Arraz is the king of the Sky People.
+[P5-A-B0157-049] S=['OURANIA'] P=is born from O=['DAYZATAR'] implicit=False ps="sprang from Dayzatar's mind" sug=is born from
+   Q: Ourania also sprang from Dayzatar's mind as the virginal queen of heaven.
+[P5-A-B0157-050] S=['OURANIA'] P=is identified as O=['QUEEN OF HEAVEN'] implicit=False ps="as the virginal queen of heaven" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Ourania also sprang from Dayzatar's mind as the virginal queen of heaven.
+[P5-A-B0157-051] S=['SULPA'] P=is born from O=['OURANIA'] implicit=True ps="from her right eye comes" sug=is born from
+   Q: from her right eye comes the goddess Sulpa, that hears all prayers born on wings of tears
+[P5-A-B0157-052] S=['MUSA'] P=is born from O=['OURANIA'] implicit=True ps="from the left eye comes" sug=is born from
+   Q: from the left eye comes the goddess Musa, who brings the light of wisdom directly into the minds of the Inspired.
+[P5-A-B0157-053] S=['MUSA'] P=illuminates O=['THE INSPIRED'] implicit=False ps="brings the light of wisdom directly into the minds of" sug=illuminates
+   Q: the goddess Musa, who brings the light of wisdom directly into the minds of the Inspired.
+[P5-A-B0157-054] S=['CELESTIAL RIVER'] P=alters mythic station O=['SKY DOME'] implicit=False ps="flooded" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: In the Gods War the celestial river flooded the sky dome so it is blue now, and not gold as it was during the Golden Age.
+[P5-A-B0157-055] S=['POLARIS', 'OURANIA', 'DAYZATAR'] P=fights O=['CELESTIAL RIVER'] implicit=True ps="released their divine powers and would have destroyed" sug=invades / raids
+   Q: However, Polaris, Ourania, and Dayzatar released their divine powers and would have destroyed the river
+[P5-A-B0157-056] S=['CELESTIAL RIVER'] P=transforms into O=['FIERY WATER'] MOD={"purpose_clause": "to be able to exist in the sky world"} implicit=True ps="transformed" sug=transforms into
+   Q: except that it transformed to be able to exist in the sky world. || Thus this water is now fiery
+[P5-A-B0157-057] S=['GOD LEARNERS'] P=manifests O=['CELESTIAL RIVER'] MOD={"purpose_clause": "to destroy the Waertagi"} implicit=True ps="summoned" sug=summons / invokes
+   Q: as the God Learners demonstrated when they summoned it to destroy the Waertagi during the Imperial Age.
+[P5-A-B0157-058] S=['LORION'] P=fights O=['DAYZATAR'] MOD={"purpose_clause": "in an attempt to devour Dayzatar"} implicit=False ps="invaded the sky in an attempt to devour" sug=invades / raids
+   Q: The Starseers say Lorion the water serpent invaded the sky in an attempt to devour Dayzatar
+[P5-A-B0157-059] S=['LORION'] P=is identified as O=['WATER SERPENT'] implicit=False ps="the water serpent" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Starseers say Lorion the water serpent invaded the sky
+[P5-A-B0157-060] S=['LIGHTFORE'] P=travels O=[] MOD={"from": "THRONE OF LIGHTFORE"} implicit=False ps="rises from" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: At the very start of spring, Lightfore rises from the throne precisely
+[P5-A-B0158-001] S=['THE DRAGON'] P=survives as relic O=[] MOD={"in_on_at": "ORLANTH'S RING"} implicit=True ps="is now found adorning" sug=survives as relic
+   Q: Its green head star is now found adorning Orlanth's Ring.
+[P5-A-B0158-002] S=['HUMAKT'] P=is alternative name for O=['URBUDUD'] implicit=False ps="known to the Orlanthi as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: Urbudud, the Sword, known to the Orlanthi as Humakt.
+[P5-A-B0158-003] S=['URBUDUD'] P=alters mythic station O=['THE RIM OF THE SKY'] implicit=True ps="cut the rim of the sky loose from its bindings" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: During the Gods War, he cut the rim of the sky loose from its bindings to make it turn.
+[P5-A-B0158-004] S=['URBUDUD'] P=travels O=[] MOD={"in_on_at": "SKY"} implicit=True ps="went across the Sky" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Then he went across the Sky, striking down whoever displeased him and leaving behind only Desert.
+[P5-A-B0158-005] S=['URBUDUD'] P=strikes O=['WHOEVER DISPLEASED HIM'] MOD={"in_on_at": "SKY"} implicit=True ps="striking down" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Then he went across the Sky, striking down whoever displeased him and leaving behind only Desert.
+[P5-A-B0158-006] S=['LIGHTFORE'] P=binds O=['URBUDUD'] implicit=True ps="bound" sug=binds
+   Q: When Lightfore reappeared in the sky after the Gods War, he bound the Sword to its current location.
+[P5-A-B0158-007] S=['CELESTIAL HUNTER'] P=kills O=['MONSTERS'] implicit=True ps="hunted them down and slew" sug=one of: kills, shatters, dies
+   Q: he hunted them down and slew most of them.
+[P5-A-B0158-008] S=['THE REST OF THE MONSTERS'] P=flees to O=['FOREST'] implicit=True ps="fled into" sug=flees to
+   Q: The rest fled into the forest and can be seen there hiding from the hunter.
+[P5-A-B0158-009] S=["PAMALT'S SPEAR"] P=alters mythic station O=['SKY DOME'] implicit=False ps="pushing the sky dome to its northward summer tilt" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: Most prominent of these stars is Pamalt's Spear that is tallest at the height of summer, pushing the sky dome to its northward summer tilt.
+[P5-A-B0158-010] S=['BURNING SEA'] P=bestows magic / gifts O=['FIERY SEASONAL STARS'] implicit=False ps="energized by" sug=one of: bestows, heals, imbues, teaches
+   Q: In summer, the fiery seasonal stars rise from the south, energized by the Burning Sea.
+[P5-A-B0158-011] S=["VALIND'S GLACIER"] P=bestows magic / gifts O=['ICY STARS'] implicit=False ps="empowered by" sug=one of: bestows, heals, imbues, teaches
+   Q: In winter the icy stars rise in the north, empowered by Valind's Glacier.
+[P5-A-B0158-012] S=['KALIKOS'] P=defeats O=['ICE PALACE'] implicit=True ps="its light is overcome by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: until it is the brightest object there until its light is overcome by Kalikos, after which it starts to fall below the horizon.
+[P5-A-B0158-013] S=['YELM'] P=is identified as O=['THE SUN'] implicit=True ps="To the Pelorians, it is their Emperor Yelm" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: To the Pelorians, it is their Emperor Yelm, to the Orlanthi it is Elmal, and to the Vithelans Maluraya, the Viceroy of Day.
+[P5-A-B0158-014] S=['ELMAL'] P=is identified as O=['THE SUN'] implicit=True ps="to the Orlanthi it is Elmal" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: To the Pelorians, it is their Emperor Yelm, to the Orlanthi it is Elmal, and to the Vithelans Maluraya, the Viceroy of Day.
+[P5-A-B0158-015] S=['MALURAYA'] P=is identified as O=['THE SUN'] implicit=True ps="to the Vithelans Maluraya" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: To the Pelorians, it is their Emperor Yelm, to the Orlanthi it is Elmal, and to the Vithelans Maluraya, the Viceroy of Day.
+[P5-A-B0158-016] S=['THE SUN'] P=swallows / consumes O=['EHILM'] implicit=True ps="was absorbed by" sug=swallows / consumes
+   Q: a great wizard, Ehilm, learned the secrets of its brilliance but refused to share these secrets with others, and so was absorbed by it.
+[P5-A-B0158-017] S=['EHILM'] P=discovers O=["SECRETS OF THE SUN'S BRILLIANCE"] implicit=True ps="learned the secrets of" sug=discovers
+   Q: a great wizard, Ehilm, learned the secrets of its brilliance but refused to share these secrets with others
+[P5-A-B0158-018] S=['THEYA'] P=is alternative name for O=['DAWN STAR'] implicit=False ps="the Dawn Star, Theya" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: by the appearance of the Dawn Star, Theya, rising from the Gates of Dawn.
+[P5-A-B0158-019] S=['RAUSA'] P=is alternative name for O=['EVENING STAR'] implicit=False ps="the Evening Star, RAUSA" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: by the descent of the Evening Star, RAUSA, towards the Gates of Dusk in Luathela.
+[P5-A-B0158-020] S=['DENDARA'] P=is spouse of O=['YELM'] implicit=False ps="being the wife of" sug=is spouse of
+   Q: White DENDARA is widely recognized as being the wife of Yelm.
+[P5-A-B0158-021] S=['LOKARNOS'] P=is identified as O=['TIMEKEEPER OF THE HEAVENS'] implicit=False ps="used to be the timekeeper of the heavens" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Pale LOKARNOS used to be the timekeeper of the heavens by his surefooted appearances.
+[P5-A-B0158-022] S=['HUMANS'] P=alters mythic station O=['LOKARNOS'] implicit=False ps="the abuses of the cosmos wrought by humans has aged" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: However the abuses of the cosmos wrought by humans has aged Lokarnos greatly and he now wheezes and staggers across the Sky, taking much longer than he used to.
+[P5-A-B0158-023] S=['SHARGASH'] P=is identified as O=['GOD OF DESTRUCTION'] implicit=True ps="fear him as a god of destruction" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Many fear him as a god of destruction although some perversely worship him as a blood-drenched fertility god.
+[P5-A-B0158-024] S=['TOLAT'] P=is alternative name for O=['SHARGASH'] MOD={"in_on_at": ["MELIB", "TROWJANG"]} implicit=True ps="where he is known as" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: The greatest place to dare to profess his worship is hellish Alkoth within the Lunar Empire, and Melib and Trowjang where he is known as Tolat.
+[P5-A-B0158-025] S=['STARSEERS'] P=sacrifices O=['PROPITIATORY SACRIFICES'] IO=['SHARGASH'] MOD={"purpose_clause": "TO THWART"} implicit=False ps="make propitiatory sacrifices" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: The Starseers make propitiatory sacrifices to keep Shargash asleep for he can destroy the world.
+[P5-A-B0158-026] S=['ARTIA'] P=is identified as O=['DESTRUCTIVE GODDESS'] implicit=False ps="is viewed as" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: ARTIA is a tiny red light that is viewed as a destructive goddess.
+[P5-A-B0158-027] S=['SHARGASH'] P=shatters O=['UMATUM'] MOD={"in_accordance_with": ["YELM'S EMPIRE"], "purpose_clause": "TO PROTECT"} implicit=False ps="shattered" sug=shatters
+   Q: The Starseers say this used to be the planet Umatum before Shargash shattered it in defense of Yelm's Empire.
+[P5-A-B0158-028] S=["DRAGON'S HEAD"] P=is identified as O=['UMATUM'] implicit=False ps="this used to be the planet Umatum" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: The Ring has seven orange stars and one prominent green star called the Dragon's Head. || The Starseers say this used to be the planet Umatum
+[P5-A-B0158-029] S=["ORLANTH'S RING"] P=manifests O=['STORM RUNE'] implicit=True ps="traces out the Storm Rune in the heavens" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: Because it travels upwards as the Sky turns, it traces out the Storm Rune in the heavens.
+[P5-A-B0158-030] S=['BLUE MOON'] P=travels O=[] MOD={"to": "MAGASTA'S POOL", "via": ["POLESTAR"]} implicit=True ps="plummets rapidly through it down through to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: As it reaches the Polestar, it plummets rapidly through it down through to Magasta's Pool and is visible as the Blue Streak
+[P5-A-B0158-031] S=['INHABITANTS OF THE BLUE MOON'] P=defeats O=[] implicit=False ps="conquered much of Pamaltela" sug=conquers
+   Q: During the Gods War, the Blue Moon was a much more prominent body and its inhabitants even conquered much of Pamaltela.
+[P5-A-B0158-032] S=['KALIKOS'] P=fights O=['WINTER STARS'] implicit=False ps="wars against" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: KALIKOS rises and sets in the north every night and generally wars against the Winter Stars when they are visible.
+[P5-A-B0158-033] S=['KALIKOS'] P=defeats O=["VALIND'S GLACIER"] implicit=True ps="halting" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: It is worshipped by many northern peoples and widely credited with ending the Great Winter and halting Valind's Glacier.
+[P5-A-B0158-034] S=['GREAT COMPROMISE'] P=alters mythic station O=["GLORANTHA'S EARTHEN BODY"] implicit=True ps="pulled back together through the efforts of" sug=one of: is deified, loses status, takes title, accedes to rule, transforms into, rescues / frees
+   Q: This once perfect cube was shattered in the Gods War, but pulled back together through the efforts of the Great Compromise.
+[P5-A-B0158-035] S=['GAMATALER'] P=is identified as O=['HERO PLANE INSIDE THE EARTH'] implicit=False ps="is the name of" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Gamataler is the name of the Hero Plane inside the earth.
+[P5-A-B0158-036] S=['LIKITI'] P=embodies O=['EARTH'] implicit=False ps="are made entirely of earth" sug=one of: embodies, has domain
+   Q: The race of beings which live here are the Likiti, who are much like humans, except they are made entirely of earth instead of mixed elements.
+[P5-A-B0158-037] S=['DAKA FAL'] P=is identified as O=['JUDGE OF THE DEAD'] implicit=True ps="judge of the dead" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: Fal, judge of the dead and the first human to die.
+[P5-A-B0158-038] S=['DAKA FAL'] P=descends into O=[] implicit=True ps="the first human to die" sug=dies
+   Q: Fal, judge of the dead and the first human to die.
+[P5-A-B0158-039] S=['DAKA FAL'] P=rules O=['SOULS OF THE DEAD'] implicit=True ps="determines where the soul will spend the rest of its sojourn" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Daka Fal determines where the soul will spend the rest of its sojourn
+[P5-A-B0158-040] S=['LODRIL'] P=rules O=[] implicit=False ps="whose command extends through" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: The biggest and probably best known is Lodril, whose command extends through parts of all of the underworld planes.
+[P5-A-B0158-041] S=['LODRIL'] P=defeats O=['DESHKORGOS'] implicit=False ps="defeated by" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: Thus Deshkorgos, though defeated by Lodril, is still commander of his own realm.
+[P5-A-B0158-042] S=['DESHKORGOS'] P=rules O=["DESHKORGOS'S REALM"] implicit=False ps="is still commander of" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Thus Deshkorgos, though defeated by Lodril, is still commander of his own realm.
+[P5-A-B0158-043] S=['EVIL TROLLS'] P=travels O=[] MOD={"to": "SKY WORLD"} implicit=False ps="are sent to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Thus evil trolls are sent to the sky world, a place of light and fire which is torture to them.
+[P5-A-B0158-044] S=['BROOS'] P=is member of O=['BEAST PEOPLE'] implicit=False ps="were just another Beast people" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: In ancient times, the BROOS were just another Beast people, no more evil in themselves than trolls or sylphs.
+[P5-A-B0158-045] S=['BROOS'] P=claims ancestry O=['RAGNAGLAR'] implicit=True ps="their progenitor" sug=claims ancestry
+   Q: But they gleefully assisted their progenitor, Ragnaglar, in releasing the devil into the world.
+[P5-A-B0158-046] S=['BROOS'] P=serves O=['RAGNAGLAR'] implicit=True ps="gleefully assisted" sug=one of: serves, is worshipped by, aids, submits to, is member of
+   Q: But they gleefully assisted their progenitor, Ragnaglar, in releasing the devil into the world.
+[P5-A-B0158-047] S=['RAGNAGLAR'] P=reveals O=['THE DEVIL'] MOD={"to": "THE WORLD", "with_the_aid_of": ["BROOS"]} implicit=True ps="releasing the devil into the world" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: But they gleefully assisted their progenitor, Ragnaglar, in releasing the devil into the world.
+[P5-A-B0158-048] S=['BROOS'] P=manifests chaos taint O=[] MOD={"at_the_instigation_of": ["RAGNAGLAR"]} implicit=False ps="are corrupted with chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: As a result of Ragnaglar's insane act the broos are corrupted with chaos.
+[P5-A-B0158-049] S=['BROOS'] P=claims ancestry O=['THED'] implicit=False ps="their ancestress" sug=claims ancestry
+   Q: Broos worship their ancestress Thed, wife of dead Ragnaglar.
+[P5-A-B0158-050] S=['BROOS'] P=serves O=['THED'] implicit=False ps="worship" sug=is worshipped by
+   Q: Broos worship their ancestress Thed, wife of dead Ragnaglar.
+[P5-A-B0158-051] S=['THED'] P=is spouse of O=['RAGNAGLAR'] implicit=False ps="wife of" sug=is spouse of
+   Q: Broos worship their ancestress Thed, wife of dead Ragnaglar.
+[P5-A-B0158-052] S=['BROOS'] P=serves O=['MALLIA'] implicit=True ps="worship" sug=is worshipped by
+   Q: They also worship Mallia, the goddess of disease and are immune to her festering spirits.
+[P5-A-B0158-053] S=['MALLIA'] P=is identified as O=['GODDESS OF DISEASE'] implicit=False ps="the goddess of disease" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: They also worship Mallia, the goddess of disease and are immune to her festering spirits.
+[P5-A-B0158-054] S=['WILD HEALER OF THE ROCKWOOD MOUNTAINS'] P=serves O=['CHALANA ARROY'] implicit=False ps="worships" sug=is worshipped by
+   Q: Even the famed wild healer of the Rockwood Mountains, who worships Chalana Arroy, is regularly hunted whenever sighted
+[P5-A-B0158-055] S=['OGRES'] P=is identified as O=['ORIGINAL HUMANS'] implicit=False ps="claim to be" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: OGRES claim to be the original humans and hold secret contempt for their inferiors.
+[P5-A-B0158-056] S=['OGRES'] P=manifests chaos taint O=[] implicit=True ps="were corrupted by chaos" sug=one of: corrupts, grows tainted with Chaos, is tainted with Chaos
+   Q: Others say they were humans who were corrupted by chaos in the great darkness.
+[P5-A-B0158-057] S=['CACODEMON'] P=is identified as O=['THE CREATOR'] implicit=False ps="is the Creator" sug=one of: is identified as, is epithet of, has domain, is synonym of, manifests as
+   Q: claiming that their god Cacodemon is the Creator, temporarily taking refuge in this world to reform it to its original image.
+[P5-A-B0158-058] S=['BAGOG'] P=travels O=[] MOD={"to": "THE WORLD"} implicit=False ps="invaded" sug=invades / raids
+   Q: BAGOG is the scorpion demon that invaded the world during the Greater Darkness.
+[P5-A-B0158-059] S=['SCORPION-PEOPLE'] P=claims ancestry O=['BAGOG'] implicit=True ps="are descended from" sug=claims ancestry
+   Q: The race of scorpion-people, hybrid man-scorpions, are descended from her and the unfortunate fathers that she ate.
+[P5-A-B0158-060] S=['SCORPION-PEOPLE'] P=has hybrid form O=[] implicit=False ps="hybrid man-scorpions" sug=has anomalous form (qual=hybrid)
+   Q: The race of scorpion-people, hybrid man-scorpions, are descended from her and the unfortunate fathers that she ate.
+[P5-A-B0158-061] S=['BAGOG'] P=swallows / consumes O=['THE FATHERS OF THE SCORPION-PEOPLE'] implicit=True ps="ate" sug=swallows / consumes
+   Q: The race of scorpion-people, hybrid man-scorpions, are descended from her and the unfortunate fathers that she ate.
+[P5-A-B0158-062] S=['THE BLOCK'] P=defeats O=['THE DEVIL'] implicit=False ps="was crushed underneath" sug=one of: defeats, conquers, exiles / banishes, kills, punishes
+   Q: When the DEVIL was crushed underneath the Block, many psychic fragments known as Cacodemons escaped.
+[P5-A-B0158-063] S=['CACODEMONS'] P=comes into being O=[] MOD={"from": "THE DEVIL"} implicit=False ps="psychic fragments known as Cacodemons escaped" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: When the DEVIL was crushed underneath the Block, many psychic fragments known as Cacodemons escaped.
+[P5-A-B0158-064] S=['OGRES'] P=serves O=['CACODEMONS'] implicit=True ps="worship" sug=is worshipped by
+   Q: They cause havoc throughout the world and Ogres worship them for the destructive magics that they can give.
+[P5-A-B0158-065] S=['THE DECEIVER'] P=is alternative name for O=['GBAJI'] implicit=False ps="is the Deceiver" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: GBAJI is the Deceiver, the Evil that looks Good.
+[P5-A-B0158-066] S=['GBAJI'] P=fights O=['THE WORLD'] implicit=True ps="very nearly destroyed" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: He very nearly destroyed the world at the end of the Dawn Age
+[P5-A-B0159-001] S=['SERANDARN THE IRONWOOD'] P=travels O=[] MOD={"from": "TESHNOS", "via": ["THE DESERT"]} implicit=False ps="marched from Teshnos across the desert" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Serandarn the Ironwood, the greatest elf hero alive, marched from Teshnos across the desert to lead an army.
+[P5-A-B0159-002] S=['SERANDARN THE IRONWOOD'] P=is member of O=['ELVES'] implicit=True ps="the greatest elf hero alive" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Serandarn the Ironwood, the greatest elf hero alive
+[P5-A-B0159-003] S=['MOSTALI'] P=fights O=['MERMEN'] MOD={"in_on_at": "THE SEAS NEAR SLON", "using": "WAR SHIPS MADE OF IRON"} implicit=False ps="have begun sweeping the seas near Slon of" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: MOSTALI war ships made of iron have begun sweeping the seas near Slon of all other shipping and, with more difficulty, of all mermen as well.
+[P5-A-B0159-004] S=['ISIDILIAN THE WISE'] P=reveals O=['TUNNEL'] IO=['HUMANS'] MOD={"in_on_at": "DRAGON PASS"} implicit=False ps="has told humans" sug=one of: reveals itself, unmasks, speaks / informs / warns / prophesies, brings back, reveals
+   Q: In Dragon Pass Isidilian the Wise has told humans that his kin have made a tunnel now exists that goes for two thousand miles underground
+[P5-A-B0159-005] S=['BARBARIAN REBELS OF SARTAR'] P=fights O=['LUNAR EMPIRE'] implicit=False ps="the conflict between" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: The explosion of the Hero Wars started with the conflict between the barbarian rebels of Sartar and the occupying empire of Dara Happa, called the Lunar Empire.
+[P5-A-B0159-006] S=['LUNAR EMPIRE'] P=is alternative name for O=['EMPIRE OF DARA HAPPA'] implicit=False ps="called" sug=one of: is synonym of, is epithet of, is identified as, takes title
+   Q: the occupying empire of Dara Happa, called the Lunar Empire.
+[P5-A-B0159-007] S=['HEORTLINGS'] P=serves O=['ORLANTH', 'ERNALDA'] implicit=False ps="worship" sug=is worshipped by
+   Q: The rebels, called Heortlings, worship the great god Orlanth and his wife, Ernalda.
+[P5-A-B0159-008] S=['ERNALDA'] P=is spouse of O=['ORLANTH'] implicit=False ps="his wife" sug=is spouse of
+   Q: the great god Orlanth and his wife, Ernalda.
+[P5-A-B0159-009] S=['LUNAR EMPIRE'] P=fights O=['HEORTLINGS'] MOD={"in_on_at": "HEORTLING HOMELANDS", "purpose_clause": "TO THWART"} implicit=True ps="has invaded" sug=invades / raids
+   Q: resentful that the empire has invaded their homelands to destroy their god.
+[P5-A-R0048-001] S=['VINGA'] P=teaches O=['PEOPLE'] implicit=False ps="taught manners to" sug=one of: teaches, speaks / informs / warns / prophesies, reveals
+   Q: Vinga taught manners to people.
+[P5-A-R0048-002] S=['VINGA'] P=is member of O=['THE GREAT TWELVE'] implicit=True ps="was one of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: She was one of the Great Twelve who cracked skulls and stopped all provocative speech, fighting at table, and bone throwing.
+[P5-A-R0048-003] S=['VINGA'] P=is child of O=['ERNALDA'] implicit=True ps="her mother" sug=is child of
+   Q: She stood beside her mother when Ernalda spoke the Belittle Words
+[P5-A-R0048-004] S=['ERNALDA'] P=wounds O=['ORLANTH'] MOD={"using": "THE BELITTLE WORDS"} implicit=False ps="made Orlanth bleed" sug=wounds
+   Q: Ernalda spoke the Belittle Words, which were sharp enough to prevent kinstrife and so dangerous that they made Orlanth bleed.
+[P5-A-R0048-005] S=['ORLANTH'] P=travels O=[] MOD={"via": ["HIS GREAT JOURNEY"]} implicit=False ps="had departed on his Great Journey" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Orlanth had departed on his Great Journey
+[P5-A-R0048-006] S=['ELMAL'] P=travels O=[] MOD={"to": "THE SHIVER BONE CLANS", "using": "HIS TORCH GIFT"} implicit=False ps="was taking his torch gift to" sug=one of: travels, leads, sends, settles at, dwells at, invades / raids
+   Q: Elmal was taking his torch gift to the Shiver Bone clans
+[P5-A-R0048-007] S=['VINGKOT'] P=fights O=['VADRUDI'] implicit=False ps="was off fighting" sug=one of: fights, wages war on, invades / raids, hunts, betrays, hates
+   Q: Vingkot was off fighting the Vadrudi, who were plundering the northern regions.
+[P5-A-R0048-008] S=['VALIND'] P=is member of O=['VADRUDI'] implicit=False ps="not all of the Vadrudi were so far away. Valind appeared" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: But not all of the Vadrudi were so far away. || Valind appeared upon his thundering ice ram
+[P5-A-R0048-009] S=['VALIND'] P=rides O=['ICE RAM'] implicit=False ps="appeared upon his thundering ice ram" sug=rides
+   Q: Valind appeared upon his thundering ice ram and sought to plunder the undefended stead.
+[P5-A-R0048-010] S=['TEN DEMIGODS'] P=fights O=['VALIND'] MOD={"purpose_clause": "TO THWART"} implicit=True ps="rose to stop him" sug=challenges
+   Q: Ten good demigods, fyrdmen all, rose to stop him. || They fell, for simple farmers could not face such a wild and violent monster.
+[P5-A-R0048-011] S=['VALIND'] P=binds O=['MAHOME'] MOD={"using": "VALIND'S MAGIC"} implicit=False ps="frozen in place by Valind's magic" sug=binds
+   Q: Mahome stopped stone cold, frozen in place by Valind's magic.
+[P5-A-R0048-012] S=['VINGA'] P=protects O=['MAHOME'] implicit=False ps="shielded" sug=one of: protects, rescues / frees, aids
+   Q: Vinga shielded Mahome
+[P5-A-R0048-013] S=['VINGA'] P=fights O=['VALIND'] MOD={"using": "HER JAVELIN", "purpose_clause": "TO THWART"} implicit=True ps="cast her javelin to deter" sug=invades / raids
+   Q: in fury cast her javelin to deter the advancing Valind.
+[P5-A-R0048-014] S=['VINGA'] P=steals O=['THE POWERS'] MOD={"from": "JIRIL"} implicit=False ps="had taken from" sug=steals
+   Q: Vinga then showed the powers that she had taken from Jiril.
+[P5-A-R0048-015] S=['DEFENDER WIND'] P=strikes O=['VALIND'] MOD={"at_the_command_of": ["VINGA"]} implicit=True ps="flew into the face of" sug=one of: wounds, fights, defeats, kills, shatters, punishes
+   Q: Her Defender Wind howled around the stead and flew into the face of the god.
+[P5-A-R0048-016] S=['VALIND'] P=fights O=['VINGA'] MOD={"using": "HIS ICY SPEAR"} implicit=True ps="closed to slice" sug=invades / raids
+   Q: Valind closed to slice his opponent with his icy spear
+[P5-A-R0048-017] S=['VINGA'] P=wounds O=['VALIND'] MOD={"using": "HER WIND-FED JAVELIN"} implicit=True ps="it bit so deep that he bled icy blood" sug=wounds
+   Q: dancing Vinga again cast her wind-fed javelin, and it bit so deep that he bled icy blood.
+[P5-A-R0048-018] S=['VALIND'] P=flees to O=[] implicit=False ps="turned and ran" sug=flees to
+   Q: cowardly Valind turned and ran
+[P5-A-R0048-019] S=['VINGA'] P=kills O=['ICY RAM'] MOD={"using": "HER SECOND JAVELIN"} implicit=True ps="slew" sug=one of: kills, shatters, dies
+   Q: Her second javelin would have killed him if he had stayed || so it slew his icy ram instead.
+[P5-A-R0048-020] S=['VINGA'] P=sacrifices O=['ICY RAM'] IO=['ORLANTH'] implicit=True ps="sacrificed the ram to" sug=one of: loses, exchanges, performs sacrifice, captures
+   Q: She returned and sacrificed the ram to Orlanth, so that he would know his daughter had remained loyal.
+[P5-A-R0048-021] S=['VINGA'] P=is child of O=['ORLANTH'] implicit=True ps="his daughter" sug=is child of
+   Q: sacrificed the ram to Orlanth, so that he would know his daughter had remained loyal.
+[P5-A-R0048-022] S=['THUNDER BROTHERS'] P=pledges oath with O=[] implicit=False ps="swore it would never happen again" sug=one of: swears oath with, allies with, makes peace with, trades with, is spouse of
+   Q: When the Thunder Brothers returned and heard what had happened they were ashamed, and swore it would never happen again.
+[P5-A-R0059-001] S=['SUN GOD'] P=manifests O=[] MOD={"in_on_at": "THE EAST"} implicit=False ps="rose in the east for the first of many days" sug=one of: appears, manifests as, summons / invokes, causes, embodies, possesses / wields
+   Q: the Sun God rose in the east for the first of many days, instituting the new power of Time.
+[P5-A-R0059-002] S=['TIME'] P=is member of O=['GODS OF THE NEW AGE'] implicit=False ps="is the most powerful of" sug=one of: is member of, is part of, holds office in, is worshipped by
+   Q: Time is the most powerful of the gods of the new age.
+[P5-A-R0059-003] S=['TIME'] P=comes into being O=[] MOD={"in_on_at": "HELL"} implicit=False ps="was born in" sug=one of: comes into being, conceives, founds, is born from, crafts
+   Q: Time was born in Hell, where the shadows of chaos reigned and held sway over the heart of the universe.
+[P5-A-R0059-004] S=['THE SHADOWS OF CHAOS'] P=rules O=['HELL'] implicit=False ps="reigned and held sway over" sug=one of: rules, leads, accedes to rule, appoints, conquers
+   Q: Time was born in Hell, where the shadows of chaos reigned and held sway over the heart of the universe.
+[P5-A-R0059-005] S=['DEVILS'] P=kills O=['GODS AND MORTALS'] implicit=False ps="slaying and kidnapping" sug=one of: kills, shatters, dies
+   Q: devils ran amok, slaying and kidnapping gods and mortals alike, carrying them to the formless void.
+[P5-A-R0059-006] S=['LIGHTBRINGERS'] P=descends into O=['THE UNDERWORLD'] implicit=False ps="entered the underworld" sug=one of: descends into, dies
+   Q: When the Lightbringers entered the underworld and completed their great tasks
+[P5-A-R0059-007] S=['LIGHTBRINGERS'] P=binds O=['ALL ENTITIES'] MOD={"using": "A COSMIC PACT"} implicit=True ps="forged a cosmic pact which bound" sug=binds
+   Q: they forged a cosmic pact which bound all entities, living and

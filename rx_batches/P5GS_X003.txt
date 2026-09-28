@@ -1,0 +1,124 @@
+### WOD-GS:00294 | WOD-GS | WOD-GS 23095 (Greg Sez: Who are the Dog Fathers? (May ) | Page Last updated: 2026-07-19 14:15:13
+FIGURES: JAJAGAPPA
+TEXT: Jajagappa. Death God, shunned by most but worshipped by the Jajalarings of Saird; and God of the Lost Rocks. Jajagappa fought against the evil in the sky, wandering about and destroying all foes. Jajagappa appears on the Gods Wall (IV-12), dog-headed and carrying the net he uses to catch any souls that go astray after death, or which have no divine protection, or otherwise are prey. They are hunted down and shredded, devoured and reshaped to be another hound in the pack. Since evil beings are, by definition, astray, Jajagappa is also viewed as the enforcer of morality. He is the sire of Rowdril.
+TARGETS: hunts
+
+### WOD-GS:00306 | WOD-GS | WOD-GS 23581 (Greg Sez: Yelmalio (Mar 2000)) | Page Last updated: 2025-11-11 13:08:05
+FIGURES: YELMALIO
+TEXT: Only initiates knew the god's name as Tharkantus. Only the priests knew that relics of Daysenerus were used to bless their firrst temples,or that the biggest temples rose upon the ruins of former Daysenerus temples. Outsiders were told the god was Yelmalio, which was explained to mean "Little Sun."
+TARGETS: speaks / prophesies
+
+### WOD-GS:00317 | WOD-GS | WOD-GS 22570 (Hero Wars: Beyond Humanity (2000)) | Sakum, the Burning Regions
+FIGURES: SRAMAK, TOGARO
+TEXT: The fires of Sakum move and sweep back and forth, changing the lands and its elements by fiery whim. It includes the Boiling Swamp the Sea of Fire, so hot that it is sometimes the Sea of Steam, all shifting and turning into each other. No boat has sailed here since the Artmali Empire was destroyed in the Gods War. The burning water is carried counterclockwise by Sramak's River and enters the fringes of human land as the boiling Togaro Ocean.
+TARGETS: possesses / wields
+
+### WOD-GS:00331 | WOD-GS | WOD-GS 22570 (Hero Wars: Beyond Humanity (2000)) | Constellations
+FIGURES: (none registered)
+TEXT: The other half of the sky has many stars. The quarter farthest from the Desert is called the Forest for it is fairly dense with stars, mostly too small to be fairly recognizable and named. The most prominent constellation here is the Celestial Hunter. When monsters roamed the heavens during the Gods War, he hunted them down and slew most of them. The rest fled into the forest and can be seen there hiding from the Hunter.
+TARGETS: hunts
+
+### WOD-GS:00337 | WOD-GS | WOD-GS 22570 (Hero Wars: Beyond Humanity (2000)) | Southpath Planets
+FIGURES: PLANETS, SHARGASH, TOLAT
+TEXT: The most notable of the Southpath Planets is blood red Shargash. He is large and is quite discernible even in the day. Many fear him as a god of destruction although some perversely worship him as a blood-drenched fertility god. The greatest place to dare to profess his worship is hellish Alkoth within the Lunar Empire; and Melib and Trowjang where he is known as Tolat. The Starseers make propitiatory sacrifices to keep Shargash asleep for he can destroy the world.
+TARGETS: sleeps / wakes
+
+### WOD-GS:00341 | WOD-GS | WOD-GS 22570 (Hero Wars: Beyond Humanity (2000)) | Other Celestial Bodies
+FIGURES: MAGASTA
+TEXT: The Blue Moon is normally invisible to the Starseers but its movement can be inferred from the effect on the tides. When the tides slowly creep up over a period of one to six days, the Blue Moon is believed to be climbing along the Sky Dome from Hell to the Celestial City. As it reaches the Polestar, it plummets rapidly through it down through to Magasta's Pool and is visible as the Blue Streak, the tides also dropping precipitously to their lowest point. The Moon then travels through the Underworld to the eastern sky and begins the ascent again. During the Gods War, the Blue Moon was a much more prominent body and its inhabitants even conquered much of Pamaltela.
+TARGETS: dwells at
+
+### WOD-GS:00343 | WOD-GS | WOD-GS 22570 (Hero Wars: Beyond Humanity (2000)) | Inside the Earth
+FIGURES: SKY PEOPLE
+TEXT: The Sky People are the ordinary denizens of the world. They are much like humans, but they are made of light and fire instead of all the elements. ##### Below The World ###### Inside the Earth Glorantha's main earthen body is a gigantic cube measuring thousands of miles along each edge. This once perfect cube was shattered in the Gods War, but pulled back together through the efforts of the Great Compromise. Now its surface is over washed in places by salty seas, but much of it is inhabited by humans and known as the Surface world.
+TARGETS: dwells at
+
+### WOD-GS:00375 | WOD-GS | WOD-GS 22305 (HeroQuest 1: Types of Heroquests (2006)) | Conclusion
+FIGURES: ARKAT, AROKA, ORLANTH
+TEXT: Arkat and Harmast discovered how to consciously perform this Otherworld HeroQuesting at the end of the First Age. ### Example - Rain-bringing quest to kill the drought-dragon Aroka. ## Conclusion The three levels of ceremony, Practice Quest and HeroQuest are not exclusive of each other. In a large multi-year ceremony (Skyburn, Moonburn, Death of Orlanth), Practice Quests and even Full HeroQuests are needed to accomplish some of the phases. The only fully clear-cut boundary is whether or not the Officiants actually disappear to Outsiders when they go to the Other Side.
+TARGETS: dies
+
+### WOD-GS:00377 | WOD-GS | WOD-GS 4572 (Hsunchen Peoples of Genertela (2003)) | Introduction
+FIGURES: (none registered)
+TEXT: Through the Golden Age, most of the greater world had taken shape, especially the division between godly and lesser beings. The gods and great spirits were still able to change their form, but most mortals were not. The Animal Folk were exceptions. These folks naturally took either animal or human form. Both human-shaped and beast-shaped animals lived together as kin, because they possessed the same souls; for them, physical form was incidental. Different peoples view this distinction in varying ways. The Telmori regard wolves and hsunchen as respectively four-legged and two-legged members of the Wolf People. The Uncoling reindeer folk believe that they are reindeer who just happen to be able to turn into humans. The Flari owl folk take the opposite approach – they are humans who can turn into owls.
+TARGETS: possesses / wields
+
+### WOD-GS:00379 | WOD-GS | WOD-GS 4572 (Hsunchen Peoples of Genertela (2003)) | Introduction
+FIGURES: GOD LEARNERS
+TEXT: The survivors are today called 'hsunchen,' a Kralori term that was spread by the God Learners in the Imperial Age. Those intrepid explorers discovered that the scattered and weak primitives of their West carried on traditions similar to those of the eastern tribes that dominated the Shanshan Mountains of Kralorela. They transported wise men back and forth across the continent to observe their interactions, and in this way united some tribes that had long been lost from each other. Consequently, traditions are even more similar across the continent now than they were at the Dawn.
+TARGETS: possesses / wields
+
+### WOD-GS:00380 | WOD-GS | WOD-GS 4572 (Hsunchen Peoples of Genertela (2003)) | Introduction
+FIGURES: GOD LEARNERS
+TEXT: The God Learners conducted many studies of the hsunchen during the Imperial Age. They found other peoples who were scattered like the Damali, such as the Basmoli of the Wastes and Pamaltela, or the Sofali of Teshnos, Pamaltela, and the East Isles. One of the essential clues to their discoveries was the fact that all hsunchen of a given totem, regardless of separation, spoke the same language. When apparently related hsunchen peoples spoke different languages, such as the Zonati and Stricort porcupine people, the God Learners were able to show that they were not related. On the other hand, when scattered groups of different human races spoke the same language, as was true of the Damali peoples of Ralios and Kralorela, the God Learners were able to identify them as belonging to the same totem.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00382 | WOD-GS | WOD-GS 4572 (Hsunchen Peoples of Genertela (2003)) | Introduction
+FIGURES: ANAXIAL, COSMIC DRAGON, KORGATSU
+TEXT: All hsunchen peoples share the Korgatsu Tradition. Korgatsu is the most popular hsunchen name of the Cosmic Dragon (sometimes said to be a serpent) that was torn apart, and whose parts made the universe and its inhabitants. When Death came into the world the faithful and moral among the people found Korgatsu again in the Spirit World. They learned how to help descendants who were still living, how to be reborn again, and what new ceremonies were necessary to preserve the world. Every hsunchen tribe has variants within this Tradition, but the deepest essentials of the religion are the same for all. All revere an animal that is the ruler of the universe. The tradition includes most of the local fauna (sometimes as enemies), places, and plants. The origin myth of one tribe, the Pralori, is told on pg. 59 of Anaxial's Roster.
+TARGETS: dwells at; speaks / prophesies
+
+### WOD-GS:00388 | WOD-GS | WOD-GS 4572 (Hsunchen Peoples of Genertela (2003)) | Telmori (Wolf People)
+FIGURES: GBAJI, LAUGHING WARRIOR
+TEXT: Population: 80,000. Homelands: Telmoria (Ralios), Dorastor, Dragon Pass. The Telmori are one of the most widespread hsunchen peoples. They are divided into two groups by a magical curse levied against them in the First Age by Talor the Laughing Warrior. 'The Pure Ones' are similar to other hsunchen, and live primarily in Ralios. 'The Cursed Ones' are a minority in Ralios, but form the bulk of Dorastan and Sartarite Telmori. These former followers of Gbaji involuntarily shift into wolf-form every Wildday (which happens to be the Full Moon Day in Dragon Pass, but not in Ralios). Both types of Telmori share one culture and religion, however.
+TARGETS: curses
+
+### WOD-GS:00393 | WOD-GS | WOD-GS 38106 (Introduction to Umathela (1997)) | History of Umathela
+FIGURES: (none registered)
+TEXT: In the Dawn Age these forestlands were inhabited by green elves and a reptilian riverine species known as lascerdans. For reasons mysterious to humans, in the second century after the dawn the elves began fighting among themselves. After several centuries of slow warfare harmony was preached and the fratricidal killing stopped. The last lascerdans were exterminated along the Palau River in 475.
+TARGETS: dwells at
+
+### WOD-GS:00395 | WOD-GS | WOD-GS 38106 (Introduction to Umathela (1997)) | History of Umathela
+FIGURES: EHILM, GOD LEARNERS, WORLATH
+TEXT: The revolt of nature against the God Learners brought ruin. The start of the downfall is marked by the False Gods Revolt of 901, when priests of Worlath, Ehilm, and even Jogrampur (an imaginary deity invented in a God Learner experiment) displayed effective magic and destroyed the University of Yoranday. In 954, just before the Closing destroyed all port cities, a fleet of dragonships, piloted by old enemies, arrived from the sea, smashing the rest of the hated universities into gravel and pulp. However, the self-styled Lord of the World's Knowledge, ruler of Vralos and Enkloso was not defeated until 1020 when legions of elves marched from secret lairs. Behind them floated a spectral forest. Before them swarmed myriads of trollkin. The Lord's lowland holdings were flooded and drowned as the river gods of the extinct lascerdans rose for the last time, to slaughter every sentient being within their grasp.
+TARGETS: hates / fears
+
+### WOD-GS:00398 | WOD-GS | WOD-GS 38106 (Introduction to Umathela (1997)) | History of Umathela
+FIGURES: (none registered)
+TEXT: Several human states survived the devastation. All were officially allied to the elves, but most actually feared the woodland race. Several Enkloso peoples became subject to the annual Woodland Judgements, where elves reviewed the humans' behavior for the last year and executed summary judgement for infractions against nature.
+TARGETS: hates / fears
+
+### WOD-GS:00404 | WOD-GS | WOD-GS 29388 (Javern Spithorn and the Sunset Leap (200) | Page Last updated: 2025-12-18 14:49:29
+FIGURES: KALLYR STARBROW, ORLANTH
+TEXT: Javern Spithorn was a household thane of Kallyr Starbrow and noted for his recklessness, experimentation and great luck at surviving accidents and foolishness. He was beloved by Orlanth, who had sent winds to save him when he was an infant, an oversize alynx when he was a young warrior, and also a great strength in swordplay many times. Javern was devoted to the Great God too, and spent many days and nights doing his "deer walks," wandering alone over the hills and forests, leaping from cliffs to glide in the hands of his god. He always gave a portion of his food to the god, he always whispered prayers to him when he was travelling, and he always gave credit to the Victorybringer for his successes. Javern 's slogan was "The Old World is over. The New wind is Rising." He was an early prophet who warned of the Hero Wars. He was so crazy with his experiments though that some people blamed him for actually causing (or at least contributing to) them. They said his magical interpretations of the sacred way were "blasphemous and contrary to the traditional way of Orlanth." Certainly he did things no one had done before, and he also was in a great number of earth shaking events. The priests went to his leader and complained, but Kallyr herself was supportive of anything that might assist in her desperate attempts to overcome the massive Lunar presence. She said, "But what is cause and effect in such matters? Want your Lawspeaker to come debate Minaryth over this?"
+TARGETS: speaks / prophesies
+
+### WOD-GS:00407 | WOD-GS | WOD-GS 29388 (Javern Spithorn and the Sunset Leap (200) | Page Last updated: 2025-12-18 14:49:29
+FIGURES: KALLYR STARBROW
+TEXT: Javern was skilled at this, and he could leap a half a mile from a standing start, if he had time to pray beforehand. If he worked with his band he could (once) bear all of them away at once for several hundred yards, even though they were fighting, healing or doing something else. He did this whenever Kallyr told him to do it, and it was one of her band's special escape tactics.
+TARGETS: speaks / prophesies; heals
+
+### WOD-GS:00412 | WOD-GS | WOD-GS 29388 (Javern Spithorn and the Sunset Leap (200) | Page Last updated: 2025-12-18 14:49:29
+FIGURES: LHANKOR MHY
+TEXT: Javern grew more powerful as the breath inside him grew. Once, with preparation and backed by others, he leapt five miles towards the setting sun. He began to think how he could use his feats in other ways. He began to work on a way to make sunset with his leap, in effect changing the time of day or else moving the sun. He said, "The New wind is Rising," and spoke long hours with Minaryth, a wise Lhankor Mhy priest. He even considered learning to read, but Minaryth warned him that the gray sages would no longer help him if he did. His friend Berra, the blue-haired Vingan, encouraged him towards his objective because it would let them finish the day and get to the mead at its end much faster. Javern was so serious about his work that he didn't even recognize this as a joke and scolded Berra, and lectured about triviality being the enemy of piety. At least until the horns of beer came around.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00413 | WOD-GS | WOD-GS 29388 (Javern Spithorn and the Sunset Leap (200) | Page Last updated: 2025-12-18 14:49:29
+FIGURES: KALLYR STARBROW, ORLANTH
+TEXT: Javern tried this feat when Kallyr had to find out where the Lunar thieves had gone when they had the Iron Quill of her Ring. Her Sage quickly prepared his divination, and the band backed him through their daimon so they could overcome the sophisticated defences and erasures that the Lunars had used. Kallyr told him to make the time faster, and a quarter of her support went to help him. Javern did his best, but this power was not within that of Orlanth, and it failed entirely. The effort was wasted because it was impossible, and the participants were left tired and sore.
+TARGETS: speaks / prophesies
+
+### WOD-GS:00418 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | The Zaytenerae
+FIGURES: (none registered)
+TEXT: No beings lived in the Little World in those days. There was only the mindless life of plants and water. Some of the beings of the Sky World grew curious about this place, and they came down the Sky Ladder. At first they only visited briefly, and then went back up. But some were more curious, and decided to make forms for themselves to inhabit in the Little World.
+TARGETS: dwells at
+
+### WOD-GS:00419 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | The Zaytenerae
+FIGURES: (none registered)
+TEXT: The Sky Beings who took on form were called the Zatenae. [Zatanae. The sky beings, who have many different names.] They were the first inhabitants of the Little World. The Zatenae were naturally curious, and they did many things when they were upon the Little World. They made the way to reproduce themselves. Later, when they knew more, they wanted differences between each other. They then made a way to reproduce themselves, but be different. but in all of this making, they did not make beings who retained memory of their origins. This way they made the many races of humans who are doomed to never understand the ways of the cosmos.
+TARGETS: dwells at
+
+### WOD-GS:00420 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Dulau Maro and the Ancestor Tribe
+FIGURES: (none registered)
+TEXT: At first, in the earliest times, both humans and deities walked in this world together. But it could not stay so easily. It was human beings – our own ancestors – who made it bad first. Bijib did it, damn him. We liked Bijib before he was anyone. Then one day he told the ancestors that they should be separate from animals, because all the animals were like humans sometimes. But people couldn't do it alone, and so Bijib gave fire to the human beings, and none of the animals could use it. Because of this the animals went away from the peoples' camps, angry and unwilling to help any more. As a result, afterwards people had to hunt and to work for food, instead of being fed.
+TARGETS: speaks / prophesies; hunts
+
+### WOD-GS:00422 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Dulau Maro and the Ancestor Tribe
+FIGURES: (none registered)
+TEXT: But people did not leave, like the animals had, because they knew what would happen, and so they wanted a part of Ourphaz. There was Dulau Maro, [Dulau Maro. "Ancestor who made us."] called the Smart Man, who lived among the people and who calculated what to do. He did what he had to do to get some from the gods: he stole, he sacrificed, and he made a prayer which they could not ignore.
+TARGETS: dwells at
+
+### WOD-GS:00427 | WOD-GS | WOD-GS 22945 (Library of Londarios:  Ancestors of the ) | Hurfor and the Starlight Tribe
+FIGURES: (none registered)
+TEXT: At first they were all equal and the battle went this way and then that way, no one winning at all. Then Darnlo got help from the god named Devkuroski, [Devkuroski. An underworld god of the easterners. Also called "Dweller Below" and "Evil God."] who never made friends. Devkuroski told his priests to create a great field of ice to fight upon, thinking this would weaken the warriors of the Ancestor Tribe. So Darnlo called upon his grandfather to help him, and a terrible ice storm blew in from the north. It froze everything, and made the ground so unfamiliar that the Ancestors could not walk upon it. After this, the Kalrius warriors began to win.
+TARGETS: dwells at; speaks / prophesies

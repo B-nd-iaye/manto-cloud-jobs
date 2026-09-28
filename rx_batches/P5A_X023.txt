@@ -1,0 +1,111 @@
+### CC:00458 | CC | p.262 | "My gracious lord," the
+FIGURES: (none registered)
+TEXT: "My gracious lord," the old woman said, trembling, "may all the mercies of the gods be yours for your promise. Forgive me that I spoke harshly," and Hahlgrim did there forgive her. "This is more than our own king, Burpey Bolthor, ever would swear. I see truly why you displease him, and know why your people wait upon your word," said a burly youth, and the crowd came near. Three places of festering plague were found. Hahlgrim gave orders for their removal, then called for wine. I write this description that all may know of his great generosity and believe it, for even Ketil could not understand at first the gifts of our lord to these humbled people. "Giving farmers gold?" he cried. "How should anyone give a thousandth of that for the promise of a peasant?" "There is a time for sacrifices," replied Hahlgrim, studying the sweep of the valley beyond. "I have no need of gold if what I cherish grows freely and proudly." Hahlgrim left soon thereafter, to seek a shaman in the wilds who could protect the farmers permanently. To let Ketil learn humility and charity, he ordered him to administer the giving of the gold to a hundred whining farmers. While Ketil counted gold and swore, I played the flute outside, in the warmth of the afternoon.
+TARGETS: speaks / prophesies
+
+### CC:00460 | CC | p.262 | A Chaotic Interlude
+FIGURES: GBAJI
+TEXT: A Chaotic Interlude "The words 'chaos' and 'chaotic' usually are misused and misapplied, adding to confusions. In western Genertela, the word Krjalki means chaos monsters, yet western manuscripts from every Age refer to both trolls and dragonewts as Krjalki, clearly a misapplication of the term ... sometimes it seems that anything someone fears is called chaotic.... Perhaps many creatures or beings have been maligned. In Kralori ... [philosophy] considers all of creation a mistake, or at least that it is a mistake to worship it or consider it real. [There] Gbaji is known as a great psychic liberator, since Illumination frees the person from entanglements with the worldly. The Kralori preference or acknowledgement of one of the chaos gods is a dilemma which has plagued or delighted foreign visitors. Those who wish to save the Kralori from their godless ways are balked because the people often wholeheartedly embrace that god yet stoutly resist all the other chaos creatures and temptations.
+TARGETS: hates / fears
+
+### CC:00462 | CC | p.263 | Mythos and History
+FIGURES: BAGOG
+TEXT: Mythos and History Before Time When the Devil led his forces into the surface World, many other creatures also escaped to there. One such was Bagog, a slow-witted scorpion daughter of the Darkness. Bagog scuttled about the surface world, comfortably enjoying the carnage of the Gods War, fighting and eating all who opposed her. Her stinging tail was a fearsome weapon, and for a while she was content. Then other urges shook her, and she began to lay many eggs. Soon they hatched into smaller versions of herself, and while they were mostly scorpions in form, they had been changed by what Bagog had eaten. There were scorpion baboons, scorpion elves, and many other types. Some were unable to live, while others flourished. These latter ate as Bagog had, and their children gained knowledge as well. Soon the scorpion kinds formed a rough social order, centered about the might of Bagog. They ate each other, as well as their foes, hoping to soon acquire the knowledge of all the species. Since Time The tribes have survived since the Darkness because they lived in places that other races
+TARGETS: dwells at
+
+### CC:00471 | CC | p.267 | Though it was dead, it
+FIGURES: (none registered)
+TEXT: Though it was dead, it was heavy, and I could not pull out from beneath it at once. Its glow persisted, and as I struggled from it, I saw things crawling on the corpse, so near my eyes that I cried out in terror and shook even as I pulled free, my skin crawling and my stomach heaving with nausea. By then the rest of the demons were dead or fleeing, and the Healers were gentling warriors from their frenzy. Hahlgrim and Ellisif argued strongly about Xenohealing Lightning, for the stubborn Priestess did not feel that a horse was worth the drain in Power, but had she not finally relented I feared violence, for Hahlgrim would not deny a friend, even should it have a mane, and any use of arms against a healer would have boded ill for the war. When I surveyed the battle site at dawn I was surprised to see that there were beheaded scorpion men as well as demons sprawled where the horses had been tied. One had a long sharp bone in place of its left arm, and a huge claw like a crab in place of its right.
+TARGETS: hates / fears
+
+### CC:00472 | CC | p.268 | Oddi told me how it had
+FIGURES: (none registered)
+TEXT: Oddi told me how it had grabbed his initiate with the claw, then repeatedly stabbed her with the wicked bone, but fortunately not her immediately – now she was healed, and whistling while she saddled her horse. Another scorpion man had missed his aim in the night, and had impaled a stump with his tail stinger, and was then dispatched before he could remove the stinger from the wood. Stinger seemed too light a word for the appendage, which was as long and as strong as my arm. Oddi asked me, a good Lunar worshipper, how I liked my chaos friends, and indeed these were foul and most gruesome, but I stoutly maintained that not all chaos folk were such, at which he shook his head. He also told me his gratitude that I had struck down the demon, but that under the frenzy of the Bull he had come near to beheading me as well as the demon, and that never should I go before the warrior who felt the Power of the Bull. We stacked all the heads on a pyre and burnt them, and continued toward the looming mountains, whose beauty looked most hospitable after the terrors of the night.
+TARGETS: speaks / prophesies; heals
+
+### CC:00475 | CC | p.269 | Mythos and History
+FIGURES: THED
+CONTEXT: lia left the conspiracy, and Kyger Litor defeated and skinned Thed. The Devil finally was slain by the Storm Bull and cast to Hell, where Arachne Solara devoured him. Thed dispersed to all the dark corners of the universe, including Prax. Since Time Began The broos still honor and revere Thed, and obey her wishes. She occasionally is called upon by Animal Nomads for aid in raids and battles, and
+TEXT: she grants them this for the perfunctory worship they give her in return. At other times she wanders about, sometimes visiting a shaman or Rune Priest with horrible doom at some altar as they attempt to summon some other, more benevolent spirit. Though protected in her existence by the Great Compromise, Thed was on the losing side, and occupies a distinctly minor place in the vast pantheon of deities. It is probable that only her initial role as Mother of the Broos has been effective in maintaining her powers. That connection is also her greatest weakness, as broo-hunts are popular activities especially among humans, and it is likely that the broo population has been declining for some time. Life after Death Thed's worshippers become demons of chaos after they die, and spend their time hunting the souls of those unprotected by their own deities. The demons will be scouts for the forces of chaos in the Final Battle. Though guaranteed an existence after death, that existence seems to most worshippers of Thed to be so little different than what they presently do that few care about the guarantee in any active sense. Typically the forces of chaos presently are limited to little more than reaction and fringe activity.
+TARGETS: hunts
+
+### CC:00478 | CC | p.271 | Gloranthan Classics
+FIGURES: CACODEMON, MALLIA, RAGNAGLAR, STORM BULL, THED
+TEXT: Gloranthan Classics except to create fear. Humans discovered belonging to this cult are typically slain by their neighbors, unless the tribe is temporarily allied with Thed. Particular Likes And Dislikes Natural for one of the few remaining spirits of chaos, Thed dislikes nearly every other god, recalling her old power and despising those deities still powerful. The Storm Bull slew her husband, Ragnaglar, and her children, the Devil and many broos, and she hates him and the Air gods particularly. She greatly dislikes the Darkness deities, who fought chaos so fiercely and for so long. She is reasonably friendly to the Cacodemon cult and to Mallia, her old ally. Though Mallia has now disassociated from Thed, the beings who worship Thed also often worship Mallia as well.
+TARGETS: hates / fears
+
+### CC:00480 | CC | p.271 | Hahlgrim had risen, a
+FIGURES: (none registered)
+TEXT: Hahlgrim had risen, a vast man and gaunt when seen next to portly King Bolthor the comfort-loving. Hahlgrim had many voices, and he could command or cajole as he saw best fit the hour. Now his voice was cold with contempt, and Bolthor shrank back before the truth it told. This King, I thought, should have been born in a grassier time when the cattle were fat. But here he was, forced to face the duties of kingliness as well as its pleasures. The fat of his face drooping, Bolthor nodded at last. "It shall be as you advise, Hahlgrim."
+TARGETS: speaks / prophesies
+
+### CC:00482 | CC | p.274 | These broos, my lord, are
+FIGURES: RALZAKARK
+CONTEXT: ubservient cults section) is given to the Rune Priest as an allied spirit. Their most important benefit is in their Rune magic. Rune Spell Compatibility Because she began as a non-chaotic goddess, Thed retains has access to the following standard spells: all 1 point spells, all Dismiss Elementals, Matrix Creation, 2 point Vision, and 2 point Multispell. Cult Compendium 273 Gloranthan Classics
+TEXT: These broos, my lord, are each a horror, but they will not fight well together unless driven by the will of a great leader." Bolthor nodded. "It shall be as you suggest," he said, and then ordered his thanes accordingly. All through the evening parties of broos attacked, and were slaughtered by our bold men, who attended themselves suffered little. Yet the monsters launched themselves onto our spear points, so that a wall of dead built up before us. Oddi said that it was ever so, for the race made little of learning and sought only easy vengeance for their goddess. Though the fighting was most determined where we stood. Oddi's senses did not indicate the powerful malevolence of his slimeyness, Ralzakark.
+TARGETS: avenges
+
+### CC:00483 | CC | p.275 | "Now is the time, my
+FIGURES: RALZAKARK, STORM BULL
+TEXT: "Now is the time, my lord King," said Oddi. "The broos waver and hang back before their fires; our men are ready; the mages of us will make the light of day long before dawn, and our swords shall this morn diminish Ralzakark's strength to a tenth that saw the sun rise yesterday." "We shall lead the charge, fair Oddi," said Bolthor. "By my life, my lord, we shall." Both wore full iron chain and plate armor, and both took up an iron bastard sword in each hand. There were murmurs of admiration at the warlike cast of Bolthor's face. His wife, Monnie, perhaps for the first time in her life, knelt to bid him safe return. Close behind were Bolthor's personal guards and Oddi's own housecarls, giants all, each armed with two swords. Then the helms of these great warriors began to glow and shimmer, and they turned toward the battle as one man, and the heavens lit with magical light like day, and the worshippers of the Storm Bull cut through the broos like a plow through the soil, and everywhere overturned them, even the scorpion folk, so that when the true sun rose no broo lived upon the plain before us.
+TARGETS: possesses / wields
+
+### CC:00484 | CC | p.276 | After the Healers had
+FIGURES: STORM BULL
+TEXT: After the Healers had calmed the berserk warriors, and led them back to the knoll, the King rewarded Oddi richly, as befitted a true king, and not one who thought he could take up and put down the job, as might a carpenter. At the feat in the castle, I had once more cause to admire how the uncouth ways of the Storm Bull's men complemented and somehow justified their lust for war. Only a man who craves no quarter should give no quarter..
+TARGETS: loves / desires
+
+### CC:00485 | CC | p.276 | Cacodemon
+FIGURES: CACODEMON, THED
+TEXT: Spirits of Retribution The covenmaster must slay all straying lay members or Initiates, but Rune-level traitors are struck by the Curse of Thed: roll for a random Reverse Chaos effect, and apply all the effects as permanent. Cacodemon Cacodemon gives his grandmother the following Rune spell:
+TARGETS: curses
+
+### CC:00488 | CC | p.277 | Mythos and History
+FIGURES: BIMBAROS, EURMAL, GRANDFATHER MORTAL, HUMAKT, MALLIA, VIVAMORT
+TEXT: Mythos and History Before Time Vivamort was a Darkness spirit of the labyrinthine halls and ways of Hell, placed there to stand eternal guard over the Terrible Secret. But Vivamort was curious about what the secret was, and when Eurmal crept into Hell, Vivamort betrayed his trust to learn the secret. There they discovered Death. Vivamort aided Eurmal again when he and Humakt came to carry Death to the surface world, helping them past Death-hound and Bimbaros, Hell's porter. Vivamort knew that all those slain would come to his realm once their souls had met Death. Grandfather Mortal was the first to die and the first to come to Vivamort. He also was the first to understand Vivamort's soul-greedy treachery, and great hatred stood between the two. When the Sun later came to Hell, Vivamort was burned and had to flee, hurt and disfigured, to the now-darkened surface. (When the Sun learned of Vivamort's role in the release of Death, he sent curses upon him.) Reaching the surface, Vivamort sheltered a while with Mallia, Mother of Disease, trading secrets of Darkness and Death. He stalked the world for Power. As he went, he learned more of
+TARGETS: curses
+
+### CC:00489 | CC | p.277 | Mythos and History
+FIGURES: ARROIN, VIVAMORT
+TEXT: Death, and began to fear what he had unleashed, for he recognized chaos as an extension of Death. The knowledge froze him with terror. Soon the Devil attacked him and wounded him. The wound would not heal, and his Power drained out through it to the void. Vivamort faced not just death, but annihilation from this chaos wound. Since he wished above all to preserve himself and his vile deeds, he begged help from his chaos foes and made evil pacts with them. The Devil allowed him a hollow existence. Vivamort was cut off from the mystic unity of the world and from the universal flow of Power, and cast apart from both life and death. From that agreement onwards, Vivamort would need to drain life from others and to embrace chaos. Faced with complete annihilation or acting as an agent of active entropy, he chose the latter out of pride and fear. Some write that he found this new manner of existence acceptable, because of the determination with which he took up the cause of chaos, roaring through the Great Darkness. He used his demonic abilities to rip Power from the harried gods, and some he was able to destroy totally. Vivamort slowly gained allies, and he made others like himself. Once Vivamort and his undead allies caught Arroin and broke his spirit, but could not kill him.
+TARGETS: heals
+
+### CC:00490 | CC | p.277 | Mythos and History
+FIGURES: (none registered)
+TEXT: …And so we found exhausted Hahlgrim asleep, while his allied spirit, a snarling lynx, prowled a perimeter around the camp to watch for foes. Our column halted to eat. We held council with our battle lord. "Karnoora is no more," he told us, "unless she knows not the bite of silver nor fears blessed water. It was a mighty struggle."
+TARGETS: hates / fears; speaks / prophesies; sleeps / wakes
+
+### CC:00491 | CC | p.278 | So might we have
+FIGURES: ORLANTH, RALZAKARK
+TEXT: So might we have believed, for Karnoora was a vampire princess of great power, whose mortal continuance (how should one say "life" of a vampire) spanned the ages of the world. "Orlanth spoke full to me of her and her ways, and so she was confounded where she thought herself most safe. The Tower of Lead still stands, and her followers still exist. She died last night; they will remove themselves tonight unless we strike we first. Should we strike, old Ralzakark will be stripped of another arm, and he shall feel like the worshipper who joins too many cults, and has his coin tithed away at every hand." Perhaps this last was not a jab at Bolthor, who was famous for joining cults and then whining at the cost, but so we all took it. Bolthor glowered, and later would talk only to his blood thanes.
+TARGETS: speaks / prophesies; dies
+
+### CC:00492 | CC | p.278 | News of Vivamort and his transformation
+FIGURES: TY KORA TEK, VIVAMORT
+TEXT: News of Vivamort and his transformation reached Hell, there carried by spirits whom he had attacked but not annihilated. Many there cursed him then: the Sun's curse came in effect; Ty Kora Tek, Queen of the Dead, was incensed when Vivamort stole souls who were hers, and she set the Earth against him; the River Styx heard of Vivamort's betrayal and swore he never would cross her waters again, and to this day a drop from the Styx will destroy any vampire it touches. All the waters of the material world followed Styx's vow, and they remain a prime enemy of Vivamort. Since Time Since the Dawning of Time, Vivamort has been hated and feared by most, and embraced by few. These arrogant few are vain enough and fearful enough to want to maintain their present consciousness forever. It has little history in Time since it infests the outer edges of civilization and cloaks its doings in utter secrecy. During Time, the alliance with the Hero-Priest
+TARGETS: hates / fears; possesses / wields; curses
+
+### CC:00493 | CC | p.278 | Life after Death
+FIGURES: VIVAMORT
+TEXT: Life after Death Vivamort's vampire cult offers continued awareness in the same dead body and warped soul. If the cult member is a vampire and is destroyed, he is annihilated; he does not enter the cycle of rebirth. Since the higher aspects of his spirit, his mystic essence, already has been sacrificed to become a vampire, the vampire has willingly removed himself from the universal cycles. Vivamort offers life eternal for the highest price-the soul. Runic Associations Despite the enmity of most of the other gods of Darkness, Vivamort retains his origin in Darkness. His Runes are Chaos, Darkness, and Undead.
+TARGETS: hates / fears
+
+### CC:00494 | CC | p.279 | Center of Power
+FIGURES: VIVAMORT
+TEXT: Center of Power The Vivamort center of power is the Plateau of Terror, where Vivamort died and was reborn under the terms of his pact with chaos, and where the first vampires came into being. The Plateau of Terror now may be underground or on another plane of existences with the god, now there may always be a center of power "where life has failed, fear prevailed, and chaos is seeping in."
+TARGETS: dies
+
+### CC:00495 | CC | p.279 | Particular Likes and Dislikes
+FIGURES: CRIMSON BAT, DAKA FAL, EURMAL, GRANDFATHER MORTAL, HUMAKT, MALLIA, VIVAMORT
+TEXT: Holy Nights and High Holy Nights Freeze night is the holy night for Vivamort cultists, especially in Death week of each season. The High Holy Night is the night of Wild day, Death week, of Dark season. Particular Likes and Dislikes Vivamort is friendly to certain sub-cults of the Red Moon (the Crimson Bat in particular) and tolerates Mallia. Daka Fal and the associated cult Grandfather Mortal are specially hated. Eurmal and Humakt are hated intensely, due to the dealings they had with Vivamort in the Godtime. Vivamort always dislikes and fights any cult that actively fights chaos and sees Vivamort as the harbinger of chaos.
+TARGETS: hates / fears
+
+### CC:00498 | CC | p.281 | Hahlgrim said, "My lord
+FIGURES: LIGHTBRINGERS, RALZAKARK
+TEXT: Hahlgrim said, "My lord King, with this great weapon did you make fast my fealty and also gain the alliance of my family and brethren. It was I who showed you that the forces of chaos cannot stand against determined men, and that the Lightbringers will triumph always when their bravery and intelligence emulated. Should I return this sword to you, so then will I return to the lands of the Skanthi, for I deem not that you then would withhold your hand against the lands so recently reconfirmed to me. Even this last evening I learned of fields burnt along the Erinflarth. Who then will stand between you and the fury of Ralzakark when he takes the field himself?" "Ironbreaker may not frighten the hero of the broos. He will sweep across Bilini, and the Great Bat will come to call, and even your wife will not keep you your throne should the bat be used. Trust the word of honest men, Lord Bolthor, and keep your crown. Become Bolthor Gift-grabber, and your worst fears shall be truth. My fealty remains as sworn, unless you have it elsewise. How say you?".
+TARGETS: hates / fears
+
+### CC:00499 | CC | p.282 | Bolthor twisted in the
+FIGURES: (none registered)
+TEXT: Bolthor twisted in the saddle while his advisers spoke to him, and his face grew dark. "Keep the toy!" he growled at last, and galloped toward his army. No more of him that day did we hear. Hahlgrim swore mightily once the King and his entourage had left, and bid we speed toward the Tower. Later he told me that the sword Ironbreaker had a spirit like the heart of a child, and that if the holder honestly admired the weapon and praised it for itself, then the weapon would speak in return, and reveal all of its secrets. But if the holder beheld and praised Ironbreaker only so that the sword reflected glory upon the wielder, then the sword would only do as it was bid. "Of this latter sort is Bolthor, in whom fear and greed constantly war for dominance."
+TARGETS: speaks / prophesies; possesses / wields

@@ -149,7 +149,31 @@ Reading the actual quotes for a sample of disagreements (both model-vs-reference
 
 ## 8. Subagent fallback cost pilot (at user's request)
 
-[to be filled in after the pilot run completes]
+Ran one subagent on an untouched shard (`vr_shards/B_S004.txt`, 150 records) following the exact recipe in TASK.md's "Subagent fallback" section: 2 parallel Reads (prompt + input), then 1 Write of the whole output, no other tools. Output went to a test path (`out_test/vr_subagent/B_S004.jsonl`), not the real `out/vr/`, since this is a Phase 0 pilot, not Phase 1 work.
+
+**Result:** 150/150 valid JSON lines, well-formed (spot-checked: 0 malformed), covering all records with the same schema as the headless output — e.g. it correctly handles S/O reversal (`"is worshipped by"` with S/O swapped) and correctly used `pf: REJECT` for a false-pretense/impersonation case. No reference file exists for B_S004, so I can't score its accuracy the way I could for B_S001 — only its cost, time, and format validity.
+
+**Cost/time, measured directly from the harness (not estimated):**
+
+| metric | subagent (B_S004, 150 recs) |
+|---|---|
+| total tokens | **140,772** |
+| tool calls | 4 (2 reads, 1 write, 1 report) |
+| wall time | **1,072,554 ms ≈ 17.9 minutes** |
+
+### Subagent vs. headless, same 150-record scale (B_S001/B_S004 comparable size)
+
+| path | total tokens | wall time | cost (headless, measured) |
+|---|---|---|---|
+| headless sonnet/low | ~42,000–45,700 | 157–179s | $0.26–$0.31 |
+| headless sonnet/medium | ~50,000 | 226s | $0.358 |
+| headless sonnet/high | ~74,400 | 443s | $0.602 |
+| headless opus/low | ~36,900 | 111s | $0.455 |
+| **subagent** | **140,772** | **1,073s (17.9 min)** | not directly billed the same way; see below |
+
+By raw token count, the subagent used **~1.9× sonnet-high's tokens, ~2.8× sonnet-medium's, and ~3.3–3.8× sonnet-low/opus-low's** — and it took **2.4–9.7× longer in wall time per shard** than any headless tier. Applying the blended $/token rates observed on the headless runs ($0.0069–$0.0081/token depending on tier) to the subagent's 140,772 tokens gives a rough **$0.97–$1.14 per shard** — in the same direction as, though somewhat below, TASK.md's own "~5×" estimate; the true multiple could be higher if the agent harness's tokens skew more toward output/thinking (priced higher) than the headless mix, which this rough linear estimate doesn't capture.
+
+**Bottom line:** the subagent fallback works and produces well-formed output, but it is markedly more expensive AND slower per shard than any headless tier tested, including the ones that already fail the accuracy bar. Extrapolated to 73 VR shards at 6 subagents in parallel (per TASK.md's wave size), this pilot's per-shard wall time alone implies roughly 13 waves × ~18 minutes ≈ 4 hours just for VR, before RX — worse on both cost and time than headless-high, which itself didn't clear 85%. The subagent path doesn't look like a way to buy back the accuracy gap cheaply; if anything it should be a last resort per TASK.md's own framing, not a stepping stone.
 
 ## Conclusion
 

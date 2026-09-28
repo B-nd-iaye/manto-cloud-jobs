@@ -1,0 +1,150 @@
+{"id": "P5-B-B0046-043", "v": "U", "inf": ["object"], "why": "Quote never mentions Waha; only says river obeyed unnamed party.", "pf": "REJECT"}
+{"id": "P5-B-B0046-044", "v": "P", "inf": ["predicate"], "why": "'Forced her upward' describes exposing hidden river, not binding/confining.", "pf": "unmasks"}
+{"id": "P5-B-B0046-045", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0046-046", "v": "P", "inf": ["object"], "why": "Quote doesn't name Exile Town as the main entity.", "pf": "is synonym of"}
+{"id": "P5-B-B0046-047", "v": "P", "inf": ["object"], "why": "'this' refers to town via pronoun, not named directly.", "pf": "settles at"}
+{"id": "P5-B-B0046-048", "v": "P", "inf": ["subject"], "why": "'they' inferred as Pol Joni.", "pf": "travels"}
+{"id": "P5-B-B0046-049", "v": "P", "inf": ["object"], "why": "'it' refers to Desert Wind via pronoun, not stated in quote.", "pf": "rides"}
+{"id": "P5-B-B0046-050", "v": "P", "inf": ["object"], "why": "'which' refers to Genert Wastes via pronoun.", "pf": "protects"}
+{"id": "P5-B-B0046-051", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0046-052", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0047-001", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0047-002", "v": "U", "inf": ["object"], "why": "O should be destination (underneath the earth), not the Devil fled from.", "pf": "flees to", "O": ["UNDERNEATH THE EARTH"]}
+{"id": "P5-B-B0047-003", "v": "P", "inf": ["with_the_aid_of"], "why": "Iron Man led the army, wasn't merely aided by it.", "pf": "travels"}
+{"id": "P5-B-B0047-004", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0047-005", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0047-006", "v": "U", "inf": ["predicate", "object"], "why": "Tourney Altar is site of the cult, not membership relation.", "pf": "receives cult at", "S": ["HUMAKT CULT"], "O": ["TOURNEY ALTAR"]}
+{"id": "P5-B-B0047-007", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0047-008", "v": "P", "inf": ["predicate"], "why": "'Priest of' indicates office-holding, more specific than membership.", "pf": "holds office in"}
+{"id": "P5-B-B0047-009", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0047-010", "v": "U", "inf": ["predicate", "object"], "why": "'Dominated trade' is a domain claim, not political rule.", "pf": "has domain", "O": ["TRADE"]}
+{"id": "P5-B-B0047-011", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0047-012", "v": "P", "inf": ["predicate"], "why": "Gonn Orta belongs to the Elder Giants group rather than being equated with them.", "pf": "is member of"}
+{"id": "P5-B-B0047-013", "v": "P", "inf": ["predicate"], "why": "Quote states metal's origin, not an explicit act of giving.", "pf": "bestows"}
+{"id": "P5-B-B0047-014", "v": "P", "inf": ["predicate"], "why": "Tarsh sent envoys, did not travel itself.", "pf": "sends"}
+{"id": "P5-B-B0047-015", "v": "P", "inf": ["subject"], "why": "'Many peoples' generalized to Peoples of Prax.", "pf": "flees to"}
+{"id": "P5-B-B0047-016", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-B-B0047-017", "v": "P", "inf": ["predicate"], "why": "Quote describes preparing an expedition, not completed travel.", "pf": "travels"}
+{"id": "P5-B-B0047-018", "v": "U", "inf": ["predicate"], "why": "Ingilli aided them; not a servant relationship.", "pf": "aids"}
+{"id": "P5-B-B0047-019", "v": "P", "inf": ["predicate"], "why": "Quoted as a claimed ability, not an actual founding event.", "pf": "founds"}
+{"id": "P5-B-B0047-020", "v": "U", "inf": ["predicate"], "why": "He built a city (founds), not established a cult.", "pf": "founds"}
+{"id": "P5-B-B0047-021", "v": "P", "inf": ["subject"], "why": "Wife's identity as Corflu is inferred from prior context.", "pf": "is spouse of"}
+{"id": "P5-B-B0047-022", "v": "P", "inf": ["predicate"], "why": "'Priest' indicates office-holding, not plain membership.", "pf": "holds office in"}
+{"id": "P5-B-B0047-023", "v": "S", "inf": [], "pf": "dedicates relic"}
+{"id": "P5-B-B0047-024", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0047-025", "v": "U", "inf": ["subject", "object"], "why": "Issaries curses/binds the heir; direction reversed.", "pf": "bestows geas", "S": ["ISSARIES"], "O": ["HEIR OF FALABDUR"]}
+{"id": "P5-B-B0047-026", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0047-027", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0047-028", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0047-029", "v": "U", "inf": ["predicate"], "why": "Established a settlement, matches founds not establishes cult.", "pf": "founds"}
+{"id": "P5-B-B0047-030", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0047-031", "v": "U", "inf": ["predicate"], "why": "Building a fort is crafting a structure, not establishing a cult.", "pf": "crafts"}
+{"id": "P5-B-B0047-032", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0048-001", "v": "U", "inf": ["predicate"], "why": "Worship relation is reversed: deities are worshipped by farmers.", "pf": "is worshipped by", "S": ["LODRIL", "ORIA"], "O": ["REDLAND FARMERS"]}
+{"id": "P5-B-B0048-002", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0048-003", "v": "P", "inf": ["subject"], "why": "'They' inferred as Redland Farmers.", "pf": "claims ancestry"}
+{"id": "P5-B-B0048-004", "v": "P", "inf": ["predicate"], "why": "Priestess indicates office-holding not general service.", "pf": "holds office in"}
+{"id": "P5-B-B0048-005", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0048-006", "v": "U", "inf": ["predicate"], "why": "Red Emperor is agent who exiles Duke Raus; not travel.", "pf": "exiles / banishes", "S": ["RED EMPEROR"], "O": ["DUKE RAUS"]}
+{"id": "P5-B-B0048-007", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0048-008", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0048-009", "v": "U", "inf": ["predicate"], "why": "Text states she died, no descent into underworld mentioned.", "pf": "dies"}
+{"id": "P5-B-B0048-010", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0048-011", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0048-012", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0048-013", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-B-B0048-014", "v": "P", "inf": ["subject"], "why": "'Lord of light' identified as Yelm from context.", "pf": "descends into"}
+{"id": "P5-B-B0048-015", "v": "P", "inf": ["subject", "object"], "why": "'Lord of light' and 'the river' identified via context as Yelm and Oslir.", "pf": "resurrects"}
+{"id": "P5-B-B0048-016", "v": "U", "inf": ["predicate"], "why": "'Made an alliance' matches allies with, not a formal oath.", "pf": "allies with", "S": ["ARINSOR CLEARMIND"], "O": ["WATER NAIAD"]}
+{"id": "P5-B-B0048-017", "v": "U", "inf": ["predicate"], "why": "'Called for them' implies summoning, not service.", "pf": "summons / invokes"}
+{"id": "P5-B-B0048-018", "v": "P", "inf": ["object"], "why": "'Him' inferred as Count Solanthos.", "pf": "bestows geas"}
+{"id": "P5-B-B0048-019", "v": "P", "inf": ["subject", "object"], "why": "Pronouns for actor/relation unclear without wider context.", "pf": "serves"}
+{"id": "P5-B-B0048-020", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0048-021", "v": "S", "inf": [], "pf": "descends into", "O": ["TEAR IN THE WORLD"]}
+{"id": "P5-B-B0048-022", "v": "U", "inf": ["predicate"], "why": "Waters flowed to help/support, matches aids not bestows.", "pf": "aids"}
+{"id": "P5-B-B0048-023", "v": "P", "inf": ["subject"], "why": "'He' inferred as Zola Fel.", "pf": "travels"}
+{"id": "P5-B-B0048-024", "v": "P", "inf": ["predicate"], "why": "'Priest' indicates office-holding.", "pf": "holds office in"}
+{"id": "P5-B-B0048-025", "v": "P", "inf": ["predicate"], "why": "'Called' indicates a descriptive title/epithet, not alternate name.", "pf": "is epithet of"}
+{"id": "P5-B-B0048-026", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0048-027", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0048-028", "v": "U", "inf": ["predicate"], "why": "Baba Ulodra is worshipped by Agimori; direction reversed.", "pf": "is worshipped by", "S": ["BABA ULODRA"], "O": ["AGIMORI"]}
+{"id": "P5-B-B0048-029", "v": "U", "inf": ["predicate"], "why": "'Led by' matches leads, not political rule of a troop.", "pf": "leads"}
+{"id": "P5-B-B0048-030", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0048-031", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0049-001", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0049-002", "v": "P", "inf": ["subject"], "why": "'Those who could' inferred as Ducks.", "pf": "flees to"}
+{"id": "P5-B-B0049-003", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0049-004", "v": "U", "inf": ["predicate"], "why": "'Help fishermen' matches aids, not servitude.", "pf": "aids"}
+{"id": "P5-B-B0049-005", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0049-006", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0049-007", "v": "U", "inf": ["predicate"], "why": "'Hunted actively by' matches hunts, not generic fights.", "pf": "hunts"}
+{"id": "P5-B-B0049-008", "v": "P", "inf": ["predicate"], "why": "'High rank' indicates office-holding beyond membership.", "pf": "holds office in"}
+{"id": "P5-B-B0049-009", "v": "U", "inf": ["predicate"], "why": "'Initiate' matches initiates into cult, more specific than membership.", "pf": "initiates into cult"}
+{"id": "P5-B-B0049-010", "v": "U", "inf": ["predicate"], "why": "Awakening a Rune matches embodies, not vague manifests.", "pf": "embodies", "O": ["FULL MOON RUNE"]}
+{"id": "P5-B-B0049-011", "v": "S", "inf": [], "pf": "illuminates"}
+{"id": "P5-B-B0049-012", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0049-013", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0049-014", "v": "P", "inf": ["subject"], "why": "'They' inferred as Ogres.", "pf": "comes into being"}
+{"id": "P5-B-B0049-015", "v": "P", "inf": ["subject"], "why": "'Remnant of Wakboth' not Wakboth itself directly.", "pf": "bestows"}
+{"id": "P5-B-B0049-016", "v": "U", "inf": ["predicate"], "why": "Text describes plotting to rescue, not service; also a hearsay claim.", "pf": "rescues / frees"}
+{"id": "P5-B-B0049-017", "v": "P", "inf": ["predicate"], "why": "'Spends much of his time' suggests a dwelling state, not one-time crossing.", "pf": "dwells at"}
+{"id": "P5-B-B0049-018", "v": "U", "inf": ["predicate"], "why": "'Particular ally' matches allies with, not service.", "pf": "allies with"}
+{"id": "P5-B-B0049-019", "v": "P", "inf": ["predicate"], "why": "'Owes favors' is a debt relationship, not general service.", "pf": "serves"}
+{"id": "P5-B-B0049-020", "v": "U", "inf": ["predicate"], "why": "'Pursues' matches hunts, more specific than fights.", "pf": "hunts"}
+{"id": "P5-B-B0049-021", "v": "P", "inf": ["subject"], "why": "'Troll war gangs' generalized to Trolls.", "pf": "rules"}
+{"id": "P5-B-B0049-022", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0049-023", "v": "U", "inf": ["predicate"], "why": "Direction reversed: Zorak Zoran is worshipped by trolls.", "pf": "is worshipped by", "S": ["ZORAK ZORAN"], "O": ["TROLLS"]}
+{"id": "P5-B-B0049-024", "v": "U", "inf": ["predicate"], "why": "'Enemy of' matches hates; no fighting action described.", "pf": "hates"}
+{"id": "P5-B-B0049-025", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0049-026", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0049-027", "v": "S", "inf": [], "pf": "performs sacrifice", "O": ["MILITIA REGIMENT"]}
+{"id": "P5-B-B0049-028", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-B-B0049-029", "v": "U", "inf": ["predicate"], "why": "'Lives' matches dwells at, a standing state, not travel.", "pf": "dwells at"}
+{"id": "P5-B-B0049-030", "v": "P", "inf": ["predicate"], "why": "Quote only names the group, doesn't explicitly state relation to Yelmalio.", "pf": "is member of"}
+{"id": "P5-B-B0049-031", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0049-032", "v": "U", "inf": ["predicate", "object"], "why": "Text describes planning/overseeing construction (crafting), not dedicating a relic.", "pf": "crafts", "O": ["BRIDGE ACROSS THE ZOLA FEL RIVER"]}
+{"id": "P5-B-B0049-033", "v": "U", "inf": ["predicate"], "why": "'Attacked the city' matches invades/raids, more specific than fights.", "pf": "invades / raids"}
+{"id": "P5-B-B0050-001", "v": "U", "inf": ["predicate", "object"], "why": "Dwarfs crafted a sewer for Dorasar, not general service.", "pf": "crafts", "O": ["UNDERGROUND STONE DRAINAGE SEWER"]}
+{"id": "P5-B-B0050-002", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0050-003", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0050-004", "v": "P", "inf": ["predicate strength"], "why": "'Generally thought to be' is speculative, not confirmed identity.", "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-B-B0050-005", "v": "P", "inf": ["predicate"], "why": "'Follower' fits cult membership better than general service.", "pf": "is member of"}
+{"id": "P5-B-B0050-006", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0050-007", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0050-008", "v": "U", "inf": ["predicate"], "why": "'Aided' matches aids, not a servant relationship.", "pf": "aids"}
+{"id": "P5-B-B0050-009", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0050-010", "v": "U", "inf": ["predicate"], "why": "'Initiate of Orlanth' matches initiates into cult, more specific.", "pf": "initiates into cult"}
+{"id": "P5-B-B0050-011", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0050-012", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0050-013", "v": "P", "inf": ["subject", "object"], "why": "'He' and 'them' inferred via pronouns from context.", "pf": "teaches"}
+{"id": "P5-B-B0050-014", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0050-015", "v": "P", "inf": ["subject", "object"], "why": "'She'/'him' inferred as Fenela/Garzeen from context.", "pf": "swears oath with"}
+{"id": "P5-B-B0050-016", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0050-017", "v": "U", "inf": ["predicate"], "why": "'River god' matches has domain, not embodiment of a Rune/element.", "pf": "has domain", "O": ["RIVER"]}
+{"id": "P5-B-B0050-018", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0050-019", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0050-020", "v": "U", "inf": ["predicate"], "why": "'Storm god' matches has domain, not embodiment.", "pf": "has domain", "O": ["STORM"]}
+{"id": "P5-B-B0050-021", "v": "U", "inf": ["predicate"], "why": "Dorasar supports the cults; direction/predicate matches aids not serves.", "pf": "aids"}
+{"id": "P5-B-B0050-022", "v": "U", "inf": ["predicate"], "why": "'God of Thieves' matches has domain, not embodiment.", "pf": "has domain", "O": ["THIEVES"]}
+{"id": "P5-B-B0050-023", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0050-024", "v": "P", "inf": ["predicate"], "why": "'Master of disguise' is a trait statement, not an enacted transformation.", "pf": "transforms into"}
+{"id": "P5-B-B0050-025", "v": "U", "inf": ["predicate"], "why": "Founding a temple/building matches founds, not cult-spreading.", "pf": "founds"}
+{"id": "P5-B-B0050-026", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0050-027", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0050-028", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0050-029", "v": "U", "inf": ["predicate"], "why": "'Destruction' implies conquest/elimination, stronger than mere defeat.", "pf": "conquers"}
+{"id": "P5-B-B0050-030", "v": "P", "inf": ["predicate"], "why": "'Waha the Butcher' is an epithet of Waha, not a separate alternate name.", "pf": "is epithet of"}
+{"id": "P5-B-B0050-031", "v": "P", "inf": ["object"], "why": "'He' inferred as Waha via context.", "pf": "defeats"}
+{"id": "P5-B-B0050-032", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0050-033", "v": "U", "inf": ["predicate", "subject"], "why": "'Cavalry god' matches has domain; subject 'He' inferred as Kastok.", "pf": "has domain", "O": ["CAVALRY"]}
+{"id": "P5-B-B0050-034", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0050-035", "v": "U", "inf": ["predicate"], "why": "Direction reversed: Polaris is worshipped by officers.", "pf": "is worshipped by", "S": ["POLARIS"], "O": ["OFFICERS"]}
+{"id": "P5-B-B0050-036", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0050-037", "v": "P", "inf": ["subject"], "why": "'Original mothers' identified as Seven Mothers from context.", "pf": "teaches"}
+{"id": "P5-B-B0050-038", "v": "P", "inf": ["subject", "predicate"], "why": "Subject's identity as pre-godhood Etyries inferred; relation is attendance, not direct service.", "pf": "serves"}
+{"id": "P5-B-B0050-039", "v": "U", "inf": ["predicate"], "why": "'Goddess of merchants' matches has domain, not a mythic-station verb.", "pf": "has domain", "O": ["MERCHANTS"]}
+{"id": "P5-B-B0051-001", "v": "U", "inf": ["predicate"], "why": "'Was born' indicates birth, matches is born from, not spontaneous emergence.", "pf": "is born from"}
+{"id": "P5-B-B0051-002", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0051-003", "v": "U", "inf": ["subject", "object"], "why": "Secret worshipers are the actual agents who reassembled/reborn her.", "pf": "resurrects", "S": ["SECRET WORSHIPERS"], "O": ["RED GODDESS"]}
+{"id": "P5-B-B0051-004", "v": "U", "inf": ["predicate"], "why": "Founding one's own cult/institution matches founds, not spreading another's worship.", "pf": "founds"}
+{"id": "P5-B-B0051-005", "v": "U", "inf": ["predicate"], "why": "'Eternal enmity' matches hates, not active fighting.", "pf": "hates"}

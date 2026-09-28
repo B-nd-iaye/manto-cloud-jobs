@@ -1,0 +1,150 @@
+{"id": "P5-B-B0064-009", "v": "P", "inf": ["direct_object"], "why": "foe not explicitly named as Chaos in this quote", "pf": "fights"}
+{"id": "P5-B-B0064-010", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0064-011", "v": "P", "inf": ["subject"], "why": "Argar Argan not named in this quote fragment", "pf": "is spouse of"}
+{"id": "P5-B-B0064-012", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0064-013", "v": "P", "inf": ["direct_object"], "why": "'Celestial Court' not named in quote", "pf": "serves"}
+{"id": "P5-B-B0064-014", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-B-B0064-015", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0064-016", "v": "P", "inf": ["direct_object"], "why": "'them' named Stargazers only after teaching", "pf": "teaches"}
+{"id": "P5-B-B0064-017", "v": "P", "inf": ["subject"], "why": "'they' not yet named Stargazers at that point", "pf": "protects"}
+{"id": "P5-B-B0064-018", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0064-019", "v": "U", "inf": ["subject", "object"], "why": "'White Lady' is an epithet of Erissa, not alt name", "pf": "is epithet of", "S": ["WHITE LADY"], "O": ["ERISSA"]}
+{"id": "P5-B-B0064-020", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0064-021", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0064-022", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0064-023", "v": "U", "inf": ["predicate"], "why": "quote says 'healed', not bestows gifts", "pf": "heals"}
+{"id": "P5-B-B0064-024", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-B-B0064-025", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0064-026", "v": "U", "inf": ["predicate"], "why": "quote states forgiveness/reconciliation, not an oath", "pf": "makes peace with"}
+{"id": "P5-B-B0064-027", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0064-028", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0064-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0064-030", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0064-031", "v": "S", "inf": [], "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-B-B0064-032", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0064-033", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0064-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0064-035", "v": "U", "inf": ["object"], "why": "quote names Ernalda as parent, fits is born from not comes into being", "pf": "is born from", "O": ["ERNALDA"]}
+{"id": "P5-B-B0064-036", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0064-037", "v": "P", "inf": ["predicate"], "why": "'associated with' weaker than identification/conflation", "pf": "is identified as"}
+{"id": "P5-B-B0064-038", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-B-B0064-039", "v": "P", "inf": ["subject"], "why": "'He' inferred as Ygg from context", "pf": "is child of"}
+{"id": "P5-B-B0064-040", "v": "P", "inf": ["direct_object"], "why": "'them' inferred as Yggites from context", "pf": "protects"}
+{"id": "P5-B-B0064-041", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0064-042", "v": "U", "inf": ["subject", "object"], "why": "'Spindle Hag' is epithet of Jakaleel, not alt name", "pf": "is epithet of", "S": ["SPINDLE HAG OF JORD MOUNTAIN"], "O": ["JAKALEEL"]}
+{"id": "P5-B-B0064-043", "v": "P", "inf": ["subject"], "why": "'She' inferred as Jakaleel from context", "pf": "is member of"}
+{"id": "P5-B-B0064-044", "v": "P", "inf": ["subject", "predicate"], "why": "'She' inferred as Jakaleel; alliance stated, not oath", "pf": "allies with"}
+{"id": "P5-B-B0064-045", "v": "U", "inf": ["predicate"], "why": "quote states death, not descent into underworld", "pf": "dies"}
+{"id": "P5-B-B0064-046", "v": "P", "inf": ["object"], "why": "only one Mother birthed Red Goddess, not whole group", "pf": "is child of"}
+{"id": "P5-B-B0064-047", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0064-048", "v": "U", "inf": ["predicate"], "why": "quote says 'made', matches conceives not manifests", "pf": "conceives"}
+{"id": "P5-B-B0064-049", "v": "P", "inf": ["subject"], "why": "'he' inferred as Creator from context", "pf": "teaches"}
+{"id": "P5-B-B0064-050", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-B-B0064-051", "v": "P", "inf": ["subject"], "why": "'He' inferred as Denbitos from context", "pf": "bestows"}
+{"id": "P5-B-B0064-052", "v": "U", "inf": ["predicate", "indirect_object"], "why": "Denbitos tells others to accept Folorene, not teaching him", "pf": "aids"}
+{"id": "P5-B-B0064-053", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0064-054", "v": "U", "inf": ["subject", "object"], "why": "'Herd Mother' is epithet of Eiritha, not alt name", "pf": "is epithet of", "S": ["HERD MOTHER"], "O": ["EIRITHA"]}
+{"id": "P5-B-B0064-055", "v": "P", "inf": ["predicate"], "why": "only an attempt to kill, not completed", "pf": "kills"}
+{"id": "P5-B-B0064-056", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0065-001", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-B-B0065-002", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0065-003", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0065-004", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0065-005", "v": "P", "inf": ["direct_object"], "why": "stolen object is part of Oakfed's power, not Oakfed himself", "pf": "steals"}
+{"id": "P5-B-B0065-006", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0065-007", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0065-008", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0065-009", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0065-010", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0065-011", "v": "S", "inf": [], "pf": "wounds", "qual": "blinding"}
+{"id": "P5-B-B0065-013", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0065-014", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0065-015", "v": "P", "inf": ["object"], "why": "'her' inferred as Granny Vo from context", "pf": "is child of"}
+{"id": "P5-B-B0065-016", "v": "P", "inf": ["indirect_object"], "why": "'him' inferred as Chalk Man from context", "pf": "bestows"}
+{"id": "P5-B-B0065-018", "v": "U", "inf": ["object"], "why": "quote names Grazer as wager opponent, not Rabbitface", "pf": "defeats", "O": ["GRAZER"]}
+{"id": "P5-B-B0065-019", "v": "U", "inf": ["predicate"], "why": "quote states Rabbitface was killed, i.e. died", "pf": "dies"}
+{"id": "P5-B-B0065-020", "v": "U", "inf": ["predicate"], "why": "quote states banishment/exile, not generic defeat", "pf": "exiles / banishes"}
+{"id": "P5-B-B0065-021", "v": "P", "inf": ["predicate"], "why": "'retired' to a chamber, not clearly Underworld descent", "pf": "dwells at"}
+{"id": "P5-B-B0065-022", "v": "P", "inf": ["predicate"], "why": "'great hero in' implies but doesn't state fighting", "pf": "fights"}
+{"id": "P5-B-B0065-023", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0065-024", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0065-025", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0065-026", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0065-027", "v": "U", "inf": ["subject", "object", "predicate"], "why": "recognition by churches is worship, not founding cult", "pf": "is worshipped by", "S": ["SAINT GERLANT"], "O": ["ROKARI"]}
+{"id": "P5-B-B0065-028", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0065-029", "v": "U", "inf": ["predicate"], "why": "'separated' elements is cosmogonic shaping, not shattering", "pf": "conceives"}
+{"id": "P5-B-B0065-030", "v": "P", "inf": ["subject"], "why": "'He' inferred as Makan from context", "pf": "conceives"}
+{"id": "P5-B-B0065-031", "v": "U", "inf": ["subject", "object", "predicate"], "why": "'created' means conceives, with Makan as maker", "pf": "conceives", "S": ["MAKAN"], "O": ["MALKION"]}
+{"id": "P5-B-B0065-032", "v": "U", "inf": ["predicate"], "why": "quote says betrayed, not generic fighting", "pf": "betrays"}
+{"id": "P5-B-B0065-033", "v": "U", "inf": ["predicate"], "why": "quote states death, not descent", "pf": "dies"}
+{"id": "P5-B-B0065-034", "v": "P", "inf": ["subject"], "why": "'He' inferred as Makan from context", "pf": "conceives"}
+{"id": "P5-B-B0065-035", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0065-036", "v": "U", "inf": ["predicate"], "why": "'wrote' a book is crafting an artifact, not founding a cult", "pf": "crafts"}
+{"id": "P5-B-B0065-037", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0065-038", "v": "P", "inf": ["indirect_object"], "why": "'us' inferred as mankind", "pf": "teaches"}
+{"id": "P5-B-B0065-039", "v": "P", "inf": ["predicate"], "why": "'True Prophets' title, not explicitly 'serves'", "pf": "serves"}
+{"id": "P5-B-B0065-040", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0065-041", "v": "P", "inf": ["direct_object"], "why": "revealed 'their meaning', not the Book itself", "pf": "reveals"}
+{"id": "P5-B-B0065-042", "v": "U", "inf": ["subject", "object", "predicate"], "why": "recognizing Makan as God is worship, direction reversed", "pf": "is worshipped by", "S": ["MAKAN"], "O": ["ROKARI CHURCH"]}
+{"id": "P5-B-B0065-043", "v": "U", "inf": ["subject", "object"], "why": "'prophet of the Fourth Action' is an epithet of Eliavar", "pf": "is epithet of", "S": ["PROPHET OF THE FOURTH ACTION"], "O": ["ELIAVAR"]}
+{"id": "P5-B-B0065-044", "v": "P", "inf": ["subject"], "why": "'He' inferred as Eliavar from context", "pf": "establishes cult"}
+{"id": "P5-B-B0065-045", "v": "P", "inf": ["subject", "predicate"], "why": "'him' inferred as Eliavar; attempted killing, not fighting", "pf": "kills"}
+{"id": "P5-B-B0065-046", "v": "P", "inf": ["subject"], "why": "'he' inferred as Eliavar from context", "pf": "flees to"}
+{"id": "P5-B-B0065-047", "v": "P", "inf": ["subject"], "why": "agent of the final killing not restated, inferred as Vadeli", "pf": "kills"}
+{"id": "P5-B-B0065-048", "v": "U", "inf": ["predicate"], "why": "'opened seas to sailing' is discovery, not enchantment", "pf": "discovers"}
+{"id": "P5-B-B0065-049", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0065-050", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0065-051", "v": "U", "inf": ["subject", "predicate"], "why": "creator not named in this quote; 'created' means conceives", "pf": "comes into being", "O": []}
+{"id": "P5-B-B0065-052", "v": "U", "inf": ["predicate"], "why": "quote states death, not descent", "pf": "dies"}
+{"id": "P5-B-B0065-053", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0065-054", "v": "P", "inf": ["indirect_object"], "why": "'us' inferred as mankind", "pf": "teaches"}
+{"id": "P5-B-B0065-055", "v": "P", "inf": ["predicate"], "why": "'True Prophet' title, not explicitly 'serves'", "pf": "serves"}
+{"id": "P5-B-B0065-056", "v": "U", "inf": ["predicate"], "why": "Creator is agent making everything, matches conceives not comes into being", "pf": "conceives"}
+{"id": "P5-B-B0065-057", "v": "U", "inf": ["predicate"], "why": "troublemakers are agents who made Underworld, matches conceives", "pf": "conceives"}
+{"id": "P5-B-B0065-058", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0066-001", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0066-002", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0066-003", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0066-004", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0067-001", "v": "P", "inf": ["from"], "why": "origin 'Aranvalus' House' not stated in this quote", "pf": "travels"}
+{"id": "P5-B-B0067-003", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0067-004", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0067-006", "v": "U", "inf": ["predicate"], "why": "quote says he tricked them, not defeated them", "pf": "tricks"}
+{"id": "P5-B-B0067-007", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0067-008", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0067-009", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0067-011", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0067-012", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0067-013", "v": "U", "inf": ["predicate"], "why": "quote says 'helped', matches aids not serves", "pf": "aids"}
+{"id": "P5-B-B0067-014", "v": "U", "inf": ["predicate"], "why": "quote says 'helped', matches aids not serves", "pf": "aids"}
+{"id": "P5-B-B0067-015", "v": "P", "inf": ["subject"], "why": "'his companions' inferred as Lightbringers", "pf": "travels"}
+{"id": "P5-B-B0067-016", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0067-017", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0067-018", "v": "U", "inf": ["predicate"], "why": "'liberating' is rescuing/freeing, not protecting", "pf": "rescues / frees"}
+{"id": "P5-B-B0067-019", "v": "P", "inf": ["predicate"], "why": "swallowing only implied by 'belly', not stated directly", "pf": "swallows / consumes"}
+{"id": "P5-B-B0067-020", "v": "U", "inf": ["subject", "object"], "why": "'Rain God' is epithet of Heler, not identification", "pf": "is epithet of", "S": ["RAIN GOD"], "O": ["HELER"]}
+{"id": "P5-B-B0067-021", "v": "U", "inf": ["subject", "object"], "why": "'the Farmer' is epithet of Barntar", "pf": "is epithet of", "S": ["THE FARMER"], "O": ["BARNTAR"]}
+{"id": "P5-B-B0067-022", "v": "U", "inf": ["predicate"], "why": "'free' is rescuing/freeing, not protecting", "pf": "rescues / frees"}
+{"id": "P5-B-B0067-023", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0067-024", "v": "U", "inf": ["subject", "object"], "why": "'Spirit of Drought' is epithet of Daga", "pf": "is epithet of", "S": ["SPIRIT OF DROUGHT"], "O": ["DAGA"]}
+{"id": "P5-B-B0067-025", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0067-026", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0067-027", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0067-028", "v": "U", "inf": ["subject", "object"], "why": "'great hero' is epithet of Arkat", "pf": "is epithet of", "S": ["GREAT HERO"], "O": ["ARKAT"]}
+{"id": "P5-B-B0067-029", "v": "P", "inf": ["predicate"], "why": "quote says 'nearly destroyed', not completed shattering", "pf": "shatters"}
+{"id": "P5-B-B0067-030", "v": "U", "inf": ["predicate"], "why": "'destroyed' the God Learners (people) matches kills, not shatters", "pf": "kills"}
+{"id": "P5-B-B0067-031", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0068-001", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0068-002", "v": "U", "inf": ["object"], "why": "'solar god' describes domain, not a manifestation event", "pf": "has domain"}
+{"id": "P5-B-B0068-003", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0068-004", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0068-005", "v": "P", "inf": ["subject"], "why": "'They' inferred as Elder Races from context", "pf": "rules"}
+{"id": "P5-B-B0068-006", "v": "P", "inf": ["subject"], "why": "'they' inferred as Elder Races from context", "pf": "shatters"}
+{"id": "P5-B-B0068-007", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0068-008", "v": "U", "inf": ["predicate"], "why": "'components of' matches is part of, not serves", "pf": "is part of"}
+{"id": "P5-B-B0068-009", "v": "U", "inf": ["subject", "object", "predicate"], "why": "Mostal is named maker; matches conceives not comes into being", "pf": "conceives", "S": ["MOSTAL"], "O": ["MOSTALI"]}
+{"id": "P5-B-B0068-010", "v": "U", "inf": ["subject", "object", "predicate"], "why": "Ancient Mostali are named makers; matches conceives", "pf": "conceives", "S": ["ANCIENT MOSTALI"], "O": ["CLAY MOSTALI"]}
+{"id": "P5-B-B0068-011", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0068-012", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0068-013", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0068-014", "v": "P", "inf": ["subject"], "why": "'they' inferred as Hollri from context", "pf": "travels"}

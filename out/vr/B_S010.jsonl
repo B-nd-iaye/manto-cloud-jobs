@@ -1,0 +1,150 @@
+{"id": "P5-B-B0029-005", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0029-006", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0029-007", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-B-B0029-008", "v": "U", "inf": ["predicate"], "why": "'affinity for' Rune fits embodies, not manifests", "pf": "embodies"}
+{"id": "P5-B-B0029-009", "v": "U", "inf": ["predicate"], "why": "worship reverses direction; deity is worshipped", "pf": "is worshipped by", "S": ["HELER"], "O": ["KERENELLING"]}
+{"id": "P5-B-B0029-010", "v": "P", "inf": ["predicate"], "why": "naming bloodline after him doesn't state descent explicitly", "pf": "claims ancestry"}
+{"id": "P5-B-B0029-011", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0029-012", "v": "U", "inf": ["subject"], "why": "Royal House mediated; peace was between Red Cow and Telmori", "pf": "makes peace with", "S": ["RED COW"], "O": ["TELMORI"]}
+{"id": "P5-B-B0029-013", "v": "P", "inf": ["predicate"], "why": "'annihilated' implies killing, stronger than defeat", "pf": "kills"}
+{"id": "P5-B-B0029-014", "v": "P", "inf": ["subject"], "why": "leaders led 'you' in war, not stated personally fighting", "pf": "wages war on"}
+{"id": "P5-B-B0029-015", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0029-016", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0029-017", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0029-018", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0029-019", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0029-020", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0029-021", "v": "P", "inf": ["predicate"], "why": "'came to aid' is a single act, not ongoing protection", "pf": "aids"}
+{"id": "P5-B-B0029-022", "v": "P", "inf": ["predicate"], "why": "'star lover' suggests romance, not confirmed marriage", "pf": "loves / desires"}
+{"id": "P5-B-B0029-023", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0029-024", "v": "U", "inf": ["predicate"], "why": "'affinity with' a god is worship, reversed direction", "pf": "is worshipped by", "S": ["HELER"], "O": ["RED COW"]}
+{"id": "P5-B-B0029-025", "v": "U", "inf": ["predicate"], "why": "'companion' is not service; closer to alliance", "pf": "allies with"}
+{"id": "P5-B-B0029-026", "v": "U", "inf": ["predicate"], "why": "shrine-worship of a god is worship, reversed direction", "pf": "is worshipped by", "S": ["ENGIZI"], "O": ["RED COW"]}
+{"id": "P5-B-B0029-027", "v": "U", "inf": ["predicate"], "why": "clan wyter is guardian spirit, not servant", "pf": "protects"}
+{"id": "P5-B-B0029-028", "v": "P", "inf": ["predicate"], "why": "'exiled' is more specific than generic defeat", "pf": "exiles / banishes"}
+{"id": "P5-B-B0029-029", "v": "U", "inf": ["subject_object"], "why": "people chose Karganar as their ruler, direction reversed", "pf": "accedes to rule", "S": ["KARGANAR BLOOD-EYE"], "O": ["RED COW"]}
+{"id": "P5-B-B0029-030", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0029-031", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0029-032", "v": "S", "inf": [], "pf": "descends into", "O": ["GRAVE HILL"]}
+{"id": "P5-B-B0029-033", "v": "P", "inf": ["predicate"], "why": "'ancestral home' doesn't state explicit descent from person", "pf": "claims ancestry"}
+{"id": "P5-B-B0029-034", "v": "P", "inf": ["predicate"], "why": "'feuded' implies ongoing hostility, closer to hates", "pf": "hates"}
+{"id": "P5-B-B0029-035", "v": "U", "inf": ["predicate"], "why": "tending a shrine is an office, not generic service", "pf": "holds office in"}
+{"id": "P5-B-B0029-036", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-B-B0029-037", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0029-038", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0029-039", "v": "P", "inf": ["subject"], "why": "referent (Orkarl) inferred from context, not in this quote", "pf": "is synonym of"}
+{"id": "P5-B-B0029-040", "v": "P", "inf": ["predicate"], "why": "'led the charge' is more specific attack, not generic fight", "pf": "invades / raids"}
+{"id": "P5-B-B0029-041", "v": "P", "inf": ["direct_object"], "why": "no opponent named, and quote confirms death", "pf": "dies"}
+{"id": "P5-B-B0029-042", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0029-043", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-B-B0029-044", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-B-B0029-045", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-B-B0029-046", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0029-047", "v": "P", "inf": ["direct_object"], "why": "'their' referent (Six Stones) requires context", "pf": "rules"}
+{"id": "P5-B-B0029-048", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-B-B0029-049", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-B-B0029-050", "v": "P", "inf": ["predicate"], "why": "'negotiated with' is vaguer than a specific oath/alliance", "pf": "allies with"}
+{"id": "P5-B-B0029-051", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0029-052", "v": "U", "inf": ["predicate"], "why": "'fell against' implies death caused by Telmori, not just fighting", "pf": "kills", "S": ["TELMORI"], "O": ["HEDBRAST THE BOLD"]}
+{"id": "P5-B-B0029-053", "v": "P", "inf": ["predicate"], "why": "metaphorical phrase, unclear extent of defeat", "pf": "defeats"}
+{"id": "P5-B-B0029-054", "v": "P", "inf": ["direct_object"], "why": "'him' refers to Starkor via context, not quote itself", "pf": "kills"}
+{"id": "P5-B-B0029-055", "v": "P", "inf": ["direct_object"], "why": "'him' refers to Koschei via context", "pf": "kills"}
+{"id": "P5-B-B0029-056", "v": "P", "inf": ["direct_object"], "why": "'him' refers to Broddi via context", "pf": "kills"}
+{"id": "P5-B-B0029-057", "v": "P", "inf": ["direct_object"], "why": "'him' refers to Ashart via context", "pf": "kills"}
+{"id": "P5-B-B0029-058", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0029-059", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0029-060", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0029-061", "v": "P", "inf": ["predicate"], "why": "'led people against' implies leading war, more than personal fight", "pf": "wages war on"}
+{"id": "P5-B-B0029-062", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0029-063", "v": "U", "inf": ["predicate"], "why": "'opposed to' is defiance, weaker than fighting", "pf": "challenges"}
+{"id": "P5-B-B0029-064", "v": "P", "inf": ["predicate"], "why": "'joined against' implies alliance/war, fighting not directly stated", "pf": "wages war on"}
+{"id": "P5-B-B0029-065", "v": "U", "inf": ["predicate"], "why": "'confront' is defiance, not combat", "pf": "challenges"}
+{"id": "P5-B-B0029-066", "v": "P", "inf": ["predicate"], "why": "'alliance' isn't necessarily a formal oath", "pf": "allies with"}
+{"id": "P5-B-B0029-067", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0029-068", "v": "P", "inf": ["predicate"], "why": "'suffered defeats' verb elided from prior clause", "pf": "defeats"}
+{"id": "P5-B-B0029-069", "v": "U", "inf": ["direct_object"], "why": "Crimson Bat is threat fled from, not destination", "pf": "flees to", "O": []}
+{"id": "P5-B-B0029-070", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0029-071", "v": "U", "inf": ["predicate"], "why": "'standing beside' means fighting alongside, not against Salinarg", "pf": "allies with"}
+{"id": "P5-B-B0029-072", "v": "P", "inf": ["subject"], "why": "thanes are the agents; splendorbread is the instrument used", "pf": "resurrects"}
+{"id": "P5-B-B0030-001", "v": "P", "inf": ["indirect_object"], "why": "'His' refers to Valenstor via context, not this quote", "pf": "is child of"}
+{"id": "P5-B-B0030-002", "v": "P", "inf": ["direct_object"], "why": "'the clan' identified as Red Cow via context", "pf": "rules"}
+{"id": "P5-B-B0030-003", "v": "P", "inf": ["subject"], "why": "quote credits Farandar and his supporters jointly, not him alone", "pf": "kills"}
+{"id": "P5-B-B0030-004", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0030-005", "v": "U", "inf": ["predicate"], "why": "'settle' a place fits settles at, not generic travel", "pf": "settles at", "O": ["EORIC'S STEAD"]}
+{"id": "P5-B-B0030-006", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0030-007", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-B-B0030-008", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0030-009", "v": "P", "inf": ["predicate"], "why": "'settlement' suggests peace agreement, not formal oath", "pf": "makes peace with"}
+{"id": "P5-B-B0030-010", "v": "P", "inf": ["direct_object"], "why": "'their' refers to Culbrea via context", "pf": "rules"}
+{"id": "P5-B-B0030-011", "v": "P", "inf": ["direct_object"], "why": "'their' referent (Culbrea) requires context", "pf": "accedes to rule"}
+{"id": "P5-B-B0030-012", "v": "S", "inf": [], "pf": "descends into", "O": ["LUNAR HELL"]}
+{"id": "P5-B-B0030-013", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0030-014", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0030-015", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0030-016", "v": "S", "inf": [], "pf": "is deified", "O": ["GODKING"]}
+{"id": "P5-B-B0030-017", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0030-018", "v": "U", "inf": ["predicate"], "why": "'raised' the spear denotes wielding, not manifesting", "pf": "possesses / wields"}
+{"id": "P5-B-B0030-019", "v": "U", "inf": ["predicate"], "why": "'bargained' for passage is trade/negotiation, not oath", "pf": "trades with"}
+{"id": "P5-B-B0030-020", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0030-021", "v": "P", "inf": ["predicate"], "why": "'saved' denotes single rescue, not ongoing protection", "pf": "rescues / frees"}
+{"id": "P5-B-B0030-022", "v": "P", "inf": ["direct_object"], "why": "'a new tribe' identified as Cinsina via context", "pf": "accedes to rule"}
+{"id": "P5-B-B0030-023", "v": "P", "inf": ["predicate"], "why": "'saved' fits rescue, not ongoing protection", "pf": "rescues / frees"}
+{"id": "P5-B-B0030-024", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0030-025", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0030-026", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0030-027", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0030-028", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0030-029", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0030-030", "v": "U", "inf": ["predicate"], "why": "'betrayed' is a specific act, not generic fighting", "pf": "betrays"}
+{"id": "P5-B-B0030-031", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0030-033", "v": "P", "inf": ["subject"], "why": "'Many' is a subset of Cinsina, not the whole group", "pf": "claims ancestry"}
+{"id": "P5-B-B0030-034", "v": "P", "inf": ["indirect_object"], "why": "full identity 'Ferfal Dolutha' inferred, only 'Ferfal' given", "pf": "is sibling of"}
+{"id": "P5-B-B0030-035", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0030-036", "v": "P", "inf": ["predicate"], "why": "'forcing from lands' is more specific than generic defeat", "pf": "exiles / banishes"}
+{"id": "P5-B-B0030-037", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0030-038", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0030-039", "v": "P", "inf": ["direct_object"], "why": "'the king' identified as Estavar via context", "pf": "kills"}
+{"id": "P5-B-B0030-040", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0030-041", "v": "P", "inf": ["predicate"], "why": "'overran' implies conquest, more specific than defeat", "pf": "conquers"}
+{"id": "P5-B-B0030-042", "v": "U", "inf": ["predicate"], "why": "praying to a god is worship, direction reversed", "pf": "is worshipped by", "S": ["ORLANTH"], "O": ["SURVIVORS OF THE SANCHALI"]}
+{"id": "P5-B-B0030-043", "v": "P", "inf": ["subject"], "why": "'wolfmen' as synonym for Telmori inferred from context", "pf": "kills"}
+{"id": "P5-B-B0030-044", "v": "P", "inf": ["predicate"], "why": "'war-leader' denotes military command, not general rule", "pf": "leads"}
+{"id": "P5-B-B0030-045", "v": "P", "inf": ["subject"], "why": "'He' refers to Cinsin via context", "pf": "kills"}
+{"id": "P5-B-B0030-046", "v": "P", "inf": ["direct_object"], "why": "'him' refers to Cinsin via context", "pf": "kills"}
+{"id": "P5-B-B0030-047", "v": "P", "inf": ["direct_object"], "why": "'the tribe' identified as Maboder via context", "pf": "accedes to rule"}
+{"id": "P5-B-B0030-048", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0030-049", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0030-050", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-B-B0030-051", "v": "P", "inf": ["predicate"], "why": "'priest of' denotes cult office, more specific than service", "pf": "holds office in"}
+{"id": "P5-B-B0030-052", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0030-053", "v": "P", "inf": ["predicate"], "why": "'war-leader' denotes military leadership, not general rule", "pf": "leads"}
+{"id": "P5-B-B0030-054", "v": "P", "inf": ["predicate"], "why": "stated as purpose of the raid, not confirmed accomplished", "pf": "kills"}
+{"id": "P5-B-B0030-055", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0030-056", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0030-057", "v": "U", "inf": ["predicate"], "why": "knowing secret magic fits wielding power, not manifesting", "pf": "possesses / wields", "O": ["MOTION RUNE MAGIC"]}
+{"id": "P5-B-B0030-058", "v": "P", "inf": ["predicate"], "why": "'make peace' is a peace agreement, not oath specifically", "pf": "makes peace with"}
+{"id": "P5-B-B0030-059", "v": "U", "inf": ["subject"], "why": "Sartar is the agent asked to resurrect, not Telmori themselves", "pf": "resurrects", "S": ["SARTAR"], "O": ["TELMORI KING"]}
+{"id": "P5-B-B0030-060", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0030-061", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0030-062", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0030-063", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0030-064", "v": "U", "inf": ["predicate"], "why": "wyter is a guardian spirit, closer to protector than embodiment", "pf": "protects"}
+{"id": "P5-B-B0031-001", "v": "P", "inf": ["indirect_object"], "why": "'His' refers to Tarkalor via context, not this quote", "pf": "is child of"}
+{"id": "P5-B-B0031-002", "v": "U", "inf": ["predicate"], "why": "king supporting exiles is aid, not service to them", "pf": "aids"}
+{"id": "P5-B-B0031-003", "v": "P", "inf": ["predicate"], "why": "'marched to aid' is a specific act of assistance", "pf": "aids"}
+{"id": "P5-B-B0031-004", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0031-005", "v": "U", "inf": ["predicate"], "why": "'in support of' is aid, not servitude", "pf": "aids"}
+{"id": "P5-B-B0031-006", "v": "U", "inf": ["subject_object"], "why": "Telmori agreed Kostajor as their leader, direction reversed", "pf": "leads", "S": ["KOSTAJOR WOLF-CHAMPION"], "O": ["TELMORI"]}
+{"id": "P5-B-B0031-007", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0031-008", "v": "P", "inf": ["predicate"], "why": "'led by' denotes leadership of rebels, not formal rule", "pf": "leads"}
+{"id": "P5-B-B0031-009", "v": "U", "inf": ["predicate"], "why": "'capture' is more specific than defeat", "pf": "captures"}
+{"id": "P5-B-B0031-010", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0031-011", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0031-012", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0031-013", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0031-014", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0031-015", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0031-016", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0031-017", "v": "P", "inf": ["predicate", "indirect_object"], "why": "'kinsman' broader than sibling; 'his' referent inferred", "pf": "is sibling of"}
+{"id": "P5-B-B0031-018", "v": "P", "inf": ["predicate"], "why": "'ambushed' is a specific raid, not generic fighting", "pf": "invades / raids"}
+{"id": "P5-B-B0031-019", "v": "P", "inf": ["predicate"], "why": "'replacing as king' implies succession/accession", "pf": "accedes to rule"}

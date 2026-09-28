@@ -1,0 +1,150 @@
+{"id": "P5-B-B0040-012", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-B-B0040-013", "v": "P", "inf": ["predicate"], "why": "betrayal implies submission to Red Moon, not service", "pf": "submits to"}
+{"id": "P5-B-B0040-014", "v": "U", "inf": ["predicate", "object"], "why": "no victor named; kingdom simply 'fell'", "pf": "dies", "O": []}
+{"id": "P5-B-B0040-015", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0040-016", "v": "P", "inf": ["subject"], "why": "Lunar army as victor inferred, not named in quote", "pf": "kills"}
+{"id": "P5-B-B0040-017", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0040-018", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0040-019", "v": "P", "inf": ["predicate"], "why": "'descendents' may span multiple generations", "pf": "claims ancestry"}
+{"id": "P5-B-B0040-020", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0040-021", "v": "P", "inf": ["predicate"], "why": "'persecuted' implies punishment, not combat", "pf": "punishes"}
+{"id": "P5-B-B0040-022", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0040-023", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0040-024", "v": "P", "inf": ["object"], "why": "domain 'Earth' inferred from epithet, not listed as O", "pf": "has domain", "O": ["EARTH"]}
+{"id": "P5-B-B0040-025", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0040-026", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0040-027", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0040-028", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-B-B0040-029", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0040-030", "v": "P", "inf": ["predicate"], "why": "'met' is ambiguous, doesn't confirm combat", "pf": "fights"}
+{"id": "P5-B-B0040-031", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0040-032", "v": "P", "inf": ["predicate"], "why": "'escape' implies fleeing, not general travel", "pf": "flees to"}
+{"id": "P5-B-B0040-033", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0040-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0040-035", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0040-036", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0040-037", "v": "P", "inf": ["predicate"], "why": "quote states alliance, not oath-swearing", "pf": "allies with"}
+{"id": "P5-B-B0040-038", "v": "P", "inf": ["subject"], "why": "'the region' stands for Kingdom of Dragon Pass, not named directly", "pf": "defeats"}
+{"id": "P5-B-B0040-039", "v": "P", "inf": ["subject"], "why": "Dara Happa as sender is implicit", "pf": "invades / raids"}
+{"id": "P5-B-B0040-040", "v": "P", "inf": ["predicate"], "why": "quote states alliance, not oath", "pf": "allies with"}
+{"id": "P5-B-B0040-041", "v": "P", "inf": ["predicate"], "why": "'sought aid' is invocation, not ongoing service", "pf": "summons / invokes"}
+{"id": "P5-B-B0040-042", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0040-043", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0040-044", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0040-045", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0040-046", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0040-047", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0040-048", "v": "P", "inf": ["subject"], "why": "killer(s) implied as God Learners, not stated in this clause", "pf": "kills"}
+{"id": "P5-B-B0040-049", "v": "U", "inf": ["predicate"], "why": "agent named ('they'=God Learners); not spontaneous emergence", "pf": "founds"}
+{"id": "P5-B-B0041-001", "v": "P", "inf": ["predicate"], "why": "'alliance formed' not an oath specifically", "pf": "allies with"}
+{"id": "P5-B-B0041-002", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0041-003", "v": "U", "inf": ["subject", "object"], "why": "gifts/prayer show worship, not service; direction reversed", "pf": "is worshipped by", "S": ["WAHA"], "O": ["CHIEFTAINS", "KHANS"]}
+{"id": "P5-B-B0041-004", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0041-005", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0041-006", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0041-007", "v": "P", "inf": ["predicate"], "why": "quote shows friendly meeting, not oath-swearing", "pf": "allies with"}
+{"id": "P5-B-B0041-008", "v": "P", "inf": ["predicate"], "why": "'still live' is a dwelling state, not travel", "pf": "dwells at"}
+{"id": "P5-B-B0041-009", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0041-010", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0041-011", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0041-012", "v": "S", "inf": [], "pf": "imbues"}
+{"id": "P5-B-B0041-013", "v": "P", "inf": ["predicate"], "why": "'befriended' is alliance, not formal oath", "pf": "allies with"}
+{"id": "P5-B-B0041-014", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0041-015", "v": "U", "inf": ["predicate"], "why": "quote only describes a meeting, no alliance/oath stated", "pf": "REJECT", "note": "quote states only that they met"}
+{"id": "P5-B-B0041-016", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0041-017", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0041-018", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0041-019", "v": "P", "inf": ["subject"], "why": "Varajiia's personal role in wounding is implicit", "pf": "wounds"}
+{"id": "P5-B-B0041-020", "v": "P", "inf": ["object"], "why": "destination should be Paps (place), not Waha (person)", "pf": "travels", "O": ["PAPS"]}
+{"id": "P5-B-B0041-021", "v": "S", "inf": [], "pf": "heals"}
+{"id": "P5-B-B0041-022", "v": "S", "inf": [], "pf": "makes peace with"}
+{"id": "P5-B-B0041-023", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0041-024", "v": "U", "inf": ["subject", "object"], "why": "'wished to honor' is worship, direction reversed", "pf": "is worshipped by", "S": ["FACELESS STATUE"], "O": ["MOSTALI"]}
+{"id": "P5-B-B0041-025", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0041-026", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0041-027", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0041-028", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-B-B0041-029", "v": "S", "inf": [], "pf": "crafts"}
+{"id": "P5-B-B0041-030", "v": "U", "inf": ["object"], "why": "Kidneystones are the war's prize, not a combatant", "pf": "REJECT", "note": "no named opposing party, object is a contested item"}
+{"id": "P5-B-B0041-031", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-B-B0041-032", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-B-B0041-033", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0041-034", "v": "S", "inf": [], "pf": "crafts"}
+{"id": "P5-B-B0041-035", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-B-B0041-036", "v": "P", "inf": ["predicate"], "why": "'led' migration fits leads better than rules", "pf": "leads"}
+{"id": "P5-B-B0041-037", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0041-038", "v": "P", "inf": ["direct_object"], "why": "event (Yelm/Oslir story) named but not captured as O", "pf": "re-enacts"}
+{"id": "P5-B-B0041-039", "v": "U", "inf": ["predicate"], "why": "river rescued Yelm, not 'protects'", "pf": "rescues / frees"}
+{"id": "P5-B-B0041-040", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-B-B0041-041", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0041-042", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0041-043", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0041-044", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0041-045", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0041-046", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0041-047", "v": "S", "inf": [], "pf": "wounds", "qual": "blinding"}
+{"id": "P5-B-B0041-048", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0041-049", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0042-001", "v": "P", "inf": ["predicate"], "why": "'guerrilla warfare' fits wages war on better than generic fights", "pf": "wages war on"}
+{"id": "P5-B-B0042-002", "v": "P", "inf": ["predicate"], "why": "no recipient named; Jolanti consumed in process, not ritual offering", "pf": "loses"}
+{"id": "P5-B-B0042-003", "v": "P", "inf": ["predicate"], "why": "'took control of' living constructs fits binds/enslaves, not political rule", "pf": "binds"}
+{"id": "P5-B-B0042-004", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0042-005", "v": "P", "inf": ["to"], "why": "destination Pavis inferred, not stated in quote", "pf": "flees to"}
+{"id": "P5-B-B0042-006", "v": "P", "inf": ["object"], "why": "Pavis as destination inferred from context, not stated", "pf": "travels"}
+{"id": "P5-B-B0042-007", "v": "P", "inf": ["object"], "why": "Bison Tent is a location, not what 'emerges'", "pf": "comes into being", "O": []}
+{"id": "P5-B-B0042-008", "v": "P", "inf": ["predicate"], "why": "'struck mad' is affliction/curse, not physical wounding", "pf": "curses"}
+{"id": "P5-B-B0042-009", "v": "P", "inf": ["predicate"], "why": "a new name/title given, closer to takes title than synonym", "pf": "takes title"}
+{"id": "P5-B-B0042-010", "v": "P", "inf": ["object"], "why": "Pavis as invasion target implicit, not in this clause", "pf": "invades / raids"}
+{"id": "P5-B-B0042-011", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0042-012", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0042-013", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0042-014", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0042-015", "v": "P", "inf": ["predicate"], "why": "'frowned upon' shows disapproval, not active protection", "pf": "protects"}
+{"id": "P5-B-B0042-016", "v": "P", "inf": ["subject"], "why": "killing attributed to Jaldon's forces contextually, not explicit here", "pf": "kills"}
+{"id": "P5-B-B0042-017", "v": "P", "inf": ["predicate"], "why": "a legendary title fits epithet, not simple synonym", "pf": "is epithet of"}
+{"id": "P5-B-B0042-018", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0042-019", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0042-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0042-021", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0042-022", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0042-023", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0042-024", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0042-025", "v": "P", "inf": ["predicate"], "why": "'founded the Zebra People' fits founds a people, not a cult", "pf": "founds"}
+{"id": "P5-B-B0042-026", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0042-027", "v": "U", "inf": ["predicate", "object"], "why": "quote describes Yelm killing Joraz, not manifesting", "pf": "kills", "O": ["JORAZ KYREM"]}
+{"id": "P5-B-B0042-028", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0042-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0042-030", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0042-031", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0042-032", "v": "P", "inf": ["indirect_object", "direct_object"], "why": "Eternal Dragon Ring is recipient (IO), not the offering (O)", "pf": "performs sacrifice", "O": [], "IO": ["ETERNAL DRAGON RING"]}
+{"id": "P5-B-B0042-033", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0042-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0042-035", "v": "P", "inf": ["predicate"], "why": "an honorific nickname fits epithet more than plain synonym", "pf": "is epithet of"}
+{"id": "P5-B-B0042-036", "v": "P", "inf": ["predicate"], "why": "'maintain friendship' is alliance, not formal oath", "pf": "allies with"}
+{"id": "P5-B-B0042-037", "v": "S", "inf": [], "pf": "imbues"}
+{"id": "P5-B-B0042-038", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0042-039", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0042-040", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0042-041", "v": "P", "inf": ["predicate"], "why": "a nickname/title fits epithet, not synonym", "pf": "is epithet of"}
+{"id": "P5-B-B0042-042", "v": "P", "inf": ["predicate"], "why": "a nickname/title fits epithet, not synonym", "pf": "is epithet of"}
+{"id": "P5-B-B0042-043", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0042-044", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0042-045", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0042-046", "v": "P", "inf": ["subject"], "why": "killer implicit as Jaldon's army, not stated directly", "pf": "kills"}
+{"id": "P5-B-B0042-047", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0042-048", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0042-049", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-B-B0042-050", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0042-051", "v": "P", "inf": ["predicate"], "why": "a nickname fits epithet, not plain synonym", "pf": "is epithet of"}
+{"id": "P5-B-B0043-001", "v": "P", "inf": ["predicate"], "why": "'care for' fits protecting/tending, not servant status", "pf": "protects"}
+{"id": "P5-B-B0043-002", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0043-003", "v": "P", "inf": ["object"], "why": "O should be a destination place, not the person accompanied", "pf": "travels"}
+{"id": "P5-B-B0043-004", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0043-005", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-B-B0043-006", "v": "S", "inf": [], "pf": "summons / invokes"}
+{"id": "P5-B-B0043-007", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0043-008", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0043-009", "v": "U", "inf": ["predicate", "object"], "why": "'successor' is office succession, not service; O should be realm", "pf": "accedes to rule", "O": []}
+{"id": "P5-B-B0043-010", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0043-011", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0043-012", "v": "P", "inf": ["subject"], "why": "'Sable treachery' implies Sable Nomads as killer, not explicit army name", "pf": "kills"}

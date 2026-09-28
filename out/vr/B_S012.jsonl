@@ -1,0 +1,150 @@
+{"id": "P5-B-B0033-063", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-B-B0033-064", "v": "U", "inf": [], "why": "'successor to' is a succession, not identity/equation", "pf": "REJECT"}
+{"id": "P5-B-B0033-065", "v": "P", "inf": ["direct_object"], "why": "quote says 'govern' generically, Kingdom of Sartar inferred", "pf": "rules"}
+{"id": "P5-B-B0033-066", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0033-067", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0033-068", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0033-069", "v": "P", "inf": ["direct_object"], "why": "'Kingdom of Sartar' inferred from title 'Prince of Sartar'", "pf": "rules"}
+{"id": "P5-B-B0033-070", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0033-071", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0033-072", "v": "U", "inf": [], "why": "she obtains, not bestows, the Sky Rune", "pf": "possesses / wields", "O": ["SKY RUNE"]}
+{"id": "P5-B-B0033-073", "v": "P", "inf": ["predicate"], "why": "'lover' is not a formal spouse relation", "pf": "loves / desires"}
+{"id": "P5-B-B0033-074", "v": "P", "inf": ["subject"], "why": "agent is 'Lunar sorcery' not named Lunar sorcerers", "pf": "binds"}
+{"id": "P5-B-B0033-075", "v": "U", "inf": [], "why": "'wears' is possession not survival as relic", "pf": "possesses / wields"}
+{"id": "P5-B-B0033-076", "v": "U", "inf": [], "why": "worship direction requires deity as S, settlers as O; also 'many' not all settlers", "pf": "is worshipped by", "S": ["BARNTAR"], "O": ["AGGAR SETTLERS"]}
+{"id": "P5-B-B0033-077", "v": "U", "inf": [], "why": "worship direction requires deity as S, settlers as O; also 'many' not all settlers", "pf": "is worshipped by", "S": ["ORLANTH"], "O": ["AGGAR SETTLERS"]}
+{"id": "P5-B-B0033-078", "v": "U", "inf": [], "why": "worship direction requires deity as S, settlers as O; also 'many' not all settlers", "pf": "is worshipped by", "S": ["SEVEN MOTHERS"], "O": ["AGGAR SETTLERS"]}
+{"id": "P5-B-B0033-079", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0034-001", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-B-B0034-002", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0034-003", "v": "U", "inf": [], "why": "quote says 'allied with', not sworn oath", "pf": "allies with"}
+{"id": "P5-B-B0034-004", "v": "P", "inf": ["predicate"], "why": "'guided' is weaker than ruling", "pf": "rules"}
+{"id": "P5-B-B0034-005", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0034-006", "v": "U", "inf": [], "why": "quote only labels them enemies, not an active fight", "pf": "hates"}
+{"id": "P5-B-B0034-007", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0034-008", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0034-009", "v": "S", "inf": [], "pf": "curses"}
+{"id": "P5-B-B0034-010", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-B-B0034-011", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-B-B0034-012", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0034-013", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0034-014", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0034-015", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0034-016", "v": "P", "inf": ["subject"], "why": "only 'faithful and moral among the people', not all Hsunchen", "pf": "discovers"}
+{"id": "P5-B-B0034-017", "v": "U", "inf": [], "why": "founding a tribe, not establishing a cult", "pf": "founds"}
+{"id": "P5-B-B0034-018", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-019", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-020", "v": "U", "inf": [], "why": "'god of carnivores' is domain, not rule", "pf": "has domain"}
+{"id": "P5-B-B0034-021", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-022", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-023", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-B-B0034-024", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0034-025", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-B-B0034-026", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-027", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0034-028", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-B-B0034-029", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0034-030", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0034-031", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0034-032", "v": "P", "inf": ["predicate"], "why": "'destruction of that tribe' implies conquest, not mere defeat", "pf": "conquers"}
+{"id": "P5-B-B0034-033", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0034-034", "v": "P", "inf": ["direct_object"], "why": "only 'one of them' executed, not all Helkos Brothers", "pf": "kills"}
+{"id": "P5-B-B0034-035", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-036", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0034-037", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-038", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-039", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-B-B0034-040", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-B-B0034-041", "v": "P", "inf": ["predicate"], "why": "'battled to destroy' is an attempt, success not confirmed", "pf": "shatters"}
+{"id": "P5-B-B0034-042", "v": "S", "inf": [], "pf": "wounds", "qual": "blinding"}
+{"id": "P5-B-B0034-043", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0034-044", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0034-045", "v": "P", "inf": ["direct_object"], "why": "cult name (Ituvanu) not explicitly the object initiated into", "pf": "initiates into cult"}
+{"id": "P5-B-B0034-046", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0034-047", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0034-048", "v": "U", "inf": [], "why": "a 'bid for friendship' is an alliance offer, not a sworn oath", "pf": "allies with"}
+{"id": "P5-B-B0034-049", "v": "U", "inf": [], "why": "freeing the dead is rescuing, not resurrecting them to life", "pf": "rescues / frees"}
+{"id": "P5-B-B0034-050", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0034-051", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0034-052", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0034-053", "v": "P", "inf": ["predicate"], "why": "death implied via joining the dead, no explicit killing act", "pf": "kills"}
+{"id": "P5-B-B0034-054", "v": "P", "inf": ["direct_object"], "why": "self-suffered ordeal, no other party as object of wounding", "pf": "wounds"}
+{"id": "P5-B-B0034-055", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-B-B0034-056", "v": "S", "inf": [], "pf": "performs sacrifice", "IO": ["ORLANTH"]}
+{"id": "P5-B-B0034-057", "v": "U", "inf": [], "why": "Orlanth, not the Emperor, is the one gaining the title", "pf": "takes title", "S": ["ORLANTH"], "O": ["HIGH KING"]}
+{"id": "P5-B-B0034-058", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0034-059", "v": "U", "inf": [], "why": "obeisance/acknowledging power is submission, not service", "pf": "submits to"}
+{"id": "P5-B-B0034-060", "v": "U", "inf": [], "why": "accepting a friendship bid is alliance, not a sworn oath", "pf": "allies with"}
+{"id": "P5-B-B0034-061", "v": "U", "inf": [], "why": "'offering self-judgment' is submission, not service", "pf": "submits to"}
+{"id": "P5-B-B0034-062", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-063", "v": "U", "inf": [], "why": "'had Gochbadun in his herd' is possession, not rule", "pf": "possesses / wields"}
+{"id": "P5-B-B0034-064", "v": "P", "inf": ["predicate"], "why": "'occupied' implies control but not explicit rulership", "pf": "rules"}
+{"id": "P5-B-B0034-065", "v": "U", "inf": [], "why": "a solitary vow with no oath partner named", "pf": "REJECT"}
+{"id": "P5-B-B0034-066", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0034-067", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0034-068", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0034-069", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0035-001", "v": "U", "inf": [], "why": "'son-in-law' is an in-law relation, not being a child of Vingkot", "pf": "REJECT"}
+{"id": "P5-B-B0035-002", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0035-003", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0035-004", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0035-005", "v": "P", "inf": ["predicate"], "why": "'met' doesn't explicitly state combat", "pf": "fights"}
+{"id": "P5-B-B0035-006", "v": "P", "inf": ["predicate"], "why": "'speared' implies attack, death not explicitly stated", "pf": "kills"}
+{"id": "P5-B-B0035-007", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-B-B0035-008", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0035-009", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0035-011", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0035-012", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0035-013", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-B-B0035-014", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0035-015", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0035-016", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0035-018", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-B-B0035-019", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0035-020", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0035-021", "v": "P", "inf": ["object"], "why": "link between 'Eater of Skin' and Crimson Bat inferred from context", "pf": "is epithet of"}
+{"id": "P5-B-B0035-022", "v": "U", "inf": [], "why": "Hallarax is the sacrificial victim, not a sacrificer", "pf": "REJECT"}
+{"id": "P5-B-B0035-023", "v": "U", "inf": [], "why": "'come to free Ernalda' is rescuing, not protecting", "pf": "rescues / frees"}
+{"id": "P5-B-B0035-024", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0036-001", "v": "P", "inf": ["predicate"], "why": "'remnant of' suggests leftover part, not active membership", "pf": "is part of"}
+{"id": "P5-B-B0036-002", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0036-003", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0036-004", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0036-005", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-B-B0036-006", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0036-007", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0036-008", "v": "S", "inf": [], "pf": "sleeps"}
+{"id": "P5-B-B0036-009", "v": "U", "inf": [], "why": "epithet direction reversed: 'Rebel Gods' is the epithet, gods are bearers", "pf": "is epithet of", "S": ["REBEL GODS"], "O": ["ORLANTH", "ERNALDA"]}
+{"id": "P5-B-B0036-010", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0036-011", "v": "S", "inf": [], "pf": "sleeps"}
+{"id": "P5-B-B0036-012", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-B-B0036-013", "v": "U", "inf": [], "why": "'rose' describes reappearance, not first coming into being", "pf": "appears"}
+{"id": "P5-B-B0036-014", "v": "U", "inf": [], "why": "passive construction, no agent named as defeater", "pf": "REJECT"}
+{"id": "P5-B-B0036-015", "v": "P", "inf": ["predicate"], "why": "future intention 'should seek', not an actual marriage", "pf": "is spouse of"}
+{"id": "P5-B-B0036-016", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0036-017", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0036-018", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0036-019", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0036-020", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0036-021", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0036-022", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-B-B0036-023", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0036-024", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-B-B0036-025", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0036-026", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-B-B0036-027", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0036-028", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0036-029", "v": "P", "inf": ["subject"], "why": "Artia as blinder of Yelm inferred from comparison, not stated directly", "pf": "wounds", "qual": "blinding"}
+{"id": "P5-B-B0036-030", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0036-031", "v": "P", "inf": ["direct_object"], "why": "'the Liberator'=Orlanth is inferred, not named", "pf": "fights"}
+{"id": "P5-B-B0036-032", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0036-033", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0036-034", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0036-035", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0036-036", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0036-037", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0036-038", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0036-039", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0036-040", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0036-041", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0036-042", "v": "U", "inf": [], "why": "'swore allegiance' expresses submission/vassalage, not a mutual oath", "pf": "submits to"}

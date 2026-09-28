@@ -1,0 +1,150 @@
+{"id": "P5-B-B0036-043", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-B-B0037-001", "v": "S", "inf": [], "pf": "is epithet of", "S": ["UNFETTERED ONE"], "O": ["ORLANTH"]}
+{"id": "P5-B-B0037-002", "v": "P", "inf": ["object"], "why": "'Psychopomp' as Issaries's role is inferred from context, not stated plainly.", "pf": "is epithet of", "S": ["PSYCHOPOMP"], "O": ["ISSARIES"]}
+{"id": "P5-B-B0037-003", "v": "P", "inf": ["predicate"], "why": "'embody some part of his power' is looser than Rune/element embodiment.", "pf": "embodies"}
+{"id": "P5-B-B0037-004", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-005", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-006", "v": "U", "inf": ["subject"], "why": "'one of the Low Stars' modifies Senstena, not Garan.", "pf": "is member of", "S": ["SENSTENA"], "O": ["LOW STARS"]}
+{"id": "P5-B-B0037-007", "v": "P", "inf": ["subject"], "why": "'He' inferred as Garan from prior sentence.", "pf": "travels"}
+{"id": "P5-B-B0037-008", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0037-009", "v": "P", "inf": ["predicate"], "why": "'enslaved' is stronger and more specific than generic rule.", "pf": "binds"}
+{"id": "P5-B-B0037-010", "v": "P", "inf": ["predicate"], "why": "'lay upon' implies mating, not an explicit marriage.", "pf": "is spouse of"}
+{"id": "P5-B-B0037-011", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-012", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-013", "v": "S", "inf": [], "pf": "is epithet of", "S": ["FIRST STORM"], "O": ["UMATH"]}
+{"id": "P5-B-B0037-014", "v": "S", "inf": [], "pf": "bestows", "O": [], "IO": ["ANCESTORS"]}
+{"id": "P5-B-B0037-015", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0037-016", "v": "U", "inf": ["predicate"], "why": "Quote states dying, not descent into a realm.", "pf": "dies"}
+{"id": "P5-B-B0037-017", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0037-018", "v": "P", "inf": ["predicate"], "why": "'helped' indicates aiding, not servitude.", "pf": "aids"}
+{"id": "P5-B-B0037-019", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0037-020", "v": "P", "inf": ["predicate"], "why": "'raider' implies invading/raiding, not generic fighting.", "pf": "invades / raids"}
+{"id": "P5-B-B0037-021", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0037-022", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0037-023", "v": "P", "inf": ["predicate"], "why": "'made' stated; enchanting is inferred from the basket's magic.", "pf": "crafts"}
+{"id": "P5-B-B0037-024", "v": "S", "inf": [], "pf": "substitutes"}
+{"id": "P5-B-B0037-025", "v": "P", "inf": ["predicate"], "why": "'competes' suggests rivalry over deeds, not combat.", "pf": "challenges"}
+{"id": "P5-B-B0037-026", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-027", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0037-028", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0037-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-030", "v": "P", "inf": ["predicate"], "why": "'led' indicates leadership of army, not rulership.", "pf": "leads"}
+{"id": "P5-B-B0037-031", "v": "P", "inf": ["predicate"], "why": "'besieged' indicates invasion/siege, not general fighting.", "pf": "invades / raids"}
+{"id": "P5-B-B0037-032", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0037-033", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0037-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-035", "v": "P", "inf": ["direct_object"], "why": "'him' inferred as Varalz from context.", "pf": "kills"}
+{"id": "P5-B-B0037-036", "v": "P", "inf": ["subject"], "why": "'the queen' inferred as Enori from context.", "pf": "fights"}
+{"id": "P5-B-B0037-037", "v": "P", "inf": ["subject"], "why": "'he' inferred as Baroshi from context.", "pf": "kills"}
+{"id": "P5-B-B0037-038", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0037-039", "v": "P", "inf": ["direct_object"], "why": "'their' inferred as Varalz and Enori from context.", "pf": "is child of"}
+{"id": "P5-B-B0037-040", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0037-041", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0037-042", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0037-043", "v": "P", "inf": ["direct_object"], "why": "'him' inferred as Oonil from context.", "pf": "substitutes"}
+{"id": "P5-B-B0037-044", "v": "P", "inf": ["direct_object"], "why": "'him' inferred as Oonil from context.", "pf": "substitutes"}
+{"id": "P5-B-B0037-045", "v": "P", "inf": ["direct_object"], "why": "'him' inferred as Oonil from context.", "pf": "substitutes"}
+{"id": "P5-B-B0037-046", "v": "P", "inf": ["predicate"], "why": "'goddess of Harmony' indicates domain, not embodiment.", "pf": "has domain"}
+{"id": "P5-B-B0037-047", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-048", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-049", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0037-050", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0037-051", "v": "P", "inf": ["predicate"], "why": "'took as king' indicates submission, not general service.", "pf": "submits to"}
+{"id": "P5-B-B0037-052", "v": "P", "inf": ["predicate"], "why": "'summoned' matches summons/invokes, not manifestation.", "pf": "summons / invokes"}
+{"id": "P5-B-B0037-053", "v": "P", "inf": ["with_the_aid_of"], "why": "'his' inferred as Tanian's powers from context.", "pf": "defeats"}
+{"id": "P5-B-B0037-054", "v": "P", "inf": ["predicate"], "why": "'directed' indicates appointing a task, not ruling.", "pf": "appoints"}
+{"id": "P5-B-B0037-055", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0037-056", "v": "P", "inf": ["predicate"], "why": "'directed into' suggests sending, not ruling.", "pf": "sends"}
+{"id": "P5-B-B0037-057", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0037-058", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-B-B0037-059", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0037-060", "v": "P", "inf": ["subject"], "why": "'Flamal's children' inferred as White Elves from prior sentence.", "pf": "travels"}
+{"id": "P5-B-B0037-061", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0037-062", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0037-063", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0037-064", "v": "P", "inf": ["from"], "why": "'her' inferred as Ourania from context.", "pf": "is born from"}
+{"id": "P5-B-B0037-065", "v": "P", "inf": ["from"], "why": "'her' inferred as Ourania from context.", "pf": "is born from"}
+{"id": "P5-B-B0037-066", "v": "P", "inf": ["predicate"], "why": "'Chief of' indicates leadership, not mere membership.", "pf": "leads"}
+{"id": "P5-B-B0037-067", "v": "U", "inf": ["subject", "direct_object"], "why": "'sing the praises' shows worship of Dayzatar, direction reversed.", "pf": "is worshipped by", "S": ["DAYZATAR"], "O": ["CELESTIAL CHOIR"]}
+{"id": "P5-B-B0037-068", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0037-069", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0037-070", "v": "P", "inf": ["subject"], "why": "'they' inferred as Star Captains from context.", "pf": "kills"}
+{"id": "P5-B-B0037-071", "v": "P", "inf": ["subject"], "why": "'they' inferred as Star Captains from context.", "pf": "protects"}
+{"id": "P5-B-B0038-001", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0038-002", "v": "U", "inf": [], "why": "No specific station change described, only general redemption.", "pf": "REJECT"}
+{"id": "P5-B-B0038-003", "v": "P", "inf": ["subject"], "why": "'him' inferred as Ranulf Stand-Tall from context.", "pf": "is epithet of"}
+{"id": "P5-B-B0038-004", "v": "P", "inf": ["predicate"], "why": "'marched to help' indicates aiding, not vassalage.", "pf": "aids"}
+{"id": "P5-B-B0038-005", "v": "S", "inf": [], "pf": "dies"}
+{"id": "P5-B-B0038-006", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0038-007", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0038-008", "v": "P", "inf": ["predicate"], "why": "'saved' indicates rescue, not general protection.", "pf": "rescues / frees"}
+{"id": "P5-B-B0038-009", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-B-B0038-010", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0038-011", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0038-012", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0038-013", "v": "S", "inf": [], "pf": "dies"}
+{"id": "P5-B-B0038-014", "v": "P", "inf": ["predicate"], "why": "Star Tribes are polities; founds fits better than establishing a cult.", "pf": "founds"}
+{"id": "P5-B-B0038-015", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0038-016", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0038-017", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0038-018", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0038-019", "v": "P", "inf": ["predicate"], "why": "'summoned' matches summons/invokes, not enchant.", "pf": "summons / invokes"}
+{"id": "P5-B-B0038-020", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0038-021", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0038-022", "v": "P", "inf": ["predicate"], "why": "'favored by' is vaguer than a specific bestowal act.", "pf": "bestows"}
+{"id": "P5-B-B0038-023", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0038-024", "v": "P", "inf": ["subject"], "why": "'his king' inferred as Rikard from context.", "pf": "flees to"}
+{"id": "P5-B-B0038-025", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0038-026", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0038-027", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0038-028", "v": "P", "inf": ["predicate"], "why": "'priest' indicates office-holding, not just membership.", "pf": "holds office in"}
+{"id": "P5-B-B0038-029", "v": "U", "inf": ["predicate"], "why": "Text says 'helped liberate' (rescue), not resurrection.", "pf": "rescues / frees"}
+{"id": "P5-B-B0038-030", "v": "P", "inf": ["predicate"], "why": "'priestess of' indicates office-holding, not mere membership.", "pf": "holds office in"}
+{"id": "P5-B-B0038-031", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0038-032", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0038-033", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0038-034", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-B-B0038-035", "v": "P", "inf": ["predicate"], "why": "'fell' means came to earth, not entering the underworld.", "pf": "travels"}
+{"id": "P5-B-B0038-036", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0038-037", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0038-038", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0038-039", "v": "S", "inf": [], "pf": "dies"}
+{"id": "P5-B-B0038-040", "v": "P", "inf": ["predicate"], "why": "'tried to fetter' is an attempt, not confirmed binding.", "pf": "binds"}
+{"id": "P5-B-B0038-041", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0038-042", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0039-001", "v": "U", "inf": ["subject", "direct_object"], "why": "'state worship of Yelmalio' shows worship direction reversed.", "pf": "is worshipped by", "S": ["YELMALIO"], "O": ["SUN COUNTY"]}
+{"id": "P5-B-B0039-002", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0039-003", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0039-004", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0039-005", "v": "P", "inf": ["predicate"], "why": "'exiled' implies forced banishment, stronger than mere departure.", "pf": "departs from"}
+{"id": "P5-B-B0039-006", "v": "P", "inf": ["predicate"], "why": "'surveying' implies inspection, not simple travel.", "pf": "travels"}
+{"id": "P5-B-B0039-007", "v": "P", "inf": ["predicate"], "why": "New Pavis is a city; founds fits, not establishing a cult.", "pf": "founds"}
+{"id": "P5-B-B0039-008", "v": "P", "inf": ["predicate"], "why": "'conquered' matches conquers precisely, stronger than defeats.", "pf": "conquers"}
+{"id": "P5-B-B0039-009", "v": "P", "inf": ["predicate"], "why": "'association with' is vaguer than serving; likely membership.", "pf": "is member of"}
+{"id": "P5-B-B0039-010", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0039-011", "v": "P", "inf": ["predicate"], "why": "Mani's Fort is a settlement; founds fits, not a cult.", "pf": "founds"}
+{"id": "P5-B-B0039-012", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0039-013", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0039-014", "v": "S", "inf": [], "pf": "bestows", "O": [], "IO": ["INDAGOS"]}
+{"id": "P5-B-B0039-015", "v": "U", "inf": ["subject", "direct_object"], "why": "'adopted worship of' shows worship direction reversed.", "pf": "is worshipped by", "S": ["ORLANTH", "ERNALDA"], "O": ["INDAGOS FAMILY"]}
+{"id": "P5-B-B0039-016", "v": "P", "inf": ["predicate"], "why": "'making...king' is an appointment act, not a vague station change.", "pf": "appoints"}
+{"id": "P5-B-B0039-017", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0039-018", "v": "P", "inf": ["predicate"], "why": "'forced out' indicates banishment, not general defeat.", "pf": "exiles / banishes"}
+{"id": "P5-B-B0039-019", "v": "P", "inf": ["predicate"], "why": "'made him king' indicates installation as ruler.", "pf": "accedes to rule"}
+{"id": "P5-B-B0039-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0039-021", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0039-022", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0039-023", "v": "U", "inf": ["subject", "direct_object"], "why": "'worship of Chalana Arroy and Esrola' shows worship direction reversed.", "pf": "is worshipped by", "S": ["CHALANA ARROY", "ESROLA"], "O": ["SUN DOMERS"]}
+{"id": "P5-B-B0039-024", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0039-025", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0040-001", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0040-002", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0040-003", "v": "P", "inf": ["direct_object"], "why": "'his' inferred as Sarotar from context.", "pf": "serves"}
+{"id": "P5-B-B0040-004", "v": "P", "inf": ["direct_object"], "why": "'He' inferred as Sarotar from context.", "pf": "kills"}
+{"id": "P5-B-B0040-005", "v": "P", "inf": ["subject"], "why": "'he' inferred as Dorasar from context.", "pf": "settles at"}
+{"id": "P5-B-B0040-006", "v": "P", "inf": ["predicate"], "why": "'led...expedition' matches leads, not generic travel.", "pf": "leads"}
+{"id": "P5-B-B0040-007", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0040-008", "v": "P", "inf": ["predicate"], "why": "'brought war to' matches wages war on more precisely.", "pf": "wages war on"}
+{"id": "P5-B-B0040-009", "v": "P", "inf": ["predicate"], "why": "'made friends with' matches allies with, not a formal oath.", "pf": "allies with"}
+{"id": "P5-B-B0040-010", "v": "P", "inf": ["predicate"], "why": "'great hero of' suggests devotion, not literal servitude.", "pf": "serves"}
+{"id": "P5-B-B0040-011", "v": "P", "inf": ["predicate"], "why": "'enemies of' indicates hatred/feud, not active fighting.", "pf": "hates"}

@@ -102,9 +102,35 @@ python3 headless.py prompts/verify_reclass_v1.md out_test/vr_high vr_shards/B_S0
 
 Diminishing returns: medium→high roughly doubles time and cost (thinking tokens ~2.3×) for +3.3 points of agreement, and still doesn't clear 85%.
 
+## 6. Opus 5.5, low effort (B_S001, at user's request)
+
+```
+python3 headless.py prompts/verify_reclass_v1.md out_test/vr_opus_low vr_shards/B_S001.txt --ids --model opus --effort low
+```
+
+- 150/150 records returned in one pass, 111s (fastest of all tests)
+- tokens: in=2, cache_creation=23558, cache_read=0, out=13337 (of which 4714 thinking — much less thinking than any Sonnet tier)
+- cost: $0.455212
+
+### Agreement vs `ref/B_S001.default_effort.jsonl`
+
+- **Agreement: 123/150 = 82.0%** — close to Sonnet high (83.3%), still below the 85% bar.
+- 27 disagreements, but a distinctly different pattern from Sonnet: heavily skewed one direction — 18 of 27 are `ref=S → test=P` concentrated in the `B0003` block (`-003, -006, -008, -011, -015, -017, -018, -019, -024, -030, -034, -037, -039, -047`, etc.). This looks like Opus at low effort systematically over-calling `P` (partial/inferred) in that passage rather than a spread of independent ambiguous calls — worth a manual look at `B0003` before trusting Opus-low broadly.
+
+### Updated comparison (B_S001)
+
+| model / effort | seconds | output tok (thinking) | cost | agreement vs ref |
+|---|---|---|---|---|
+| sonnet / low (warm) | 157 | 18,757 (11,326) | $0.262 | 69.3% |
+| sonnet / medium | 226 | 26,350 (18,732) | $0.358 | 80.0% |
+| sonnet / high | 443 | 50,763 (42,769) | $0.602 | 83.3% |
+| opus / low | 111 | 13,337 (4,714) | $0.455 | 82.0% |
+
+Opus-low lands near Sonnet-high's accuracy at a quarter of the time and ~75% of the cost, but its errors cluster in one passage block rather than spreading evenly — a pattern (not just a count) that needs checking before it's trusted at scale.
+
 ## Conclusion
 
 - Headless path works (signed in, `claude -p` functional, JSON output parses, usage logged).
-- **Effort chosen: still not determined.** None of low (69.3%), medium (80.0%), or high (83.3%) clears the required ≥85% agreement bar on B_S001 — the gap closes but does not cross.
-- Options for the user to weigh before Phase 1: (a) test `--effort xhigh`/`max`, likely with further diminishing returns and higher cost/time per shard (443s → ? at high alone is already ~2.8× low); (b) relax the acceptance bar — the remaining disagreements at medium/high are consistently the same handful of ambiguous `S↔P`/`P→U` cases, not random noise, so a human spot-check of whether they're actually defensible calls may be more productive than chasing a higher effort tier; (c) fall back to the subagent path (~5× cost per TASK.md).
+- **Effort/model chosen: still not determined.** None of Sonnet low (69.3%), medium (80.0%), high (83.3%), or Opus low (82.0%) clears the required ≥85% agreement bar on B_S001.
+- Options for the user to weigh before Phase 1: (a) test Opus at medium/high, or Sonnet `xhigh`/`max`, though all show diminishing returns; (b) relax the acceptance bar — remaining disagreements are consistently the same handful of ambiguous `S↔P`/`P→U` cases (Sonnet) or concentrated in one passage block (Opus low), not random noise, so a human spot-check of whether they're actually defensible calls may be more productive than chasing a higher tier; (c) fall back to the subagent path (~5× cost per TASK.md).
 - Stopping here per instructions to wait for the user's go before Phase 1.

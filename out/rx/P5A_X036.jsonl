@@ -1,0 +1,2 @@
+{"pid": "HWG:00013", "q": ["He was advised by his elder brother, Dayzatar"], "s": ["DAYZATAR"], "p": "speaks / informs / warns / prophesies", "o": ["YELM"], "surface": {"object:YELM": "He"}, "p_surface": "advised by", "corpus": "Solar", "age": "Golden Age", "cls": "narrative", "inference": "'He' refers to Yelm, the Sun God introduced as subject of the surrounding passage.", "note": "Dayzatar advised Yelm"}
+{"pid": "HWG:00015", "q": ["Yelm was killed"], "s": ["YELM"], "p": "dies", "o": [], "p_surface": "was killed", "corpus": "Solar", "age": "Storm Age", "cls": "narrative"}

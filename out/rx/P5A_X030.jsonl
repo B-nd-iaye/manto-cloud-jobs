@@ -1,0 +1,1 @@
+{"pid": "HQG:00215", "q": ["she wields a deadly axe"], "s": ["BABEESTER GOR"], "p": "possesses / wields", "o": ["AXE"], "surface": {"subject:BABEESTER GOR": "she"}, "p_surface": "wields a deadly axe", "corpus": "Theyalan", "age": "Godtime (unspecified)", "cls": "attribute", "inference": "'she' refers to Babeester Gor, named immediately before in the same entry."}

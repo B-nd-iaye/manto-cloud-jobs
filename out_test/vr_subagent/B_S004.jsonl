@@ -1,0 +1,150 @@
+{"id": "P5-B-B0010-053", "v": "P", "inf": ["predicate"], "why": "forced to act against third party, not physical binding", "pf": "bestows geas"}
+{"id": "P5-B-B0010-054", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0011-001", "v": "U", "inf": ["predicate", "direct_object"], "why": "'god of X' is domain not identity", "pf": "has domain", "O": ["RED PLANET"]}
+{"id": "P5-B-B0011-002", "v": "U", "inf": ["subject", "predicate", "direct_object"], "why": "quote states deity identity; direction reversed", "pf": "is worshipped by", "S": ["THIRT"], "O": ["NATIVES OF VATOLAGORINOR"]}
+{"id": "P5-B-B0011-003", "v": "P", "inf": ["subject"], "why": "link between Veldru and 'Wind God' inferred across sentences", "pf": "has domain", "O": ["WIND"]}
+{"id": "P5-B-B0011-004", "v": "P", "inf": ["predicate"], "why": "near-extermination for feathers fits hunts better", "pf": "hunts"}
+{"id": "P5-B-B0011-005", "v": "P", "inf": ["predicate"], "why": "one-time rescue, not standing protection", "pf": "rescues / frees"}
+{"id": "P5-B-B0011-006", "v": "P", "inf": ["predicate"], "why": "'drove away' means banished, more specific than defeat", "pf": "exiles / banishes"}
+{"id": "P5-B-B0011-007", "v": "U", "inf": ["subject", "direct_object"], "why": "'followed'=worshipped; deity should be subject", "pf": "is worshipped by", "S": ["AVANAPUR"], "O": ["SEA EAGLE DYNASTY"]}
+{"id": "P5-B-B0011-008", "v": "P", "inf": ["predicate"], "why": "'tried to destroy' is an attempt, not confirmed destruction", "pf": "shatters"}
+{"id": "P5-B-B0011-009", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0011-010", "v": "U", "inf": ["direct_object", "indirect_object"], "why": "Jrusteli is recipient not object; object is the magic itself", "pf": "reveals", "O": ["knowledge and magic"], "IO": ["JRUSTELI"]}
+{"id": "P5-B-B0011-011", "v": "P", "inf": ["predicate"], "why": "'hard-pressed' implies attack, closer to invades/raids", "pf": "invades / raids"}
+{"id": "P5-B-B0011-012", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0011-013", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0011-014", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0011-015", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0011-016", "v": "U", "inf": ["predicate", "direct_object"], "why": "'god of X' is domain not identity", "pf": "has domain", "O": ["DEEPEST WATERS"]}
+{"id": "P5-B-B0011-017", "v": "U", "inf": ["predicate", "direct_object"], "why": "'god of X' is domain not identity", "pf": "has domain", "O": ["SKY WATER"]}
+{"id": "P5-B-B0011-018", "v": "P", "inf": ["direct_object"], "why": "'the father' unnamed in quote; inferred from outside context", "pf": "is child of"}
+{"id": "P5-B-B0011-019", "v": "P", "inf": ["subject", "predicate"], "why": "Tanian unnamed; destruction described impersonally", "pf": "shatters"}
+{"id": "P5-B-B0011-020", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0011-021", "v": "U", "inf": ["direct_object", "predicate"], "why": "object is the secrets not Arkat; only 'sought', not completed", "pf": "steals", "O": ["HEROQUESTING SECRETS OF ARKAT"]}
+{"id": "P5-B-B0011-022", "v": "P", "inf": ["predicate"], "why": "'conquered' matches conquers, not generic defeat", "pf": "conquers"}
+{"id": "P5-B-B0011-023", "v": "U", "inf": ["direct_object", "predicate"], "why": "new title is over 'Land and Sea', not Seshnela itself", "pf": "accedes to rule", "O": ["LAND AND SEA"]}
+{"id": "P5-B-B0011-024", "v": "P", "inf": ["predicate"], "why": "'conquered' is conquers, more specific than defeats", "pf": "conquers"}
+{"id": "P5-B-B0011-025", "v": "U", "inf": ["predicate"], "why": "quote is about disdain, not entering the Otherworld", "pf": "hates"}
+{"id": "P5-B-B0011-026", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0011-027", "v": "P", "inf": ["subject"], "why": "'presumably' signals uncertain, unconfirmed attribution", "pf": "shatters"}
+{"id": "P5-B-B0011-028", "v": "P", "inf": ["predicate"], "why": "'remained' describes ongoing state, not an act of peacemaking", "pf": "makes peace with"}
+{"id": "P5-B-B0011-029", "v": "P", "inf": ["predicate"], "why": "providing answers fits aids, not protection or rescue", "pf": "aids"}
+{"id": "P5-B-B0012-001", "v": "U", "inf": ["predicate", "direct_object"], "why": "agent named ('founded by immigrants'); 'It' object inferred", "pf": "founds"}
+{"id": "P5-B-B0012-002", "v": "U", "inf": ["predicate"], "why": "'captured'=captures (seizure); also a hedged, disputed claim", "pf": "captures"}
+{"id": "P5-B-B0012-003", "v": "P", "inf": ["predicate"], "why": "'rescued' is one-time act, not general protection; hedged claim", "pf": "rescues / frees"}
+{"id": "P5-B-B0012-004", "v": "P", "inf": ["direct_object", "predicate"], "why": "'troubled' is vague spirit-harassment; 'they' resolved from context", "pf": "fights"}
+{"id": "P5-B-B0012-005", "v": "P", "inf": ["predicate"], "why": "'attacked' fits invades/raids specifically", "pf": "invades / raids"}
+{"id": "P5-B-B0012-006", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0012-007", "v": "P", "inf": ["predicate"], "why": "'massed against' is mobilization, not fighting itself", "pf": "wages war on"}
+{"id": "P5-B-B0012-008", "v": "P", "inf": ["predicate"], "why": "quote only says entered a cave, underworld nature unstated", "pf": "descends into"}
+{"id": "P5-B-B0012-009", "v": "P", "inf": ["predicate"], "why": "'placated' is appeasement, closer to ending hostility than an oath", "pf": "makes peace with"}
+{"id": "P5-B-B0012-010", "v": "U", "inf": ["predicate"], "why": "'settled' is settles at, not general travel", "pf": "settles at"}
+{"id": "P5-B-B0012-011", "v": "P", "inf": ["predicate"], "why": "'attracted students' implies but doesn't directly state teaching", "pf": "teaches"}
+{"id": "P5-B-B0012-012", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0012-013", "v": "P", "inf": ["subject"], "why": "attributed to 'outsiders say' (hedged, unconfirmed claim)", "pf": "departs from"}
+{"id": "P5-B-B0012-014", "v": "P", "inf": ["direct_object"], "why": "'religions' is generic plural, not one named cult/deity", "pf": "establishes cult"}
+{"id": "P5-B-B0012-015", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0012-016", "v": "U", "inf": ["predicate"], "why": "'retains'=possesses, not protects/guards", "pf": "possesses / wields"}
+{"id": "P5-B-B0012-017", "v": "U", "inf": ["predicate"], "why": "'colonized'=settles at specifically, not generic travel", "pf": "settles at"}
+{"id": "P5-B-B0012-018", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0012-019", "v": "U", "inf": ["predicate"], "why": "'pretended to be' is a false claim, not genuine identity", "pf": "REJECT"}
+{"id": "P5-B-B0012-020", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0012-021", "v": "P", "inf": ["predicate"], "why": "'warred against' = wages war on, not generic fighting", "pf": "wages war on"}
+{"id": "P5-B-B0012-022", "v": "P", "inf": ["predicate"], "why": "'conquer' maps to conquers specifically", "pf": "conquers"}
+{"id": "P5-B-B0012-023", "v": "P", "inf": ["subject"], "why": "'most clans' not all; generalized to entire collective", "pf": "swears oath with"}
+{"id": "P5-B-B0012-024", "v": "U", "inf": ["predicate"], "why": "'stormed ashore with soldiers' is invasion, not neutral travel", "pf": "invades / raids"}
+{"id": "P5-B-B0012-025", "v": "P", "inf": ["subject", "direct_object"], "why": "'creatures of Zis' unnamed here; 'invaders' plural ≠ just Xars Shung", "pf": "kills"}
+{"id": "P5-B-B0012-026", "v": "P", "inf": ["direct_object"], "why": "'the dwarves' generic, 'of Slon' inferred from context", "pf": "serves"}
+{"id": "P5-B-B0012-027", "v": "P", "inf": ["subject", "direct_object"], "why": "'some slaves' generalized to all Friendlies; dwarves generic", "pf": "teaches"}
+{"id": "P5-B-B0012-028", "v": "U", "inf": ["predicate"], "why": "agent named ('raised by Mostali'); fits crafts not comes-into-being", "pf": "crafts"}
+{"id": "P5-B-B0012-029", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0012-030", "v": "P", "inf": ["predicate"], "why": "'drew world back together' is an active repair, not protection", "pf": "rescues / frees"}
+{"id": "P5-B-B0012-031", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0012-032", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0012-033", "v": "P", "inf": ["predicate"], "why": "dwarves' own claim (hedge); 'divided up' is partition not rule", "pf": "rules"}
+{"id": "P5-B-B0012-034", "v": "P", "inf": ["predicate"], "why": "'helping' fits aids, not protects; omits 'inciting' aspect", "pf": "aids"}
+{"id": "P5-B-B0012-035", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0012-036", "v": "U", "inf": ["subject", "direct_object"], "why": "deity is forced to transform, not Jrusteli; roles reversed", "pf": "transforms into", "S": ["UNDETECTABLE DEITY OF TELEOS"], "O": ["BUTTERFLY"]}
+{"id": "P5-B-B0012-037", "v": "U", "inf": ["predicate"], "why": "'captured' = captures (seizure), not binds", "pf": "captures"}
+{"id": "P5-B-B0012-038", "v": "P", "inf": ["subject"], "why": "Dormal 'began' it; completion narrated impersonally", "pf": "travels"}
+{"id": "P5-B-B0012-039", "v": "P", "inf": ["predicate", "direct_object"], "why": "'conquered' is conquers; 'much of' is partial, not entire West", "pf": "conquers"}
+{"id": "P5-B-B0012-040", "v": "P", "inf": ["predicate", "direct_object"], "why": "'conquered'=conquers; only 'most of coastal' Umathela, not all", "pf": "conquers"}
+{"id": "P5-B-B0012-041", "v": "P", "inf": ["predicate", "direct_object"], "why": "'conquered'=conquers; only 'much of' Fonrit, not entire", "pf": "conquers"}
+{"id": "P5-B-B0012-042", "v": "P", "inf": ["predicate"], "why": "'closely related' is vague kinship, not specifically sibling", "pf": "is sibling of"}
+{"id": "P5-B-B0012-043", "v": "U", "inf": ["predicate"], "why": "no killer named; unnamed-killer death is dies not kills", "pf": "dies"}
+{"id": "P5-B-B0012-044", "v": "P", "inf": ["predicate"], "why": "'caste of' is a defined subgroup, fits is part of better", "pf": "is part of"}
+{"id": "P5-B-B0012-045", "v": "P", "inf": ["predicate"], "why": "'rivaled' is a power comparison, not direct confrontation", "pf": "challenges"}
+{"id": "P5-B-B0012-046", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0012-047", "v": "P", "inf": ["predicate"], "why": "'reject...laws' is disobeying, matches breaks oath more", "pf": "breaks oath"}
+{"id": "P5-B-B0013-001", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0013-002", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0013-003", "v": "P", "inf": ["subject", "indirect_object"], "why": "'He' resolved to Vadel via context; Mostali is source not recipient", "pf": "steals"}
+{"id": "P5-B-B0013-004", "v": "P", "inf": ["predicate"], "why": "'attacked without warning' fits invades/raids, not generic fights", "pf": "invades / raids"}
+{"id": "P5-B-B0013-005", "v": "U", "inf": ["predicate"], "why": "Tadeniti is a people; extermination fits kills better than shatters", "pf": "kills"}
+{"id": "P5-B-B0013-006", "v": "U", "inf": ["direct_object", "predicate"], "why": "the cities, not the Kachisti people, are what's destroyed", "pf": "shatters", "O": ["CITIES OF THE KACHISTI"]}
+{"id": "P5-B-B0013-007", "v": "P", "inf": ["subject", "predicate"], "why": "'They' resolved via context; 'conquered'=conquers not generic defeat", "pf": "conquers"}
+{"id": "P5-B-B0013-008", "v": "P", "inf": ["predicate"], "why": "'warred against' = wages war on, not generic fights", "pf": "wages war on"}
+{"id": "P5-B-B0013-009", "v": "U", "inf": ["subject", "direct_object", "predicate"], "why": "Vadeli are worshippers not deity; direction needs reversal", "pf": "is worshipped by", "S": ["CHAOS GODS"], "O": ["VADELI"]}
+{"id": "P5-B-B0013-010", "v": "P", "inf": ["predicate"], "why": "'seized'=conquers (territory), more specific than defeat", "pf": "conquers"}
+{"id": "P5-B-B0013-011", "v": "P", "inf": ["predicate"], "why": "'sacked' implies plunder, approximated to conquers", "pf": "conquers"}
+{"id": "P5-B-B0013-012", "v": "P", "inf": ["predicate"], "why": "'led' fits leads (commands group), not standing rule", "pf": "leads"}
+{"id": "P5-B-B0013-013", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0013-014", "v": "P", "inf": ["subject"], "why": "'He' resolved to Dormal via context", "pf": "travels"}
+{"id": "P5-B-B0013-015", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0013-016", "v": "P", "inf": ["subject"], "why": "'He' resolved to Dormal via context", "pf": "discovers"}
+{"id": "P5-B-B0013-017", "v": "P", "inf": ["subject"], "why": "'He' resolved to Dormal via context", "pf": "departs from"}
+{"id": "P5-B-B0013-018", "v": "P", "inf": ["subject", "predicate"], "why": "'Vadeli sorcerers' subset generalized to all Vadeli", "pf": "conquers"}
+{"id": "P5-B-B0013-019", "v": "P", "inf": ["predicate"], "why": "'nearly defeated' means not actually won; fits fights not victory", "pf": "fights"}
+{"id": "P5-B-B0013-020", "v": "P", "inf": ["subject", "predicate"], "why": "'the first' resolved via context; 'decimated' fits kills better", "pf": "kills"}
+{"id": "P5-B-B0013-021", "v": "P", "inf": ["subject"], "why": "'the second' resolved via context, not named directly", "pf": "kills"}
+{"id": "P5-B-B0013-022", "v": "P", "inf": ["subject"], "why": "feared belief by sages (hedge), not asserted fact", "pf": "claims ancestry"}
+{"id": "P5-B-B0013-023", "v": "U", "inf": ["predicate"], "why": "'opened the seas' is an event caused, not crafting/summoning", "pf": "causes"}
+{"id": "P5-B-B0013-024", "v": "P", "inf": ["subject", "predicate"], "why": "Vadeli's claim (hedge); 'retired in' is dwelling not travel", "pf": "dwells at"}
+{"id": "P5-B-B0013-026", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0013-028", "v": "P", "inf": ["direct_object"], "why": "'his' pronoun resolved to Hrestol via context", "pf": "is child of"}
+{"id": "P5-B-B0013-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0013-030", "v": "U", "inf": ["predicate"], "why": "Bertalor names Aignor heir = appoints, not serving him", "pf": "appoints"}
+{"id": "P5-B-B0013-031", "v": "P", "inf": ["predicate"], "why": "'mated with' doesn't narrate a wedding ceremony", "pf": "is spouse of"}
+{"id": "P5-B-B0013-032", "v": "P", "inf": ["direct_object"], "why": "'their' pronoun resolved to Aignor and Seshna via context", "pf": "is child of"}
+{"id": "P5-B-B0013-033", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-B-B0013-034", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-B-B0013-035", "v": "P", "inf": ["subject"], "why": "'Their' pronoun resolved to Vormaino via context", "pf": "claims ancestry"}
+{"id": "P5-B-B0013-036", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0013-037", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0013-038", "v": "P", "inf": ["subject", "predicate"], "why": "'He' resolved to Valzain; 'guide' is softer than rule", "pf": "rules"}
+{"id": "P5-B-B0013-039", "v": "P", "inf": ["predicate"], "why": "'drove off' fits exiles/banishes specifically", "pf": "exiles / banishes"}
+{"id": "P5-B-B0013-040", "v": "P", "inf": ["subject"], "why": "'he' resolved to Telask via context", "pf": "transforms into"}
+{"id": "P5-B-B0013-041", "v": "P", "inf": ["subject", "indirect_object"], "why": "pronouns resolved via context; predicate has no indirect-object slot", "pf": "swallows / consumes"}
+{"id": "P5-B-B0013-042", "v": "U", "inf": ["predicate"], "why": "'god of X' fits has domain by convention, not embodies", "pf": "has domain"}
+{"id": "P5-B-B0013-043", "v": "U", "inf": ["predicate"], "why": "'goddess of X' pattern fits has domain by convention", "pf": "has domain"}
+{"id": "P5-B-B0013-044", "v": "U", "inf": ["predicate"], "why": "'lovers' isn't spouse; no marriage stated, fits loves/desires", "pf": "loves / desires"}
+{"id": "P5-B-B0013-045", "v": "P", "inf": ["subject"], "why": "'This god' assumed as Zaktirra from title, not named in quote", "pf": "serves"}
+{"id": "P5-B-B0013-046", "v": "U", "inf": ["predicate"], "why": "'tried to tempt' fits seduces; none of the given options fit", "pf": "seduces"}
+{"id": "P5-B-B0013-047", "v": "P", "inf": ["subject"], "why": "'their evil master' resolved to Master of the Ezdali", "pf": "kills"}
+{"id": "P5-B-B0013-048", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0013-049", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0013-050", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0013-051", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0013-052", "v": "P", "inf": ["direct_object"], "why": "parents identified via continuation from preceding clause", "pf": "is born from"}
+{"id": "P5-B-B0013-053", "v": "P", "inf": ["direct_object"], "why": "collective named in prior sentence, not in this quote span", "pf": "is member of"}
+{"id": "P5-B-B0013-054", "v": "P", "inf": ["direct_object"], "why": "collective named in prior sentence, not in this quote span", "pf": "is member of"}
+{"id": "P5-B-B0013-055", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0013-056", "v": "P", "inf": ["direct_object"], "why": "'most of' is partial, not entire Imperial-One-Lands", "pf": "shatters"}
+{"id": "P5-B-B0013-057", "v": "U", "inf": ["predicate"], "why": "'alters mythic station' is a placeholder; text supports appoints", "pf": "appoints"}
+{"id": "P5-B-B0014-001", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0014-002", "v": "U", "inf": ["predicate"], "why": "'wielded' means possesses/wields, not bestowing a gift", "pf": "possesses / wields"}
+{"id": "P5-B-B0014-003", "v": "U", "inf": ["predicate"], "why": "'founded' fits founds, not ongoing rule", "pf": "founds"}
+{"id": "P5-B-B0014-004", "v": "P", "inf": ["predicate"], "why": "placeholder predicate; 'later called' fits is synonym of", "pf": "is synonym of"}
+{"id": "P5-B-B0014-005", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0014-006", "v": "P", "inf": ["subject", "predicate"], "why": "'He' resolved via context; restorative act fits rescues/frees", "pf": "rescues / frees"}
+{"id": "P5-B-B0014-007", "v": "P", "inf": ["predicate"], "why": "'counselor' is advisory, loosely captured by serves", "pf": "serves"}
+{"id": "P5-B-B0014-008", "v": "P", "inf": ["subject"], "why": "'He' resolved to Enrono via context", "pf": "teaches"}
+{"id": "P5-B-B0014-009", "v": "P", "inf": ["direct_object"], "why": "'the dynasty' resolved to August-Rise via context, not named here", "pf": "rules"}
+{"id": "P5-B-B0014-010", "v": "U", "inf": ["subject", "predicate"], "why": "his behavior indirectly caused it; not his own direct founding act", "pf": "causes"}
+{"id": "P5-B-B0014-011", "v": "P", "inf": ["subject", "direct_object"], "why": "'the other Joserui' is a subset; only 'part of' Heavens affected", "pf": "shatters"}
+{"id": "P5-B-B0014-012", "v": "P", "inf": ["direct_object"], "why": "only the discarded part of Sky, not entire Sky, is identified", "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0014-013", "v": "P", "inf": ["predicate"], "why": "'fell from heavens' is a physical fall, not entering the underworld", "pf": "descends into"}
+{"id": "P5-B-B0014-014", "v": "U", "inf": ["direct_object", "predicate"], "why": "'Atrocity War' is an event name, not a combatant; fits causes", "pf": "causes"}
+{"id": "P5-B-B0014-015", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0014-016", "v": "U", "inf": ["subject", "predicate"], "why": "'He' resolved via context; 'led armies' fits leads, not travel", "pf": "leads"}
+{"id": "P5-B-B0014-017", "v": "P", "inf": ["predicate"], "why": "'drove off' fits exiles/banishes specifically", "pf": "exiles / banishes"}

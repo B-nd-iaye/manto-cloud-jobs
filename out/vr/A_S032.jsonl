@@ -1,0 +1,150 @@
+{"id": "P5-A-B0094-051", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0094-052", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0094-053", "v": "S", "inf": [], "why": "", "pf": "conquers"}
+{"id": "P5-A-B0094-054", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0094-055", "v": "U", "inf": ["predicate"], "why": "quote says gods die, not descend", "pf": "dies"}
+{"id": "P5-A-B0094-056", "v": "S", "inf": [], "why": "", "pf": "substitutes"}
+{"id": "P5-A-B0094-057", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0094-058", "v": "P", "inf": ["predicate"], "why": "quote says freeing, vague old predicate overstated", "pf": "rescues / frees"}
+{"id": "P5-A-B0094-059", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0094-060", "v": "U", "inf": ["predicate"], "why": "'rises' is appearance, not vague manifests", "pf": "appears"}
+{"id": "P5-A-B0094-061", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0094-062", "v": "U", "inf": ["predicate", "subject"], "why": "no agent named; Orlanth is object of freeing", "pf": "rescues / frees", "S": [], "O": ["ORLANTH"]}
+{"id": "P5-A-B0094-063", "v": "P", "inf": ["predicate"], "why": "acclamation is accession, not general rule", "pf": "accedes to rule"}
+{"id": "P5-A-B0094-064", "v": "U", "inf": ["predicate"], "why": "destruction is shattering, not defeat", "pf": "shatters"}
+{"id": "P5-A-B0094-065", "v": "U", "inf": ["predicate"], "why": "destruction is shattering, not defeat", "pf": "shatters"}
+{"id": "P5-A-B0094-066", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0094-067", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0094-068", "v": "S", "inf": [], "why": "", "pf": "conquers"}
+{"id": "P5-A-B0094-069", "v": "S", "inf": [], "why": "", "pf": "re-enacts"}
+{"id": "P5-A-B0094-070", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0094-071", "v": "U", "inf": ["subject", "predicate"], "why": "Argrath is agent lighting flame, not flame itself acting", "pf": "causes", "S": ["ARGRATH"], "O": ["FLAME OF SARTAR"]}
+{"id": "P5-A-B0094-072", "v": "P", "inf": ["predicate"], "why": "acclamation is accession, not general rule", "pf": "accedes to rule"}
+{"id": "P5-A-B0095-001", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0095-002", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0095-003", "v": "S", "inf": [], "why": "", "pf": "is spouse of"}
+{"id": "P5-A-B0095-004", "v": "U", "inf": ["direction"], "why": "worship reverses direction: deity is worshipped by people", "pf": "is worshipped by", "S": ["ORLANTH", "ERNALDA"], "O": ["HEORTLINGS"]}
+{"id": "P5-A-B0095-005", "v": "U", "inf": ["predicate", "object"], "why": "quote fragment does not state founding of rites", "pf": "REJECT"}
+{"id": "P5-A-B0095-006", "v": "P", "inf": ["predicate"], "why": "wagering is not exactly 'challenging'", "pf": "challenges"}
+{"id": "P5-A-B0095-007", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0095-008", "v": "P", "inf": ["predicate"], "why": "living off herds implies dominance not formal rule", "pf": "rules"}
+{"id": "P5-A-B0095-009", "v": "S", "inf": [], "why": "", "pf": "rides"}
+{"id": "P5-A-B0095-010", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0095-011", "v": "U", "inf": ["direction"], "why": "worship reverses direction: deities worshipped by Tarshites", "pf": "is worshipped by", "S": ["ERNALDA", "BARNTAR", "LIGHTBRINGERS"], "O": ["TARSHITES"]}
+{"id": "P5-A-B0095-012", "v": "P", "inf": ["predicate"], "why": "'Earth Mother' is a descriptive epithet, not separate name", "pf": "is epithet of"}
+{"id": "P5-A-B0095-013", "v": "P", "inf": ["predicate"], "why": "'Plowman' is a descriptive epithet, not separate name", "pf": "is epithet of"}
+{"id": "P5-A-B0095-014", "v": "U", "inf": ["direction"], "why": "worship reverses direction: deities worshipped by Tarshites", "pf": "is worshipped by", "S": ["SEVEN MOTHERS", "HON-EEL"], "O": ["LUNAR TARSHITES"]}
+{"id": "P5-A-B0095-015", "v": "S", "inf": [], "why": "", "pf": "protects"}
+{"id": "P5-A-B0095-016", "v": "U", "inf": ["direction"], "why": "worship reverses direction: goddess worshipped by illuminates", "pf": "is worshipped by", "S": ["RED GODDESS"], "O": ["ILLUMINATES"]}
+{"id": "P5-A-B0095-017", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0095-018", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0095-019", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0095-020", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0095-021", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0096-001", "v": "S", "inf": [], "why": "", "pf": "survives as relic"}
+{"id": "P5-A-B0096-002", "v": "S", "inf": [], "why": "", "pf": "survives as relic"}
+{"id": "P5-A-B0096-003", "v": "S", "inf": [], "why": "", "pf": "survives as relic"}
+{"id": "P5-A-B0096-004", "v": "S", "inf": [], "why": "", "pf": "survives as relic"}
+{"id": "P5-A-B0096-005", "v": "S", "inf": [], "why": "", "pf": "survives as relic"}
+{"id": "P5-A-B0096-006", "v": "S", "inf": [], "why": "", "pf": "survives as relic"}
+{"id": "P5-A-B0096-007", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0096-008", "v": "S", "inf": [], "why": "", "pf": "rides"}
+{"id": "P5-A-B0096-009", "v": "U", "inf": ["predicate"], "why": "surrendering kings submit, do not serve", "pf": "submits to"}
+{"id": "P5-A-B0097-001", "v": "P", "inf": ["object"], "why": "'Lunar demigoddess' is a category, not a named collective", "pf": "is member of"}
+{"id": "P5-A-B0097-002", "v": "P", "inf": ["predicate"], "why": "holding star's magic is embodying, not vague manifesting", "pf": "embodies"}
+{"id": "P5-A-B0097-003", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0097-004", "v": "S", "inf": [], "why": "", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0097-005", "v": "S", "inf": [], "why": "", "pf": "descends into"}
+{"id": "P5-A-B0097-006", "v": "S", "inf": [], "why": "", "pf": "departs from"}
+{"id": "P5-A-B0097-007", "v": "S", "inf": [], "why": "", "pf": "punishes"}
+{"id": "P5-A-B0097-008", "v": "U", "inf": ["object", "predicate"], "why": "bridge and river merely co-located, no stated relation", "pf": "REJECT"}
+{"id": "P5-A-B0097-009", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0097-010", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0097-011", "v": "U", "inf": ["direction"], "why": "Grandfather Mortal is the old form; Daka Fal is the new", "pf": "transforms into", "S": ["GRANDFATHER MORTAL"], "O": ["DAKA FAL"]}
+{"id": "P5-A-B0097-012", "v": "S", "inf": [], "why": "", "pf": "comes into being"}
+{"id": "P5-A-B0097-013", "v": "U", "inf": ["predicate"], "why": "quote states dying, not descent", "pf": "dies"}
+{"id": "P5-A-B0097-014", "v": "P", "inf": ["object", "predicate"], "why": "generalized to all souls; act is judging/assigning fate", "pf": "rules"}
+{"id": "P5-A-B0097-015", "v": "U", "inf": ["predicate"], "why": "witnessing is not servitude", "pf": "REJECT"}
+{"id": "P5-A-B0097-016", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0097-017", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0097-018", "v": "U", "inf": ["direction", "predicate"], "why": "the source teaches initiates, not initiates serving", "pf": "teaches", "S": ["ETERNAL SOURCE OF KNOWLEDGE"], "O": ["INITIATES OF LHANKOR MHY"]}
+{"id": "P5-A-B0097-019", "v": "S", "inf": [], "why": "", "pf": "resurrects"}
+{"id": "P5-A-B0097-020", "v": "S", "inf": [], "why": "", "pf": "transforms into"}
+{"id": "P5-A-B0097-021", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0098-001", "v": "U", "inf": ["direction"], "why": "Firewitch is the epithet, Cragspider the bearer", "pf": "is epithet of", "S": ["THE FIREWITCH"], "O": ["CRAGSPIDER"]}
+{"id": "P5-A-B0098-002", "v": "P", "inf": ["object"], "why": "'troll demigoddess' is a category, not named collective", "pf": "is member of"}
+{"id": "P5-A-B0098-003", "v": "U", "inf": ["predicate"], "why": "lair location is dwelling, not ruling", "pf": "dwells at"}
+{"id": "P5-A-B0098-004", "v": "S", "inf": [], "why": "", "pf": "rides"}
+{"id": "P5-A-B0098-005", "v": "U", "inf": ["predicate"], "why": "literal light source, not spiritual illumination of others", "pf": "REJECT"}
+{"id": "P5-A-B0098-006", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0098-007", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0098-008", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0098-009", "v": "P", "inf": ["predicate"], "why": "leading folk against is warfare, not generic fighting", "pf": "wages war on"}
+{"id": "P5-A-B0098-010", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0098-011", "v": "S", "inf": [], "why": "", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0098-012", "v": "S", "inf": [], "why": "", "pf": "aids"}
+{"id": "P5-A-B0098-013", "v": "U", "inf": ["direction"], "why": "Little Sun is the epithet, Yelmalio the bearer", "pf": "is epithet of", "S": ["THE LITTLE SUN"], "O": ["YELMALIO"]}
+{"id": "P5-A-B0098-014", "v": "S", "inf": [], "why": "", "pf": "re-enacts"}
+{"id": "P5-A-B0098-015", "v": "S", "inf": [], "why": "", "pf": "binds"}
+{"id": "P5-A-B0098-016", "v": "U", "inf": ["predicate"], "why": "quote says 'rescued', not general protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0098-017", "v": "S", "inf": [], "why": "", "pf": "bestows"}
+{"id": "P5-A-B0098-018", "v": "S", "inf": [], "why": "", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0099-001", "v": "S", "inf": [], "why": "", "pf": "bestows"}
+{"id": "P5-A-B0099-002", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0099-003", "v": "S", "inf": [], "why": "", "pf": "embodies"}
+{"id": "P5-A-B0099-004", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-A-B0099-005", "v": "S", "inf": [], "why": "", "pf": "survives as relic"}
+{"id": "P5-A-B0099-006", "v": "S", "inf": [], "why": "", "pf": "becomes celestial body"}
+{"id": "P5-A-B0099-007", "v": "U", "inf": ["direction"], "why": "worship reverses direction: deity worshipped by cults", "pf": "is worshipped by", "S": ["BLUE MOON"], "O": ["SECRETIVE CULTS OF HUMANS AND TROLLS"]}
+{"id": "P5-A-B0099-008", "v": "S", "inf": [], "why": "", "pf": "survives as relic"}
+{"id": "P5-A-B0099-009", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0099-010", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0099-011", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0099-012", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0099-013", "v": "P", "inf": ["predicate"], "why": "a hostile nickname is an epithet, not plain synonym", "pf": "is epithet of"}
+{"id": "P5-A-B0099-014", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0099-015", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0099-016", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0099-017", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0099-018", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0099-019", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0099-020", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-A-B0099-021", "v": "U", "inf": ["predicate"], "why": "a school/movement is founded, not a cult of a deity", "pf": "founds"}
+{"id": "P5-A-B0099-022", "v": "U", "inf": ["predicate", "object"], "why": "reshaping myths matches no listed status-change term", "pf": "REJECT"}
+{"id": "P5-A-B0099-023", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0099-024", "v": "S", "inf": [], "why": "", "pf": "descends into"}
+{"id": "P5-A-B0099-025", "v": "S", "inf": [], "why": "", "pf": "becomes celestial body"}
+{"id": "P5-A-B0099-026", "v": "U", "inf": ["predicate"], "why": "quote says liberated, not resurrected", "pf": "rescues / frees"}
+{"id": "P5-A-B0099-027", "v": "P", "inf": ["predicate"], "why": "participants gain access to magic, bestowal not explicit", "pf": "bestows"}
+{"id": "P5-A-B0099-028", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0099-029", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0099-030", "v": "U", "inf": ["predicate"], "why": "establishing a magical union is founding, not cult worship", "pf": "founds"}
+{"id": "P5-A-B0100-001", "v": "S", "inf": [], "why": "", "pf": "comes into being"}
+{"id": "P5-A-B0100-002", "v": "U", "inf": ["predicate"], "why": "appearing in sky is 'appears', not vague manifest", "pf": "appears"}
+{"id": "P5-A-B0100-003", "v": "U", "inf": ["predicate", "subject"], "why": "no rescuer named; Orlanth is the one freed", "pf": "rescues / frees", "S": [], "O": ["ORLANTH"]}
+{"id": "P5-A-B0100-004", "v": "U", "inf": ["direction", "predicate"], "why": "'Storm God' is an epithet naming Orlanth's bearer relation", "pf": "is epithet of", "S": ["STORM GOD"], "O": ["ORLANTH"]}
+{"id": "P5-A-B0100-005", "v": "S", "inf": [], "why": "", "pf": "bestows"}
+{"id": "P5-A-B0100-006", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0100-007", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0100-008", "v": "U", "inf": ["predicate"], "why": "rising in rebellion is waging war, not plain fighting", "pf": "wages war on"}
+{"id": "P5-A-B0100-009", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0100-010", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0100-011", "v": "U", "inf": ["predicate"], "why": "quote says 'initiated into', matching initiates into cult", "pf": "initiates into cult"}
+{"id": "P5-A-B0100-012", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0100-013", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0100-014", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0100-015", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0100-016", "v": "U", "inf": ["predicate"], "why": "'Death God' names his domain, not equation", "pf": "has domain", "O": ["DEATH"]}
+{"id": "P5-A-B0100-017", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0100-018", "v": "S", "inf": [], "why": "", "pf": "descends into"}
+{"id": "P5-A-B0100-019", "v": "S", "inf": [], "why": "", "pf": "bestows"}
+{"id": "P5-A-B0101-001", "v": "U", "inf": ["predicate"], "why": "being called demigods is category membership, not equation", "pf": "is member of"}
+{"id": "P5-A-B0101-002", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0101-003", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0101-004", "v": "S", "inf": [], "why": "", "pf": "conquers"}
+{"id": "P5-A-B0101-005", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0101-006", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0101-007", "v": "U", "inf": ["predicate"], "why": "becoming mortal is loss of status, not vague alteration", "pf": "loses status"}
+{"id": "P5-A-B0101-008", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0101-009", "v": "S", "inf": [], "why": "", "pf": "challenges"}
+{"id": "P5-A-B0101-010", "v": "S", "inf": [], "why": "", "pf": "rules"}

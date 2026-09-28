@@ -1,0 +1,150 @@
+{"id": "P5-A-B0131-039", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0131-040", "v": "U", "inf": ["predicate"], "why": "defeats too weak; quote says rite destroyed the kingdom", "pf": "shatters"}
+{"id": "P5-A-B0131-041", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0131-042", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0131-043", "v": "P", "inf": ["predicate"], "why": "verb missing in broken sentence, purpose only implied", "pf": "protects"}
+{"id": "P5-A-B0131-044", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0131-045", "v": "P", "inf": ["to"], "why": "'here' referring to League inferred from context", "pf": "travels"}
+{"id": "P5-A-B0131-046", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE OPENER"], "O": ["DORMAL"]}
+{"id": "P5-A-B0131-047", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0131-048", "v": "P", "inf": ["indirect_object"], "why": "'them' inferred as coastal people from context", "pf": "teaches"}
+{"id": "P5-A-B0131-049", "v": "S", "inf": [], "pf": "settles at"}
+{"id": "P5-A-B0131-050", "v": "P", "inf": ["predicate"], "why": "garbled quote, verb missing, conflict only implied", "pf": "wages war on"}
+{"id": "P5-A-B0131-051", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE BAD GOD"], "O": ["GBAJI"]}
+{"id": "P5-A-B0131-052", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0132-001", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0132-002", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE CREATOR"], "O": ["INVISIBLE GOD"]}
+{"id": "P5-A-B0132-003", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0132-004", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0132-005", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0132-006", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE SORCERER SUPREME"], "O": ["ZZABUR"]}
+{"id": "P5-A-B0132-007", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0132-008", "v": "P", "inf": ["subject"], "why": "'it' pronoun for Isle of Brithos inferred from context", "pf": "teaches"}
+{"id": "P5-A-B0132-009", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0132-010", "v": "U", "inf": ["predicate"], "why": "manifests invalid; Zzabur caused the event", "pf": "causes"}
+{"id": "P5-A-B0132-011", "v": "U", "inf": ["predicate"], "why": "'opened the Oceans' is causing a phenomenon, not revealing a secret", "pf": "causes"}
+{"id": "P5-A-B0132-012", "v": "U", "inf": ["predicate"], "why": "agent (God) named, not spontaneous coming-into-being", "pf": "conceives", "S": ["INVISIBLE GOD"], "O": ["CREATION"]}
+{"id": "P5-A-B0132-013", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE MIND OF GOD"], "O": ["MALKION"]}
+{"id": "P5-A-B0132-014", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0132-015", "v": "U", "inf": ["predicate"], "why": "'brought Death upon us' causes an event, not revealing knowledge", "pf": "causes", "O": ["DEATH"]}
+{"id": "P5-A-B0132-016", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0132-017", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0132-018", "v": "U", "inf": ["predicate"], "why": "quote says betrayed, not merely departed", "pf": "betrays"}
+{"id": "P5-A-B0132-019", "v": "U", "inf": ["predicate"], "why": "'blasted into nothingness' is dying, not a journey to the underworld", "pf": "dies"}
+{"id": "P5-A-B0132-020", "v": "S", "inf": [], "pf": "performs sacrifice", "O": ["MALKION"]}
+{"id": "P5-A-B0132-021", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0132-022", "v": "U", "inf": ["predicate"], "why": "not enchanting; Zzabur caused the sun's reappearance via spell", "pf": "causes"}
+{"id": "P5-A-B0132-023", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0132-024", "v": "U", "inf": ["predicate"], "why": "making first knights founds an order, not a cult", "pf": "founds"}
+{"id": "P5-A-B0132-025", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0132-026", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0132-027", "v": "U", "inf": ["predicate"], "why": "agent (False Gods) named as maker", "pf": "conceives", "S": ["THE FALSE GODS"], "O": ["GBAJI"]}
+{"id": "P5-A-B0132-028", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0132-029", "v": "S", "inf": [], "pf": "loses status"}
+{"id": "P5-A-B0132-030", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0132-031", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0132-032", "v": "U", "inf": ["predicate"], "why": "'written by God' implies crafting, not biological birth", "pf": "crafts", "S": ["INVISIBLE GOD"], "O": ["THE ABIDING BOOK"]}
+{"id": "P5-A-B0132-033", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0132-034", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0132-035", "v": "U", "inf": ["predicate"], "why": "'destroyed them' means killed, not merely defeated", "pf": "kills"}
+{"id": "P5-A-B0132-036", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0132-037", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0132-038", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0132-039", "v": "S", "inf": [], "pf": "punishes"}
+{"id": "P5-A-B0132-040", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0132-041", "v": "U", "inf": ["predicate"], "why": "manifests invalid; Zzabur caused the event", "pf": "causes"}
+{"id": "P5-A-B0132-042", "v": "U", "inf": ["predicate"], "why": "'drowned' is destruction of land, not combat", "pf": "shatters"}
+{"id": "P5-A-B0132-043", "v": "U", "inf": ["predicate"], "why": "'destroyed' Seshnela is shattering, not mere defeat", "pf": "shatters"}
+{"id": "P5-A-B0132-044", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0132-045", "v": "S", "inf": [], "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-A-B0132-046", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0132-047", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0132-048", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0132-049", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0132-050", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0132-051", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0132-052", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0132-053", "v": "U", "inf": ["predicate"], "why": "agent (Dormal) named as creator", "pf": "conceives", "S": ["DORMAL"], "O": ["THE OPENING"]}
+{"id": "P5-A-B0132-054", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0132-055", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0132-056", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE CREATOR OF THE WORLD"], "O": ["INVISIBLE GOD"]}
+{"id": "P5-A-B0132-057", "v": "U", "inf": ["predicate"], "why": "agent (God) named as creator", "pf": "conceives", "S": ["INVISIBLE GOD"], "O": ["THE WORLD OF HUMANS"]}
+{"id": "P5-A-B0132-058", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0132-059", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0133-001", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0133-002", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0133-003", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0133-004", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0133-005", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0133-006", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0133-007", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0133-008", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0133-009", "v": "U", "inf": ["predicate"], "why": "agent (God) named as creator", "pf": "conceives", "S": ["INVISIBLE GOD"], "O": ["MALKION"]}
+{"id": "P5-A-B0133-010", "v": "S", "inf": [], "pf": "is epithet of", "S": ["FIRST PROPHET"], "O": ["MALKION"]}
+{"id": "P5-A-B0133-011", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0133-012", "v": "S", "inf": [], "pf": "is epithet of", "S": ["FIRST PROPHET"], "O": ["MALKION"]}
+{"id": "P5-A-B0133-013", "v": "P", "inf": ["predicate"], "why": "'teachings unified' is an effect, not a direct teaching event", "pf": "teaches"}
+{"id": "P5-A-B0133-014", "v": "S", "inf": [], "pf": "loses status"}
+{"id": "P5-A-B0133-015", "v": "S", "inf": [], "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-A-B0133-016", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0133-017", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0133-018", "v": "U", "inf": ["predicate"], "why": "'destroyed' Gbaji implies killed, not merely defeated", "pf": "kills"}
+{"id": "P5-A-B0133-019", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0133-020", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0133-021", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0133-022", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0133-023", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0133-024", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0133-025", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0133-026", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0133-027", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0133-028", "v": "U", "inf": ["predicate"], "why": "'redeemed her soul' is healing/saving, not gift-giving", "pf": "heals"}
+{"id": "P5-A-B0133-029", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0133-030", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0133-031", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0133-032", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0133-033", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0133-034", "v": "U", "inf": ["predicate"], "why": "'destroyed' Autarchy is conquest of a polity, not mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0133-035", "v": "U", "inf": ["predicate"], "why": "'cursed' is curses, not a bestowed geas", "pf": "curses"}
+{"id": "P5-A-B0133-036", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0133-037", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0133-038", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0133-039", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0133-040", "v": "U", "inf": ["predicate"], "why": "'led by' is group leadership, not rule over a polity", "pf": "leads"}
+{"id": "P5-A-B0133-041", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0133-042", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0133-043", "v": "U", "inf": ["subject", "object"], "why": "tribe worships Lion; deity should be subject of worship relation", "pf": "is worshipped by", "S": ["LION"], "O": ["SANDRYA TRIBE"]}
+{"id": "P5-A-B0133-044", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0133-045", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0134-001", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0134-002", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE HORSE GOD"], "O": ["GALANIN"]}
+{"id": "P5-A-B0134-003", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0134-004", "v": "U", "inf": ["predicate"], "why": "'devotee' implies worship, not generic service", "pf": "is worshipped by", "S": ["ARKAT"], "O": ["ARGIN TERROR"]}
+{"id": "P5-A-B0134-005", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0134-006", "v": "U", "inf": ["predicate"], "why": "manifests invalid; Boristi create the monstrosities", "pf": "conceives"}
+{"id": "P5-A-B0134-007", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0134-008", "v": "U", "inf": ["predicate"], "why": "'persecuted...down through centuries' is sustained pursuit, not combat", "pf": "hunts"}
+{"id": "P5-A-B0134-009", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0134-010", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0134-011", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0134-012", "v": "S", "inf": [], "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-A-B0134-013", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0134-014", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0134-015", "v": "U", "inf": ["subject", "object"], "why": "'venerated by' is worship, deity should be subject", "pf": "is worshipped by", "S": ["ARKAT"], "O": ["ORDER OF SAINT ARKAT THE LIBERATOR"]}
+{"id": "P5-A-B0134-016", "v": "U", "inf": ["predicate"], "why": "martyrdom/dismemberment is dying, not an underworld journey", "pf": "dies"}
+{"id": "P5-A-B0134-017", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0134-018", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0134-019", "v": "U", "inf": ["subject", "object"], "why": "'venerated by' is worship, deity should be subject", "pf": "is worshipped by", "S": ["ARKAT"], "O": ["WORLD OF LOSERS MOVEMENT"]}
+{"id": "P5-A-B0134-020", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0134-021", "v": "U", "inf": ["predicate"], "why": "'destroyed' implies killed, not merely defeated", "pf": "kills"}
+{"id": "P5-A-B0134-022", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0134-023", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0134-024", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0134-025", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0134-026", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0134-027", "v": "U", "inf": ["subject", "object"], "why": "'venerates' is worship, deity should be subject", "pf": "is worshipped by", "S": ["ARKAT"], "O": ["GUILD OF CHAOS MONKS"]}
+{"id": "P5-A-B0134-028", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0134-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0134-030", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0134-031", "v": "U", "inf": ["predicate"], "why": "agent (Machine) named as maker, not spontaneous birth", "pf": "conceives", "S": ["MACHINE"], "O": ["EIGHT ANCIENT MINERALS", "MOSTALI"]}
+{"id": "P5-A-B0134-032", "v": "S", "inf": [], "pf": "is identified as"}

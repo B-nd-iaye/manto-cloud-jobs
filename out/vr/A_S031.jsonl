@@ -1,0 +1,150 @@
+{"id": "P5-A-B0092-001", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0092-002", "v": "U", "inf": ["predicate"], "why": "manifests wrong; text states residing, not appearing", "pf": "dwells at", "O": ["GREAT HOSPITAL"]}
+{"id": "P5-A-B0092-003", "v": "U", "inf": ["predicate"], "why": "manifests wrong; text describes dwelling since earliest times", "pf": "dwells at", "O": ["GREAT LIBRARY OF NOCHET"]}
+{"id": "P5-A-B0092-004", "v": "U", "inf": ["predicate"], "why": "manifests wrong; text simply says Orlanth lives there", "pf": "dwells at", "O": ["STORM TEMPLE"]}
+{"id": "P5-A-B0092-005", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0092-006", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0092-007", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0092-008", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0092-009", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0092-010", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0092-011", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0092-012", "v": "P", "inf": ["predicate"], "why": "'birthplace of' implies is born from, not spontaneous emergence", "pf": "is born from"}
+{"id": "P5-A-B0092-013", "v": "P", "inf": ["direct_object"], "why": "'their' referent (Praxians) inferred, not named in quote", "pf": "protects"}
+{"id": "P5-A-B0092-014", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0092-015", "v": "U", "inf": ["predicate"], "why": "manifests wrong; text says Kyger Litor lives there", "pf": "dwells at", "O": ["CASTLE OF LEAD"]}
+{"id": "P5-A-B0092-016", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["SHADOWS"], "O": ["TROLLS"]}
+{"id": "P5-A-B0092-017", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0092-018", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0092-019", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0092-020", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0092-021", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0092-022", "v": "U", "inf": ["predicate"], "why": "manifests wrong; text simply states residence", "pf": "dwells at", "O": ["SHAKER'S TEMPLE"]}
+{"id": "P5-A-B0092-023", "v": "P", "inf": ["direct_object"], "why": "temple, not the cult itself, is what was founded", "pf": "founds"}
+{"id": "P5-A-B0092-024", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0092-025", "v": "P", "inf": ["predicate"], "why": "'pursued' fits hunts better than generic fights", "pf": "hunts"}
+{"id": "P5-A-B0092-026", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0092-027", "v": "P", "inf": ["to"], "why": "destination Skyfall Lake not stated in this quote", "pf": "travels"}
+{"id": "P5-A-B0092-028", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0092-029", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0092-030", "v": "P", "inf": ["predicate"], "why": "'tributary to' means submits to, not generic serves", "pf": "submits to"}
+{"id": "P5-A-B0092-031", "v": "P", "inf": ["subject"], "why": "sacrificer not named; passive construction", "pf": "performs sacrifice"}
+{"id": "P5-A-B0092-032", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0092-033", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["DARKNESS"], "O": ["KITORI TRIBE"]}
+{"id": "P5-A-B0093-001", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0093-002", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0093-003", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0093-004", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0093-005", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0093-006", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0093-007", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0093-008", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0093-009", "v": "U", "inf": ["predicate"], "why": "'alters mythic station' too vague; text describes a rescue", "pf": "rescues / frees"}
+{"id": "P5-A-B0093-010", "v": "P", "inf": ["indirect_object"], "why": "Argrath referenced only via pronoun 'he'", "pf": "bestows"}
+{"id": "P5-A-B0093-011", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0093-012", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0093-013", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-014", "v": "P", "inf": ["predicate"], "why": "'leader of rebels against' fits sustained wages war on", "pf": "wages war on"}
+{"id": "P5-A-B0093-015", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0093-016", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0093-017", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0093-018", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0093-019", "v": "P", "inf": ["predicate"], "why": "'acclaimed King' is an accession event, not ongoing rule", "pf": "accedes to rule"}
+{"id": "P5-A-B0093-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0093-021", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0093-022", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0093-023", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-024", "v": "U", "inf": ["subject", "direct_object"], "why": "named creator Cragspider requires conceives, not spontaneous emergence", "pf": "conceives", "S": ["CRAGSPIDER"], "O": ["GREAT TROLLS"]}
+{"id": "P5-A-B0093-025", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-026", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0093-027", "v": "P", "inf": ["predicate"], "why": "'hurled themselves...to kill' is an attack, invades/raids fits better", "pf": "invades / raids"}
+{"id": "P5-A-B0093-028", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0093-029", "v": "U", "inf": ["predicate"], "why": "praying to Orlanth for aid is invocation, not service", "pf": "summons / invokes"}
+{"id": "P5-A-B0093-030", "v": "P", "inf": ["predicate"], "why": "quote shows a strike but doesn't confirm destruction", "pf": "shatters"}
+{"id": "P5-A-B0093-031", "v": "P", "inf": ["in_on_at"], "why": "Boldhome location not stated in this quote", "pf": "appears"}
+{"id": "P5-A-B0093-032", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0093-033", "v": "U", "inf": ["subject", "direct_object"], "why": "named creator Delecti requires conceives, not spontaneous emergence", "pf": "conceives", "S": ["DELECTI"], "O": ["UPLAND MARSH"]}
+{"id": "P5-A-B0093-034", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0093-035", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-036", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0093-037", "v": "U", "inf": ["predicate"], "why": "text says 'invasion', stronger than mere descent", "pf": "invades / raids"}
+{"id": "P5-A-B0093-038", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0093-039", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-040", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0093-041", "v": "P", "inf": ["predicate"], "why": "'initiated into' fits initiates into cult more precisely", "pf": "initiates into cult"}
+{"id": "P5-A-B0093-042", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-043", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0093-044", "v": "P", "inf": ["subject", "direct_object"], "why": "'took the name' is taking a title; direction reversed", "pf": "takes title", "S": ["FIRST BEARER OF THE HEAD"], "O": ["SINGLE MATRON WOMAN"]}
+{"id": "P5-A-B0093-045", "v": "P", "inf": ["predicate"], "why": "'aided' is aids, more precise than generic serves", "pf": "aids"}
+{"id": "P5-A-B0093-046", "v": "P", "inf": ["subject", "direct_object"], "why": "'took the name' is taking a title; direction reversed", "pf": "takes title", "S": ["SECOND BEARER OF THE HEAD"], "O": ["WITH BITTER HEART"]}
+{"id": "P5-A-B0093-047", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0093-048", "v": "P", "inf": ["subject", "direct_object"], "why": "'took the name' is taking a title; direction reversed", "pf": "takes title", "S": ["THIRD BEARER OF THE HEAD"], "O": ["REACHES ALL"]}
+{"id": "P5-A-B0093-049", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0093-050", "v": "P", "inf": ["direct_object"], "why": "gift itself unnamed, only recipient stated", "pf": "bestows"}
+{"id": "P5-A-B0093-051", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0093-052", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0093-053", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-054", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0093-055", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0093-056", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0093-057", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0093-058", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-059", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-060", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0093-061", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-062", "v": "U", "inf": ["predicate"], "why": "'reincarnated' implies resurrection, not vague manifestation", "pf": "resurrects"}
+{"id": "P5-A-B0093-063", "v": "U", "inf": ["subject", "direct_object"], "why": "named creator Ironhoof requires conceives, not spontaneous emergence", "pf": "conceives", "S": ["IRONHOOF"], "O": ["GRAZELAND PONY BREEDERS"]}
+{"id": "P5-A-B0093-064", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0093-065", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-A-B0093-066", "v": "P", "inf": ["predicate"], "why": "'lord of all horses' is a domain, not polity rule", "pf": "has domain"}
+{"id": "P5-A-B0093-067", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0093-068", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0094-001", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0094-002", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0094-003", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0094-004", "v": "U", "inf": ["predicate"], "why": "'destined to reappear' implies resurrection, not vague manifestation", "pf": "resurrects"}
+{"id": "P5-A-B0094-005", "v": "P", "inf": ["predicate"], "why": "'sacked'/'cleansed' fits conquers better than generic defeats", "pf": "conquers"}
+{"id": "P5-A-B0094-006", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0094-008", "v": "P", "inf": ["predicate"], "why": "'cleansed Prax of' means drove out, i.e. exiles/banishes", "pf": "exiles / banishes"}
+{"id": "P5-A-B0094-009", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0094-010", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0094-011", "v": "P", "inf": ["predicate"], "why": "'warred against...entire life' is sustained wages war on", "pf": "wages war on"}
+{"id": "P5-A-B0094-012", "v": "P", "inf": ["predicate"], "why": "'acclaimed Prince' is an accession event", "pf": "accedes to rule"}
+{"id": "P5-A-B0094-013", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0094-014", "v": "P", "inf": ["predicate"], "why": "'conquering' explicit, more precise than generic defeats", "pf": "conquers"}
+{"id": "P5-A-B0094-015", "v": "P", "inf": ["predicate"], "why": "'became King of' is an accession event", "pf": "accedes to rule"}
+{"id": "P5-A-B0094-016", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0094-017", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0094-018", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0094-019", "v": "P", "inf": ["predicate"], "why": "'head of' a family fits leads better than rules of a polity", "pf": "leads"}
+{"id": "P5-A-B0094-020", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0094-021", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0094-022", "v": "P", "inf": ["predicate"], "why": "'Revered...as' indicates honorific epithet, not alt name", "pf": "is epithet of"}
+{"id": "P5-A-B0094-023", "v": "P", "inf": ["predicate"], "why": "'took Whitewall' means captured a fortress, not defeated a being", "pf": "captures"}
+{"id": "P5-A-B0094-024", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0094-025", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0094-026", "v": "P", "inf": ["predicate"], "why": "'High Priest of' is holding an office, more precise than generic membership", "pf": "holds office in"}
+{"id": "P5-A-B0094-027", "v": "P", "inf": ["predicate"], "why": "a nickname given by others is an epithet, not alt name", "pf": "is epithet of"}
+{"id": "P5-A-B0094-028", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0094-029", "v": "P", "inf": ["predicate"], "why": "destroying troll factions (people) fits defeats, shatters is for objects", "pf": "defeats"}
+{"id": "P5-A-B0094-030", "v": "P", "inf": ["predicate"], "why": "'conquered' stated explicitly, more precise than defeats", "pf": "conquers"}
+{"id": "P5-A-B0094-031", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0094-032", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0094-033", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0094-034", "v": "P", "inf": ["subject", "direct_object"], "why": "'change their name to' is taking a title; direction reversed", "pf": "takes title", "S": ["FORCES OF THE PURE HORSE TRIBE"], "O": ["GRAZELANDERS"]}
+{"id": "P5-A-B0094-035", "v": "P", "inf": ["predicate"], "why": "'conquers' stated explicitly, more precise than defeats", "pf": "conquers"}
+{"id": "P5-A-B0094-036", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0094-037", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0094-038", "v": "P", "inf": ["predicate"], "why": "'epic campaign against' fits sustained wages war on", "pf": "wages war on"}
+{"id": "P5-A-B0094-039", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0094-040", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0094-041", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0094-042", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0094-043", "v": "P", "inf": ["predicate"], "why": "'becomes...king' is an accession event", "pf": "accedes to rule"}
+{"id": "P5-A-B0094-044", "v": "U", "inf": ["subject", "direct_object"], "why": "named founder Sartar requires founds, not spontaneous emergence", "pf": "founds", "S": ["SARTAR"], "O": ["BOLDHOME"]}
+{"id": "P5-A-B0094-045", "v": "P", "inf": ["predicate"], "why": "'is named king' is an accession event, not ongoing rule", "pf": "accedes to rule"}
+{"id": "P5-A-B0094-046", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0094-047", "v": "P", "inf": ["predicate"], "why": "'becomes King of' is an accession event", "pf": "accedes to rule"}
+{"id": "P5-A-B0094-048", "v": "U", "inf": ["subject", "direct_object"], "why": "named agent Sartar lighting the flame requires conceives, not spontaneous emergence", "pf": "conceives", "S": ["SARTAR"], "O": ["FLAME OF SARTAR"]}
+{"id": "P5-A-B0094-049", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0094-050", "v": "P", "inf": ["predicate"], "why": "'drives the Lunars out' is exiles/banishes, more precise than defeats", "pf": "exiles / banishes"}

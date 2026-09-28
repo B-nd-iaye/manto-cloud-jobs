@@ -1,0 +1,150 @@
+{"id": "P5-A-B0009-047", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0009-048", "v": "S", "inf": [], "pf": "loses status"}
+{"id": "P5-A-B0009-049", "v": "P", "inf": ["subject"], "why": "'her' referent (Xiola Umbar) inferred from context outside quote", "pf": "is sibling of"}
+{"id": "P5-A-B0009-050", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0009-051", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0009-052", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0009-053", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0009-054", "v": "P", "inf": ["predicate"], "why": "'enslaved' implies stronger domination than mere ruling", "pf": "binds"}
+{"id": "P5-A-B0009-055", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0009-056", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0009-057", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0009-058", "v": "P", "inf": ["predicate"], "why": "'worshipped' denotes worship not service", "pf": "is worshipped by", "S": ["SUN"], "O": ["IMPALA TRIBE"]}
+{"id": "P5-A-B0009-059", "v": "P", "inf": ["predicate"], "why": "praising the god indicates worship not servitude", "pf": "is worshipped by", "S": ["ZORAK ZORAN"], "O": ["TROLLS"]}
+{"id": "P5-A-B0010-001", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0010-002", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0010-003", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0010-004", "v": "P", "inf": ["predicate"], "why": "'implacable foe' states enmity, not an active fight", "pf": "hates"}
+{"id": "P5-A-B0010-005", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0010-006", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0010-007", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0010-008", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0010-009", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0010-010", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0010-011", "v": "P", "inf": ["predicate"], "why": "'succeeded' doesn't specify wounding; effect inferred", "pf": "wounds"}
+{"id": "P5-A-B0010-012", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0010-013", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0010-014", "v": "P", "inf": ["predicate"], "why": "'invaded' is more specific than generic 'fights'", "pf": "invades / raids"}
+{"id": "P5-A-B0010-015", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0010-016", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0010-017", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0010-018", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0010-019", "v": "P", "inf": ["direct_object"], "why": "'this' task not named in this quote segment", "pf": "fights"}
+{"id": "P5-A-B0010-020", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0010-021", "v": "P", "inf": ["direct_object"], "why": "no ruled entity named, only residence location stated", "pf": "dwells at", "O": ["CITY OF BLACK GLASS"]}
+{"id": "P5-A-B0010-022", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0010-023", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0010-024", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0010-025", "v": "S", "inf": [], "pf": "is deified", "O": ["ARACHNE SOLARA"]}
+{"id": "P5-A-B0010-026", "v": "P", "inf": ["predicate"], "why": "'revered/worshipped' is worship not generic service", "pf": "is worshipped by", "S": ["CRAGSPIDER"], "O": ["TROLLS"]}
+{"id": "P5-A-B0010-027", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0010-028", "v": "P", "inf": ["predicate"], "why": "'aided' is assistance not protective guarding", "pf": "aids"}
+{"id": "P5-A-B0010-029", "v": "P", "inf": ["predicate"], "why": "saving wounded dragons' wings indicates healing not protection", "pf": "heals"}
+{"id": "P5-A-B0010-030", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0010-031", "v": "P", "inf": ["subject", "direct_object"], "why": "maker named (Kyger Litor), fits crafting not mere transformation", "pf": "crafts", "S": ["KYGER LITOR"], "O": ["MUSICAL DRUMS"]}
+{"id": "P5-A-B0010-032", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0010-033", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0010-034", "v": "P", "inf": ["predicate"], "why": "'worshipped' is worship not generic service", "pf": "is worshipped by", "S": ["KYGER LITOR"], "O": ["KAJAK-AB THE BRAINEATER"]}
+{"id": "P5-A-B0010-035", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0010-036", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0010-037", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0010-038", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0010-039", "v": "P", "inf": ["predicate"], "why": "'worshipped' is worship not generic service", "pf": "is worshipped by", "S": ["ZORAK ZORAN"], "O": ["VAMARGIC EYE-NECKLACE"]}
+{"id": "P5-A-B0010-040", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0010-041", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0010-042", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0010-043", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0010-044", "v": "P", "inf": ["predicate"], "why": "'give minor help' indicates aiding, not general protection", "pf": "aids"}
+{"id": "P5-A-B0010-045", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0010-046", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0010-047", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0010-048", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0010-049", "v": "P", "inf": ["predicate"], "why": "corpses on altars is ritual burial/invocation, not dedicating a crafted relic", "pf": "dedicates relic"}
+{"id": "P5-A-B0010-050", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0010-051", "v": "P", "inf": ["predicate"], "why": "'sealed off with great magics' indicates imbuing power", "pf": "imbues"}
+{"id": "P5-A-B0010-052", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0010-053", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0010-054", "v": "P", "inf": ["predicate"], "why": "'captured' fits capturing more precisely than binding", "pf": "captures"}
+{"id": "P5-A-B0010-055", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0010-056", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0010-057", "v": "P", "inf": ["predicate"], "why": "'accepted worship' reflects joining a cult, not generic service", "pf": "is member of"}
+{"id": "P5-A-B0010-058", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0010-059", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0010-060", "v": "P", "inf": ["predicate"], "why": "'likely' hedges the cult membership as speculation", "pf": "is member of"}
+{"id": "P5-A-B0010-061", "v": "P", "inf": ["predicate"], "why": "explicitly labeled 'unreliable tradition,' weakening the identification", "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0010-062", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0010-063", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0010-064", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0010-065", "v": "P", "inf": ["direct_object"], "why": "apposition ambiguous between synonym and a located part within Chaos", "pf": "is synonym of"}
+{"id": "P5-A-B0010-066", "v": "P", "inf": ["predicate"], "why": "'lay' denotes location/existence, not an active manifestation", "pf": "dwells at"}
+{"id": "P5-A-B0010-067", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0010-068", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0010-069", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0011-001", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-A-B0011-002", "v": "P", "inf": ["predicate"], "why": "'imposed dualistic concepts' is a causal effect, not simple manifestation", "pf": "causes"}
+{"id": "P5-A-B0011-003", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0011-004", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-005", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-006", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-007", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-008", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0011-009", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0011-010", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-011", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0011-012", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0011-013", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0011-014", "v": "S", "inf": [], "pf": "has domain", "O": ["COMPASSION AND MERCY"]}
+{"id": "P5-A-B0011-015", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0011-016", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0011-017", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-018", "v": "P", "inf": ["predicate"], "why": "agent explicitly named, fits creative agency not passive emergence", "pf": "conceives", "S": ["GLORANTHA"], "O": ["WORLD"]}
+{"id": "P5-A-B0011-019", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-020", "v": "P", "inf": ["predicate"], "why": "'claimed' signals disputed/uncertain parentage", "pf": "is child of"}
+{"id": "P5-A-B0011-021", "v": "P", "inf": ["predicate"], "why": "attributed only to one movement's speculative identification", "pf": "is spouse of"}
+{"id": "P5-A-B0011-022", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-023", "v": "U", "inf": [], "why": "quote denies the union ('no known cult... has neither husband')", "pf": "REJECT"}
+{"id": "P5-A-B0011-024", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0011-025", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0011-026", "v": "U", "inf": [], "why": "Glorantha is the one shattered (patient), not agent of shattering", "pf": "loses status"}
+{"id": "P5-A-B0011-027", "v": "P", "inf": ["predicate"], "why": "agent named (Celestial Court), fits creative act not spontaneous emergence", "pf": "conceives", "S": ["CELESTIAL COURT"], "O": ["WORLD"]}
+{"id": "P5-A-B0011-028", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0011-029", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0011-030", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0011-031", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0011-032", "v": "P", "inf": ["predicate"], "why": "agent named (Acos as architect), fits crafting not spontaneous emergence", "pf": "crafts", "S": ["ACOS"], "O": ["COSMIC MOUNTAIN"]}
+{"id": "P5-A-B0011-033", "v": "S", "inf": [], "pf": "has domain", "O": ["STABILITY"]}
+{"id": "P5-A-B0011-034", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0011-035", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0011-036", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-037", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0011-038", "v": "P", "inf": ["predicate"], "why": "'woke' implies awakening an existing being, not coming into being", "pf": "awakens"}
+{"id": "P5-A-B0011-039", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0011-040", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0011-041", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0011-042", "v": "P", "inf": ["predicate"], "why": "'abuse' is broader mistreatment, not clearly physical wounding", "pf": "wounds"}
+{"id": "P5-A-B0011-043", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0011-044", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0011-045", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0011-046", "v": "S", "inf": [], "pf": "loses status"}
+{"id": "P5-A-B0011-047", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0011-048", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0011-049", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0011-050", "v": "P", "inf": ["predicate"], "why": "'receiving worship from' indicates worship direction, not service", "pf": "is worshipped by", "S": ["CELESTIAL COURT"], "O": ["GREAT ELEMENTALS"]}
+{"id": "P5-A-B0011-051", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0011-052", "v": "S", "inf": [], "pf": "has domain", "O": ["STABILITY"]}
+{"id": "P5-A-B0011-053", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0011-054", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0011-055", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0011-056", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0011-057", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0011-058", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0011-059", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0011-060", "v": "P", "inf": ["predicate"], "why": "'was that defense' describes a static role, not an active fight", "pf": "fights"}
+{"id": "P5-A-B0011-061", "v": "P", "inf": ["predicate"], "why": "static defensive description, not active battle", "pf": "fights"}
+{"id": "P5-A-B0011-062", "v": "P", "inf": ["predicate"], "why": "maker explicitly named (Darkness Goddess), fits agentive creation", "pf": "conceives", "S": ["DAME DARKNESS"], "O": ["SCORPIONS"]}
+{"id": "P5-A-B0011-063", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0012-001", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0012-002", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0012-003", "v": "P", "inf": ["predicate"], "why": "'tore apart forever' likely denotes cosmic separation, not physical wounding", "pf": "wounds"}
+{"id": "P5-A-B0012-004", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0012-005", "v": "S", "inf": [], "pf": "is member of"}

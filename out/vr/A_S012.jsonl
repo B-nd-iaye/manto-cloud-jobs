@@ -1,0 +1,150 @@
+{"id": "P5-A-B0024-014", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0024-015", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0024-016", "v": "P", "inf": ["predicate"], "why": "'secretly loyal to' implies allegiance, not explicit service", "pf": "serves"}
+{"id": "P5-A-B0024-017", "v": "P", "inf": ["object"], "why": "realm as Dara Happa/empire inferred beyond 'Tripolis'", "pf": "accedes to rule"}
+{"id": "P5-A-B0024-018", "v": "U", "inf": [], "why": "quote calls Jannisor an ally, not a servant", "pf": "allies with"}
+{"id": "P5-A-B0024-019", "v": "U", "inf": [], "why": "quote says 'aided', not 'served'", "pf": "aids"}
+{"id": "P5-A-B0024-020", "v": "U", "inf": [], "why": "quote says 'aided', weaker than 'protects'", "pf": "aids"}
+{"id": "P5-A-B0024-021", "v": "P", "inf": ["predicate", "object"], "why": "gifts/mercenaries sent, not specifically 'magic'", "pf": "bestows"}
+{"id": "P5-A-B0024-022", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0024-023", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0024-024", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0024-025", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0024-026", "v": "P", "inf": ["subject"], "why": "pronoun 'her' resolved to Erian via outside context", "pf": "defeats"}
+{"id": "P5-A-B0024-027", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0024-028", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0024-029", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0024-030", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0024-031", "v": "U", "inf": [], "why": "'embodies' is for Runes/elements; this is incarnation of a deity", "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0024-032", "v": "P", "inf": ["predicate"], "why": "'went to war' is sustained conflict, stronger than plain 'fights'", "pf": "wages war on"}
+{"id": "P5-A-B0024-033", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0024-034", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0024-035", "v": "P", "inf": ["predicate"], "why": "'assaulting' a city implies conquest, more than generic defeat", "pf": "conquers"}
+{"id": "P5-A-B0024-036", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0024-037", "v": "P", "inf": ["predicate"], "why": "'drove off' is expulsion, not just defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0024-038", "v": "P", "inf": ["predicate"], "why": "'led to a conversion' is causal, not direct initiation act", "pf": "initiates into cult"}
+{"id": "P5-A-B0024-039", "v": "P", "inf": ["predicate"], "why": "'laid waste' implies raiding/destruction, not simple defeat", "pf": "invades / raids"}
+{"id": "P5-A-B0024-040", "v": "P", "inf": ["object"], "why": "Lunar Army as opponent not named in this quote segment", "pf": "fights"}
+{"id": "P5-A-B0024-041", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0024-042", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0024-043", "v": "P", "inf": ["predicate"], "why": "'destroyed' stronger than 'defeats', no exact term for army annihilation", "pf": "defeats"}
+{"id": "P5-A-B0024-044", "v": "U", "inf": [], "why": "'Son of the Morning' is a descriptive title, an epithet not a synonym", "pf": "is epithet of"}
+{"id": "P5-A-B0024-045", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0024-046", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0024-047", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0024-048", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0025-001", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0025-002", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0025-003", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0025-004", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0025-005", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0025-006", "v": "P", "inf": ["predicate"], "why": "'drove the invader away' is expulsion, not just defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0025-007", "v": "S", "inf": [], "pf": "seduces"}
+{"id": "P5-A-B0025-008", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0025-009", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0025-010", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0025-011", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0025-012", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0025-013", "v": "P", "inf": ["predicate"], "why": "'leadership' phrasing fits 'leads' better than 'rules'", "pf": "leads"}
+{"id": "P5-A-B0025-014", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0025-015", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0025-016", "v": "P", "inf": ["predicate"], "why": "'spread beliefs' is diffuse influence, not direct teaching", "pf": "teaches"}
+{"id": "P5-A-B0025-017", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0025-018", "v": "P", "inf": ["predicate"], "why": "'hidden' is concealment, not exactly binding", "pf": "binds"}
+{"id": "P5-A-B0025-019", "v": "U", "inf": [], "why": "deity should be subject of worship, direction reversed", "pf": "is worshipped by", "S": ["SHENG SELERIS"], "O": ["KOSTADDI"]}
+{"id": "P5-A-B0025-020", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0025-021", "v": "P", "inf": ["predicate"], "why": "'bane of' is epithet implying enmity, not explicit fighting", "pf": "hates"}
+{"id": "P5-A-B0025-022", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0025-023", "v": "U", "inf": [], "why": "apotheosis; correct direction is Sheng Seleris being deified", "pf": "is deified", "S": ["SHENG SELERIS"], "O": ["HERO"]}
+{"id": "P5-A-B0025-024", "v": "P", "inf": ["predicate"], "why": "'lit a new star' better fits causing a phenomenon than manifesting", "pf": "causes"}
+{"id": "P5-A-B0025-025", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0025-026", "v": "P", "inf": ["predicate"], "why": "'blocked his way' is obstruction, weaker than direct fighting", "pf": "fights"}
+{"id": "P5-A-B0025-027", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0025-028", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0025-029", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0025-030", "v": "P", "inf": ["predicate"], "why": "'sacrificing himself' here is metaphorical self-exposure, not ritual", "pf": "performs sacrifice"}
+{"id": "P5-A-B0025-031", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0025-032", "v": "P", "inf": ["predicate"], "why": "'turned...from his lands' is expulsion, not generic defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0025-033", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0025-034", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0025-035", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0025-036", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0025-037", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0025-038", "v": "P", "inf": ["predicate"], "why": "'sacked' a city fits raiding, not generic 'fights'", "pf": "invades / raids"}
+{"id": "P5-A-B0025-039", "v": "P", "inf": ["predicate"], "why": "'deadly enemies' is a feud state, not active combat", "pf": "hates"}
+{"id": "P5-A-B0025-040", "v": "U", "inf": [], "why": "'God King' implies deity worshipped by nomads, direction reversed", "pf": "is worshipped by", "S": ["SHENG SELERIS"], "O": ["LEADERS OF THE NOMADS"]}
+{"id": "P5-A-B0025-041", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0025-042", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0025-043", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0025-044", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0025-045", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0025-046", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0025-047", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0025-048", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0025-049", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0025-050", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0025-051", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0025-052", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0025-053", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0026-001", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0026-002", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0026-003", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0026-004", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0026-005", "v": "P", "inf": ["predicate"], "why": "'certainly seemed to be' is hedged, weaker than identification", "pf": "is identified as"}
+{"id": "P5-A-B0026-006", "v": "P", "inf": ["predicate"], "why": "'some acknowledged' is a partial/hedged claim", "pf": "is child of"}
+{"id": "P5-A-B0026-007", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0026-008", "v": "P", "inf": ["predicate"], "why": "'pursuing' fits hunting rather than generic travel", "pf": "hunts"}
+{"id": "P5-A-B0026-009", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0026-010", "v": "P", "inf": ["predicate"], "why": "speculative ('it is possible... could have') and vague verb", "pf": "imbues"}
+{"id": "P5-A-B0026-011", "v": "P", "inf": ["predicate"], "why": "'destroyed' an army, stronger/different than generic defeat", "pf": "defeats"}
+{"id": "P5-A-B0026-012", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0026-013", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0026-014", "v": "P", "inf": ["predicate"], "why": "'turned southward' is expulsion, not generic defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0026-015", "v": "U", "inf": [], "why": "'called' a title is an epithet, not identification/equation", "pf": "is epithet of"}
+{"id": "P5-A-B0026-016", "v": "U", "inf": [], "why": "'the Artess' is an epithet/title, not equation", "pf": "is epithet of"}
+{"id": "P5-A-B0026-017", "v": "P", "inf": ["predicate"], "why": "'restored' borders differs from ongoing 'protects'", "pf": "protects"}
+{"id": "P5-A-B0026-018", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0026-019", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0026-020", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0026-021", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0026-022", "v": "U", "inf": [], "why": "'lover' is not stated as spouse/wedding", "pf": "loves / desires"}
+{"id": "P5-A-B0026-023", "v": "U", "inf": [], "why": "deity should be subject of worship, direction reversed", "pf": "is worshipped by", "S": ["HON-EEL"], "O": ["HORSE QUEEN", "STORM BARBARIAN"]}
+{"id": "P5-A-B0026-024", "v": "U", "inf": [], "why": "'Conquering Daughter' is a title/epithet, not equation", "pf": "is epithet of"}
+{"id": "P5-A-B0026-025", "v": "P", "inf": ["predicate"], "why": "'led by' fits leadership, not rulership", "pf": "leads"}
+{"id": "P5-A-B0026-026", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0026-027", "v": "U", "inf": [], "why": "'the Reaching Moon goddess' is a descriptive title/epithet", "pf": "is epithet of"}
+{"id": "P5-A-B0026-028", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0026-029", "v": "P", "inf": ["predicate"], "why": "'supported' is general aid, not a specific gift-bestowal", "pf": "aids"}
+{"id": "P5-A-B0026-030", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0026-031", "v": "S", "inf": [], "pf": "imbues"}
+{"id": "P5-A-B0026-032", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0026-033", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0026-034", "v": "U", "inf": [], "why": "sharing a temple fits 'receives cult at', not generic membership", "pf": "receives cult at"}
+{"id": "P5-A-B0026-035", "v": "P", "inf": ["predicate"], "why": "'claimed' land is akin to founding/ruling, loosely inferred", "pf": "rules"}
+{"id": "P5-A-B0026-036", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0026-037", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0026-038", "v": "P", "inf": ["predicate"], "why": "'ascended to his throne' fits accession, not steady-state rule", "pf": "accedes to rule"}
+{"id": "P5-A-B0026-039", "v": "S", "inf": [], "pf": "summons / invokes"}
+{"id": "P5-A-B0026-040", "v": "P", "inf": ["predicate"], "why": "'destroyed' the army, stronger than generic defeat", "pf": "defeats"}
+{"id": "P5-A-B0026-041", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0026-042", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0026-043", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0026-044", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0026-045", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0026-046", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0027-001", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0027-002", "v": "P", "inf": ["predicate"], "why": "'kept control' fits rule loosely, could also be office-holding", "pf": "rules"}
+{"id": "P5-A-B0027-003", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0027-004", "v": "U", "inf": [], "why": "'took a new lover' does not state a wedding/marriage", "pf": "loves / desires"}
+{"id": "P5-A-B0027-005", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0027-006", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0027-007", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0027-008", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0027-009", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0027-010", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0027-011", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0027-012", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0027-013", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0027-014", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0027-015", "v": "P", "inf": ["predicate"], "why": "'recognized as king' fits accession, not ongoing rule", "pf": "accedes to rule"}
+{"id": "P5-A-B0027-016", "v": "S", "inf": [], "pf": "fights"}

@@ -1,0 +1,150 @@
+{"id": "P5-A-B0005-026", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0005-027", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0005-028", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0005-029", "v": "P", "inf": ["subject"], "why": "Tatius sent army; did not fight Broyan personally", "pf": "invades / raids"}
+{"id": "P5-A-B0005-030", "v": "S", "inf": [], "pf": "allies with"}
+{"id": "P5-A-B0005-031", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0005-032", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0005-033", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0005-034", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-A-B0005-035", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0005-036", "v": "P", "inf": ["subject"], "why": "victory freed them, not Broyan directly acting", "pf": "rescues / frees"}
+{"id": "P5-A-B0005-037", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0005-038", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0005-039", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0005-040", "v": "P", "inf": ["predicate"], "why": "quote says Samastina possessed blessings, not direct bestowal act", "pf": "bestows"}
+{"id": "P5-A-B0005-041", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0005-042", "v": "S", "inf": [], "pf": "invades / raids", "O": ["TARSH"]}
+{"id": "P5-A-B0005-043", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0005-044", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0005-045", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0005-046", "v": "S", "inf": [], "pf": "causes"}
+{"id": "P5-A-B0005-047", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0005-048", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0005-049", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0005-050", "v": "S", "inf": [], "pf": "wounds", "qual": "blinding"}
+{"id": "P5-A-B0005-051", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0005-052", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0005-053", "v": "P", "inf": ["subject"], "why": "passive freeing, no agent named as rescuer", "pf": "rescues / frees"}
+{"id": "P5-A-B0005-054", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0005-055", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0005-056", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0005-057", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0005-058", "v": "P", "inf": ["subject"], "why": "Jaldon appears; summoners are Argrath and queen not Jaldon", "pf": "summons / invokes", "S": ["ARGRATH", "OLD EARTH QUEEN"], "O": ["JALDON TOOTHMAKER"]}
+{"id": "P5-A-B0005-059", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0005-060", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0005-061", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0005-062", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0006-001", "v": "U", "inf": ["subject"], "why": "quote names no killer, only that the king was killed", "pf": "dies", "S": ["KING BROYAN"], "O": []}
+{"id": "P5-A-B0006-002", "v": "P", "inf": ["predicate"], "why": "quote describes Argrath's appointment act, not ongoing rule", "pf": "appoints", "S": ["ARGRATH"], "O": ["BELVANI"], "IO": ["SUN COUNTY"]}
+{"id": "P5-A-B0006-003", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0006-004", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0006-005", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0006-006", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0006-007", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0006-008", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0006-009", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0006-010", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0006-011", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0006-012", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0006-013", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0006-014", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0006-015", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0006-016", "v": "S", "inf": [], "pf": "causes"}
+{"id": "P5-A-B0006-017", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0006-018", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0006-019", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0006-020", "v": "U", "inf": ["predicate"], "why": "quote says killed in battle, not a descent into underworld", "pf": "dies"}
+{"id": "P5-A-B0006-021", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0006-022", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0006-023", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0006-024", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0006-025", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0006-026", "v": "P", "inf": ["predicate"], "why": "lighting funeral pyre is a mourning rite, not a sacrifice offering", "pf": "mourns"}
+{"id": "P5-A-B0006-027", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0006-028", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0006-029", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0006-030", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0006-031", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0006-032", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0006-033", "v": "U", "inf": [], "why": "quote does not state Argrath rules the White Bull itself", "pf": "REJECT"}
+{"id": "P5-A-B0006-034", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0006-035", "v": "P", "inf": ["subject"], "why": "giver of the gift not named in quote", "pf": "bestows"}
+{"id": "P5-A-B0006-036", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0006-037", "v": "P", "inf": ["predicate"], "why": "text describes persuasion of Harrek, not a direct protective act", "pf": "protects"}
+{"id": "P5-A-B0006-038", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0006-039", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0006-040", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0006-041", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0006-042", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0006-043", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0006-044", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0006-045", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0006-046", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0006-047", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0006-048", "v": "P", "inf": ["predicate"], "why": "quote describes Argrath's appointment act, not ongoing rule", "pf": "appoints", "S": ["ARGRATH"], "O": ["RURIK RUNESPEAR"], "IO": ["SUN DOME COUNTY"]}
+{"id": "P5-A-B0006-049", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0006-050", "v": "P", "inf": ["predicate"], "why": "quote describes Argrath's appointment act, not ongoing rule", "pf": "appoints", "S": ["ARGRATH"], "O": ["VAILOR BLUE FOX"], "IO": ["MALANI"]}
+{"id": "P5-A-B0006-051", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0006-052", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0006-053", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0006-054", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0006-055", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0006-056", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0006-057", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0006-058", "v": "P", "inf": ["predicate"], "why": "quote fragment mentions title only, not explicit service", "pf": "serves"}
+{"id": "P5-A-B0006-059", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0006-060", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0006-061", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0007-001", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0007-002", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0007-003", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0007-004", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0007-005", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0007-006", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0007-007", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0007-008", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0007-009", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0007-010", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0007-011", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-012", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0007-013", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0007-014", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-015", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0007-016", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0007-017", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0007-018", "v": "P", "inf": ["predicate"], "why": "stated as 'believed to have taught', not certain fact", "pf": "teaches"}
+{"id": "P5-A-B0007-019", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-020", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0007-021", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0007-022", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0007-023", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0007-024", "v": "P", "inf": ["predicate"], "why": "'military commander' means leads, not rules a realm", "pf": "leads"}
+{"id": "P5-A-B0007-025", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0007-026", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0007-027", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0007-028", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0007-029", "v": "P", "inf": ["predicate"], "why": "quote describes Argrath's appointment act, not ongoing rule", "pf": "appoints", "S": ["ARGRATH"], "O": ["RURIK RUNESPEAR"], "IO": ["SUN COUNTY"]}
+{"id": "P5-A-B0007-030", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-031", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0007-032", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0007-033", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-034", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0007-035", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0007-036", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0007-037", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-038", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-039", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0007-040", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0007-041", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0007-042", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0007-043", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0007-044", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-045", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0007-046", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0007-047", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0007-048", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0007-049", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-050", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0007-051", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0007-052", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["ALDRYA"], "O": ["ALDRYAMI"]}

@@ -1,0 +1,150 @@
+{"id": "P5-A-B0075-014", "v": "S", "inf": [], "why": "", "pf": "descends into", "O": ["HELL"]}
+{"id": "P5-A-B0075-015", "v": "P", "inf": ["predicate", "direct_object"], "why": "quote says 'led all life back', an act of leading, not mere travel", "pf": "leads", "O": ["ALL LIFE"]}
+{"id": "P5-A-B0075-016", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0075-017", "v": "P", "inf": ["predicate"], "why": "'driven out' is exile, stronger than mere fighting", "pf": "exiles / banishes"}
+{"id": "P5-A-B0075-018", "v": "P", "inf": ["predicate"], "why": "'threw out' is exile, stronger than mere fighting", "pf": "exiles / banishes"}
+{"id": "P5-A-B0075-019", "v": "S", "inf": [], "why": "", "pf": "binds"}
+{"id": "P5-A-B0075-020", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-A-B0075-021", "v": "P", "inf": ["predicate"], "why": "'conquered' is stronger/more specific than defeats", "pf": "conquers"}
+{"id": "P5-A-B0075-022", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-A-B0075-023", "v": "P", "inf": ["predicate"], "why": "'destroyed' matches shatters better than defeats", "pf": "shatters"}
+{"id": "P5-A-B0075-024", "v": "P", "inf": ["predicate"], "why": "'attempted to wipe out' is invasion/attack, not mere fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0075-025", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0075-026", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-A-B0075-027", "v": "P", "inf": ["predicate"], "why": "'overthrew' matches conquers better than defeats", "pf": "conquers"}
+{"id": "P5-A-B0075-028", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0075-029", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["YELM", "PAMALT", "ALDRYA"], "O": ["ERRINORU ELF EMPIRE"]}
+{"id": "P5-A-B0075-030", "v": "P", "inf": ["predicate"], "why": "quote states enmity ('enemies included'), not actual fighting", "pf": "hates"}
+{"id": "P5-A-B0075-031", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0075-032", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0075-033", "v": "S", "inf": [], "why": "", "pf": "travels", "O": ["EARTH"]}
+{"id": "P5-A-B0075-034", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0075-035", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0075-036", "v": "S", "inf": [], "why": "", "pf": "is spouse of"}
+{"id": "P5-A-B0075-037", "v": "P", "inf": ["subject"], "why": "'her liege lord' identity as Yelm inferred from context", "pf": "serves"}
+{"id": "P5-A-B0075-038", "v": "S", "inf": [], "why": "", "pf": "is spouse of"}
+{"id": "P5-A-B0075-039", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0075-040", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0075-041", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0075-042", "v": "S", "inf": [], "why": "", "pf": "is sibling of"}
+{"id": "P5-A-B0075-043", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0075-044", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0075-045", "v": "P", "inf": ["predicate"], "why": "'joined dominion' better matches submission than generic service", "pf": "submits to"}
+{"id": "P5-A-B0075-046", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0075-047", "v": "P", "inf": ["subject"], "why": "'His' referring to Yelm inferred from context", "pf": "is child of"}
+{"id": "P5-A-B0075-048", "v": "P", "inf": ["subject"], "why": "'She' referring to Oslir inferred from context", "pf": "is spouse of"}
+{"id": "P5-A-B0075-049", "v": "S", "inf": [], "why": "", "pf": "bestows", "O": ["IRRIGATION WATER"], "IO": ["THE INHABITANTS OF THE TRIPOLIS"]}
+{"id": "P5-A-B0075-050", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0075-051", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0075-052", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0076-001", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0076-002", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["HYALOR", "HIPPOI"], "O": ["GALANINI"]}
+{"id": "P5-A-B0076-003", "v": "S", "inf": [], "why": "", "pf": "has domain", "O": ["HORSES"]}
+{"id": "P5-A-B0076-004", "v": "P", "inf": ["predicate"], "why": "quote says 'superstitiously believed', not confirmed transformation", "pf": "transforms into"}
+{"id": "P5-A-B0076-005", "v": "P", "inf": ["predicate"], "why": "quote says 'kin to' mounts, weaker than explicit ancestry claim", "pf": "claims ancestry"}
+{"id": "P5-A-B0076-006", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0076-007", "v": "S", "inf": [], "why": "", "pf": "is spouse of"}
+{"id": "P5-A-B0076-008", "v": "P", "inf": ["object"], "why": "'here' referring to Peloria inferred from context", "pf": "rules"}
+{"id": "P5-A-B0076-009", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["YELM"], "O": ["LUNAR KINGS AND GOVERNORS"]}
+{"id": "P5-A-B0076-010", "v": "S", "inf": [], "why": "", "pf": "is spouse of"}
+{"id": "P5-A-B0076-011", "v": "S", "inf": [], "why": "", "pf": "has domain", "O": ["GRAIN"]}
+{"id": "P5-A-B0076-012", "v": "P", "inf": ["object"], "why": "'him' referring to Yelm inferred from context", "pf": "is worshipped by", "S": ["YELM"], "O": ["PENT NOMADS"]}
+{"id": "P5-A-B0076-013", "v": "P", "inf": ["subject"], "why": "only those with non-Yelmite father worship Eiritha, not all Pent nomads", "pf": "is worshipped by", "S": ["EIRITHA"], "O": ["PENT NOMADS"]}
+{"id": "P5-A-B0076-014", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0076-015", "v": "P", "inf": ["object"], "why": "'the nation' referring to Teshnos inferred from context", "pf": "rules"}
+{"id": "P5-A-B0076-016", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0076-017", "v": "P", "inf": ["subject"], "why": "'the kingslayer' referring to Ketil inferred from context", "pf": "flees to"}
+{"id": "P5-A-B0076-018", "v": "P", "inf": ["object", "predicate"], "why": "'the king' identity not confirmed as Hakon; ruling, not a challenge", "pf": "punishes"}
+{"id": "P5-A-B0076-019", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-A-B0076-020", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0076-021", "v": "P", "inf": ["predicate"], "why": "'became a Rune lord' is office-holding, stronger than mere membership", "pf": "holds office in"}
+{"id": "P5-A-B0076-022", "v": "P", "inf": ["predicate"], "why": "'caretaker' loosely implies serving, not stated explicitly", "pf": "serves"}
+{"id": "P5-A-B0076-023", "v": "P", "inf": ["predicate"], "why": "'encroachment' is invasion-like, stronger than mere travel", "pf": "invades / raids"}
+{"id": "P5-A-B0076-024", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0076-025", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0076-026", "v": "P", "inf": ["predicate"], "why": "'priest of' is office-holding, stronger than generic service", "pf": "holds office in"}
+{"id": "P5-A-B0076-027", "v": "S", "inf": [], "why": "", "pf": "is sibling of"}
+{"id": "P5-A-B0076-028", "v": "P", "inf": ["object", "predicate"], "why": "'kings of Bilini' bracketed context not present in quote", "pf": "rules"}
+{"id": "P5-A-B0076-029", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0076-030", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0076-031", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0076-032", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0076-033", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0076-034", "v": "S", "inf": [], "why": "", "pf": "sends", "S": ["PAULIS' FATHER"], "O": ["PAULIS LONGVALE"]}
+{"id": "P5-A-B0076-035", "v": "U", "inf": ["predicate"], "why": "'cousin of' is not an ancestry/descent claim", "pf": "REJECT", "note": "cousin relation has no matching vocabulary term"}
+{"id": "P5-A-B0076-036", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0076-037", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0076-038", "v": "U", "inf": [], "why": "quote only states who first wielded the sword, not that it survives as a relic", "pf": "possesses / wields", "S": ["DISTAN"], "O": ["IRONBREAKER"]}
+{"id": "P5-A-B0076-039", "v": "P", "inf": ["object"], "why": "'his' referring to Bolthor Brighteyes inferred from context", "pf": "is synonym of"}
+{"id": "P5-A-B0076-040", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0076-041", "v": "P", "inf": ["subject"], "why": "'the King' referring to Bolthor Brighteyes inferred from context", "pf": "re-enacts"}
+{"id": "P5-A-B0076-042", "v": "P", "inf": ["subject"], "why": "'It' referring to Primal Chaos inferred from context", "pf": "appears"}
+{"id": "P5-A-B0076-043", "v": "P", "inf": ["object"], "why": "'It' referring to Primal Chaos inferred from context", "pf": "is born from"}
+{"id": "P5-A-B0076-044", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0076-045", "v": "P", "inf": ["direct_object"], "why": "the gift specified is 'your lands', not Hahlgrim himself", "pf": "bestows", "O": ["LANDS"], "IO": ["HAHLGRIM"]}
+{"id": "P5-A-B0076-046", "v": "P", "inf": ["predicate"], "why": "'can be made impure' is hypothetical, not asserted taint", "pf": "grows tainted with Chaos"}
+{"id": "P5-A-B0076-047", "v": "S", "inf": [], "why": "", "pf": "bestows", "O": ["IRONBREAKER"], "IO": ["HAHLGRIM"]}
+{"id": "P5-A-B0076-048", "v": "S", "inf": [], "why": "", "pf": "swears oath with"}
+{"id": "P5-A-B0077-001", "v": "P", "inf": ["predicate"], "why": "Darkness is a named source, matching birth rather than spontaneous emergence", "pf": "is born from", "O": ["DARKNESS"]}
+{"id": "P5-A-B0077-002", "v": "S", "inf": [], "why": "", "pf": "embodies", "O": ["DEATH"]}
+{"id": "P5-A-B0077-003", "v": "P", "inf": ["predicate"], "why": "'mistress' implies consort/lover, not a formal spouse", "pf": "is spouse of"}
+{"id": "P5-A-B0077-004", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0077-005", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["MALLIA"], "O": ["BROOS"]}
+{"id": "P5-A-B0077-006", "v": "S", "inf": [], "why": "", "pf": "bestows", "O": ["SPECIAL MAGICS", "SPIRIT ALLIES"], "IO": ["BROOS"]}
+{"id": "P5-A-B0077-007", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["MALLIA"], "O": ["OTHER CHAOS CREATURES"]}
+{"id": "P5-A-B0077-008", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["MALLIA"], "O": ["MEN", "ELVES", "TROLLS", "DWARVES"]}
+{"id": "P5-A-B0077-009", "v": "P", "inf": ["predicate"], "why": "quote describes vengeance via corruption/disease, not direct fighting", "pf": "avenges"}
+{"id": "P5-A-B0077-010", "v": "S", "inf": [], "why": "", "pf": "descends into", "O": ["HELL"]}
+{"id": "P5-A-B0077-011", "v": "S", "inf": [], "why": "", "pf": "embodies"}
+{"id": "P5-A-B0077-012", "v": "P", "inf": ["predicate"], "why": "Chaos Rune association is conditional on being worshipped by broos", "pf": "embodies"}
+{"id": "P5-A-B0077-013", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["MALLIA"], "O": ["BROOS"]}
+{"id": "P5-A-B0077-014", "v": "S", "inf": [], "why": "", "pf": "performs sacrifice", "O": ["POWER"], "IO": ["MALLIA"]}
+{"id": "P5-A-B0077-015", "v": "S", "inf": [], "why": "", "pf": "is epithet of", "S": ["THE NECESSARY BANE OF THE MORTAL RACES"], "O": ["MALLIA"]}
+{"id": "P5-A-B0077-016", "v": "P", "inf": ["subject"], "why": "'she' referring to Mallia inferred from context", "pf": "is epithet of", "S": ["KEEPER OF THE CART"], "O": ["MALLIA"]}
+{"id": "P5-A-B0077-017", "v": "S", "inf": [], "why": "", "pf": "is epithet of", "S": ["JANITOR OF THE GODS"], "O": ["MALLIA"]}
+{"id": "P5-A-B0077-018", "v": "P", "inf": ["subject"], "why": "subject 'she' (Mallia) inferred; quote fragment lacks explicit subject", "pf": "challenges"}
+{"id": "P5-A-B0077-019", "v": "P", "inf": ["predicate"], "why": "'may be so entwined' is speculative, not an asserted embodiment", "pf": "embodies"}
+{"id": "P5-A-B0077-020", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0077-021", "v": "S", "inf": [], "why": "", "pf": "hates"}
+{"id": "P5-A-B0077-022", "v": "S", "inf": [], "why": "", "pf": "is sibling of"}
+{"id": "P5-A-B0077-023", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["HEALING MOTHER"], "O": ["HAHLGRIM'S PEOPLE"]}
+{"id": "P5-A-B0077-024", "v": "S", "inf": [], "why": "", "pf": "performs sacrifice", "IO": ["MALLIA"]}
+{"id": "P5-A-B0077-025", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0077-026", "v": "P", "inf": ["object"], "why": "'of fearful Dorastor' may describe the Broos' homeland rather than direct rule", "pf": "rules"}
+{"id": "P5-A-B0077-027", "v": "P", "inf": ["object"], "why": "identity of Burpey Bolthor as Bolthor Brighteyes inferred from context", "pf": "is epithet of"}
+{"id": "P5-A-B0077-028", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0077-029", "v": "P", "inf": ["direct_object"], "why": "'gold' is not specified in the quote, only unspecified 'gifts'", "pf": "bestows"}
+{"id": "P5-A-B0077-030", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0077-031", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["MALLIA"], "O": ["BROOS"]}
+{"id": "P5-A-B0077-032", "v": "S", "inf": [], "why": "", "pf": "is epithet of", "S": ["GREAT PSYCHIC LIBERATOR"], "O": ["GBAJI"]}
+{"id": "P5-A-B0077-033", "v": "P", "inf": ["subject", "object"], "why": "'the people' and 'that god' referring to Kralori/Gbaji inferred from context", "pf": "is worshipped by", "S": ["GBAJI"], "O": ["KRALORI"]}
+{"id": "P5-A-B0077-034", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0077-035", "v": "P", "inf": ["object", "predicate"], "why": "'the people' referring to Kralori inferred; verb is 'aid' not 'protect'", "pf": "aids"}
+{"id": "P5-A-B0077-036", "v": "P", "inf": ["subject"], "why": "'it' referring to Chaos inferred from context", "pf": "is epithet of", "S": ["MOTHER AND FATHER OF THE WORLD"], "O": ["CHAOS"]}
+{"id": "P5-A-B0077-037", "v": "P", "inf": ["subject"], "why": "'we' referring to Singers of the Earth Song inferred from context", "pf": "is born from"}
+{"id": "P5-A-B0077-038", "v": "P", "inf": ["predicate"], "why": "'led his forces' is an act of leading, not mere travel", "pf": "leads", "O": ["HIS FORCES"]}
+{"id": "P5-A-B0077-039", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-A-B0077-040", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0077-041", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0077-042", "v": "P", "inf": ["subject"], "why": "'they' referring to Scorpion Kinds inferred from context", "pf": "is born from"}
+{"id": "P5-A-B0077-043", "v": "S", "inf": [], "why": "", "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-A-B0077-044", "v": "P", "inf": ["predicate"], "why": "'centered about the might of' implies dominance, not explicit rule", "pf": "rules"}
+{"id": "P5-A-B0077-045", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0077-046", "v": "S", "inf": [], "why": "", "pf": "is worshipped by", "S": ["CHAOS"], "O": ["SCORPION MEN HEROES"]}
+{"id": "P5-A-B0077-047", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0078-001", "v": "S", "inf": [], "why": "", "pf": "embodies"}
+{"id": "P5-A-B0078-002", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0078-003", "v": "S", "inf": [], "why": "", "pf": "rides"}
+{"id": "P5-A-B0078-004", "v": "P", "inf": ["predicate"], "why": "'priest of' is office-holding, stronger than generic service", "pf": "holds office in"}
+{"id": "P5-A-B0078-005", "v": "S", "inf": [], "why": "", "pf": "bestows", "O": ["HOLY CLEARWINE"], "IO": ["HAHLGRIM'S PARTY"]}
+{"id": "P5-A-B0078-006", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0078-007", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-A-B0078-008", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-A-B0078-009", "v": "P", "inf": ["predicate"], "why": "'struck at' is an attack/raid, stronger than mere fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0078-010", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-A-B0078-011", "v": "P", "inf": ["subject"], "why": "'I' referring to Paulis Longvale inferred from narrator context", "pf": "wounds"}
+{"id": "P5-A-B0078-012", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0078-013", "v": "S", "inf": [], "why": "", "pf": "bestows", "O": ["DISEASE CONTROL SPELLS"], "IO": ["SCORPION MEN"]}
+{"id": "P5-A-B0078-014", "v": "S", "inf": [], "why": "", "pf": "transforms into"}
+{"id": "P5-A-B0078-015", "v": "S", "inf": [], "why": "", "pf": "transforms into"}
+{"id": "P5-A-B0078-016", "v": "S", "inf": [], "why": "", "pf": "has anomalous form", "qual": "monstrous"}

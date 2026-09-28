@@ -1,0 +1,150 @@
+{"id": "P5-A-B0108-027", "v": "P", "inf": ["predicate"], "why": "hedged 'may be' not confirmed", "pf": "has domain", "O": ["NATURE"]}
+{"id": "P5-A-B0108-028", "v": "P", "inf": ["subject"], "why": "pronoun 'she' resolved to Arachne Solara from context", "pf": "is identified as"}
+{"id": "P5-A-B0108-029", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0108-030", "v": "U", "inf": [], "why": "quote says 'created', not 'revealed'", "pf": "conceives", "S": ["ARACHNE SOLARA"], "O": ["GREAT COMPROMISE"]}
+{"id": "P5-A-B0108-031", "v": "P", "inf": ["predicate"], "why": "hedged 'may have been'", "pf": "is identified as"}
+{"id": "P5-A-B0108-032", "v": "P", "inf": ["subject"], "why": "subject Glorantha inferred via relative pronoun 'who'", "pf": "rules"}
+{"id": "P5-A-B0108-033", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0108-034", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0108-035", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0108-036", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0108-037", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0108-038", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0108-039", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0108-040", "v": "S", "inf": [], "pf": "makes peace with"}
+{"id": "P5-A-B0108-041", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0108-042", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0108-043", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0108-044", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0108-045", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0108-046", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0108-047", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0108-048", "v": "U", "inf": [], "why": "messenger role fits 'aids', not master-servant 'serves'", "pf": "aids", "S": ["ISSARIES"], "O": ["SKY", "EARTH"]}
+{"id": "P5-A-B0108-049", "v": "U", "inf": [], "why": "mediating a dispute is not 'protects'", "pf": "aids", "S": ["ISSARIES"], "O": ["YELM", "ORLANTH"]}
+{"id": "P5-A-B0108-050", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0108-051", "v": "P", "inf": ["object"], "why": "quote truncated, object of 'bring Death' unclear", "pf": "conceives"}
+{"id": "P5-A-B0108-052", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0108-053", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0108-054", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0108-055", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0108-056", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0108-057", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0108-058", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0108-059", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0108-060", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0108-061", "v": "P", "inf": ["predicate"], "why": "only proposal of marriage, not yet married", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0108-062", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0108-063", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0108-064", "v": "U", "inf": [], "why": "'established method of trade' is founding a practice, not teaching people", "pf": "founds", "S": ["HARST"], "O": ["METHOD OF TRADE"]}
+{"id": "P5-A-B0108-065", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0108-066", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0108-067", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0109-001", "v": "S", "inf": [], "pf": "bestows geas"}
+{"id": "P5-A-B0109-002", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0109-003", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0109-004", "v": "P", "inf": ["object"], "why": "'their father' inferred as Issaries from broader context", "pf": "is child of"}
+{"id": "P5-A-B0109-005", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0109-006", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0109-007", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0109-008", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0109-009", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0109-010", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0109-011", "v": "P", "inf": ["predicate"], "why": "cult spreading is metaphorical, not literal travel", "pf": "travels"}
+{"id": "P5-A-B0109-012", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0109-013", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0109-014", "v": "P", "inf": ["predicate"], "why": "seduced/corrupted into guiding, not voluntary service", "pf": "aids"}
+{"id": "P5-A-B0109-015", "v": "P", "inf": ["object"], "why": "object conflates domain (trade) with polity (Lunar Empire)", "pf": "has domain", "O": ["TRADE"]}
+{"id": "P5-A-B0109-016", "v": "U", "inf": [], "why": "guiding souls is leading, not protecting", "pf": "leads", "S": ["ISSARIES"], "O": ["DEAD SOULS"]}
+{"id": "P5-A-B0109-017", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0109-018", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0109-019", "v": "P", "inf": ["predicate"], "why": "'also associated with' is weaker than full embodiment", "pf": "embodies"}
+{"id": "P5-A-B0109-020", "v": "U", "inf": [], "why": "agentive making, not spontaneous emergence", "pf": "conceives", "S": ["ISSARIES"], "O": ["MULES"]}
+{"id": "P5-A-B0109-021", "v": "P", "inf": ["predicate"], "why": "'friendly rivalry' softer than direct challenge", "pf": "challenges"}
+{"id": "P5-A-B0109-022", "v": "U", "inf": [], "why": "hate stated, not combat", "pf": "hates", "S": ["CULTISTS OF ISSARIES"], "O": ["CHAOS"]}
+{"id": "P5-A-B0109-023", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0109-024", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0109-025", "v": "S", "inf": [], "pf": "crafts"}
+{"id": "P5-A-B0109-026", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0109-027", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0109-028", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0109-029", "v": "S", "inf": [], "pf": "has domain", "O": ["ENDINGS"]}
+{"id": "P5-A-B0109-030", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0109-031", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0109-032", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0109-033", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0109-034", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0109-035", "v": "P", "inf": ["subject"], "why": "'This' referent inferred from prior sentence", "pf": "comes into being"}
+{"id": "P5-A-B0109-036", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0109-037", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0109-038", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0109-039", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0109-040", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0109-041", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0109-042", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0109-043", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0109-044", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0109-045", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0109-046", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0109-047", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0109-048", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0109-049", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0110-001", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0110-002", "v": "P", "inf": ["predicate"], "why": "'always also associated with' weaker than embodies", "pf": "embodies"}
+{"id": "P5-A-B0110-003", "v": "P", "inf": ["object"], "why": "'war god of' conflates domain with worship location", "pf": "is worshipped at", "O": ["CARMANIA", "SAFELSTER"]}
+{"id": "P5-A-B0110-004", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0110-005", "v": "S", "inf": [], "pf": "has domain", "O": ["DARKNESS"]}
+{"id": "P5-A-B0110-006", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0110-007", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0110-008", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0110-009", "v": "S", "inf": [], "pf": "bestows geas"}
+{"id": "P5-A-B0110-010", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0110-011", "v": "U", "inf": [], "why": "quote doesn't mention Humakt as party to the vow", "pf": "REJECT", "note": "no relation between Malan and Humakt stated in this quote"}
+{"id": "P5-A-B0110-012", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0110-013", "v": "P", "inf": ["subject"], "why": "Humakt as giver not named in this quote segment", "pf": "bestows"}
+{"id": "P5-A-B0110-014", "v": "P", "inf": ["subject"], "why": "'his dread god' not explicitly named Humakt here", "pf": "bestows geas"}
+{"id": "P5-A-B0110-015", "v": "P", "inf": ["subject"], "why": "passive voice, giver not named in quote", "pf": "bestows"}
+{"id": "P5-A-B0110-016", "v": "P", "inf": ["subject"], "why": "geas-giver Humakt not stated in this quote", "pf": "bestows geas"}
+{"id": "P5-A-B0110-017", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0110-018", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0110-019", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0110-020", "v": "P", "inf": ["subject"], "why": "Humakt not mentioned in this quote, vow appears self-made", "pf": "bestows geas"}
+{"id": "P5-A-B0110-021", "v": "P", "inf": ["subject"], "why": "giver not named explicitly in quote", "pf": "bestows"}
+{"id": "P5-A-B0110-022", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0110-023", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0110-024", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0110-025", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0110-026", "v": "P", "inf": ["predicate"], "why": "'hidden' is a passive/buried state, not an active descent", "pf": "descends into"}
+{"id": "P5-A-B0110-027", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0110-028", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0110-029", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0110-030", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0110-031", "v": "P", "inf": ["object"], "why": "Protectresses are companions, not a travel destination", "pf": "travels"}
+{"id": "P5-A-B0110-032", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0110-034", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0110-035", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0110-036", "v": "U", "inf": [], "why": "digging a channel is crafting a work, not travel", "pf": "crafts", "S": ["WAHA"], "O": ["CHANNEL"]}
+{"id": "P5-A-B0110-037", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0110-038", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0110-039", "v": "P", "inf": ["predicate"], "why": "'great-aunt' is collateral kin, not lineal ancestor", "pf": "claims ancestry"}
+{"id": "P5-A-B0110-040", "v": "P", "inf": ["object"], "why": "'the bag' equated with Wastelands only via metaphor, not stated", "pf": "binds"}
+{"id": "P5-A-B0110-041", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0110-042", "v": "P", "inf": ["object"], "why": "opponent 'cult of Waha' not named in this quote", "pf": "defeats"}
+{"id": "P5-A-B0110-043", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0110-044", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0110-045", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0110-046", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0110-047", "v": "P", "inf": ["predicate"], "why": "'associated with' weaker than full embodiment", "pf": "embodies"}
+{"id": "P5-A-B0110-048", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0110-049", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0110-050", "v": "P", "inf": ["predicate"], "why": "teaching relation inferred from 'using Foundchild's teachings'", "pf": "teaches"}
+{"id": "P5-A-B0110-051", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0111-001", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0111-002", "v": "P", "inf": ["predicate"], "why": "'uncle' is collateral kin, not lineal ancestor", "pf": "claims ancestry"}
+{"id": "P5-A-B0111-003", "v": "U", "inf": [], "why": "'animals of Yelm' means Yelm possesses horses, not horses serving him", "pf": "possesses / wields", "S": ["YELM"], "O": ["HORSES"]}
+{"id": "P5-A-B0111-004", "v": "P", "inf": ["predicate"], "why": "'ancient feud' indicates hatred/enmity more than active combat", "pf": "hates"}
+{"id": "P5-A-B0111-005", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0111-006", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0111-007", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0111-008", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-A-B0111-009", "v": "U", "inf": [], "why": "epithet direction reversed: 'Father of all shaman' is the title, Horned Man the bearer", "pf": "is epithet of", "S": ["FATHER OF ALL SHAMAN"], "O": ["HORNED MAN"]}
+{"id": "P5-A-B0111-010", "v": "S", "inf": [], "pf": "resurrects"}

@@ -1,0 +1,150 @@
+{"id": "P5-A-B0047-002", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0047-003", "v": "S", "inf": [], "pf": "heals"}
+{"id": "P5-A-B0047-004", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0047-005", "v": "P", "inf": ["subject"], "why": "the fighting is done by 'Uroxi' (worshippers), not Urox himself", "pf": "hates"}
+{"id": "P5-A-B0047-006", "v": "S", "inf": [], "pf": "heals"}
+{"id": "P5-A-B0047-007", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0047-008", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0047-009", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0047-010", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0047-011", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0047-012", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0047-013", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0047-014", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-A-B0047-015", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0047-016", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0047-017", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0047-018", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0047-019", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0048-001", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0048-002", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0048-003", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0048-004", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0048-005", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0048-006", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0048-007", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0048-008", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0048-010", "v": "P", "inf": ["predicate"], "why": "'swept her up' suggests capture, not imprisonment/binding", "pf": "captures"}
+{"id": "P5-A-B0048-011", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0048-012", "v": "P", "inf": ["direct_object"], "why": "object should be his powers, not Jiril himself", "pf": "steals", "O": ["JIRIL'S POWERS"]}
+{"id": "P5-A-B0048-013", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0048-014", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0048-015", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0049-001", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0049-002", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0049-003", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0049-004", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0049-005", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0049-006", "v": "P", "inf": ["predicate"], "why": "'borrowed' implies a loan, not a gift", "pf": "bestows"}
+{"id": "P5-A-B0049-007", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0049-008", "v": "P", "inf": ["predicate"], "why": "'bluffed' is trickery, not fighting", "pf": "tricks"}
+{"id": "P5-A-B0049-009", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0049-010", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0049-011", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0049-012", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0049-013", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0049-014", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0049-015", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0049-016", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0049-017", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0049-018", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0049-019", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0049-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0049-021", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0049-022", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0049-023", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0049-024", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0049-025", "v": "P", "inf": ["predicate"], "why": "relation is embedded in a negated clause about worshippers' perception", "pf": "is child of"}
+{"id": "P5-A-B0049-026", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0049-027", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0049-028", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0049-029", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0049-030", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0049-031", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0049-032", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0049-033", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0049-034", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0050-001", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0050-002", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0050-003", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0050-004", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0050-005", "v": "P", "inf": ["subject", "predicate"], "why": "Gustbran crafts the blade from her grief; agentive act, not grief transforming itself", "pf": "crafts", "S": ["GUSTBRAN"], "O": ["VENGEANCE"]}
+{"id": "P5-A-B0050-006", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0050-007", "v": "P", "inf": ["predicate"], "why": "explicit act of vengeance fits avenges better than defeats", "pf": "avenges"}
+{"id": "P5-A-B0050-008", "v": "P", "inf": ["predicate"], "why": "'matchmaker' implies a role/office, not mere membership", "pf": "holds office in"}
+{"id": "P5-A-B0050-009", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0050-010", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0050-011", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0050-012", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0050-013", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0050-014", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0050-015", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0050-016", "v": "P", "inf": ["predicate", "purpose_clause"], "why": "quote states intent to kill and purpose to prove equality, not 'obtain' anything", "pf": "challenges"}
+{"id": "P5-A-B0050-017", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0050-018", "v": "P", "inf": ["predicate"], "why": "single arrow in an agreed duel fits 'fights' better than a raid", "pf": "fights"}
+{"id": "P5-A-B0050-019", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0050-020", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0050-021", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0050-022", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0050-023", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0050-024", "v": "P", "inf": ["predicate"], "why": "'swore loyalty to' indicates subordination, closer to serves than a mutual oath", "pf": "serves"}
+{"id": "P5-A-B0050-025", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0050-026", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0050-027", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0050-028", "v": "S", "inf": [], "pf": "summons / invokes"}
+{"id": "P5-A-B0050-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0050-030", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0050-031", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0050-032", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0050-033", "v": "U", "inf": ["subject", "direct_object"], "why": "'Alynx God' is an epithet of Yinkin, not a separate object he is identified as", "pf": "is epithet of", "S": ["ALYNX GOD"], "O": ["YINKIN"]}
+{"id": "P5-A-B0050-034", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0050-035", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0050-036", "v": "S", "inf": [], "pf": "hates"}
+{"id": "P5-A-B0050-037", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0051-001", "v": "P", "inf": ["predicate"], "why": "'seized' implies capture, not confinement/binding", "pf": "captures"}
+{"id": "P5-A-B0051-002", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0051-003", "v": "P", "inf": ["predicate"], "why": "'freed' matches rescues/frees more precisely than general protects", "pf": "rescues / frees"}
+{"id": "P5-A-B0051-004", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0051-005", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0051-007", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0051-008", "v": "P", "inf": ["predicate"], "why": "'bullied' implies harassment/dominance, not mutual fighting", "pf": "fights"}
+{"id": "P5-A-B0051-009", "v": "P", "inf": ["predicate"], "why": "'saved' matches rescues/frees more precisely", "pf": "rescues / frees"}
+{"id": "P5-A-B0051-010", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0051-011", "v": "P", "inf": ["predicate"], "why": "'saved' matches rescues/frees more precisely", "pf": "rescues / frees"}
+{"id": "P5-A-B0051-012", "v": "P", "inf": ["predicate"], "why": "'preying upon' is hunting, not generic fighting", "pf": "hunts"}
+{"id": "P5-A-B0051-013", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0051-014", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0051-015", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0051-016", "v": "P", "inf": ["predicate"], "why": "'licked until thawed' is a healing act, not general protection", "pf": "heals"}
+{"id": "P5-A-B0051-017", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0051-018", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0051-019", "v": "P", "inf": ["predicate"], "why": "'cast the Net' is creating/crafting a magical artifact, not manifesting self", "pf": "crafts"}
+{"id": "P5-A-B0051-021", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0051-022", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-A-B0051-023", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0051-024", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0051-025", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0051-026", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0051-027", "v": "P", "inf": ["predicate"], "why": "'denied his father' means renounced/disowned, closer to betrays than physical departure", "pf": "betrays"}
+{"id": "P5-A-B0051-028", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0051-029", "v": "P", "inf": ["predicate"], "why": "'are hostile to' is a state of enmity, not active fighting", "pf": "hates"}
+{"id": "P5-A-B0051-030", "v": "P", "inf": ["predicate"], "why": "'despise' is hatred, not active fighting", "pf": "hates"}
+{"id": "P5-A-B0051-031", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0051-032", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0051-033", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0051-034", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0051-035", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0051-036", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0051-037", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0051-038", "v": "P", "inf": ["predicate"], "why": "'fed until wounds healed' is a healing act, not general protection", "pf": "heals"}
+{"id": "P5-A-B0051-039", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0051-040", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0051-041", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0051-042", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0051-043", "v": "U", "inf": ["subject", "direct_object"], "why": "'Uz war god' is an epithet of Karrg, not a separate object he is identified as", "pf": "is epithet of", "S": ["UZ WAR GOD"], "O": ["KARRG"]}
+{"id": "P5-A-B0051-044", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0051-045", "v": "S", "inf": [], "pf": "hunts"}
+{"id": "P5-A-B0051-046", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0051-047", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0051-048", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0052-001", "v": "S", "inf": [], "pf": "is synonym of"}

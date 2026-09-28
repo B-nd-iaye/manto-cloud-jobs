@@ -1,0 +1,150 @@
+{"id": "P5-A-B0148-047", "v": "P", "inf": ["predicate"], "why": "Quote says Waha founded families, not that families claim ancestry.", "pf": "founds", "S": ["WAHA"], "O": ["FAMILIES OF WAHA'S BLOOD"]}
+{"id": "P5-A-B0148-048", "v": "P", "inf": ["predicate"], "why": "\"cleansed\" is purification, protects is inferred stronger.", "pf": "protects"}
+{"id": "P5-A-B0148-049", "v": "U", "inf": ["predicate"], "why": "No Illumination doctrine stated; just sun reappearing/shining.", "pf": "appears"}
+{"id": "P5-A-B0148-050", "v": "P", "inf": ["predicate"], "why": "Hiring for fighting is temporary, not standing servitude.", "pf": "serves"}
+{"id": "P5-A-B0148-051", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0148-052", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0148-053", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0148-054", "v": "P", "inf": ["predicate"], "why": "\"drove them off\" is banishment, not generic defeat.", "pf": "exiles / banishes"}
+{"id": "P5-A-B0148-055", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0148-056", "v": "U", "inf": ["predicate"], "why": "Pavis named as builder; not spontaneous emergence.", "pf": "founds", "S": ["PAVIS"], "O": ["THE LAND-WITHIN-A-WALL"]}
+{"id": "P5-A-B0148-057", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0148-058", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0148-059", "v": "P", "inf": ["predicate"], "why": "\"besiege\" is a specific raid, more precise than generic fights.", "pf": "invades / raids"}
+{"id": "P5-A-B0148-060", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0148-061", "v": "U", "inf": ["predicate"], "why": "\"plundered land\" is raiding territory, not stealing a portable object.", "pf": "invades / raids"}
+{"id": "P5-A-B0148-062", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0148-063", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0148-064", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0148-065", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0148-066", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0148-067", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0148-068", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0148-069", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0148-070", "v": "P", "inf": ["predicate"], "why": "\"his Berserkers\" implies possession; service not explicitly verbalized.", "pf": "serves"}
+{"id": "P5-A-B0148-071", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0148-072", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0148-073", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0148-074", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0148-075", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0148-076", "v": "P", "inf": ["predicate"], "why": "\"obey laws\" fits submission, not master-servant service.", "pf": "submits to"}
+{"id": "P5-A-B0149-001", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0149-002", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0149-003", "v": "P", "inf": ["predicate"], "why": "\"saved them\" is rescue, not general protection.", "pf": "rescues / frees"}
+{"id": "P5-A-B0149-004", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0149-005", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0149-006", "v": "P", "inf": ["predicate"], "why": "\"expelled\" specifically denotes banishment.", "pf": "exiles / banishes"}
+{"id": "P5-A-B0149-007", "v": "P", "inf": ["predicate"], "why": "\"opposed\" is vaguer confrontation, closer to challenges.", "pf": "challenges"}
+{"id": "P5-A-B0149-008", "v": "P", "inf": ["predicate"], "why": "\"opposed\" is vaguer confrontation, closer to challenges.", "pf": "challenges"}
+{"id": "P5-A-B0149-009", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0149-010", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0149-011", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0149-012", "v": "P", "inf": ["predicate"], "why": "\"reject lifestyle\" is not literal departure from a place/party.", "pf": "departs from"}
+{"id": "P5-A-B0149-013", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0149-014", "v": "P", "inf": ["predicate"], "why": "\"sacked\" implies conquest/plunder, stronger than generic defeat.", "pf": "conquers"}
+{"id": "P5-A-B0149-015", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0149-016", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0149-017", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0149-018", "v": "U", "inf": ["predicate"], "why": "\"worship\" reverses direction: deity is worshipped by baboons.", "pf": "is worshipped by", "S": ["GRANDFATHER BABOON"], "O": ["BABOONS"]}
+{"id": "P5-A-B0149-019", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0149-020", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0149-021", "v": "P", "inf": ["predicate"], "why": "\"adjured their primacy\" is renunciation of allegiance, closer to betrayal.", "pf": "betrays"}
+{"id": "P5-A-B0149-022", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0149-023", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0149-024", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0149-025", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0149-026", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0149-027", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0149-028", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0149-029", "v": "U", "inf": ["predicate"], "why": "\"worship\" reverses direction: deity is worshipped by tribe.", "pf": "is worshipped by", "S": ["EIRITHA"], "O": ["BASTARD TRIBES"]}
+{"id": "P5-A-B0149-030", "v": "U", "inf": ["predicate"], "why": "\"worship\" reverses direction: deity is worshipped by the men.", "pf": "is worshipped by", "S": ["ORLANTH"], "O": ["MEN OF THE BASTARD TRIBES"]}
+{"id": "P5-A-B0149-031", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0149-032", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0149-033", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0149-034", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0149-035", "v": "P", "inf": ["subject"], "why": "Monsters as attacker inferred from prior context, not stated in this segment.", "pf": "wounds"}
+{"id": "P5-A-B0149-036", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-A-B0149-037", "v": "P", "inf": ["predicate"], "why": "\"saved from death\" is rescue, more specific than protects.", "pf": "rescues / frees"}
+{"id": "P5-A-B0149-038", "v": "P", "inf": ["predicate"], "why": "\"formed an alliance\" matches allies with, not formal oath.", "pf": "allies with"}
+{"id": "P5-A-B0149-039", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0149-040", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0149-041", "v": "P", "inf": ["predicate"], "why": "\"monster land\" is not clearly the Underworld/Hell of the dead.", "pf": "travels"}
+{"id": "P5-A-B0149-042", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0149-043", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0149-044", "v": "P", "inf": ["predicate"], "why": "\"drove away\" is banishment, more precise than generic defeat.", "pf": "exiles / banishes"}
+{"id": "P5-A-B0149-045", "v": "U", "inf": ["predicate"], "why": "\"conquered\" not \"rules\"; conquest is the stated act.", "pf": "conquers"}
+{"id": "P5-A-B0149-046", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0149-048", "v": "P", "inf": ["predicate"], "why": "\"expelled\" specifically denotes banishment.", "pf": "exiles / banishes"}
+{"id": "P5-A-B0149-049", "v": "S", "inf": [], "pf": "corrupts"}
+{"id": "P5-A-B0149-050", "v": "P", "inf": ["predicate"], "why": "\"counsel peace\" is speaking/advising, not instructive teaching.", "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-A-B0149-051", "v": "P", "inf": ["predicate"], "why": "Accusation of bribery is inferred as a challenge to legitimacy.", "pf": "challenges"}
+{"id": "P5-A-B0149-052", "v": "P", "inf": ["predicate"], "why": "\"invade\" is a specific raid, more precise than generic fights.", "pf": "invades / raids"}
+{"id": "P5-A-B0149-053", "v": "P", "inf": ["predicate"], "why": "\"fled south\" is fleeing, more precise than generic travel.", "pf": "flees to"}
+{"id": "P5-A-B0149-054", "v": "P", "inf": ["predicate"], "why": "\"drove back\" is banishment, more precise than generic defeat.", "pf": "exiles / banishes"}
+{"id": "P5-A-B0149-055", "v": "P", "inf": ["predicate"], "why": "\"seduced into supporting\" is aiding, not master-servant service.", "pf": "aids"}
+{"id": "P5-A-B0149-056", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-A-B0149-057", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0149-058", "v": "P", "inf": ["predicate"], "why": "\"leading a horde into\" is invasion, more precise than travel.", "pf": "invades / raids"}
+{"id": "P5-A-B0149-059", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0149-060", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0150-001", "v": "P", "inf": ["predicate"], "why": "\"conquer\" is stated act, more precise than generic defeat.", "pf": "conquers"}
+{"id": "P5-A-B0150-002", "v": "P", "inf": ["predicate"], "why": "\"raided\" is a specific attack, more precise than generic fights.", "pf": "invades / raids"}
+{"id": "P5-A-B0150-003", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0150-004", "v": "U", "inf": ["predicate"], "why": "Text says \"invaded\", not merely travels.", "pf": "invades / raids"}
+{"id": "P5-A-B0150-005", "v": "U", "inf": ["predicate"], "why": "Text says \"invaded\", not merely travels.", "pf": "invades / raids"}
+{"id": "P5-A-B0150-006", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0150-007", "v": "U", "inf": ["predicate"], "why": "Text says \"invaded\", not merely travels.", "pf": "invades / raids"}
+{"id": "P5-A-B0150-008", "v": "U", "inf": ["predicate"], "why": "\"acclaimed as Emperor\" is accession to rule, not a vague station change.", "pf": "accedes to rule", "O": ["SKY PEOPLE"]}
+{"id": "P5-A-B0150-009", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0150-010", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0150-011", "v": "U", "inf": ["predicate"], "why": "\"cast a great spell\" is a curse against him, not a vague station change.", "pf": "curses"}
+{"id": "P5-A-B0150-012", "v": "P", "inf": ["predicate"], "why": "\"expelled\" specifically denotes banishment.", "pf": "exiles / banishes"}
+{"id": "P5-A-B0150-013", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0150-014", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0150-015", "v": "U", "inf": ["predicate"], "why": "\"worshipped\" reverses direction: deity is worshipped by tribes.", "pf": "is worshipped by", "S": ["FOUR WINDS"], "O": ["MANY TRIBES"]}
+{"id": "P5-A-B0150-016", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0150-017", "v": "P", "inf": ["predicate"], "why": "Background fact about origins, not a narrated coming-into-being event.", "pf": "comes into being"}
+{"id": "P5-A-B0150-018", "v": "S", "inf": [], "pf": "substitutes"}
+{"id": "P5-A-B0150-019", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0150-020", "v": "U", "inf": ["predicate"], "why": "\"worship\" reverses direction: deity is worshipped by trolls.", "pf": "is worshipped by", "S": ["KYGER LITOR"], "O": ["DARK TROLLS"]}
+{"id": "P5-A-B0150-021", "v": "P", "inf": ["at_the_instigation_of"], "why": "Gbaji named as instigator via curse, though creation is mediated not direct.", "pf": "comes into being"}
+{"id": "P5-A-B0150-022", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0150-023", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0150-024", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0150-025", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0150-026", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0150-027", "v": "U", "inf": ["predicate"], "why": "Ezkankekko named as founder; not spontaneous emergence.", "pf": "founds", "S": ["EZKANKEKKO"], "O": ["COUNCIL OF FRIENDS"]}
+{"id": "P5-A-B0150-028", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0150-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0150-030", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0150-031", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0150-032", "v": "U", "inf": ["predicate"], "why": "Text says \"invaded and conquered\", not merely travels.", "pf": "invades / raids"}
+{"id": "P5-A-B0150-033", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0150-034", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0150-035", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0150-036", "v": "P", "inf": ["predicate"], "why": "\"goddess of darkness\" maps to domain per convention, not embodiment.", "pf": "has domain"}
+{"id": "P5-A-B0150-037", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0150-038", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0150-039", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0150-040", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0150-041", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0150-042", "v": "P", "inf": ["predicate"], "why": "Only sending is narrated; actual combat not directly stated.", "pf": "fights"}
+{"id": "P5-A-B0150-043", "v": "P", "inf": ["predicate"], "why": "\"cursed ... with Womb-biter\" is a curse, not a geas/obligation.", "pf": "curses"}
+{"id": "P5-A-B0150-044", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0150-045", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0150-046", "v": "U", "inf": ["predicate"], "why": "\"is worshipped by\" reverses subject/object: Argan Argar is the deity.", "pf": "is worshipped by", "S": ["ARGAN ARGAR"], "O": ["UZ"]}
+{"id": "P5-A-B0150-047", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0150-048", "v": "S", "inf": [], "pf": "is sibling of", "qual": "twin"}
+{"id": "P5-A-B0150-049", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0150-050", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0150-051", "v": "P", "inf": ["predicate"], "why": "\"god of the hunt\" maps to domain per convention.", "pf": "has domain"}
+{"id": "P5-A-B0150-052", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0150-053", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0150-054", "v": "U", "inf": ["predicate"], "why": "\"worship\" reverses direction: deity is worshipped by trolls.", "pf": "is worshipped by", "S": ["BLUE MOON"], "O": ["BLUE MOON PLATEAU TROLLS"]}
+{"id": "P5-A-B0150-055", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0150-056", "v": "U", "inf": ["predicate"], "why": "Gore and Gash named as builders; not spontaneous emergence.", "pf": "founds", "S": ["GORE", "GASH"], "O": ["DAGORI INKARTH"]}
+{"id": "P5-A-B0150-057", "v": "P", "inf": ["predicate"], "why": "\"constant war\" is an ongoing state, more precise than generic fights.", "pf": "wages war on"}
+{"id": "P5-A-B0150-058", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0150-059", "v": "P", "inf": ["predicate"], "why": "\"settled\" is a specific settlement act, more precise than generic travel.", "pf": "settles at"}
+{"id": "P5-A-B0150-060", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0150-061", "v": "S", "inf": [], "pf": "departs from"}

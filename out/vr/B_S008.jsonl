@@ -1,0 +1,150 @@
+{"id": "P5-B-B0023-039", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-B-B0023-040", "v": "P", "inf": ["subject", "predicate"], "why": "subject pronoun; 'tested against' weaker than fights", "pf": "fights"}
+{"id": "P5-B-B0023-041", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0023-042", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0023-043", "v": "P", "inf": ["from"], "why": "'his' Death Dart owner inferred as Ratakar", "pf": "steals"}
+{"id": "P5-B-B0023-044", "v": "P", "inf": ["subject"], "why": "subject Fjordaur not named in quote", "pf": "serves"}
+{"id": "P5-B-B0023-045", "v": "P", "inf": ["subject"], "why": "subject entirely unnamed, inferred as Fjordaur", "pf": "fights"}
+{"id": "P5-B-B0023-046", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0023-047", "v": "P", "inf": ["subject", "direct_object"], "why": "both parties pronouns, unnamed in quote", "pf": "fights"}
+{"id": "P5-B-B0023-048", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0023-049", "v": "P", "inf": ["subject"], "why": "equation of JagaNatha/Sedenya requires cross-clause inference", "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0023-050", "v": "P", "inf": ["subject"], "why": "'He' unnamed, inferred as Fjordaur", "pf": "initiates into cult"}
+{"id": "P5-B-B0023-051", "v": "P", "inf": ["subject"], "why": "subject unnamed in fragment", "pf": "re-enacts"}
+{"id": "P5-B-B0023-052", "v": "P", "inf": ["subject", "direct_object"], "why": "'He'/'its god' unnamed pronouns", "pf": "substitutes"}
+{"id": "P5-B-B0023-053", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0023-054", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0023-055", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as Gortania", "pf": "serves"}
+{"id": "P5-B-B0023-056", "v": "P", "inf": ["subject"], "why": "'she' unnamed pronoun", "pf": "defeats"}
+{"id": "P5-B-B0023-057", "v": "P", "inf": ["subject"], "why": "subject unnamed in fragment", "pf": "takes title"}
+{"id": "P5-B-B0024-001", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0024-002", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0024-003", "v": "P", "inf": ["subject"], "why": "agent of defeat not named in quote", "pf": "defeats"}
+{"id": "P5-B-B0024-004", "v": "P", "inf": ["subject"], "why": "subject unnamed in fragment", "pf": "descends into"}
+{"id": "P5-B-B0024-005", "v": "U", "inf": ["subject", "predicate"], "why": "'seduced' shows no marriage; wedding not stated", "pf": "seduces"}
+{"id": "P5-B-B0024-006", "v": "P", "inf": ["indirect_object"], "why": "'their' parents inferred from context", "pf": "is child of"}
+{"id": "P5-B-B0024-007", "v": "P", "inf": ["subject"], "why": "'He' unnamed, inferred as Takenegi", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0024-008", "v": "P", "inf": ["subject"], "why": "'he'/'her' unnamed pronouns", "pf": "fights"}
+{"id": "P5-B-B0024-009", "v": "P", "inf": ["direct_object"], "why": "'him' unnamed, inferred as Takenegi", "pf": "travels"}
+{"id": "P5-B-B0024-010", "v": "P", "inf": ["subject"], "why": "'she' unnamed, inferred as HonEel", "pf": "is deified"}
+{"id": "P5-B-B0024-011", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as Jareel", "pf": "is child of"}
+{"id": "P5-B-B0024-012", "v": "P", "inf": ["subject"], "why": "'a noble' unnamed, inferred as Jurestina", "pf": "claims ancestry"}
+{"id": "P5-B-B0024-013", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0024-014", "v": "U", "inf": ["predicate"], "why": "'led' denotes leadership, not re-enactment", "pf": "leads"}
+{"id": "P5-B-B0024-015", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0024-016", "v": "P", "inf": ["direct_object"], "why": "'his family' unnamed, inferred as Grevlar's", "pf": "kills"}
+{"id": "P5-B-B0024-017", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0024-018", "v": "P", "inf": ["subject", "direct_object"], "why": "'he'/'his foe' unnamed pronouns", "pf": "kills"}
+{"id": "P5-B-B0024-019", "v": "P", "inf": ["subject"], "why": "'He' unnamed, inferred as Grevlar", "pf": "defeats"}
+{"id": "P5-B-B0024-020", "v": "P", "inf": ["subject"], "why": "'his' unnamed, inferred as Grevlar", "pf": "defeats"}
+{"id": "P5-B-B0024-021", "v": "P", "inf": ["direct_object", "indirect_object"], "why": "'him'/'the empire' unnamed pronouns", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0024-022", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0024-023", "v": "P", "inf": ["direct_object"], "why": "'her' unnamed, inferred as Etyries", "pf": "re-enacts"}
+{"id": "P5-B-B0024-024", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0024-025", "v": "P", "inf": ["subject"], "why": "'He' unnamed, inferred as Hechkoth", "pf": "travels"}
+{"id": "P5-B-B0024-026", "v": "P", "inf": ["subject"], "why": "subject unnamed in fragment", "pf": "defeats"}
+{"id": "P5-B-B0024-027", "v": "P", "inf": ["direct_object"], "why": "'He' unnamed, inferred as Hechkoth", "pf": "invades / raids"}
+{"id": "P5-B-B0024-028", "v": "P", "inf": ["direct_object"], "why": "'him' unnamed, inferred as Hechkoth", "pf": "aids"}
+{"id": "P5-B-B0024-029", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0024-030", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as HonEel", "pf": "exiles / banishes"}
+{"id": "P5-B-B0024-031", "v": "P", "inf": ["subject", "direct_object"], "why": "'She'/'his' unnamed pronouns", "pf": "is child of"}
+{"id": "P5-B-B0024-032", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as HonEel", "pf": "transforms into"}
+{"id": "P5-B-B0024-033", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as HonEel", "pf": "travels"}
+{"id": "P5-B-B0024-034", "v": "P", "inf": ["subject"], "why": "subject unnamed in fragment", "pf": "discovers"}
+{"id": "P5-B-B0024-035", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0024-036", "v": "U", "inf": ["subject", "predicate"], "why": "'seduced' only, no wedding stated", "pf": "seduces"}
+{"id": "P5-B-B0024-037", "v": "P", "inf": ["subject", "direct_object"], "why": "parents/child identity inferred from context", "pf": "is child of"}
+{"id": "P5-B-B0024-038", "v": "P", "inf": ["subject"], "why": "'Her' unnamed, inferred as HonEel", "pf": "is deified"}
+{"id": "P5-B-B0024-039", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as HonEel", "pf": "exiles / banishes"}
+{"id": "P5-B-B0024-040", "v": "P", "inf": ["subject"], "why": "'she' unnamed, inferred as HonEel", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0024-041", "v": "P", "inf": ["subject", "direct_object"], "why": "'him'/parents unnamed pronouns", "pf": "is child of", "qual": "twin"}
+{"id": "P5-B-B0024-042", "v": "U", "inf": ["predicate"], "why": "'seduced' only, no wedding described", "pf": "seduces"}
+{"id": "P5-B-B0024-043", "v": "P", "inf": ["subject", "direct_object"], "why": "'him'/heir identity inferred", "pf": "is child of"}
+{"id": "P5-B-B0024-044", "v": "U", "inf": ["subject", "predicate"], "why": "'seduced' only, not married; no wedding", "pf": "seduces"}
+{"id": "P5-B-B0024-045", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as HonEel", "pf": "is child of"}
+{"id": "P5-B-B0024-046", "v": "U", "inf": ["subject", "predicate"], "why": "dynasty is founded, not a cult", "pf": "founds"}
+{"id": "P5-B-B0024-047", "v": "P", "inf": ["direct_object"], "why": "'the emperor' assumed to be Red Emperor", "pf": "is child of"}
+{"id": "P5-B-B0024-048", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0024-049", "v": "P", "inf": ["direct_object"], "why": "'it' unnamed, inferred as Rist", "pf": "kills"}
+{"id": "P5-B-B0024-050", "v": "P", "inf": ["subject"], "why": "subject unnamed, 'placated' is pacifying not protecting", "pf": "makes peace with"}
+{"id": "P5-B-B0024-051", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as Hwarin", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0024-052", "v": "P", "inf": ["subject"], "why": "'His' unnamed, inferred as Ingkot", "pf": "initiates into cult"}
+{"id": "P5-B-B0024-053", "v": "P", "inf": ["subject"], "why": "'they' unnamed pronoun", "pf": "conquers"}
+{"id": "P5-B-B0024-054", "v": "P", "inf": ["subject"], "why": "subject unnamed in fragment", "pf": "defeats"}
+{"id": "P5-B-B0024-055", "v": "U", "inf": ["subject", "predicate"], "why": "'enslaved' matches binds, not defeats", "pf": "binds"}
+{"id": "P5-B-B0024-056", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as Hwarin", "pf": "defeats"}
+{"id": "P5-B-B0024-057", "v": "P", "inf": ["subject"], "why": "'her' unnamed, inferred as Hwarin", "pf": "takes title"}
+{"id": "P5-B-B0024-058", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as Hwarin", "pf": "rules"}
+{"id": "P5-B-B0024-059", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0024-060", "v": "P", "inf": ["subject"], "why": "'He' unnamed, inferred as Irin", "pf": "initiates into cult"}
+{"id": "P5-B-B0024-061", "v": "P", "inf": ["subject"], "why": "'He' unnamed, inferred as Irin", "pf": "fights"}
+{"id": "P5-B-B0024-062", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0024-063", "v": "P", "inf": ["predicate"], "why": "'undertook rites' doesn't confirm apotheosis achieved", "pf": "is deified"}
+{"id": "P5-B-B0024-064", "v": "P", "inf": ["subject"], "why": "'he' unnamed, inferred as Irin", "pf": "conquers"}
+{"id": "P5-B-B0024-065", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0024-066", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-B-B0024-067", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0024-068", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0024-069", "v": "P", "inf": ["subject"], "why": "'his' unnamed, inferred as Irippi Ontor", "pf": "aids"}
+{"id": "P5-B-B0024-070", "v": "P", "inf": ["subject"], "why": "'he' unnamed, inferred as Irippi Ontor", "pf": "flees to"}
+{"id": "P5-B-B0024-071", "v": "P", "inf": ["subject"], "why": "'he' unnamed, inferred as Irippi Ontor", "pf": "establishes cult"}
+{"id": "P5-B-B0024-072", "v": "P", "inf": ["subject"], "why": "'He' unnamed, inferred as Irippi Ontor", "pf": "teaches"}
+{"id": "P5-B-B0024-073", "v": "P", "inf": ["subject"], "why": "'he' unnamed, inferred as Irippi Ontor", "pf": "kills"}
+{"id": "P5-B-B0024-074", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0025-001", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0025-002", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as Jakaleel", "pf": "holds office in"}
+{"id": "P5-B-B0025-003", "v": "P", "inf": ["subject", "direct_object"], "why": "'She'/'her' unnamed pronouns", "pf": "departs from"}
+{"id": "P5-B-B0025-004", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0025-005", "v": "P", "inf": ["direct_object"], "why": "'She' unnamed, inferred as Jakaleel", "pf": "challenges"}
+{"id": "P5-B-B0025-006", "v": "P", "inf": ["direct_object"], "why": "'them' unnamed group", "pf": "defeats"}
+{"id": "P5-B-B0025-007", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-B-B0025-008", "v": "U", "inf": ["predicate"], "why": "she names/leads tradition, not merely a member", "pf": "founds"}
+{"id": "P5-B-B0025-009", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0025-010", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as Tetese", "pf": "travels"}
+{"id": "P5-B-B0025-011", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-B-B0025-012", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-B-B0025-013", "v": "U", "inf": [], "why": "direction reversed: school reveres Jakaleel, not serves", "pf": "is worshipped by", "S": ["JAKALEEL"], "O": ["SPINDLE HAG SCHOOL"]}
+{"id": "P5-B-B0025-014", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-B-B0025-015", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0025-016", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0025-017", "v": "P", "inf": ["direct_object"], "why": "'him' unnamed, inferred as Kana Poor", "pf": "discovers"}
+{"id": "P5-B-B0025-018", "v": "P", "inf": ["direct_object"], "why": "'him' unnamed, inferred as Kana Poor", "pf": "sends"}
+{"id": "P5-B-B0025-019", "v": "P", "inf": ["subject", "direct_object", "to"], "why": "'they'/'him'/'her' all unnamed pronouns", "pf": "sends"}
+{"id": "P5-B-B0025-020", "v": "P", "inf": ["direct_object"], "why": "'him' unnamed, inferred as Kana Poor", "pf": "protects"}
+{"id": "P5-B-B0025-021", "v": "P", "inf": ["subject"], "why": "'he' unnamed, inferred as Kana Poor", "pf": "discovers"}
+{"id": "P5-B-B0025-022", "v": "P", "inf": ["subject"], "why": "'this searing energy' stands for Kana Poor's power", "pf": "defeats"}
+{"id": "P5-B-B0025-023", "v": "U", "inf": [], "why": "ceremony/agent named; not spontaneous emergence", "pf": "conceives", "S": ["KANA POOR"], "O": ["RED MOON"]}
+{"id": "P5-B-B0025-024", "v": "P", "inf": ["subject"], "why": "subject unnamed in fragment", "pf": "aids"}
+{"id": "P5-B-B0025-025", "v": "P", "inf": ["direct_object"], "why": "'him' unnamed, inferred as Kana Poor", "pf": "manifests as"}
+{"id": "P5-B-B0025-026", "v": "P", "inf": ["subject", "direct_object"], "why": "'him' and command source inferred pronouns", "pf": "establishes cult"}
+{"id": "P5-B-B0025-027", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-B-B0025-028", "v": "U", "inf": [], "why": "'Good Chaos' is epithet of Aggataraltara, not synonym", "pf": "is epithet of", "S": ["GOOD CHAOS"], "O": ["AGGATARALTARA"]}
+{"id": "P5-B-B0025-029", "v": "U", "inf": [], "why": "Blaskarth is the being, Crimson Bat is his form", "pf": "manifests as", "S": ["BLASKARTH"], "O": ["CRIMSON BAT"]}
+{"id": "P5-B-B0025-030", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-B-B0025-031", "v": "P", "inf": ["direct_object"], "why": "'her' unnamed, inferred as Lesilla", "pf": "challenges"}
+{"id": "P5-B-B0025-032", "v": "P", "inf": ["subject", "direct_object"], "why": "'he'/'her' unnamed pronouns", "pf": "wounds"}
+{"id": "P5-B-B0025-033", "v": "P", "inf": ["subject"], "why": "'Great Goddess' assumed to be Lesilla", "pf": "descends into"}
+{"id": "P5-B-B0025-034", "v": "P", "inf": ["direct_object"], "why": "'the emperor' assumed to be Sun Emperor", "pf": "is spouse of"}
+{"id": "P5-B-B0025-035", "v": "P", "inf": ["subject"], "why": "'her' unnamed, inferred as Lesilla", "pf": "is child of"}
+{"id": "P5-B-B0025-037", "v": "P", "inf": ["subject"], "why": "'She'/'Her' pronouns, name not in quote", "pf": "descends into"}
+{"id": "P5-B-B0025-038", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-B-B0025-039", "v": "P", "inf": ["subject"], "why": "'he' unnamed, inferred as Makabaeus", "pf": "illuminates"}
+{"id": "P5-B-B0025-040", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0025-041", "v": "U", "inf": ["predicate"], "why": "'serves as guide' means teaches/leads, not servitude", "pf": "teaches"}
+{"id": "P5-B-B0025-042", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0025-043", "v": "P", "inf": ["subject", "direct_object"], "why": "'The Order' and opponent both loosely inferred", "pf": "fights"}
+{"id": "P5-B-B0025-044", "v": "P", "inf": ["subject"], "why": "victor Teelo Estara not named in this quote", "pf": "defeats"}
+{"id": "P5-B-B0025-045", "v": "P", "inf": ["subject"], "why": "'She' unnamed, inferred as Teelo Estara", "pf": "binds"}
+{"id": "P5-B-B0025-046", "v": "P", "inf": ["subject", "direct_object"], "why": "'her'/'him' unnamed pronouns; weak fit for travel", "pf": "travels"}
+{"id": "P5-B-B0025-048", "v": "P", "inf": ["subject"], "why": "'her' unnamed, inferred as Merasedenya", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0025-049", "v": "P", "inf": ["subject"], "why": "'she' unnamed, inferred as Merasedenya", "pf": "discovers"}
+{"id": "P5-B-B0025-050", "v": "U", "inf": ["direct_object"], "why": "'assisted' matches aids, not standing service", "pf": "aids"}
+{"id": "P5-B-B0025-051", "v": "P", "inf": ["subject"], "why": "'she' unnamed, inferred as Merasedenya", "pf": "has domain"}
+{"id": "P5-B-B0025-052", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-B-B0025-053", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-B-B0025-054", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-B-B0025-055", "v": "P", "inf": ["subject"], "why": "'she' unnamed, inferred as Natha", "pf": "is child of"}
+{"id": "P5-B-B0025-056", "v": "P", "inf": ["subject"], "why": "'she' unnamed, inferred as Natha", "pf": "is deified"}
+{"id": "P5-B-B0025-057", "v": "P", "inf": ["subject"], "why": "'she' unnamed, inferred as Natha", "pf": "protects"}
+{"id": "P5-B-B0025-058", "v": "P", "inf": ["subject"], "why": "'she' unnamed, inferred as Natha", "pf": "binds"}
+{"id": "P5-B-B0025-059", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}

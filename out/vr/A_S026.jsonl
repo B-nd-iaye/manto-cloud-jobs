@@ -1,0 +1,150 @@
+{"id": "P5-A-B0072-001", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0072-002", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0072-003", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0072-004", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0072-005", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0072-006", "v": "U", "inf": ["predicate"], "why": "quote describes healing/aiding, not gift-giving", "pf": "heals"}
+{"id": "P5-A-B0072-007", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0072-008", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0072-009", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0072-010", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0072-011", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0072-012", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0072-013", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0072-014", "v": "P", "inf": ["predicate"], "why": "'god of X' phrasing indicates domain, not an act of protecting", "pf": "has domain"}
+{"id": "P5-A-B0072-015", "v": "P", "inf": ["predicate"], "why": "'patron deity of X' is domain phrasing, not explicit protecting act", "pf": "has domain"}
+{"id": "P5-A-B0072-016", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0072-017", "v": "P", "inf": ["purpose_clause"], "why": "'to thwart' inferred from prior clause, not stated with the plunge", "pf": "descends into"}
+{"id": "P5-A-B0072-018", "v": "U", "inf": ["predicate"], "why": "text narrates a romantic/sexual encounter, not marriage", "pf": "loves / desires"}
+{"id": "P5-A-B0072-019", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0072-020", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0072-021", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0072-022", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0072-023", "v": "P", "inf": ["object"], "why": "'father' not named as Lodril within this quote", "pf": "is child of"}
+{"id": "P5-A-B0072-024", "v": "P", "inf": ["predicate"], "why": "'tended' implies care/nurture, not defensive protection", "pf": "aids"}
+{"id": "P5-A-B0072-025", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0072-026", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0072-027", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0072-028", "v": "S", "inf": [], "pf": "conceives", "S": ["AURELION"], "O": ["AURELION'S BREAKWATER"]}
+{"id": "P5-A-B0072-029", "v": "U", "inf": ["predicate"], "why": "text says refugees accepted his leadership, not that he ruled them", "pf": "leads"}
+{"id": "P5-A-B0072-030", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0072-031", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0072-032", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0072-033", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0072-034", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0072-035", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0072-036", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0072-037", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0072-038", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0072-039", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0072-040", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0072-041", "v": "S", "inf": [], "pf": "conceives", "S": ["CALADRA", "AURELION"], "O": ["DIAMOND"]}
+{"id": "P5-A-B0072-042", "v": "S", "inf": [], "pf": "crafts", "S": ["MOSTALI"], "O": ["DIAMOND GOBLET"]}
+{"id": "P5-A-B0072-043", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0072-044", "v": "U", "inf": ["predicate"], "why": "text describes enmity/hatred, not a challenge", "pf": "hates"}
+{"id": "P5-A-B0072-045", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0072-046", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0072-047", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0072-048", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0072-049", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0073-001", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0073-002", "v": "U", "inf": ["predicate"], "why": "'lovers' indicates romantic liaison, not spousal status", "pf": "loves / desires"}
+{"id": "P5-A-B0073-003", "v": "U", "inf": ["predicate"], "why": "'captured' matches capture, not imprisonment/binding", "pf": "captures"}
+{"id": "P5-A-B0073-004", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0073-005", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0073-006", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0073-007", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0073-008", "v": "S", "inf": [], "pf": "appears"}
+{"id": "P5-A-B0073-009", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0073-010", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0073-011", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0073-012", "v": "P", "inf": ["direct_object", "predicate"], "why": "'quest for vengeance' implies avenges; target and travel not stated", "pf": "avenges"}
+{"id": "P5-A-B0073-013", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0073-014", "v": "S", "inf": [], "pf": "is sibling of", "qual": "twin"}
+{"id": "P5-A-B0073-015", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0073-016", "v": "P", "inf": ["object"], "why": "'Dance and Music' not literally named as Silonia/Ralforisus here", "pf": "is child of"}
+{"id": "P5-A-B0073-017", "v": "P", "inf": ["object"], "why": "'Dance and Music' not literally named as Silonia/Ralforisus here", "pf": "is child of"}
+{"id": "P5-A-B0073-018", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0073-019", "v": "P", "inf": ["object"], "why": "'Dance and Music' not literally named as Silonia/Ralforisus here", "pf": "is child of"}
+{"id": "P5-A-B0073-020", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0073-021", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0073-022", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0073-023", "v": "U", "inf": ["predicate"], "why": "'captured' matches capture, not binding/imprisonment", "pf": "captures"}
+{"id": "P5-A-B0073-024", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0073-025", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0073-026", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0073-027", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0073-028", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0073-029", "v": "P", "inf": ["predicate"], "why": "'chewed away parts' indicates dismemberment, stronger than wounding", "pf": "dismembers"}
+{"id": "P5-A-B0073-030", "v": "P", "inf": ["predicate"], "why": "musical entrancement into dancing best matches seduces, not listed enchant term", "pf": "seduces"}
+{"id": "P5-A-B0073-031", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0073-032", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0073-033", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0073-034", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0073-035", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0073-036", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0073-037", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0073-038", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0073-039", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0073-040", "v": "P", "inf": ["subject"], "why": "giver Aether not explicitly named in this quote segment", "pf": "bestows"}
+{"id": "P5-A-B0073-041", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0073-042", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0073-043", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0073-044", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0073-045", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0073-046", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0073-047", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0074-001", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0074-002", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0074-003", "v": "S", "inf": [], "pf": "betrays"}
+{"id": "P5-A-B0074-004", "v": "P", "inf": ["predicate"], "why": "simile 'like the village head man' and 'tries to coordinate' hedges full rule claim", "pf": "leads"}
+{"id": "P5-A-B0074-005", "v": "P", "inf": ["direct_object"], "why": "'it' refers to the cult only via surrounding context, not this quote", "pf": "establishes cult"}
+{"id": "P5-A-B0074-006", "v": "S", "inf": [], "pf": "crafts", "S": ["GUSTBRAN"], "O": ["THE INVISIBLE SPEAR OF MANHOOD"]}
+{"id": "P5-A-B0074-007", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0074-008", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0074-009", "v": "S", "inf": [], "pf": "substitutes"}
+{"id": "P5-A-B0074-010", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0074-011", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0074-012", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0074-013", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0074-014", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0074-015", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0074-016", "v": "P", "inf": ["predicate"], "why": "Lodril blocks the invasion by raising mountains, not directly fighting it", "pf": "fights"}
+{"id": "P5-A-B0074-017", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0074-018", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0074-019", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0074-020", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0074-021", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0074-022", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0074-023", "v": "S", "inf": [], "pf": "appoints"}
+{"id": "P5-A-B0074-024", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0074-025", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0074-026", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0074-027", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0074-028", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0074-029", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0074-030", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0074-031", "v": "S", "inf": [], "pf": "takes title", "S": ["YELM"], "O": ["HEALER"]}
+{"id": "P5-A-B0074-032", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0074-033", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0074-034", "v": "S", "inf": [], "pf": "takes title", "S": ["YELM"], "O": ["YELM IMPERATOR"]}
+{"id": "P5-A-B0074-035", "v": "S", "inf": [], "pf": "accedes to rule", "S": ["YELM"], "O": ["THE COSMOS"]}
+{"id": "P5-A-B0074-036", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0074-037", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0074-038", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE GUARDIAN OF THE EARTHLY POWERS"], "O": ["MOLANDRO"]}
+{"id": "P5-A-B0074-039", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0074-040", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "monstrous"}
+{"id": "P5-A-B0074-041", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0075-001", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0075-002", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0075-003", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0075-004", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0075-005", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0075-006", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0075-007", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0075-008", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0075-009", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0075-010", "v": "S", "inf": [], "pf": "founds", "S": ["YELM"], "O": ["LAND OF THE BRIGHT DEAD"]}
+{"id": "P5-A-B0075-011", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0075-012", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0075-013", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}

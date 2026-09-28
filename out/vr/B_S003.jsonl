@@ -1,0 +1,150 @@
+{"id": "P5-B-B0007-009", "v": "U", "inf": ["subject", "predicate"], "why": "quote shows worship relation reversed; not cult establishment", "pf": "is worshipped by", "S": ["TORCH"], "O": ["ALDRYAMI"]}
+{"id": "P5-B-B0007-010", "v": "U", "inf": ["predicate"], "why": "no descent into underworld stated, only death", "pf": "dies"}
+{"id": "P5-B-B0007-011", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0007-012", "v": "U", "inf": ["predicate"], "why": "describes founding a settlement, not a cult", "pf": "founds"}
+{"id": "P5-B-B0007-013", "v": "P", "inf": ["subject"], "why": "agent of smashing inferred from 'wrath of Giants'", "pf": "shatters"}
+{"id": "P5-B-B0007-014", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0007-015", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0007-016", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0007-017", "v": "U", "inf": ["predicate"], "why": "quote says 'brought back', not stolen", "pf": "brings back"}
+{"id": "P5-B-B0007-018", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0007-019", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0007-020", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0007-021", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0007-022", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-B-B0007-023", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0007-024", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0007-025", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0007-026", "v": "U", "inf": ["predicate"], "why": "describes a holy site, not founding the cult", "pf": "receives cult at"}
+{"id": "P5-B-B0007-027", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0007-028", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0007-029", "v": "P", "inf": ["in_on_at"], "why": "quote doesn't name Tada's High Tumulus location", "pf": "survives as relic"}
+{"id": "P5-B-B0007-030", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0007-031", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0007-032", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0007-033", "v": "U", "inf": ["predicate"], "why": "describes a cult center/site, not founding", "pf": "receives cult at"}
+{"id": "P5-B-B0007-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0007-035", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0007-036", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0007-037", "v": "U", "inf": ["predicate"], "why": "a piece of Umath persists as landmark, not a transformation", "pf": "survives as relic"}
+{"id": "P5-B-B0007-038", "v": "U", "inf": ["predicate"], "why": "states dwelling/home, not embodiment", "pf": "dwells at"}
+{"id": "P5-B-B0007-039", "v": "U", "inf": ["predicate"], "why": "hills are a relic (jaw) of the dragon, not the dragon transformed", "pf": "survives as relic"}
+{"id": "P5-B-B0008-001", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0008-002", "v": "P", "inf": ["purpose_clause"], "why": "purpose clause states intent to defeat, not confirmed outcome", "pf": "defeats"}
+{"id": "P5-B-B0008-003", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0008-004", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0008-005", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0008-006", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0008-007", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0008-008", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0008-009", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0008-010", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0008-011", "v": "U", "inf": ["predicate"], "why": "quote says invaded and destroyed, matches shatters not defeats", "pf": "shatters"}
+{"id": "P5-B-B0008-012", "v": "U", "inf": ["predicate"], "why": "quote says 'saved', matches rescue not ongoing protection", "pf": "rescues / frees"}
+{"id": "P5-B-B0008-013", "v": "S", "inf": [], "pf": "conceives"}
+{"id": "P5-B-B0008-014", "v": "P", "inf": ["predicate"], "why": "rivalry stated, no specific challenge event described", "pf": "challenges"}
+{"id": "P5-B-B0008-015", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0008-016", "v": "U", "inf": ["predicate"], "why": "quote explicitly says 'invade the land'", "pf": "invades / raids"}
+{"id": "P5-B-B0008-017", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0008-018", "v": "U", "inf": ["predicate"], "why": "'founder of his race' is founding, not cult establishment", "pf": "founds"}
+{"id": "P5-B-B0008-019", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0008-020", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0008-021", "v": "U", "inf": ["predicate"], "why": "quote says allied, not a sworn oath", "pf": "allies with"}
+{"id": "P5-B-B0008-022", "v": "U", "inf": ["subject", "object"], "why": "quote states Triolini aided Waertagi, not Waertagi ruling", "pf": "aids", "S": ["TRIOLINI"], "O": ["WAERTAGI"]}
+{"id": "P5-B-B0008-023", "v": "U", "inf": ["predicate"], "why": "quote specifies raids, more precise than general fights", "pf": "invades / raids"}
+{"id": "P5-B-B0008-024", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0008-025", "v": "U", "inf": ["predicate"], "why": "quote explicitly says 'summoned'", "pf": "summons / invokes"}
+{"id": "P5-B-B0008-026", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0008-027", "v": "U", "inf": ["predicate"], "why": "'sailed down' is travel, not underworld descent per quote", "pf": "travels"}
+{"id": "P5-B-B0008-028", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0008-029", "v": "U", "inf": ["predicate"], "why": "a general trait/affinity statement, no specific relation event", "pf": "REJECT"}
+{"id": "P5-B-B0008-030", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0008-031", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0008-032", "v": "P", "inf": ["predicate"], "why": "'disappeared' with no stated place of departure", "pf": "departs from"}
+{"id": "P5-B-B0009-001", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0009-002", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0009-003", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0009-004", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0009-005", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0009-006", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0009-007", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0009-008", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0009-009", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0009-010", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0009-011", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0009-012", "v": "U", "inf": ["predicate"], "why": "'swore obeisance' expresses submission, not an oath pact", "pf": "submits to"}
+{"id": "P5-B-B0009-013", "v": "U", "inf": ["predicate"], "why": "proving unreal/transitory is exposing/unmasking, not combat defeat", "pf": "unmasks"}
+{"id": "P5-B-B0009-014", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0009-015", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0009-016", "v": "U", "inf": ["predicate"], "why": "'drove back to their islands' matches banishing, not general defeat", "pf": "exiles / banishes"}
+{"id": "P5-B-B0009-017", "v": "U", "inf": ["predicate"], "why": "'driven off' matches banishing, not general defeat", "pf": "exiles / banishes"}
+{"id": "P5-B-B0009-018", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0009-019", "v": "U", "inf": ["subject", "object"], "why": "'Goddess of Dreams' is a domain title, reversed from being/domain form", "pf": "has domain", "S": ["THELLA"], "O": ["DREAMS"]}
+{"id": "P5-B-B0009-020", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0009-021", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0009-022", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0009-023", "v": "U", "inf": ["predicate"], "why": "'became the Goddess of Dawn' is assuming a new title/domain", "pf": "takes title", "O": ["GODDESS OF DAWN"]}
+{"id": "P5-B-B0009-024", "v": "P", "inf": ["direct_object", "indirect_object"], "why": "no object or recipient of the sacrifice named", "pf": "performs sacrifice"}
+{"id": "P5-B-B0009-025", "v": "U", "inf": ["subject", "object"], "why": "'Underworld Goddess' is a domain title, reversed direction", "pf": "has domain", "S": ["GEBKERAN"], "O": ["UNDERWORLD"]}
+{"id": "P5-B-B0009-026", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0009-027", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0009-028", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0009-029", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0009-030", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0009-031", "v": "U", "inf": ["predicate"], "why": "'destroyed the queendom' matches shatter of a polity/place", "pf": "shatters"}
+{"id": "P5-B-B0009-032", "v": "U", "inf": ["subject", "object"], "why": "'Goddess of Beasts' is a domain title, reversed direction", "pf": "has domain", "S": ["PROSENDARA"], "O": ["BEASTS"]}
+{"id": "P5-B-B0009-033", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0009-034", "v": "U", "inf": ["predicate"], "why": "'conquered' fits territorial conquest more precisely than defeat", "pf": "conquers"}
+{"id": "P5-B-B0009-035", "v": "U", "inf": ["object"], "why": "'they' refers to the islands freed, not the antigods", "pf": "rescues / frees", "O": ["TEZDERE CHAIN"]}
+{"id": "P5-B-B0010-001", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0010-002", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0010-003", "v": "U", "inf": ["subject", "object"], "why": "'Golden Archer Prince' is epithet reversed from bearer", "pf": "is epithet of", "S": ["GOLDEN ARCHER PRINCE"], "O": ["HENSARAVA"]}
+{"id": "P5-B-B0010-004", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0010-005", "v": "S", "inf": [], "pf": "dedicates relic"}
+{"id": "P5-B-B0010-006", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0010-007", "v": "U", "inf": ["predicate"], "why": "Sarono causes submersion, not a mythic-station shift of Sarono itself", "pf": "causes"}
+{"id": "P5-B-B0010-008", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0010-009", "v": "U", "inf": ["predicate"], "why": "raising a palace is building/crafting, not dedicating a relic", "pf": "crafts"}
+{"id": "P5-B-B0010-010", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0010-011", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-B-B0010-012", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-B-B0010-013", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0010-014", "v": "U", "inf": ["subject", "object"], "why": "'Great Bolt' is epithet reversed from bearer", "pf": "is epithet of", "S": ["GREAT BOLT"], "O": ["KABALT"]}
+{"id": "P5-B-B0010-015", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0010-016", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0010-017", "v": "U", "inf": ["subject", "object"], "why": "'Monster Slayer' is epithet reversed from bearer", "pf": "is epithet of", "S": ["MONSTER SLAYER"], "O": ["JUNGOZARO"]}
+{"id": "P5-B-B0010-018", "v": "U", "inf": ["subject", "object"], "why": "'Merciful Goddess' is epithet reversed from bearer", "pf": "is epithet of", "S": ["MERCIFUL GODDESS"], "O": ["MAIRNALI"]}
+{"id": "P5-B-B0010-019", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0010-020", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0010-021", "v": "U", "inf": ["subject", "object"], "why": "worship relation reversed; deity should be subject", "pf": "is worshipped by", "S": ["HOBIMARONG"], "O": ["PEOPLE OF MOKATO"]}
+{"id": "P5-B-B0010-022", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0010-023", "v": "U", "inf": ["subject", "object"], "why": "'Radiant Emperor' is epithet reversed from bearer", "pf": "is epithet of", "S": ["RADIANT EMPEROR"], "O": ["GOVMERANEN"]}
+{"id": "P5-B-B0010-024", "v": "U", "inf": ["predicate"], "why": "'Air God of Vithela' expresses domain, not generic identification", "pf": "has domain"}
+{"id": "P5-B-B0010-025", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0010-026", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0010-027", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0010-028", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0010-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0010-030", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0010-031", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0010-032", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0010-033", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0010-034", "v": "U", "inf": ["subject", "object"], "why": "'Burning Lord' is epithet reversed from bearer", "pf": "is epithet of", "S": ["BURNING LORD"], "O": ["KARKAL"]}
+{"id": "P5-B-B0010-035", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0010-036", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0010-037", "v": "U", "inf": ["predicate"], "why": "quote says 'pursued', matches hunting not general fighting", "pf": "hunts"}
+{"id": "P5-B-B0010-038", "v": "U", "inf": ["subject", "object"], "why": "worship relation reversed; deity should be subject", "pf": "is worshipped by", "S": ["BINDA"], "O": ["ERAL"]}
+{"id": "P5-B-B0010-039", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-B-B0010-040", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0010-041", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0010-042", "v": "U", "inf": ["predicate"], "why": "'cooking god' expresses domain, not generic identification", "pf": "has domain"}
+{"id": "P5-B-B0010-043", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0010-044", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-B-B0010-045", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0010-046", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0010-047", "v": "U", "inf": ["predicate"], "why": "quote says 'conquering', more precise than fighting", "pf": "conquers"}
+{"id": "P5-B-B0010-048", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0010-049", "v": "P", "inf": ["purpose_clause"], "why": "purpose clause states intent to fight, not completed engagement", "pf": "fights"}
+{"id": "P5-B-B0010-050", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0010-051", "v": "U", "inf": ["predicate"], "why": "quote explicitly says 'invaded'", "pf": "invades / raids"}
+{"id": "P5-B-B0010-052", "v": "S", "inf": [], "pf": "bestows"}

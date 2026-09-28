@@ -1,0 +1,150 @@
+{"id": "P5-A-B0034-017", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0034-018", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0034-019", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0034-020", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0035-001", "v": "U", "inf": ["predicate"], "why": "domain over illness, not elemental embodiment", "pf": "has domain"}
+{"id": "P5-A-B0035-002", "v": "P", "inf": ["subject"], "why": "'a part of her' not explicitly named Pranjala", "pf": "departs from"}
+{"id": "P5-A-B0035-003", "v": "P", "inf": ["subject", "direct_object", "predicate"], "why": "pronouns inferred; infecting is not generic fighting", "pf": "curses"}
+{"id": "P5-A-B0035-004", "v": "P", "inf": ["subject"], "why": "'her twin' names Pranjala only implicitly", "pf": "is sibling of", "qual": "twin"}
+{"id": "P5-A-B0035-005", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0035-006", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0035-007", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0035-008", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0035-009", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0035-010", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0035-011", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0035-012", "v": "P", "inf": ["predicate"], "why": "'weapon companion' not clearly servant relation", "pf": "serves"}
+{"id": "P5-A-B0035-013", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0035-014", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0035-015", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0035-016", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0035-017", "v": "S", "inf": [], "pf": "heals"}
+{"id": "P5-A-B0035-018", "v": "U", "inf": ["predicate"], "why": "'held as slaves' is enslavement, not rule", "pf": "binds"}
+{"id": "P5-A-B0035-019", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0035-020", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0035-021", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "monstrous"}
+{"id": "P5-A-B0035-022", "v": "P", "inf": ["subject"], "why": "'the other god' not named in quote as this being", "pf": "reveals"}
+{"id": "P5-A-B0035-023", "v": "U", "inf": ["predicate"], "why": "one-sided attack, Elmal refused to fight back", "pf": "invades / raids"}
+{"id": "P5-A-B0035-024", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0035-025", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0035-026", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0035-027", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0035-028", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0035-029", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0035-030", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0035-031", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0035-032", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0035-033", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0035-034", "v": "S", "inf": [], "pf": "appoints"}
+{"id": "P5-A-B0035-035", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0035-036", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0035-037", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0035-038", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0035-039", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0035-040", "v": "S", "inf": [], "pf": "illuminates"}
+{"id": "P5-A-B0035-041", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0035-042", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0035-043", "v": "S", "inf": [], "pf": "illuminates"}
+{"id": "P5-A-B0035-044", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0035-045", "v": "U", "inf": ["subject", "predicate", "direct_object"], "why": "worship of Elmal by tribesmen, not an initiation", "pf": "is worshipped by", "S": ["ELMAL"], "O": ["ORLANTHI TRIBESMEN"]}
+{"id": "P5-A-B0035-046", "v": "P", "inf": ["direct_object"], "why": "quote says 'one of his worshippers', not Monro", "pf": "teaches"}
+{"id": "P5-A-B0035-047", "v": "P", "inf": ["predicate", "object"], "why": "quote says worshipped Yelmalio, not 'cult of'", "pf": "is worshipped by", "S": ["YELMALIO"], "O": ["MONRO"]}
+{"id": "P5-A-B0035-048", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0035-049", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0035-050", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0035-051", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0035-052", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0035-053", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0036-001", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0036-002", "v": "S", "inf": [], "pf": "heals"}
+{"id": "P5-A-B0036-003", "v": "U", "inf": ["predicate", "direct_object"], "why": "sacrificing to a god is worship, not object-offering structure", "pf": "is worshipped by", "S": ["ELMAL"], "O": ["HEORTLINGS"]}
+{"id": "P5-A-B0036-004", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0036-005", "v": "S", "inf": [], "pf": "dedicates relic"}
+{"id": "P5-A-B0036-006", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0036-007", "v": "S", "inf": [], "pf": "illuminates"}
+{"id": "P5-A-B0036-008", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0036-009", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0036-010", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-A-B0036-011", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0036-012", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0036-013", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0036-014", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0036-015", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0036-016", "v": "P", "inf": ["predicate"], "why": "'won the heart of' doesn't explicitly state marriage", "pf": "is spouse of"}
+{"id": "P5-A-B0036-017", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0036-018", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0036-019", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0036-020", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0036-021", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0036-022", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0036-023", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0036-024", "v": "P", "inf": ["indirect_object"], "why": "Esrola as recipient not named in this quote", "pf": "bestows"}
+{"id": "P5-A-B0036-025", "v": "S", "inf": [], "pf": "is part of"}
+{"id": "P5-A-B0036-026", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0036-027", "v": "U", "inf": ["predicate"], "why": "a wedding custom is founded, not a deity cult", "pf": "founds"}
+{"id": "P5-A-B0036-028", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0036-029", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0036-030", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0036-031", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0036-032", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0036-033", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0036-034", "v": "S", "inf": [], "pf": "bestows geas"}
+{"id": "P5-A-B0036-035", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0036-036", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0036-037", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0036-038", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0036-039", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0036-040", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0036-041", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0036-042", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "monstrous"}
+{"id": "P5-A-B0036-043", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0036-044", "v": "S", "inf": [], "pf": "illuminates"}
+{"id": "P5-A-B0036-045", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0037-001", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0037-002", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0037-003", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0037-004", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0037-005", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0037-006", "v": "P", "inf": ["predicate"], "why": "quote states selection for a task, not explicit service", "pf": "serves"}
+{"id": "P5-A-B0037-007", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "monstrous"}
+{"id": "P5-A-B0037-008", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0037-009", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0037-010", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0037-011", "v": "P", "inf": ["subject"], "why": "speaker identity as Elmal inferred, not explicit", "pf": "is member of"}
+{"id": "P5-A-B0037-012", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0037-013", "v": "S", "inf": [], "pf": "wounds", "qual": "blinding"}
+{"id": "P5-A-B0037-014", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0037-015", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0037-016", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0037-017", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0037-018", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0037-019", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0037-020", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0037-021", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0037-022", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-A-B0037-023", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0037-024", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0037-025", "v": "U", "inf": ["predicate"], "why": "a named source (Ratslaff's snot) contradicts spontaneous emergence", "pf": "is born from"}
+{"id": "P5-A-B0037-026", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0037-027", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0037-028", "v": "P", "inf": ["subject"], "why": "the flood (not Eurmal directly) drowned Ratslaff", "pf": "kills"}
+{"id": "P5-A-B0037-029", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0037-030", "v": "U", "inf": ["predicate"], "why": "describes a caused transformative event, not station change", "pf": "causes"}
+{"id": "P5-A-B0037-031", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0037-032", "v": "P", "inf": ["predicate"], "why": "spear-target attack implied, death not explicitly stated", "pf": "kills"}
+{"id": "P5-A-B0037-033", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0037-034", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-A-B0037-035", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0037-036", "v": "P", "inf": ["predicate"], "why": "'companion' does not clearly denote service/vassalage", "pf": "serves"}
+{"id": "P5-A-B0037-037", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0037-038", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0037-039", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0037-040", "v": "U", "inf": ["predicate", "object"], "why": "quote's action is Eurmal tricking Zorak Zoran, not self-descent", "pf": "tricks", "S": ["EURMAL"], "O": ["ZORAK ZORAN"]}
+{"id": "P5-A-B0037-041", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-A-B0037-042", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0037-043", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0037-044", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0037-045", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0037-046", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0037-047", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0037-048", "v": "S", "inf": [], "pf": "steals"}

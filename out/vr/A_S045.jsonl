@@ -1,0 +1,150 @@
+{"id": "P5-A-B0140-022", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0140-023", "v": "P", "inf": ["predicate"], "why": "'driving off' implies expulsion, not mutual fighting", "pf": "exiles / banishes"}
+{"id": "P5-A-B0140-024", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0140-025", "v": "P", "inf": ["predicate"], "why": "text says his laws govern, not Yelm directly ruling now", "pf": "rules"}
+{"id": "P5-A-B0140-026", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0140-027", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0140-028", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-A-B0140-029", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0140-030", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0140-031", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0140-032", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0140-033", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0140-034", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["BUSERIAN"], "O": ["STAR WATCHERS OF YUTHUPPA"]}
+{"id": "P5-A-B0140-035", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0140-036", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0141-001", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0141-002", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0141-003", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0141-004", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["SURENSLIB"], "O": ["DARJIINIANS"]}
+{"id": "P5-A-B0141-005", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0141-006", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0141-007", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0141-008", "v": "S", "inf": [], "pf": "takes title"}
+{"id": "P5-A-B0141-009", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["YESTENDOS"], "O": ["BOATERS"]}
+{"id": "P5-A-B0141-010", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0141-011", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0141-012", "v": "U", "inf": [], "why": "quote says Pelandre 'united' cities, doesn't state it ruled them", "pf": "founds"}
+{"id": "P5-A-B0141-013", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0141-014", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0141-015", "v": "P", "inf": ["predicate"], "why": "'liberating' is a one-time rescue, not ongoing protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0141-016", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0141-017", "v": "S", "inf": [], "pf": "causes"}
+{"id": "P5-A-B0141-018", "v": "S", "inf": [], "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-A-B0141-019", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0141-020", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0141-021", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0141-022", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0141-023", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0141-024", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0141-025", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0141-026", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0141-027", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0141-028", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0141-029", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-A-B0141-030", "v": "P", "inf": ["predicate"], "why": "quote says 'woke', more precisely 'awakens' than 'resurrects'", "pf": "awakens"}
+{"id": "P5-A-B0141-031", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0141-032", "v": "U", "inf": [], "why": "quote shows Yelm as sender, not Kargzant traveling autonomously", "pf": "sends", "S": ["YELM"], "O": ["KARGZANT"]}
+{"id": "P5-A-B0141-033", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0141-034", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0141-035", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-A-B0141-036", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0141-037", "v": "P", "inf": ["predicate"], "why": "'united the people' implies leadership more than established rule", "pf": "rules"}
+{"id": "P5-A-B0141-038", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0141-039", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0141-040", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0141-041", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0141-042", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0142-001", "v": "P", "inf": ["predicate"], "why": "'guided' is weaker than 'rules', could mean advised", "pf": "rules"}
+{"id": "P5-A-B0142-002", "v": "U", "inf": [], "why": "quote names 'shadows' as source, an emanation not agentless coming-into-being", "pf": "is born from", "O": ["NYSALOR'S SHADOWS"]}
+{"id": "P5-A-B0142-003", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0142-004", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0142-005", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0142-006", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0142-007", "v": "S", "inf": [], "pf": "curses"}
+{"id": "P5-A-B0142-008", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0142-009", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-A-B0142-010", "v": "U", "inf": [], "why": "agent 'they'(monsters) named; matches founding not agentless emergence", "pf": "founds", "S": ["MONSTERS"], "O": ["EMPIRE OF GLOOM"]}
+{"id": "P5-A-B0142-011", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0142-012", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0142-013", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0142-014", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0142-015", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0142-016", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0142-017", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0142-018", "v": "U", "inf": [], "why": "conspirators named as agents; matches conceives not agentless emergence", "pf": "conceives", "S": ["SEVEN CONSPIRATORS"], "O": ["SEDENYA"]}
+{"id": "P5-A-B0142-019", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0142-020", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0142-021", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0142-022", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0142-023", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0142-024", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0142-025", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0142-026", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0142-027", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0142-028", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0142-029", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0142-030", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0142-031", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0142-032", "v": "U", "inf": [], "why": "Invisible God named as maker; matches conceives not agentless emergence", "pf": "conceives", "S": ["INVISIBLE GOD"], "O": ["IDOVANUS", "GANESATARUS"]}
+{"id": "P5-A-B0142-033", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0142-034", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0142-035", "v": "P", "inf": ["predicate"], "why": "'believe in' is weaker than explicit service/worship", "pf": "is worshipped by", "S": ["IDOVANUS"], "O": ["CARMANIANS"]}
+{"id": "P5-A-B0142-036", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0142-037", "v": "U", "inf": [], "why": "Idovanus named as maker ('He made'); matches conceives not agentless emergence", "pf": "conceives", "S": ["IDOVANUS"], "O": ["THIS WORLD"]}
+{"id": "P5-A-B0142-038", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-A-B0142-039", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0142-040", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["GANESATARUS"], "O": ["SPOLITE EMPIRE"]}
+{"id": "P5-A-B0142-041", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0142-042", "v": "U", "inf": [], "why": "Ganesatarus named as maker; matches conceives not agentless emergence", "pf": "conceives", "S": ["GANESATARUS"], "O": ["DEMONS"]}
+{"id": "P5-A-B0142-043", "v": "U", "inf": [], "why": "Idovanus named as maker; matches conceives not agentless emergence", "pf": "conceives", "S": ["IDOVANUS"], "O": ["GODS"]}
+{"id": "P5-A-B0142-044", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-A-B0142-045", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0142-046", "v": "P", "inf": ["predicate"], "why": "'proceeded from' indicates origin, not an explicit act of giving", "pf": "bestows"}
+{"id": "P5-A-B0142-047", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["DIVINE SERVANTS OF IDOVANUS"], "O": ["KARMANOI", "HAZARS"]}
+{"id": "P5-A-B0142-048", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0142-049", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0142-050", "v": "S", "inf": [], "pf": "submits to"}
+{"id": "P5-A-B0142-051", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0142-052", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0142-053", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0142-054", "v": "S", "inf": [], "pf": "corrupts"}
+{"id": "P5-A-B0142-055", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0142-056", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0142-057", "v": "S", "inf": [], "pf": "substitutes"}
+{"id": "P5-A-B0142-058", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0142-059", "v": "P", "inf": ["predicate"], "why": "'Bird of Yelm' is a possessive epithet, not stated servanthood", "pf": "serves"}
+{"id": "P5-A-B0142-060", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0142-061", "v": "P", "inf": ["direct_object"], "why": "quote says 'these pillars', name Addi not given in quote", "pf": "survives as relic"}
+{"id": "P5-A-B0142-062", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0143-001", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["BASEKORA"], "O": ["RINLIDDI PEASANTS"]}
+{"id": "P5-A-B0143-002", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0143-003", "v": "P", "inf": ["predicate"], "why": "'saved them from extinction' is a one-time rescue, not ongoing protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0143-004", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0143-005", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0143-006", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-A-B0143-007", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0143-008", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0143-009", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0143-010", "v": "S", "inf": [], "pf": "settles at"}
+{"id": "P5-A-B0143-011", "v": "S", "inf": [], "pf": "betrays"}
+{"id": "P5-A-B0143-012", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["SHENG SELERIS"], "O": ["KOSTADDI"]}
+{"id": "P5-A-B0143-013", "v": "P", "inf": ["object"], "why": "ritual honors Ovosto's memory but doesn't clearly reenact his deeds", "pf": "re-enacts"}
+{"id": "P5-A-B0143-014", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0143-015", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0143-016", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0143-017", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0143-018", "v": "S", "inf": [], "pf": "settles at"}
+{"id": "P5-A-B0143-019", "v": "S", "inf": [], "pf": "reveals itself"}
+{"id": "P5-A-B0143-020", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0143-021", "v": "U", "inf": [], "why": "text names HonEel as agent who imported Viturus, matches sends not mere travel", "pf": "sends", "S": ["HONEEL"], "O": ["VITUROS"]}
+{"id": "P5-A-B0143-022", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0143-023", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0143-024", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0144-001", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-A-B0144-002", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0144-003", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0144-004", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-A-B0144-005", "v": "U", "inf": [], "why": "quote describes appointing an Overseer, matches appoints not a bestow-object slot", "pf": "appoints"}
+{"id": "P5-A-B0144-006", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0144-007", "v": "P", "inf": ["predicate"], "why": "'inherited the throne' is acceding to rule, not an ongoing rule state", "pf": "accedes to rule"}

@@ -1,0 +1,150 @@
+{"id": "P5-A-B0017-061", "v": "S", "inf": [], "why": "", "pf": "settles at", "O": ["PRAX"]}
+{"id": "P5-A-B0017-062", "v": "P", "inf": ["predicate"], "why": "leading a warband against implies intended attack, no combat described", "pf": "invades / raids"}
+{"id": "P5-A-B0017-063", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0017-064", "v": "P", "inf": ["subject"], "why": "tools, not Vadrus himself, persist as relics", "pf": "survives as relic", "S": ["MAGICAL TOOLS AND WEAPONS OF VADRUS"], "O": []}
+{"id": "P5-A-B0017-065", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0017-066", "v": "S", "inf": [], "why": "", "pf": "embodies"}
+{"id": "P5-A-B0017-067", "v": "S", "inf": [], "why": "", "pf": "conquers"}
+{"id": "P5-A-B0017-068", "v": "S", "inf": [], "why": "", "pf": "submits to"}
+{"id": "P5-A-B0017-069", "v": "P", "inf": ["predicate"], "why": "'took possession of' palace is ownership, not political rule of a realm", "pf": "possesses / wields"}
+{"id": "P5-A-B0017-070", "v": "U", "inf": ["predicate"], "why": "agent Valind is named as creator, contradicting agentless 'comes into being'", "pf": "conceives", "S": ["VALIND"], "O": ["GREAT GLACIER"]}
+{"id": "P5-A-B0017-071", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0017-072", "v": "P", "inf": ["predicate"], "why": "'lover' indicates affair, not formal spouse", "pf": "loves / desires"}
+{"id": "P5-A-B0017-073", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0017-074", "v": "S", "inf": [], "why": "", "pf": "has domain"}
+{"id": "P5-A-B0017-075", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0017-076", "v": "S", "inf": [], "why": "", "pf": "steals"}
+{"id": "P5-A-B0017-077", "v": "S", "inf": [], "why": "", "pf": "appoints", "IO": ["CENTER OF THE UNIVERSE"]}
+{"id": "P5-A-B0017-078", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0017-079", "v": "P", "inf": ["direct_object"], "why": "'Drought' equated to Daga via outside context, not stated here", "pf": "fights"}
+{"id": "P5-A-B0017-080", "v": "S", "inf": [], "why": "", "pf": "swears oath with"}
+{"id": "P5-A-B0018-001", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0018-002", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0018-003", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0018-004", "v": "S", "inf": [], "why": "", "pf": "resurrects"}
+{"id": "P5-A-B0018-005", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0018-006", "v": "S", "inf": [], "why": "", "pf": "binds"}
+{"id": "P5-A-B0018-007", "v": "S", "inf": [], "why": "", "pf": "has domain"}
+{"id": "P5-A-B0018-008", "v": "P", "inf": ["subject"], "why": "'God of Death' identified as Humakt via context, not this quote", "pf": "has domain"}
+{"id": "P5-A-B0018-009", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0018-010", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0018-011", "v": "S", "inf": [], "why": "", "pf": "has domain"}
+{"id": "P5-A-B0018-012", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0018-013", "v": "S", "inf": [], "why": "", "pf": "has domain"}
+{"id": "P5-A-B0018-014", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0018-015", "v": "S", "inf": [], "why": "", "pf": "transforms into"}
+{"id": "P5-A-B0018-016", "v": "S", "inf": [], "why": "", "pf": "descends into"}
+{"id": "P5-A-B0018-017", "v": "P", "inf": ["predicate"], "why": "'brought forth' implies creation, not discovery of pre-existing thing", "pf": "conceives"}
+{"id": "P5-A-B0018-018", "v": "P", "inf": ["predicate"], "why": "text hedges between natural form and being fashioned into sword", "pf": "manifests as"}
+{"id": "P5-A-B0018-019", "v": "S", "inf": [], "why": "", "pf": "descends into"}
+{"id": "P5-A-B0018-020", "v": "P", "inf": ["subject"], "why": "'his' refers to Humakt via context, not named in quote", "pf": "is sibling of"}
+{"id": "P5-A-B0018-021", "v": "P", "inf": ["direct_object", "from"], "why": "'it' and 'his' resolved via context, not explicit", "pf": "steals"}
+{"id": "P5-A-B0018-022", "v": "P", "inf": ["direct_object"], "why": "'the blade' identified as Death via surrounding context", "pf": "reveals"}
+{"id": "P5-A-B0018-023", "v": "S", "inf": [], "why": "", "pf": "substitutes"}
+{"id": "P5-A-B0018-024", "v": "P", "inf": ["direct_object"], "why": "'Sun God' identified as Yelm via context, not named here", "pf": "kills"}
+{"id": "P5-A-B0018-025", "v": "S", "inf": [], "why": "", "pf": "challenges"}
+{"id": "P5-A-B0018-026", "v": "S", "inf": [], "why": "", "pf": "departs from"}
+{"id": "P5-A-B0018-027", "v": "S", "inf": [], "why": "", "pf": "has domain"}
+{"id": "P5-A-B0018-028", "v": "S", "inf": [], "why": "", "pf": "loses status"}
+{"id": "P5-A-B0018-029", "v": "S", "inf": [], "why": "", "pf": "comes into being"}
+{"id": "P5-A-B0018-030", "v": "P", "inf": ["subject"], "why": "'his' refers to Orlanth via context, not stated in quote", "pf": "is spouse of"}
+{"id": "P5-A-B0018-031", "v": "P", "inf": ["predicate"], "why": "text says he 'claims' overlordship, not a confirmed rule", "pf": "rules"}
+{"id": "P5-A-B0018-032", "v": "P", "inf": ["predicate"], "why": "text describes subcults, matching part-whole not conflation", "pf": "is part of"}
+{"id": "P5-A-B0018-033", "v": "S", "inf": [], "why": "", "pf": "has domain"}
+{"id": "P5-A-B0018-034", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0018-035", "v": "P", "inf": ["predicate"], "why": "blowing him from cave implies harm but injury not stated explicitly", "pf": "wounds"}
+{"id": "P5-A-B0018-036", "v": "P", "inf": ["subject"], "why": "'his' refers to Orlanth via context", "pf": "is sibling of"}
+{"id": "P5-A-B0018-037", "v": "P", "inf": ["predicate"], "why": "'leapt to the rescue' is rescuing, not ongoing protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0018-038", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0018-039", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0018-040", "v": "P", "inf": ["subject", "predicate"], "why": "'Bright Emperor' identified as Yelm via context; 'clutches' implies captivity not literal binding", "pf": "binds"}
+{"id": "P5-A-B0018-041", "v": "P", "inf": ["predicate"], "why": "text states intent to free ('swore to'), not accomplished protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0018-042", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0018-043", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0018-044", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-A-B0018-045", "v": "S", "inf": [], "why": "", "pf": "steals"}
+{"id": "P5-A-B0018-046", "v": "P", "inf": ["direct_object"], "why": "'Bright Emperor' not identified as Yelm within this quote", "pf": "kills"}
+{"id": "P5-A-B0018-047", "v": "S", "inf": [], "why": "", "pf": "steals"}
+{"id": "P5-A-B0018-048", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0018-049", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0018-050", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0018-051", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0018-052", "v": "S", "inf": [], "why": "", "pf": "bestows"}
+{"id": "P5-A-B0019-001", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0019-002", "v": "P", "inf": ["direct_object"], "why": "quote hedges between Magasta or his son as opponent", "pf": "fights"}
+{"id": "P5-A-B0019-003", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0019-004", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0019-005", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-A-B0019-006", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-A-B0019-007", "v": "S", "inf": [], "why": "", "pf": "steals"}
+{"id": "P5-A-B0019-008", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0019-009", "v": "S", "inf": [], "why": "", "pf": "is identified as", "qual": "equation"}
+{"id": "P5-A-B0019-010", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0019-011", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0019-012", "v": "U", "inf": [], "why": "Ernalda says she was robbed by Orlanth, direction reversed", "pf": "steals", "S": ["ORLANTH"], "O": []}
+{"id": "P5-A-B0019-013", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0019-014", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0019-015", "v": "S", "inf": [], "why": "", "pf": "binds"}
+{"id": "P5-A-B0019-016", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0019-017", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0019-018", "v": "P", "inf": ["predicate"], "why": "'freed' indicates rescue action, not ongoing protection", "pf": "rescues / frees"}
+{"id": "P5-A-B0019-019", "v": "S", "inf": [], "why": "", "pf": "brings back"}
+{"id": "P5-A-B0019-020", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0019-021", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0019-022", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0019-023", "v": "S", "inf": [], "why": "", "pf": "captures"}
+{"id": "P5-A-B0019-024", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0019-025", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0019-026", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0019-027", "v": "S", "inf": [], "why": "", "pf": "accedes to rule"}
+{"id": "P5-A-B0019-028", "v": "S", "inf": [], "why": "", "pf": "bestows"}
+{"id": "P5-A-B0019-029", "v": "S", "inf": [], "why": "", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0019-030", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0019-031", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0019-032", "v": "P", "inf": ["subject"], "why": "'His' refers to Vingkot via context, not named in quote", "pf": "is child of"}
+{"id": "P5-A-B0019-033", "v": "P", "inf": ["predicate"], "why": "'killed fighting' indicates death in battle, not journey to underworld", "pf": "dies"}
+{"id": "P5-A-B0019-034", "v": "S", "inf": [], "why": "", "pf": "accedes to rule"}
+{"id": "P5-A-B0019-035", "v": "S", "inf": [], "why": "", "pf": "bestows"}
+{"id": "P5-A-B0019-036", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0019-037", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0019-038", "v": "S", "inf": [], "why": "", "pf": "protects"}
+{"id": "P5-A-B0019-039", "v": "S", "inf": [], "why": "", "pf": "steals"}
+{"id": "P5-A-B0019-040", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0019-041", "v": "S", "inf": [], "why": "", "pf": "is sibling of"}
+{"id": "P5-A-B0019-042", "v": "S", "inf": [], "why": "", "pf": "has domain"}
+{"id": "P5-A-B0019-043", "v": "P", "inf": ["subject"], "why": "'He' refers to Yinkin via context, not explicit in quote", "pf": "is sibling of"}
+{"id": "P5-A-B0019-044", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0019-045", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0019-046", "v": "S", "inf": [], "why": "", "pf": "is born from"}
+{"id": "P5-A-B0019-047", "v": "S", "inf": [], "why": "", "pf": "comes into being"}
+{"id": "P5-A-B0019-048", "v": "S", "inf": [], "why": "", "pf": "transforms into"}
+{"id": "P5-A-B0019-049", "v": "P", "inf": ["predicate"], "why": "'mistress' indicates affair/lover, not formal spousal union", "pf": "loves / desires"}
+{"id": "P5-A-B0019-050", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0019-051", "v": "U", "inf": [], "why": "broos giving worship to Mallia is deity-worshipper direction, not service", "pf": "is worshipped by", "S": ["MALLIA"], "O": ["BROOS"]}
+{"id": "P5-A-B0019-052", "v": "S", "inf": [], "why": "", "pf": "bestows"}
+{"id": "P5-A-B0019-053", "v": "S", "inf": [], "why": "", "pf": "is spouse of"}
+{"id": "P5-A-B0019-054", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0019-055", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0019-056", "v": "P", "inf": ["predicate"], "why": "text describes a scheme/intention, not an executed corruption", "pf": "corrupts"}
+{"id": "P5-A-B0019-057", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0019-058", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0019-059", "v": "S", "inf": [], "why": "", "pf": "departs from"}
+{"id": "P5-A-B0019-060", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0019-061", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0019-062", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0019-063", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0019-064", "v": "P", "inf": ["predicate"], "why": "'led his forces' indicates leading an army, not simple travel", "pf": "leads"}
+{"id": "P5-A-B0019-065", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-A-B0019-066", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0019-067", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0019-068", "v": "S", "inf": [], "why": "", "pf": "is born from"}
+{"id": "P5-A-B0019-069", "v": "P", "inf": ["predicate"], "why": "'centered about the might of' implies influence, not explicit rule", "pf": "rules"}
+{"id": "P5-A-B0019-070", "v": "S", "inf": [], "why": "", "pf": "swears oath with"}
+{"id": "P5-A-B0019-071", "v": "P", "inf": ["predicate"], "why": "'hollow existence' is ambiguous, not clearly a gift or magic bestowed", "pf": "bestows"}
+{"id": "P5-A-B0019-072", "v": "S", "inf": [], "why": "", "pf": "loses status"}
+{"id": "P5-A-B0019-073", "v": "S", "inf": [], "why": "", "pf": "steals"}
+{"id": "P5-A-B0019-074", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-A-B0019-075", "v": "S", "inf": [], "why": "", "pf": "steals"}
+{"id": "P5-A-B0019-076", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0019-077", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0019-078", "v": "S", "inf": [], "why": "", "pf": "bestows geas"}

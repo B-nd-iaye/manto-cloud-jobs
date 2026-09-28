@@ -1,0 +1,150 @@
+{"id": "P5-B-B0043-013", "v": "P", "inf": ["direct_object"], "why": "'him' referring to Bisjoe inferred from prior context", "pf": "kills"}
+{"id": "P5-B-B0043-014", "v": "P", "inf": ["subject", "predicate"], "why": "Elven arrows imply killer but text only says 'died'", "pf": "kills"}
+{"id": "P5-B-B0043-015", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0043-016", "v": "P", "inf": ["subject"], "why": "'his' referring to Toras Joran inferred", "pf": "kills"}
+{"id": "P5-B-B0043-017", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0043-018", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-B-B0043-019", "v": "P", "inf": ["predicate"], "why": "'armed with magic power' implies gift, not explicit bestowal act", "pf": "bestows"}
+{"id": "P5-B-B0043-020", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0043-021", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0043-022", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0043-023", "v": "U", "inf": [], "why": "quote describes earth connection, not manifestation", "pf": "has domain", "O": ["EARTH"]}
+{"id": "P5-B-B0043-024", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0043-025", "v": "P", "inf": ["subject"], "why": "'he' inferred as Mani from context", "pf": "protects"}
+{"id": "P5-B-B0043-026", "v": "P", "inf": ["subject"], "why": "'he' inferred as Vokord from context", "pf": "kills"}
+{"id": "P5-B-B0043-027", "v": "P", "inf": ["direct_object"], "why": "'she' inferred as betrothed via context", "pf": "performs sacrifice"}
+{"id": "P5-B-B0043-028", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0043-029", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0043-030", "v": "U", "inf": [], "why": "'maintain their temple' fits holding office, not service to a place", "pf": "holds office in"}
+{"id": "P5-B-B0043-031", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0043-032", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0043-033", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0043-034", "v": "U", "inf": [], "why": "quote describes site as cult center, not founding act", "pf": "receives cult at"}
+{"id": "P5-B-B0043-035", "v": "U", "inf": [], "why": "quote describes stronghold of people, no cult mentioned", "pf": "dwells at"}
+{"id": "P5-B-B0044-001", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0044-002", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0044-003", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0044-004", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0044-005", "v": "P", "inf": ["predicate"], "why": "ritual described as adoption/rebirth, cult not named", "pf": "initiates into cult"}
+{"id": "P5-B-B0044-006", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0044-007", "v": "P", "inf": ["subject"], "why": "envoys, not Tarsh itself, travel to Prax", "pf": "travels"}
+{"id": "P5-B-B0044-008", "v": "P", "inf": ["predicate"], "why": "'had magic from' implies bestowal but not explicit act", "pf": "bestows"}
+{"id": "P5-B-B0044-009", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-B-B0044-010", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0044-011", "v": "U", "inf": [], "why": "'supported' fits aid, not protection", "pf": "aids"}
+{"id": "P5-B-B0044-012", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0044-013", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0044-014", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0044-015", "v": "U", "inf": [], "why": "quote describes temple being built, not a relic dedicated", "pf": "founds"}
+{"id": "P5-B-B0044-016", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-B-B0044-017", "v": "S", "inf": [], "pf": "summons / invokes"}
+{"id": "P5-B-B0044-018", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0044-019", "v": "U", "inf": [], "why": "'led a campaign against' is a military campaign, not generic fighting", "pf": "wages war on"}
+{"id": "P5-B-B0044-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0044-021", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0044-022", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0044-023", "v": "P", "inf": ["predicate"], "why": "residing and summoning demons implies but doesn't state worship of Cacodemon", "pf": "is worshipped by", "S": ["CACODEMON"], "O": ["OGRES OF PAVIS"]}
+{"id": "P5-B-B0044-024", "v": "S", "inf": [], "pf": "summons / invokes"}
+{"id": "P5-B-B0044-025", "v": "S", "inf": [], "pf": "settles at"}
+{"id": "P5-B-B0044-026", "v": "U", "inf": [], "why": "founding a city is founds, not establishing a cult", "pf": "founds"}
+{"id": "P5-B-B0044-027", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0044-028", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0044-029", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0044-030", "v": "P", "inf": ["predicate"], "why": "'Waha fell' implies but doesn't explicitly name statue as victor", "pf": "defeats"}
+{"id": "P5-B-B0044-031", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-B-B0044-032", "v": "U", "inf": [], "why": "'became friends' fits alliance, not oath-swearing", "pf": "allies with"}
+{"id": "P5-B-B0044-033", "v": "U", "inf": [], "why": "mutual favor described fits worship, not service", "pf": "is worshipped by", "S": ["ISSARIES"], "O": ["JORAZ KYREM"]}
+{"id": "P5-B-B0044-034", "v": "U", "inf": [], "why": "'man of the Sun' describes membership, no initiation ritual named", "pf": "is member of", "O": ["SOLAR CULTS"]}
+{"id": "P5-B-B0044-035", "v": "U", "inf": [], "why": "creating a mule via mating is creation, not enchantment", "pf": "conceives"}
+{"id": "P5-B-B0044-036", "v": "U", "inf": [], "why": "magically breeding new zebras is creation, not enchantment", "pf": "conceives"}
+{"id": "P5-B-B0044-037", "v": "P", "inf": ["indirect_object"], "why": "'masters' inferred as Zebra Riders of Pavis from context", "pf": "serves"}
+{"id": "P5-B-B0044-038", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-B-B0045-001", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0045-002", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0045-003", "v": "U", "inf": [], "why": "founding a city is founds, not establishing a cult", "pf": "founds"}
+{"id": "P5-B-B0045-004", "v": "U", "inf": [], "why": "re-establishing a tribe is founds, not establishing a cult", "pf": "founds"}
+{"id": "P5-B-B0045-005", "v": "U", "inf": [], "why": "'lived among' describes dwelling, not membership", "pf": "dwells at", "O": ["POL-JONI BARBARIANS"]}
+{"id": "P5-B-B0045-006", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0045-007", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0045-008", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-B-B0045-009", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0045-010", "v": "P", "inf": ["subject"], "why": "riders, not Olgkarth himself, are the ones sent among nomads", "pf": "sends"}
+{"id": "P5-B-B0045-011", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0045-012", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0045-013", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-B-B0045-014", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0045-015", "v": "S", "inf": [], "pf": "settles at"}
+{"id": "P5-B-B0045-018", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0045-019", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-B-B0045-020", "v": "U", "inf": [], "why": "'came to aid' fits helping once, not ongoing service", "pf": "aids"}
+{"id": "P5-B-B0045-021", "v": "U", "inf": [], "why": "'lord of the Yelmalio county' names a territory, not a cult membership", "pf": "rules", "O": ["YELMALIO COUNTY"]}
+{"id": "P5-B-B0045-022", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-B-B0045-023", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0045-024", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-B-B0045-025", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-B-B0045-026", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0045-027", "v": "P", "inf": ["subject"], "why": "quote doesn't name Lunar Empire as cause of Sartar's fall", "pf": "conquers"}
+{"id": "P5-B-B0045-028", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0045-029", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-B-B0045-030", "v": "U", "inf": [], "why": "'appear as allies' matches alliance, not service", "pf": "allies with"}
+{"id": "P5-B-B0045-031", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0045-032", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0045-033", "v": "U", "inf": [], "why": "wounds applies to beings, not a temple structure", "pf": "shatters"}
+{"id": "P5-B-B0045-034", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-B-B0045-035", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0045-036", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0045-037", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0045-038", "v": "P", "inf": ["predicate"], "why": "'met' doesn't explicitly state combat occurred", "pf": "fights"}
+{"id": "P5-B-B0045-039", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0045-040", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0045-041", "v": "P", "inf": ["predicate"], "why": "'could not withstand' implies but doesn't state defeat outcome", "pf": "defeats"}
+{"id": "P5-B-B0045-042", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0045-043", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0045-044", "v": "U", "inf": [], "why": "opening gates is submission, not service", "pf": "submits to"}
+{"id": "P5-B-B0045-045", "v": "P", "inf": ["subject"], "why": "agent (Lunar Army) not named in this passive quote", "pf": "kills"}
+{"id": "P5-B-B0045-046", "v": "U", "inf": [], "why": "an 'alliance' is allies with, not oath-swearing", "pf": "allies with"}
+{"id": "P5-B-B0045-047", "v": "P", "inf": ["subject"], "why": "agent (Lunar Empire) not explicitly named as purger in this quote", "pf": "kills"}
+{"id": "P5-B-B0045-048", "v": "U", "inf": [], "why": "ceding sovereignty describes submission, not oath-swearing", "pf": "submits to"}
+{"id": "P5-B-B0045-049", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0046-001", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-B-B0046-002", "v": "P", "inf": ["direct_object"], "why": "'them' inferred as Praxians from context", "pf": "teaches"}
+{"id": "P5-B-B0046-003", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-B-B0046-004", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0046-005", "v": "P", "inf": ["subject"], "why": "'they' inferred as baboons from context", "pf": "bestows"}
+{"id": "P5-B-B0046-006", "v": "P", "inf": ["subject"], "why": "'people' inferred as baboon ancestors via context", "pf": "betrays"}
+{"id": "P5-B-B0046-007", "v": "U", "inf": [], "why": "'was killed' with no named killer fits dies, not descends into", "pf": "dies"}
+{"id": "P5-B-B0046-008", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0046-009", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0046-010", "v": "U", "inf": [], "why": "'worshipers' fits deity being worshipped, not S serving O", "pf": "is worshipped by", "S": ["FOUNDCHILD"], "O": ["BASMOLI"]}
+{"id": "P5-B-B0046-011", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0046-012", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0046-013", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0046-014", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0046-015", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0046-016", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0046-017", "v": "U", "inf": [], "why": "'made king' is installing in office, i.e. appointing", "pf": "appoints", "IO": ["ZEBRA TRIBE"]}
+{"id": "P5-B-B0046-018", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0046-019", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0046-020", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0046-021", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0046-022", "v": "U", "inf": [], "why": "'Rage Bellower' is a descriptive epithet, not a plain alternate name", "pf": "is epithet of"}
+{"id": "P5-B-B0046-023", "v": "U", "inf": [], "why": "creating a way of life is conceives, not establishing a cult of a people", "pf": "conceives", "O": ["WAY OF LIFE"]}
+{"id": "P5-B-B0046-024", "v": "U", "inf": [], "why": "'freed' matches rescue, not protection", "pf": "rescues / frees"}
+{"id": "P5-B-B0046-025", "v": "U", "inf": [], "why": "'tamed fire' fits discovery of use, not enchantment", "pf": "discovers"}
+{"id": "P5-B-B0046-026", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0046-027", "v": "U", "inf": [], "why": "'Herd Mother' is a descriptive title, better an epithet than plain synonym", "pf": "is epithet of"}
+{"id": "P5-B-B0046-028", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0046-029", "v": "P", "inf": ["subject"], "why": "garbled subject phrase inferred to mean Lunar Empire", "pf": "invades / raids"}
+{"id": "P5-B-B0046-030", "v": "P", "inf": ["subject"], "why": "'he' inferred as Evarr from context", "pf": "travels"}
+{"id": "P5-B-B0046-031", "v": "P", "inf": ["subject"], "why": "subject pronoun inferred as Evarr", "pf": "summons / invokes"}
+{"id": "P5-B-B0046-032", "v": "P", "inf": ["subject"], "why": "'he' inferred as Kost the Tracker from context", "pf": "travels"}
+{"id": "P5-B-B0046-033", "v": "P", "inf": ["from"], "why": "'there' inferred as Adari from prior context", "pf": "travels"}
+{"id": "P5-B-B0046-034", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0046-035", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0046-036", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0046-037", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0046-038", "v": "P", "inf": ["subject"], "why": "'he' inferred as Orgwaha from context", "pf": "travels"}
+{"id": "P5-B-B0046-039", "v": "P", "inf": ["subject", "predicate"], "why": "'he' inferred as Orgwaha; 'manifest itself' fits causes better than manifests", "pf": "causes"}
+{"id": "P5-B-B0046-040", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-B-B0046-041", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0046-042", "v": "U", "inf": [], "why": "'dug the canal' is crafting, not enchantment", "pf": "crafts"}

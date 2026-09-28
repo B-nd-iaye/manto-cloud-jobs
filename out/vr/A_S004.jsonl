@@ -1,0 +1,150 @@
+{"id": "P5-A-B0007-053", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0007-054", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0007-055", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0007-056", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0007-057", "v": "P", "inf": ["direct_object"], "why": "text says 'elf power' crippled, generalized to Elves", "pf": "wounds"}
+{"id": "P5-A-B0007-058", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0007-059", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-A-B0007-060", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0007-061", "v": "S", "inf": [], "why": "", "pf": "conceives", "S": ["MOSTAL"], "O": ["THE WORLD"]}
+{"id": "P5-A-B0007-062", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0007-063", "v": "S", "inf": [], "why": "", "pf": "hates"}
+{"id": "P5-A-B0007-064", "v": "S", "inf": [], "why": "", "pf": "re-enacts"}
+{"id": "P5-A-B0007-065", "v": "S", "inf": [], "why": "", "pf": "descends into"}
+{"id": "P5-A-B0007-066", "v": "S", "inf": [], "why": "", "pf": "crafts", "S": ["MOSTAL", "MINIONS OF MOSTAL"], "O": ["FINE PALACES"]}
+{"id": "P5-A-B0007-067", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0007-068", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0007-069", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0007-070", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0007-071", "v": "P", "inf": ["direct_object"], "why": "target of trick was Mostal's nose, not the Spike directly", "pf": "tricks", "O": ["MOSTAL"]}
+{"id": "P5-A-B0007-072", "v": "S", "inf": [], "why": "", "pf": "departs from"}
+{"id": "P5-A-B0007-073", "v": "S", "inf": [], "why": "", "pf": "is born from"}
+{"id": "P5-A-B0007-074", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0007-075", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0007-076", "v": "S", "inf": [], "why": "", "pf": "embodies"}
+{"id": "P5-A-B0007-077", "v": "P", "inf": ["subject"], "why": "passive construction, doesn't explicitly say Umath broke it", "pf": "shatters"}
+{"id": "P5-A-B0007-078", "v": "S", "inf": [], "why": "", "pf": "causes"}
+{"id": "P5-A-B0007-079", "v": "P", "inf": ["subject"], "why": "agent not named in this quote, inferred from context", "pf": "causes"}
+{"id": "P5-A-B0007-080", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0007-081", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0007-082", "v": "S", "inf": [], "why": "", "pf": "challenges"}
+{"id": "P5-A-B0007-083", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0007-084", "v": "S", "inf": [], "why": "", "pf": "appears"}
+{"id": "P5-A-B0007-085", "v": "S", "inf": [], "why": "", "pf": "imbues"}
+{"id": "P5-A-B0007-086", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0007-087", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0007-088", "v": "S", "inf": [], "why": "", "pf": "is sibling of"}
+{"id": "P5-A-B0008-001", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0008-002", "v": "S", "inf": [], "why": "", "pf": "swallows / consumes"}
+{"id": "P5-A-B0008-003", "v": "S", "inf": [], "why": "", "pf": "crafts", "S": ["OCTAGONY OF ANCIENT MINERALS"], "O": ["CRUCIBLE OF IRON"]}
+{"id": "P5-A-B0008-004", "v": "P", "inf": ["object"], "why": "'god of war' indicates domain, not identity equation", "pf": "has domain", "O": ["WAR"]}
+{"id": "P5-A-B0008-005", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0008-006", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0008-007", "v": "S", "inf": [], "why": "", "pf": "descends into"}
+{"id": "P5-A-B0008-008", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0008-009", "v": "S", "inf": [], "why": "", "pf": "protects"}
+{"id": "P5-A-B0008-010", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0008-011", "v": "S", "inf": [], "why": "", "pf": "crafts", "S": ["OCTAGONY OF ANCIENT MINERALS"], "O": ["CLAY JAR"]}
+{"id": "P5-A-B0008-012", "v": "S", "inf": [], "why": "", "pf": "is born from"}
+{"id": "P5-A-B0008-013", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0008-014", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0008-015", "v": "S", "inf": [], "why": "", "pf": "crafts", "S": ["OCTAGONY OF ANCIENT MINERALS", "CLAY GOD"], "O": ["DIAMOND GOBLET"]}
+{"id": "P5-A-B0008-016", "v": "S", "inf": [], "why": "", "pf": "is born from"}
+{"id": "P5-A-B0008-017", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0008-018", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0008-019", "v": "P", "inf": ["subject"], "why": "teacher not explicitly named, inferred from context", "pf": "teaches"}
+{"id": "P5-A-B0008-020", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-A-B0008-021", "v": "S", "inf": [], "why": "", "pf": "binds"}
+{"id": "P5-A-B0008-022", "v": "S", "inf": [], "why": "", "pf": "departs from"}
+{"id": "P5-A-B0008-023", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0008-024", "v": "P", "inf": ["object"], "why": "'God of War' indicates domain, not identity equation", "pf": "has domain", "O": ["WAR"]}
+{"id": "P5-A-B0008-025", "v": "U", "inf": ["predicate"], "why": "vanishing into nothingness is not a journey into an Underworld realm", "pf": "shatters", "O": []}
+{"id": "P5-A-B0008-026", "v": "S", "inf": [], "why": "", "pf": "accedes to rule"}
+{"id": "P5-A-B0008-027", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0008-028", "v": "S", "inf": [], "why": "", "pf": "submits to"}
+{"id": "P5-A-B0008-029", "v": "S", "inf": [], "why": "", "pf": "teaches"}
+{"id": "P5-A-B0008-030", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0008-031", "v": "S", "inf": [], "why": "", "pf": "binds"}
+{"id": "P5-A-B0008-032", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0008-033", "v": "P", "inf": ["predicate"], "why": "text describes friendship, not a sworn oath", "pf": "allies with"}
+{"id": "P5-A-B0008-034", "v": "S", "inf": [], "why": "", "pf": "is child of"}
+{"id": "P5-A-B0008-035", "v": "P", "inf": ["object"], "why": "'Goddess of Death' indicates domain, not equation", "pf": "has domain", "O": ["DEATH"]}
+{"id": "P5-A-B0008-036", "v": "S", "inf": [], "why": "", "pf": "swears oath with"}
+{"id": "P5-A-B0008-037", "v": "S", "inf": [], "why": "", "pf": "is spouse of"}
+{"id": "P5-A-B0008-038", "v": "S", "inf": [], "why": "", "pf": "is spouse of"}
+{"id": "P5-A-B0008-039", "v": "S", "inf": [], "why": "", "pf": "is spouse of"}
+{"id": "P5-A-B0008-040", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0008-041", "v": "S", "inf": [], "why": "", "pf": "steals"}
+{"id": "P5-A-B0008-042", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0008-043", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0008-044", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0008-045", "v": "S", "inf": [], "why": "", "pf": "exiles / banishes"}
+{"id": "P5-A-B0008-046", "v": "S", "inf": [], "why": "", "pf": "aids"}
+{"id": "P5-A-B0008-047", "v": "S", "inf": [], "why": "", "pf": "aids"}
+{"id": "P5-A-B0008-048", "v": "S", "inf": [], "why": "", "pf": "departs from"}
+{"id": "P5-A-B0008-049", "v": "S", "inf": [], "why": "", "pf": "founds"}
+{"id": "P5-A-B0008-050", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0008-051", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0008-052", "v": "S", "inf": [], "why": "", "pf": "substitutes"}
+{"id": "P5-A-B0008-053", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0008-054", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0008-055", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0008-056", "v": "P", "inf": ["direct_object"], "why": "'dwarf favor' not specified as magic or a gift", "pf": "bestows"}
+{"id": "P5-A-B0008-057", "v": "S", "inf": [], "why": "", "pf": "travels"}
+{"id": "P5-A-B0008-058", "v": "P", "inf": ["subject"], "why": "'It' referring to Individualism not identified in this quote", "pf": "founds"}
+{"id": "P5-A-B0008-059", "v": "S", "inf": [], "why": "", "pf": "transforms into"}
+{"id": "P5-A-B0008-060", "v": "S", "inf": [], "why": "", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-A-B0008-061", "v": "S", "inf": [], "why": "", "pf": "serves"}
+{"id": "P5-A-B0008-062", "v": "P", "inf": ["predicate"], "why": "combined knowledge led him there, not a direct teaching act stated", "pf": "teaches"}
+{"id": "P5-A-B0008-063", "v": "U", "inf": ["predicate"], "why": "'made in the image of' is not embodying a Rune/element; Mostal is a deity", "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0008-064", "v": "S", "inf": [], "why": "", "pf": "bestows"}
+{"id": "P5-A-B0008-065", "v": "S", "inf": [], "why": "", "pf": "conquers"}
+{"id": "P5-A-B0008-066", "v": "S", "inf": [], "why": "", "pf": "discovers"}
+{"id": "P5-A-B0008-067", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0008-068", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0009-001", "v": "S", "inf": [], "why": "", "pf": "invades / raids"}
+{"id": "P5-A-B0009-002", "v": "S", "inf": [], "why": "", "pf": "becomes celestial body"}
+{"id": "P5-A-B0009-003", "v": "P", "inf": ["predicate"], "why": "hedged as 'believed to prophesize', not a certain revelation", "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-A-B0009-004", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-A-B0009-005", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0009-006", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0009-007", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0009-008", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-A-B0009-009", "v": "S", "inf": [], "why": "", "pf": "holds office in"}
+{"id": "P5-A-B0009-010", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0009-011", "v": "P", "inf": ["predicate"], "why": "text says cousin, not sibling", "pf": "is sibling of"}
+{"id": "P5-A-B0009-012", "v": "S", "inf": [], "why": "", "pf": "is sibling of"}
+{"id": "P5-A-B0009-013", "v": "S", "inf": [], "why": "", "pf": "conceives", "S": ["ALL THE DEITIES"], "O": ["GRANDFATHER MORTAL"]}
+{"id": "P5-A-B0009-014", "v": "S", "inf": [], "why": "", "pf": "is identified as"}
+{"id": "P5-A-B0009-015", "v": "S", "inf": [], "why": "", "pf": "conceives", "S": ["KYGER LITOR"], "O": ["TROLLS"]}
+{"id": "P5-A-B0009-016", "v": "S", "inf": [], "why": "", "pf": "is epithet of"}
+{"id": "P5-A-B0009-017", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0009-018", "v": "S", "inf": [], "why": "", "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-A-B0009-019", "v": "S", "inf": [], "why": "", "pf": "kills"}
+{"id": "P5-A-B0009-020", "v": "S", "inf": [], "why": "", "pf": "dies", "O": []}
+{"id": "P5-A-B0009-021", "v": "S", "inf": [], "why": "", "pf": "descends into"}
+{"id": "P5-A-B0009-022", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0009-023", "v": "S", "inf": [], "why": "", "pf": "wounds"}
+{"id": "P5-A-B0009-024", "v": "S", "inf": [], "why": "", "pf": "flees to"}
+{"id": "P5-A-B0009-025", "v": "S", "inf": [], "why": "", "pf": "protects"}
+{"id": "P5-A-B0009-026", "v": "S", "inf": [], "why": "", "pf": "dies"}
+{"id": "P5-A-B0009-027", "v": "S", "inf": [], "why": "", "pf": "defeats"}
+{"id": "P5-A-B0009-028", "v": "S", "inf": [], "why": "", "pf": "claims ancestry"}
+{"id": "P5-A-B0009-029", "v": "S", "inf": [], "why": "", "pf": "conceives", "S": ["KYGER LITOR"], "O": ["DARK TROLLS"]}
+{"id": "P5-A-B0009-030", "v": "S", "inf": [], "why": "", "pf": "shatters"}
+{"id": "P5-A-B0009-031", "v": "S", "inf": [], "why": "", "pf": "appears"}
+{"id": "P5-A-B0009-032", "v": "S", "inf": [], "why": "", "pf": "is synonym of"}
+{"id": "P5-A-B0009-033", "v": "S", "inf": [], "why": "", "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-A-B0009-034", "v": "S", "inf": [], "why": "", "pf": "fights"}
+{"id": "P5-A-B0009-035", "v": "S", "inf": [], "why": "", "pf": "leads"}
+{"id": "P5-A-B0009-036", "v": "S", "inf": [], "why": "", "pf": "survives as relic"}
+{"id": "P5-A-B0009-037", "v": "P", "inf": ["predicate"], "why": "literal light dispelling darkness, not cult-style Illumination", "pf": "illuminates"}
+{"id": "P5-A-B0009-038", "v": "S", "inf": [], "why": "", "pf": "protects"}
+{"id": "P5-A-B0009-039", "v": "S", "inf": [], "why": "", "pf": "departs from"}
+{"id": "P5-A-B0009-040", "v": "P", "inf": ["subject"], "why": "'They' refers to People of Dragon Pass from prior context, not this quote", "pf": "founds", "S": ["PEOPLE OF DRAGON PASS"], "O": ["UNITY COUNCIL"]}
+{"id": "P5-A-B0009-041", "v": "S", "inf": [], "why": "", "pf": "is member of"}
+{"id": "P5-A-B0009-042", "v": "S", "inf": [], "why": "", "pf": "holds office in"}
+{"id": "P5-A-B0009-043", "v": "S", "inf": [], "why": "", "pf": "rules"}
+{"id": "P5-A-B0009-044", "v": "P", "inf": ["object"], "why": "'Goddess of Solace Deep Within' indicates domain, not equation", "pf": "has domain", "O": ["SOLACE DEEP WITHIN"]}
+{"id": "P5-A-B0009-045", "v": "S", "inf": [], "why": "", "pf": "hates"}
+{"id": "P5-A-B0009-046", "v": "S", "inf": [], "why": "", "pf": "travels"}

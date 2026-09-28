@@ -1,0 +1,150 @@
+{"id": "P5-A-B0150-062", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0150-063", "v": "U", "inf": ["predicate"], "why": "Quote shows Yelm banished Kyger Litor, not fought", "pf": "exiles / banishes"}
+{"id": "P5-A-B0150-064", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0150-065", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0150-066", "v": "U", "inf": ["predicate"], "why": "Gbaji curses the uz, not lays a geas", "pf": "curses"}
+{"id": "P5-A-B0151-001", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0151-002", "v": "S", "inf": [], "pf": "is epithet of", "S": ["DIVINE DRAGON EMPEROR"], "O": ["GODUNYA"]}
+{"id": "P5-A-B0151-003", "v": "S", "inf": [], "pf": "conceives", "S": ["MIKADAY"], "O": ["HSIN TU"]}
+{"id": "P5-A-B0151-004", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0151-005", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0151-006", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0151-007", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0151-008", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "monstrous"}
+{"id": "P5-A-B0151-009", "v": "P", "inf": ["direct_object"], "why": "Object is recipient not the gift itself; gift unnamed", "pf": "bestows", "O": [], "IO": ["KUI HUI"]}
+{"id": "P5-A-B0151-010", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0151-011", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0151-012", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0151-013", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0151-014", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0151-015", "v": "S", "inf": [], "pf": "takes title"}
+{"id": "P5-A-B0151-016", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0151-017", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-A-B0151-018", "v": "U", "inf": ["predicate"], "why": "Freeing dragon from prison, not a station change", "pf": "rescues / frees"}
+{"id": "P5-A-B0151-019", "v": "P", "inf": ["predicate"], "why": "Hunting is more specific than generic fighting", "pf": "hunts"}
+{"id": "P5-A-B0151-020", "v": "S", "inf": [], "pf": "conceives", "S": ["GREAT DRAGONS"], "O": ["THE WORLD"]}
+{"id": "P5-A-B0151-021", "v": "S", "inf": [], "pf": "conceives", "S": ["GREAT DRAGONS"], "O": ["PEOPLE"]}
+{"id": "P5-A-B0151-022", "v": "S", "inf": [], "pf": "conceives", "S": ["GREAT DRAGONS"], "O": ["THE GODS"]}
+{"id": "P5-A-B0151-023", "v": "S", "inf": [], "pf": "conceives", "S": ["GREAT DRAGONS"], "O": ["THE DEMONS"]}
+{"id": "P5-A-B0151-024", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0151-025", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE EMPEROR"], "O": ["GODUNYA"]}
+{"id": "P5-A-B0151-026", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-A-B0151-027", "v": "U", "inf": ["predicate"], "why": "'Drove out' is banishing, not defeating in combat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0151-028", "v": "S", "inf": [], "pf": "conceives", "S": ["DARUDA"], "O": ["LATEST CELESTIAL BEINGS"]}
+{"id": "P5-A-B0151-029", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0151-030", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0151-031", "v": "S", "inf": [], "pf": "founds", "O": ["CIVILIZATION"]}
+{"id": "P5-A-B0151-032", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0151-033", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0151-034", "v": "S", "inf": [], "pf": "conceives", "S": ["THE DRAGONS"], "O": ["THE GODS OF KRALORELA"]}
+{"id": "P5-A-B0151-035", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0151-036", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0151-037", "v": "S", "inf": [], "pf": "is epithet of", "S": ["FIRST MINISTER"], "O": ["HAN MAJANG"]}
+{"id": "P5-A-B0151-038", "v": "S", "inf": [], "pf": "appoints"}
+{"id": "P5-A-B0151-039", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE GOOD WIFE"], "O": ["HALISAYAN"]}
+{"id": "P5-A-B0151-040", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0151-041", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0151-042", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0151-043", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0151-044", "v": "U", "inf": ["predicate"], "why": "'Goddess of X' phrasing maps to has domain", "pf": "has domain", "O": ["SECRETS AND FORBIDDEN LORE"]}
+{"id": "P5-A-B0151-045", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-A-B0151-046", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0151-047", "v": "U", "inf": ["predicate"], "why": "Founding a school is 'founds', not a deity cult", "pf": "founds"}
+{"id": "P5-A-B0151-048", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0151-049", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0151-050", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0151-051", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0151-052", "v": "U", "inf": ["predicate"], "why": "'Conquer' is territorial conquest, stronger than defeat", "pf": "conquers"}
+{"id": "P5-A-B0151-053", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0151-054", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0151-055", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0152-001", "v": "P", "inf": ["predicate"], "why": "Declaring an official discipline isn't literally founding a deity cult", "pf": "establishes cult"}
+{"id": "P5-A-B0152-002", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0152-003", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0152-004", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0152-005", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0152-006", "v": "U", "inf": ["predicate"], "why": "'Tried to destroy' is an attack, not mutual fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0152-007", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0152-008", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0152-009", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0152-010", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0152-011", "v": "U", "inf": ["predicate"], "why": "Founding a discipline/school is founds, not a deity cult", "pf": "founds"}
+{"id": "P5-A-B0152-012", "v": "U", "inf": ["predicate"], "why": "'Conquered' denotes territorial conquest, not mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0152-013", "v": "P", "inf": ["subject"], "why": "Sheng Seleris is the active agent sending devils, not devils traveling", "pf": "sends", "S": ["SHENG SELERIS"], "O": ["DEVILS"]}
+{"id": "P5-A-B0152-014", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0152-015", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-A-B0152-016", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0152-017", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0152-018", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0152-019", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0152-020", "v": "U", "inf": ["predicate"], "why": "'Expelled' is banishing, not a contest-style defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0152-021", "v": "U", "inf": ["predicate"], "why": "'Set up' a kingdom is founding a polity", "pf": "founds"}
+{"id": "P5-A-B0152-022", "v": "S", "inf": [], "pf": "appoints"}
+{"id": "P5-A-B0152-023", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0152-024", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0152-025", "v": "U", "inf": ["predicate"], "why": "Manifests placeholder replaced; flooding is an event caused", "pf": "causes"}
+{"id": "P5-A-B0152-026", "v": "U", "inf": ["predicate"], "why": "Manifests placeholder replaced; devastation is an event caused", "pf": "causes"}
+{"id": "P5-A-B0152-027", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0152-028", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0152-029", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0152-030", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0152-031", "v": "U", "inf": ["predicate"], "why": "'Became Emperor' is acceding to rule, not an ongoing state", "pf": "accedes to rule"}
+{"id": "P5-A-B0152-032", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0152-033", "v": "U", "inf": ["predicate"], "why": "'Tried to conquer' is an attack attempt, not generic fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0152-034", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0152-035", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0152-036", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0152-037", "v": "U", "inf": ["predicate"], "why": "'Conquered' denotes territorial conquest, stronger than defeat", "pf": "conquers"}
+{"id": "P5-A-B0152-038", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0152-039", "v": "U", "inf": ["predicate"], "why": "'Tried to seize' implies attempted capture, not generic fighting", "pf": "captures"}
+{"id": "P5-A-B0152-040", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0152-041", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0152-042", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0152-043", "v": "U", "inf": ["predicate"], "why": "'Resumed his rule as' is taking a title, not bare identification", "pf": "takes title"}
+{"id": "P5-A-B0152-044", "v": "U", "inf": ["predicate"], "why": "'Settled' denotes residence, more specific than travel", "pf": "settles at"}
+{"id": "P5-A-B0152-045", "v": "U", "inf": ["predicate"], "why": "'Took over' implies conquest, not passive rule", "pf": "conquers"}
+{"id": "P5-A-B0152-046", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0152-047", "v": "U", "inf": ["predicate"], "why": "'Expelled' is banishing, not a contest-style defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0152-048", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0152-049", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0152-050", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0152-051", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0152-052", "v": "U", "inf": ["predicate"], "why": "'God of Ignorance' phrasing maps to has domain", "pf": "has domain", "O": ["IGNORANCE"]}
+{"id": "P5-A-B0152-053", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0152-054", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0152-055", "v": "U", "inf": ["predicate"], "why": "'Enlightening it' matches bringing illumination, not teaching content", "pf": "illuminates"}
+{"id": "P5-A-B0152-056", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0152-057", "v": "U", "inf": ["direct_object", "indirect_object"], "why": "'Imbued it with secrets' fits imbues, with Black Sun as object infused", "pf": "imbues", "O": ["BLACK SUN"], "IO": ["THEIR SECRETS"]}
+{"id": "P5-A-B0152-058", "v": "U", "inf": ["predicate"], "why": "'Expelled' is banishing, not a contest-style defeat", "pf": "exiles / banishes"}
+{"id": "P5-A-B0152-059", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0152-060", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0152-061", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0152-062", "v": "U", "inf": ["subject", "direct_object"], "why": "'Close communion' with deity indicates worship; deity should be subject", "pf": "is worshipped by", "S": ["KORGATSU"], "O": ["HORNED HALFBEASTS"]}
+{"id": "P5-A-B0152-063", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid"}
+{"id": "P5-A-B0152-064", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0152-065", "v": "P", "inf": ["indirect_object"], "why": "Teachings exist but Chal's direct teaching act on Teshnans not stated", "pf": "teaches"}
+{"id": "P5-A-B0153-001", "v": "P", "inf": ["subject"], "why": "Priests are students, but Chal's direct teaching act not explicitly stated", "pf": "teaches"}
+{"id": "P5-A-B0153-002", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-A-B0153-003", "v": "P", "inf": ["predicate"], "why": "'Have seen' is weaker than active discovery", "pf": "discovers"}
+{"id": "P5-A-B0153-004", "v": "P", "inf": ["subject"], "why": "Mastery of teachings implied, not direct teaching act by Chal stated", "pf": "teaches"}
+{"id": "P5-A-B0153-005", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0153-006", "v": "U", "inf": ["predicate", "indirect_object"], "why": "'Source of' artifacts is crafting, not bestowing a gift to a recipient", "pf": "crafts", "O": ["TESHNAN PRAYER WHEELS", "SACRED MIRRORS"]}
+{"id": "P5-A-B0153-007", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0153-008", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0153-009", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0153-010", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-A-B0153-011", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0153-012", "v": "U", "inf": ["predicate"], "why": "'Avatar of' denotes incarnation equation, not embodying a Rune", "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0153-013", "v": "U", "inf": ["predicate"], "why": "'Avatar of' denotes incarnation equation, not embodying a Rune", "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-A-B0153-014", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0153-015", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0153-016", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0153-017", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0153-018", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0153-019", "v": "U", "inf": ["predicate"], "why": "'Order of Somash priests' is holding office in a cult, not generic service", "pf": "holds office in"}
+{"id": "P5-A-B0153-020", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0153-021", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0153-022", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0153-023", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0153-024", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0153-025", "v": "U", "inf": ["predicate"], "why": "'Given land as home, lived there' denotes settling, not mere travel", "pf": "settles at"}

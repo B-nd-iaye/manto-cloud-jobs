@@ -1,0 +1,150 @@
+{"id": "P5-B-B0025-060", "v": "P", "inf": ["subject", "predicate"], "why": "'his' inferred as Nysalor; 'exterminated' implies kills, not mere defeat", "pf": "kills"}
+{"id": "P5-B-B0025-061", "v": "P", "inf": ["subject", "direct_object", "indirect_object"], "why": "'he' inferred as Nysalor; object is knowledge, world is recipient not object", "pf": "bestows", "O": ["SECRETS AND KNOWLEDGE"], "IO": ["WORLD"]}
+{"id": "P5-B-B0026-001", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE BALANCER"], "O": ["NATHA"]}
+{"id": "P5-B-B0026-002", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-B-B0026-003", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0026-004", "v": "P", "inf": ["predicate"], "why": "heroquesting implies Otherworld entry, not stated directly", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0026-005", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0026-006", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0026-007", "v": "P", "inf": ["direct_object"], "why": "servant of 'her servants, the animals', not Teelo Estara directly", "pf": "serves", "O": ["ANIMALS"]}
+{"id": "P5-B-B0026-008", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0026-009", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0026-010", "v": "P", "inf": ["predicate"], "why": "'came to aid' is aiding, not serving", "pf": "aids"}
+{"id": "P5-B-B0026-011", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0026-012", "v": "S", "inf": [], "pf": "illuminates"}
+{"id": "P5-B-B0026-013", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE KNOWER BEYOND KNOWING"], "O": ["NYSALOR"]}
+{"id": "P5-B-B0026-014", "v": "P", "inf": ["subject"], "why": "'they' inferred as Western World from context", "pf": "dismembers"}
+{"id": "P5-B-B0026-015", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0026-016", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0026-017", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0026-018", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE LIBERATOR"], "O": ["GBAJI"]}
+{"id": "P5-B-B0026-019", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE EVIL ONE"], "O": ["GBAJI"]}
+{"id": "P5-B-B0026-020", "v": "P", "inf": ["predicate"], "why": "'follower of' a god means serves/worships, not collective membership", "pf": "serves"}
+{"id": "P5-B-B0026-021", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-B-B0026-022", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0026-023", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0026-024", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "hybrid", "O": ["WYVERN-DRAGON"]}
+{"id": "P5-B-B0026-025", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-B-B0026-026", "v": "S", "inf": [], "pf": "conceives"}
+{"id": "P5-B-B0026-027", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-B-B0026-028", "v": "P", "inf": ["predicate"], "why": "destroying selves (beings) fits kills, not shatters (objects)", "pf": "kills"}
+{"id": "P5-B-B0026-029", "v": "P", "inf": ["subject"], "why": "identity between emperor and Takenegi Venerabilis inferred from context", "pf": "is identified as"}
+{"id": "P5-B-B0026-030", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0026-031", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-B-B0026-032", "v": "S", "inf": [], "pf": "is synonym of", "S": ["RASHORANA"], "O": ["RED GODDESS"]}
+{"id": "P5-B-B0026-033", "v": "P", "inf": ["direct_object"], "why": "object is the concept Illumination, not a being illuminated", "pf": "bestows"}
+{"id": "P5-B-B0026-034", "v": "P", "inf": ["predicate"], "why": "'manifestation of' fits manifests as, not embodies (Rune/element)", "pf": "manifests as"}
+{"id": "P5-B-B0026-035", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0026-036", "v": "P", "inf": ["predicate"], "why": "'destroyed' beings fits kills, not shatters (objects)", "pf": "kills"}
+{"id": "P5-B-B0026-037", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-B-B0026-038", "v": "P", "inf": ["subject"], "why": "subject is 'the Artifex mask', identified with Red Emperor via outside context", "pf": "establishes cult"}
+{"id": "P5-B-B0026-039", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0026-040", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0026-041", "v": "P", "inf": ["predicate"], "why": "Temples of Desire are institutions, not a deity cult", "pf": "founds"}
+{"id": "P5-B-B0026-042", "v": "U", "inf": ["predicate"], "why": "she founds a lineage, does not claim ancestry", "pf": "founds"}
+{"id": "P5-B-B0026-043", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-B-B0026-044", "v": "P", "inf": ["predicate"], "why": "'woke' is awakens, not resurrects (no death implied)", "pf": "awakens"}
+{"id": "P5-B-B0026-045", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-B-B0026-046", "v": "P", "inf": ["predicate"], "why": "poor houses are institutions, not a deity cult", "pf": "founds"}
+{"id": "P5-B-B0026-047", "v": "P", "inf": ["predicate"], "why": "Otherworld entry inferred from rites, not stated directly", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0026-048", "v": "S", "inf": [], "pf": "is epithet of", "S": ["SPRING OF ETERNAL YOUTH"], "O": ["TEELO NORRI"]}
+{"id": "P5-B-B0026-049", "v": "P", "inf": ["predicate"], "why": "'woke' means awakens, not spontaneous emergence", "pf": "awakens"}
+{"id": "P5-B-B0026-050", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE GROWING BLUE MOON"], "O": ["ULURDA"]}
+{"id": "P5-B-B0026-051", "v": "S", "inf": [], "pf": "re-enacts"}
+{"id": "P5-B-B0026-052", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0026-053", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-B-B0026-054", "v": "P", "inf": ["subject", "direct_object"], "why": "agent is her Arrows (instrument); gifts are light/warmth to peoples, not 'stars' generically", "pf": "bestows", "O": ["LIGHT", "COOKING AND WARMTH"], "IO": ["PEOPLES"]}
+{"id": "P5-B-B0027-001", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0027-002", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-B-B0027-003", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-B-B0027-004", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0027-005", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0027-006", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0027-007", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0027-008", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0027-009", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0027-010", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0027-011", "v": "P", "inf": ["subject"], "why": "'She' resolved to Teelo Imara from surrounding context", "pf": "bestows"}
+{"id": "P5-B-B0027-012", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0027-013", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-B-B0027-014", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-B-B0027-015", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-B-B0027-016", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0027-017", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0027-018", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0027-019", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0027-020", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0027-021", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0027-022", "v": "P", "inf": ["predicate"], "why": "'invaded' matches invades/raids, not generic fights", "pf": "invades / raids"}
+{"id": "P5-B-B0027-023", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0027-024", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0027-025", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0027-026", "v": "P", "inf": ["subject"], "why": "subject is 'they' (statues and mourners together), not statues alone", "pf": "resurrects"}
+{"id": "P5-B-B0027-027", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0027-028", "v": "S", "inf": [], "pf": "illuminates"}
+{"id": "P5-B-B0027-029", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0027-030", "v": "P", "inf": ["at_the_instigation_of"], "why": "Valare is the one preaching the identification, not instigating Red Goddess", "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-B-B0027-031", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-B-B0027-032", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0027-033", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0027-034", "v": "S", "inf": [], "pf": "is synonym of", "S": ["DEDADDI"], "O": ["SEDENYA"]}
+{"id": "P5-B-B0027-035", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0027-036", "v": "S", "inf": [], "pf": "illuminates"}
+{"id": "P5-B-B0027-037", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0027-038", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0027-039", "v": "U", "inf": ["subject"], "why": "Valare is the one deified/immortalized, not Takenegi as agent upon her", "pf": "is deified", "S": ["VALARE"], "O": []}
+{"id": "P5-B-B0027-040", "v": "S", "inf": [], "pf": "is synonym of", "S": ["JOURNEYER"], "O": ["VALARE"]}
+{"id": "P5-B-B0027-041", "v": "S", "inf": [], "pf": "is synonym of", "S": ["CHRONOPORTER"], "O": ["VALARE"]}
+{"id": "P5-B-B0027-042", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0027-043", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0027-044", "v": "S", "inf": [], "pf": "is epithet of", "S": ["THE RAM"], "O": ["YANAFAL TARNILS"]}
+{"id": "P5-B-B0027-045", "v": "P", "inf": ["subject"], "why": "'the Shah' inferred as Padishah Bisodakar from context", "pf": "kills"}
+{"id": "P5-B-B0028-001", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0028-002", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0028-004", "v": "P", "inf": ["direct_object"], "why": "defeated specific punitive expeditions, generalized to Carmania", "pf": "defeats"}
+{"id": "P5-B-B0028-005", "v": "P", "inf": ["predicate"], "why": "generic 'manifests'; text shows powers manifesting as/within Teelo Estara", "pf": "manifests as"}
+{"id": "P5-B-B0028-006", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0028-007", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0028-008", "v": "P", "inf": ["direct_object"], "why": "'them' inferred as Carmanian forces from context", "pf": "fights"}
+{"id": "P5-B-B0028-009", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0028-010", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0028-011", "v": "P", "inf": ["subject"], "why": "agent is 'the flapping wings of grief' left behind by her, not Verithurusa directly", "pf": "wounds", "qual": "blinding"}
+{"id": "P5-B-B0028-012", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0028-013", "v": "P", "inf": ["predicate"], "why": "'power of growth/childhood' fits has domain, not embodies (Rune/element)", "pf": "has domain", "O": ["GROWTH", "CHILDHOOD"]}
+{"id": "P5-B-B0028-014", "v": "P", "inf": ["predicate"], "why": "'told him where to go' is informs/directs, not teaches", "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-B-B0028-015", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0028-016", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0028-017", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0028-018", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0028-019", "v": "P", "inf": ["direct_object"], "why": "killed 'the vessel of the Saint', not the Saint itself directly", "pf": "kills"}
+{"id": "P5-B-B0028-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0028-021", "v": "S", "inf": [], "pf": "is synonym of", "S": ["YANAFAL VESTARA"], "O": ["YANAFAL TARNILS"]}
+{"id": "P5-B-B0028-022", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-B-B0028-023", "v": "P", "inf": ["predicate"], "why": "'installed...in a fortress' is appointing to a position, not establishing a cult", "pf": "appoints", "IO": ["FORTRESS AT GOOD SHORE"]}
+{"id": "P5-B-B0028-024", "v": "P", "inf": ["predicate"], "why": "'destroyed them all' implies killing, not just defeating", "pf": "kills"}
+{"id": "P5-B-B0028-025", "v": "P", "inf": ["direct_object"], "why": "victim specified as 'the nomads' horses', not generic", "pf": "kills", "O": ["NOMADS' HORSES"]}
+{"id": "P5-B-B0028-026", "v": "P", "inf": ["direct_object"], "why": "object is 'the nomads' spirits', not generic", "pf": "binds", "O": ["NOMADS' SPIRITS"]}
+{"id": "P5-B-B0028-027", "v": "P", "inf": ["direct_object"], "why": "wove Red Goddess's energies into a web; web is the object made, not the Goddess", "pf": "imbues", "O": ["WEB"]}
+{"id": "P5-B-B0028-028", "v": "S", "inf": [], "pf": "is epithet of", "S": ["GREAT DEFENDER", "HORSE EATER", "SIX ARMS"], "O": ["YARA ARANIS"]}
+{"id": "P5-B-B0028-029", "v": "P", "inf": ["predicate"], "why": "'laid siege to' matches invades/raids, not generic fights", "pf": "invades / raids"}
+{"id": "P5-B-B0028-030", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0028-031", "v": "P", "inf": ["subject"], "why": "killer not explicitly named in this clause, inferred as Sheng Seleris from combat context", "pf": "kills"}
+{"id": "P5-B-B0028-032", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0028-033", "v": "P", "inf": ["predicate"], "why": "text describes seduction, not an explicit marriage/wedding", "pf": "seduces"}
+{"id": "P5-B-B0028-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0028-035", "v": "P", "inf": ["predicate"], "why": "'assembled' fits comes into being/appears, not generic manifests", "pf": "comes into being"}
+{"id": "P5-B-B0028-036", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0028-037", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0028-038", "v": "S", "inf": [], "pf": "is synonym of", "S": ["DAMOSEL DARKNESS", "SQUIRE SEA", "LADY LAND", "LIEGE LIGHT", "MISTRESS MOON"], "O": ["YOUNG ELEMENTALS"]}
+{"id": "P5-B-B0028-039", "v": "P", "inf": ["subject"], "why": "'the cults' used them as servants, not Red Goddess directly", "pf": "serves", "O": ["CULTS OF THE GODDESS"]}
+{"id": "P5-B-B0028-040", "v": "S", "inf": [], "pf": "is synonym of", "S": ["ZAYTENERA"], "O": ["RED GODDESS"]}
+{"id": "P5-B-B0028-041", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0028-042", "v": "S", "inf": [], "pf": "is synonym of", "S": ["MOON OF CALM", "MOON OF PEACE", "MOON OF BEAUTY"], "O": ["ZAYTENERA"]}
+{"id": "P5-B-B0028-043", "v": "P", "inf": ["subject"], "why": "'worshippers of Irippi Ontor' seek her, not Irippi Ontor directly", "pf": "serves", "S": ["WORSHIPPERS OF IRIPPI ONTOR"]}
+{"id": "P5-B-B0028-044", "v": "P", "inf": ["predicate"], "why": "text says 'attempt to kill', not an actual killing", "pf": "challenges"}
+{"id": "P5-B-B0028-045", "v": "P", "inf": ["predicate"], "why": "'war between' fits wages war on, not generic fights", "pf": "wages war on"}
+{"id": "P5-B-B0028-046", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0029-001", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0029-002", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0029-003", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0029-004", "v": "S", "inf": [], "pf": "claims ancestry"}

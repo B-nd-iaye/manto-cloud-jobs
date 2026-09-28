@@ -1,0 +1,126 @@
+{"id": "P5-B-B0068-015", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0068-016", "v": "U", "inf": ["predicate"], "why": "quote states domain (god of Cold), not a generic manifestation", "pf": "has domain", "O": ["COLD"]}
+{"id": "P5-B-B0068-017", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0068-018", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0068-019", "v": "P", "inf": ["predicate"], "why": "quote says 'cursed', not chaos-poisoning specifically", "pf": "curses"}
+{"id": "P5-B-B0068-020", "v": "P", "inf": ["subject"], "why": "'their' referring to Uz inferred from context", "pf": "claims ancestry"}
+{"id": "P5-B-B0068-021", "v": "P", "inf": ["subject"], "why": "subject Kyger Litor not named in the quote itself", "pf": "comes into being"}
+{"id": "P5-B-B0068-022", "v": "P", "inf": ["object"], "why": "'Her' referring to Kyger Litor inferred from context", "pf": "is child of"}
+{"id": "P5-B-B0068-023", "v": "P", "inf": ["object"], "why": "'Her' referring to Kyger Litor inferred from context", "pf": "is child of"}
+{"id": "P5-B-B0068-024", "v": "U", "inf": [], "why": "quote describes cosmic collision, not combat between named entities", "pf": "REJECT"}
+{"id": "P5-B-B0068-025", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0068-026", "v": "P", "inf": ["predicate"], "why": "'sent to' implies passive movement, not self-descent", "pf": "descends into"}
+{"id": "P5-B-B0068-027", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0068-028", "v": "P", "inf": ["direct_object"], "why": "freezing implies transformation into ice, not stated explicitly", "pf": "transforms into"}
+{"id": "P5-B-B0068-029", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0068-030", "v": "U", "inf": ["at_the_instigation_of"], "why": "Gods War named as maker, so agent should be restored not 'comes into being'", "pf": "conceives", "S": ["GODS WAR"], "O": ["GLORANTHA"]}
+{"id": "P5-B-B0068-031", "v": "U", "inf": [], "why": "no killer named, 'are extinguished' is passive/dying not killing", "pf": "dies", "O": []}
+{"id": "P5-B-B0068-032", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0068-033", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0068-034", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0068-035", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0068-036", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0068-037", "v": "P", "inf": ["subject"], "why": "'great red planet' not explicitly named Red Moon in quote", "pf": "becomes celestial body"}
+{"id": "P5-B-B0068-038", "v": "P", "inf": ["object"], "why": "quote says Sedenya, identity with Red Goddess assumed", "pf": "is child of"}
+{"id": "P5-B-B0068-039", "v": "U", "inf": ["object"], "why": "quote equates Sedenya with the Red Moon, not the Red Goddess", "pf": "is synonym of", "O": ["RED MOON"]}
+{"id": "P5-B-B0068-040", "v": "P", "inf": ["direct_object"], "why": "quote says 'a new empire', not explicitly Lunar Empire", "pf": "leads"}
+{"id": "P5-B-B0068-041", "v": "U", "inf": [], "why": "quote describes a miraculous phenomenon, not manifestation of a form", "pf": "causes"}
+{"id": "P5-B-B0068-042", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0068-043", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0068-044", "v": "P", "inf": ["object"], "why": "'him' refers to Nysalor, inferred from context", "pf": "fights"}
+{"id": "P5-B-B0068-045", "v": "P", "inf": ["direct_object"], "why": "object of conquest not named in quote", "pf": "conquers"}
+{"id": "P5-B-B0068-046", "v": "P", "inf": ["subject"], "why": "'He' refers to Arkat, inferred from context", "pf": "kills"}
+{"id": "P5-B-B0068-047", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0068-048", "v": "P", "inf": ["subject"], "why": "subject Arkat not named in the quote itself", "pf": "is member of"}
+{"id": "P5-B-B0068-049", "v": "P", "inf": ["subject"], "why": "'He' refers to Arkat, inferred from context", "pf": "initiates into cult"}
+{"id": "P5-B-B0068-050", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0068-051", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0068-052", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0068-053", "v": "P", "inf": ["object"], "why": "'Elf' equated with Aldryami race, not stated verbatim", "pf": "is member of"}
+{"id": "P5-B-B0068-054", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0068-055", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-B-B0068-056", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0068-057", "v": "P", "inf": ["predicate"], "why": "'like a god' is a simile/comparison, not a full equation", "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0069-001", "v": "P", "inf": ["subject"], "why": "subject Arkat not named in the quote itself", "pf": "transforms into"}
+{"id": "P5-B-B0069-002", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-B-B0069-003", "v": "S", "inf": [], "pf": "curses"}
+{"id": "P5-B-B0069-004", "v": "P", "inf": ["object"], "why": "'foul foe' inferred to mean Chaos, not explicitly named", "pf": "defeats"}
+{"id": "P5-B-B0069-005", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0069-006", "v": "P", "inf": ["subject"], "why": "'True Golden Horde' name not in quote, only 'Farmers and princes'", "pf": "invades / raids"}
+{"id": "P5-B-B0069-007", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0069-008", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0069-009", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0069-010", "v": "P", "inf": ["object"], "why": "quote says a rebellion was quashed, generalized to the whole people", "pf": "defeats"}
+{"id": "P5-B-B0069-011", "v": "P", "inf": ["object"], "why": "quote states city fell, not explicitly that Broyan personally was defeated", "pf": "defeats"}
+{"id": "P5-B-B0069-012", "v": "S", "inf": [], "pf": "dies"}
+{"id": "P5-B-B0069-013", "v": "P", "inf": ["subject"], "why": "'He' refers to Broyan, inferred from context", "pf": "challenges"}
+{"id": "P5-B-B0069-014", "v": "P", "inf": ["object"], "why": "'the city fell' doesn't explicitly name Broyan as defeated", "pf": "defeats"}
+{"id": "P5-B-B0069-015", "v": "P", "inf": ["object"], "why": "'their' referring to beast-men inferred from context", "pf": "rules"}
+{"id": "P5-B-B0069-016", "v": "P", "inf": ["subject"], "why": "'They' refers to beast-men, inferred from context", "pf": "resurrects"}
+{"id": "P5-B-B0069-017", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0069-018", "v": "U", "inf": ["object"], "why": "quote describes persecution/exile via bounty, not fighting; 'them' inferred", "pf": "hunts"}
+{"id": "P5-B-B0069-019", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0069-020", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0069-021", "v": "P", "inf": ["object"], "why": "'her' refers to Ai-Shana, inferred from context", "pf": "kills"}
+{"id": "P5-B-B0069-022", "v": "P", "inf": ["object"], "why": "'her' refers to Ai-Shana, inferred from context", "pf": "awakens"}
+{"id": "P5-B-B0069-023", "v": "P", "inf": ["subject"], "why": "'he' refers to Frithorf Wildwind, inferred from context", "pf": "is worshipped by", "S": ["GAGARTH"], "O": ["FRITHORF WILDWIND"]}
+{"id": "P5-B-B0069-024", "v": "P", "inf": ["subject", "object"], "why": "subject and precise object (Gagarth vs his whirlwind) inferred", "pf": "embodies"}
+{"id": "P5-B-B0069-025", "v": "P", "inf": ["subject"], "why": "'Trickster' equated with Eurmal, not named directly", "pf": "transforms into"}
+{"id": "P5-B-B0069-026", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0069-027", "v": "S", "inf": [], "pf": "is sibling of", "qual": "twin"}
+{"id": "P5-B-B0069-028", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0069-029", "v": "P", "inf": ["object"], "why": "'it' refers to Varvar, inferred from context", "pf": "kills"}
+{"id": "P5-B-B0069-030", "v": "P", "inf": ["subject"], "why": "'trophy/it' refers to Varvar, inferred from context", "pf": "resurrects"}
+{"id": "P5-B-B0069-031", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-B-B0070-001", "v": "U", "inf": [], "why": "'best friend' describes friendship, not a formal oath", "pf": "allies with"}
+{"id": "P5-B-B0070-002", "v": "U", "inf": [], "why": "quote explicitly states she was not her daughter", "pf": "REJECT", "note": "quote denies the child relation"}
+{"id": "P5-B-B0070-003", "v": "P", "inf": ["subject"], "why": "'He' refers to Bear Stance Sharp-Eye, inferred from context", "pf": "discovers"}
+{"id": "P5-B-B0070-004", "v": "P", "inf": ["subject"], "why": "'He' inferred as Great Lord Below; 'sought to draw' is attempted, not completed theft", "pf": "steals"}
+{"id": "P5-B-B0070-005", "v": "P", "inf": ["subject"], "why": "subject Bush Child not stated in the quote itself", "pf": "departs from"}
+{"id": "P5-B-B0070-006", "v": "P", "inf": ["subject", "object"], "why": "neither Bush Child nor his mother named in quote, only pronouns", "pf": "is child of"}
+{"id": "P5-B-B0070-009", "v": "P", "inf": ["subject"], "why": "'Bush Child' not named in quote, only 'the friends'", "pf": "travels"}
+{"id": "P5-B-B0070-010", "v": "P", "inf": ["subject", "indirect_object"], "why": "'her' and 'they' pronouns inferred from context", "pf": "bestows"}
+{"id": "P5-B-B0070-012", "v": "P", "inf": ["subject"], "why": "'Bush Child' not explicitly named, only 'the friends'", "pf": "discovers"}
+{"id": "P5-B-B0070-014", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0070-015", "v": "P", "inf": ["subject"], "why": "'They' refers to Bush Child and friends, inferred from context", "pf": "travels"}
+{"id": "P5-B-B0070-016", "v": "P", "inf": ["subject", "object"], "why": "'he' and 'them' pronouns inferred from context", "pf": "defeats"}
+{"id": "P5-B-B0070-017", "v": "P", "inf": ["in_on_at"], "why": "'the cave' not explicitly identified as Earth Witch's cave here", "pf": "travels"}
+{"id": "P5-B-B0070-018", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0070-019", "v": "P", "inf": ["indirect_object"], "why": "'the heroes' not explicitly named as Bush Child and friends", "pf": "bestows"}
+{"id": "P5-B-B0070-020", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0070-021", "v": "P", "inf": ["object"], "why": "'their bargain' implies Strong Earth Nephew, not named in this quote", "pf": "swears oath with"}
+{"id": "P5-B-B0070-022", "v": "P", "inf": ["subject"], "why": "'Bush Child' not named, only 'the friends'", "pf": "travels"}
+{"id": "P5-B-B0070-024", "v": "P", "inf": ["to"], "why": "destination 'hogan' not named in quote", "pf": "travels"}
+{"id": "P5-B-B0070-025", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-B-B0070-027", "v": "P", "inf": ["object"], "why": "'the hero' not explicitly named as Bush Child", "pf": "protects"}
+{"id": "P5-B-B0070-028", "v": "P", "inf": ["subject", "object"], "why": "'the god' and 'him' pronouns inferred from context", "pf": "fights"}
+{"id": "P5-B-B0070-029", "v": "P", "inf": ["subject"], "why": "subject Bush Child not named in this quote", "pf": "wounds"}
+{"id": "P5-B-B0070-030", "v": "P", "inf": ["object"], "why": "'him' refers to Strong Earth Nephew, inferred from context", "pf": "defeats"}
+{"id": "P5-B-B0070-031", "v": "P", "inf": ["subject", "object"], "why": "subject 'he' inferred; quote truncated, object incomplete", "pf": "serves"}
+{"id": "P5-B-B0070-032", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0070-033", "v": "P", "inf": ["subject"], "why": "'the stranger' not explicitly named Klavis in this quote", "pf": "travels"}
+{"id": "P5-B-B0070-034", "v": "U", "inf": [], "why": "S and O are the same entity; quote just states a name given, not a relation", "pf": "REJECT"}
+{"id": "P5-B-B0070-035", "v": "P", "inf": ["subject"], "why": "'He' refers to Klavis, inferred from context", "pf": "discovers"}
+{"id": "P5-B-B0070-036", "v": "P", "inf": ["object"], "why": "'Ludach' not named in quote, only 'fish-kin'", "pf": "invades / raids"}
+{"id": "P5-B-B0070-037", "v": "P", "inf": ["predicate"], "why": "'confounded plans' is foiling, not necessarily full defeat", "pf": "defeats"}
+{"id": "P5-B-B0070-038", "v": "P", "inf": ["subject"], "why": "quote says singular 'a Prophet among those', not the full group", "pf": "invades / raids"}
+{"id": "P5-B-B0070-039", "v": "P", "inf": ["in_on_at"], "why": "'Rist' not mentioned in this quote", "pf": "flees to"}
+{"id": "P5-B-B0070-040", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0070-041", "v": "P", "inf": ["subject"], "why": "'He' refers to Grandfather Mortal, inferred from context", "pf": "conceives"}
+{"id": "P5-B-B0070-042", "v": "P", "inf": ["subject"], "why": "'powers' not explicitly named as Deities of the Great Compromise", "pf": "challenges"}
+{"id": "P5-B-B0070-043", "v": "P", "inf": ["subject", "predicate"], "why": "'He' inferred; 'present during' doesn't imply active oath-swearing", "pf": "swears oath with"}
+{"id": "P5-B-B0070-044", "v": "P", "inf": ["subject"], "why": "'He' refers to Grandfather Mortal, inferred from context", "pf": "loses status"}
+{"id": "P5-B-B0070-045", "v": "P", "inf": ["object"], "why": "'the nonhumans' not literally named First Council", "pf": "makes peace with"}
+{"id": "P5-B-B0070-046", "v": "P", "inf": ["subject"], "why": "'they' refers to Elder Races, inferred from context", "pf": "corrupts"}
+{"id": "P5-B-B0070-047", "v": "P", "inf": ["subject"], "why": "'They' refers to Elder Races, inferred from context", "pf": "defeats"}
+{"id": "P5-B-B0070-048", "v": "P", "inf": ["predicate"], "why": "'among those known as' implies partial overlap, not full identity", "pf": "is identified as"}
+{"id": "P5-B-B0070-049", "v": "P", "inf": ["subject", "object"], "why": "'dwarves' and 'them' pronouns/synonyms inferred from context", "pf": "teaches"}
+{"id": "P5-B-B0070-050", "v": "P", "inf": ["predicate"], "why": "'were around before' states pre-existence, not an origination event", "pf": "comes into being"}
+{"id": "P5-B-B0070-051", "v": "P", "inf": ["object"], "why": "'best-known runic system' not explicitly named Core Runes", "pf": "conceives"}
+{"id": "P5-B-B0070-052", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0071-001", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0071-002", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0071-003", "v": "P", "inf": ["predicate"], "why": "quote states ownership/classification, not persistence as a relic over time", "pf": "is part of"}
+{"id": "P5-B-B0071-004", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0071-005", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0070-007", "v": "S", "inf": [], "pf": "travels", "S": ["BUSH CHILD", "FRIENDS OF BUSH CHILD"], "O": []}

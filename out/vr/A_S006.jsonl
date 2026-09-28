@@ -1,0 +1,150 @@
+{"id": "P5-A-B0012-006", "v": "S", "inf": [], "pf": "loses status"}
+{"id": "P5-A-B0012-007", "v": "P", "inf": ["predicate"], "why": "Master/apprentice roles imply teaching, act itself not stated.", "pf": "teaches"}
+{"id": "P5-A-B0012-008", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0012-009", "v": "S", "inf": [], "pf": "has domain", "O": ["COLD"]}
+{"id": "P5-A-B0012-010", "v": "S", "inf": [], "pf": "has domain", "O": ["DARKNESS"]}
+{"id": "P5-A-B0012-011", "v": "S", "inf": [], "pf": "has domain", "O": ["WATERS"]}
+{"id": "P5-A-B0012-012", "v": "S", "inf": [], "pf": "has domain", "O": ["EARTH"]}
+{"id": "P5-A-B0012-013", "v": "S", "inf": [], "pf": "has domain", "O": ["THE SKY"]}
+{"id": "P5-A-B0012-014", "v": "S", "inf": [], "pf": "has domain", "O": ["FIRE"]}
+{"id": "P5-A-B0012-015", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0012-016", "v": "S", "inf": [], "pf": "embodies", "O": ["DARKNESS"]}
+{"id": "P5-A-B0012-017", "v": "S", "inf": [], "pf": "has domain", "O": ["THE DARKNESS OF NIGHT"]}
+{"id": "P5-A-B0012-018", "v": "P", "inf": ["direct_object"], "why": "Second title (chief smith) is a distinct epithet relation, not domain.", "pf": "has domain", "O": ["FIRE"]}
+{"id": "P5-A-B0012-019", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0012-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0012-021", "v": "S", "inf": [], "pf": "has domain", "O": ["LOVE AND FERTILITY"]}
+{"id": "P5-A-B0012-022", "v": "S", "inf": [], "pf": "has domain", "O": ["WAR"]}
+{"id": "P5-A-B0012-023", "v": "S", "inf": [], "pf": "has domain", "O": ["VENGEANCE"]}
+{"id": "P5-A-B0012-024", "v": "S", "inf": [], "pf": "has domain", "O": ["DEATH"]}
+{"id": "P5-A-B0012-025", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0012-026", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0012-027", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0012-028", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0012-029", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0012-030", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0012-031", "v": "P", "inf": ["object"], "why": "'such gods' refers to Kaelith only via preceding context.", "pf": "is member of"}
+{"id": "P5-A-B0012-032", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-A-B0012-033", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0012-034", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0012-035", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0012-036", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0012-037", "v": "S", "inf": [], "pf": "has domain", "O": ["AIR"]}
+{"id": "P5-A-B0012-038", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0012-039", "v": "S", "inf": [], "pf": "is sibling of", "qual": "twin"}
+{"id": "P5-A-B0012-040", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0012-041", "v": "S", "inf": [], "pf": "is sibling of", "qual": "twin"}
+{"id": "P5-A-B0012-042", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0012-043", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0012-044", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0012-045", "v": "S", "inf": [], "pf": "is epithet of", "S": ["TRICKSTER"], "O": ["EURMAL"]}
+{"id": "P5-A-B0012-046", "v": "P", "inf": ["object"], "why": "'They' antecedent (Burtae) assumed from context, not stated here.", "pf": "is member of"}
+{"id": "P5-A-B0012-047", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0012-048", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0012-049", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0012-050", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0012-051", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-A-B0012-052", "v": "P", "inf": ["subject"], "why": "'the word' = Hsunchen only via surrounding context.", "pf": "is synonym of"}
+{"id": "P5-A-B0012-053", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0012-054", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0012-055", "v": "P", "inf": ["object"], "why": "Hsunchen not named in this quote, inferred from surrounding text.", "pf": "is member of"}
+{"id": "P5-A-B0012-056", "v": "S", "inf": [], "pf": "loses status"}
+{"id": "P5-A-B0012-057", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0012-058", "v": "U", "inf": [], "why": "Quote says 'brothers' (siblings), not multi-generation ancestry.", "pf": "is sibling of"}
+{"id": "P5-A-B0012-059", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0012-060", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-A-B0012-061", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-A-B0012-062", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0012-063", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0013-001", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0013-002", "v": "P", "inf": ["at_the_instigation_of"], "why": "An agent (Celestial Court) is named, but this predicate requires no maker.", "pf": "comes into being"}
+{"id": "P5-A-B0013-003", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0013-004", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0013-005", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0013-006", "v": "P", "inf": ["subject"], "why": "'were' subject (Father of Demons/Mother of Space) inferred from prior context.", "pf": "is child of"}
+{"id": "P5-A-B0013-007", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0013-008", "v": "S", "inf": [], "pf": "has domain", "O": ["FEAR"]}
+{"id": "P5-A-B0013-009", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0013-010", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0013-011", "v": "S", "inf": [], "pf": "is epithet of", "S": ["FATHER WINTER"], "O": ["HIMILE"]}
+{"id": "P5-A-B0013-012", "v": "S", "inf": [], "pf": "has domain", "O": ["COLD"]}
+{"id": "P5-A-B0013-013", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0013-014", "v": "S", "inf": [], "pf": "has domain", "O": ["THE INNER DARK"]}
+{"id": "P5-A-B0013-015", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["SUBERE"], "O": ["LORDS OF THE SEVEN HELLS"]}
+{"id": "P5-A-B0013-016", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-A-B0013-017", "v": "S", "inf": [], "pf": "is epithet of", "S": ["MOTHER OF DEATH"], "O": ["SUBERE"]}
+{"id": "P5-A-B0013-018", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0013-019", "v": "S", "inf": [], "pf": "corrupts"}
+{"id": "P5-A-B0013-020", "v": "S", "inf": [], "pf": "is tainted with Chaos"}
+{"id": "P5-A-B0013-021", "v": "S", "inf": [], "pf": "is worshipped by", "S": ["MALLIA"], "O": ["BROOS"]}
+{"id": "P5-A-B0013-022", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0013-023", "v": "P", "inf": ["subject"], "why": "'Sun God' identified as Yelm only via outside knowledge, not this quote.", "pf": "rules"}
+{"id": "P5-A-B0013-024", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0013-025", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0013-026", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-A-B0013-027", "v": "P", "inf": ["predicate"], "why": "'Master of the cult' implies office-holding, not mere membership.", "pf": "holds office in"}
+{"id": "P5-A-B0013-028", "v": "P", "inf": ["subject"], "why": "Subject 'Jeset' comes from context, not present in this quote fragment.", "pf": "discovers"}
+{"id": "P5-A-B0013-029", "v": "P", "inf": ["subject"], "why": "'He' refers to Jeset only via context.", "pf": "travels"}
+{"id": "P5-A-B0013-030", "v": "P", "inf": ["subject"], "why": "'He' identified as Bimbaros only via surrounding context.", "pf": "descends into"}
+{"id": "P5-A-B0013-031", "v": "P", "inf": ["subject"], "why": "'he' = Bimbaros inferred from context.", "pf": "departs from"}
+{"id": "P5-A-B0013-032", "v": "P", "inf": ["subject"], "why": "'she' refers to Xentha only via preceding context.", "pf": "is synonym of"}
+{"id": "P5-A-B0013-033", "v": "P", "inf": ["subject"], "why": "'She' = Xentha inferred from context.", "pf": "is child of"}
+{"id": "P5-A-B0013-034", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0013-035", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0013-036", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0013-037", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0013-038", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0013-039", "v": "P", "inf": ["subject"], "why": "'His father' = Argan Argar only via preceding sentence.", "pf": "binds"}
+{"id": "P5-A-B0013-040", "v": "P", "inf": ["subject"], "why": "'He' = Only Old One inferred from context.", "pf": "rules"}
+{"id": "P5-A-B0013-041", "v": "P", "inf": ["object"], "why": "'he' = Only Old One inferred from context.", "pf": "kills"}
+{"id": "P5-A-B0013-042", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0013-043", "v": "S", "inf": [], "pf": "accedes to rule", "O": ["HOLY COUNTRY"]}
+{"id": "P5-A-B0013-044", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0013-045", "v": "P", "inf": ["subject"], "why": "'her' = Edzaroun inferred from context.", "pf": "is synonym of"}
+{"id": "P5-A-B0013-046", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0013-047", "v": "U", "inf": [], "why": "Quote attributes 'Primal Sea' to Zaramaka's mother, not Zaramaka himself.", "pf": "REJECT"}
+{"id": "P5-A-B0013-048", "v": "S", "inf": [], "pf": "is epithet of", "S": ["GARROTE OF THE GODS"], "O": ["EDZAROUN"]}
+{"id": "P5-A-B0013-049", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0013-050", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0013-051", "v": "P", "inf": ["predicate"], "why": "Yelm case shows enforcement/return, not explicit fighting.", "pf": "fights"}
+{"id": "P5-A-B0013-052", "v": "S", "inf": [], "pf": "punishes"}
+{"id": "P5-A-B0013-053", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-A-B0013-054", "v": "P", "inf": ["subject"], "why": "Subject Gorakiki not explicitly named in this quote fragment.", "pf": "is born from"}
+{"id": "P5-A-B0013-055", "v": "S", "inf": [], "pf": "has domain", "O": ["INSECTS"]}
+{"id": "P5-A-B0013-056", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-A-B0013-057", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0013-058", "v": "S", "inf": [], "pf": "aids"}
+{"id": "P5-A-B0013-059", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0013-060", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0013-061", "v": "P", "inf": ["subject"], "why": "'She' = Annilla inferred from context, not named in this quote.", "pf": "has domain", "O": ["HIDDEN SECRETS"]}
+{"id": "P5-A-B0013-062", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0013-063", "v": "P", "inf": ["subject"], "why": "'She' = Annilla inferred from context.", "pf": "is worshipped by", "S": ["ANNILLA"], "O": ["TROLLS", "VELDANG"]}
+{"id": "P5-A-B0013-064", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0013-065", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0013-066", "v": "P", "inf": ["object"], "why": "'He' = Sramak inferred from context.", "pf": "is synonym of"}
+{"id": "P5-A-B0013-067", "v": "P", "inf": ["object"], "why": "'his' = Sramak inferred from context.", "pf": "is synonym of"}
+{"id": "P5-A-B0013-068", "v": "P", "inf": ["subject"], "why": "'He' = Sramak inferred from context.", "pf": "embodies"}
+{"id": "P5-A-B0013-069", "v": "P", "inf": ["object"], "why": "'He' = Sramak inferred from context.", "pf": "is synonym of"}
+{"id": "P5-A-B0013-070", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0013-071", "v": "P", "inf": ["object"], "why": "'his' = Daliath inferred from context, not in this quote.", "pf": "is synonym of"}
+{"id": "P5-A-B0013-072", "v": "P", "inf": ["subject"], "why": "'She' = Framanthe inferred from context.", "pf": "embodies"}
+{"id": "P5-A-B0013-073", "v": "P", "inf": ["subject"], "why": "'She' = Framanthe inferred from context.", "pf": "is epithet of", "S": ["GODDESS OF THE DEEP"], "O": ["FRAMANTHE"]}
+{"id": "P5-A-B0013-074", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0013-075", "v": "P", "inf": ["predicate"], "why": "'Interbred' implies general breeding, not a formal wedding.", "pf": "is spouse of"}
+{"id": "P5-A-B0013-076", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0013-077", "v": "P", "inf": ["object"], "why": "'Their' antecedent (Oceans of the World) set up in prior sentence.", "pf": "is child of"}
+{"id": "P5-A-B0013-078", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0013-079", "v": "P", "inf": ["subject"], "why": "Subject 'Ocean of Terror' absent from this quote fragment.", "pf": "travels"}
+{"id": "P5-A-B0013-080", "v": "P", "inf": ["object"], "why": "'Her' = Ocean of Terror inferred from context.", "pf": "is child of"}
+{"id": "P5-A-B0013-081", "v": "P", "inf": ["object"], "why": "'this placid sea' = Sea of Fog inferred from context.", "pf": "is child of"}
+{"id": "P5-A-B0013-082", "v": "S", "inf": [], "pf": "is sibling of", "qual": "twin"}
+{"id": "P5-A-B0013-083", "v": "P", "inf": ["in_on_at"], "why": "'These River deities' = Adelre/Jemeke inferred from context.", "pf": "comes into being"}
+{"id": "P5-A-B0013-084", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0013-085", "v": "P", "inf": ["object"], "why": "'them' = Western Ocean's children established in preceding sentence.", "pf": "is child of"}
+{"id": "P5-A-B0013-086", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-A-B0013-087", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0013-088", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0013-089", "v": "P", "inf": ["subject"], "why": "'He' = Homeward Ocean inferred from context.", "pf": "transforms into"}
+{"id": "P5-A-B0014-001", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0014-002", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0014-003", "v": "P", "inf": ["object"], "why": "'The two sons' = children of Sramake/Daliath from prior sentence.", "pf": "is child of"}

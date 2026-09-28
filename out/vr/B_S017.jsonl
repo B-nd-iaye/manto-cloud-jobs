@@ -1,0 +1,150 @@
+{"id": "P5-B-B0051-006", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0051-007", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0051-008", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-B-B0051-009", "v": "U", "inf": ["predicate"], "why": "conquered is stronger/different than defeats", "pf": "conquers"}
+{"id": "P5-B-B0051-010", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0051-011", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0051-012", "v": "P", "inf": ["subject"], "why": "'Old Dornold' equated with Dornold Orvost only via context", "pf": "flees to"}
+{"id": "P5-B-B0051-013", "v": "P", "inf": ["subject"], "why": "pronoun 'he' inferred as Dornold Orvost", "pf": "kills"}
+{"id": "P5-B-B0051-014", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0051-015", "v": "U", "inf": ["predicate"], "why": "giants made Pavis, not spontaneous emergence", "pf": "crafts"}
+{"id": "P5-B-B0051-016", "v": "U", "inf": ["predicate"], "why": "'ancient enemies' states hatred, no fighting event", "pf": "hates"}
+{"id": "P5-B-B0051-017", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0051-018", "v": "U", "inf": ["predicate"], "why": "'patrons of' means sponsors/supports, not servant", "pf": "aids"}
+{"id": "P5-B-B0051-019", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0051-020", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0051-021", "v": "P", "inf": ["direct_object"], "why": "spouse's name not given, only marriage event stated", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0051-022", "v": "S", "inf": [], "pf": "is deified"}
+{"id": "P5-B-B0051-023", "v": "U", "inf": ["predicate"], "why": "'brought her' is transport, not a gift bestowal", "pf": "sends"}
+{"id": "P5-B-B0051-024", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0051-025", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0051-026", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0051-027", "v": "U", "inf": ["predicate"], "why": "'god of Hate and Vengeance' is a domain, not essential identity/Rune", "pf": "has domain"}
+{"id": "P5-B-B0051-028", "v": "U", "inf": ["predicate"], "why": "died and was burned, not a generic mythic-station shift", "pf": "dies"}
+{"id": "P5-B-B0052-001", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0052-002", "v": "P", "inf": ["predicate"], "why": "Dorasar applied Orlanth's laws; Orlanth doesn't directly rule", "pf": "rules"}
+{"id": "P5-B-B0052-003", "v": "U", "note": "quote never names Krarsht, only 'the Waiting Mouth'", "pf": "REJECT"}
+{"id": "P5-B-B0052-004", "v": "P", "inf": ["subject"], "why": "quote calls her 'Waiting Mouth', not Krarsht; describes domain not chaos-taint state", "pf": "has domain"}
+{"id": "P5-B-B0052-005", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-B-B0052-006", "v": "U", "inf": ["predicate"], "why": "'infested' implies corruption of civilizations, not combat", "pf": "corrupts"}
+{"id": "P5-B-B0052-007", "v": "U", "inf": ["predicate"], "why": "shrine described, not founding of cult", "pf": "receives cult at"}
+{"id": "P5-B-B0052-008", "v": "U", "inf": ["predicate"], "why": "shrine described, not founding of cult", "pf": "receives cult at"}
+{"id": "P5-B-B0052-009", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0052-010", "v": "U", "inf": ["predicate"], "why": "named temple/shrine, not cult founding", "pf": "receives cult at"}
+{"id": "P5-B-B0052-011", "v": "U", "inf": ["predicate"], "why": "named shrines, not cult founding", "pf": "receives cult at"}
+{"id": "P5-B-B0052-012", "v": "P", "inf": ["subject"], "why": "security guaranteed by Dorasar and Orlanth priests, not Orlanth himself", "pf": "protects"}
+{"id": "P5-B-B0052-013", "v": "U", "inf": ["predicate"], "why": "named temple, not cult founding", "pf": "receives cult at"}
+{"id": "P5-B-B0052-014", "v": "U", "inf": ["predicate"], "why": "White Ladies are Chalana Arroy's priestesses, not an alt name for the goddess", "pf": "is member of"}
+{"id": "P5-B-B0052-015", "v": "U", "inf": ["predicate"], "why": "'Earth Mother' is a descriptive title, not a separate name", "pf": "is epithet of"}
+{"id": "P5-B-B0052-016", "v": "U", "inf": ["predicate"], "why": "named temple is home to cult, not founding", "pf": "receives cult at"}
+{"id": "P5-B-B0052-017", "v": "U", "note": "no domain or Rune stated, only that she is a Lunar goddess", "pf": "REJECT"}
+{"id": "P5-B-B0052-018", "v": "U", "inf": ["predicate"], "why": "named temple for the goddess, not founding", "pf": "receives cult at"}
+{"id": "P5-B-B0052-019", "v": "U", "note": "quote is about Varanos being a sage, not about founding a cult", "pf": "REJECT"}
+{"id": "P5-B-B0053-001", "v": "S", "inf": [], "pf": "holds office in"}
+{"id": "P5-B-B0053-002", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0053-003", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0053-004", "v": "U", "inf": ["predicate"], "why": "'invaded' is a specific attack, not generic fighting", "pf": "invades / raids"}
+{"id": "P5-B-B0053-005", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0053-006", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0053-007", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0053-008", "v": "S", "inf": [], "pf": "holds office in"}
+{"id": "P5-B-B0053-009", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0053-010", "v": "U", "inf": ["predicate"], "why": "'welcomed' implies alliance not servitude", "pf": "allies with"}
+{"id": "P5-B-B0053-011", "v": "U", "inf": ["predicate"], "why": "'welcomed' implies alliance not servitude", "pf": "allies with"}
+{"id": "P5-B-B0053-012", "v": "U", "S": ["ERNALDA"], "O": ["FARMERS"], "inf": ["subject", "direct_object"], "why": "direction reversed: deity is worshipped by farmers", "pf": "is worshipped by"}
+{"id": "P5-B-B0053-013", "v": "U", "S": ["ORLANTH"], "O": ["FARMERS OF PAVIS COUNTY"], "inf": ["subject", "direct_object"], "why": "direction reversed: deity worshipped by farmers", "pf": "is worshipped by"}
+{"id": "P5-B-B0053-014", "v": "U", "S": ["YELMALIO"], "O": ["FARMERS OF SUN COUNTY"], "inf": ["subject", "direct_object"], "why": "direction reversed: deity worshipped by farmers", "pf": "is worshipped by"}
+{"id": "P5-B-B0053-015", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0053-016", "v": "P", "inf": ["predicate"], "why": "'influential in' implies leadership beyond plain membership", "pf": "is member of"}
+{"id": "P5-B-B0053-017", "v": "P", "inf": ["predicate"], "why": "'influential in' implies leadership beyond plain membership", "pf": "is member of"}
+{"id": "P5-B-B0053-018", "v": "S", "inf": [], "pf": "holds office in"}
+{"id": "P5-B-B0053-019", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0053-020", "v": "S", "inf": [], "pf": "holds office in"}
+{"id": "P5-B-B0053-021", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0053-022", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0053-023", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0053-024", "v": "P", "inf": ["predicate"], "why": "stated as rumor/prophecy, not an actual killing", "pf": "kills"}
+{"id": "P5-B-B0053-025", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-B-B0053-026", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0053-027", "v": "P", "inf": ["predicate"], "why": "intends to go, not yet performed", "pf": "enters Godtime / Otherworld"}
+{"id": "P5-B-B0053-028", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0053-029", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0053-030", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0053-031", "v": "P", "inf": ["predicate"], "why": "metaphorical harm (drought) not literal wounding", "pf": "wounds"}
+{"id": "P5-B-B0053-032", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0053-033", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0053-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0053-035", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0053-036", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-B-B0053-037", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0053-038", "v": "P", "inf": ["direct_object"], "why": "monster's name 'Aroka' not stated in quote", "pf": "kills"}
+{"id": "P5-B-B0053-039", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0053-040", "v": "U", "inf": ["predicate"], "why": "'loyal friend' implies alliance not servitude", "pf": "allies with"}
+{"id": "P5-B-B0053-042", "v": "U", "inf": ["predicate"], "why": "'banished' is exile, not mere defeat", "pf": "exiles / banishes"}
+{"id": "P5-B-B0054-001", "v": "U", "S": ["BABEESTER GOR"], "O": ["WORSHIPERS OF BABEESTER GOR"], "inf": ["subject", "direct_object"], "why": "direction reversed: deity worshipped by worshipers", "pf": "is worshipped by"}
+{"id": "P5-B-B0054-002", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0054-003", "v": "U", "inf": ["predicate"], "why": "states authorship of the document, not revealing a secret", "pf": "crafts"}
+{"id": "P5-B-B0054-004", "v": "U", "inf": ["predicate"], "why": "beings were destroyed/killed, not an object shattered", "pf": "kills"}
+{"id": "P5-B-B0054-005", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0054-006", "v": "P", "inf": ["subject"], "why": "Genert is agent causing transformation of the army, not himself transformed", "pf": "transforms into", "S": ["REMNANTS OF HIS ARMY"], "O": ["STINGING CLOUD OF COPPER"]}
+{"id": "P5-B-B0054-007", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0054-008", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0054-009", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0054-010", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0054-011", "v": "U", "S": ["CACODEMON", "MALLIA"], "O": ["EVIL MEN"], "inf": ["subject", "direct_object"], "why": "direction reversed: deities worshipped by evil men", "pf": "is worshipped by"}
+{"id": "P5-B-B0054-012", "v": "P", "inf": ["predicate"], "why": "stated as feared belief, not confirmed identity", "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-B-B0054-013", "v": "U", "inf": ["predicate"], "why": "'summon' is invocation, not manifestation", "pf": "summons / invokes"}
+{"id": "P5-B-B0054-014", "v": "P", "inf": ["predicate"], "why": "hypothetical rumor ('they whisper'), not a stated fact", "pf": "re-enacts"}
+{"id": "P5-B-B0054-015", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0054-016", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0054-017", "v": "U", "inf": ["predicate"], "why": "'informal patrons' implies support/patronage, not servitude", "pf": "aids"}
+{"id": "P5-B-B0054-018", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0054-019", "v": "S", "inf": [], "pf": "awakens"}
+{"id": "P5-B-B0054-020", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0054-021", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0054-022", "v": "S", "inf": [], "pf": "dedicates relic"}
+{"id": "P5-B-B0054-023", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0054-024", "v": "S", "inf": [], "pf": "leads"}
+{"id": "P5-B-B0054-025", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0054-026", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0054-027", "v": "U", "inf": ["predicate"], "why": "'associate' implies alliance/partnership, not servitude", "pf": "allies with"}
+{"id": "P5-B-B0054-028", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-B-B0054-029", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0054-030", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0054-031", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0054-032", "v": "S", "inf": [], "pf": "founds"}
+{"id": "P5-B-B0054-033", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0054-034", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0054-035", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0054-036", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-B-B0054-037", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0055-001", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0055-002", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0055-003", "v": "P", "inf": ["predicate"], "why": "possessive phrasing implies belonging, not explicit service", "pf": "is member of"}
+{"id": "P5-B-B0055-004", "v": "U", "inf": ["predicate"], "why": "'gathered' states possession/collection, not theft in this quote", "pf": "possesses / wields"}
+{"id": "P5-B-B0055-005", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-B-B0055-006", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-B-B0055-007", "v": "U", "inf": ["predicate"], "why": "named temple, not cult founding", "pf": "receives cult at"}
+{"id": "P5-B-B0055-008", "v": "U", "S": [], "O": ["SKEELOS VAR"], "IO": ["YELMALIO"], "inf": ["subject", "predicate"], "why": "Skeelos Var is the victim/offering, not the sacrificer; no agent named", "pf": "performs sacrifice"}
+{"id": "P5-B-B0055-009", "v": "U", "inf": ["predicate"], "why": "'called' is invocation, not manifestation", "pf": "summons / invokes"}
+{"id": "P5-B-B0055-010", "v": "U", "inf": ["predicate"], "why": "'brought...to' is a directed sending, more specific than travel", "pf": "sends"}
+{"id": "P5-B-B0055-011", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0055-012", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0055-013", "v": "U", "S": ["EARTH"], "O": ["ERNALLDA"], "inf": ["subject", "direct_object"], "why": "'mother of the earth' means Ernalda parents Earth, direction reversed", "pf": "is child of"}
+{"id": "P5-B-B0055-014", "v": "U", "inf": ["predicate"], "why": "'called upon' is invocation, not manifestation", "pf": "summons / invokes"}
+{"id": "P5-B-B0055-015", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0055-016", "v": "U", "S": ["RIGHTEOUS ONE"], "O": ["YELMALIO"], "inf": ["subject", "direct_object"], "why": "'the righteous one' is an epithet, direction reversed", "pf": "is epithet of"}
+{"id": "P5-B-B0055-017", "v": "U", "inf": ["predicate"], "why": "'weeps' is an emotional state, not manifestation", "pf": "mourns"}
+{"id": "P5-B-B0055-018", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0055-019", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0055-020", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0055-021", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-B-B0055-022", "v": "P", "inf": ["predicate"], "why": "plan to enact, not yet performed", "pf": "re-enacts"}
+{"id": "P5-B-B0055-023", "v": "P", "inf": ["predicate"], "why": "'Wooing' is courtship, precedes the actual marriage", "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0055-024", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0055-025", "v": "S", "inf": [], "pf": "crafts"}
+{"id": "P5-B-B0055-026", "v": "U", "inf": ["predicate"], "why": "no deity named for cult; describes a founded temple/institution", "pf": "founds"}
+{"id": "P5-B-B0055-027", "v": "U", "inf": ["predicate"], "why": "statue depicted carrying objects, i.e. possessing them, not manifesting", "pf": "possesses / wields"}
+{"id": "P5-B-B0055-028", "v": "U", "inf": ["predicate"], "why": "named temple, not cult founding", "pf": "receives cult at"}
+{"id": "P5-B-B0056-001", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0056-002", "v": "S", "inf": [], "pf": "is synonym of"}

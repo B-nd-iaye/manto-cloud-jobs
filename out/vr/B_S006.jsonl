@@ -1,0 +1,150 @@
+{"id": "P5-B-B0016-056", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0016-057", "v": "P", "inf": ["subject"], "why": "'they' inferred as Aldryami from context", "pf": "is worshipped by", "S": ["TREE OF LIFE"], "O": ["ALDRYAMI"]}
+{"id": "P5-B-B0016-058", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0016-059", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0016-060", "v": "P", "inf": ["direct_object"], "why": "they grew lesser versions, not the Tree itself", "pf": "conceives"}
+{"id": "P5-B-B0017-001", "v": "P", "inf": ["subject"], "why": "'he' refers to Bolongo only via context", "pf": "departs from"}
+{"id": "P5-B-B0017-002", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0017-003", "v": "P", "inf": ["indirect_object"], "why": "'them' inferred as the Diviners from context", "pf": "bestows", "O": ["SECRET KNOWLEDGE"], "IO": ["THE FIVE-POINTED DIVINERS"]}
+{"id": "P5-B-B0017-004", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0017-005", "v": "P", "inf": ["direct_object"], "why": "stole secrets of Mouladehas, not Mouladehas itself", "pf": "steals", "O": ["SECRETS OF MOULADEHAS"]}
+{"id": "P5-B-B0017-006", "v": "P", "inf": ["predicate"], "why": "lover implies romantic relation, not marriage", "pf": "loves / desires"}
+{"id": "P5-B-B0017-007", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0017-008", "v": "P", "inf": ["indirect_object"], "why": "recipient 'his obscene gods' assumed as Ekurbenyow's own", "pf": "performs sacrifice", "IO": ["HIS OBSCENE GODS"]}
+{"id": "P5-B-B0017-009", "v": "S", "inf": [], "pf": "is epithet of", "S": ["EARTH WITCH"], "O": ["EL JAZULI"]}
+{"id": "P5-B-B0017-010", "v": "S", "inf": [], "pf": "holds office in"}
+{"id": "P5-B-B0017-011", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0017-012", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0017-013", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0017-014", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0017-015", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0017-016", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0017-017", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0017-018", "v": "U", "inf": ["predicate"], "why": "quote shows Serlas informed the Blue King, a different entity", "pf": "speaks / informs / warns / prophesies"}
+{"id": "P5-B-B0017-019", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-B-B0017-020", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0017-021", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0017-022", "v": "P", "inf": ["predicate"], "why": "quote says peace was made, not an oath sworn", "pf": "makes peace with"}
+{"id": "P5-B-B0017-023", "v": "P", "inf": ["subject"], "why": "'Two Brothers' split into individual identification without explicit naming", "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0017-024", "v": "P", "inf": ["subject"], "why": "'Two Brothers' split into individual identification without explicit naming", "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0017-025", "v": "P", "inf": ["direct_object"], "why": "'statues' generalized as Zalasfan's gods via context", "pf": "defeats"}
+{"id": "P5-B-B0017-026", "v": "P", "inf": ["predicate"], "why": "scouts implies aiding, not explicit servant relation", "pf": "aids"}
+{"id": "P5-B-B0017-027", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0017-028", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0017-029", "v": "P", "inf": ["predicate"], "why": "'encountered ... survived' doesn't confirm actual combat", "pf": "fights"}
+{"id": "P5-B-B0017-030", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0017-031", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0017-032", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0017-033", "v": "S", "inf": [], "pf": "curses"}
+{"id": "P5-B-B0017-034", "v": "P", "inf": ["predicate"], "why": "'drove out' means banished, not merely defeated", "pf": "exiles / banishes"}
+{"id": "P5-B-B0017-035", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0017-036", "v": "P", "inf": ["subject"], "why": "'he' inferred as Balumbasta from context", "pf": "comes into being"}
+{"id": "P5-B-B0017-037", "v": "U", "inf": ["predicate"], "why": "'raised' means created the hill, not manifested", "pf": "conceives"}
+{"id": "P5-B-B0017-038", "v": "S", "inf": [], "pf": "dwells at"}
+{"id": "P5-B-B0017-039", "v": "U", "inf": ["predicate"], "why": "'learned' not 'taught'; direction reversed from tie's teaches", "pf": "discovers"}
+{"id": "P5-B-B0017-040", "v": "U", "inf": ["subject"], "why": "no maker of the bead is named; Pamalt is only the owner", "pf": "comes into being", "S": ["ONE OF THE BEADS ON PAMALT'S NECKLACE"], "O": []}
+{"id": "P5-B-B0017-041", "v": "P", "inf": ["direct_object"], "why": "'it' inferred as Tishamto from context", "pf": "conquers"}
+{"id": "P5-B-B0017-042", "v": "U", "inf": ["subject", "predicate"], "why": "tribute implies Agimori submitting, not Jokaru simply ruling", "pf": "submits to", "S": ["AGIMORI"], "O": ["JOKARU THE INDIGO CONQUEROR"]}
+{"id": "P5-B-B0017-043", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0017-044", "v": "S", "inf": [], "pf": "is epithet of", "S": ["FATHER"], "O": ["VANGONO"]}
+{"id": "P5-B-B0017-045", "v": "S", "inf": [], "pf": "causes"}
+{"id": "P5-B-B0017-046", "v": "S", "inf": [], "pf": "causes"}
+{"id": "P5-B-B0017-047", "v": "P", "inf": ["predicate"], "why": "'founded' lineages/treasures, not a religious cult", "pf": "founds"}
+{"id": "P5-B-B0017-048", "v": "P", "inf": ["predicate"], "why": "text states homeland/naming, not explicit rule", "pf": "rules"}
+{"id": "P5-B-B0017-049", "v": "U", "inf": ["predicate"], "why": "'homeland' denotes dwelling place, not ancestry claim", "pf": "dwells at"}
+{"id": "P5-B-B0018-001", "v": "U", "inf": ["subject"], "why": "Pamalt is the named agent; not spontaneous emergence", "pf": "conceives", "S": ["PAMALT"], "O": ["RHINOCEROS"]}
+{"id": "P5-B-B0018-002", "v": "S", "inf": [], "pf": "is epithet of", "S": ["CREATOR"], "O": ["MASDOUMARI"]}
+{"id": "P5-B-B0018-003", "v": "P", "inf": ["object"], "why": "Eurmal identified as 'the Trickster' only via context", "pf": "is synonym of"}
+{"id": "P5-B-B0018-004", "v": "P", "inf": ["subject"], "why": "'Trickster' assumed to be Eurmal via outside context", "pf": "is identified as"}
+{"id": "P5-B-B0018-005", "v": "P", "inf": ["subject"], "why": "'banished' parenthetical; subject assumed to be Eurmal via context", "pf": "loses status"}
+{"id": "P5-B-B0018-006", "v": "P", "inf": ["subject", "predicate"], "why": "'She' inferred as Elamle-ata; only source given, no destination", "pf": "departs from"}
+{"id": "P5-B-B0018-007", "v": "S", "inf": [], "pf": "travels", "O": ["WESTERN PENINSULA OF MASLO"]}
+{"id": "P5-B-B0018-008", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-B-B0018-009", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0018-010", "v": "P", "inf": ["direct_object"], "why": "'battled ... waves and currents' is a struggle/journey, not combat against beings", "pf": "travels", "O": ["DAKOPUTLO ELAMLE"]}
+{"id": "P5-B-B0018-011", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-B-B0018-012", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-B-B0018-013", "v": "P", "inf": ["object"], "why": "text states he was 'first human king', not explicit ruling of a realm", "pf": "takes title", "O": ["FIRST HUMAN KING"]}
+{"id": "P5-B-B0018-014", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0018-015", "v": "P", "inf": ["predicate"], "why": "'would rule' announces future succession, not established rule", "pf": "accedes to rule"}
+{"id": "P5-B-B0018-016", "v": "S", "inf": [], "pf": "swears oath with", "O": ["OATH OF ELAMLE"]}
+{"id": "P5-B-B0018-017", "v": "P", "inf": ["subject"], "why": "'vines and fungi' attributed to Dryads only via context", "pf": "kills"}
+{"id": "P5-B-B0018-018", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0018-019", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0018-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0018-021", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0018-022", "v": "P", "inf": ["subject"], "why": "agent who struck it down not explicitly named as Great Ones", "pf": "defeats"}
+{"id": "P5-B-B0018-023", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0018-024", "v": "P", "inf": ["to"], "why": "'it' assumed to be Dzen Besan Ru from context, not stated in quote", "pf": "descends into"}
+{"id": "P5-B-B0018-025", "v": "P", "inf": ["direct_object"], "why": "object is the mask, not Eurmal himself", "pf": "shatters", "O": ["MASK OF TRICKSTER"]}
+{"id": "P5-B-B0018-026", "v": "P", "inf": ["predicate"], "why": "'freed' matches rescue, not protection", "pf": "rescues / frees"}
+{"id": "P5-B-B0018-027", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0018-028", "v": "P", "inf": ["predicate"], "why": "'kin of' is a vague relation, not explicit descent claim", "pf": "claims ancestry"}
+{"id": "P5-B-B0018-029", "v": "P", "inf": ["object"], "why": "'the God Time capital' identified as Vardavanad only via context", "pf": "shatters"}
+{"id": "P5-B-B0018-030", "v": "P", "inf": ["predicate"], "why": "'plans to recover' suggests future reclaiming, not protecting", "pf": "rescues / frees"}
+{"id": "P5-B-B0018-031", "v": "P", "inf": ["subject"], "why": "'their' ancestors inferred as Tarien's from context", "pf": "wages war on"}
+{"id": "P5-B-B0018-032", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0018-033", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0018-034", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0018-035", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0018-036", "v": "U", "inf": ["predicate"], "why": "no killer is named; passive extermination suits 'dies' not 'kills'", "pf": "dies"}
+{"id": "P5-B-B0018-037", "v": "U", "inf": ["predicate"], "why": "'invaded' denotes hostile action, not mere travel", "pf": "invades / raids", "O": ["PAMALTELA"]}
+{"id": "P5-B-B0018-038", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0018-039", "v": "U", "inf": ["predicate"], "why": "'lives' indicates dwelling, not ruling", "pf": "dwells at"}
+{"id": "P5-B-B0018-040", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0018-041", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0018-042", "v": "P", "inf": ["direct_object"], "why": "quote gives birthplace, not a parent as source", "pf": "is born from"}
+{"id": "P5-B-B0018-043", "v": "U", "inf": ["subject"], "why": "God Learners are named creators; not spontaneous emergence", "pf": "conceives", "S": ["GOD LEARNERS"], "O": ["JOGRAMPUR"]}
+{"id": "P5-B-B0018-044", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0018-045", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0018-046", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0019-001", "v": "S", "inf": [], "pf": "enters Godtime / Otherworld", "O": ["UNDERWORLD"]}
+{"id": "P5-B-B0019-002", "v": "S", "inf": [], "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-B-B0019-003", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0019-004", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0019-005", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0019-006", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0019-007", "v": "P", "inf": ["object"], "why": "'their foes' identified as Afadjanni only via context", "pf": "invades / raids"}
+{"id": "P5-B-B0019-008", "v": "P", "inf": ["object"], "why": "'many cities' identified as Afadjanni's via context", "pf": "conquers"}
+{"id": "P5-B-B0019-009", "v": "P", "inf": ["object"], "why": "'those who disputed' identified as Malkioni via context", "pf": "kills"}
+{"id": "P5-B-B0019-010", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0019-011", "v": "P", "inf": ["object"], "why": "'its garrison' assumed to be Vadeli's via context", "pf": "exiles / banishes"}
+{"id": "P5-B-B0019-012", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0019-013", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0019-014", "v": "S", "inf": [], "pf": "initiates into cult"}
+{"id": "P5-B-B0019-015", "v": "P", "inf": ["object"], "why": "'the city' identified as Adinor only via context", "pf": "conquers"}
+{"id": "P5-B-B0019-016", "v": "P", "inf": ["object"], "why": "'the city' identified as Alstuga only via context", "pf": "accedes to rule"}
+{"id": "P5-B-B0019-017", "v": "P", "inf": ["object"], "why": "'the current ruler' of Alstuga only inferred via context", "pf": "rules"}
+{"id": "P5-B-B0019-018", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0019-019", "v": "P", "inf": ["predicate"], "why": "quote states a belief, not explicit service/worship", "pf": "serves"}
+{"id": "P5-B-B0019-020", "v": "P", "inf": ["to"], "why": "'here' identified as Arzawa only via context", "pf": "travels"}
+{"id": "P5-B-B0019-021", "v": "P", "inf": ["object"], "why": "subject 'is ruled by' referring to Arzawa only via context", "pf": "rules"}
+{"id": "P5-B-B0019-022", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0019-023", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0019-024", "v": "P", "inf": ["subject", "object"], "why": "'the temple' and 'the city' identified as Babeester Gor and Barugaza only via context", "pf": "accedes to rule"}
+{"id": "P5-B-B0019-025", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0019-026", "v": "P", "inf": ["predicate"], "why": "'seek' denotes pursuit, not established service", "pf": "serves"}
+{"id": "P5-B-B0019-027", "v": "S", "inf": [], "pf": "performs sacrifice", "O": [], "IO": ["SON OF CHAOS"]}
+{"id": "P5-B-B0019-028", "v": "U", "inf": ["predicate"], "why": "'were worshiped' means Vadeli receive worship, not that they establish a cult", "pf": "is worshipped by", "S": ["VADELI"], "O": []}
+{"id": "P5-B-B0019-029", "v": "P", "inf": ["direct_object"], "why": "the dikes were shattered; the city drowned as a consequence", "pf": "shatters"}
+{"id": "P5-B-B0019-030", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0019-031", "v": "S", "inf": [], "pf": "rides"}
+{"id": "P5-B-B0019-032", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0019-033", "v": "S", "inf": [], "pf": "has anomalous form", "qual": "monstrous"}
+{"id": "P5-B-B0019-034", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0019-035", "v": "P", "inf": ["predicate"], "why": "'free' matches rescue, not resurrection", "pf": "rescues / frees"}
+{"id": "P5-B-B0020-001", "v": "S", "inf": [], "pf": "is born from", "O": ["AGGATARALTARA"]}
+{"id": "P5-B-B0020-002", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0020-003", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0020-004", "v": "P", "inf": ["object"], "why": "'Moon Goddess' equated with Red Goddess only via outside context", "pf": "is identified as"}
+{"id": "P5-B-B0020-005", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0020-006", "v": "S", "inf": [], "pf": "holds office in"}
+{"id": "P5-B-B0020-007", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0020-008", "v": "P", "inf": ["object"], "why": "'Lunar Way' cult identified only via context, not named in quote", "pf": "initiates into cult"}
+{"id": "P5-B-B0020-009", "v": "P", "inf": ["in_on_at"], "why": "quote says 'the world', not specifically Peloria", "pf": "rules"}
+{"id": "P5-B-B0020-010", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0020-011", "v": "S", "inf": [], "pf": "is born from", "O": ["THE LAND"]}
+{"id": "P5-B-B0020-012", "v": "P", "inf": ["object"], "why": "'Her' refers to Sedenya only via preceding sentence context", "pf": "is child of"}
+{"id": "P5-B-B0020-013", "v": "P", "inf": ["predicate"], "why": "'guided' is softer than full 'rules'", "pf": "leads"}
+{"id": "P5-B-B0020-014", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-B-B0020-015", "v": "S", "inf": [], "pf": "is member of"}

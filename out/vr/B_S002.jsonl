@@ -1,0 +1,150 @@
+{"id": "P5-B-B0003-057", "v": "P", "inf": ["subject", "object"], "why": "quote uses 'the god' and 'the land', names not given", "pf": "protects"}
+{"id": "P5-B-B0003-058", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-B-B0003-059", "v": "P", "inf": ["object"], "why": "quote names no object, just 'came roaring northward'", "pf": "defeats"}
+{"id": "P5-B-B0003-060", "v": "P", "inf": ["subject"], "why": "'his' inferred as Sshorg from context", "pf": "is child of"}
+{"id": "P5-B-B0004-001", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0004-002", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0004-003", "v": "P", "inf": ["direct_object"], "why": "'the weapon' inferred as Red Sword from context", "pf": "dedicates relic"}
+{"id": "P5-B-B0004-004", "v": "S", "inf": [], "pf": "dedicates relic"}
+{"id": "P5-B-B0004-005", "v": "P", "inf": ["subject"], "why": "quote says dynasty ruled, Avalor only last of it", "pf": "rules"}
+{"id": "P5-B-B0004-006", "v": "P", "inf": ["subject"], "why": "'He' inferred as Avalor from context", "pf": "travels", "O": ["WASTELANDS"]}
+{"id": "P5-B-B0004-007", "v": "S", "inf": [], "pf": "curses"}
+{"id": "P5-B-B0004-008", "v": "U", "inf": ["predicate"], "why": "agent Jrusteli named, contradicts no-agent 'comes into being'", "pf": "founds"}
+{"id": "P5-B-B0004-009", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0004-010", "v": "P", "inf": ["predicate"], "why": "only attempted theft ('tried to steal'), not completed", "pf": "steals"}
+{"id": "P5-B-B0004-011", "v": "S", "inf": [], "pf": "is identified as", "qual": "conflation"}
+{"id": "P5-B-B0004-012", "v": "U", "inf": ["predicate"], "why": "'god of Movement' is domain, not embodiment of a Rune", "pf": "has domain", "O": ["MOVEMENT"]}
+{"id": "P5-B-B0004-013", "v": "U", "inf": ["predicate"], "why": "'female incarnation' is a form/avatar, not monstrous/hybrid body", "pf": "manifests as"}
+{"id": "P5-B-B0004-014", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0004-015", "v": "P", "inf": ["predicate"], "why": "'The Conqueror' is an epithet, not merely alternate name", "pf": "is epithet of", "S": ["THE CONQUEROR"], "O": ["KANG LUWAY"]}
+{"id": "P5-B-B0004-016", "v": "P", "inf": ["subject"], "why": "'he' inferred as Kang Luway from context", "pf": "rescues / frees"}
+{"id": "P5-B-B0004-017", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-B-B0004-018", "v": "P", "inf": ["in_on_at"], "why": "'her' inferred as Teshna from context", "pf": "dwells at"}
+{"id": "P5-B-B0004-019", "v": "P", "inf": ["direct_object"], "why": "husband identified only via pronoun 'her' referring to Teshna", "pf": "wounds"}
+{"id": "P5-B-B0004-020", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-B-B0004-021", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0004-022", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0004-023", "v": "U", "inf": ["predicate"], "why": "'built' a temple mountain is crafting a structure, not dedicating a relic", "pf": "crafts"}
+{"id": "P5-B-B0004-024", "v": "U", "inf": ["predicate"], "why": "quote says 'tricks', not 'fights'", "pf": "tricks"}
+{"id": "P5-B-B0004-025", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0004-026", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0004-027", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0004-028", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0004-029", "v": "P", "inf": ["predicate"], "why": "engineering feat (dikes/canals) best matches conceives, not listed vaguely", "pf": "conceives"}
+{"id": "P5-B-B0004-030", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0004-031", "v": "P", "inf": ["direct_object"], "why": "'the land' inferred as Prax", "pf": "departs from"}
+{"id": "P5-B-B0004-032", "v": "S", "inf": [], "pf": "performs sacrifice"}
+{"id": "P5-B-B0004-033", "v": "P", "inf": ["subject"], "why": "'He' inferred as the Devil from context", "pf": "shatters"}
+{"id": "P5-B-B0004-034", "v": "P", "inf": ["subject"], "why": "'He' inferred as the Devil", "pf": "kills"}
+{"id": "P5-B-B0004-035", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0004-036", "v": "P", "inf": ["subject"], "why": "'that Truestone' fragment inferred as the Block", "pf": "binds"}
+{"id": "P5-B-B0004-037", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0004-038", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0004-039", "v": "U", "inf": ["predicate"], "why": "agent Waha named, contradicts no-agent 'comes into being'", "pf": "conceives"}
+{"id": "P5-B-B0004-040", "v": "P", "inf": ["direct_object"], "why": "'the starving people' inferred as People of Prax", "pf": "teaches"}
+{"id": "P5-B-B0004-041", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0004-042", "v": "P", "inf": ["indirect_object"], "why": "'all' inferred as People of Prax from context", "pf": "teaches"}
+{"id": "P5-B-B0004-043", "v": "U", "inf": ["predicate"], "why": "text says 'raids', stronger and repeated than plain 'fights'", "pf": "invades / raids"}
+{"id": "P5-B-B0004-044", "v": "S", "inf": [], "pf": "imbues"}
+{"id": "P5-B-B0004-045", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0004-046", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0004-047", "v": "U", "inf": ["predicate"], "why": "Waha was crippled, not dead; 'healed' fits heals, not resurrects", "pf": "heals"}
+{"id": "P5-B-B0004-048", "v": "U", "inf": ["predicate"], "why": "agent Pavis named as founder, contradicts no-agent predicate", "pf": "founds"}
+{"id": "P5-B-B0004-049", "v": "U", "inf": ["predicate"], "why": "text says 'led his people', matches leads not plain travel", "pf": "leads", "O": ["ANIMAL NOMADS"]}
+{"id": "P5-B-B0005-001", "v": "U", "inf": ["predicate"], "why": "'led his warriors' fits leads, not plain travel", "pf": "leads", "O": ["HIS WARRIORS"]}
+{"id": "P5-B-B0005-002", "v": "S", "inf": [], "pf": "resurrects"}
+{"id": "P5-B-B0005-003", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0005-004", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0005-005", "v": "P", "inf": ["subject"], "why": "'the survivors' inferred as Pure Horse People", "pf": "flees to"}
+{"id": "P5-B-B0005-006", "v": "P", "inf": ["direct_object"], "why": "'its long-defiant foe' inferred as Sartar", "pf": "defeats"}
+{"id": "P5-B-B0005-007", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0005-008", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0005-009", "v": "P", "inf": ["direct_object"], "why": "'his family' identified via pronoun referring to Derik", "pf": "kills"}
+{"id": "P5-B-B0005-010", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0005-011", "v": "P", "inf": ["subject"], "why": "Derik only accompanied; the king led the raid", "pf": "steals"}
+{"id": "P5-B-B0005-012", "v": "P", "inf": ["subject"], "why": "'They' inferred as Derik and Yarandros", "pf": "steals"}
+{"id": "P5-B-B0005-013", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0005-014", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0005-015", "v": "P", "inf": ["subject"], "why": "Pol-Joni as agent not explicitly named in this quote", "pf": "exiles / banishes"}
+{"id": "P5-B-B0005-016", "v": "P", "inf": ["from"], "why": "'there' inferred as Adari from context", "pf": "travels"}
+{"id": "P5-B-B0005-017", "v": "P", "inf": ["direct_object"], "why": "'It' inferred as Akka from context", "pf": "rules"}
+{"id": "P5-B-B0005-018", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0005-019", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0005-020", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0005-021", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0005-022", "v": "P", "inf": ["direct_object"], "why": "'the land' inferred as Arinstoli region; verb matches leads better", "pf": "leads", "O": ["CLAN"]}
+{"id": "P5-B-B0005-023", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0005-024", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0005-025", "v": "U", "inf": ["predicate"], "why": "text says 'continuing war', matches wages war on not single fight", "pf": "wages war on"}
+{"id": "P5-B-B0005-026", "v": "P", "inf": ["predicate"], "why": "'cultists' implies worship, not explicit 'serves'", "pf": "is worshipped by", "S": ["STORM BULL"], "O": ["STORM BULL CULTISTS"]}
+{"id": "P5-B-B0005-027", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0005-028", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0005-029", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0005-030", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0005-031", "v": "U", "inf": ["subject"], "why": "direction reversed: Spike persists as Block, not vice versa; 'this chunk' inferred as Block", "pf": "survives as relic", "S": ["SPIKE"], "O": ["BLOCK"]}
+{"id": "P5-B-B0005-032", "v": "P", "inf": ["subject"], "why": "'It' inferred as the Block from context", "pf": "kills"}
+{"id": "P5-B-B0005-033", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0005-034", "v": "P", "inf": ["predicate"], "why": "'berserks' implies worship, not explicit 'serves'", "pf": "is worshipped by", "S": ["STORM BULL"], "O": ["STORM BULL BERSERKS"]}
+{"id": "P5-B-B0005-035", "v": "U", "inf": ["predicate"], "why": "quote describes dwarf mine location, not Mostali's own origin", "pf": "dwells at"}
+{"id": "P5-B-B0005-036", "v": "P", "inf": ["in_on_at"], "why": "'it' inferred as Copper Caves", "pf": "appears"}
+{"id": "P5-B-B0005-037", "v": "U", "inf": ["predicate"], "why": "quote only describes 'Earth magics', no manifestation event stated", "pf": "has domain", "O": ["EARTH"]}
+{"id": "P5-B-B0005-038", "v": "P", "inf": ["subject", "direct_object"], "why": "fragmentary quote; agent and transformation target not explicit", "pf": "transforms into"}
+{"id": "P5-B-B0005-039", "v": "P", "inf": ["subject"], "why": "subject inferred as Genert's forces from fragmentary quote", "pf": "fights"}
+{"id": "P5-B-B0005-040", "v": "P", "inf": ["direct_object"], "why": "'This settlement' inferred as Corflu from heading", "pf": "rules"}
+{"id": "P5-B-B0005-041", "v": "P", "inf": ["from"], "why": "'here' inferred as Corflu from context", "pf": "travels"}
+{"id": "P5-B-B0005-042", "v": "P", "inf": ["in_on_at"], "why": "'Here' inferred as Dakastor's Own Grassland", "pf": "fights"}
+{"id": "P5-B-B0005-043", "v": "P", "inf": ["subject"], "why": "subject Waha inferred from fragmentary quote", "pf": "rescues / frees"}
+{"id": "P5-B-B0005-044", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0005-045", "v": "P", "inf": ["subject"], "why": "passive voice; the Devil as agent not explicitly named", "pf": "wounds"}
+{"id": "P5-B-B0005-046", "v": "P", "inf": ["subject"], "why": "'His' inferred as Storm Bull from context", "pf": "is spouse of"}
+{"id": "P5-B-B0005-047", "v": "P", "inf": ["indirect_object", "direct_object"], "why": "'her lover' inferred as Storm Bull; 'it' is the ground's power", "pf": "bestows"}
+{"id": "P5-B-B0005-049", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0005-050", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0005-051", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0005-052", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0005-053", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0005-054", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-B-B0005-055", "v": "P", "inf": ["subject"], "why": "'each piece' generalized as Deri, name not given in this quote", "pf": "is born from"}
+{"id": "P5-B-B0005-056", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0005-057", "v": "U", "inf": ["predicate"], "why": "agent Waha named; 'comes into being' implies no agent", "pf": "conceives"}
+{"id": "P5-B-B0005-058", "v": "S", "inf": [], "pf": "comes into being"}
+{"id": "P5-B-B0005-059", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0005-060", "v": "U", "inf": ["predicate"], "why": "'stronghold' indicates base/dwelling, not political rule", "pf": "dwells at"}
+{"id": "P5-B-B0006-001", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0006-002", "v": "U", "inf": ["predicate"], "why": "quote merely states they met, no travel or other defined relation stated", "pf": "REJECT", "note": "quote only states they met, no defined relation"}
+{"id": "P5-B-B0006-003", "v": "P", "inf": ["direct_object"], "why": "'Dwarf' equated with Mostali by outside knowledge, not stated verbatim", "pf": "is member of"}
+{"id": "P5-B-B0006-004", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0006-005", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0006-006", "v": "P", "inf": ["subject"], "why": "'he' inferred as Fanzali from context", "pf": "discovers"}
+{"id": "P5-B-B0006-007", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0006-008", "v": "P", "inf": ["direct_object"], "why": "'this' inferred as Gash Land from heading", "pf": "rules"}
+{"id": "P5-B-B0006-009", "v": "P", "inf": ["direct_object"], "why": "'troll' equated with Uz, not stated verbatim", "pf": "is member of"}
+{"id": "P5-B-B0006-010", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0006-011", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0006-012", "v": "U", "inf": ["predicate"], "why": "'dug' means created, not 'manifests'", "pf": "conceives"}
+{"id": "P5-B-B0006-013", "v": "P", "inf": ["subject", "predicate"], "why": "'Her' inferred as River; no precise predicate matches 'forced upward'", "pf": "causes", "O": ["DEVIL'S MARSH"]}
+{"id": "P5-B-B0006-014", "v": "P", "inf": ["predicate"], "why": "'met' ambiguous, may not confirm fighting occurred", "pf": "fights"}
+{"id": "P5-B-B0006-015", "v": "P", "inf": ["direct_object"], "why": "'the dust' not explicitly identified as Chaos in this quote", "pf": "fights"}
+{"id": "P5-B-B0006-016", "v": "P", "inf": ["direct_object"], "why": "quote states blood fell, no explicit wounding event or agent named", "pf": "wounds"}
+{"id": "P5-B-B0006-017", "v": "P", "inf": ["subject"], "why": "'her' inferred as Mallia from context", "pf": "corrupts"}
+{"id": "P5-B-B0006-018", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0006-019", "v": "U", "inf": ["predicate"], "why": "'the Butcher' is an epithet of Waha, not a separate alternate name entity", "pf": "is epithet of", "S": ["THE BUTCHER"], "O": ["WAHA"]}
+{"id": "P5-B-B0006-020", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0006-021", "v": "P", "inf": ["direct_object"], "why": "'it' inferred as Krjalki Bog from context", "pf": "protects"}
+{"id": "P5-B-B0006-022", "v": "P", "inf": ["direct_object"], "why": "'his lost lord' inferred as Genert from context", "pf": "serves"}
+{"id": "P5-B-B0006-023", "v": "P", "inf": ["direct_object"], "why": "'It' inferred as the Last Drop place from heading", "pf": "reveals"}
+{"id": "P5-B-B0006-024", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0006-025", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0006-026", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0006-027", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0006-028", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0006-029", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0006-030", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-B-B0007-001", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0007-002", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0007-003", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0007-004", "v": "U", "inf": ["predicate"], "why": "'fell' means died in battle, not literal descent into underworld", "pf": "dies"}
+{"id": "P5-B-B0007-005", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0007-006", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0007-007", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0007-008", "v": "P", "inf": ["direct_object"], "why": "'his lost lord' inferred as Genert from context", "pf": "serves"}

@@ -1,0 +1,150 @@
+{"id": "P5-A-B0153-026", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0153-027", "v": "P", "inf": ["predicate"], "why": "worship is religious relation, not vassal service", "pf": "is worshipped by", "S": ["TOLAT"], "O": ["AMAZONS"]}
+{"id": "P5-A-B0153-028", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0153-029", "v": "P", "inf": ["direct_object"], "why": "quote gives reproduction, not explicit magic/gift", "pf": "bestows"}
+{"id": "P5-A-B0153-030", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-A-B0153-031", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0153-032", "v": "S", "inf": [], "pf": "manifests as"}
+{"id": "P5-A-B0153-033", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0153-034", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0153-035", "v": "P", "inf": ["predicate"], "why": "quote says things 'go to her', not explicit consuming", "pf": "swallows / consumes"}
+{"id": "P5-A-B0153-036", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0153-037", "v": "P", "inf": ["predicate"], "why": "'heart of kingdom' implies but doesn't state rule", "pf": "rules"}
+{"id": "P5-A-B0153-038", "v": "U", "inf": ["predicate"], "why": "settlers describes origin, not group membership", "pf": "claims ancestry"}
+{"id": "P5-A-B0153-039", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0153-040", "v": "P", "inf": ["predicate"], "why": "'claimed' implies conquest, not established rule", "pf": "conquers"}
+{"id": "P5-A-B0153-041", "v": "P", "inf": ["purpose_clause"], "why": "purpose 'to protect' inferred, not stated verbatim", "pf": "defeats"}
+{"id": "P5-A-B0153-042", "v": "P", "inf": ["predicate"], "why": "invasion plus enslavement is conquest/subjugation, not mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0153-043", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0153-044", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0153-045", "v": "S", "inf": [], "pf": "swears oath with"}
+{"id": "P5-A-B0153-046", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0153-047", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0153-048", "v": "U", "inf": ["predicate"], "why": "'main god of' indicates worship, reversed direction", "pf": "is worshipped by", "S": ["TOLAT"], "O": ["GACHI"]}
+{"id": "P5-A-B0153-049", "v": "P", "inf": ["direct_object"], "why": "he founded the temple, not dedicated the sword itself", "pf": "founds", "O": ["TEMPLE OF THE SWORD"]}
+{"id": "P5-A-B0153-050", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0153-051", "v": "S", "inf": [], "pf": "survives as relic"}
+{"id": "P5-A-B0153-052", "v": "U", "inf": ["predicate"], "why": "'worshipped by' reverses agent/patient", "pf": "is worshipped by", "S": ["EMILLA", "ARTMAL"], "O": ["GACHI"]}
+{"id": "P5-A-B0153-053", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0153-054", "v": "P", "inf": ["predicate"], "why": "stated as an allegation by Ashurtans, not confirmed fact", "pf": "performs sacrifice"}
+{"id": "P5-A-B0153-055", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0153-056", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0153-057", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0153-058", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0153-060", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0153-061", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0154-001", "v": "U", "inf": ["subject", "direct_object"], "why": "self-referential tie, no agent named for the shattering", "pf": "REJECT"}
+{"id": "P5-A-B0154-002", "v": "P", "inf": ["purpose_clause"], "why": "purpose is refuge from humanity, not 'to obtain'", "pf": "flees to"}
+{"id": "P5-A-B0154-003", "v": "P", "inf": ["predicate"], "why": "text emphasizes bringing the Opening, more than simple travel", "pf": "travels"}
+{"id": "P5-A-B0154-004", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0154-005", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0154-006", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0154-007", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0154-008", "v": "P", "inf": ["predicate"], "why": "'wooing' indicates courtship, marriage not confirmed", "pf": "seduces"}
+{"id": "P5-A-B0154-009", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0154-010", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0154-011", "v": "U", "inf": ["subject", "direct_object"], "why": "is worshipped by requires deity in S", "pf": "is worshipped by", "S": ["DINOSAURS"], "O": ["JASKALI"]}
+{"id": "P5-A-B0154-012", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0154-013", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0154-014", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0154-015", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0154-016", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0154-017", "v": "U", "inf": ["predicate"], "why": "'descends into' unsupported, quote states drowning/death", "pf": "dies"}
+{"id": "P5-A-B0154-018", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0154-019", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0154-020", "v": "P", "inf": ["predicate"], "why": "'wage relentless war' is more specific than generic fights", "pf": "wages war on"}
+{"id": "P5-A-B0154-021", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0154-022", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0154-023", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0154-024", "v": "P", "inf": ["predicate"], "why": "'led by' indicates leadership, not established rule", "pf": "leads"}
+{"id": "P5-A-B0154-025", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0154-026", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0154-027", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0154-028", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0154-029", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0154-030", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0154-031", "v": "P", "inf": ["predicate"], "why": "'invade' is more specific than generic fights", "pf": "invades / raids"}
+{"id": "P5-A-B0154-032", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0154-033", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0154-034", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0154-035", "v": "U", "inf": ["subject", "predicate"], "why": "agent Magasta is named, so this is his act of creation not spontaneous emergence", "pf": "conceives", "S": ["MAGASTA"], "O": ["THE GREAT WHIRLPOOL"]}
+{"id": "P5-A-B0154-036", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0154-037", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0154-038", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0154-039", "v": "P", "inf": ["predicate"], "why": "text calls these 'conquests', stronger than defeat", "pf": "conquers"}
+{"id": "P5-A-B0154-040", "v": "P", "inf": ["predicate"], "why": "'perhaps' hedges the claim; also conquest not mere defeat", "pf": "conquers"}
+{"id": "P5-A-B0154-041", "v": "S", "inf": [], "pf": "reveals"}
+{"id": "P5-A-B0154-042", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0154-043", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0154-044", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0154-045", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0154-046", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0154-047", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0154-048", "v": "S", "inf": [], "pf": "swallows / consumes"}
+{"id": "P5-A-B0154-049", "v": "P", "inf": ["predicate"], "why": "text says 'conquered', stronger than defeat", "pf": "conquers"}
+{"id": "P5-A-B0154-050", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0154-051", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0154-052", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-A-B0154-053", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0154-054", "v": "U", "inf": ["subject", "predicate"], "why": "the ocean is a named agent, so this is agentive creation not spontaneous", "pf": "conceives", "S": ["THE OCEAN"], "O": ["DRY LAND"]}
+{"id": "P5-A-B0154-055", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0154-056", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0154-057", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0154-058", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0154-059", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-A-B0154-060", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0155-001", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0155-002", "v": "S", "inf": [], "pf": "allies with"}
+{"id": "P5-A-B0155-003", "v": "P", "inf": ["predicate"], "why": "'struck, sinking' is a specific attack, more than generic fighting", "pf": "invades / raids"}
+{"id": "P5-A-B0155-004", "v": "S", "inf": [], "pf": "challenges"}
+{"id": "P5-A-B0155-005", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0155-006", "v": "P", "inf": ["predicate"], "why": "paying tribute indicates submission, not membership/service exactly", "pf": "submits to"}
+{"id": "P5-A-B0155-007", "v": "S", "inf": [], "pf": "bestows geas"}
+{"id": "P5-A-B0155-008", "v": "P", "inf": ["predicate"], "why": "'struck' is vague, no clear outcome specified", "pf": "wounds"}
+{"id": "P5-A-B0155-009", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0155-010", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-A-B0155-011", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-A-B0155-012", "v": "S", "inf": [], "pf": "flees to"}
+{"id": "P5-A-B0155-013", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0155-014", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-A-B0155-015", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-A-B0155-016", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0155-017", "v": "U", "inf": ["subject", "direct_object"], "why": "is worshipped by requires deity in S", "pf": "is worshipped by", "S": ["TSANKTH"], "O": ["PIRATICAL WORSHIPPERS OF TSANKTH"]}
+{"id": "P5-A-B0155-018", "v": "U", "inf": ["subject", "direct_object"], "why": "is worshipped by requires deity in S", "pf": "is worshipped by", "S": ["TELASK"], "O": ["WARRIOR-NOBLES OF THE HINTER ISLES"]}
+{"id": "P5-A-B0155-019", "v": "P", "inf": ["predicate"], "why": "'carved out empire' implies conquest, not just rule", "pf": "conquers"}
+{"id": "P5-A-B0155-020", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-A-B0155-021", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0155-022", "v": "P", "inf": ["subject"], "why": "Kralorela sent expeditions, did not itself travel", "pf": "sends"}
+{"id": "P5-A-B0155-023", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0155-024", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-A-B0155-025", "v": "P", "inf": ["predicate"], "why": "he died of the wounds, so killing is the outcome, not mere wounding", "pf": "kills"}
+{"id": "P5-A-B0155-026", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-A-B0155-027", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0155-028", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0155-029", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-A-B0155-030", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0155-031", "v": "S", "inf": [], "pf": "departs from"}
+{"id": "P5-A-B0155-032", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0155-033", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0155-034", "v": "S", "inf": [], "pf": "is spouse of"}
+{"id": "P5-A-B0155-035", "v": "P", "inf": ["predicate"], "why": "'stars are her thoughts' suggests creative act, not mere manifestation", "pf": "conceives"}
+{"id": "P5-A-B0155-036", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-A-B0155-037", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0155-038", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0155-039", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0155-040", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0155-041", "v": "P", "inf": ["predicate"], "why": "text says she 'filled the world with' life, an act of creation not birth", "pf": "conceives"}
+{"id": "P5-A-B0155-042", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0155-043", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0155-044", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-A-B0155-045", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-A-B0155-046", "v": "S", "inf": [], "pf": "teaches"}
+{"id": "P5-A-B0155-047", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-A-B0155-048", "v": "S", "inf": [], "pf": "becomes celestial body"}
+{"id": "P5-A-B0155-049", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-A-B0155-050", "v": "U", "inf": ["subject", "direct_object"], "why": "is worshipped by requires deity in S", "pf": "is worshipped by", "S": ["KARKAL"], "O": ["HUMANS"]}
+{"id": "P5-A-B0155-051", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-A-B0155-052", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-A-B0155-053", "v": "P", "inf": ["predicate"], "why": "he led armies that defeated foes, indirect not personal combat", "pf": "defeats"}
+{"id": "P5-A-B0155-054", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-A-B0155-055", "v": "S", "inf": [], "pf": "protects"}

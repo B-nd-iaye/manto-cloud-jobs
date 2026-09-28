@@ -1,0 +1,150 @@
+{"id": "P5-B-B0014-018", "v": "P", "inf": ["subject"], "why": "Subject is Enrono's Refutation (his work), not Enrono himself", "pf": "rescues / frees"}
+{"id": "P5-B-B0014-019", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0014-020", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0014-021", "v": "S", "inf": [], "pf": "exiles / banishes"}
+{"id": "P5-B-B0014-022", "v": "U", "inf": ["predicate"], "why": "Dragons appointed KuanKal to throne; they don't rule him", "pf": "appoints"}
+{"id": "P5-B-B0014-023", "v": "P", "inf": ["direct_object"], "why": "'him' inferred as KuanKal from context", "pf": "exiles / banishes"}
+{"id": "P5-B-B0014-024", "v": "S", "inf": [], "pf": "accedes to rule"}
+{"id": "P5-B-B0014-025", "v": "U", "inf": ["predicate"], "why": "Text says he established the House, not that he rules it", "pf": "founds"}
+{"id": "P5-B-B0014-026", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0014-027", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0014-028", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0014-029", "v": "U", "inf": ["predicate"], "why": "Jan Yimanu founded the House, not stated as ruling it", "pf": "founds"}
+{"id": "P5-B-B0014-030", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0014-031", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-B-B0014-032", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0014-033", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0014-034", "v": "S", "inf": [], "pf": "is child of"}
+{"id": "P5-B-B0014-035", "v": "U", "inf": ["subject", "direct_object"], "why": "Lord Phoenix is title/epithet of Osdero, reversed from tie", "pf": "is epithet of", "S": ["LORD PHOENIX"], "O": ["OSDERO"]}
+{"id": "P5-B-B0014-036", "v": "U", "inf": ["predicate"], "why": "Osdero raised (built) the palace; this is crafting, not station change", "pf": "crafts"}
+{"id": "P5-B-B0014-037", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0014-038", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0014-039", "v": "U", "inf": ["predicate"], "why": "Harau resides (dwells), not merely travels", "pf": "dwells at"}
+{"id": "P5-B-B0014-040", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0014-041", "v": "S", "inf": [], "pf": "protects"}
+{"id": "P5-B-B0014-042", "v": "U", "inf": ["predicate"], "why": "Manusuko founded a school, not established a cult", "pf": "founds"}
+{"id": "P5-B-B0014-043", "v": "U", "inf": ["subject", "direct_object"], "why": "Kumanti Lun teaches Manusuko; direction reversed", "pf": "teaches", "S": ["KUMANTI LUN"], "O": ["MANUSUKO"]}
+{"id": "P5-B-B0014-044", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0014-045", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-B-B0014-046", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0014-047", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0014-048", "v": "S", "inf": [], "pf": "rules"}
+{"id": "P5-B-B0014-049", "v": "U", "inf": ["predicate"], "why": "King Kediri sent Agimori; not his own travel", "pf": "sends"}
+{"id": "P5-B-B0014-050", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0014-051", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-B-B0014-052", "v": "U", "inf": ["predicate"], "why": "Dryads formed a council; this is founding, not cult worship", "pf": "founds"}
+{"id": "P5-B-B0014-053", "v": "S", "inf": [], "pf": "is born from"}
+{"id": "P5-B-B0014-054", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0014-055", "v": "U", "inf": ["predicate"], "why": "Text states similarity to Embyli type, not equation with a being", "pf": "is member of"}
+{"id": "P5-B-B0014-056", "v": "U", "inf": ["predicate"], "why": "He held offices/titles, not simple membership", "pf": "holds office in"}
+{"id": "P5-B-B0014-057", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0014-058", "v": "S", "inf": [], "pf": "discovers"}
+{"id": "P5-B-B0014-059", "v": "P", "inf": ["direct_object"], "why": "'killed many' ambiguous, may refer to trolls not specifically queens", "pf": "kills"}
+{"id": "P5-B-B0014-060", "v": "U", "inf": ["predicate"], "why": "Forcing a magic oath is bestowing a geas, not a mutual oath", "pf": "bestows geas"}
+{"id": "P5-B-B0014-062", "v": "U", "inf": ["predicate"], "why": "Quote only says 'encountering', no conflict stated", "pf": "REJECT"}
+{"id": "P5-B-B0014-063", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0014-064", "v": "P", "inf": ["predicate"], "why": "'did obeisance' is an act of submission, not ongoing servanthood", "pf": "submits to"}
+{"id": "P5-B-B0014-066", "v": "U", "inf": ["predicate"], "why": "He carried the poison; no creation or gift-giving stated", "pf": "possesses / wields"}
+{"id": "P5-B-B0014-067", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0014-068", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0014-069", "v": "U", "inf": ["predicate"], "why": "'allies of' is alliance, not servitude", "pf": "allies with"}
+{"id": "P5-B-B0014-070", "v": "S", "inf": [], "pf": "travels"}
+{"id": "P5-B-B0014-071", "v": "U", "inf": ["predicate"], "why": "'perished' means dying, not descending into underworld", "pf": "dies"}
+{"id": "P5-B-B0015-001", "v": "S", "inf": [], "pf": "serves"}
+{"id": "P5-B-B0015-002", "v": "S", "inf": [], "pf": "is identified as", "qual": "incarnation"}
+{"id": "P5-B-B0015-003", "v": "U", "inf": ["predicate"], "why": "Seduction is the stated act; binding/servitude is the outcome, not the verb", "pf": "seduces"}
+{"id": "P5-B-B0015-004", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0015-005", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0015-006", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-B-B0015-007", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0015-008", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-B-B0015-009", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0015-010", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0015-011", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-B-B0015-012", "v": "U", "inf": ["direct_object"], "why": "'the fratricide' refers to Jokotu (killer), not Garangordos (victim)", "pf": "dismembers", "O": ["JOKOTU"]}
+{"id": "P5-B-B0015-013", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0015-014", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0015-015", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-B-B0015-016", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0015-017", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0015-018", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0015-019", "v": "U", "inf": ["predicate"], "why": "Falling from sky is not entering the Underworld", "pf": "travels"}
+{"id": "P5-B-B0015-020", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0015-021", "v": "U", "inf": ["predicate"], "why": "Blue Castle was their capital/seat, not stated as ruled by them per se", "pf": "dwells at"}
+{"id": "P5-B-B0015-022", "v": "U", "inf": ["predicate"], "why": "Garangordos selected/appointed Tenoarpesas; he himself does not embody", "pf": "appoints", "IO": ["KENDAMALAR"]}
+{"id": "P5-B-B0015-023", "v": "U", "inf": ["predicate", "direct_object"], "why": "Self-directed taint, not a specific vocab-defined object relation", "pf": "grows tainted with Chaos", "O": []}
+{"id": "P5-B-B0015-024", "v": "S", "inf": [], "pf": "descends into"}
+{"id": "P5-B-B0015-025", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0015-026", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0015-027", "v": "P", "inf": ["direct_object"], "why": "Quote names 'the Sun', not explicitly Varama", "pf": "is synonym of"}
+{"id": "P5-B-B0015-028", "v": "S", "inf": [], "pf": "establishes cult"}
+{"id": "P5-B-B0015-029", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0015-030", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0015-031", "v": "P", "inf": ["direct_object"], "why": "'us' inferred as the three named chaos gods from context", "pf": "defeats"}
+{"id": "P5-B-B0015-032", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0015-033", "v": "S", "inf": [], "pf": "has domain"}
+{"id": "P5-B-B0015-034", "v": "S", "inf": [], "pf": "embodies"}
+{"id": "P5-B-B0015-035", "v": "U", "inf": ["subject", "direct_object"], "why": "'the Destroyer' is epithet of Kajabor, reversed from tie", "pf": "is epithet of", "S": ["DESTROYER"], "O": ["KAJABOR"]}
+{"id": "P5-B-B0015-036", "v": "S", "inf": [], "pf": "is identified as", "qual": "equation"}
+{"id": "P5-B-B0015-037", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0015-038", "v": "U", "inf": ["subject", "direct_object"], "why": "Annilla is the deity worshipped at the site Bep; direction reversed", "pf": "receives cult at", "S": ["ANNILLA"], "O": ["BEP"]}
+{"id": "P5-B-B0015-039", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0015-040", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0015-041", "v": "U", "inf": ["predicate"], "why": "City was founded by Baruba; not 'comes into being' spontaneously", "pf": "founds"}
+{"id": "P5-B-B0015-042", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0015-043", "v": "U", "inf": ["predicate"], "why": "'inhabited by' means dwelling, not membership", "pf": "dwells at"}
+{"id": "P5-B-B0016-001", "v": "U", "inf": ["subject", "direct_object"], "why": "Deities are worshipped by Pujaleg; direction reversed", "pf": "is worshipped by", "S": ["TOLAT", "ARTIA", "BLUE STREAK"], "O": ["PUJALEG"]}
+{"id": "P5-B-B0016-002", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0016-003", "v": "S", "inf": [], "pf": "is epithet of"}
+{"id": "P5-B-B0016-004", "v": "U", "inf": ["subject", "direct_object"], "why": "Blue Bat goddess is the title, Blue Streak the name; order reversed", "pf": "is epithet of", "S": ["BLUE BAT GODDESS"], "O": ["BLUE STREAK"]}
+{"id": "P5-B-B0016-005", "v": "S", "inf": [], "pf": "transforms into"}
+{"id": "P5-B-B0016-006", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0016-007", "v": "S", "inf": [], "pf": "is member of"}
+{"id": "P5-B-B0016-008", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0016-009", "v": "U", "inf": ["subject", "direct_object"], "why": "Goddess is protector of the sacred animal; direction reversed", "pf": "protects", "S": ["GRANDMOTHER EARTH"], "O": ["MILK-PRODUCING ANTELOPE"]}
+{"id": "P5-B-B0016-010", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0016-011", "v": "U", "inf": ["subject", "direct_object"], "why": "Spirits are worshipped by Te Huantal; direction reversed", "pf": "is worshipped by", "S": ["UNDERWORLD SPIRITS"], "O": ["TE HUANTAL"]}
+{"id": "P5-B-B0016-012", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0016-013", "v": "S", "inf": [], "pf": "wages war on"}
+{"id": "P5-B-B0016-014", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0016-015", "v": "S", "inf": [], "pf": "defeats"}
+{"id": "P5-B-B0016-016", "v": "S", "inf": [], "pf": "kills"}
+{"id": "P5-B-B0016-017", "v": "U", "inf": ["predicate"], "why": "'became king' is an accession, not a generic mythic-station change", "pf": "accedes to rule", "O": []}
+{"id": "P5-B-B0016-018", "v": "U", "inf": ["predicate"], "why": "Building the city is crafting, not manifesting", "pf": "crafts"}
+{"id": "P5-B-B0016-019", "v": "U", "inf": ["subject", "direct_object"], "why": "Boatman is epithet, Menaka the name; order reversed", "pf": "is epithet of", "S": ["BOATMAN"], "O": ["MENAKA"]}
+{"id": "P5-B-B0016-020", "v": "S", "inf": [], "pf": "rescues / frees"}
+{"id": "P5-B-B0016-021", "v": "U", "inf": ["predicate"], "why": "Fleet was destroyed, not descending into an underworld", "pf": "shatters"}
+{"id": "P5-B-B0016-022", "v": "U", "inf": ["subject", "direct_object"], "why": "Malkion is deity receiving cult at temple; direction reversed, cult not named", "pf": "receives cult at", "S": ["MALKION"], "O": []}
+{"id": "P5-B-B0016-023", "v": "U", "inf": ["predicate"], "why": "Grue are described as Chaos-tainted beings (state)", "pf": "is tainted with Chaos", "O": []}
+{"id": "P5-B-B0016-024", "v": "U", "inf": ["subject", "direct_object"], "why": "Golden One is title, Tenoarpesas the name; order reversed", "pf": "is epithet of", "S": ["GOLDEN ONE"], "O": ["TENOARPESAS"]}
+{"id": "P5-B-B0016-025", "v": "S", "inf": [], "pf": "binds"}
+{"id": "P5-B-B0016-026", "v": "U", "inf": ["predicate"], "why": "'High Priestess of' indicates cult office, not servitude", "pf": "holds office in"}
+{"id": "P5-B-B0016-027", "v": "U", "inf": ["subject", "direct_object"], "why": "Purifier is title, Ikadz the name; order reversed", "pf": "is epithet of", "S": ["PURIFIER"], "O": ["IKADZ"]}
+{"id": "P5-B-B0016-028", "v": "U", "inf": ["predicate"], "why": "'priests of' indicates cult office, not generic servitude", "pf": "holds office in"}
+{"id": "P5-B-B0016-029", "v": "U", "inf": ["predicate"], "why": "'Vessel of' is a cult office, not generic servitude", "pf": "holds office in"}
+{"id": "P5-B-B0016-030", "v": "S", "inf": [], "pf": "conquers"}
+{"id": "P5-B-B0016-031", "v": "P", "inf": ["subject"], "why": "Sacrificer inferred as the Temple, not explicitly named", "pf": "performs sacrifice"}
+{"id": "P5-B-B0016-032", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0016-033", "v": "S", "inf": [], "pf": "claims ancestry"}
+{"id": "P5-B-B0016-034", "v": "S", "inf": [], "pf": "is sibling of"}
+{"id": "P5-B-B0016-035", "v": "S", "inf": [], "pf": "seduces"}
+{"id": "P5-B-B0016-036", "v": "U", "inf": ["subject", "direct_object"], "why": "Deities receive cult at the city; direction reversed", "pf": "receives cult at", "S": ["MAGASTA", "SESEINE"], "O": ["JANFUSU"]}
+{"id": "P5-B-B0016-037", "v": "S", "inf": [], "pf": "steals"}
+{"id": "P5-B-B0016-038", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0016-039", "v": "S", "inf": [], "pf": "is synonym of"}
+{"id": "P5-B-B0016-040", "v": "S", "inf": [], "pf": "wounds"}
+{"id": "P5-B-B0016-041", "v": "U", "inf": ["subject", "direct_object"], "why": "Fire Lord is title, Seseko the name; order reversed", "pf": "is epithet of", "S": ["FIRE LORD"], "O": ["SESEKO"]}
+{"id": "P5-B-B0016-042", "v": "S", "inf": [], "pf": "is identified as"}
+{"id": "P5-B-B0016-043", "v": "S", "inf": [], "pf": "bestows"}
+{"id": "P5-B-B0016-044", "v": "S", "inf": [], "pf": "shatters"}
+{"id": "P5-B-B0016-045", "v": "S", "inf": [], "pf": "is spouse of", "qual": "wedding"}
+{"id": "P5-B-B0016-046", "v": "U", "inf": ["subject", "direct_object"], "why": "White Pearl is title, Lohanasen the name; order reversed", "pf": "is epithet of", "S": ["WHITE PEARL"], "O": ["LOHANASEN"]}
+{"id": "P5-B-B0016-047", "v": "U", "inf": ["subject", "direct_object"], "why": "Lohanasen is deity receiving cult at the city; direction reversed", "pf": "receives cult at", "S": ["LOHANASEN"], "O": ["KANI-NA"]}
+{"id": "P5-B-B0016-048", "v": "U", "inf": ["subject", "direct_object"], "why": "Diver is title, Afati-Tal the name; order reversed", "pf": "is epithet of", "S": ["DIVER"], "O": ["AFATI-TAL"]}
+{"id": "P5-B-B0016-049", "v": "S", "inf": [], "pf": "fights"}
+{"id": "P5-B-B0016-050", "v": "S", "inf": [], "pf": "invades / raids"}
+{"id": "P5-B-B0016-051", "v": "S", "inf": [], "pf": "dismembers"}
+{"id": "P5-B-B0016-052", "v": "U", "inf": ["subject", "direct_object"], "why": "Heartless and Openhanded is title, Archidomides the name; order reversed", "pf": "is epithet of", "S": ["HEARTLESS AND OPENHANDED"], "O": ["ARCHIDOMIDES"]}
+{"id": "P5-B-B0016-053", "v": "U", "inf": ["predicate"], "why": "'Vessel of' is a cult office, not generic servitude", "pf": "holds office in"}
+{"id": "P5-B-B0016-054", "v": "U", "inf": ["subject", "direct_object"], "why": "Slave God is title, Tentacule the name; order reversed", "pf": "is epithet of", "S": ["SLAVE GOD"], "O": ["TENTACULE"]}
+{"id": "P5-B-B0016-055", "v": "U", "inf": ["predicate"], "why": "State cult's function described; not simple servitude", "pf": "holds office in"}

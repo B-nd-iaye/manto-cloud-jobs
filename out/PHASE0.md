@@ -128,6 +128,29 @@ python3 headless.py prompts/verify_reclass_v1.md out_test/vr_opus_low vr_shards/
 
 Opus-low lands near Sonnet-high's accuracy at a quarter of the time and ~75% of the cost, but its errors cluster in one passage block rather than spreading evenly — a pattern (not just a count) that needs checking before it's trusted at scale.
 
+## 7. Spot-check: are the disagreements defensible? (at user's request)
+
+First, a sanity check on the reference itself: `ref/B_S001.default_effort.jsonl` and `ref/B_S001.subagent_pilot.jsonl` overlap on 100 ids (`B0001`–`B0003`, partial). **They agree with each other only 89.0% of the time (89/100)** — i.e. the two reference sources disagree with each other about as often as our best test run disagrees with either one of them. That reframes the whole exercise: 85% agreement against a single reference may not be an achievable ceiling if the reference-generation process itself isn't self-consistent above ~89%.
+
+Reading the actual quotes for a sample of disagreements (both model-vs-reference and reference-vs-reference) turns up two distinct patterns, not random noise:
+
+**(a) Anaphora/referent leniency — the dominant pattern.** Several quotes refer to the tie's subject or location with a pronoun or demonstrative ("he", "his", "it", "this area", "whence") whose antecedent is unambiguous from the immediately surrounding sentence, but isn't re-named inside the quoted span itself:
+- `P5-B-B0001-009` — Q: *"instead of legs, he has great limbs like snake tails."* (S=YLREAM, implicit=True) — `default_effort` and `subagent_pilot` both call this `S` (fully supported) despite "he" not being literally named "Ylream" in the quote.
+- `P5-B-B0003-006` — Q: *"...It was later the center of Arkat's Dark Empire."* (MOD location RINDLAND not named) — `default_effort` calls `S`; `subagent_pilot` calls `P`.
+- Also `-010`, `-012`, `-0003-003`: same shape, and the two reference files **disagree with each other** on all of these.
+
+`default_effort` treats unambiguous same-passage anaphora as sufficient for `S`; lower-effort Sonnet runs and Opus-low more often flag the referent as inferred and call `P` — a stricter but not unreasonable reading of "unmistakably entailed." This single issue plausibly accounts for the majority of every disagreement set I looked at (low, medium, high, opus-low), and it also drives 8 of the 11 reference-vs-reference disagreements above. It looks like a genuine prompt underspecification (how strict is "unmistakably entailed" for clear same-sentence/adjacent-sentence anaphora?), not a model competence gap — closing it would need a prompt clarification, which is outside Phase 0's "don't edit the prompt" boundary.
+
+**(b) Predicate-strength misclassification (P vs U) — smaller, but a real rule violation.** `P5-B-B0003-001` — Q: *"...Seshna Likita, the goddess of this land."*, tied as `rules`. `default_effort` correctly calls this `P` (*"'goddess of this land' is domain, not political rule"*), matching the prompt's own stated rule ("P = ... the predicate is stronger than the text" and "'god of X' → has domain"). **Sonnet at low, medium, and high effort all instead called this `U`/REJECT** — over-applying "unsupported" to a case that the prompt's own rules class as partial support, not full rejection. This is a genuine, correctable error, distinct from the anaphora issue, though it showed up less often in the sample.
+
+**(c) Cases where every test run agrees with each other but not the single reference.** `P5-B-B0002-021` — Q: *"...tore the helmet off Grachamagacan the Iron Vampire, King of Tanisor, when Arkat slew it."*, tied as `fights`. `default_effort` calls `U`/REJECT (*"trophy-taking after Arkat's kill, not combat"*). **All four of our test runs (Sonnet low/medium/high, Opus low) independently called this `P`**, matching `subagent_pilot`'s reading, not `default_effort`'s. Four independent runs converging against one reference reads as a defensible alternate interpretation, not a shared model error.
+
+**Bottom line on defensibility:** most of the sampled disagreements are defensible readings of an underspecified anaphora rule, corroborated by the reference files disagreeing with each other at almost the rate our models disagree with either reference. A smaller, real error pattern exists around P-vs-U predicate-strength calls, which is worth watching regardless of which effort tier is chosen. The practical takeaway: the 85% bar, taken literally against one reference file, is close to what the reference-generation process itself can reproduce (~89%) — Sonnet-high (83.3%) and Opus-low (82.0%) are not far off that ceiling, not obviously "failing" in a way a higher effort tier would fix.
+
+## 8. Subagent fallback cost pilot (at user's request)
+
+[to be filled in after the pilot run completes]
+
 ## Conclusion
 
 - Headless path works (signed in, `claude -p` functional, JSON output parses, usage logged).
